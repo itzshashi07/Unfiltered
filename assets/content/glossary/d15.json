@@ -1,0 +1,179 @@
+[
+ {
+  "id": "d15-g1",
+  "domain": "d15",
+  "tracks": [
+   "B",
+   "C",
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "Myth-Busting Basics",
+   "hi": "मिथक तोड़ने के बुनियादी शब्द",
+   "hg": "Myth-Busting ke Basics"
+  },
+  "terms": [
+   {
+    "term": {
+     "en": "Myth",
+     "hi": "मिथक (myth)",
+     "hg": "Myth"
+    },
+    "def": {
+     "en": "A belief that many people repeat as true even though evidence shows it is false or only partly true.",
+     "hi": "ऐसी मान्यता जिसे बहुत से लोग सच मानकर दोहराते हैं, जबकि सबूत बताते हैं कि वह ग़लत है या सिर्फ़ कुछ हद तक सही है।",
+     "hg": "Aisi belief jisse bahut log sach maankar repeat karte hain, jabki evidence batata hai ki woh galat hai ya sirf partly sahi hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Taboo",
+     "hi": "वर्जित विषय (taboo)",
+     "hg": "Taboo"
+    },
+    "def": {
+     "en": "A topic that a society avoids talking about openly, such as periods, which allows wrong ideas about it to spread unchecked.",
+     "hi": "ऐसा विषय जिस पर समाज खुलकर बात करने से बचता है, जैसे पीरियड्स, और इसी वजह से उसके बारे में ग़लत बातें बिना रोक-टोक फैलती रहती हैं।",
+     "hg": "Aisa topic jis pe society openly baat karne se bachti hai, jaise periods, aur isi wajah se uske baare mein galat baatein bina rok-tok phailti rehti hain."
+    }
+   },
+   {
+    "term": {
+     "en": "Stigma",
+     "hi": "कलंक (stigma)",
+     "hg": "Stigma"
+    },
+    "def": {
+     "en": "Unfair shame or negative judgement attached to a person because of a body process, a health condition or who they are.",
+     "hi": "किसी इंसान पर उसके शरीर की किसी प्रक्रिया, सेहत की किसी स्थिति या उसकी पहचान की वजह से थोपी गई बेवजह की शर्म या बुरी राय।",
+     "hg": "Kisi insaan pe uski body ke kisi process, health condition ya uski identity ki wajah se thopi gayi unfair sharam ya negative judgement."
+    }
+   },
+   {
+    "term": {
+     "en": "Menstruation",
+     "hi": "माहवारी (menstruation)",
+     "hg": "Menstruation (periods)"
+    },
+    "def": {
+     "en": "The monthly shedding of the lining of the uterus through the vagina as blood and tissue; also called a period.",
+     "hi": "हर महीने गर्भाशय की परत का ख़ून और ऊतक के रूप में योनि के रास्ते बाहर आना; इसे पीरियड भी कहते हैं।",
+     "hg": "Har mahine uterus ki lining ka blood aur tissue ke roop mein vagina ke raaste bahar aana; isse period bhi bolte hain."
+    }
+   },
+   {
+    "term": {
+     "en": "Nocturnal emission (wet dream)",
+     "hi": "स्वप्नदोष (wet dream)",
+     "hg": "Wet dream (nocturnal emission)"
+    },
+    "def": {
+     "en": "The release of semen from the penis during sleep. It is a normal, uncontrollable part of puberty and not a sign of illness.",
+     "hi": "नींद के दौरान लिंग से वीर्य का निकलना। यह प्यूबर्टी का सामान्य हिस्सा है जिसे रोका नहीं जा सकता, और यह बीमारी की निशानी नहीं है।",
+     "hg": "Neend ke dauraan penis se semen ka nikalna. Yeh puberty ka normal part hai jisse control nahi kiya ja sakta, aur yeh bimari ka sign nahi hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Puberty",
+     "hi": "यौवनारंभ (puberty)",
+     "hg": "Puberty"
+    },
+    "def": {
+     "en": "The years when a child's body gradually changes into an adult body, driven by hormones. It starts at different ages for different people.",
+     "hi": "वे साल जब हार्मोन की वजह से बच्चे का शरीर धीरे-धीरे बड़े इंसान के शरीर में बदलता है। यह अलग-अलग लोगों में अलग-अलग उम्र में शुरू होती है।",
+     "hg": "Woh saal jab hormones ki wajah se bachche ki body dheere-dheere adult body mein badalti hai. Yeh alag-alag logon mein alag-alag age pe start hoti hai."
+    }
+   }
+  ]
+ },
+ {
+  "id": "d15-g2",
+  "domain": "d15",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "Myths Decoded: Key Terms",
+   "hi": "मिथकों की पड़ताल: ज़रूरी शब्द",
+   "hg": "Myths Decoded: Key Terms"
+  },
+  "terms": [
+   {
+    "term": {
+     "en": "Hymen",
+     "hi": "हाइमन (योनिच्छद)",
+     "hg": "Hymen"
+    },
+    "def": {
+     "en": "A thin, stretchy rim of tissue at the opening of the vagina. It varies naturally and cannot show whether someone has had sex.",
+     "hi": "योनि के मुँह पर ऊतक का एक पतला, लचीला घेरा। यह क़ुदरती तौर पर हर किसी में अलग होता है और यह नहीं दिखा सकता कि किसी ने सेक्स किया है या नहीं।",
+     "hg": "Vagina ke opening pe tissue ka ek patla, stretchy rim. Yeh naturally har kisi mein alag hota hai aur yeh nahi dikha sakta ki kisi ne sex kiya hai ya nahi."
+    }
+   },
+   {
+    "term": {
+     "en": "Virginity test",
+     "hi": "कौमार्य परीक्षण (virginity test)",
+     "hg": "Virginity test"
+    },
+    "def": {
+     "en": "Any examination claiming to show whether a person has had sex. It is unscientific and condemned by WHO, and the two-finger test is prohibited by India's Supreme Court.",
+     "hi": "ऐसी कोई भी जाँच जो यह दिखाने का दावा करे कि किसी ने सेक्स किया है या नहीं। यह अवैज्ञानिक है और WHO ने इसकी निंदा की है, और टू-फ़िंगर टेस्ट पर भारत के सुप्रीम कोर्ट ने रोक लगाई है।",
+     "hg": "Aisa koi bhi examination jo yeh dikhane ka claim kare ki kisi ne sex kiya hai ya nahi. Yeh unscientific hai aur WHO ne isse condemn kiya hai, aur two-finger test ko India ke Supreme Court ne prohibit kiya hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Dhat syndrome (dhat anxiety)",
+     "hi": "धात सिंड्रोम (Dhat syndrome), धात की चिंता",
+     "hg": "Dhat syndrome (dhat anxiety)"
+    },
+    "def": {
+     "en": "A recognised, culture-linked worry about losing semen, often with tiredness and guilt. It is not a physical disease and improves with a doctor's help.",
+     "hi": "वीर्य निकलने को लेकर संस्कृति से जुड़ी एक जानी-पहचानी फ़िक्र, जिसके साथ अक्सर थकान और अपराध-बोध होता है। यह शरीर की बीमारी नहीं है और डॉक्टर की मदद से इसमें सुधार होता है।",
+     "hg": "Semen loss ko lekar culture se judi ek recognised worry, jiske saath aksar thakaan aur guilt hota hai. Yeh physical bimari nahi hai aur doctor ki help se isme improvement aata hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Asymptomatic",
+     "hi": "बिना लक्षण वाला (asymptomatic)",
+     "hg": "Asymptomatic"
+    },
+    "def": {
+     "en": "Having an infection without any signs or symptoms. Many STIs are asymptomatic, which is why only testing can confirm them.",
+     "hi": "संक्रमण होना पर उसका कोई संकेत या लक्षण न होना। बहुत से एसटीआई बिना लक्षण के होते हैं, इसीलिए सिर्फ़ जाँच से उनका पता चलता है।",
+     "hg": "Infection hona par uska koi sign ya symptom na hona. Bahut se STIs asymptomatic hote hain, isiliye sirf testing se unka pata chalta hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Emergency contraception",
+     "hi": "इमरजेंसी गर्भनिरोधक (emergency contraception)",
+     "hg": "Emergency contraception (EC)"
+    },
+    "def": {
+     "en": "A method used within 5 days after unprotected sex to prevent pregnancy, mainly by delaying ovulation. It does not end an established pregnancy.",
+     "hi": "असुरक्षित सेक्स के बाद 5 दिन के अंदर गर्भ रोकने के लिए इस्तेमाल किया जाने वाला तरीका, जो मुख्य रूप से ओव्यूलेशन को टालता है। यह ठहर चुके गर्भ को ख़त्म नहीं करता।",
+     "hg": "Unprotected sex ke baad 5 din ke andar pregnancy rokne ke liye use hone wala method, jo mainly ovulation ko delay karta hai. Yeh established pregnancy ko end nahi karta."
+    }
+   },
+   {
+    "term": {
+     "en": "U=U (Undetectable = Untransmittable)",
+     "hi": "U=U (पकड़ में नहीं, तो फैलता नहीं)",
+     "hg": "U=U (Undetectable = Untransmittable)"
+    },
+    "def": {
+     "en": "The finding that a person on HIV treatment whose viral load is undetectable does not pass HIV on through sex.",
+     "hi": "यह तथ्य कि एचआईवी का इलाज ले रहे जिस इंसान का वायरल लोड जाँच में पकड़ में नहीं आता, उससे सेक्स के ज़रिए एचआईवी नहीं फैलता।",
+     "hg": "Yeh finding ki HIV treatment le rahe jis insaan ka viral load undetectable hai, usse sex ke through HIV nahi phailta."
+    }
+   }
+  ]
+ }
+]

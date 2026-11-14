@@ -1,0 +1,232 @@
+[
+ {
+  "id": "d18-m01",
+  "domain": "d18",
+  "tracks": [
+   "A",
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Good children never say no to elders.",
+   "hi": "अच्छे बच्चे बड़ों को कभी 'ना' नहीं कहते।",
+   "hg": "Achhe bacche badon ko kabhi 'no' nahi bolte."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Respecting elders is good. But respect does not mean saying yes to everything. If something feels unsafe, hurts you or has to be kept secret, you can say no, even to an elder. Then tell a grown-up you trust. Saying no does not make you a bad child. And if you could not say no, it is still not your fault.",
+   "hi": "बड़ों का सम्मान करना अच्छी बात है। पर सम्मान का मतलब हर बात पर 'हाँ' कहना नहीं है। अगर कोई बात असुरक्षित लगे, उससे तुम्हें चोट पहुँचे या उसे छिपाकर रखने को कहा जाए, तो तुम 'ना' कह सकते हो, किसी बड़े को भी। फिर किसी भरोसे वाले बड़े को बताओ। 'ना' कहने से तुम बुरे बच्चे नहीं बन जाते। और अगर तुम 'ना' नहीं कह पाए, तब भी यह तुम्हारी ग़लती नहीं है।",
+   "hg": "Badon ki respect karna achhi baat hai. Par respect ka matlab har cheez pe 'yes' bolna nahi hai. Agar koi cheez unsafe lage, usse tumhe hurt ho ya use secret rakhne ko bola jaye, toh tum 'no' bol sakte ho, kisi bade ko bhi. Phir kisi bharose wale bade ko batao. 'No' bolne se tum bure bacche nahi ban jaate. Aur agar tum 'no' nahi bol paaye, tab bhi yeh tumhari galti nahi hai."
+  },
+  "why": {
+   "en": "Children are taught to obey elders because elders usually care for them and know more. So people forget to add that some things are okay to refuse.",
+   "hi": "बच्चों को बड़ों की बात मानना सिखाया जाता है क्योंकि बड़े आम तौर पर उनका ख़याल रखते हैं और ज़्यादा जानते हैं। इसलिए लोग यह जोड़ना भूल जाते हैं कि कुछ बातों को मना करना ठीक है।",
+   "hg": "Bacchon ko badon ki baat maanna sikhaya jata hai kyunki bade usually unka khayal rakhte hain aur zyada jaante hain. Isliye log yeh add karna bhool jaate hain ki kuch cheezon ko mana karna theek hai."
+  },
+  "refs": [
+   "unesco-itgse"
+  ],
+  "lesson": "d18-l01"
+ },
+ {
+  "id": "d18-m02",
+  "domain": "d18",
+  "tracks": [
+   "A",
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Telling a teacher or parent about a problem is 'chugli' (tattling).",
+   "hi": "टीचर या मम्मी-पापा को किसी परेशानी के बारे में बताना चुग़ली है।",
+   "hg": "Teacher ya parents ko kisi problem ke baare mein batana chugli hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Tattling is telling just to get someone into trouble over a small thing. Telling is different. When someone is being hurt, scared, bullied or touched in a wrong way, telling a grown-up is how you get help. That is brave, not chugli.",
+   "hi": "चुग़ली वह है जब किसी छोटी-सी बात पर बस किसी को डाँट पड़वाने के लिए बताया जाए। बताना अलग चीज़ है। जब किसी को चोट पहुँचाई जा रही हो, डराया जा रहा हो, बुली किया जा रहा हो या ग़लत तरीक़े से छुआ जा रहा हो, तो किसी बड़े को बताने से ही मदद मिलती है। यह बहादुरी है, चुग़ली नहीं।",
+   "hg": "Chugli woh hai jab kisi chhoti-si baat pe bas kisi ko daant padwane ke liye bataya jaye. Batana alag cheez hai. Jab kisi ko hurt kiya ja raha ho, daraya ja raha ho, bully kiya ja raha ho ya galat tareeke se touch kiya ja raha ho, toh kisi bade ko batane se hi help milti hai. Yeh bahaduri hai, chugli nahi."
+  },
+  "why": {
+   "en": "Children do not want friends to call them a 'complaint box'. Sometimes grown-ups also say 'don't complain' when they are busy.",
+   "hi": "बच्चे नहीं चाहते कि दोस्त उन्हें 'शिकायती' कहें। कभी-कभी बड़े भी व्यस्त होने पर कह देते हैं 'शिकायत मत करो'।",
+   "hg": "Bacche nahi chahte ki dost unhe 'complaint box' bolein. Kabhi-kabhi bade bhi busy hone pe bol dete hain 'complain mat karo'."
+  },
+  "refs": [
+   "unesco-itgse",
+   "wcd-childline"
+  ],
+  "lesson": "d18-l01"
+ },
+ {
+  "id": "d18-m03",
+  "domain": "d18",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Saying sorry first means you lost the fight.",
+   "hi": "पहले सॉरी कहने का मतलब है कि तुम झगड़ा हार गए।",
+   "hg": "Pehle sorry bolne ka matlab hai tum fight haar gaye."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "An apology is not a scorecard. Saying sorry for your part shows that the friendship matters more to you than winning. It usually lowers the other person's guard and makes them more willing to admit their part. You can apologise for what you did and still explain what hurt you. People who can do both are the ones others trust.",
+   "hi": "माफ़ी कोई स्कोरकार्ड नहीं है। अपने हिस्से की ग़लती के लिए सॉरी कहना दिखाता है कि तुम्हारे लिए जीतने से ज़्यादा दोस्ती मायने रखती है। इससे आम तौर पर सामने वाले की अकड़ ढीली पड़ती है और वह भी अपनी ग़लती मानने को ज़्यादा तैयार होता है। तुम अपने किए के लिए माफ़ी माँगकर भी बता सकते हो कि तुम्हें किस बात से चोट पहुँची। जो लोग ये दोनों काम कर पाते हैं, उन्हीं पर दूसरे भरोसा करते हैं।",
+   "hg": "Apology koi scorecard nahi hai. Apne part ke liye sorry bolna dikhata hai ki tumhare liye jeetne se zyada dosti matter karti hai. Isse usually saamne wale ka guard neeche aata hai aur woh bhi apni galti maanne ko zyada ready hota hai. Tum apne kiye ke liye sorry bolkar bhi bata sakte ho ki tumhe kis baat se hurt hua. Jo log ye dono kar paate hain, unhi pe doosre trust karte hain."
+  },
+  "why": {
+   "en": "Films, games and even family arguments often treat backing down as weakness, so many people learn to wait for the other side to bend first.",
+   "hi": "फ़िल्में, खेल और यहाँ तक कि घर की बहसें भी अक्सर पीछे हटने को कमज़ोरी मानती हैं, इसलिए बहुत से लोग यही सीखते हैं कि पहले सामने वाला झुके।",
+   "hg": "Films, games aur yahan tak ki ghar ki arguments bhi aksar peeche hatne ko weakness maanti hain, isliye bahut log yahi seekhte hain ki pehle saamne wala jhuke."
+  },
+  "refs": [
+   "unesco-itgse"
+  ],
+  "lesson": "d18-l02"
+ },
+ {
+  "id": "d18-m04",
+  "domain": "d18",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "If a health video has millions of views, it must be correct.",
+   "hi": "अगर सेहत के किसी वीडियो पर लाखों-करोड़ों व्यूज़ हैं, तो वह सही ही होगा।",
+   "hg": "Agar kisi health video pe millions views hain, toh woh sahi hi hoga."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Views measure attention, not accuracy. Platforms promote content that people watch and share, and dramatic or frightening claims get shared more than careful ones. Many viral health videos are made by people with no medical training or with something to sell. Judge a claim by who made it, what evidence it gives and whether reliable health sources agree, never by the view count.",
+   "hi": "व्यूज़ ध्यान नापते हैं, सच्चाई नहीं। प्लेटफ़ॉर्म उसी कंटेंट को बढ़ावा देते हैं जिसे लोग देखते और शेयर करते हैं, और नाटकीय या डराने वाले दावे सधे हुए दावों से ज़्यादा शेयर होते हैं। सेहत के बहुत से वायरल वीडियो ऐसे लोग बनाते हैं जिनके पास कोई मेडिकल ट्रेनिंग नहीं होती या जिन्हें कुछ बेचना होता है। किसी दावे को इससे परखो कि उसे किसने बनाया, वह क्या सबूत देता है और क्या भरोसेमंद स्वास्थ्य स्रोत उससे सहमत हैं, व्यूज़ की गिनती से कभी नहीं।",
+   "hg": "Views attention measure karte hain, accuracy nahi. Platforms usi content ko promote karte hain jo log dekhte aur share karte hain, aur dramatic ya darane wale claims careful claims se zyada share hote hain. Bahut saare viral health videos aise log banate hain jinke paas koi medical training nahi hoti ya jinhe kuch bechna hota hai. Kisi claim ko isse judge karo ki use kisne banaya, woh kya evidence deta hai aur kya reliable health sources usse agree karte hain, view count se kabhi nahi."
+  },
+  "why": {
+   "en": "We naturally assume that if so many people watched and liked something, someone must have checked it. Popularity feels like proof, especially when friends forward it too.",
+   "hi": "हम अपने आप मान लेते हैं कि जब इतने लोगों ने कोई चीज़ देखी और पसंद की है, तो किसी ने उसे जाँचा ही होगा। मशहूर होना सबूत जैसा लगता है, ख़ासकर जब दोस्त भी उसे फ़ॉरवर्ड करें।",
+   "hg": "Hum naturally maan lete hain ki jab itne logon ne koi cheez dekhi aur like ki hai, toh kisi ne use check kiya hi hoga. Popularity proof jaisi lagti hai, khaaskar jab dost bhi use forward karein."
+  },
+  "refs": [
+   "unesco-itgse"
+  ],
+  "lesson": "d18-l05"
+ },
+ {
+  "id": "d18-m05",
+  "domain": "d18",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "If you keep asking and they finally say yes, that counts as a real yes.",
+   "hi": "अगर तुम पूछते रहो और आख़िर में वे 'हाँ' कह दें, तो वह असली 'हाँ' गिनी जाएगी।",
+   "hg": "Agar tum poochte raho aur finally woh 'yes' bol dein, toh woh asli 'yes' count hogi."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "A yes given to end nagging, guilt or pressure is giving in, not agreeing. Real agreement is free and willing, and the person could have said no without being punished. Asking once is fine; asking again and again after a no is pressure. If someone says no, the respectful and safe response is to stop asking.",
+   "hi": "ज़िद, अपराध-बोध या दबाव से पीछा छुड़ाने के लिए दी गई 'हाँ' हार मान लेना है, सहमत होना नहीं। असली सहमति आज़ादी और मर्ज़ी से दी जाती है, और उसमें इंसान बिना किसी सज़ा के 'ना' भी कह सकता था। एक बार पूछना ठीक है; 'ना' के बाद बार-बार पूछना दबाव है। अगर कोई 'ना' कहे, तो सम्मान भरा और सुरक्षित जवाब यही है कि पूछना बंद कर दो।",
+   "hg": "Zid, guilt ya pressure se peecha chhudane ke liye di gayi 'yes' haar maan lena hai, agree karna nahi. Asli agreement free aur willing hota hai, aur usme insaan bina kisi punishment ke 'no' bhi bol sakta tha. Ek baar poochna theek hai; 'no' ke baad baar-baar poochna pressure hai. Agar koi 'no' bole, toh respectful aur safe response yahi hai ki poochna band kar do."
+  },
+  "why": {
+   "en": "Films and songs often show a hero who refuses to give up and is rewarded in the end, so persistence gets mistaken for romance or confidence.",
+   "hi": "फ़िल्मों और गानों में अक्सर ऐसा हीरो दिखाया जाता है जो हार नहीं मानता और अंत में उसे इनाम मिलता है, इसलिए पीछे पड़े रहने को रोमांस या आत्मविश्वास समझ लिया जाता है।",
+   "hg": "Films aur songs mein aksar aisa hero dikhaya jata hai jo give up nahi karta aur end mein use reward milta hai, isliye peeche pade rehne ko romance ya confidence samajh liya jata hai."
+  },
+  "refs": [
+   "unesco-itgse",
+   "who-cse"
+  ],
+  "lesson": "d18-l03"
+ },
+ {
+  "id": "d18-m06",
+  "domain": "d18",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "You do not owe anyone an explanation for saying no to something that crosses your boundary.",
+   "hi": "जो बात तुम्हारी सीमा लाँघती है, उसे 'ना' कहने के लिए तुम्हें किसी को सफ़ाई देने की ज़रूरत नहीं।",
+   "hg": "Jo cheez tumhari boundary cross karti hai, use 'no' bolne ke liye tumhe kisi ko explanation dene ki zaroorat nahi."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. 'No' is a complete answer. You may give a reason if you want to, and with people you trust it can help them understand. But your boundary is valid without one, and nobody is entitled to debate it. Long explanations often invite argument, so a short, calm 'No, I'm not comfortable with that' is usually the most effective reply.",
+   "hi": "सही। 'ना' अपने आप में पूरा जवाब है। तुम चाहो तो वजह बता सकते हो, और जिन पर तुम्हें भरोसा है उन्हें इससे समझने में मदद मिल सकती है। पर तुम्हारी सीमा बिना वजह बताए भी जायज़ है, और किसी को उस पर बहस करने का हक़ नहीं। लंबी सफ़ाइयाँ अक्सर बहस को न्योता देती हैं, इसलिए छोटा, शांत 'नहीं, मैं इसमें सहज नहीं हूँ' आम तौर पर सबसे असरदार जवाब होता है।",
+   "hg": "Sahi. 'No' apne aap mein complete answer hai. Tum chaho toh reason de sakte ho, aur jinpe tumhe trust hai unhe isse samajhne mein help mil sakti hai. Par tumhari boundary bina reason ke bhi valid hai, aur kisi ko uspe debate karne ka haq nahi. Lambi explanations aksar argument ko invite karti hain, isliye short, calm 'Nahi, main isme comfortable nahi hoon' usually sabse effective reply hota hai."
+  },
+  "why": {
+   "en": "Many of us are raised to justify every refusal so that nobody feels bad. It can come as a surprise that a polite, firm no without reasons is acceptable.",
+   "hi": "हममें से बहुतों को यही सिखाया गया है कि हर इनकार की वजह बताओ ताकि किसी को बुरा न लगे। इसलिए यह जानकर हैरानी हो सकती है कि बिना वजह बताए, तमीज़ से और मज़बूती से कही गई 'ना' भी ठीक है।",
+   "hg": "Hum mein se bahuton ko yahi sikhaya gaya hai ki har refusal ko justify karo taaki kisi ko bura na lage. Isliye yeh jaankar surprise ho sakta hai ki bina reason ke polite, firm 'no' bhi acceptable hai."
+  },
+  "refs": [
+   "unesco-itgse"
+  ],
+  "lesson": "d18-l03"
+ },
+ {
+  "id": "d18-m07",
+  "domain": "d18",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Whatever you tell a doctor always stays completely secret.",
+   "hi": "डॉक्टर को तुम जो भी बताओ, वह हमेशा पूरी तरह राज़ रहता है।",
+   "hg": "Doctor ko tum jo bhi batao, woh hamesha completely secret rehta hai."
+  },
+  "verdict": "partly",
+  "fact": {
+   "en": "Partly true. Confidentiality is a basic duty of doctors, and they should not share your information casually. But it has limits. If you are under 18, the law requires them to report sexual abuse or sexual activity involving a minor, and a guardian is usually involved in consent. Doctors may also act if there is serious danger to life. You can always ask how your information will be used.",
+   "hi": "कुछ हद तक सही। गोपनीयता डॉक्टरों का बुनियादी फ़र्ज़ है, और उन्हें तुम्हारी जानकारी यूँ ही किसी को नहीं बतानी चाहिए। पर इसकी सीमाएँ हैं। अगर तुम 18 साल से कम के हो, तो क़ानून के मुताबिक़ उन्हें किसी नाबालिग़ के साथ यौन शोषण या यौन गतिविधि की रिपोर्ट करनी होती है, और सहमति में आम तौर पर अभिभावक शामिल होते हैं। जान को गंभीर ख़तरा हो तो भी डॉक्टर क़दम उठा सकते हैं। तुम हमेशा पूछ सकते हो कि तुम्हारी जानकारी का इस्तेमाल कैसे होगा।",
+   "hg": "Partly sahi. Confidentiality doctors ki basic duty hai, aur unhe tumhari information casually share nahi karni chahiye. Par iski limits hain. Agar tum 18 se kam ho, toh law ke hisaab se unhe kisi minor ke saath sexual abuse ya sexual activity report karni hoti hai, aur consent mein usually guardian involved hote hain. Life ko serious danger ho toh bhi doctors action le sakte hain. Tum hamesha pooch sakte ho ki tumhari information kaise use hogi."
+  },
+  "why": {
+   "en": "People hear that doctors must keep secrets, which is broadly right, and assume there are no exceptions. The limits are rarely explained to patients, especially young ones.",
+   "hi": "लोग सुनते हैं कि डॉक्टरों को बातें राज़ रखनी होती हैं, जो मोटे तौर पर सही है, और मान लेते हैं कि इसका कोई अपवाद नहीं। ये सीमाएँ मरीज़ों को, ख़ासकर कम उम्र वालों को, कम ही समझाई जाती हैं।",
+   "hg": "Log sunte hain ki doctors ko baatein secret rakhni hoti hain, jo broadly sahi hai, aur maan lete hain ki iska koi exception nahi. Ye limits patients ko, khaaskar young logon ko, kam hi explain ki jaati hain."
+  },
+  "refs": [
+   "pocso-2012",
+   "nhm-afhc"
+  ],
+  "lesson": "d18-l04"
+ }
+]

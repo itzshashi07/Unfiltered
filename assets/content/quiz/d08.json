@@ -1,0 +1,267 @@
+[
+ {
+  "id": "d08-q01",
+  "domain": "d08",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "type": "mcq",
+  "q": {
+   "en": "Where does fertilisation usually take place?",
+   "hi": "निषेचन आम तौर पर कहाँ होता है?",
+   "hg": "Fertilisation usually kahan hota hai?"
+  },
+  "options": [
+   {
+    "en": "In the vagina",
+    "hi": "योनि में",
+    "hg": "Vagina mein"
+   },
+   {
+    "en": "In the uterus",
+    "hi": "गर्भाशय में",
+    "hg": "Uterus mein"
+   },
+   {
+    "en": "In a fallopian tube",
+    "hi": "फ़ैलोपियन ट्यूब में",
+    "hg": "Fallopian tube mein"
+   },
+   {
+    "en": "In the ovary",
+    "hi": "अंडाशय में",
+    "hg": "Ovary mein"
+   }
+  ],
+  "answer": 2,
+  "explain": {
+   "en": "The egg and sperm usually meet in a fallopian tube. The fertilised egg then travels to the uterus and implants there.",
+   "hi": "अंडा और शुक्राणु आम तौर पर फ़ैलोपियन ट्यूब में मिलते हैं। इसके बाद निषेचित अंडा गर्भाशय तक जाता है और वहाँ जम जाता है।",
+   "hg": "Egg aur sperm usually fallopian tube mein milte hain. Iske baad fertilised egg uterus tak jaata hai aur wahan implant hota hai."
+  }
+ },
+ {
+  "id": "d08-q02",
+  "domain": "d08",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "type": "tf",
+  "q": {
+   "en": "Sperm can stay alive inside the uterus and fallopian tubes for several days.",
+   "hi": "शुक्राणु गर्भाशय और फ़ैलोपियन ट्यूबों के अंदर कई दिन तक ज़िंदा रह सकते हैं।",
+   "hg": "Sperm uterus aur fallopian tubes ke andar kai din tak zinda reh sakte hain."
+  },
+  "options": [
+   {
+    "en": "True",
+    "hi": "सही",
+    "hg": "Sahi"
+   },
+   {
+    "en": "False",
+    "hi": "ग़लत",
+    "hg": "Galat"
+   }
+  ],
+  "answer": 0,
+  "explain": {
+   "en": "Sperm can survive for up to about five days, so intercourse several days before ovulation can still lead to pregnancy.",
+   "hi": "शुक्राणु लगभग पाँच दिन तक ज़िंदा रह सकते हैं, इसलिए ओव्यूलेशन से कई दिन पहले बनाए गए संबंध से भी गर्भ ठहर सकता है।",
+   "hg": "Sperm lagbhag paanch din tak zinda reh sakte hain, isliye ovulation se kai din pehle hue intercourse se bhi pregnancy ho sakti hai."
+  }
+ },
+ {
+  "id": "d08-q03",
+  "domain": "d08",
+  "tracks": [
+   "D"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "type": "mcq",
+  "q": {
+   "en": "Under the MTP Act, what does a person under 18 need for an abortion, in addition to a qualified doctor?",
+   "hi": "MTP क़ानून के तहत, 18 साल से कम उम्र के व्यक्ति को गर्भपात के लिए योग्य डॉक्टर के अलावा और क्या चाहिए?",
+   "hg": "MTP Act ke under, 18 se kam umar ke person ko abortion ke liye qualified doctor ke alawa aur kya chahiye?"
+  },
+  "options": [
+   {
+    "en": "Proof of marriage",
+    "hi": "शादी का सबूत",
+    "hg": "Shaadi ka proof"
+   },
+   {
+    "en": "A court order in every case",
+    "hi": "हर मामले में अदालत का आदेश",
+    "hg": "Har case mein court order"
+   },
+   {
+    "en": "A guardian's written consent",
+    "hi": "अभिभावक की लिखित सहमति",
+    "hg": "Guardian ki written consent"
+   }
+  ],
+  "answer": 2,
+  "explain": {
+   "en": "For a minor, the law requires a guardian's written consent, and POCSO reporting duties apply. Marriage is not a condition.",
+   "hi": "नाबालिग के मामले में क़ानून अभिभावक की लिखित सहमति माँगता है, और पॉक्सो के तहत सूचना देने की ज़िम्मेदारी लागू होती है। शादी कोई शर्त नहीं है।",
+   "hg": "Minor ke case mein law guardian ki written consent maangta hai, aur POCSO ki reporting duties apply hoti hain. Shaadi koi condition nahi hai."
+  }
+ },
+ {
+  "id": "d08-q04",
+  "domain": "d08",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "type": "mcq",
+  "q": {
+   "en": "Which of these is a routine part of prenatal check-ups?",
+   "hi": "इनमें से क्या प्रसव-पूर्व जाँचों का नियमित हिस्सा है?",
+   "hg": "Inme se kya prenatal check-ups ka routine hissa hai?"
+  },
+  "options": [
+   {
+    "en": "Finding out the baby's sex",
+    "hi": "बच्चे का लिंग पता करना",
+    "hg": "Baby ka sex pata karna"
+   },
+   {
+    "en": "Checking blood pressure and testing blood for anaemia",
+    "hi": "ब्लड प्रेशर देखना और ख़ून की कमी के लिए ख़ून की जाँच",
+    "hg": "Blood pressure check karna aur anaemia ke liye blood test"
+   },
+   {
+    "en": "Complete bed rest from the first month",
+    "hi": "पहले महीने से पूरी तरह बिस्तर पर आराम",
+    "hg": "Pehle mahine se complete bed rest"
+   }
+  ],
+  "answer": 1,
+  "explain": {
+   "en": "Blood pressure and anaemia checks catch common, treatable problems early. Sex determination is illegal in India, and routine bed rest is not advised.",
+   "hi": "ब्लड प्रेशर और ख़ून की कमी की जाँच आम और इलाज लायक़ परेशानियों को जल्दी पकड़ लेती है। भारत में लिंग की जाँच ग़ैर-क़ानूनी है, और बिना वजह बिस्तर पर आराम की सलाह नहीं दी जाती।",
+   "hg": "Blood pressure aur anaemia checks common aur treatable problems ko jaldi pakad lete hain. India mein sex determination illegal hai, aur routine bed rest advise nahi kiya jaata."
+  }
+ },
+ {
+  "id": "d08-q05",
+  "domain": "d08",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "type": "mcq",
+  "q": {
+   "en": "How does the World Health Organization define infertility?",
+   "hi": "विश्व स्वास्थ्य संगठन इनफ़र्टिलिटी की परिभाषा कैसे देता है?",
+   "hg": "World Health Organization infertility ko kaise define karta hai?"
+  },
+  "options": [
+   {
+    "en": "No pregnancy after three months of trying",
+    "hi": "तीन महीने कोशिश के बाद भी गर्भ न ठहरना",
+    "hg": "Teen mahine try karne ke baad bhi pregnancy na hona"
+   },
+   {
+    "en": "Not having a child by the age of 30",
+    "hi": "30 साल की उम्र तक बच्चा न होना",
+    "hg": "30 saal ki age tak bachcha na hona"
+   },
+   {
+    "en": "Having irregular periods",
+    "hi": "पीरियड्स का अनियमित होना",
+    "hg": "Periods irregular hona"
+   },
+   {
+    "en": "No pregnancy after 12 months or more of regular unprotected intercourse",
+    "hi": "12 महीने या उससे ज़्यादा नियमित असुरक्षित संबंध के बाद भी गर्भ न ठहरना",
+    "hg": "12 mahine ya usse zyada regular unprotected intercourse ke baad bhi pregnancy na hona"
+   }
+  ],
+  "answer": 3,
+  "explain": {
+   "en": "The definition is based on time spent trying, not on age or on either partner alone, because conception commonly takes months.",
+   "hi": "यह परिभाषा कोशिश में लगे समय पर टिकी है, उम्र पर या अकेले किसी एक पार्टनर पर नहीं, क्योंकि गर्भ ठहरने में अक्सर महीने लगते हैं।",
+   "hg": "Yeh definition try karne mein lage time par based hai, age par ya akele kisi ek partner par nahi, kyunki conceive karne mein aksar mahine lagte hain."
+  }
+ },
+ {
+  "id": "d08-q06",
+  "domain": "d08",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "type": "mcq",
+  "q": {
+   "en": "Under the MTP Act, an abortion up to 20 weeks requires the opinion of whom?",
+   "hi": "MTP क़ानून के तहत, 20 हफ़्ते तक के गर्भपात के लिए किसकी राय ज़रूरी है?",
+   "hg": "MTP Act ke under, 20 hafte tak ke abortion ke liye kiski opinion zaroori hai?"
+  },
+  "options": [
+   {
+    "en": "One registered doctor",
+    "hi": "एक पंजीकृत डॉक्टर की",
+    "hg": "Ek registered doctor ki"
+   },
+   {
+    "en": "Two registered doctors",
+    "hi": "दो पंजीकृत डॉक्टरों की",
+    "hg": "Do registered doctors ki"
+   },
+   {
+    "en": "A Medical Board",
+    "hi": "मेडिकल बोर्ड की",
+    "hg": "Medical Board ki"
+   },
+   {
+    "en": "A court",
+    "hi": "अदालत की",
+    "hg": "Court ki"
+   }
+  ],
+  "answer": 0,
+  "explain": {
+   "en": "One registered doctor's opinion is enough up to 20 weeks. Two doctors are needed from 20 to 24 weeks, and a Medical Board beyond that.",
+   "hi": "20 हफ़्ते तक एक पंजीकृत डॉक्टर की राय काफ़ी है। 20 से 24 हफ़्ते के बीच दो डॉक्टरों की, और उसके बाद मेडिकल बोर्ड की ज़रूरत होती है।",
+   "hg": "20 hafte tak ek registered doctor ki opinion kaafi hai. 20 se 24 hafte ke beech do doctors ki, aur uske baad Medical Board ki zaroorat hoti hai."
+  }
+ }
+]

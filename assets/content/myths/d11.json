@@ -1,0 +1,306 @@
+[
+ {
+  "id": "d11-m01",
+  "domain": "d11",
+  "tracks": [
+   "A",
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Pink is for girls and blue is for boys.",
+   "hi": "गुलाबी रंग लड़कियों का है और नीला लड़कों का।",
+   "hg": "Pink ladkiyon ka colour hai aur blue ladkon ka."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Colours are for everyone. No colour belongs to boys or to girls. The idea that pink is for girls and blue is for boys comes from shops and advertisements, and it has changed over time. Wear and use the colours you like.",
+   "hi": "रंग सबके लिए हैं। कोई रंग लड़कों का या लड़कियों का नहीं होता। गुलाबी लड़कियों का और नीला लड़कों का है, यह सोच दुकानों और विज्ञापनों से आई है, और समय के साथ बदलती रही है। जो रंग तुम्हें पसंद हैं, वही पहनो और इस्तेमाल करो।",
+   "hg": "Colours sabke liye hain. Koi colour ladkon ka ya ladkiyon ka nahi hota. Pink ladkiyon ka aur blue ladkon ka hai, yeh soch shops aur ads se aayi hai, aur time ke saath badalti rahi hai. Jo colours tumhe pasand hain, wahi pehno aur use karo."
+  },
+  "why": {
+   "en": "Shops often keep separate pink and blue shelves for toys and clothes. When children see this everywhere, it starts to feel like a rule.",
+   "hi": "दुकानों में खिलौनों और कपड़ों के लिए अक्सर गुलाबी और नीले शेल्फ़ अलग-अलग रखे जाते हैं। जब बच्चे हर जगह यही देखते हैं, तो यह नियम जैसा लगने लगता है।",
+   "hg": "Shops mein toys aur kapdon ke liye aksar pink aur blue shelves alag-alag rakhe jaate hain. Jab bacche har jagah yahi dekhte hain, toh yeh rule jaisa lagne lagta hai."
+  },
+  "refs": [
+   "unesco-itgse"
+  ],
+  "lesson": "d11-l01"
+ },
+ {
+  "id": "d11-m02",
+  "domain": "d11",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Boys are naturally better at maths and science than girls.",
+   "hi": "लड़के क़ुदरती तौर पर गणित और साइंस में लड़कियों से बेहतर होते हैं।",
+   "hg": "Ladke naturally maths aur science mein ladkiyon se better hote hain."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "No subject belongs to one gender. When girls and boys get the same teaching, encouragement and time to study, their results in maths and science are similar. Gaps appear where girls are told the subject is 'not for them' or are given less time, coaching or confidence. Interest and practice decide who becomes good at maths, not gender.",
+   "hi": "कोई भी विषय किसी एक जेंडर का नहीं है। जब लड़कियों और लड़कों को एक जैसी पढ़ाई, हौसला और पढ़ने का समय मिलता है, तो गणित और साइंस में उनके नतीजे मिलते-जुलते होते हैं। फ़र्क़ वहाँ दिखता है जहाँ लड़कियों से कहा जाता है कि यह विषय 'उनके बस का नहीं', या उन्हें कम समय, कम कोचिंग या कम भरोसा मिलता है। गणित में कौन अच्छा बनेगा, यह रुचि और अभ्यास तय करते हैं, जेंडर नहीं।",
+   "hg": "Koi bhi subject kisi ek gender ka nahi hai. Jab ladkiyon aur ladkon ko same teaching, encouragement aur padhne ka time milta hai, toh maths aur science mein unke results milte-julte hote hain. Gap wahan dikhta hai jahan ladkiyon ko bola jata hai ki yeh subject 'unke liye nahi hai', ya unhe kam time, kam coaching ya kam confidence milta hai. Maths mein kaun achha banega, yeh interest aur practice decide karte hain, gender nahi."
+  },
+  "why": {
+   "en": "Most famous scientists in textbooks and films are men, and many families still push sons toward engineering and daughters toward 'safer' choices. Seeing this repeated makes it look natural.",
+   "hi": "किताबों और फ़िल्मों में ज़्यादातर मशहूर वैज्ञानिक पुरुष दिखते हैं, और कई परिवार आज भी बेटों को इंजीनियरिंग की ओर और बेटियों को 'सुरक्षित' विकल्पों की ओर धकेलते हैं। बार-बार यही देखकर यह क़ुदरती लगने लगता है।",
+   "hg": "Textbooks aur films mein zyadatar famous scientists men dikhte hain, aur kai families aaj bhi beton ko engineering ki taraf aur betiyon ko 'safe' options ki taraf push karti hain. Baar-baar yahi dekhkar yeh natural lagne lagta hai."
+  },
+  "refs": [
+   "unesco-itgse"
+  ],
+  "lesson": "d11-l02"
+ },
+ {
+  "id": "d11-m03",
+  "domain": "d11",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "trans_nb",
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Being gay or transgender is a mental illness or a 'Western' trend.",
+   "hi": "गे या ट्रांसजेंडर होना मानसिक बीमारी है या 'पश्चिम' से आया फ़ैशन है।",
+   "hg": "Gay ya transgender hona mental illness hai ya 'Western' trend hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "It is neither. The World Health Organization does not classify being gay, lesbian, bisexual or transgender as a mental disorder. People of diverse orientations and genders have existed in every society and period, including in South Asia, where communities such as hijra and kinnar are centuries old. What is recent is people being able to speak about it openly.",
+   "hi": "यह दोनों में से कुछ भी नहीं है। विश्व स्वास्थ्य संगठन (WHO) गे, लेस्बियन, बाइसेक्शुअल या ट्रांसजेंडर होने को मानसिक विकार नहीं मानता। अलग-अलग रुझान और जेंडर के लोग हर समाज और हर दौर में रहे हैं, दक्षिण एशिया में भी, जहाँ हिजड़ा और किन्नर जैसे समुदाय सदियों पुराने हैं। नया सिर्फ़ यह है कि अब लोग इस पर खुलकर बात कर पा रहे हैं।",
+   "hg": "Yeh dono mein se kuch bhi nahi hai. World Health Organization (WHO) gay, lesbian, bisexual ya transgender hone ko mental disorder nahi maanta. Alag-alag orientations aur genders ke log har society aur har daur mein rahe hain, South Asia mein bhi, jahan hijra aur kinnar jaise communities sadiyon purane hain. Naya sirf yeh hai ki ab log ispe openly baat kar pa rahe hain."
+  },
+  "why": {
+   "en": "For a long time these topics were hidden, and older laws and outdated medical books treated them as a problem. When people first notice openness on social media, it can look like a new trend.",
+   "hi": "लंबे समय तक ये बातें छिपाकर रखी गईं, और पुराने क़ानूनों और पुरानी मेडिकल किताबों ने इन्हें समस्या की तरह देखा। जब लोग पहली बार सोशल मीडिया पर खुलापन देखते हैं, तो यह नया चलन जैसा लग सकता है।",
+   "hg": "Lambe time tak ye topics chhupa ke rakhe gaye, aur purane laws aur outdated medical books ne inhe problem ki tarah treat kiya. Jab log pehli baar social media pe openness dekhte hain, toh yeh naya trend jaisa lag sakta hai."
+  },
+  "refs": [
+   "who-sexual-health",
+   "unesco-itgse"
+  ],
+  "lesson": "d11-l03"
+ },
+ {
+  "id": "d11-m04",
+  "domain": "d11",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "trans_nb",
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "You can tell if someone is gay or transgender by the way they dress, walk or talk.",
+   "hi": "किसी के कपड़ों, चाल या बोलने के ढंग से पता चल जाता है कि वह गे या ट्रांसजेंडर है।",
+   "hg": "Kisi ke kapdon, chaal ya bolne ke style se pata chal jata hai ki woh gay ya transgender hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "You cannot. Clothing, voice, hobbies and mannerisms are gender expression, which is separate from sexual orientation and gender identity. A soft-spoken boy may be straight; a sporty girl may be straight; a gay or transgender person may look exactly the way you expect a 'typical' boy or girl to look. Guessing is unreliable and often hurtful. The only way to know is if the person chooses to tell you.",
+   "hi": "नहीं चल सकता। कपड़े, आवाज़, शौक़ और हाव-भाव जेंडर अभिव्यक्ति हैं, जो यौन रुझान और जेंडर पहचान से अलग चीज़ है। धीमे बोलने वाला लड़का स्ट्रेट हो सकता है; खेल-कूद वाली लड़की स्ट्रेट हो सकती है; और कोई गे या ट्रांसजेंडर इंसान बिल्कुल वैसा दिख सकता है जैसा तुम किसी 'आम' लड़के या लड़की को सोचते हो। अंदाज़ा लगाना भरोसे लायक़ नहीं होता और अक्सर चोट पहुँचाता है। जानने का एक ही तरीक़ा है कि वह इंसान ख़ुद तुम्हें बताना चाहे।",
+   "hg": "Nahi chal sakta. Kapde, awaaz, hobbies aur mannerisms gender expression hain, jo sexual orientation aur gender identity se alag cheez hai. Soft-spoken ladka straight ho sakta hai; sporty ladki straight ho sakti hai; aur koi gay ya transgender insaan bilkul waisa dikh sakta hai jaisa tum kisi 'typical' ladke ya ladki ko sochte ho. Guess karna unreliable hota hai aur aksar hurt karta hai. Jaanne ka ek hi tareeka hai ki woh insaan khud tumhe batana chahe."
+  },
+  "why": {
+   "en": "Films and comedy shows often use one exaggerated type of character to show gay or transgender people. When that is the only picture people see, they start using it as a checklist.",
+   "hi": "फ़िल्में और कॉमेडी शो अक्सर गे या ट्रांसजेंडर लोगों को दिखाने के लिए एक ही बढ़ा-चढ़ाकर बनाया गया किरदार इस्तेमाल करते हैं। जब लोगों को बस वही तस्वीर दिखती है, तो वे उसे चेकलिस्ट की तरह इस्तेमाल करने लगते हैं।",
+   "hg": "Films aur comedy shows aksar gay ya transgender logon ko dikhane ke liye ek hi exaggerated type ka character use karte hain. Jab logon ko bas wahi picture dikhti hai, toh woh use checklist ki tarah use karne lagte hain."
+  },
+  "refs": [
+   "unesco-itgse"
+  ],
+  "lesson": "d11-l03"
+ },
+ {
+  "id": "d11-m05",
+  "domain": "d11",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "intersex"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Some people are born with bodies that are not typically male or female.",
+   "hi": "कुछ लोग ऐसे शरीर के साथ पैदा होते हैं जो पुरुष या स्त्री की आम परिभाषा में फ़िट नहीं होता।",
+   "hg": "Kuch log aisi body ke saath paida hote hain jo male ya female ki typical definition mein fit nahi hoti."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. These are called intersex variations. A person may have chromosomes, hormones, internal organs or genitals that do not fit the typical definitions of male or female. Some variations are visible at birth, some appear at puberty and some are found only by chance. They are natural variations, not illnesses, though a few need medical care for specific health reasons. Intersex people can be of any gender and any orientation.",
+   "hi": "सही। इन्हें इंटरसेक्स भिन्नताएँ कहते हैं। किसी इंसान के क्रोमोसोम, हार्मोन, अंदरूनी अंग या जननांग ऐसे हो सकते हैं जो पुरुष या स्त्री की आम परिभाषा में फ़िट नहीं होते। कुछ भिन्नताएँ जन्म के समय दिख जाती हैं, कुछ प्यूबर्टी में सामने आती हैं और कुछ का पता बस संयोग से चलता है। ये क़ुदरती भिन्नताएँ हैं, बीमारियाँ नहीं, हालाँकि कुछ में सेहत से जुड़ी ख़ास वजहों से मेडिकल देखभाल की ज़रूरत पड़ती है। इंटरसेक्स लोग किसी भी जेंडर और किसी भी रुझान के हो सकते हैं।",
+   "hg": "Sahi. Inhe intersex variations kehte hain. Kisi insaan ke chromosomes, hormones, internal organs ya genitals aise ho sakte hain jo male ya female ki typical definition mein fit nahi hote. Kuch variations birth pe dikh jaati hain, kuch puberty mein saamne aati hain aur kuch ka pata bas chance se chalta hai. Ye natural variations hain, bimaariyan nahi, haalanki kuch mein specific health reasons se medical care ki zaroorat padti hai. Intersex log kisi bhi gender aur kisi bhi orientation ke ho sakte hain."
+  },
+  "why": {
+   "en": "School biology usually teaches only XX and XY, and families often keep intersex variations secret out of fear of gossip, so most people never hear that such bodies exist.",
+   "hi": "स्कूल की बायोलॉजी में आम तौर पर सिर्फ़ XX और XY पढ़ाया जाता है, और परिवार लोगों की बातों के डर से इंटरसेक्स भिन्नताओं को अक्सर छिपाकर रखते हैं, इसलिए ज़्यादातर लोगों ने कभी सुना ही नहीं कि ऐसे शरीर भी होते हैं।",
+   "hg": "School biology mein usually sirf XX aur XY padhaya jata hai, aur families logon ki baaton ke darr se intersex variations ko aksar secret rakhti hain, isliye zyadatar logon ne kabhi suna hi nahi ki aisi bodies bhi hoti hain."
+  },
+  "refs": [
+   "who-sexual-health",
+   "unesco-itgse"
+  ],
+  "lesson": "d11-l03"
+ },
+ {
+  "id": "d11-m06",
+  "domain": "d11",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Counselling, medicines or marriage can turn a gay person straight.",
+   "hi": "काउंसलिंग, दवाइयों या शादी से गे इंसान स्ट्रेट हो सकता है।",
+   "hg": "Counselling, medicines ya shaadi se gay insaan straight ho sakta hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Nothing can, because there is nothing to fix. Attempts to change orientation or gender identity, often called conversion therapy, have no scientific basis and are linked to depression, anxiety and suicidal thoughts. In India they are treated as professional misconduct for doctors. Pushing someone into marriage does not change their orientation either; it places two people in an unhappy and dishonest situation.",
+   "hi": "किसी चीज़ से नहीं हो सकता, क्योंकि ठीक करने जैसा कुछ है ही नहीं। रुझान या जेंडर पहचान बदलने की कोशिशों, जिन्हें अक्सर कन्वर्ज़न थेरेपी कहा जाता है, का कोई वैज्ञानिक आधार नहीं है और इनका संबंध डिप्रेशन, घबराहट और आत्महत्या के ख़यालों से पाया गया है। भारत में डॉक्टरों के लिए इन्हें पेशेवर कदाचार माना जाता है। किसी को शादी में धकेलने से भी उसका रुझान नहीं बदलता; इससे दो लोग एक दुखी और झूठ पर टिकी स्थिति में फँस जाते हैं।",
+   "hg": "Kisi cheez se nahi ho sakta, kyunki fix karne jaisa kuch hai hi nahi. Orientation ya gender identity badalne ki koshishon, jinhe aksar conversion therapy kehte hain, ka koi scientific basis nahi hai aur inka link depression, anxiety aur suicidal thoughts se paya gaya hai. India mein doctors ke liye inhe professional misconduct maana jata hai. Kisi ko shaadi mein dhakelne se bhi uski orientation nahi badalti; isse do log ek unhappy aur jhooth pe tiki situation mein phans jaate hain."
+  },
+  "why": {
+   "en": "Parents often panic about society, marriage and their child's future, and some practitioners exploit that fear by selling a 'cure'. The hope usually comes from love mixed with misinformation.",
+   "hi": "माता-पिता अक्सर समाज, शादी और बच्चे के भविष्य को लेकर घबरा जाते हैं, और कुछ लोग 'इलाज' बेचकर इस डर का फ़ायदा उठाते हैं। यह उम्मीद आम तौर पर प्यार और ग़लत जानकारी के मेल से पैदा होती है।",
+   "hg": "Parents aksar society, shaadi aur bacche ke future ko lekar panic kar jaate hain, aur kuch practitioners 'cure' bechkar is darr ka fayda uthate hain. Yeh umeed usually pyaar aur misinformation ke mix se aati hai."
+  },
+  "refs": [
+   "who-adolescent-mh",
+   "unesco-itgse"
+  ],
+  "lesson": "d11-l04"
+ },
+ {
+  "id": "d11-m07",
+  "domain": "d11",
+  "tracks": [
+   "B",
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Gender stereotypes harm boys and men too.",
+   "hi": "जेंडर स्टीरियोटाइप लड़कों और पुरुषों को भी नुक़सान पहुँचाते हैं।",
+   "hg": "Gender stereotypes ladkon aur men ko bhi harm karte hain."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. Rules like 'boys don't cry' and 'men must earn and never be afraid' teach boys to hide sadness and avoid asking for help. Boys are also laughed at for liking art, dance, cooking or caring work. Stereotypes limit girls in different ways, such as fewer freedoms and chances, but everyone loses when a person is forced into a box. Equality gives boys more room too.",
+   "hi": "सही। 'लड़के रोते नहीं' और 'मर्द को कमाना है और कभी डरना नहीं है' जैसे नियम लड़कों को उदासी छिपाना और मदद माँगने से बचना सिखाते हैं। कला, डांस, खाना बनाने या देखभाल के काम को पसंद करने पर भी लड़कों का मज़ाक़ उड़ता है। स्टीरियोटाइप लड़कियों को अलग ढंग से रोकते हैं, जैसे कम आज़ादी और कम मौक़े, पर जब किसी को डिब्बे में ज़बरदस्ती बंद किया जाता है तो नुक़सान सबका होता है। बराबरी से लड़कों को भी ज़्यादा खुली जगह मिलती है।",
+   "hg": "Sahi. 'Ladke rote nahi' aur 'mard ko kamana hai aur kabhi darna nahi hai' jaise rules ladkon ko sadness chhupana aur help maangne se bachna sikhate hain. Art, dance, cooking ya caring work pasand karne pe bhi ladkon ka mazaak udta hai. Stereotypes ladkiyon ko alag tareeke se limit karte hain, jaise kam freedom aur kam chances, par jab kisi ko box mein zabardasti daala jata hai toh nuksaan sabka hota hai. Equality se ladkon ko bhi zyada space milti hai."
+  },
+  "why": {
+   "en": "Talk about gender usually focuses on unfairness to girls and women, which is real and serious. Because boys appear to have more freedom, the pressure on them is less visible.",
+   "hi": "जेंडर पर होने वाली बातचीत आम तौर पर लड़कियों और महिलाओं के साथ होने वाली नाइंसाफ़ी पर टिकी रहती है, जो असली और गंभीर है। लड़कों के पास ज़्यादा आज़ादी दिखती है, इसलिए उन पर पड़ने वाला दबाव कम नज़र आता है।",
+   "hg": "Gender ki baat usually ladkiyon aur women ke saath hone wali unfairness pe focus karti hai, jo real aur serious hai. Ladkon ke paas zyada freedom dikhti hai, isliye unpe padne wala pressure kam nazar aata hai."
+  },
+  "refs": [
+   "unesco-itgse",
+   "who-cse"
+  ],
+  "lesson": "d11-l02"
+ },
+ {
+  "id": "d11-m08",
+  "domain": "d11",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "vulva_vaginal"
+  ],
+  "claim": {
+   "en": "A small 'nick' on a girl's genitals is harmless, especially if a doctor does it.",
+   "hi": "लड़की के जननांग पर छोटा-सा 'कट' लगाने से कोई नुक़सान नहीं होता, ख़ासकर अगर डॉक्टर करे।",
+   "hg": "Ladki ke genitals pe chhota sa 'nick' lagane se koi harm nahi hota, khaaskar agar doctor kare."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "WHO classifies every form of female genital cutting as harmful, including pricking or small cuts, because it injures healthy tissue for no medical reason and is done to a child who cannot consent. A clinic may lower the risk of infection, but it does not remove the pain, possible scarring, later sexual or emotional effects, or the violation itself. WHO asks health workers never to perform it.",
+   "hi": "WHO महिला जननांग काटने के हर रूप को नुक़सानदेह मानता है, जिसमें चुभोना या छोटे कट भी शामिल हैं, क्योंकि इसमें बिना किसी मेडिकल कारण के स्वस्थ ऊतक को चोट पहुँचाई जाती है और यह ऐसे बच्चे के साथ होता है जो सहमति नहीं दे सकता। क्लिनिक में संक्रमण का ख़तरा कम हो सकता है, पर इससे दर्द, निशान पड़ने की आशंका, आगे चलकर सेक्स या भावनाओं पर पड़ने वाला असर, या ख़ुद यह ज़्यादती ख़त्म नहीं होती। WHO स्वास्थ्यकर्मियों से कहता है कि वे इसे कभी न करें।",
+   "hg": "WHO female genital cutting ke har form ko harmful maanta hai, jisme pricking ya chhote cuts bhi shaamil hain, kyunki isme bina kisi medical reason ke healthy tissue ko injure kiya jata hai aur yeh aise bacche ke saath hota hai jo consent nahi de sakta. Clinic mein infection ka risk kam ho sakta hai, par isse dard, scarring ka chance, baad ke sexual ya emotional effects, ya khud yeh violation khatam nahi hota. WHO health workers se kehta hai ki woh isse kabhi na karein."
+  },
+  "why": {
+   "en": "Families who want to keep a custom while lowering the risk see a 'mild' procedure in a clinic as a caring compromise, and a medical setting makes it look like healthcare.",
+   "hi": "जो परिवार रिवाज भी निभाना चाहते हैं और जोखिम भी कम करना चाहते हैं, उन्हें क्लिनिक में 'हल्की' प्रक्रिया एक समझदारी भरा बीच का रास्ता लगती है, और मेडिकल माहौल में यह इलाज जैसी दिखने लगती है।",
+   "hg": "Jo families custom bhi nibhana chahti hain aur risk bhi kam karna chahti hain, unhe clinic mein 'mild' procedure ek caring compromise lagta hai, aur medical setting mein yeh healthcare jaisa dikhne lagta hai."
+  },
+  "refs": [
+   "who-fgm"
+  ],
+  "lesson": "d11-l06"
+ },
+ {
+  "id": "d11-m09",
+  "domain": "d11",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "vulva_vaginal"
+  ],
+  "claim": {
+   "en": "Female genital cutting is banned by law in India.",
+   "hi": "भारत में महिला जननांग काटने (ख़तना) पर क़ानूनी रोक है।",
+   "hg": "India mein female genital cutting (khatna) law se banned hai."
+  },
+  "verdict": "partly",
+  "fact": {
+   "en": "Partly. India has no law that names or specifically bans female genital cutting, unlike many other countries. That does not make it clearly lawful: the government has told the Supreme Court that general offences of causing hurt and the child-protection law POCSO can apply when a girl is cut, and a challenge to the practice has been pending before the Court. The position is unsettled, so check the current law with a lawyer.",
+   "hi": "कुछ हद तक। भारत में ऐसा कोई क़ानून नहीं है जो महिला जननांग काटने का नाम लेकर उस पर ख़ास तौर से रोक लगाए, जैसा कई दूसरे देशों में है। पर इससे यह साफ़ तौर पर वैध नहीं हो जाता: सरकार ने सुप्रीम कोर्ट में कहा है कि जब किसी लड़की को काटा जाता है तो चोट पहुँचाने के आम अपराध और बच्चों की सुरक्षा का क़ानून पॉक्सो लागू हो सकते हैं, और इस प्रथा को दी गई चुनौती कोर्ट में लंबित रही है। स्थिति अभी तय नहीं है, इसलिए मौजूदा क़ानून वकील से जाँच लो।",
+   "hg": "Partly. India mein aisa koi law nahi hai jo female genital cutting ka naam lekar use specifically ban kare, jaisa kai doosri countries mein hai. Par isse yeh clearly lawful nahi ho jata: government ne Supreme Court mein kaha hai ki jab kisi ladki ko cut kiya jata hai toh hurt pahunchane ke general offences aur child-protection law POCSO apply ho sakte hain, aur is practice ko diya gaya challenge Court mein pending raha hai. Position abhi settled nahi hai, isliye current law lawyer se check kar lo."
+  },
+  "why": {
+   "en": "People assume that a practice condemned by WHO must already be illegal everywhere, or assume the opposite because they have never heard of a case. Both guesses come from how rarely the subject is discussed openly.",
+   "hi": "लोग मान लेते हैं कि जिस प्रथा की WHO निंदा करता है वह हर जगह पहले से ग़ैर-क़ानूनी होगी, या इसका उल्टा मान लेते हैं क्योंकि उन्होंने कभी कोई मामला सुना ही नहीं। दोनों अंदाज़े इसलिए बनते हैं कि इस विषय पर खुलकर बात बहुत कम होती है।",
+   "hg": "Log maan lete hain ki jis practice ko WHO condemn karta hai woh har jagah pehle se illegal hogi, ya iska ulta maan lete hain kyunki unhone kabhi koi case suna hi nahi. Dono guesses isliye bante hain ki is topic pe openly baat bahut kam hoti hai."
+  },
+  "refs": [
+   "who-fgm",
+   "pocso-2012"
+  ],
+  "lesson": "d11-l06"
+ }
+]

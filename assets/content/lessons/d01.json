@@ -1,0 +1,1295 @@
+[
+ {
+  "id": "d01-l01",
+  "domain": "d01",
+  "tracks": [
+   "A"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 1,
+  "minutes": 3,
+  "unesco": [
+   6,
+   4
+  ],
+  "title": {
+   "en": "My Body, Real Names",
+   "hi": "मेरा शरीर, असली नाम",
+   "hg": "Meri Body, Asli Naam"
+  },
+  "subtitle": {
+   "en": "Every body part has a proper name",
+   "hi": "शरीर के हर हिस्से का एक सही नाम होता है",
+   "hg": "Body ke har part ka ek sahi naam hota hai"
+  },
+  "hook": {
+   "en": "You know your nose, your knees and your toes. Now let's learn the real names of all your body parts!",
+   "hi": "नाक, घुटने और पैर की उँगलियों के नाम तो तुम्हें पता हैं। चलो, अब शरीर के सभी हिस्सों के असली नाम सीखें!",
+   "hg": "Naak, ghutne aur pair ki ungliyon ke naam toh tumhe pata hain. Chalo, ab body ke saare parts ke asli naam seekhte hain!"
+  },
+  "objectives": [
+   {
+    "en": "Say the correct names of body parts, including private parts.",
+    "hi": "शरीर के हिस्सों के सही नाम बोलना, निजी अंगों के भी।",
+    "hg": "Body parts ke sahi naam bolna, private parts ke bhi."
+   },
+   {
+    "en": "Understand that your body belongs to you and private parts are private.",
+    "hi": "समझना कि तुम्हारा शरीर तुम्हारा है और निजी अंग निजी होते हैं।",
+    "hg": "Samajhna ki tumhari body tumhari hai aur private parts private hote hain."
+   },
+   {
+    "en": "Know which grown-ups to tell if something feels wrong.",
+    "hi": "जानना कि कुछ ग़लत लगे तो किन बड़ों को बताना है।",
+    "hg": "Jaanna ki kuch galat lage toh kin bade logon ko batana hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Your body is amazing",
+     "hi": "तुम्हारा शरीर कमाल का है",
+     "hg": "Tumhari body kamaal ki hai"
+    },
+    "body": {
+     "en": "Your body has many parts. Outside there are eyes, ears, arms, legs and skin. Inside, your heart pumps blood, your lungs help you breathe and your bones hold you up. Bodies can be tall or short, dark or fair. Some people wear glasses or use a wheelchair. Every body is a good body.",
+     "hi": "तुम्हारे शरीर में बहुत सारे हिस्से हैं। बाहर आँखें, कान, हाथ, पैर और त्वचा हैं। अंदर दिल ख़ून पंप करता है, फेफड़े साँस लेने में मदद करते हैं और हड्डियाँ तुम्हें सीधा खड़ा रखती हैं। कोई लंबा होता है, कोई छोटा, कोई साँवला, कोई गोरा। कोई चश्मा लगाता है, कोई व्हीलचेयर पर चलता है। हर शरीर अच्छा शरीर है।",
+     "hg": "Tumhari body mein bahut saare parts hain. Bahar aankhein, kaan, haath, pair aur skin hain. Andar dil khoon pump karta hai, lungs saans lene mein help karte hain aur haddiyan tumhe seedha khada rakhti hain. Koi lamba hota hai, koi chhota, koi saanwla, koi gora. Koi chashma lagata hai, koi wheelchair use karta hai. Har body ek achhi body hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Private parts have real names too",
+     "hi": "निजी अंगों के भी असली नाम होते हैं",
+     "hg": "Private parts ke bhi asli naam hote hain"
+    },
+    "body": {
+     "en": "Some parts of your body are covered by your underwear. These are called private parts. Most boys have a penis and testicles. Most girls have a vulva. Everyone has a bottom and nipples. These are proper names, just like elbow or knee. Saying them is not rude or dirty.",
+     "hi": "शरीर के कुछ हिस्से अंडरवियर से ढके रहते हैं। इन्हें निजी अंग (private parts) कहते हैं। ज़्यादातर लड़कों के पास लिंग (penis) और अंडकोष (testicles) होते हैं। ज़्यादातर लड़कियों के पास वल्वा (vulva) होती है। सबके पास नितंब (bottom) और निप्पल होते हैं। ये सही नाम हैं, जैसे कोहनी या घुटना। इन्हें बोलना गंदी बात नहीं है।",
+     "hg": "Body ke kuch parts underwear se dhake rehte hain. Inhe private parts kehte hain. Zyadatar ladkon ke paas penis aur testicles hote hain. Zyadatar ladkiyon ke paas vulva hoti hai. Sabke paas bottom aur nipples hote hain. Yeh sahi naam hain, jaise kohni ya ghutna. Inhe bolna gandi baat nahi hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Private means private",
+     "hi": "निजी का मतलब निजी",
+     "hg": "Private matlab private"
+    },
+    "body": {
+     "en": "Your body belongs to you. Nobody should touch, look at or take photos of your private parts. A parent may help you bathe while you are small. A doctor may check you when you are unwell, with your parent beside you. Nobody should show you their private parts or ask you to touch theirs.",
+     "hi": "तुम्हारा शरीर तुम्हारा है। किसी को भी तुम्हारे निजी अंगों को छूना, देखना या उनकी फ़ोटो लेना नहीं चाहिए। जब तक तुम छोटे हो, मम्मी-पापा नहलाने में मदद कर सकते हैं। बीमार होने पर डॉक्टर जाँच कर सकते हैं, और तब मम्मी या पापा तुम्हारे साथ रहेंगे। कोई भी तुम्हें अपने निजी अंग न दिखाए, और न ही तुमसे उन्हें छूने को कहे।",
+     "hg": "Tumhari body tumhari hai. Koi bhi tumhare private parts ko touch nahi kar sakta, dekh nahi sakta aur unki photo nahi le sakta. Jab tak tum chhote ho, mummy-papa nehlane mein help kar sakte hain. Bimaar hone par doctor check kar sakte hain, aur tab mummy ya papa saath rahenge. Koi bhi tumhe apne private parts nahi dikha sakta, aur na hi tumse unhe touch karne ko bol sakta hai."
+    }
+   },
+   {
+    "h": {
+     "en": "If something feels wrong, tell",
+     "hi": "कुछ ग़लत लगे तो बताओ",
+     "hg": "Kuch galat lage toh batao"
+    },
+    "body": {
+     "en": "If anyone breaks the private parts rules, or any touch makes you feel scared, confused or yucky, say NO, move away and tell a grown-up you trust, like Mummy, Papa, Dadi or your teacher. Tell even if it was someone you like, or they said it is a secret. It is never your fault. Keep telling until someone helps you.",
+     "hi": "अगर कोई निजी अंगों वाले नियम तोड़े, या किसी के छूने से डर लगे, अजीब लगे या बुरा लगे, तो ज़ोर से 'नहीं' बोलो, वहाँ से हट जाओ और किसी भरोसेमंद बड़े को बताओ, जैसे मम्मी, पापा, दादी या टीचर। वह कोई ऐसा हो जो तुम्हें अच्छा लगता है, या उसने कहा हो कि यह सीक्रेट है, तब भी बताओ। इसमें तुम्हारी कोई ग़लती नहीं है। जब तक कोई मदद न करे, बताते रहो।",
+     "hg": "Agar koi private parts wale rules tode, ya kisi ke touch se darr lage, ajeeb lage ya bura lage, toh zor se NO bolo, wahan se hat jao aur kisi trusted bade ko batao, jaise Mummy, Papa, Dadi ya teacher. Woh koi aisa ho jo tumhe achha lagta hai, ya usne bola ho ki yeh secret hai, tab bhi batao. Isme tumhari koi galti nahi hai. Jab tak koi help na kare, batate raho."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Words like penis and vulva are bad words.",
+    "hi": "लिंग (penis) और वल्वा (vulva) जैसे शब्द गंदे शब्द हैं।",
+    "hg": "Penis aur vulva jaise words gande words hain."
+   },
+   "fact": {
+    "en": "They are the correct names of body parts, just like hand or nose. Knowing them helps you tell a parent or doctor exactly where something hurts.",
+    "hi": "ये शरीर के हिस्सों के सही नाम हैं, जैसे हाथ या नाक। ये नाम पता हों तो तुम मम्मी-पापा या डॉक्टर को ठीक-ठीक बता सकते हो कि दर्द कहाँ है।",
+    "hg": "Yeh body parts ke sahi naam hain, jaise haath ya naak. Yeh naam pata hon toh tum mummy-papa ya doctor ko exactly bata sakte ho ki dard kahan hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Every body part has a real name, and it is okay to say it.",
+    "hi": "शरीर के हर हिस्से का एक असली नाम है, और उसे बोलना ठीक है।",
+    "hg": "Body ke har part ka ek asli naam hai, aur use bolna bilkul theek hai."
+   },
+   {
+    "en": "Private parts are the parts under your underwear, and they belong only to you.",
+    "hi": "निजी अंग वे हिस्से हैं जो अंडरवियर के नीचे रहते हैं, और वे सिर्फ़ तुम्हारे हैं।",
+    "hg": "Private parts woh parts hain jo underwear ke neeche rehte hain, aur woh sirf tumhare hain."
+   },
+   {
+    "en": "If anyone breaks the private parts rules or a touch feels wrong, say no, move away and tell a trusted grown-up.",
+    "hi": "अगर कोई निजी अंगों वाले नियम तोड़े या कोई छूना ग़लत लगे, तो 'नहीं' बोलो, दूर हट जाओ और किसी भरोसेमंद बड़े को बताओ।",
+    "hg": "Agar koi private parts wale rules tode ya koi touch galat lage, toh NO bolo, door hat jao aur kisi trusted bade ko batao."
+   }
+  ],
+  "activity": {
+   "en": "With a parent or guardian, draw the outline of a body and name ten body parts together. Then say the names of three grown-ups you can tell if something ever feels wrong.",
+   "hi": "मम्मी, पापा या घर के किसी बड़े के साथ शरीर का एक चित्र बनाओ और मिलकर दस हिस्सों के नाम लिखो। फिर ऐसे तीन बड़ों के नाम बताओ जिन्हें तुम कुछ ग़लत लगने पर बता सकते हो।",
+   "hg": "Mummy, papa ya ghar ke kisi bade ke saath body ka outline draw karo aur milkar das parts ke naam likho. Phir aise teen bade logon ke naam batao jinhe tum kuch galat lagne par bata sakte ho."
+  },
+  "interactive": "body_lab",
+  "quiz": [
+   {
+    "id": "d01-l01-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Which parts of the body are called private parts?",
+     "hi": "शरीर के किन हिस्सों को निजी अंग कहते हैं?",
+     "hg": "Body ke kin parts ko private parts kehte hain?"
+    },
+    "options": [
+     {
+      "en": "The parts covered by your underwear",
+      "hi": "वे हिस्से जो अंडरवियर से ढके रहते हैं",
+      "hg": "Woh parts jo underwear se dhake rehte hain"
+     },
+     {
+      "en": "Your hands and feet",
+      "hi": "हाथ और पैर",
+      "hg": "Haath aur pair"
+     },
+     {
+      "en": "Your eyes and ears",
+      "hi": "आँखें और कान",
+      "hg": "Aankhein aur kaan"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Private parts are the parts under your underwear. They are private and belong only to you.",
+     "hi": "निजी अंग वे हिस्से हैं जो अंडरवियर के नीचे रहते हैं। वे निजी हैं और सिर्फ़ तुम्हारे हैं।",
+     "hg": "Private parts woh hain jo underwear ke neeche rehte hain. Woh private hain aur sirf tumhare hain."
+    }
+   },
+   {
+    "id": "d01-l01-q2",
+    "type": "tf",
+    "q": {
+     "en": "If someone says a touch is a secret, you should not tell anyone.",
+     "hi": "अगर कोई कहे कि छूने की बात सीक्रेट है, तो किसी को नहीं बताना चाहिए।",
+     "hg": "Agar koi bole ki touch wali baat secret hai, toh kisi ko nahi batana chahiye."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "A secret about touching should always be told to a grown-up you trust. You will not be in trouble for telling.",
+     "hi": "छूने से जुड़ा कोई भी सीक्रेट हमेशा किसी भरोसेमंद बड़े को बताना चाहिए। बताने पर तुम्हें डाँट नहीं पड़ेगी।",
+     "hg": "Touch se juda koi bhi secret hamesha kisi trusted bade ko batana chahiye. Batane par tumhe daant nahi padegi."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "wcd-childline"
+  ],
+  "warning": {
+   "en": "If someone has touched you in a way that felt wrong, tell a trusted grown-up. You or the grown-up can call Child Helpline 1098 at any time.",
+   "hi": "अगर किसी ने तुम्हें ऐसे छुआ है जो ग़लत लगा, तो किसी भरोसेमंद बड़े को बताओ। तुम या वे बड़े कभी भी चाइल्ड हेल्पलाइन 1098 पर फ़ोन कर सकते हैं।",
+   "hg": "Agar kisi ne tumhe aise touch kiya hai jo galat laga, toh kisi trusted bade ko batao. Tum ya woh bade kabhi bhi Child Helpline 1098 par call kar sakte hain."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d01-l02",
+  "domain": "d01",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "penis_testicular",
+   "vulva_vaginal"
+  ],
+  "difficulty": 1,
+  "minutes": 6,
+  "unesco": [
+   6
+  ],
+  "title": {
+   "en": "Outside and Inside: The Body Map",
+   "hi": "बाहर और अंदर: शरीर का नक्शा",
+   "hg": "Bahar aur Andar: Body ka Map"
+  },
+  "subtitle": {
+   "en": "Reproductive organs and the pee route, correctly labelled",
+   "hi": "प्रजनन अंग और पेशाब का रास्ता, सही नामों के साथ",
+   "hg": "Reproductive organs aur pee ka route, sahi labels ke saath"
+  },
+  "hook": {
+   "en": "Half the confusion about bodies exists because nobody shows you the map. Here it is, with the right labels.",
+   "hi": "शरीर को लेकर आधी उलझन इसलिए है कि कोई नक्शा दिखाता ही नहीं। लो, यह रहा नक्शा, सही नामों के साथ।",
+   "hg": "Body ko lekar aadha confusion isliye hai kyunki koi map dikhata hi nahi. Yeh lo map, sahi labels ke saath."
+  },
+  "objectives": [
+   {
+    "en": "Name the main external and internal reproductive organs.",
+    "hi": "मुख्य बाहरी और अंदरूनी प्रजनन अंगों के नाम बताना।",
+    "hg": "Main external aur internal reproductive organs ke naam batana."
+   },
+   {
+    "en": "Tell the urethra, the vagina and the anus apart.",
+    "hi": "मूत्रमार्ग (urethra), योनि (vagina) और गुदा (anus) में फ़र्क़ समझना।",
+    "hg": "Urethra, vagina aur anus ka difference samajhna."
+   },
+   {
+    "en": "Explain why the urinary system is separate from the reproductive system.",
+    "hi": "समझाना कि मूत्र तंत्र और प्रजनन तंत्र अलग-अलग क्यों हैं।",
+    "hg": "Samjhana ki urinary system aur reproductive system alag kyun hain."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "External and internal: two sets of parts",
+     "hi": "बाहरी और अंदरूनी: अंगों के दो समूह",
+     "hg": "External aur internal: parts ke do sets"
+    },
+    "body": {
+     "en": "The reproductive system is the set of organs that, in adulthood, can help make a baby. Some of these organs are external, meaning you can see them on the outside of the body. Others are internal, tucked safely inside the lower belly in a bony bowl called the pelvis. You are born with all of these parts. They stay quiet through childhood and begin to grow and change during puberty. Knowing their real names makes it far easier to ask questions or tell a doctor exactly where something hurts.",
+     "hi": "प्रजनन तंत्र (reproductive system) उन अंगों का समूह है जो बड़े होने पर बच्चा पैदा करने में काम आ सकते हैं। इनमें से कुछ अंग बाहरी होते हैं, यानी शरीर के बाहर दिखते हैं। बाकी अंदरूनी होते हैं, जो पेट के निचले हिस्से में हड्डियों के कटोरे जैसी बनावट के अंदर सुरक्षित रहते हैं; इसे पेल्विस कहते हैं। ये सारे अंग जन्म से ही तुम्हारे पास हैं। बचपन में ये शांत रहते हैं और प्यूबर्टी में बढ़ने और बदलने लगते हैं। इनके असली नाम पता हों तो सवाल पूछना या डॉक्टर को ठीक-ठीक बताना कि दर्द कहाँ है, बहुत आसान हो जाता है।",
+     "hg": "Reproductive system un organs ka set hai jo bade hone par baby banane mein kaam aa sakte hain. Inme se kuch organs external hote hain, matlab body ke bahar dikhte hain. Baaki internal hote hain, jo pet ke nichle hisse mein haddiyon ke bowl jaise structure ke andar safe rehte hain; ise pelvis kehte hain. Yeh saare parts tumhare paas janam se hain. Bachpan mein yeh chup rehte hain aur puberty mein badhne aur badalne lagte hain. Inke asli naam pata hon toh sawaal poochna ya doctor ko exactly batana ki dard kahan hai, bahut easy ho jata hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Penis, scrotum and testes",
+     "hi": "लिंग, स्क्रोटम और वृषण",
+     "hg": "Penis, scrotum aur testes"
+    },
+    "body": {
+     "en": "The penis is the external organ through which urine leaves the body. Its tip is called the glans. Many people have a foreskin, a loose fold of skin covering the glans; some have had it removed (circumcision) for religious, family or medical reasons. Both are normal. Behind the penis hangs the scrotum, a pouch of skin holding two oval testes, also called testicles. From puberty, the testes make sperm and the hormone testosterone. One testis usually hangs a little lower than the other, which is completely normal.",
+     "hi": "लिंग (penis) वह बाहरी अंग है जिससे पेशाब शरीर से बाहर निकलता है। इसके सिरे को ग्लैन्स कहते हैं। कई लोगों में ग्लैन्स को ढकने वाली ढीली चमड़ी होती है जिसे फ़ोरस्किन कहते हैं; कुछ लोगों में इसे धार्मिक, पारिवारिक या मेडिकल कारणों से हटा दिया जाता है (ख़तना)। दोनों ही सामान्य हैं। लिंग के पीछे त्वचा की एक थैली लटकती है जिसे स्क्रोटम कहते हैं, और उसमें दो अंडाकार वृषण (testes) होते हैं, जिन्हें अंडकोष भी कहते हैं। प्यूबर्टी से वृषण शुक्राणु (sperm) और टेस्टोस्टेरोन नाम का हार्मोन बनाने लगते हैं। आम तौर पर एक वृषण दूसरे से थोड़ा नीचे लटकता है, और यह बिल्कुल सामान्य है।",
+     "hg": "Penis woh external organ hai jisse urine body se bahar aata hai. Iske tip ko glans kehte hain. Kai logon mein glans ko cover karne wali dheeli skin hoti hai jise foreskin kehte hain; kuch logon mein yeh religious, family ya medical reasons se hata di jaati hai (circumcision). Dono normal hain. Penis ke peeche skin ki ek thaili latakti hai jise scrotum kehte hain, aur usme do oval testes hote hain, jinhe testicles bhi kehte hain. Puberty se testes sperm aur testosterone naam ka hormone banane lagte hain. Aksar ek testis doosre se thoda neeche latakta hai, aur yeh bilkul normal hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Vulva, vagina, uterus and ovaries",
+     "hi": "वल्वा, योनि, गर्भाशय और अंडाशय",
+     "hg": "Vulva, vagina, uterus aur ovaries"
+    },
+    "body": {
+     "en": "The vulva is the name for everything on the outside: the outer and inner folds of skin called labia, the clitoris (a small, sensitive organ at the top) and two openings. The vagina is not the outside part. It is a stretchy, muscular passage inside the body that leads from the vulva up to the uterus. The uterus, or womb, is a pear-sized organ where a baby can grow during pregnancy. On either side sit two ovaries, which store tiny egg cells and make the hormone oestrogen.",
+     "hi": "वल्वा (vulva) बाहर दिखने वाले पूरे हिस्से का नाम है: त्वचा की बाहरी और भीतरी तहें जिन्हें लेबिया कहते हैं, क्लिटोरिस (ऊपर की तरफ़ एक छोटा, संवेदनशील अंग) और दो छेद। योनि (vagina) बाहर वाला हिस्सा नहीं है। यह शरीर के अंदर एक लचीला, मांसपेशियों वाला रास्ता है जो वल्वा से ऊपर गर्भाशय तक जाता है। गर्भाशय (uterus), यानी बच्चेदानी, नाशपाती जितना बड़ा अंग है जहाँ गर्भावस्था में बच्चा बढ़ सकता है। इसके दोनों तरफ़ दो अंडाशय (ovaries) होते हैं, जिनमें नन्हे अंडाणु जमा रहते हैं और जो एस्ट्रोजन हार्मोन बनाते हैं।",
+     "hg": "Vulva bahar dikhne wale poore area ka naam hai: skin ke outer aur inner folds jinhe labia kehte hain, clitoris (upar ki taraf ek chhota, sensitive organ) aur do openings. Vagina bahar wala part nahi hai. Yeh body ke andar ek stretchy, muscular passage hai jo vulva se upar uterus tak jaata hai. Uterus, yaani womb, naashpati ke size ka organ hai jahan pregnancy mein baby grow kar sakta hai. Iske dono side do ovaries hoti hain, jinme chhote-chhote egg cells store rehte hain aur jo oestrogen hormone banati hain."
+    }
+   },
+   {
+    "h": {
+     "en": "The pee route is a separate system",
+     "hi": "पेशाब का रास्ता एक अलग तंत्र है",
+     "hg": "Pee ka route ek alag system hai"
+    },
+    "body": {
+     "en": "Urine is made by the kidneys, stored in the bladder, and leaves through a tube called the urethra. This is the urinary system, not the reproductive system. In a body with a vulva there are three separate openings from front to back: the urethra for urine, the vagina, and the anus for stool. In a body with a penis, the urethra runs through the penis. Because these openings are close together, wiping or washing from front to back after using the toilet helps keep germs away from the urethra.",
+     "hi": "पेशाब किडनी में बनता है, मूत्राशय (bladder) में जमा होता है और मूत्रमार्ग (urethra) नाम की नली से बाहर निकलता है। यह मूत्र तंत्र है, प्रजनन तंत्र नहीं। जिस शरीर में वल्वा होती है, उसमें आगे से पीछे की ओर तीन अलग-अलग छेद होते हैं: पेशाब के लिए मूत्रमार्ग, फिर योनि, और मल के लिए गुदा (anus)। जिस शरीर में लिंग होता है, उसमें मूत्रमार्ग लिंग के अंदर से गुज़रता है। ये छेद पास-पास होते हैं, इसलिए टॉयलेट के बाद आगे से पीछे की ओर पोंछने या धोने से कीटाणु मूत्रमार्ग से दूर रहते हैं।",
+     "hg": "Urine kidneys mein banta hai, bladder mein store hota hai aur urethra naam ki tube se bahar nikalta hai. Yeh urinary system hai, reproductive system nahi. Jis body mein vulva hoti hai, usme aage se peeche teen alag openings hoti hain: urine ke liye urethra, phir vagina, aur potty ke liye anus. Jis body mein penis hota hai, usme urethra penis ke andar se guzarti hai. Yeh openings paas-paas hoti hain, isliye toilet ke baad aage se peeche ki taraf wipe ya wash karne se germs urethra se door rehte hain."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Girls pee from the vagina.",
+    "hi": "लड़कियाँ योनि से पेशाब करती हैं।",
+    "hg": "Ladkiyan vagina se pee karti hain."
+   },
+   "fact": {
+    "en": "Urine comes out of the urethra, a separate small opening just in front of the vaginal opening. The vagina is a different passage with a different job.",
+    "hi": "पेशाब मूत्रमार्ग (urethra) से निकलता है, जो योनि के छेद के ठीक आगे एक अलग छोटा छेद है। योनि एक अलग रास्ता है और उसका काम भी अलग है।",
+    "hg": "Urine urethra se nikalta hai, jo vaginal opening ke theek aage ek alag chhoti opening hai. Vagina ek alag passage hai aur uska kaam bhi alag hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "External organs can be seen on the outside; internal organs sit protected inside the pelvis.",
+    "hi": "बाहरी अंग शरीर के बाहर दिखते हैं; अंदरूनी अंग पेल्विस के भीतर सुरक्षित रहते हैं।",
+    "hg": "External organs bahar dikhte hain; internal organs pelvis ke andar safe rehte hain."
+   },
+   {
+    "en": "The vulva is the outside and the vagina is the passage inside, so they are not the same thing.",
+    "hi": "वल्वा बाहर का हिस्सा है और योनि अंदर का रास्ता, इसलिए दोनों एक चीज़ नहीं हैं।",
+    "hg": "Vulva bahar ka part hai aur vagina andar ka passage, toh dono same cheez nahi hain."
+   },
+   {
+    "en": "Urine always leaves through the urethra, which belongs to the urinary system.",
+    "hi": "पेशाब हमेशा मूत्रमार्ग से निकलता है, जो मूत्र तंत्र का हिस्सा है।",
+    "hg": "Urine hamesha urethra se nikalta hai, jo urinary system ka part hai."
+   }
+  ],
+  "activity": {
+   "en": "Open the Body Lab diagrams and, covering the labels, try to name each part from memory. Note down every name that was new to you today.",
+   "hi": "Body Lab के चित्र खोलो और नाम छिपाकर हर हिस्से का नाम याद से बताने की कोशिश करो। जो नाम आज पहली बार सीखे, उन्हें लिख लो।",
+   "hg": "Body Lab ke diagrams kholo aur labels chhupakar har part ka naam memory se batane ki koshish karo. Jo naam aaj pehli baar seekhe, unhe note kar lo."
+  },
+  "interactive": "body_lab",
+  "quiz": [
+   {
+    "id": "d01-l02-q1",
+    "type": "mcq",
+    "q": {
+     "en": "What is the correct name for the outside genital area in girls?",
+     "hi": "लड़कियों के बाहरी जननांग वाले हिस्से का सही नाम क्या है?",
+     "hg": "Ladkiyon ke bahar wale genital area ka sahi naam kya hai?"
+    },
+    "options": [
+     {
+      "en": "Vagina",
+      "hi": "योनि (vagina)",
+      "hg": "Vagina"
+     },
+     {
+      "en": "Uterus",
+      "hi": "गर्भाशय (uterus)",
+      "hg": "Uterus"
+     },
+     {
+      "en": "Vulva",
+      "hi": "वल्वा (vulva)",
+      "hg": "Vulva"
+     },
+     {
+      "en": "Ovary",
+      "hi": "अंडाशय (ovary)",
+      "hg": "Ovary"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "The vulva is everything on the outside. The vagina is the passage inside the body that leads to the uterus.",
+     "hi": "वल्वा बाहर दिखने वाला पूरा हिस्सा है। योनि शरीर के अंदर का रास्ता है जो गर्भाशय तक जाता है।",
+     "hg": "Vulva bahar ka poora area hai. Vagina body ke andar ka passage hai jo uterus tak jaata hai."
+    }
+   },
+   {
+    "id": "d01-l02-q2",
+    "type": "tf",
+    "q": {
+     "en": "In a body with a vulva, urine and period blood come out of the same opening.",
+     "hi": "जिस शरीर में वल्वा होती है, उसमें पेशाब और पीरियड का ख़ून एक ही छेद से निकलते हैं।",
+     "hg": "Jis body mein vulva hoti hai, usme urine aur period blood ek hi opening se nikalte hain."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Urine leaves through the urethra and period blood leaves through the vagina. They are two separate openings.",
+     "hi": "पेशाब मूत्रमार्ग से निकलता है और पीरियड का ख़ून योनि से। ये दो अलग-अलग छेद हैं।",
+     "hg": "Urine urethra se nikalta hai aur period blood vagina se. Yeh do alag openings hain."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-sexual-health"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d01-l03",
+  "domain": "d01",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "men",
+   "women"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   6
+  ],
+  "title": {
+   "en": "Hormones: The Body's Messaging System",
+   "hi": "हार्मोन: शरीर का मैसेजिंग सिस्टम",
+   "hg": "Hormones: Body ka Messaging System"
+  },
+  "subtitle": {
+   "en": "What is behind the skin, hair, voice and chest changes",
+   "hi": "त्वचा, बाल, आवाज़ और छाती के बदलावों के पीछे क्या है",
+   "hg": "Skin, hair, voice aur chest ke changes ke peeche kya hai"
+  },
+  "hook": {
+   "en": "Oily skin, new hair and a voice that cracks mid-sentence did not arrive by accident. Tiny chemical messages are running the whole show.",
+   "hi": "तैलीय त्वचा, नए बाल और बात करते-करते फटती आवाज़ यूँ ही नहीं आए। नन्हे रासायनिक संदेश यह पूरा खेल चला रहे हैं।",
+   "hg": "Oily skin, naye baal aur beech sentence mein crack hoti voice aise hi nahi aaye. Chhote-chhote chemical messages poora show chala rahe hain."
+  },
+  "objectives": [
+   {
+    "en": "Explain what hormones are and how the brain starts puberty.",
+    "hi": "समझाना कि हार्मोन क्या हैं और दिमाग़ प्यूबर्टी कैसे शुरू करता है।",
+    "hg": "Samjhana ki hormones kya hain aur brain puberty kaise start karta hai."
+   },
+   {
+    "en": "Link specific hormones to acne, body hair, voice change and breast or chest development.",
+    "hi": "मुँहासे, शरीर के बाल, आवाज़ में बदलाव और स्तन या छाती के विकास को उनके हार्मोन से जोड़ना।",
+    "hg": "Acne, body hair, voice change aur breast ya chest development ko unke hormones se connect karna."
+   },
+   {
+    "en": "Recognise that every body makes both testosterone and oestrogen.",
+    "hi": "पहचानना कि हर शरीर टेस्टोस्टेरोन और एस्ट्रोजन दोनों बनाता है।",
+    "hg": "Pehchanna ki har body testosterone aur oestrogen dono banati hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "The command chain: brain to glands",
+     "hi": "आदेश की कड़ी: दिमाग़ से ग्रंथियों तक",
+     "hg": "Command chain: brain se glands tak"
+    },
+    "body": {
+     "en": "Hormones are chemical messengers that travel in the blood and tell organs what to do. Puberty starts in the brain. A region called the hypothalamus begins releasing a signal hormone, GnRH, in pulses. This wakes up the pea-sized pituitary gland just below it, which sends out two more hormones, LH and FSH. These travel to the testes or ovaries and switch them on. Nobody can speed this up or slow it down with special food, exercise or willpower; the timing is set mostly by your genes, along with general health and nutrition.",
+     "hi": "हार्मोन रासायनिक संदेशवाहक हैं जो ख़ून के साथ घूमते हैं और अंगों को बताते हैं कि क्या करना है। प्यूबर्टी की शुरुआत दिमाग़ से होती है। दिमाग़ का एक हिस्सा, हाइपोथैलेमस, रुक-रुककर GnRH नाम का संकेत-हार्मोन छोड़ने लगता है। इससे ठीक नीचे मौजूद मटर के दाने जितनी पिट्यूटरी ग्रंथि जाग जाती है और दो और हार्मोन, LH और FSH, भेजती है। ये वृषण या अंडाशय तक पहुँचकर उन्हें चालू कर देते हैं। कोई ख़ास खाना, कसरत या इच्छाशक्ति इसे तेज़ या धीमा नहीं कर सकती; इसका समय ज़्यादातर तुम्हारे जीन से तय होता है, साथ में आम सेहत और पोषण का भी असर रहता है।",
+     "hg": "Hormones chemical messengers hain jo blood ke saath travel karte hain aur organs ko batate hain ki kya karna hai. Puberty brain se start hoti hai. Brain ka ek part, hypothalamus, pulses mein GnRH naam ka signal hormone release karne lagta hai. Isse theek neeche wali matar ke daane jitni pituitary gland jaag jaati hai aur do aur hormones, LH aur FSH, bhejti hai. Yeh testes ya ovaries tak pahunchkar unhe switch on kar dete hain. Koi special khana, exercise ya willpower ise fast ya slow nahi kar sakta; timing zyadatar tumhare genes se set hoti hai, saath mein general health aur nutrition ka bhi role hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Testosterone, oestrogen and progesterone",
+     "hi": "टेस्टोस्टेरोन, एस्ट्रोजन और प्रोजेस्टेरोन",
+     "hg": "Testosterone, oestrogen aur progesterone"
+    },
+    "body": {
+     "en": "The testes mainly make testosterone, which drives growth of the penis and testes, sperm production, muscle, facial hair and a deeper voice. The ovaries mainly make oestrogen and progesterone, which drive breast development, wider hips and the menstrual cycle. But these are not boy hormones and girl hormones. Every body makes all of them, just in different amounts. Oestrogen helps close the growth plates in everyone's bones, and testosterone-type hormones called androgens cause pubic and underarm hair in all genders.",
+     "hi": "वृषण मुख्य रूप से टेस्टोस्टेरोन बनाते हैं, जिससे लिंग और वृषण बढ़ते हैं, शुक्राणु बनने लगते हैं, मांसपेशियाँ बढ़ती हैं, चेहरे पर बाल आते हैं और आवाज़ भारी होती है। अंडाशय मुख्य रूप से एस्ट्रोजन और प्रोजेस्टेरोन बनाते हैं, जिनसे स्तन विकसित होते हैं, कूल्हे चौड़े होते हैं और माहवारी का चक्र चलता है। लेकिन ये लड़कों के हार्मोन और लड़कियों के हार्मोन नहीं हैं। हर शरीर ये सभी बनाता है, बस मात्रा अलग होती है। एस्ट्रोजन सबकी हड्डियों की ग्रोथ प्लेट बंद करने में मदद करता है, और टेस्टोस्टेरोन जैसे हार्मोन, जिन्हें एंड्रोजन कहते हैं, हर जेंडर में जननांगों के पास और बगल के बाल लाते हैं।",
+     "hg": "Testes mainly testosterone banate hain, jisse penis aur testes grow karte hain, sperm banna start hota hai, muscles badhti hain, face par baal aate hain aur voice deep hoti hai. Ovaries mainly oestrogen aur progesterone banati hain, jinse breasts develop hote hain, hips chaude hote hain aur menstrual cycle chalta hai. Lekin yeh ladkon ke hormones aur ladkiyon ke hormones nahi hain. Har body yeh sab banati hai, bas amount alag hota hai. Oestrogen sabki bones ki growth plates band karne mein help karta hai, aur testosterone-type hormones, jinhe androgens kehte hain, har gender mein pubic aur underarm hair laate hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Skin, hair and voice",
+     "hi": "त्वचा, बाल और आवाज़",
+     "hg": "Skin, hair aur voice"
+    },
+    "body": {
+     "en": "Androgens make the oil glands in the skin enlarge and produce more sebum. When oil and dead skin block a pore, bacteria multiply and a pimple forms, which is why acne peaks in the teen years on the face, chest and back. The same hormones turn fine body hair darker and coarser in the pubic area, underarms, legs and, for many, the face and chest. In the throat, the larynx (voice box) grows and the vocal cords lengthen and thicken. The voice may crack for months before settling lower. Girls' voices deepen slightly too.",
+     "hi": "एंड्रोजन त्वचा की तेल ग्रंथियों को बड़ा कर देते हैं और वे ज़्यादा सीबम (तेल) बनाने लगती हैं। जब तेल और मरी हुई त्वचा किसी रोमछिद्र को बंद कर देती है, तो बैक्टीरिया बढ़ते हैं और मुँहासा बन जाता है; इसीलिए किशोर उम्र में चेहरे, छाती और पीठ पर मुँहासे सबसे ज़्यादा होते हैं। यही हार्मोन जननांगों के पास, बगल, पैरों और कई लोगों के चेहरे व छाती के महीन बालों को गहरा और मोटा कर देते हैं। गले में स्वरयंत्र (larynx) बढ़ता है और स्वर-तंतु लंबे और मोटे हो जाते हैं। आवाज़ भारी होकर टिकने से पहले कई महीनों तक फट सकती है। लड़कियों की आवाज़ भी थोड़ी भारी होती है।",
+     "hg": "Androgens skin ki oil glands ko bada kar dete hain aur woh zyada sebum (oil) banane lagti hain. Jab oil aur dead skin kisi pore ko block kar dete hain, toh bacteria badhte hain aur pimple ban jata hai; isiliye teen years mein face, chest aur back par acne peak par hota hai. Yahi hormones pubic area, underarms, legs aur kai logon ke face aur chest ke patle baalon ko dark aur mota kar dete hain. Gale mein larynx (voice box) grow karta hai aur vocal cords lambe aur mote ho jaate hain. Voice neeche settle hone se pehle kai mahine crack ho sakti hai. Ladkiyon ki voice bhi thodi deep hoti hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Breast and chest development",
+     "hi": "स्तन और छाती का विकास",
+     "hg": "Breast aur chest development"
+    },
+    "body": {
+     "en": "Breast development begins with a small firm lump under one or both nipples, called a breast bud. It can feel tender, and one side often starts first. Full development takes several years, and breasts of different sizes, shapes and nipple colours are all normal. Many boys also get temporary swelling or a tender lump under the nipple during puberty, called gynaecomastia. It is caused by a shifting balance of hormones, not by anything they did, and usually settles on its own within a year or two. See a doctor if it is painful, growing fast or worrying you.",
+     "hi": "स्तनों का विकास एक या दोनों निप्पल के नीचे एक छोटी, सख़्त गाँठ से शुरू होता है, जिसे ब्रेस्ट बड कहते हैं। इसमें हल्का दर्द हो सकता है, और अक्सर एक तरफ़ पहले शुरू होता है। पूरा विकास होने में कई साल लगते हैं, और अलग-अलग आकार, बनावट और निप्पल के रंग वाले स्तन सब सामान्य हैं। प्यूबर्टी में कई लड़कों के निप्पल के नीचे भी कुछ समय के लिए सूजन या दर्द वाली गाँठ बन जाती है, जिसे गाइनेकोमैस्टिया कहते हैं। यह हार्मोन के बदलते संतुलन से होता है, उनकी किसी हरकत से नहीं, और आम तौर पर एक-दो साल में अपने आप ठीक हो जाता है। अगर दर्द हो, तेज़ी से बढ़े या चिंता सताए, तो डॉक्टर को दिखाओ।",
+     "hg": "Breast development ek ya dono nipples ke neeche ek chhoti, firm lump se start hota hai, jise breast bud kehte hain. Isme halka dard ho sakta hai, aur aksar ek side pehle start hoti hai. Poora development hone mein kai saal lagte hain, aur alag sizes, shapes aur nipple colours wale breasts sab normal hain. Puberty mein kai ladkon ke nipple ke neeche bhi kuch time ke liye swelling ya dard wali lump ban jaati hai, jise gynaecomastia kehte hain. Yeh hormones ke badalte balance se hota hai, unki kisi harkat se nahi, aur usually ek-do saal mein apne aap settle ho jata hai. Agar dard ho, tezi se badhe ya tension de raha ho, toh doctor ko dikhao."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Testosterone is only in boys and oestrogen is only in girls.",
+    "hi": "टेस्टोस्टेरोन सिर्फ़ लड़कों में होता है और एस्ट्रोजन सिर्फ़ लड़कियों में।",
+    "hg": "Testosterone sirf ladkon mein hota hai aur oestrogen sirf ladkiyon mein."
+   },
+   "fact": {
+    "en": "Every body makes both. The amounts differ, and both hormones do important jobs in everyone, such as keeping bones strong.",
+    "hi": "हर शरीर दोनों बनाता है। मात्रा अलग होती है, और दोनों हार्मोन सबके शरीर में ज़रूरी काम करते हैं, जैसे हड्डियों को मज़बूत रखना।",
+    "hg": "Har body dono banati hai. Amount alag hota hai, aur dono hormones sabki body mein important kaam karte hain, jaise bones ko strong rakhna."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Puberty is switched on by the brain, through the hypothalamus and the pituitary gland.",
+    "hi": "प्यूबर्टी को दिमाग़ चालू करता है, हाइपोथैलेमस और पिट्यूटरी ग्रंथि के ज़रिए।",
+    "hg": "Puberty ko brain switch on karta hai, hypothalamus aur pituitary gland ke through."
+   },
+   {
+    "en": "Acne, body hair and voice change are all effects of rising hormone levels, not of poor hygiene or bad habits.",
+    "hi": "मुँहासे, शरीर के बाल और आवाज़ का बदलना बढ़ते हार्मोन का असर हैं, गंदगी या बुरी आदतों का नहीं।",
+    "hg": "Acne, body hair aur voice change badhte hormones ka effect hain, gandagi ya buri aadaton ka nahi."
+   },
+   {
+    "en": "Breast buds in girls and temporary chest swelling in boys are both common parts of puberty.",
+    "hi": "लड़कियों में ब्रेस्ट बड और लड़कों में कुछ समय की छाती की सूजन, दोनों प्यूबर्टी का आम हिस्सा हैं।",
+    "hg": "Ladkiyon mein breast buds aur ladkon mein temporary chest swelling, dono puberty ka common part hain."
+   }
+  ],
+  "activity": {
+   "en": "List three changes you have noticed in your own body over the last year. Beside each one, write which hormone is most likely behind it. Keep the list private.",
+   "hi": "पिछले एक साल में अपने शरीर में दिखे तीन बदलाव लिखो। हर एक के आगे लिखो कि उसके पीछे सबसे ज़्यादा कौन-सा हार्मोन हो सकता है। यह सूची अपने पास ही रखो।",
+   "hg": "Pichhle ek saal mein apni body mein notice kiye teen changes likho. Har ek ke saamne likho ki uske peeche most likely kaun sa hormone hai. Yeh list private rakho."
+  },
+  "interactive": "puberty_lab",
+  "quiz": [
+   {
+    "id": "d01-l03-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Which gland releases LH and FSH to switch on the testes or ovaries?",
+     "hi": "कौन-सी ग्रंथि LH और FSH छोड़कर वृषण या अंडाशय को चालू करती है?",
+     "hg": "Kaun si gland LH aur FSH release karke testes ya ovaries ko switch on karti hai?"
+    },
+    "options": [
+     {
+      "en": "Thyroid gland",
+      "hi": "थायरॉइड ग्रंथि",
+      "hg": "Thyroid gland"
+     },
+     {
+      "en": "Pituitary gland",
+      "hi": "पिट्यूटरी ग्रंथि",
+      "hg": "Pituitary gland"
+     },
+     {
+      "en": "Adrenal gland",
+      "hi": "एड्रिनल ग्रंथि",
+      "hg": "Adrenal gland"
+     },
+     {
+      "en": "Pancreas",
+      "hi": "अग्न्याशय (pancreas)",
+      "hg": "Pancreas"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "The pituitary gland, prompted by the hypothalamus, releases LH and FSH, which tell the testes or ovaries to start making sex hormones.",
+     "hi": "हाइपोथैलेमस के संकेत पर पिट्यूटरी ग्रंथि LH और FSH छोड़ती है, जो वृषण या अंडाशय को सेक्स हार्मोन बनाने का आदेश देते हैं।",
+     "hg": "Hypothalamus ke signal par pituitary gland LH aur FSH release karti hai, jo testes ya ovaries ko sex hormones banane ko bolte hain."
+    }
+   },
+   {
+    "id": "d01-l03-q2",
+    "type": "tf",
+    "q": {
+     "en": "Temporary breast swelling in boys during puberty is common and usually goes away on its own.",
+     "hi": "प्यूबर्टी में लड़कों की छाती में कुछ समय की सूजन आम है और अक्सर अपने आप चली जाती है।",
+     "hg": "Puberty mein ladkon ke chest mein temporary swelling common hai aur usually apne aap chali jaati hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "This is gynaecomastia, caused by a temporary shift in hormone balance. It usually settles within a year or two without treatment.",
+     "hi": "इसे गाइनेकोमैस्टिया कहते हैं और यह हार्मोन के संतुलन में कुछ समय के बदलाव से होता है। यह अक्सर एक-दो साल में बिना इलाज के ठीक हो जाता है।",
+     "hg": "Ise gynaecomastia kehte hain, jo hormone balance ke temporary shift se hota hai. Yeh usually ek-do saal mein bina treatment ke settle ho jata hai."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "nhm-rksk",
+   "who-sexual-health"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d01-l04",
+  "domain": "d01",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro",
+   "menstrual"
+  ],
+  "difficulty": 2,
+  "minutes": 8,
+  "unesco": [
+   6,
+   8
+  ],
+  "title": {
+   "en": "Sperm, Eggs and How a Pregnancy Begins",
+   "hi": "शुक्राणु, अंडाणु और गर्भ की शुरुआत",
+   "hg": "Sperm, Eggs aur Pregnancy Kaise Start Hoti Hai"
+  },
+  "subtitle": {
+   "en": "Ovulation, menstruation, fertilisation and implantation in order",
+   "hi": "ओव्यूलेशन, माहवारी, निषेचन और इम्प्लांटेशन, क्रम से",
+   "hg": "Ovulation, periods, fertilisation aur implantation, step by step"
+  },
+  "hook": {
+   "en": "Two cells, each too small to see, have to meet in the right place within a window of a few days. Here is the actual biology, minus the awkward silence.",
+   "hi": "दो कोशिकाएँ, जो आँख से दिखती भी नहीं, उन्हें कुछ ही दिनों की मोहलत में सही जगह पर मिलना होता है। यह रही असली बायोलॉजी, बिना किसी झिझक के।",
+   "hg": "Do cells, jo aankh se dikhte bhi nahi, unhe kuch hi dino ki window mein sahi jagah par milna hota hai. Yeh rahi actual biology, awkward silence ke bina."
+  },
+  "objectives": [
+   {
+    "en": "Describe how and where sperm and eggs are produced.",
+    "hi": "बताना कि शुक्राणु और अंडाणु कैसे और कहाँ बनते हैं।",
+    "hg": "Batana ki sperm aur eggs kaise aur kahan bante hain."
+   },
+   {
+    "en": "Explain ovulation and menstruation as two parts of one cycle.",
+    "hi": "समझाना कि ओव्यूलेशन और माहवारी एक ही चक्र के दो हिस्से हैं।",
+    "hg": "Samjhana ki ovulation aur periods ek hi cycle ke do parts hain."
+   },
+   {
+    "en": "Outline fertilisation, implantation and the start of pregnancy.",
+    "hi": "निषेचन, इम्प्लांटेशन और गर्भ की शुरुआत का क्रम बताना।",
+    "hg": "Fertilisation, implantation aur pregnancy ke start ka sequence batana."
+   }
+  ],
+  "prereqs": [
+   "d01-l03"
+  ],
+  "sections": [
+   {
+    "h": {
+     "en": "Sperm: made daily from puberty onwards",
+     "hi": "शुक्राणु: प्यूबर्टी के बाद से रोज़ बनते हैं",
+     "hg": "Sperm: puberty ke baad se roz bante hain"
+    },
+    "body": {
+     "en": "From puberty, the testes produce millions of sperm every day, and each one takes roughly two to three months to mature. Finished sperm wait in the epididymis, a coiled tube behind each testis. During ejaculation they travel up a tube called the vas deferens and mix with fluids from the seminal vesicles and the prostate gland. That mixture is semen, and sperm are only a small part of it. Semen leaves through the urethra. A ring of muscle at the bladder outlet closes at that moment, so urine and semen do not come out together.",
+     "hi": "प्यूबर्टी के बाद से वृषण हर दिन लाखों-करोड़ों शुक्राणु बनाते हैं, और हर शुक्राणु को पूरी तरह तैयार होने में क़रीब दो से तीन महीने लगते हैं। तैयार शुक्राणु हर वृषण के पीछे की एक कुंडलीदार नली, एपिडिडिमिस, में जमा रहते हैं। स्खलन (ejaculation) के समय वे वास डिफ़रेंस नाम की नली से ऊपर जाते हैं और सेमिनल वेसिकल व प्रोस्टेट ग्रंथि के तरल में मिल जाते हैं। यही मिश्रण वीर्य (semen) है, और शुक्राणु उसका बस छोटा-सा हिस्सा होते हैं। वीर्य मूत्रमार्ग से बाहर निकलता है। उस समय मूत्राशय के मुँह पर मांसपेशी का एक छल्ला बंद हो जाता है, इसलिए पेशाब और वीर्य एक साथ नहीं निकलते।",
+     "hg": "Puberty ke baad se testes har din millions sperm banate hain, aur har sperm ko poori tarah mature hone mein roughly do se teen mahine lagte hain. Ready sperm har testis ke peeche ek coiled tube, epididymis, mein wait karte hain. Ejaculation ke time woh vas deferens naam ki tube se upar jaate hain aur seminal vesicles aur prostate gland ke fluids mein mix ho jaate hain. Yahi mixture semen hai, aur sperm uska bas chhota sa part hote hain. Semen urethra se bahar nikalta hai. Us moment bladder ke outlet par muscle ka ek ring band ho jata hai, isliye urine aur semen ek saath nahi nikalte."
+    }
+   },
+   {
+    "h": {
+     "en": "Eggs and ovulation",
+     "hi": "अंडाणु और ओव्यूलेशन",
+     "hg": "Eggs aur ovulation"
+    },
+    "body": {
+     "en": "Ovaries do not make new eggs. A baby girl is born with all the egg cells she will ever have, stored in an immature form. After puberty, hormones ripen a few eggs each cycle, and usually one is released from an ovary. This release is ovulation. It happens about two weeks before the next period, not on a fixed date, so it shifts whenever cycle length shifts. The egg is swept into the fallopian tube and survives for roughly 12 to 24 hours. Some people feel a mild one-sided ache or notice clearer, stretchier discharge around this time.",
+     "hi": "अंडाशय नए अंडाणु नहीं बनाते। बच्ची जन्म के समय ही वे सारे अंडाणु लेकर आती है जो उसके पास ज़िंदगी भर रहेंगे; वे कच्चे रूप में जमा रहते हैं। प्यूबर्टी के बाद हर चक्र में हार्मोन कुछ अंडाणुओं को पकाते हैं, और आम तौर पर एक अंडाणु अंडाशय से बाहर निकलता है। इसी को ओव्यूलेशन कहते हैं। यह अगले पीरियड से क़रीब दो हफ़्ते पहले होता है, किसी तय तारीख़ पर नहीं, इसलिए चक्र की लंबाई बदलने पर यह भी खिसक जाता है। अंडाणु फ़ैलोपियन ट्यूब में पहुँचता है और लगभग 12 से 24 घंटे ज़िंदा रहता है। कुछ लोगों को इस समय एक तरफ़ हल्का दर्द होता है या स्राव ज़्यादा साफ़ और खिंचने वाला दिखता है।",
+     "hg": "Ovaries naye eggs nahi banati. Baby girl janam ke time hi woh saare egg cells lekar aati hai jo uske paas life bhar rahenge; woh immature form mein store rehte hain. Puberty ke baad har cycle mein hormones kuch eggs ko ripen karte hain, aur usually ek egg ovary se release hota hai. Isi release ko ovulation kehte hain. Yeh next period se lagbhag do hafte pehle hota hai, kisi fixed date par nahi, isliye cycle ki length badle toh yeh bhi shift ho jata hai. Egg fallopian tube mein pahunchta hai aur roughly 12 se 24 ghante survive karta hai. Kuch logon ko is time ek side halka dard hota hai ya discharge zyada clear aur stretchy dikhta hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Menstruation: the cycle resets",
+     "hi": "माहवारी: चक्र फिर से शुरू",
+     "hg": "Periods: cycle reset hota hai"
+    },
+    "body": {
+     "en": "While the egg ripens, oestrogen thickens the lining of the uterus with blood-rich tissue. After ovulation, progesterone keeps that lining ready. If no fertilised egg arrives, both hormone levels drop and the lining breaks down and leaves through the vagina. That is a period, and its first day is counted as day one of a new cycle. Bleeding usually lasts 2 to 7 days. Adult cycles typically run 21 to 35 days; in the first few years after the first period, anything from 21 to 45 days is common.",
+     "hi": "जब अंडाणु पक रहा होता है, तब एस्ट्रोजन गर्भाशय की अंदरूनी परत को ख़ून से भरपूर ऊतक से मोटा करता है। ओव्यूलेशन के बाद प्रोजेस्टेरोन इस परत को तैयार रखता है। अगर कोई निषेचित अंडाणु नहीं आता, तो दोनों हार्मोन घट जाते हैं और परत टूटकर योनि के रास्ते बाहर निकल जाती है। यही पीरियड है, और इसका पहला दिन नए चक्र का पहला दिन गिना जाता है। ख़ून आम तौर पर 2 से 7 दिन आता है। वयस्कों में चक्र अक्सर 21 से 35 दिन का होता है; पहले पीरियड के बाद के शुरुआती कुछ सालों में 21 से 45 दिन तक का चक्र आम है।",
+     "hg": "Jab egg ripen ho raha hota hai, tab oestrogen uterus ki lining ko blood-rich tissue se mota karta hai. Ovulation ke baad progesterone is lining ko ready rakhta hai. Agar koi fertilised egg nahi aata, toh dono hormones gir jaate hain aur lining tootkar vagina ke raaste bahar nikal jaati hai. Yahi period hai, aur iska pehla din naye cycle ka day one gina jata hai. Bleeding usually 2 se 7 din chalti hai. Adults mein cycle typically 21 se 35 din ka hota hai; pehle period ke baad ke shuru ke kuch saalon mein 21 se 45 din tak ka cycle common hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Fertilisation and pregnancy",
+     "hi": "निषेचन और गर्भावस्था",
+     "hg": "Fertilisation aur pregnancy"
+    },
+    "body": {
+     "en": "During vaginal intercourse, semen enters the vagina and sperm swim through the cervix and uterus into the fallopian tubes. Sperm can survive there for up to about five days, so the fertile window is several days long. If one sperm joins the egg, that is fertilisation. The fertilised egg divides as it travels and, about a week later, attaches to the uterine lining; this is implantation, and pregnancy begins. A placenta forms to pass oxygen and nutrients to the embryo. Pregnancy lasts around 40 weeks, counted from the first day of the last period. It can happen the very first time someone has sex.",
+     "hi": "योनि-संभोग के दौरान वीर्य योनि में पहुँचता है और शुक्राणु गर्भाशय ग्रीवा (cervix) और गर्भाशय से होते हुए फ़ैलोपियन ट्यूब तक तैरकर जाते हैं। वहाँ शुक्राणु क़रीब पाँच दिन तक ज़िंदा रह सकते हैं, इसलिए गर्भ ठहरने की संभावना वाले दिन कई होते हैं। अगर एक शुक्राणु अंडाणु से मिल जाए, तो उसे निषेचन (fertilisation) कहते हैं। निषेचित अंडाणु आगे बढ़ते हुए बँटता रहता है और लगभग एक हफ़्ते बाद गर्भाशय की परत से चिपक जाता है; यह इम्प्लांटेशन है, और यहीं से गर्भावस्था शुरू होती है। भ्रूण तक ऑक्सीजन और पोषण पहुँचाने के लिए प्लेसेंटा बनता है। गर्भावस्था क़रीब 40 हफ़्ते चलती है, जिसे आख़िरी पीरियड के पहले दिन से गिना जाता है। यह पहली ही बार सेक्स करने पर भी हो सकती है।",
+     "hg": "Vaginal intercourse ke dauraan semen vagina mein pahunchta hai aur sperm cervix aur uterus se hote hue fallopian tubes tak swim karte hain. Wahan sperm lagbhag paanch din tak survive kar sakte hain, isliye fertile window kai dino ki hoti hai. Agar ek sperm egg se mil jaye, toh use fertilisation kehte hain. Fertilised egg travel karte hue divide hota rehta hai aur lagbhag ek hafte baad uterus ki lining se attach ho jata hai; yeh implantation hai, aur yahin se pregnancy start hoti hai. Embryo tak oxygen aur nutrients pahunchane ke liye placenta banta hai. Pregnancy lagbhag 40 hafte chalti hai, jo last period ke pehle din se count hoti hai. Yeh pehli hi baar sex karne par bhi ho sakti hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Ovulation always happens on day 14, so all the other days are safe.",
+    "hi": "ओव्यूलेशन हमेशा 14वें दिन होता है, इसलिए बाकी सारे दिन सुरक्षित हैं।",
+    "hg": "Ovulation hamesha day 14 par hota hai, toh baaki saare din safe hain."
+   },
+   "fact": {
+    "en": "Ovulation timing shifts from cycle to cycle, especially in teenagers, and sperm can survive for up to about five days. Counting safe days is not reliable protection against pregnancy.",
+    "hi": "ओव्यूलेशन का समय हर चक्र में बदल सकता है, ख़ासकर किशोर उम्र में, और शुक्राणु क़रीब पाँच दिन तक ज़िंदा रह सकते हैं। सुरक्षित दिन गिनना गर्भ से बचाव का भरोसेमंद तरीक़ा नहीं है।",
+    "hg": "Ovulation ki timing har cycle mein shift ho sakti hai, khaaskar teenagers mein, aur sperm lagbhag paanch din tak survive kar sakte hain. Safe days count karna pregnancy se bachne ka reliable tareeka nahi hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Sperm are made continuously from puberty, while eggs are present from birth and released one cycle at a time.",
+    "hi": "शुक्राणु प्यूबर्टी के बाद से लगातार बनते हैं, जबकि अंडाणु जन्म से मौजूद होते हैं और हर चक्र में एक निकलता है।",
+    "hg": "Sperm puberty ke baad se continuously bante hain, jabki eggs janam se present hote hain aur har cycle mein ek release hota hai."
+   },
+   {
+    "en": "A period is the lining of the uterus leaving the body because no pregnancy has begun.",
+    "hi": "पीरियड का मतलब है कि गर्भ नहीं ठहरा, इसलिए गर्भाशय की परत शरीर से बाहर निकल रही है।",
+    "hg": "Period ka matlab hai ki pregnancy start nahi hui, isliye uterus ki lining body se bahar nikal rahi hai."
+   },
+   {
+    "en": "Pregnancy begins when a fertilised egg implants in the uterus, and it can happen the first time someone has sex.",
+    "hi": "गर्भावस्था तब शुरू होती है जब निषेचित अंडाणु गर्भाशय में जम जाता है, और यह पहली बार सेक्स करने पर भी हो सकता है।",
+    "hg": "Pregnancy tab start hoti hai jab fertilised egg uterus mein implant hota hai, aur yeh pehli baar sex karne par bhi ho sakta hai."
+   }
+  ],
+  "activity": {
+   "en": "Sketch a timeline of one cycle, from day one of a period to the next period. Mark where the lining thickens, where ovulation happens and where the lining sheds. Then compare your sketch with the Period Lab.",
+   "hi": "एक चक्र की टाइमलाइन बनाओ, पीरियड के पहले दिन से अगले पीरियड तक। उसमें दिखाओ कि परत कब मोटी होती है, ओव्यूलेशन कब होता है और परत कब निकलती है। फिर अपने चित्र को Period Lab से मिलाकर देखो।",
+   "hg": "Ek cycle ki timeline sketch karo, period ke day one se next period tak. Mark karo ki lining kab moti hoti hai, ovulation kab hota hai aur lining kab shed hoti hai. Phir apna sketch Period Lab se compare karo."
+  },
+  "interactive": "period_lab",
+  "quiz": [
+   {
+    "id": "d01-l04-q1",
+    "type": "mcq",
+    "q": {
+     "en": "About how long does an egg survive after ovulation?",
+     "hi": "ओव्यूलेशन के बाद अंडाणु लगभग कितनी देर ज़िंदा रहता है?",
+     "hg": "Ovulation ke baad egg lagbhag kitni der survive karta hai?"
+    },
+    "options": [
+     {
+      "en": "A few minutes",
+      "hi": "कुछ मिनट",
+      "hg": "Kuch minute"
+     },
+     {
+      "en": "Roughly 12 to 24 hours",
+      "hi": "लगभग 12 से 24 घंटे",
+      "hg": "Roughly 12 se 24 ghante"
+     },
+     {
+      "en": "About one week",
+      "hi": "क़रीब एक हफ़्ता",
+      "hg": "Lagbhag ek hafta"
+     },
+     {
+      "en": "Until the next period",
+      "hi": "अगले पीरियड तक",
+      "hg": "Next period tak"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "The egg lasts about 12 to 24 hours. The fertile window is longer only because sperm can survive for up to about five days.",
+     "hi": "अंडाणु लगभग 12 से 24 घंटे टिकता है। गर्भ ठहरने की संभावना वाले दिन ज़्यादा इसलिए होते हैं क्योंकि शुक्राणु क़रीब पाँच दिन तक ज़िंदा रह सकते हैं।",
+     "hg": "Egg lagbhag 12 se 24 ghante tikta hai. Fertile window lambi isliye hoti hai kyunki sperm lagbhag paanch din tak survive kar sakte hain."
+    }
+   },
+   {
+    "id": "d01-l04-q2",
+    "type": "mcq",
+    "q": {
+     "en": "Where does fertilisation usually take place?",
+     "hi": "निषेचन आम तौर पर कहाँ होता है?",
+     "hg": "Fertilisation usually kahan hota hai?"
+    },
+    "options": [
+     {
+      "en": "In the vagina",
+      "hi": "योनि में",
+      "hg": "Vagina mein"
+     },
+     {
+      "en": "In the ovary",
+      "hi": "अंडाशय में",
+      "hg": "Ovary mein"
+     },
+     {
+      "en": "In the uterus",
+      "hi": "गर्भाशय में",
+      "hg": "Uterus mein"
+     },
+     {
+      "en": "In the fallopian tube",
+      "hi": "फ़ैलोपियन ट्यूब में",
+      "hg": "Fallopian tube mein"
+     }
+    ],
+    "answer": 3,
+    "explain": {
+     "en": "Sperm and egg usually meet in the fallopian tube. The fertilised egg then travels to the uterus and implants about a week later.",
+     "hi": "शुक्राणु और अंडाणु आम तौर पर फ़ैलोपियन ट्यूब में मिलते हैं। फिर निषेचित अंडाणु गर्भाशय तक जाता है और क़रीब एक हफ़्ते बाद वहाँ जम जाता है।",
+     "hg": "Sperm aur egg usually fallopian tube mein milte hain. Phir fertilised egg uterus tak jaata hai aur lagbhag ek hafte baad implant hota hai."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "nhs-periods",
+   "who-fp"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d01-l05",
+  "domain": "d01",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "men",
+   "women"
+  ],
+  "body": [
+   "penis_testicular",
+   "vulva_vaginal"
+  ],
+  "difficulty": 3,
+  "minutes": 8,
+  "unesco": [
+   6,
+   7
+  ],
+  "title": {
+   "en": "The Parts Textbooks Skip",
+   "hi": "वे अंग जो किताबें छोड़ देती हैं",
+   "hg": "Woh Parts Jo Textbooks Skip Kar Deti Hain"
+  },
+  "subtitle": {
+   "en": "Clitoris, hymen, cervix, foreskin and prostate, without the rumours",
+   "hi": "क्लिटोरिस, हाइमन, सर्विक्स, फ़ोरस्किन और प्रोस्टेट, अफ़वाहों के बिना",
+   "hg": "Clitoris, hymen, cervix, foreskin aur prostate, rumours ke bina"
+  },
+  "hook": {
+   "en": "School diagrams often leave out the clitoris and never mention the hymen. Rumours fill that gap. Here is the anatomy instead.",
+   "hi": "स्कूल के चित्रों में अक्सर क्लिटोरिस होता ही नहीं और हाइमन का ज़िक्र तक नहीं आता। इस ख़ाली जगह को अफ़वाहें भर देती हैं। यहाँ अफ़वाह नहीं, शरीर-रचना है।",
+   "hg": "School ke diagrams mein aksar clitoris hota hi nahi aur hymen ka zikr tak nahi aata. Us gap ko rumours bhar dete hain. Yahan rumours nahi, anatomy hai."
+  },
+  "objectives": [
+   {
+    "en": "Describe the structure and role of the clitoris.",
+    "hi": "क्लिटोरिस की बनावट और काम बताना।",
+    "hg": "Clitoris ka structure aur role batana."
+   },
+   {
+    "en": "Explain what the hymen is and why it cannot show anyone's sexual history.",
+    "hi": "समझाना कि हाइमन क्या है और यह किसी के यौन इतिहास के बारे में कुछ क्यों नहीं बता सकता।",
+    "hg": "Samjhana ki hymen kya hai aur yeh kisi ki sexual history ke baare mein kuch kyun nahi bata sakta."
+   },
+   {
+    "en": "Identify the cervix, foreskin and prostate and what each one does.",
+    "hi": "सर्विक्स, फ़ोरस्किन और प्रोस्टेट को पहचानना और हर एक का काम जानना।",
+    "hg": "Cervix, foreskin aur prostate ko identify karna aur har ek ka kaam jaanna."
+   }
+  ],
+  "prereqs": [
+   "d01-l04"
+  ],
+  "sections": [
+   {
+    "h": {
+     "en": "The clitoris: mostly internal",
+     "hi": "क्लिटोरिस: ज़्यादातर हिस्सा अंदर",
+     "hg": "Clitoris: zyadatar part andar hai"
+    },
+    "body": {
+     "en": "The visible part of the clitoris, the glans, is a small rounded nub at the top of the vulva, partly covered by a fold of skin called the clitoral hood. But most of the organ is inside the body: a short shaft, two arms called crura, and two bulbs of spongy tissue that sit on either side of the vaginal opening. It grows from the same tissue in the embryo that forms the penis, and it swells with blood in a similar way. It contains thousands of nerve endings. Its role is sensation, including sexual sensation; it plays no part in urination, periods or pregnancy.",
+     "hi": "क्लिटोरिस का दिखने वाला हिस्सा, यानी ग्लैन्स, वल्वा के ऊपरी सिरे पर एक छोटा गोल उभार है, जिसे त्वचा की एक तह थोड़ा ढके रहती है; इस तह को क्लिटोरल हुड कहते हैं। लेकिन इस अंग का ज़्यादातर हिस्सा शरीर के अंदर होता है: एक छोटा शाफ़्ट, दो भुजाएँ जिन्हें क्रूरा कहते हैं, और स्पंजी ऊतक के दो बल्ब जो योनि के मुँह के दोनों तरफ़ होते हैं। भ्रूण में यह उसी ऊतक से बनता है जिससे लिंग बनता है, और उसी तरह ख़ून भरने से फूलता है। इसमें हज़ारों तंत्रिका-सिरे होते हैं। इसका काम संवेदना है, जिसमें यौन संवेदना भी शामिल है; पेशाब, पीरियड या गर्भ में इसकी कोई भूमिका नहीं होती।",
+     "hg": "Clitoris ka visible part, yaani glans, vulva ke top par ek chhota gol ubhaar hai, jise skin ka ek fold thoda cover karta hai; is fold ko clitoral hood kehte hain. Lekin is organ ka zyadatar hissa body ke andar hota hai: ek chhota shaft, do arms jinhe crura kehte hain, aur spongy tissue ke do bulbs jo vaginal opening ke dono side hote hain. Embryo mein yeh usi tissue se banta hai jisse penis banta hai, aur usi tarah blood bharne se swell hota hai. Isme hazaaron nerve endings hoti hain. Iska role sensation hai, jisme sexual sensation bhi shamil hai; urine, periods ya pregnancy mein iska koi role nahi hota."
+    }
+   },
+   {
+    "h": {
+     "en": "The hymen: what it is and is not",
+     "hi": "हाइमन: क्या है और क्या नहीं",
+     "hg": "Hymen: kya hai aur kya nahi"
+    },
+    "body": {
+     "en": "The hymen is a thin, stretchy rim of tissue around the vaginal opening. It is not a seal; it normally has an opening, which is how period blood leaves the body. Its shape and thickness vary naturally, and some people are born with very little. It can stretch or wear down through growth, sport, tampon use or nothing in particular, and it may or may not tear or bleed at first intercourse. So no examination can show whether someone has had sex. Virginity tests are unscientific and have been condemned by WHO, and the Supreme Court of India has prohibited the two-finger test on survivors of sexual assault.",
+     "hi": "हाइमन योनि के मुँह के चारों ओर ऊतक की एक पतली, लचीली किनारी है। यह कोई सील नहीं है; इसमें आम तौर पर छेद होता है, और उसी से पीरियड का ख़ून बाहर आता है। इसकी बनावट और मोटाई हर किसी में अलग होती है, और कुछ लोगों में यह जन्म से ही बहुत कम होता है। यह शरीर के बढ़ने, खेलकूद, टैम्पॉन के इस्तेमाल या बिना किसी ख़ास वजह के भी खिंच या घिस सकता है, और पहली बार संभोग में यह फट भी सकता है और नहीं भी, ख़ून आ भी सकता है और नहीं भी। इसलिए कोई भी जाँच यह नहीं बता सकती कि किसी ने सेक्स किया है या नहीं। वर्जिनिटी टेस्ट अवैज्ञानिक हैं और WHO ने इनकी निंदा की है; भारत के सुप्रीम कोर्ट ने यौन हमले की सर्वाइवर पर टू-फ़िंगर टेस्ट करने पर रोक लगाई है।",
+     "hg": "Hymen vaginal opening ke around tissue ki ek patli, stretchy rim hai. Yeh koi seal nahi hai; isme normally opening hoti hai, aur usi se period blood bahar aata hai. Iski shape aur thickness naturally sabme alag hoti hai, aur kuch logon mein yeh janam se hi bahut kam hota hai. Yeh growth, sports, tampon use ya bina kisi khaas reason ke bhi stretch ya ghis sakta hai, aur first intercourse par yeh tear ho bhi sakta hai aur nahi bhi, bleeding ho bhi sakti hai aur nahi bhi. Isliye koi bhi examination yeh nahi bata sakta ki kisi ne sex kiya hai ya nahi. Virginity tests unscientific hain aur WHO ne inhe condemn kiya hai; Supreme Court of India ne sexual assault survivors par two-finger test ko prohibit kiya hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Vagina and cervix",
+     "hi": "योनि और सर्विक्स",
+     "hg": "Vagina aur cervix"
+    },
+    "body": {
+     "en": "The vagina is a muscular passage, usually collapsed with its walls touching, that stretches a great deal and returns to shape; it does not become permanently loose. It keeps itself clean with a slightly acidic fluid and helpful bacteria, so washing inside it with soap or sprays upsets that balance. Only the vulva needs gentle washing. At the top is the cervix, the firm lower neck of the uterus, with a tiny opening that lets period blood out and sperm in, and that widens during childbirth. The cervix is what cervical screening checks and what HPV vaccination helps protect.",
+     "hi": "योनि मांसपेशियों से बना एक रास्ता है, जिसकी दीवारें आम तौर पर आपस में सटी रहती हैं। यह बहुत ज़्यादा खिंच सकती है और फिर अपने आकार में लौट आती है; यह हमेशा के लिए ढीली नहीं होती। हल्के अम्लीय तरल और अच्छे बैक्टीरिया की मदद से यह ख़ुद को साफ़ रखती है, इसलिए इसके अंदर साबुन या स्प्रे से धोने पर यह संतुलन बिगड़ जाता है। सिर्फ़ वल्वा को हल्के हाथ से धोना काफ़ी है। योनि के ऊपरी सिरे पर सर्विक्स (गर्भाशय ग्रीवा) होती है, यानी गर्भाशय का सख़्त निचला हिस्सा, जिसका छोटा-सा छेद पीरियड के ख़ून को बाहर और शुक्राणु को अंदर जाने देता है और प्रसव के समय चौड़ा हो जाता है। सर्वाइकल स्क्रीनिंग में इसी की जाँच होती है और HPV का टीका इसी की सुरक्षा में मदद करता है।",
+     "hg": "Vagina ek muscular passage hai, jiski walls usually aapas mein touch karti rehti hain. Yeh bahut zyada stretch ho sakti hai aur phir apni shape mein wapas aa jaati hai; yeh permanently loose nahi hoti. Halke acidic fluid aur helpful bacteria ki madad se yeh khud ko clean rakhti hai, isliye iske andar soap ya sprays se wash karne par woh balance bigad jata hai. Sirf vulva ko gently wash karna kaafi hai. Vagina ke top par cervix hoti hai, yaani uterus ka firm nichla neck, jiski chhoti si opening period blood ko bahar aur sperm ko andar jaane deti hai aur childbirth ke time chaudi ho jaati hai. Cervical screening mein isi ko check kiya jata hai aur HPV vaccine isi ko protect karne mein help karti hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Foreskin, erections and the prostate",
+     "hi": "फ़ोरस्किन, इरेक्शन और प्रोस्टेट",
+     "hg": "Foreskin, erections aur prostate"
+    },
+    "body": {
+     "en": "The foreskin protects the glans. In childhood it is often attached and may not fully pull back until the teen years; it should never be forced. Once it retracts, rinse underneath with water, then bring it forward again. An erection is caused by blood filling spongy tissue in the penis; there is no bone in it, and no exercise, oil or pill enlarges it. Flaccid size says little about erect size, and size has no link to fertility. A slight curve is common. The prostate, a walnut-sized gland below the bladder, adds fluid to semen. Painful erections, a tight painful foreskin or a marked bend deserve a doctor's visit.",
+     "hi": "फ़ोरस्किन ग्लैन्स की हिफ़ाज़त करती है। बचपन में यह अक्सर जुड़ी रहती है और हो सकता है कि किशोर उम्र तक पूरी तरह पीछे न खिसके; इसे कभी ज़बरदस्ती नहीं खींचना चाहिए। जब यह पीछे जाने लगे, तो नीचे पानी से धो लेना काफ़ी है; धोने के बाद इसे हमेशा वापस आगे कर देना चाहिए। इरेक्शन तब होता है जब लिंग के स्पंजी ऊतक में ख़ून भर जाता है; इसमें कोई हड्डी नहीं होती, और कोई कसरत, तेल या गोली इसे बड़ा नहीं करती। ढीली अवस्था के आकार से इरेक्शन के आकार का ख़ास अंदाज़ा नहीं लगता, और आकार का प्रजनन क्षमता से कोई संबंध नहीं है। हल्का टेढ़ापन आम है। प्रोस्टेट, मूत्राशय के नीचे अखरोट जितनी बड़ी ग्रंथि, वीर्य में तरल मिलाती है। दर्द वाला इरेक्शन, कसी हुई दर्दनाक फ़ोरस्किन या ज़्यादा टेढ़ापन हो तो डॉक्टर को दिखाना चाहिए।",
+     "hg": "Foreskin glans ko protect karti hai. Bachpan mein yeh aksar attached rehti hai aur ho sakta hai ki teen years tak poori tarah peeche na jaye; ise kabhi force nahi karna chahiye. Jab yeh retract hone lage, toh neeche paani se rinse karna kaafi hai; rinse ke baad ise hamesha wapas aage kar dena chahiye. Erection tab hota hai jab penis ke spongy tissue mein blood bhar jata hai; isme koi bone nahi hoti, aur koi exercise, tel ya goli ise bada nahi karti. Flaccid size se erect size ka zyada andaza nahi lagta, aur size ka fertility se koi link nahi hai. Halka curve common hai. Prostate, bladder ke neeche akhrot ke size ki gland, semen mein fluid add karti hai. Painful erections, tight aur painful foreskin ya zyada bend ho toh doctor ko dikhana chahiye."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Bleeding on the wedding night proves a woman is a virgin.",
+    "hi": "शादी की रात ख़ून आना साबित करता है कि औरत कुँवारी है।",
+    "hg": "Shaadi ki raat bleeding hona prove karta hai ki aurat virgin hai."
+   },
+   "fact": {
+    "en": "Many people do not bleed the first time they have intercourse, and some hymens are barely there from birth. Bleeding, or no bleeding, proves nothing about anyone's past.",
+    "hi": "बहुत से लोगों को पहली बार संभोग में ख़ून नहीं आता, और कुछ में हाइमन जन्म से ही न के बराबर होता है। ख़ून आना या न आना किसी के अतीत के बारे में कुछ साबित नहीं करता।",
+    "hg": "Bahut logon ko first intercourse par bleeding nahi hoti, aur kuch mein hymen janam se hi na ke barabar hota hai. Bleeding hona ya na hona kisi ke past ke baare mein kuch prove nahi karta."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Most of the clitoris lies inside the body, and its role is sensation.",
+    "hi": "क्लिटोरिस का ज़्यादातर हिस्सा शरीर के अंदर होता है, और इसका काम संवेदना है।",
+    "hg": "Clitoris ka zyadatar part body ke andar hota hai, aur iska role sensation hai."
+   },
+   {
+    "en": "The hymen varies naturally and can never show whether someone has had sex.",
+    "hi": "हाइमन हर किसी में अलग होता है और यह कभी नहीं बता सकता कि किसी ने सेक्स किया है या नहीं।",
+    "hg": "Hymen naturally sabme alag hota hai aur yeh kabhi nahi bata sakta ki kisi ne sex kiya hai ya nahi."
+   },
+   {
+    "en": "The vagina cleans itself, and no oil, pill or exercise changes penis size.",
+    "hi": "योनि ख़ुद को साफ़ रखती है, और कोई तेल, गोली या कसरत लिंग का आकार नहीं बदलती।",
+    "hg": "Vagina khud ko clean rakhti hai, aur koi tel, goli ya exercise penis ka size nahi badalti."
+   }
+  ],
+  "activity": {
+   "en": "Think of one claim about bodies that you picked up from friends, films or relatives and that this lesson contradicts. Privately note where you heard it and what the anatomy actually says.",
+   "hi": "शरीर के बारे में कोई एक ऐसी बात सोचिए जो आपने दोस्तों, फ़िल्मों या रिश्तेदारों से सुनी थी और जो इस पाठ से मेल नहीं खाती। अपने लिए लिख लीजिए कि वह बात कहाँ सुनी थी और शरीर-रचना असल में क्या कहती है।",
+   "hg": "Body ke baare mein koi ek aisi baat socho jo tumne friends, films ya relatives se suni thi aur jo is lesson se match nahi karti. Privately note karo ki woh kahan suni thi aur anatomy actually kya kehti hai."
+  },
+  "interactive": "myth_buster",
+  "quiz": [
+   {
+    "id": "d01-l05-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Which statement about the clitoris is correct?",
+     "hi": "क्लिटोरिस के बारे में कौन-सी बात सही है?",
+     "hg": "Clitoris ke baare mein kaun si baat sahi hai?"
+    },
+    "options": [
+     {
+      "en": "It is the opening that urine comes out of",
+      "hi": "यह वह छेद है जिससे पेशाब निकलता है",
+      "hg": "Yeh woh opening hai jisse urine nikalta hai"
+     },
+     {
+      "en": "Most of its structure lies inside the body",
+      "hi": "इसकी ज़्यादातर बनावट शरीर के अंदर होती है",
+      "hg": "Iska zyadatar structure body ke andar hota hai"
+     },
+     {
+      "en": "It only forms after puberty",
+      "hi": "यह प्यूबर्टी के बाद ही बनता है",
+      "hg": "Yeh puberty ke baad hi banta hai"
+     },
+     {
+      "en": "It is a part of the uterus",
+      "hi": "यह गर्भाशय का एक हिस्सा है",
+      "hg": "Yeh uterus ka ek part hai"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Only the glans is visible. The shaft, crura and bulbs extend inside the body around the vaginal opening.",
+     "hi": "सिर्फ़ ग्लैन्स बाहर दिखता है। शाफ़्ट, क्रूरा और बल्ब शरीर के अंदर योनि के मुँह के आसपास फैले होते हैं।",
+     "hg": "Sirf glans bahar dikhta hai. Shaft, crura aur bulbs body ke andar vaginal opening ke around phaile hote hain."
+    }
+   },
+   {
+    "id": "d01-l05-q2",
+    "type": "tf",
+    "q": {
+     "en": "A medical examination of the hymen can confirm whether a person has had sex.",
+     "hi": "हाइमन की मेडिकल जाँच से पक्का पता चल सकता है कि किसी ने सेक्स किया है या नहीं।",
+     "hg": "Hymen ke medical examination se confirm ho sakta hai ki kisi ne sex kiya hai ya nahi."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "The hymen varies naturally and changes for many reasons, so no examination can show sexual history. Such tests are unscientific, and the Supreme Court of India has prohibited the two-finger test on survivors of sexual assault.",
+     "hi": "हाइमन हर किसी में अलग होता है और कई कारणों से बदलता है, इसलिए कोई जाँच यौन इतिहास नहीं बता सकती। ऐसे टेस्ट अवैज्ञानिक हैं, और भारत के सुप्रीम कोर्ट ने यौन हमले की सर्वाइवर पर टू-फ़िंगर टेस्ट करने पर रोक लगाई है।",
+     "hg": "Hymen naturally alag hota hai aur kai reasons se change hota hai, isliye koi examination sexual history nahi bata sakta. Aise tests unscientific hain, aur Supreme Court of India ne sexual assault survivors par two-finger test ko prohibit kiya hai."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-sexual-health",
+   "who-cervical"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d01-l06",
+  "domain": "d01",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone",
+   "intersex"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   6,
+   5
+  ],
+  "title": {
+   "en": "Normal Is a Range",
+   "hi": "सामान्य का दायरा बहुत बड़ा है",
+   "hg": "Normal Ek Range Hai"
+  },
+  "subtitle": {
+   "en": "Body diversity, intersex variations, body image and when to see a doctor",
+   "hi": "शरीर की विविधता, इंटरसेक्स भिन्नताएँ, बॉडी इमेज और डॉक्टर के पास कब जाएँ",
+   "hg": "Body diversity, intersex variations, body image aur doctor ke paas kab jaana hai"
+  },
+  "hook": {
+   "en": "There is no single normal body, only a wide range of healthy ones. The skill is knowing what is plain variation and what really needs a doctor.",
+   "hi": "कोई एक सामान्य शरीर नहीं होता, बस स्वस्थ शरीरों का एक बहुत बड़ा दायरा होता है। असली हुनर यह पहचानना है कि क्या बस भिन्नता है और किस चीज़ के लिए सच में डॉक्टर चाहिए।",
+   "hg": "Koi ek normal body nahi hoti, bas healthy bodies ki ek badi range hoti hai. Asli skill yeh pehchanna hai ki kya sirf variation hai aur kis cheez ke liye sach mein doctor chahiye."
+  },
+  "objectives": [
+   {
+    "en": "Recognise common, harmless variations in bodies and genitals.",
+    "hi": "शरीर और जननांगों की आम, हानिरहित भिन्नताओं को पहचानना।",
+    "hg": "Body aur genitals ke common, harmless variations ko pehchanna."
+   },
+   {
+    "en": "Explain intersex variations accurately and respectfully.",
+    "hi": "इंटरसेक्स भिन्नताओं को सही और सम्मान के साथ समझाना।",
+    "hg": "Intersex variations ko accurately aur respect ke saath explain karna."
+   },
+   {
+    "en": "Identify the symptoms that need medical attention.",
+    "hi": "उन लक्षणों को पहचानना जिनके लिए डॉक्टर को दिखाना ज़रूरी है।",
+    "hg": "Un symptoms ko identify karna jinke liye doctor ko dikhana zaroori hai."
+   }
+  ],
+  "prereqs": [
+   "d01-l03"
+  ],
+  "sections": [
+   {
+    "h": {
+     "en": "Variation is the rule",
+     "hi": "भिन्नता ही नियम है",
+     "hg": "Variation hi rule hai"
+    },
+    "body": {
+     "en": "Look at any group of faces and no two are identical. Genitals, breasts and chests vary just as much. Inner labia may be longer than the outer ones, darker than the surrounding skin, or uneven. One breast is often larger than the other. Nipples can be flat, raised or turned inward. One testis usually hangs lower, a penis may curve slightly, and skin in the genital area is typically darker than elsewhere. Body hair ranges from sparse to dense, depending largely on family genes. Stretch marks appear on many people during fast growth. None of this needs fixing.",
+     "hi": "किसी भी भीड़ के चेहरे देखो, कोई दो एक जैसे नहीं मिलेंगे। जननांग, स्तन और छाती भी उतने ही अलग-अलग होते हैं। भीतरी लेबिया बाहरी लेबिया से लंबे हो सकते हैं, आसपास की त्वचा से गहरे रंग के हो सकते हैं, या दोनों तरफ़ बराबर नहीं होते। अक्सर एक स्तन दूसरे से बड़ा होता है। निप्पल चपटे, उभरे हुए या अंदर की ओर मुड़े हो सकते हैं। एक वृषण आम तौर पर दूसरे से थोड़ा नीचे लटकता है, लिंग थोड़ा टेढ़ा हो सकता है, और जननांगों के आसपास की त्वचा बाकी शरीर से गहरी होती है। शरीर के बाल किसी में कम और किसी में घने होते हैं, जो ज़्यादातर परिवार के जीन पर निर्भर है। तेज़ी से बढ़ते समय बहुत लोगों को स्ट्रेच मार्क्स आते हैं। इनमें से किसी को ठीक करने की ज़रूरत नहीं है।",
+     "hg": "Kisi bhi group ke faces dekho, koi do same nahi milenge. Genitals, breasts aur chests bhi utne hi alag hote hain. Inner labia outer labia se lambe ho sakte hain, aas-paas ki skin se dark ho sakte hain, ya dono side barabar nahi hote. Aksar ek breast doosre se bada hota hai. Nipples flat, ubhre hue ya andar ki taraf mude ho sakte hain. Ek testis usually doosre se thoda neeche latakta hai, penis thoda curved ho sakta hai, aur genital area ki skin baaki body se dark hoti hai. Body hair kisi mein kam aur kisi mein ghane hote hain, jo zyadatar family genes par depend karta hai. Fast growth ke time bahut logon ko stretch marks aate hain. Inme se kuch bhi fix karne ki zaroorat nahi hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Intersex variations",
+     "hi": "इंटरसेक्स भिन्नताएँ",
+     "hg": "Intersex variations"
+    },
+    "body": {
+     "en": "Some people are born with sex characteristics, such as chromosomes, hormone patterns, internal organs or genitals, that do not fit the typical definitions of male or female. These are called intersex variations. Some are noticed at birth, others only at puberty, for example when periods do not start or the body develops in an unexpected way, and some are never discovered. Intersex variations are natural differences in human bodies, not an illness and nobody's fault. An intersex person may identify as a girl, a boy or neither. They deserve the same privacy, respect and say over their own body as anyone else.",
+     "hi": "कुछ लोग ऐसी यौन विशेषताओं के साथ पैदा होते हैं, जैसे क्रोमोसोम, हार्मोन का पैटर्न, अंदरूनी अंग या जननांग, जो पुरुष या स्त्री की आम परिभाषा में पूरी तरह फ़िट नहीं बैठतीं। इन्हें इंटरसेक्स भिन्नताएँ कहते हैं। कुछ का पता जन्म के समय चल जाता है, कुछ का प्यूबर्टी में, जैसे जब पीरियड शुरू नहीं होते या शरीर उम्मीद से अलग ढंग से विकसित होता है, और कुछ का कभी पता ही नहीं चलता। इंटरसेक्स भिन्नताएँ इंसानी शरीर के प्राकृतिक अंतर हैं, कोई बीमारी नहीं, और इसमें किसी की ग़लती नहीं। इंटरसेक्स व्यक्ति ख़ुद को लड़की, लड़का या इनमें से कोई नहीं मान सकता है। उन्हें भी वही निजता, सम्मान और अपने शरीर पर वही हक़ मिलना चाहिए जो हर किसी को मिलता है।",
+     "hg": "Kuch log aise sex characteristics ke saath paida hote hain, jaise chromosomes, hormone pattern, internal organs ya genitals, jo male ya female ki typical definition mein poori tarah fit nahi hote. Inhe intersex variations kehte hain. Kuch ka pata birth par chal jata hai, kuch ka puberty mein, jaise jab periods start nahi hote ya body expected se alag develop hoti hai, aur kuch ka kabhi pata hi nahi chalta. Intersex variations human bodies ke natural differences hain, koi bimaari nahi, aur isme kisi ki galti nahi. Intersex person khud ko ladki, ladka ya dono mein se koi nahi maan sakta hai. Unhe bhi wahi privacy, respect aur apni body par wahi haq milna chahiye jo sabko milta hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Body image: who set the standard?",
+     "hi": "बॉडी इमेज: पैमाना किसने तय किया?",
+     "hg": "Body image: standard set kisne kiya?"
+    },
+    "body": {
+     "en": "Most of us compare our bodies to images that were chosen, posed, lit and edited. Adverts, films, influencers and adult content show a narrow slice of bodies, often altered, and that is not a measuring tape for real ones. Fairness creams, enlargement oils, breast-firming gels and height powders sell by first making you feel defective; they do not change anatomy. A more useful question than how you look is what your body can do and whether it is healthy. If worry about your body eats up hours of your day, or stops you from eating, going out or changing for sports, talk to someone you trust.",
+     "hi": "हममें से ज़्यादातर लोग अपने शरीर की तुलना उन तस्वीरों से करते हैं जो चुनी गई हैं, पोज़ देकर खींची गई हैं, ख़ास रोशनी में ली गई हैं और एडिट की गई हैं। विज्ञापन, फ़िल्में, इन्फ़्लुएंसर और वयस्कों के लिए बना कंटेंट शरीरों का बस एक छोटा-सा, अक्सर बदला हुआ हिस्सा दिखाते हैं, और वह असली शरीरों को नापने का फ़ीता नहीं है। गोरेपन की क्रीम, आकार बढ़ाने वाले तेल, ब्रेस्ट टाइट करने वाले जेल और लंबाई बढ़ाने वाले पाउडर पहले तुम्हें यह महसूस कराकर बिकते हैं कि तुममें कमी है; ये शरीर की बनावट नहीं बदलते। मेरा शरीर कैसा दिखता है, इससे ज़्यादा काम का सवाल यह है कि वह क्या-क्या कर सकता है और क्या वह स्वस्थ है। अगर शरीर की चिंता दिन के कई घंटे खा रही है, या खाना खाने, बाहर जाने या खेल के लिए कपड़े बदलने से रोक रही है, तो किसी भरोसेमंद इंसान से बात करो।",
+     "hg": "Hum mein se zyadatar log apni body ko un images se compare karte hain jo choose ki gayi hain, pose karke li gayi hain, perfect lighting mein hain aur edited hain. Ads, films, influencers aur adult content bodies ka bas ek chhota sa, aksar altered slice dikhate hain, aur woh real bodies ko naapne ka tape nahi hai. Fairness creams, enlargement oils, breast-firming gels aur height powders pehle tumhe defective feel karakar bikte hain; yeh anatomy nahi badalte. Meri body kaisi dikhti hai, isse zyada useful sawaal yeh hai ki woh kya-kya kar sakti hai aur kya woh healthy hai. Agar body ki tension din ke kai ghante kha rahi hai, ya khana khane, bahar jaane ya sports ke liye kapde change karne se rok rahi hai, toh kisi trusted insaan se baat karo."
+    }
+   },
+   {
+    "h": {
+     "en": "When to see a doctor",
+     "hi": "डॉक्टर के पास कब जाएँ",
+     "hg": "Doctor ke paas kab jaana hai"
+    },
+    "body": {
+     "en": "Get checked for: a new lump in a testis or breast; discharge from the penis, or vaginal discharge that turns grey, green or yellow, smells strong or comes with itching; burning when you urinate; genital sores, warts or a rash; bleeding between periods; a tight or painful foreskin; no signs of puberty by 13 in girls or 14 in boys; or no period by 15. Sudden, severe pain in a testis, or a foreskin pulled back that will not go forward again, is an emergency: go to hospital immediately. Government Adolescent Friendly Health Clinics offer counselling and check-ups for ages 10 to 19. Doctors have seen every kind of body.",
+     "hi": "इन बातों पर जाँच करवाओ: वृषण या स्तन में नई गाँठ; लिंग से स्राव, या योनि का ऐसा स्राव जो सलेटी, हरा या पीला हो जाए, तेज़ बदबू दे या जिसके साथ खुजली हो; पेशाब में जलन; जननांगों पर घाव, मस्से या दाने; दो पीरियड के बीच ख़ून आना; फ़ोरस्किन का कसा हुआ होना या उसमें दर्द होना; लड़कियों में 13 और लड़कों में 14 साल तक प्यूबर्टी का कोई लक्षण न दिखना; या 15 साल तक पीरियड न आना। वृषण में अचानक तेज़ दर्द, या पीछे खींची हुई फ़ोरस्किन का अटक जाना और वापस आगे न आना, इमरजेंसी है: तुरंत अस्पताल जाओ। सरकारी स्वास्थ्य केंद्रों के किशोर अनुकूल स्वास्थ्य क्लिनिक (AFHC) में 10 से 19 साल वालों के लिए सलाह और जाँच की सुविधा होती है। डॉक्टर हर तरह का शरीर देख चुके होते हैं; तुम्हारा शरीर देखकर वे चौंकेंगे नहीं।",
+     "hg": "In cheezon par check-up karwao: testis ya breast mein nayi lump; penis se discharge, ya vaginal discharge jo grey, green ya yellow ho jaye, strong smell kare ya jiske saath itching ho; urine karte time jalan; genitals par sores, warts ya rash; do periods ke beech bleeding; foreskin ka tight hona ya usme dard hona; ladkiyon mein 13 aur ladkon mein 14 saal tak puberty ka koi sign na dikhna; ya 15 saal tak period na aana. Testis mein achanak tez dard, ya peeche kheenchi hui foreskin ka atak jana aur wapas aage na aana, emergency hai: turant hospital jao. Government facilities ke Adolescent Friendly Health Clinics (AFHC) mein 10 se 19 saal walon ke liye counselling aur check-ups hote hain. Doctor har tarah ki body dekh chuke hote hain; tumhari body dekhkar woh shock nahi honge."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "If my body does not look like the ones online, something is wrong with it.",
+    "hi": "अगर मेरा शरीर ऑनलाइन दिखने वाले शरीरों जैसा नहीं है, तो उसमें कुछ गड़बड़ है।",
+    "hg": "Agar meri body online dikhne wali bodies jaisi nahi hai, toh usme kuch gadbad hai."
+   },
+   "fact": {
+    "en": "Online images are selected and often edited, and they show a tiny part of the real range. Healthy bodies differ widely in size, shape, colour and symmetry.",
+    "hi": "ऑनलाइन तस्वीरें छाँटी हुई और अक्सर एडिट की हुई होती हैं, और वे असली दायरे का बहुत छोटा हिस्सा दिखाती हैं। स्वस्थ शरीर आकार, बनावट, रंग और बराबरी में बहुत अलग-अलग होते हैं।",
+    "hg": "Online images selected aur aksar edited hoti hain, aur woh real range ka bahut chhota part dikhati hain. Healthy bodies size, shape, colour aur symmetry mein bahut alag-alag hoti hain."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Uneven, curved, darker or hairier are usually just variations, not defects.",
+    "hi": "ऊँचा-नीचा, टेढ़ा, गहरे रंग का या ज़्यादा बालों वाला होना आम तौर पर बस भिन्नता है, कमी नहीं।",
+    "hg": "Uneven, curved, dark ya zyada hairy hona usually sirf variation hai, defect nahi."
+   },
+   {
+    "en": "Intersex variations are natural differences in sex characteristics, not an illness.",
+    "hi": "इंटरसेक्स भिन्नताएँ यौन विशेषताओं के प्राकृतिक अंतर हैं, बीमारी नहीं।",
+    "hg": "Intersex variations sex characteristics ke natural differences hain, bimaari nahi."
+   },
+   {
+    "en": "Lumps, sores, unusual discharge, burning or sudden testicular pain should be checked by a doctor.",
+    "hi": "गाँठ, घाव, असामान्य स्राव, जलन या वृषण में अचानक दर्द हो तो डॉक्टर को ज़रूर दिखाना चाहिए।",
+    "hg": "Lumps, sores, unusual discharge, jalan ya testis mein achanak dard ho toh doctor ko zaroor dikhana chahiye."
+   }
+  ],
+  "activity": {
+   "en": "Write down one body worry you have never said aloud. Beside it, note whether it matches the normal variation list or the see-a-doctor list in this lesson. If it is the second, decide whom you will tell this week.",
+   "hi": "शरीर से जुड़ी कोई एक चिंता लिखो जो तुमने आज तक किसी से नहीं कही। उसके आगे लिखो कि वह इस पाठ की सामान्य भिन्नता वाली सूची में आती है या डॉक्टर को दिखाने वाली सूची में। अगर दूसरी में आती है, तो तय करो कि इस हफ़्ते किसे बताओगे।",
+   "hg": "Body se judi koi ek tension likho jo tumne aaj tak kisi se nahi boli. Uske saamne likho ki woh is lesson ki normal variation list mein aati hai ya doctor ko dikhao wali list mein. Agar doosri mein aati hai, toh decide karo ki is week kise bataoge."
+  },
+  "interactive": "ask",
+  "quiz": [
+   {
+    "id": "d01-l06-q1",
+    "type": "scenario",
+    "q": {
+     "en": "Arjun, 15, notices that his left testicle hangs lower than his right. There is no pain and no lump. What is the most accurate response?",
+     "hi": "15 साल के अर्जुन को दिखता है कि उसका बायाँ वृषण दाएँ से नीचे लटकता है। न दर्द है, न कोई गाँठ। सबसे सही बात क्या है?",
+     "hg": "Arjun, 15, notice karta hai ki uska left testicle right se neeche latakta hai. Na dard hai, na koi lump. Sabse accurate response kya hai?"
+    },
+    "options": [
+     {
+      "en": "He should go to an emergency room tonight",
+      "hi": "उसे आज रात ही इमरजेंसी में जाना चाहिए",
+      "hg": "Use aaj raat hi emergency room jaana chahiye"
+     },
+     {
+      "en": "It means he will have fertility problems later",
+      "hi": "इसका मतलब है कि आगे चलकर उसे संतान होने में दिक़्क़त होगी",
+      "hg": "Iska matlab hai ki baad mein use fertility problems honge"
+     },
+     {
+      "en": "It is a normal variation and needs no treatment",
+      "hi": "यह सामान्य भिन्नता है और इसके लिए किसी इलाज की ज़रूरत नहीं",
+      "hg": "Yeh normal variation hai aur iske liye koi treatment nahi chahiye"
+     },
+     {
+      "en": "He should wear tighter underwear to correct it",
+      "hi": "इसे ठीक करने के लिए उसे कसा हुआ अंडरवियर पहनना चाहिए",
+      "hg": "Ise theek karne ke liye use tight underwear pehenna chahiye"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "One testis hanging lower is normal anatomy. Pain, swelling or a lump would be reasons to see a doctor.",
+     "hi": "एक वृषण का दूसरे से नीचे लटकना सामान्य बनावट है। दर्द, सूजन या गाँठ हो, तब डॉक्टर को दिखाना चाहिए।",
+     "hg": "Ek testis ka doosre se neeche latakna normal anatomy hai. Dard, swelling ya lump ho, tab doctor ko dikhana chahiye."
+    }
+   },
+   {
+    "id": "d01-l06-q2",
+    "type": "tf",
+    "q": {
+     "en": "Intersex variations are natural variations in sex characteristics, not a disease.",
+     "hi": "इंटरसेक्स भिन्नताएँ यौन विशेषताओं की प्राकृतिक भिन्नताएँ हैं, बीमारी नहीं।",
+     "hg": "Intersex variations sex characteristics ke natural variations hain, bimaari nahi."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Intersex people are born with chromosomes, hormones or anatomy that differ from typical definitions. This is a natural variation, not an illness.",
+     "hi": "इंटरसेक्स लोग ऐसे क्रोमोसोम, हार्मोन या शरीर-रचना के साथ पैदा होते हैं जो आम परिभाषा से अलग हैं। यह प्राकृतिक भिन्नता है, बीमारी नहीं।",
+     "hg": "Intersex log aise chromosomes, hormones ya anatomy ke saath paida hote hain jo typical definition se alag hain. Yeh natural variation hai, bimaari nahi."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-sexual-health",
+   "nhm-afhc"
+  ],
+  "warning": {
+   "en": "Sudden severe pain or swelling in a testicle, with or without vomiting, can mean the testis has twisted (torsion). This needs hospital treatment within hours; do not wait until morning.",
+   "hi": "वृषण में अचानक तेज़ दर्द या सूजन, उल्टी के साथ या बिना, इस बात का संकेत हो सकता है कि वृषण मुड़ गया है (टॉर्शन)। इसका इलाज कुछ ही घंटों के भीतर अस्पताल में होना ज़रूरी है; सुबह होने का इंतज़ार मत करो।",
+   "hg": "Testicle mein achanak tez dard ya swelling, vomiting ke saath ya bina, ka matlab ho sakta hai ki testis twist ho gaya hai (torsion). Iska treatment kuch hi ghanton ke andar hospital mein hona zaroori hai; subah hone ka wait mat karo."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ }
+]

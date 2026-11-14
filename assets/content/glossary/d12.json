@@ -1,0 +1,122 @@
+[
+  {
+    "id": "d12-g1",
+    "domain": "d12",
+    "tracks": ["B", "C", "D", "E"],
+    "title": {
+      "en": "Media Literacy Basics",
+      "hi": "मीडिया की समझ: बुनियादी शब्द",
+      "hg": "Media Literacy Basics"
+    },
+    "terms": [
+      {
+        "term": { "en": "Media literacy", "hi": "मीडिया साक्षरता (Media literacy)", "hg": "Media literacy" },
+        "def": {
+          "en": "The skill of questioning what you see online or on TV: who made it, why, what was left out and whether it is true.",
+          "hi": "ऑनलाइन या टीवी पर जो दिखे उस पर सवाल करने का हुनर: इसे किसने बनाया, क्यों बनाया, क्या छोड़ दिया गया और क्या यह सच है।",
+          "hg": "Online ya TV pe jo dikhe uspe sawaal karne ki skill: kisne banaya, kyun banaya, kya chhod diya gaya aur kya yeh sach hai."
+        }
+      },
+      {
+        "term": { "en": "Filter", "hi": "फ़िल्टर (Filter)", "hg": "Filter" },
+        "def": {
+          "en": "A setting in a camera or app that automatically changes how a photo or video looks, such as smoothing skin or changing face shape.",
+          "hi": "कैमरे या ऐप की ऐसी सेटिंग जो फ़ोटो या वीडियो का रूप अपने-आप बदल देती है, जैसे त्वचा को चिकना करना या चेहरे का आकार बदलना।",
+          "hg": "Camera ya app ki aisi setting jo photo ya video ka look automatically badal deti hai, jaise skin smooth karna ya face shape badalna."
+        }
+      },
+      {
+        "term": { "en": "Sponsored post", "hi": "प्रायोजित पोस्ट (Sponsored post)", "hg": "Sponsored post" },
+        "def": {
+          "en": "A post that a brand has paid for or rewarded, so the creator has a reason to praise the product.",
+          "hi": "ऐसी पोस्ट जिसके लिए किसी ब्रांड ने पैसे या इनाम दिया हो, इसलिए क्रिएटर के पास प्रोडक्ट की तारीफ़ करने की वजह होती है।",
+          "hg": "Aisi post jiske liye kisi brand ne paise ya reward diya ho, isliye creator ke paas product ki tareef karne ki wajah hoti hai."
+        }
+      },
+      {
+        "term": { "en": "Influencer", "hi": "इन्फ्लुएंसर (Influencer)", "hg": "Influencer" },
+        "def": {
+          "en": "A person with many online followers whose posts can shape what those followers buy, believe or copy.",
+          "hi": "ऐसा व्यक्ति जिसके ऑनलाइन बहुत फ़ॉलोअर हों और जिसकी पोस्ट इस पर असर डाल सकती हैं कि वे फ़ॉलोअर क्या ख़रीदें, क्या मानें या किसकी नक़ल करें।",
+          "hg": "Aisa insaan jiske online bahut followers hon aur jiski posts is pe asar daal sakti hain ki woh followers kya khareedein, kya maanein ya kya copy karein."
+        }
+      },
+      {
+        "term": { "en": "Algorithm", "hi": "एल्गोरिदम (Algorithm)", "hg": "Algorithm" },
+        "def": {
+          "en": "The set of computer rules an app uses to decide which posts and videos to show you next, based on what you watched before.",
+          "hi": "कंप्यूटर के वे नियम जिनसे कोई ऐप तय करता है कि तुम्हें आगे कौन-सी पोस्ट और वीडियो दिखाने हैं, इस आधार पर कि तुमने पहले क्या देखा।",
+          "hg": "Computer ke woh rules jinse koi app decide karta hai ki tumhe aage kaun-si posts aur videos dikhane hain, is basis pe ki tumne pehle kya dekha."
+        }
+      },
+      {
+        "term": { "en": "Clickbait", "hi": "क्लिकबेट (Clickbait)", "hg": "Clickbait" },
+        "def": {
+          "en": "A shocking or exaggerated headline or thumbnail designed to make you click, even when the content does not match the promise.",
+          "hi": "चौंकाने वाली या बढ़ा-चढ़ाकर बनाई गई हेडलाइन या थंबनेल, जो तुमसे क्लिक करवाने के लिए बनती है, भले ही अंदर का कंटेंट वादे से मेल न खाए।",
+          "hg": "Shocking ya badha-chadha ke banayi gayi headline ya thumbnail, jo tumse click karwane ke liye banti hai, chahe andar ka content promise se match na kare."
+        }
+      }
+    ]
+  },
+  {
+    "id": "d12-g2",
+    "domain": "d12",
+    "tracks": ["C", "D", "E"],
+    "title": {
+      "en": "Online Harm: Know the Words",
+      "hi": "ऑनलाइन नुक़सान: सही शब्द जानो",
+      "hg": "Online Harm: Sahi Shabd Jaano"
+    },
+    "terms": [
+      {
+        "term": { "en": "Pornography", "hi": "पोर्नोग्राफ़ी (Pornography)", "hg": "Pornography" },
+        "def": {
+          "en": "Scripted, edited videos, images or writing made to sexually arouse adult viewers; it is not an accurate picture of real relationships.",
+          "hi": "बड़ी उम्र के दर्शकों में यौन उत्तेजना जगाने के लिए बनाए गए स्क्रिप्टेड, एडिट किए हुए वीडियो, तस्वीरें या लेखन; यह असली रिश्तों की सही तस्वीर नहीं है।",
+          "hg": "Adult viewers ko sexually arouse karne ke liye banaye gaye scripted, edited videos, images ya writing; yeh real relationships ki sahi picture nahi hai."
+        }
+      },
+      {
+        "term": { "en": "Deepfake", "hi": "डीपफ़ेक (Deepfake)", "hg": "Deepfake" },
+        "def": {
+          "en": "A photo, video or audio clip made or altered with AI so that a real person appears to do or say something they never did.",
+          "hi": "AI से बनाई या बदली गई फ़ोटो, वीडियो या ऑडियो क्लिप, जिसमें लगे कि किसी असली इंसान ने वह किया या कहा जो उसने कभी नहीं किया।",
+          "hg": "AI se banayi ya badli gayi photo, video ya audio clip, jisme lage ki kisi real insaan ne woh kiya ya kaha jo usne kabhi nahi kiya."
+        }
+      },
+      {
+        "term": { "en": "Non-consensual image sharing", "hi": "बिना सहमति तस्वीर शेयर करना (Non-consensual image sharing)", "hg": "Non-consensual image sharing" },
+        "def": {
+          "en": "Sharing someone's private or sexual image without their permission. It is a form of abuse, often wrongly called 'revenge porn'.",
+          "hi": "किसी की निजी या यौन तस्वीर उसकी इजाज़त के बिना शेयर करना। यह शोषण का एक रूप है, जिसे अक्सर ग़लत ढंग से 'रिवेंज पोर्न' कहा जाता है।",
+          "hg": "Kisi ki private ya sexual image uski permission ke bina share karna. Yeh abuse ka ek form hai, jise aksar galat tareeke se 'revenge porn' kaha jaata hai."
+        }
+      },
+      {
+        "term": { "en": "Sextortion", "hi": "सेक्सटॉर्शन (Sextortion)", "hg": "Sextortion" },
+        "def": {
+          "en": "Blackmail in which someone threatens to share a person's real or fake intimate images unless they pay money or send more images.",
+          "hi": "ऐसा ब्लैकमेल जिसमें कोई धमकी देता है कि पैसे या और तस्वीरें न मिलीं तो वह किसी की असली या नक़ली अंतरंग तस्वीरें शेयर कर देगा।",
+          "hg": "Aisa blackmail jisme koi dhamki deta hai ki paise ya aur images na mili toh woh kisi ki real ya fake intimate images share kar dega."
+        }
+      },
+      {
+        "term": { "en": "Parasocial relationship", "hi": "एकतरफ़ा जुड़ाव (Parasocial relationship)", "hg": "Parasocial relationship" },
+        "def": {
+          "en": "A one-sided feeling of closeness to a creator, celebrity or character who does not personally know you.",
+          "hi": "किसी क्रिएटर, सेलिब्रिटी या किरदार से नज़दीकी का एकतरफ़ा एहसास, जबकि वह तुम्हें निजी तौर पर जानता ही नहीं।",
+          "hg": "Kisi creator, celebrity ya character se closeness ki one-sided feeling, jabki woh tumhe personally jaanta hi nahi."
+        }
+      },
+      {
+        "term": { "en": "CSAM (child sexual abuse material)", "hi": "बाल यौन शोषण सामग्री (CSAM)", "hg": "CSAM (child sexual abuse material)" },
+        "def": {
+          "en": "Any sexual image or video of a person under 18. Creating, viewing, storing or sharing it is a serious crime in India.",
+          "hi": "18 साल से कम उम्र के किसी भी व्यक्ति की कोई भी यौन तस्वीर या वीडियो। भारत में इसे बनाना, देखना, रखना या शेयर करना गंभीर अपराध है।",
+          "hg": "18 se kam umar ke kisi bhi insaan ki koi bhi sexual image ya video. India mein ise banana, dekhna, store karna ya share karna serious crime hai."
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,271 @@
+[
+ {
+  "id": "d01-q01",
+  "domain": "d01",
+  "tracks": [
+   "A"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "Who is the boss of your body?",
+   "hi": "तुम्हारे शरीर का मालिक कौन है?",
+   "hg": "Tumhari body ka boss kaun hai?"
+  },
+  "options": [
+   {
+    "en": "My friend",
+    "hi": "मेरा दोस्त",
+    "hg": "Mera friend"
+   },
+   {
+    "en": "I am",
+    "hi": "मैं ख़ुद",
+    "hg": "Main khud"
+   },
+   {
+    "en": "My neighbour",
+    "hi": "मेरे पड़ोसी",
+    "hg": "Mere padosi"
+   }
+  ],
+  "answer": 1,
+  "explain": {
+   "en": "Your body belongs to you. You can say no to a touch you do not like and tell a grown-up you trust.",
+   "hi": "तुम्हारा शरीर तुम्हारा है। जो छूना तुम्हें अच्छा न लगे, उसे तुम 'नहीं' कह सकते हो और किसी भरोसेमंद बड़े को बता सकते हो।",
+   "hg": "Tumhari body tumhari hai. Jo touch tumhe achha na lage, use tum NO bol sakte ho aur kisi trusted bade ko bata sakte ho."
+  }
+ },
+ {
+  "id": "d01-q02",
+  "domain": "d01",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "type": "mcq",
+  "q": {
+   "en": "Where are egg cells stored in the body?",
+   "hi": "शरीर में अंडाणु कहाँ जमा रहते हैं?",
+   "hg": "Body mein egg cells kahan store rehte hain?"
+  },
+  "options": [
+   {
+    "en": "In the uterus",
+    "hi": "गर्भाशय में",
+    "hg": "Uterus mein"
+   },
+   {
+    "en": "In the vagina",
+    "hi": "योनि में",
+    "hg": "Vagina mein"
+   },
+   {
+    "en": "In the bladder",
+    "hi": "मूत्राशय में",
+    "hg": "Bladder mein"
+   },
+   {
+    "en": "In the ovaries",
+    "hi": "अंडाशय में",
+    "hg": "Ovaries mein"
+   }
+  ],
+  "answer": 3,
+  "explain": {
+   "en": "The two ovaries, one on each side of the uterus, store the egg cells and also make the hormone oestrogen.",
+   "hi": "गर्भाशय के दोनों तरफ़ एक-एक अंडाशय होता है; इन्हीं में अंडाणु जमा रहते हैं और यही एस्ट्रोजन हार्मोन भी बनाते हैं।",
+   "hg": "Uterus ke dono side ek-ek ovary hoti hai; inhi mein egg cells store rehte hain aur yahi oestrogen hormone bhi banati hain."
+  }
+ },
+ {
+  "id": "d01-q03",
+  "domain": "d01",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "type": "mcq",
+  "q": {
+   "en": "Which group of hormones causes pubic and underarm hair to grow in all genders?",
+   "hi": "कौन-से हार्मोन हर जेंडर में जननांगों के पास और बगल के बाल उगाते हैं?",
+   "hg": "Kaun se hormones har gender mein pubic aur underarm hair grow karwate hain?"
+  },
+  "options": [
+   {
+    "en": "Androgens",
+    "hi": "एंड्रोजन",
+    "hg": "Androgens"
+   },
+   {
+    "en": "Insulin",
+    "hi": "इंसुलिन",
+    "hg": "Insulin"
+   },
+   {
+    "en": "Melatonin",
+    "hi": "मेलाटोनिन",
+    "hg": "Melatonin"
+   },
+   {
+    "en": "Adrenaline",
+    "hi": "एड्रिनलिन",
+    "hg": "Adrenaline"
+   }
+  ],
+  "answer": 0,
+  "explain": {
+   "en": "Androgens are testosterone-type hormones. Every body makes them, and they trigger pubic and underarm hair as well as oilier skin.",
+   "hi": "एंड्रोजन टेस्टोस्टेरोन जैसे हार्मोन हैं। हर शरीर इन्हें बनाता है, और इन्हीं से जननांगों के पास और बगल में बाल आते हैं और त्वचा ज़्यादा तैलीय होती है।",
+   "hg": "Androgens testosterone-type hormones hain. Har body inhe banati hai, aur inhi se pubic aur underarm hair aate hain aur skin zyada oily hoti hai."
+  }
+ },
+ {
+  "id": "d01-q04",
+  "domain": "d01",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [
+   "penis_testicular"
+  ],
+  "type": "mcq",
+  "q": {
+   "en": "What is semen made of?",
+   "hi": "वीर्य (semen) किससे बना होता है?",
+   "hg": "Semen kis cheez se bana hota hai?"
+  },
+  "options": [
+   {
+    "en": "Only sperm cells",
+    "hi": "सिर्फ़ शुक्राणुओं से",
+    "hg": "Sirf sperm cells se"
+   },
+   {
+    "en": "Urine mixed with sperm",
+    "hi": "पेशाब और शुक्राणुओं के मिश्रण से",
+    "hg": "Urine aur sperm ke mix se"
+   },
+   {
+    "en": "Sperm mixed with fluids from the seminal vesicles and the prostate",
+    "hi": "शुक्राणुओं और सेमिनल वेसिकल व प्रोस्टेट के तरल के मिश्रण से",
+    "hg": "Sperm aur seminal vesicles aur prostate ke fluids ke mix se"
+   },
+   {
+    "en": "A fluid made in the bladder",
+    "hi": "मूत्राशय में बनने वाले तरल से",
+    "hg": "Bladder mein banne wale fluid se"
+   }
+  ],
+  "answer": 2,
+  "explain": {
+   "en": "Sperm from the testes are only a small part of semen. Most of it is fluid added by the seminal vesicles and the prostate gland.",
+   "hi": "वृषण से आए शुक्राणु वीर्य का बस छोटा-सा हिस्सा होते हैं। ज़्यादातर हिस्सा वह तरल है जो सेमिनल वेसिकल और प्रोस्टेट ग्रंथि मिलाती हैं।",
+   "hg": "Testes se aaye sperm semen ka bas chhota sa part hote hain. Zyadatar hissa woh fluid hai jo seminal vesicles aur prostate gland add karte hain."
+  }
+ },
+ {
+  "id": "d01-q05",
+  "domain": "d01",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "vulva_vaginal"
+  ],
+  "type": "tf",
+  "q": {
+   "en": "The inside of the vagina needs to be washed with soap to stay clean.",
+   "hi": "योनि को साफ़ रखने के लिए उसे अंदर से साबुन से धोना ज़रूरी है।",
+   "hg": "Vagina ko clean rakhne ke liye use andar se soap se wash karna zaroori hai."
+  },
+  "options": [
+   {
+    "en": "True",
+    "hi": "सही",
+    "hg": "Sahi"
+   },
+   {
+    "en": "False",
+    "hi": "ग़लत",
+    "hg": "Galat"
+   }
+  ],
+  "answer": 1,
+  "explain": {
+   "en": "The vagina cleans itself with a slightly acidic fluid and helpful bacteria. Soap or sprays inside disturb that balance; only the vulva needs gentle washing.",
+   "hi": "योनि हल्के अम्लीय तरल और अच्छे बैक्टीरिया की मदद से ख़ुद को साफ़ रखती है। अंदर साबुन या स्प्रे लगाने से यह संतुलन बिगड़ता है; सिर्फ़ वल्वा को हल्के हाथ से धोना काफ़ी है।",
+   "hg": "Vagina halke acidic fluid aur helpful bacteria ki madad se khud ko clean rakhti hai. Andar soap ya sprays use karne se woh balance bigadta hai; sirf vulva ko gently wash karna kaafi hai."
+  }
+ },
+ {
+  "id": "d01-q06",
+  "domain": "d01",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "menstrual"
+  ],
+  "type": "scenario",
+  "q": {
+   "en": "Meera is 16 and has not had her first period, though her classmates started years ago. What is the best next step?",
+   "hi": "मीरा 16 साल की है और उसे अब तक पहला पीरियड नहीं आया, जबकि उसकी सहेलियों को बरसों पहले आ गया था। अगला सबसे सही क़दम क्या है?",
+   "hg": "Meera 16 saal ki hai aur use ab tak pehla period nahi aaya, jabki uski classmates ko saalon pehle aa gaya tha. Best next step kya hai?"
+  },
+  "options": [
+   {
+    "en": "See a doctor, because no period by 15 should be checked",
+    "hi": "डॉक्टर को दिखाना, क्योंकि 15 साल तक पीरियड न आए तो जाँच होनी चाहिए",
+    "hg": "Doctor ko dikhana, kyunki 15 saal tak period na aaye toh check hona chahiye"
+   },
+   {
+    "en": "Wait until 18, since late periods run in some families",
+    "hi": "18 साल तक इंतज़ार करना, क्योंकि कुछ परिवारों में पीरियड देर से आते हैं",
+    "hg": "18 saal tak wait karna, kyunki kuch families mein periods late aate hain"
+   },
+   {
+    "en": "Take hormone tablets bought from a chemist",
+    "hi": "केमिस्ट से हार्मोन की गोलियाँ लेकर खाना",
+    "hg": "Chemist se hormone ki tablets lekar khana"
+   },
+   {
+    "en": "Eat papaya and jaggery every day to bring it on",
+    "hi": "पीरियड लाने के लिए रोज़ पपीता और गुड़ खाना",
+    "hg": "Period laane ke liye roz papita aur gud khana"
+   }
+  ],
+  "answer": 0,
+  "explain": {
+   "en": "No period by 15 is a reason to see a doctor. Most causes are manageable, but they need proper tests, not waiting, home remedies or self-medication.",
+   "hi": "15 साल तक पीरियड न आना डॉक्टर को दिखाने की वजह है। ज़्यादातर कारणों का इलाज हो सकता है, पर उसके लिए सही जाँच चाहिए, न कि इंतज़ार, घरेलू नुस्ख़े या अपने मन से दवा।",
+   "hg": "15 saal tak period na aana doctor ko dikhane ka reason hai. Zyadatar causes manage ho sakte hain, par uske liye proper tests chahiye, na ki wait, gharelu nuskhe ya khud se dawai."
+  }
+ }
+]

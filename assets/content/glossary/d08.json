@@ -1,0 +1,177 @@
+[
+ {
+  "id": "d08-g1",
+  "domain": "d08",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "How Pregnancy Begins",
+   "hi": "गर्भ कैसे ठहरता है",
+   "hg": "Pregnancy Kaise Shuru Hoti Hai"
+  },
+  "terms": [
+   {
+    "term": {
+     "en": "Ovulation",
+     "hi": "ओव्यूलेशन (अंडोत्सर्ग)",
+     "hg": "Ovulation"
+    },
+    "def": {
+     "en": "The release of a mature egg from an ovary, usually once in each menstrual cycle, about two weeks before the next period.",
+     "hi": "अंडाशय से एक पके हुए अंडे का निकलना, जो आम तौर पर हर माहवारी चक्र में एक बार, अगले पीरियड से लगभग दो हफ़्ते पहले होता है।",
+     "hg": "Ovary se ek mature egg ka release hona, jo usually har menstrual cycle mein ek baar, agle period se lagbhag do hafte pehle hota hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Fertilisation",
+     "hi": "निषेचन (fertilisation)",
+     "hg": "Fertilisation"
+    },
+    "def": {
+     "en": "The joining of a sperm and an egg, usually in a fallopian tube, to form a single cell that can develop into an embryo.",
+     "hi": "शुक्राणु और अंडे का मिलना, जो आम तौर पर फ़ैलोपियन ट्यूब में होता है, और जिससे एक ऐसी कोशिका बनती है जो भ्रूण में विकसित हो सकती है।",
+     "hg": "Sperm aur egg ka milna, jo usually fallopian tube mein hota hai, aur jisse ek aisi single cell banti hai jo embryo mein develop ho sakti hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Implantation",
+     "hi": "इम्प्लांटेशन (आरोपण)",
+     "hg": "Implantation"
+    },
+    "def": {
+     "en": "The stage, about a week after fertilisation, when the developing embryo attaches to the lining of the uterus and pregnancy is established.",
+     "hi": "निषेचन के लगभग एक हफ़्ते बाद का वह पड़ाव जब विकसित हो रहा भ्रूण गर्भाशय की परत से जुड़ जाता है और गर्भ ठहर जाता है।",
+     "hg": "Fertilisation ke lagbhag ek hafte baad ka woh stage jab develop ho raha embryo uterus ki lining se attach ho jaata hai aur pregnancy establish hoti hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Embryo",
+     "hi": "भ्रूण (embryo)",
+     "hg": "Embryo"
+    },
+    "def": {
+     "en": "The name for the developing baby during roughly the first two months after fertilisation, when the main organs are forming. Later it is called a fetus.",
+     "hi": "निषेचन के बाद के लगभग पहले दो महीनों में विकसित हो रहे बच्चे का नाम, जब मुख्य अंग बन रहे होते हैं। बाद में इसे फ़ीटस कहा जाता है।",
+     "hg": "Fertilisation ke baad ke lagbhag pehle do mahinon mein develop ho rahe baby ka naam, jab main organs ban rahe hote hain. Baad mein isse fetus kaha jaata hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Placenta",
+     "hi": "प्लेसेंटा (अपरा)",
+     "hg": "Placenta"
+    },
+    "def": {
+     "en": "A temporary organ attached to the uterus wall that supplies the baby with oxygen and nutrients and removes waste through the umbilical cord.",
+     "hi": "गर्भाशय की दीवार से जुड़ा एक अस्थायी अंग जो गर्भनाल के ज़रिए बच्चे तक ऑक्सीजन और पोषण पहुँचाता है और बेकार पदार्थ (waste) हटाता है।",
+     "hg": "Uterus ki wall se juda ek temporary organ jo umbilical cord ke through baby tak oxygen aur nutrients pahunchata hai aur waste hatata hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Trimester",
+     "hi": "तिमाही (trimester)",
+     "hg": "Trimester"
+    },
+    "def": {
+     "en": "One of the three stages of pregnancy, each about three months long, used to describe how the pregnancy and the baby are progressing.",
+     "hi": "गर्भावस्था के तीन पड़ावों में से एक, हर एक लगभग तीन महीने का, जिससे बताया जाता है कि गर्भावस्था और बच्चे का विकास कहाँ तक पहुँचा है।",
+     "hg": "Pregnancy ke teen stages mein se ek, har ek lagbhag teen mahine ka, jisse bataya jaata hai ki pregnancy aur baby ka development kahan tak pahuncha hai."
+    }
+   }
+  ]
+ },
+ {
+  "id": "d08-g2",
+  "domain": "d08",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "Care, Loss and Choices",
+   "hi": "देखभाल, गर्भ खोना और विकल्प",
+   "hg": "Care, Loss aur Choices"
+  },
+  "terms": [
+   {
+    "term": {
+     "en": "hCG",
+     "hi": "एचसीजी (hCG)",
+     "hg": "hCG"
+    },
+    "def": {
+     "en": "Human chorionic gonadotropin, a hormone made after implantation. Home pregnancy tests detect it in urine and clinics can measure it in blood.",
+     "hi": "ह्यूमन कोरियोनिक गोनाडोट्रॉपिन, एक हार्मोन जो इम्प्लांटेशन के बाद बनता है। घरेलू प्रेग्नेंसी टेस्ट इसे पेशाब में पकड़ते हैं और क्लिनिक इसे ख़ून में नाप सकते हैं।",
+     "hg": "Human chorionic gonadotropin, ek hormone jo implantation ke baad banta hai. Home pregnancy tests isse urine mein detect karte hain aur clinics isse blood mein measure kar sakte hain."
+    }
+   },
+   {
+    "term": {
+     "en": "Prenatal care",
+     "hi": "प्रसव-पूर्व देखभाल (antenatal care)",
+     "hg": "Prenatal care (antenatal care)"
+    },
+    "def": {
+     "en": "Regular health check-ups during pregnancy that monitor the pregnant person and the baby and detect problems early.",
+     "hi": "गर्भावस्था के दौरान होने वाली नियमित जाँचें, जो गर्भवती व्यक्ति और बच्चे पर नज़र रखती हैं और परेशानियों को जल्दी पकड़ लेती हैं।",
+     "hg": "Pregnancy ke dauraan hone wale regular health check-ups, jo pregnant person aur baby ko monitor karte hain aur problems ko jaldi pakad lete hain."
+    }
+   },
+   {
+    "term": {
+     "en": "Miscarriage",
+     "hi": "मिसकैरेज (अपने आप गर्भ गिरना)",
+     "hg": "Miscarriage"
+    },
+    "def": {
+     "en": "The natural loss of a pregnancy in its early or middle months. It is common and is usually caused by chance problems in the embryo.",
+     "hi": "शुरुआती या बीच के महीनों में गर्भ का अपने आप गिर जाना। यह आम है और इसकी वजह आम तौर पर भ्रूण में संयोग से हुई गड़बड़ी होती है।",
+     "hg": "Shuruaati ya beech ke mahinon mein pregnancy ka apne aap khatam ho jaana. Yeh common hai aur iski wajah usually embryo mein chance se hui problem hoti hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Ectopic pregnancy",
+     "hi": "एक्टोपिक प्रेग्नेंसी (अस्थानिक गर्भ)",
+     "hg": "Ectopic pregnancy"
+    },
+    "def": {
+     "en": "A pregnancy that implants outside the uterus, usually in a fallopian tube. It cannot continue and needs urgent medical treatment.",
+     "hi": "ऐसा गर्भ जो गर्भाशय के बाहर, आम तौर पर फ़ैलोपियन ट्यूब में, जम जाता है। यह आगे नहीं बढ़ सकता और इसमें तुरंत इलाज ज़रूरी है।",
+     "hg": "Aisi pregnancy jo uterus ke bahar, usually fallopian tube mein, implant ho jaati hai. Yeh continue nahi ho sakti aur isme urgent medical treatment zaroori hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Infertility",
+     "hi": "इनफ़र्टिलिटी (संतान न हो पाना)",
+     "hg": "Infertility"
+    },
+    "def": {
+     "en": "A medical condition defined as not achieving pregnancy after twelve months or more of regular unprotected intercourse. It can involve any partner.",
+     "hi": "एक मेडिकल स्थिति, जिसकी परिभाषा है बारह महीने या उससे ज़्यादा नियमित असुरक्षित संबंध के बाद भी गर्भ न ठहरना। इसकी वजह किसी भी पार्टनर में हो सकती है।",
+     "hg": "Ek medical condition, jiski definition hai baarah mahine ya usse zyada regular unprotected intercourse ke baad bhi pregnancy na hona. Iski wajah kisi bhi partner mein ho sakti hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Medical termination of pregnancy (MTP)",
+     "hi": "गर्भ का चिकित्सकीय समापन (MTP)",
+     "hg": "Medical termination of pregnancy (MTP)"
+    },
+    "def": {
+     "en": "The legal and medical term in India for abortion carried out by a qualified doctor at an approved facility under the MTP Act.",
+     "hi": "भारत में उस गर्भपात के लिए क़ानूनी और मेडिकल शब्द जो MTP क़ानून के तहत योग्य डॉक्टर द्वारा मान्यता-प्राप्त केंद्र पर किया जाता है।",
+     "hg": "India mein us abortion ke liye legal aur medical term jo MTP Act ke under qualified doctor dwara approved facility par kiya jaata hai."
+    }
+   }
+  ]
+ }
+]

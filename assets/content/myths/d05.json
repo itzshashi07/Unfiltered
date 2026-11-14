@@ -1,0 +1,234 @@
+[
+ {
+  "id": "d05-m01",
+  "domain": "d05",
+  "tracks": [
+   "A",
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Good children always hug and kiss elders when they are told to.",
+   "hi": "अच्छे बच्चे कहने पर बड़ों को हमेशा गले लगाते और पप्पी देते हैं।",
+   "hg": "Acche bachche bolne par badon ko hamesha hug aur pappi dete hain."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Being polite does not mean giving up your body. You can greet elders with a namaste, a smile, or by touching their feet if that is your family's custom and you are comfortable. A hug or a kiss should happen only when you want it. Learning this early helps children speak up if a touch ever feels wrong.",
+   "hi": "तमीज़दार होने का मतलब अपने शरीर पर से अपना हक़ छोड़ना नहीं है। तुम बड़ों को नमस्ते करके, मुस्कुराकर, या पैर छूकर मिल सकते हो, अगर तुम्हारे घर में यह रिवाज है और तुम्हें ठीक लगता है। गले लगना या पप्पी तभी हो जब तुम्हारा मन हो। यह बात जल्दी सीख लेने से बच्चे तब बोल पाते हैं जब कोई छूना ग़लत लगे।",
+   "hg": "Polite hone ka matlab apni body par se apna haq chhodna nahi hai. Tum badon ko namaste karke, smile karke, ya pair chhookar mil sakte ho, agar tumhare ghar mein yeh custom hai aur tum comfortable ho. Hug ya pappi tabhi ho jab tumhara mann ho. Yeh baat jaldi seekh lene se bachche tab bol paate hain jab koi touch galat lage."
+  },
+  "why": {
+   "en": "Many families see hugging elders as a sign of respect and love, and adults may feel hurt or embarrassed when a child refuses in front of guests.",
+   "hi": "बहुत से परिवारों में बड़ों को गले लगाना आदर और प्यार की निशानी माना जाता है, और जब बच्चा मेहमानों के सामने मना करता है तो बड़ों को बुरा या शर्मिंदगी महसूस हो सकती है।",
+   "hg": "Bahut si families mein badon ko hug karna respect aur pyaar ki nishani maana jaata hai, aur jab bachcha guests ke saamne mana karta hai toh badon ko bura ya embarrassing lag sakta hai."
+  },
+  "refs": [
+   "unesco-itgse"
+  ],
+  "lesson": "d05-l01"
+ },
+ {
+  "id": "d05-m02",
+  "domain": "d05",
+  "tracks": [
+   "A",
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Even if someone says 'don't tell anyone', you should tell a trusted grown-up when a secret feels bad.",
+   "hi": "चाहे कोई कहे 'किसी को मत बताना', अगर राज़ बुरा लगे तो किसी भरोसेमंद बड़े को बता देना चाहिए।",
+   "hg": "Chahe koi bole 'kisi ko mat batana', agar secret bura lage toh kisi trusted bade ko bata dena chahiye."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. Happy secrets, like a surprise party, are fine because they end soon and nobody gets hurt. A secret that makes you scared, sad or confused, or one about touching, photos or gifts, should always be told to a trusted adult. Telling is not breaking a promise. It is keeping yourself safe.",
+   "hi": "सही है। ख़ुशी वाले राज़, जैसे सरप्राइज़ पार्टी, ठीक हैं क्योंकि वे जल्दी ख़त्म हो जाते हैं और किसी को चोट नहीं पहुँचती। जो राज़ तुम्हें डराए, उदास करे या उलझन में डाले, या जो छूने, फ़ोटो या तोहफ़ों के बारे में हो, वह हमेशा किसी भरोसेमंद बड़े को बताना चाहिए। बताना वादा तोड़ना नहीं है। यह ख़ुद को सुरक्षित रखना है।",
+   "hg": "Sahi hai. Happy secrets, jaise surprise party, theek hain kyunki woh jaldi khatam ho jaate hain aur kisi ko hurt nahi hota. Jo secret tumhe daraye, udaas kare ya confuse kare, ya jo touch, photos ya gifts ke baare mein ho, woh hamesha kisi trusted adult ko batana chahiye. Batana promise todna nahi hai. Yeh khud ko safe rakhna hai."
+  },
+  "why": {
+   "en": "Children are taught that keeping promises is good and telling tales is bad, so breaking a secret can feel like doing something wrong.",
+   "hi": "बच्चों को सिखाया जाता है कि वादा निभाना अच्छी बात है और चुग़ली करना बुरी, इसलिए राज़ खोलना कुछ ग़लत करने जैसा लग सकता है।",
+   "hg": "Bachchon ko sikhaya jaata hai ki promise nibhana acchi baat hai aur chugli karna buri, isliye secret kholna kuch galat karne jaisa lag sakta hai."
+  },
+  "refs": [
+   "unesco-itgse",
+   "wcd-childline"
+  ],
+  "lesson": "d05-l01"
+ },
+ {
+  "id": "d05-m03",
+  "domain": "d05",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "If you say no to a friend, you are a bad friend.",
+   "hi": "अगर तुम दोस्त को 'ना' कहते हो, तो तुम बुरे दोस्त हो।",
+   "hg": "Agar tum dost ko 'no' bolte ho, toh tum bure dost ho."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Saying no to something you do not want, such as sharing your password, copying homework, a dare or a hug, does not make you a bad friend. Respectful friends accept a no without teasing you or dropping you. A friend who stays only when you always agree is using pressure, and real friendships survive disagreement.",
+   "hi": "जो बात तुम्हें नहीं चाहिए, जैसे पासवर्ड बताना, होमवर्क नक़ल कराना, कोई डेयर या गले लगना, उसके लिए 'ना' कहने से तुम बुरे दोस्त नहीं बन जाते। सम्मान करने वाले दोस्त 'ना' को मान लेते हैं, न चिढ़ाते हैं, न दोस्ती तोड़ते हैं। जो दोस्त तभी साथ रहे जब तुम हर बात में हाँ कहो, वह दबाव डाल रहा है, और सच्ची दोस्ती असहमति के बाद भी टिकी रहती है।",
+   "hg": "Jo cheez tumhe nahi chahiye, jaise password share karna, homework copy karana, koi dare ya hug, uske liye 'no' bolne se tum bure dost nahi ban jaate. Respect karne wale dost 'no' ko accept kar lete hain, na chidhate hain, na dosti todte hain. Jo dost tabhi saath rahe jab tum har baat mein haan bolo, woh pressure daal raha hai, aur real dosti disagreement ke baad bhi tiki rehti hai."
+  },
+  "why": {
+   "en": "At this age fitting in feels very important, and many of us are praised for being 'adjusting', so refusing can feel selfish or risky.",
+   "hi": "इस उम्र में ग्रुप का हिस्सा बने रहना बहुत ज़रूरी लगता है, और हममें से कइयों की तारीफ़ 'एडजस्ट' करने पर होती है, इसलिए मना करना ख़ुदग़र्ज़ी या जोखिम जैसा लग सकता है।",
+   "hg": "Is age mein group mein fit hona bahut important lagta hai, aur hum mein se kaiyon ki tareef 'adjust' karne par hoti hai, isliye mana karna selfish ya risky lag sakta hai."
+  },
+  "refs": [
+   "unesco-itgse"
+  ],
+  "lesson": "d05-l02"
+ },
+ {
+  "id": "d05-m04",
+  "domain": "d05",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "If they didn't say no, it's a yes.",
+   "hi": "अगर उसने 'ना' नहीं कहा, तो मतलब 'हाँ' है।",
+   "hg": "Agar usne 'no' nahi bola, toh matlab 'yes' hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Consent means a clear, willing yes. Silence, freezing, staying still, or being asleep, unconscious or heavily intoxicated are not consent. Fear and shock commonly leave people unable to speak or resist. The person who wants to go ahead is responsible for checking, and an unclear answer means stop.",
+   "hi": "सहमति का मतलब है साफ़ और मन से कही गई 'हाँ'। चुप रहना, सुन्न पड़ जाना, बिना हिले पड़े रहना, या सोया हुआ, बेहोश या बहुत ज़्यादा नशे में होना सहमति नहीं है। डर और सदमे में लोग अक्सर न बोल पाते हैं, न विरोध कर पाते हैं। जो आगे बढ़ना चाहता है, पूछने की ज़िम्मेदारी उसी की है, और जवाब साफ़ न हो तो मतलब है रुक जाना।",
+   "hg": "Consent ka matlab hai clear aur mann se boli gayi 'yes'. Chup rehna, freeze ho jaana, bina hile pade rehna, ya soya hua, behosh ya bahut zyada nashe mein hona consent nahi hai. Darr aur shock mein log aksar na bol paate hain, na resist kar paate hain. Jo aage badhna chahta hai, check karne ki zimmedari usi ki hai, aur jawab clear na ho toh matlab hai ruk jaana."
+  },
+  "why": {
+   "en": "Films and songs often show persistence 'winning' someone over, and many people were never taught that agreement has to be actively given.",
+   "hi": "फ़िल्मों और गानों में अक्सर दिखाया जाता है कि पीछे पड़े रहने से सामने वाला 'मान' जाता है, और बहुत से लोगों को कभी सिखाया ही नहीं गया कि रज़ामंदी खुलकर दी जानी चाहिए।",
+   "hg": "Films aur gaano mein aksar dikhaya jaata hai ki peeche pade rehne se saamne wala 'maan' jaata hai, aur bahut logon ko kabhi sikhaya hi nahi gaya ki agreement actively diya jaana chahiye."
+  },
+  "refs": [
+   "unesco-itgse",
+   "who-cse"
+  ],
+  "lesson": "d05-l03"
+ },
+ {
+  "id": "d05-m05",
+  "domain": "d05",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Once you've said yes, you can't change your mind.",
+   "hi": "एक बार 'हाँ' कह दी, तो फिर मन नहीं बदल सकते।",
+   "hg": "Ek baar 'yes' bol diya, toh phir mann nahi badal sakte."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Consent can be withdrawn at any point, including halfway through something, and for any reason or none. A yes to one thing, or a yes given yesterday, does not cover anything else. When someone says stop, or their body language shows they are no longer comfortable, the other person must stop straight away.",
+   "hi": "सहमति किसी भी पल वापस ली जा सकती है, बीच में भी, और किसी भी वजह से या बिना वजह के। एक बात के लिए कही 'हाँ', या कल कही 'हाँ', किसी और बात पर लागू नहीं होती। जब कोई 'रुको' कहे, या उसके हाव-भाव बताएँ कि वह अब सहज नहीं है, तो सामने वाले को फ़ौरन रुक जाना चाहिए।",
+   "hg": "Consent kisi bhi point par wapas liya ja sakta hai, beech mein bhi, aur kisi bhi reason se ya bina reason ke. Ek cheez ke liye boli 'yes', ya kal boli 'yes', kisi aur cheez par apply nahi hoti. Jab koi 'stop' bole, ya unki body language dikhaye ki woh ab comfortable nahi hain, toh saamne wale ko turant ruk jaana chahiye."
+  },
+  "why": {
+   "en": "People worry that changing their mind is 'leading someone on' or unfair, and some believe an agreement must be completed like a promise.",
+   "hi": "लोगों को डर रहता है कि मन बदलना सामने वाले को 'झूठी उम्मीद देना' या नाइंसाफ़ी है, और कुछ लोग मानते हैं कि हामी को वादे की तरह पूरा करना ही पड़ता है।",
+   "hg": "Logon ko darr rehta hai ki mann badalna saamne wale ko 'lead on' karna ya unfair hai, aur kuch log maante hain ki haami ko promise ki tarah poora karna hi padta hai."
+  },
+  "refs": [
+   "unesco-itgse",
+   "who-cse"
+  ],
+  "lesson": "d05-l03"
+ },
+ {
+  "id": "d05-m06",
+  "domain": "d05",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Most people who sexually abuse children are someone the child already knows.",
+   "hi": "बच्चों का यौन शोषण करने वाले ज़्यादातर लोग वे होते हैं जिन्हें बच्चा पहले से जानता है।",
+   "hg": "Bachchon ka sexual abuse karne wale zyadatar log woh hote hain jinhe bachcha pehle se jaanta hai."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "This is true, and it surprises many people. Child protection work in India and around the world consistently finds that the person is usually a relative, neighbour, family friend, teacher or someone else the child knows and trusts, not a stranger. That is why 'stranger danger' alone is not enough, and why children need to know they can tell about anyone.",
+   "hi": "यह सच है, और बहुत से लोगों को चौंकाता है। भारत और दुनिया भर में बाल सुरक्षा के काम में बार-बार यही सामने आता है कि ऐसा करने वाला आम तौर पर कोई रिश्तेदार, पड़ोसी, पारिवारिक दोस्त, टीचर या कोई और होता है जिसे बच्चा जानता है और जिस पर भरोसा करता है, कोई अजनबी नहीं। इसीलिए सिर्फ़ 'अजनबियों से बचो' सिखाना काफ़ी नहीं है, और इसीलिए बच्चों को पता होना चाहिए कि वे किसी के भी बारे में बता सकते हैं।",
+   "hg": "Yeh sach hai, aur bahut logon ko surprise karta hai. India aur duniya bhar mein child protection ke kaam mein baar-baar yahi saamne aata hai ki aisa karne wala usually koi relative, padosi, family friend, teacher ya koi aur hota hai jise bachcha jaanta hai aur jis par trust karta hai, koi stranger nahi. Isiliye sirf 'stranger danger' sikhana kaafi nahi hai, aur isiliye bachchon ko pata hona chahiye ki woh kisi ke bhi baare mein bata sakte hain."
+  },
+  "why": {
+   "en": "Warnings at home and in films focus on strangers, and it is painful to imagine that a trusted or respected person could harm a child.",
+   "hi": "घर की हिदायतें और फ़िल्में अजनबियों पर ही ज़ोर देती हैं, और यह सोचना तकलीफ़ देता है कि कोई भरोसेमंद या इज़्ज़तदार इंसान बच्चे को नुक़सान पहुँचा सकता है।",
+   "hg": "Ghar ki warnings aur films strangers par hi focus karti hain, aur yeh sochna painful hai ki koi trusted ya respected insaan bachche ko harm kar sakta hai."
+  },
+  "refs": [
+   "unesco-itgse",
+   "wcd-childline"
+  ],
+  "lesson": "d05-l06"
+ },
+ {
+  "id": "d05-m07",
+  "domain": "d05",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "After marriage, a spouse's consent is automatic.",
+   "hi": "शादी के बाद जीवनसाथी की सहमति अपने आप मान ली जाती है।",
+   "hg": "Shaadi ke baad spouse ka consent automatic hota hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Marriage is a commitment, not a permanent yes. Each spouse can refuse any sexual act at any time, and forced sex in marriage is sexual violence that harms physical and mental health. The BNS has a contested exception for husbands whose wives are 18 or over; it never applies if the wife is under 18. That is a legal gap, not proof that consent is unnecessary. Wives can also use the domestic violence law and the 181 helpline.",
+   "hi": "शादी एक वचन है, हमेशा के लिए कही गई 'हाँ' नहीं। हर जीवनसाथी के पास किसी भी यौन कृत्य से, किसी भी समय, मना करने का हक़ रहता है, और शादी में ज़बरदस्ती का सेक्स यौन हिंसा है जो शरीर और मन की सेहत को नुक़सान पहुँचाती है। भारतीय न्याय संहिता में 18 या उससे ज़्यादा उम्र की पत्नी के मामले में पति के लिए एक विवादित अपवाद है; पत्नी 18 से कम हो तो यह कभी लागू नहीं होता। यह क़ानून की कमी है, इस बात का सबूत नहीं कि सहमति ज़रूरी नहीं। पत्नियाँ घरेलू हिंसा क़ानून और 181 हेल्पलाइन की मदद भी ले सकती हैं।",
+   "hg": "Shaadi ek commitment hai, permanent 'yes' nahi. Har spouse ke paas kisi bhi sexual act se, kisi bhi time, mana karne ka right rehta hai, aur shaadi mein forced sex sexual violence hai jo physical aur mental health ko nuksaan pahunchata hai. BNS mein 18 ya usse zyada umar ki wife ke case mein husband ke liye ek contested exception hai; wife 18 se kam ho toh yeh kabhi apply nahi hota. Yeh law ka gap hai, is baat ka proof nahi ki consent zaroori nahi. Wives domestic violence law aur 181 helpline ki help bhi le sakti hain."
+  },
+  "why": {
+   "en": "Traditional ideas describe sex as a marital 'duty', and the legal exception makes many people assume that the law itself approves.",
+   "hi": "पारंपरिक सोच सेक्स को शादी का 'फ़र्ज़' बताती है, और क़ानूनी अपवाद की वजह से बहुत से लोग मान लेते हैं कि क़ानून इसे सही ठहराता है।",
+   "hg": "Traditional soch sex ko shaadi ki 'duty' batati hai, aur legal exception ki wajah se bahut log maan lete hain ki law isse approve karta hai."
+  },
+  "refs": [
+   "bns-2023",
+   "who-vaw"
+  ],
+  "lesson": "d05-l05"
+ }
+]

@@ -1,0 +1,177 @@
+[
+ {
+  "id": "d07-g1",
+  "domain": "d07",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "Pregnancy prevention basics",
+   "hi": "गर्भ से बचाव की बुनियादी बातें",
+   "hg": "Pregnancy prevention ke basics"
+  },
+  "terms": [
+   {
+    "term": {
+     "en": "Contraception",
+     "hi": "गर्भनिरोध (contraception)",
+     "hg": "Contraception"
+    },
+    "def": {
+     "en": "Any method, medicine or device used to prevent pregnancy. Different methods work in different ways and vary in how effective they are.",
+     "hi": "गर्भ ठहरने से रोकने के लिए इस्तेमाल होने वाला कोई भी तरीक़ा, दवा या उपकरण। अलग-अलग तरीक़े अलग ढंग से काम करते हैं और उनका असर भी अलग-अलग होता है।",
+     "hg": "Pregnancy rokne ke liye use hone wala koi bhi method, medicine ya device. Alag-alag methods alag tareeke se kaam karte hain aur unki effectiveness bhi alag hoti hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Ovulation",
+     "hi": "ओव्यूलेशन (अंडोत्सर्ग)",
+     "hg": "Ovulation"
+    },
+    "def": {
+     "en": "The release of an egg from an ovary, about once in each menstrual cycle. Its timing shifts from cycle to cycle and cannot be predicted reliably, so there are no dependable 'safe days'.",
+     "hi": "अंडाशय से अंडे का निकलना, जो लगभग हर माहवारी चक्र में एक बार होता है। इसका समय हर चक्र में बदलता रहता है और पक्के तौर पर पहले से बताया नहीं जा सकता, इसलिए भरोसेमंद 'सेफ़ डेज़' जैसा कुछ नहीं होता।",
+     "hg": "Ovary se egg ka release hona, jo lagbhag har menstrual cycle mein ek baar hota hai. Iska timing har cycle mein badalta rehta hai aur pakka predict nahi kiya ja sakta, isliye reliable 'safe days' jaisa kuch nahi hota."
+    }
+   },
+   {
+    "term": {
+     "en": "Fertilisation",
+     "hi": "निषेचन (fertilisation)",
+     "hg": "Fertilisation"
+    },
+    "def": {
+     "en": "The joining of a sperm and an egg. If the fertilised egg then settles in the lining of the uterus, a pregnancy begins.",
+     "hi": "शुक्राणु और अंडे का मिलना। अगर निषेचित अंडा इसके बाद गर्भाशय की परत में जम जाए, तो गर्भ ठहर जाता है।",
+     "hg": "Sperm aur egg ka milna. Agar fertilised egg iske baad uterus ki lining mein settle ho jaye, toh pregnancy shuru ho jati hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Abstinence",
+     "hi": "संयम (abstinence)",
+     "hg": "Abstinence"
+    },
+    "def": {
+     "en": "Choosing not to have sex. It is the only completely certain way to avoid pregnancy and a valid choice at any age.",
+     "hi": "सेक्स न करने का फ़ैसला। ये गर्भ से बचने का अकेला पूरी तरह पक्का तरीक़ा है और किसी भी उम्र में एक जायज़ फ़ैसला है।",
+     "hg": "Sex na karne ka decision. Yeh pregnancy se bachne ka akela poori tarah pakka tareeka hai aur kisi bhi age mein ek valid choice hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Condom",
+     "hi": "कंडोम",
+     "hg": "Condom"
+    },
+    "def": {
+     "en": "A thin barrier, worn on the penis or placed inside the vagina, that stops semen from entering. It also lowers the risk of STIs.",
+     "hi": "एक पतली रुकावट, जो लिंग पर पहनी जाती है या योनि के अंदर रखी जाती है और वीर्य को अंदर जाने से रोकती है। ये STI का ख़तरा भी घटाती है।",
+     "hg": "Ek patla barrier, jo penis par pehna jata hai ya vagina ke andar rakha jata hai aur semen ko andar jaane se rokta hai. Yeh STI ka risk bhi kam karta hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Emergency contraception",
+     "hi": "इमरजेंसी गर्भनिरोधक (emergency contraception)",
+     "hg": "Emergency contraception"
+    },
+    "def": {
+     "en": "A pill or copper IUD used within 5 days after unprotected sex to prevent pregnancy. It does not end an existing pregnancy.",
+     "hi": "असुरक्षित सेक्स के 5 दिन के अंदर गर्भ रोकने के लिए इस्तेमाल होने वाली गोली या कॉपर IUD। ये पहले से ठहरे गर्भ को ख़त्म नहीं करता।",
+     "hg": "Unprotected sex ke 5 din ke andar pregnancy rokne ke liye use hone wali pill ya copper IUD. Yeh existing pregnancy ko end nahi karta."
+    }
+   }
+  ]
+ },
+ {
+  "id": "d07-g2",
+  "domain": "d07",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "Methods and effectiveness",
+   "hi": "तरीक़े और उनका असर",
+   "hg": "Methods aur effectiveness"
+  },
+  "terms": [
+   {
+    "term": {
+     "en": "Typical use",
+     "hi": "टिपिकल यूज़ (आम इस्तेमाल)",
+     "hg": "Typical use"
+    },
+    "def": {
+     "en": "How well a method works in everyday life, including mistakes such as missed pills or condoms put on late.",
+     "hi": "कोई तरीक़ा रोज़मर्रा की ज़िंदगी में कितना काम करता है, छूटी हुई गोलियों या देर से पहने कंडोम जैसी गलतियों समेत।",
+     "hg": "Koi method everyday life mein kitna kaam karta hai, missed pills ya late pehne condom jaisi mistakes samet."
+    }
+   },
+   {
+    "term": {
+     "en": "Perfect use",
+     "hi": "परफ़ेक्ट यूज़ (बिल्कुल सही इस्तेमाल)",
+     "hg": "Perfect use"
+    },
+    "def": {
+     "en": "How well a method works when it is used correctly and consistently every single time, exactly as instructed.",
+     "hi": "कोई तरीक़ा कितना काम करता है जब उसे हर बार सही ढंग से और लगातार, ठीक बताए गए तरीक़े से इस्तेमाल किया जाए।",
+     "hg": "Koi method kitna kaam karta hai jab use har baar sahi tareeke se aur consistently, exactly instructions ke hisaab se use kiya jaye."
+    }
+   },
+   {
+    "term": {
+     "en": "IUD (intrauterine device)",
+     "hi": "आईयूडी (IUD, जैसे कॉपर-टी)",
+     "hg": "IUD (jaise Copper-T)"
+    },
+    "def": {
+     "en": "A small device placed in the uterus by a trained provider. Copper and hormonal types prevent pregnancy for several years and can be removed.",
+     "hi": "एक छोटा उपकरण जिसे प्रशिक्षित स्वास्थ्यकर्मी गर्भाशय में लगाते हैं। कॉपर और हार्मोनल, दोनों क़िस्में कई साल तक गर्भ रोकती हैं और इन्हें निकलवाया जा सकता है।",
+     "hg": "Ek chhota device jise trained provider uterus mein lagata hai. Copper aur hormonal, dono types kai saal tak pregnancy rokte hain aur inhe nikalwaya ja sakta hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Implant",
+     "hi": "इम्प्लांट (implant)",
+     "hg": "Implant"
+    },
+    "def": {
+     "en": "A thin flexible rod placed under the skin of the upper arm that slowly releases a hormone and prevents pregnancy for a few years.",
+     "hi": "एक पतली, लचीली छड़ जो ऊपरी बाँह की त्वचा के नीचे लगाई जाती है, धीरे-धीरे हार्मोन छोड़ती है और कुछ साल तक गर्भ रोकती है।",
+     "hg": "Ek patli, flexible rod jo upper arm ki skin ke neeche lagayi jati hai, dheere-dheere hormone release karti hai aur kuch saal tak pregnancy rokti hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Injectable contraceptive",
+     "hi": "गर्भनिरोधक इंजेक्शन",
+     "hg": "Injectable contraceptive"
+    },
+    "def": {
+     "en": "A hormone injection given by a health worker every two or three months, depending on the type, to prevent pregnancy.",
+     "hi": "एक हार्मोन इंजेक्शन जो स्वास्थ्यकर्मी गर्भ रोकने के लिए, क़िस्म के हिसाब से, हर दो या तीन महीने में लगाते हैं।",
+     "hg": "Ek hormone injection jo health worker pregnancy rokne ke liye, type ke hisaab se, har do ya teen mahine mein lagata hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Dual protection",
+     "hi": "दोहरी सुरक्षा (dual protection)",
+     "hg": "Dual protection"
+    },
+    "def": {
+     "en": "Using a condom to reduce STI risk together with another effective method to prevent pregnancy.",
+     "hi": "STI का ख़तरा घटाने के लिए कंडोम के साथ-साथ गर्भ रोकने का कोई और असरदार तरीक़ा इस्तेमाल करना।",
+     "hg": "STI risk kam karne ke liye condom ke saath-saath pregnancy rokne ka koi aur effective method use karna."
+    }
+   }
+  ]
+ }
+]

@@ -1,0 +1,474 @@
+[
+ {
+  "lesson": "d03-l01",
+  "type": "grid",
+  "title": {
+   "en": "Your first period: the basics",
+   "hi": "पहला पीरियड: ज़रूरी बातें",
+   "hg": "First period: basics"
+  },
+  "items": [
+   {
+    "icon": "drop",
+    "label": {
+     "en": "What a period is",
+     "hi": "पीरियड क्या है",
+     "hg": "Period kya hai"
+    },
+    "text": {
+     "en": "The uterus lining flows out through the vagina as blood and tissue. It is healthy, not an illness.",
+     "hi": "गर्भाशय की परत खून और ऊतक के रूप में योनि के रास्ते बाहर आती है। यह सेहत की निशानी है, बीमारी नहीं।",
+     "hg": "Uterus ki lining blood aur tissue ke roop mein vagina ke raaste bahar aati hai. Yeh healthy hai, bimaari nahi."
+    }
+   },
+   {
+    "icon": "date",
+    "label": {
+     "en": "When it starts",
+     "hi": "कब शुरू होता है",
+     "hg": "Kab start hota hai"
+    },
+    "text": {
+     "en": "Usually about two years after breasts start to develop, often between 10 and 15. None by 15? See a doctor.",
+     "hi": "आम तौर पर स्तनों का विकास शुरू होने के लगभग दो साल बाद, अक्सर 10 से 15 साल के बीच। 15 तक न आए तो डॉक्टर को दिखाइए।",
+     "hg": "Usually breast development start hone ke lagbhag do saal baad, aksar 10 se 15 ke beech. 15 tak na aaye toh doctor ko dikhao."
+    }
+   },
+   {
+    "icon": "clock",
+    "label": {
+     "en": "Lasts 2 to 7 days",
+     "hi": "2 से 7 दिन तक",
+     "hg": "2 se 7 din tak"
+    },
+    "text": {
+     "en": "Bleeding usually lasts 2 to 7 days. The total is only a few tablespoons, even if it looks like more.",
+     "hi": "खून आम तौर पर 2 से 7 दिन आता है। कुल मात्रा बस कुछ बड़े चम्मच होती है, भले ही ज़्यादा लगे।",
+     "hg": "Bleeding usually 2 se 7 din chalti hai. Total amount bas kuch tablespoons hota hai, chahe zyada lage."
+    }
+   },
+   {
+    "icon": "cycle",
+    "label": {
+     "en": "Irregular at first",
+     "hi": "शुरू में अनियमित",
+     "hg": "Shuru mein irregular"
+    },
+    "text": {
+     "en": "In the first years, periods can come 21 to 45 days apart, and a month may get skipped.",
+     "hi": "शुरुआती सालों में पीरियड 21 से 45 दिन के अंतर पर आ सकते हैं, और कोई महीना छूट भी सकता है।",
+     "hg": "Shuru ke saalon mein periods 21 se 45 din ke gap par aa sakte hain, aur koi mahina skip bhi ho sakta hai."
+    }
+   },
+   {
+    "icon": "pad",
+    "label": {
+     "en": "Keep a small kit",
+     "hi": "छोटी किट रखिए",
+     "hg": "Chhoti kit rakho"
+    },
+    "text": {
+     "en": "Keep two pads, spare underwear and a paper bag for disposal in your school bag.",
+     "hi": "स्कूल बैग में दो पैड, एक अतिरिक्त अंडरवियर और पैड फेंकने के लिए काग़ज़ की थैली रखिए।",
+     "hg": "School bag mein do pads, ek extra underwear aur pad phenkne ke liye paper bag rakho."
+    }
+   },
+   {
+    "icon": "talk",
+    "label": {
+     "en": "Tell a trusted adult",
+     "hi": "किसी भरोसेमंद बड़े को बताइए",
+     "hg": "Trusted adult ko batao"
+    },
+    "text": {
+     "en": "Tell your mother, father, an older sister, an aunt or a teacher, when it starts or even before.",
+     "hi": "माँ, पापा, बड़ी बहन, मौसी-बुआ या टीचर को बताइए, पीरियड शुरू होने पर या उससे पहले ही।",
+     "hg": "Mummy, papa, badi behen, mausi-bua ya teacher ko batao, period start hone par ya usse pehle hi."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d03-l02",
+  "type": "steps",
+  "title": {
+   "en": "Using a pad, step by step",
+   "hi": "पैड का इस्तेमाल, क़दम-दर-क़दम",
+   "hg": "Pad use karna, step by step"
+  },
+  "items": [
+   {
+    "icon": "pad",
+    "label": {
+     "en": "Stick it in place",
+     "hi": "पैड चिपकाइए",
+     "hg": "Pad chipkao"
+    },
+    "text": {
+     "en": "With clean hands, peel off the paper strip, press the pad onto your underwear and fold the wings.",
+     "hi": "साफ़ हाथों से काग़ज़ की पट्टी हटाइए, पैड को अंडरवियर पर दबाइए और विंग्स किनारों पर मोड़ दीजिए।",
+     "hg": "Saaf haathon se paper strip hatao, pad ko underwear pe press karo aur wings sides pe fold kar do."
+    }
+   },
+   {
+    "icon": "clock",
+    "label": {
+     "en": "Change every 4 to 6 hours",
+     "hi": "हर 4 से 6 घंटे में बदलिए",
+     "hg": "Har 4-6 ghante mein change karo"
+    },
+    "text": {
+     "en": "Change it even on light days, or sooner if it feels wet or heavy. Longer pads suit nights.",
+     "hi": "बहाव कम हो तब भी बदलिए, और गीला या भारी लगे तो पहले ही। रात के लिए लंबे पैड अच्छे रहते हैं।",
+     "hg": "Flow light ho tab bhi change karo, aur geela ya heavy lage toh pehle hi. Raat ke liye lambe pads achhe rehte hain."
+    }
+   },
+   {
+    "icon": "delete",
+    "label": {
+     "en": "Wrap it and bin it",
+     "hi": "लपेटकर कूड़ेदान में डालिए",
+     "hg": "Lapeto aur dustbin mein daalo"
+    },
+    "text": {
+     "en": "Wrap the used pad in paper or its wrapper and put it in a dustbin. Never flush it.",
+     "hi": "इस्तेमाल किया पैड काग़ज़ या उसके रैपर में लपेटकर कूड़ेदान में डालिए। उसे कभी फ़्लश मत कीजिए।",
+     "hg": "Used pad ko paper ya uske wrapper mein lapet kar dustbin mein daalo. Kabhi flush mat karo."
+    }
+   },
+   {
+    "icon": "wash",
+    "label": {
+     "en": "Wash hands, bathe daily",
+     "hi": "हाथ धोइए, रोज़ नहाइए",
+     "hg": "Haath dho lo, roz nahao"
+    },
+    "text": {
+     "en": "Wash your hands after each change. Bathe daily; plain water is enough for the vulva.",
+     "hi": "हर बार पैड बदलने के बाद हाथ धोइए। रोज़ नहाइए; वल्वा के लिए सादा पानी काफ़ी है।",
+     "hg": "Har change ke baad haath dho lo. Roz nahao; vulva ke liye plain paani kaafi hai."
+    }
+   },
+   {
+    "icon": "school",
+    "label": {
+     "en": "Carry on with your day",
+     "hi": "रोज़ का काम जारी रखिए",
+     "hg": "Normal routine chalne do"
+    },
+    "text": {
+     "en": "School, sport, dancing, cooking and washing your hair are all fine during a period.",
+     "hi": "पीरियड में स्कूल, खेल, डांस, खाना बनाना और बाल धोना, सब ठीक है।",
+     "hg": "Period mein school, sports, dance, cooking aur baal dhona, sab theek hai."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d03-l03",
+  "type": "steps",
+  "title": {
+   "en": "One cycle, four phases",
+   "hi": "एक चक्र, चार चरण",
+   "hg": "Ek cycle, chaar phases"
+  },
+  "items": [
+   {
+    "icon": "drop",
+    "label": {
+     "en": "Day 1: bleeding starts",
+     "hi": "पहला दिन: खून आना शुरू",
+     "hg": "Day 1: bleeding start"
+    },
+    "text": {
+     "en": "A cycle is counted from the first day of bleeding. Estrogen and progesterone are low, so energy can dip.",
+     "hi": "चक्र की गिनती खून आने के पहले दिन से होती है। एस्ट्रोजन और प्रोजेस्टेरोन कम रहते हैं, इसलिए ऊर्जा कम लग सकती है।",
+     "hg": "Cycle ki ginti bleeding ke pehle din se hoti hai. Estrogen aur progesterone low rehte hain, isliye energy down lag sakti hai."
+    }
+   },
+   {
+    "icon": "hormone",
+    "label": {
+     "en": "Follicular phase",
+     "hi": "फ़ॉलिक्युलर चरण",
+     "hg": "Follicular phase"
+    },
+    "text": {
+     "en": "FSH from the pituitary ripens follicles in the ovaries. They make estrogen, which rebuilds the uterus lining.",
+     "hi": "पिट्यूटरी से आया FSH अंडाशय में फ़ॉलिकल पकाता है। ये एस्ट्रोजन बनाते हैं, जो गर्भाशय की परत दोबारा तैयार करता है।",
+     "hg": "Pituitary ka FSH ovaries mein follicles ripe karta hai. Yeh estrogen banate hain, jo uterus ki lining dobara build karta hai."
+    }
+   },
+   {
+    "icon": "egg",
+    "label": {
+     "en": "Ovulation",
+     "hi": "ओव्यूलेशन",
+     "hg": "Ovulation"
+    },
+    "text": {
+     "en": "An LH surge makes one ovary release an egg, roughly two weeks before the next period. The day shifts from cycle to cycle.",
+     "hi": "LH के अचानक उछाल से एक अंडाशय अंडा छोड़ता है, अगले पीरियड से क़रीब दो हफ़्ते पहले। यह दिन हर चक्र में बदल सकता है।",
+     "hg": "LH surge se ek ovary egg release karti hai, next period se kareeb do hafte pehle. Yeh din har cycle mein shift ho sakta hai."
+    }
+   },
+   {
+    "icon": "shield",
+    "label": {
+     "en": "Luteal phase",
+     "hi": "ल्यूटियल चरण",
+     "hg": "Luteal phase"
+    },
+    "text": {
+     "en": "The empty follicle makes progesterone, which keeps the lining thick. Some people notice sore breasts, bloating or mood changes.",
+     "hi": "ख़ाली फ़ॉलिकल प्रोजेस्टेरोन बनाता है, जो परत को मोटा बनाए रखता है। कुछ लोगों को स्तनों में दर्द, पेट फूलना या मूड में बदलाव महसूस होता है।",
+     "hg": "Khaali follicle progesterone banata hai, jo lining ko thick rakhta hai. Kuch logon ko breasts mein dard, bloating ya mood changes feel hote hain."
+    }
+   },
+   {
+    "icon": "cycle",
+    "label": {
+     "en": "Back to Day 1",
+     "hi": "फिर से पहला दिन",
+     "hg": "Wapas Day 1"
+    },
+    "text": {
+     "en": "If the egg is not fertilised, hormones fall after about two weeks, the lining sheds, and a new cycle begins.",
+     "hi": "अंडा निषेचित न हो, तो क़रीब दो हफ़्ते बाद हार्मोन गिरते हैं, परत झड़ती है और नया चक्र शुरू होता है।",
+     "hg": "Egg fertilise na ho, toh kareeb do hafte baad hormones gir jaate hain, lining shed hoti hai aur naya cycle start hota hai."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d03-l04",
+  "type": "compare",
+  "title": {
+   "en": "Period pain: what helps, when to get help",
+   "hi": "पीरियड का दर्द: क्या आराम देता है, कब मदद लें",
+   "hg": "Period pain: kya help karta hai, kab help lo"
+  },
+  "left": {
+   "title": {
+    "en": "What helps",
+    "hi": "क्या आराम देता है",
+    "hg": "Kya help karta hai"
+   },
+   "tone": "good",
+   "icon": "care",
+   "points": [
+    {
+     "en": "Heat: a hot water bottle or warm bath relaxes the muscle",
+     "hi": "सिकाई: गर्म पानी की बोतल या गुनगुने पानी से नहाना मांसपेशी को ढीला करता है",
+     "hg": "Heat: hot water bottle ya gungune paani se nahana muscle ko relax karta hai"
+    },
+    {
+     "en": "Gentle movement like walking, stretching or yoga; rest is fine too",
+     "hi": "टहलना, स्ट्रेचिंग या योग जैसी हल्की कसरत; ज़रूरत हो तो आराम भी ठीक",
+     "hg": "Walking, stretching ya yoga jaisi halki movement; zaroorat ho toh rest bhi theek"
+    },
+    {
+     "en": "Pain relief taken as pain begins; ask a doctor or pharmacist which suits you",
+     "hi": "दर्द शुरू होते ही ली गई दर्द की दवा; कौन-सी ठीक है, डॉक्टर या फ़ार्मासिस्ट से पूछिए",
+     "hg": "Dard shuru hote hi li gayi pain-relief medicine; kaunsi sahi hai, doctor ya pharmacist se poochho"
+    },
+    {
+     "en": "Sleep, water and iron-rich food like leafy greens, dal, chana and eggs",
+     "hi": "नींद, पानी और आयरन वाला खाना, जैसे हरी पत्तेदार सब्ज़ियाँ, दाल, चना और अंडे",
+     "hg": "Neend, paani aur iron-rich khana, jaise hari patti wali sabziyan, dal, chana aur ande"
+    }
+   ]
+  },
+  "right": {
+   "title": {
+    "en": "Get help if",
+    "hi": "मदद लीजिए अगर",
+    "hg": "Help lo agar"
+   },
+   "tone": "bad",
+   "icon": "support",
+   "points": [
+    {
+     "en": "Pain makes you miss school, vomit or faint",
+     "hi": "दर्द की वजह से स्कूल छूटे, उल्टी हो या बेहोशी आए",
+     "hg": "Dard ki wajah se school miss ho, ulti ho ya behoshi aaye"
+    },
+    {
+     "en": "Usual measures do not help, or pain keeps getting worse",
+     "hi": "आम उपायों से आराम न मिले, या दर्द बढ़ता ही जाए",
+     "hg": "Usual upaayon se aaram na mile, ya dard badhta hi jaye"
+    },
+    {
+     "en": "Mood changes before a period feel unmanageable",
+     "hi": "पीरियड से पहले मूड के बदलाव संभल न रहे हों",
+     "hg": "Period se pehle mood changes sambhal na rahe hon"
+    },
+    {
+     "en": "Thoughts of self-harm: call Tele-MANAS 14416 or tell a trusted adult now",
+     "hi": "ख़ुद को नुक़सान पहुँचाने के ख़याल: तुरंत टेली-मानस 14416 पर फ़ोन कीजिए या किसी भरोसेमंद बड़े को बताइए",
+     "hg": "Self-harm ke khayal aayein: turant Tele-MANAS 14416 pe call karo ya kisi trusted adult ko batao"
+    }
+   ]
+  }
+ },
+ {
+  "lesson": "d03-l05",
+  "type": "compare",
+  "title": {
+   "en": "Worn outside or inside: your options",
+   "hi": "बाहर या अंदर: आपके विकल्प",
+   "hg": "Bahar ya andar: tumhare options"
+  },
+  "left": {
+   "title": {
+    "en": "Worn outside",
+    "hi": "बाहर लगने वाले",
+    "hg": "Bahar wale"
+   },
+   "tone": "neutral",
+   "icon": "pad",
+   "points": [
+    {
+     "en": "Disposable pads: the easiest to start with",
+     "hi": "डिस्पोज़ेबल पैड: शुरुआत के लिए सबसे आसान",
+     "hg": "Disposable pads: start karne ke liye sabse easy"
+    },
+    {
+     "en": "Cloth pads and period underwear: cheaper over time, need soap, water and sun-drying",
+     "hi": "कपड़े के पैड और पीरियड अंडरवियर: लंबे समय में सस्ते, पर साबुन, पानी और धूप में सुखाना ज़रूरी",
+     "hg": "Cloth pads aur period underwear: long term mein saste, par sabun, paani aur dhoop mein sukhana zaroori"
+    },
+    {
+     "en": "Low-cost pads at Jan Aushadhi stores and through ASHA workers in many areas",
+     "hi": "कई इलाक़ों में सस्ते पैड जन औषधि केंद्रों और आशा कार्यकर्ताओं से मिलते हैं",
+     "hg": "Kai areas mein low-cost pads Jan Aushadhi stores aur ASHA workers se milte hain"
+    },
+    {
+     "en": "Skip scented pads; fragrance does nothing for hygiene",
+     "hi": "ख़ुशबूदार पैड छोड़िए; ख़ुशबू से सफ़ाई नहीं बढ़ती",
+     "hg": "Scented pads skip karo; fragrance se hygiene nahi badhti"
+    }
+   ]
+  },
+  "right": {
+   "title": {
+    "en": "Worn inside",
+    "hi": "अंदर लगने वाले",
+    "hg": "Andar wale"
+   },
+   "tone": "neutral",
+   "icon": "cup",
+   "points": [
+    {
+     "en": "Tampons: use the lowest absorbency you need and change every 4 to 8 hours",
+     "hi": "टैम्पोन: बहाव के हिसाब से सबसे कम सोखने वाला लीजिए, हर 4 से 8 घंटे में बदलिए",
+     "hg": "Tampons: flow ke hisaab se sabse kam absorbency wala lo, har 4 se 8 ghante mein change karo"
+    },
+    {
+     "en": "Cups: collect blood, last for years, need clean water and a private washroom",
+     "hi": "कप: खून इकट्ठा करते हैं, बरसों चलते हैं, साफ़ पानी और निजी वॉशरूम चाहिए",
+     "hg": "Cups: blood collect karte hain, saalon chalte hain, clean paani aur private washroom chahiye"
+    },
+    {
+     "en": "A tampon cannot get lost inside; a doctor can remove it easily",
+     "hi": "टैम्पोन अंदर खो नहीं सकता; डॉक्टर उसे आसानी से निकाल देते हैं",
+     "hg": "Tampon andar kho nahi sakta; doctor use easily nikaal dete hain"
+    },
+    {
+     "en": "Sudden high fever, rash, vomiting or dizziness: remove it and get urgent care",
+     "hi": "अचानक तेज़ बुख़ार, चकत्ते, उल्टी या चक्कर: उसे निकालिए और तुरंत इलाज लीजिए",
+     "hg": "Achanak tez bukhaar, rash, ulti ya chakkar: use nikaalo aur turant medical care lo"
+    }
+   ]
+  }
+ },
+ {
+  "lesson": "d03-l06",
+  "type": "grid",
+  "title": {
+   "en": "Period red flags: see a doctor",
+   "hi": "पीरियड के ख़तरे के संकेत: डॉक्टर को दिखाइए",
+   "hg": "Period red flags: doctor ko dikhao"
+  },
+  "items": [
+   {
+    "icon": "pad",
+    "label": {
+     "en": "Soaking through fast",
+     "hi": "जल्दी-जल्दी भीगना",
+     "hg": "Jaldi-jaldi bheegna"
+    },
+    "text": {
+     "en": "Soaking a pad or tampon every one to two hours, or passing large clots again and again.",
+     "hi": "हर एक-दो घंटे में पैड या टैम्पोन का पूरा भीग जाना, या बार-बार बड़े थक्के आना।",
+     "hg": "Har ek-do ghante mein pad ya tampon poora bheeg jaana, ya baar-baar bade clots aana."
+    }
+   },
+   {
+    "icon": "calendar",
+    "label": {
+     "en": "Bleeding too long",
+     "hi": "बहुत दिन तक खून",
+     "hg": "Bahut din tak bleeding"
+    },
+    "text": {
+     "en": "Bleeding that lasts more than 7 days, or bleeding between periods.",
+     "hi": "7 दिन से ज़्यादा खून आना, या दो पीरियड के बीच खून आना।",
+     "hg": "7 din se zyada bleeding, ya do periods ke beech bleeding."
+    }
+   },
+   {
+    "icon": "pain",
+    "label": {
+     "en": "Pain that stops you",
+     "hi": "काम रोक देने वाला दर्द",
+     "hg": "Kaam rok dene wala pain"
+    },
+    "text": {
+     "en": "Pain that stops normal activity. Endometriosis is often dismissed as ordinary cramps for years.",
+     "hi": "ऐसा दर्द जो रोज़ के काम रोक दे। एंडोमेट्रियोसिस को अक्सर सालों तक आम ऐंठन समझकर टाल दिया जाता है।",
+     "hg": "Aisa pain jo normal kaam rok de. Endometriosis ko aksar saalon tak normal cramps samajhkar ignore kiya jaata hai."
+    }
+   },
+   {
+    "icon": "hourglass",
+    "label": {
+     "en": "Long gaps or none",
+     "hi": "लंबा अंतर या पीरियड ही नहीं",
+     "hg": "Lamba gap ya period hi nahi"
+    },
+    "text": {
+     "en": "Periods that stop for three months or more, or no first period by 15.",
+     "hi": "तीन महीने या उससे ज़्यादा पीरियड बंद रहना, या 15 साल तक पहला पीरियड न आना।",
+     "hg": "Teen mahine ya usse zyada periods band rehna, ya 15 saal tak first period na aana."
+    }
+   },
+   {
+    "icon": "hormone",
+    "label": {
+     "en": "Possible signs of PCOS",
+     "hi": "PCOS के संभावित संकेत",
+     "hg": "PCOS ke possible signs"
+    },
+    "text": {
+     "en": "Infrequent or missed periods, extra face or body hair, stubborn acne or thinning scalp hair. PCOS is manageable.",
+     "hi": "कभी-कभार आने वाले या छूटते पीरियड, चेहरे या शरीर पर ज़्यादा बाल, ज़िद्दी मुँहासे या सिर के बाल पतले होना। PCOS संभाला जा सकता है।",
+     "hg": "Kabhi-kabhaar aane wale ya miss hote periods, face ya body par extra hair, stubborn acne ya scalp hair patle hona. PCOS manageable hai."
+    }
+   },
+   {
+    "icon": "sos",
+    "label": {
+     "en": "Emergency: go now",
+     "hi": "इमरजेंसी: अभी जाइए",
+     "hg": "Emergency: abhi jao"
+    },
+    "text": {
+     "en": "Heavy bleeding with fainting or a racing heartbeat: go to a hospital straight away or call 112.",
+     "hi": "भारी रक्तस्राव के साथ बेहोशी या दिल की तेज़ धड़कन: तुरंत अस्पताल जाइए या 112 पर फ़ोन कीजिए।",
+     "hg": "Heavy bleeding ke saath behoshi ya dil ki tez dhadkan: turant hospital jao ya 112 pe call karo."
+    }
+   }
+  ]
+ }
+]

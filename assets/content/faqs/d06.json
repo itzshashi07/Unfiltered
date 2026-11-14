@@ -1,0 +1,596 @@
+[
+ {
+  "id": "d06-f01",
+  "domain": "d06",
+  "tracks": [
+   "A"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My friend said, 'I am not your friend any more.' What should I do?",
+   "hi": "मेरे दोस्त ने कहा, 'अब मैं तुम्हारा दोस्त नहीं हूँ।' मैं क्या करूँ?",
+   "hg": "Mere dost ne bola, 'Ab main tumhara dost nahi hoon.' Main kya karoon?"
+  },
+  "a": {
+   "en": "That hurts, and it is okay to feel sad. Friends sometimes say this when they are angry. Wait a little. Then you can ask, 'Are you upset with me? Can we talk?' If you did something wrong, say sorry. If it keeps happening or you feel very sad, tell your parent or teacher.",
+   "hi": "ये सुनकर दुख होता है, और दुखी होना ठीक है। दोस्त कभी-कभी ग़ुस्से में ऐसा कह देते हैं। थोड़ा रुको। फिर पूछ सकते हो, 'क्या तुम मुझसे नाराज़ हो? क्या हम बात करें?' अगर तुमसे कोई गलती हुई हो, तो सॉरी कहो। अगर ऐसा बार-बार हो या तुम बहुत उदास रहो, तो मम्मी-पापा या टीचर को बताओ।",
+   "hg": "Yeh sun kar hurt hota hai, aur sad feel karna theek hai. Dost kabhi-kabhi gusse mein aisa bol dete hain. Thoda ruko. Phir pooch sakte ho, 'Kya tum mujhse naraz ho? Kya hum baat karein?' Agar tumse koi galti hui ho, toh sorry bolo. Agar aisa baar-baar ho ya tum bahut sad raho, toh mummy-papa ya teacher ko batao."
+  },
+  "keywords": [
+   "friend left me",
+   "not my friend",
+   "dost naraz",
+   "katti",
+   "dost ne katti kar li",
+   "दोस्त नाराज़",
+   "कट्टी",
+   "friend fight",
+   "dost se ladai"
+  ],
+  "refs": [
+   "unesco-itgse"
+  ],
+  "urgent": false,
+  "lesson": "d06-l01"
+ },
+ {
+  "id": "d06-f02",
+  "domain": "d06",
+  "tracks": [
+   "A"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Do I have to hug or sit close to someone if I do not want to?",
+   "hi": "अगर मेरा मन न हो, तो क्या मुझे किसी को गले लगाना या उसके पास बैठना ज़रूरी है?",
+   "hg": "Agar mera mann na ho, toh kya mujhe kisi ko hug karna ya uske paas baithna zaroori hai?"
+  },
+  "a": {
+   "en": "No. Your body belongs to you. You can say, 'No, thank you' to a hug, even from a friend or a relative. You can wave, say namaste or give a high-five instead. If someone does not listen and keeps touching you, go to a grown-up you trust and tell them.",
+   "hi": "नहीं। तुम्हारा शरीर तुम्हारा अपना है। तुम गले लगने से मना कर सकते हो, 'नहीं, थैंक यू', चाहे सामने दोस्त हो या रिश्तेदार। उसकी जगह हाथ हिला सकते हो, नमस्ते कर सकते हो या हाई-फ़ाइव दे सकते हो। अगर कोई तुम्हारी बात न सुने और छूता रहे, तो किसी भरोसेमंद बड़े के पास जाओ और उन्हें बताओ।",
+   "hg": "Nahi. Tumhari body tumhari apni hai. Tum hug ke liye 'No, thank you' bol sakte ho, chahe saamne dost ho ya relative. Uski jagah haath hila sakte ho, namaste kar sakte ho ya high-five de sakte ho. Agar koi tumhari baat na sune aur touch karta rahe, toh kisi bharosemand bade ke paas jao aur unhe batao."
+  },
+  "keywords": [
+   "hug nahi karna",
+   "personal space",
+   "dont want hug",
+   "gale nahi lagna",
+   "गले नहीं लगना",
+   "my space",
+   "door raho",
+   "no touching",
+   "अपनी जगह"
+  ],
+  "refs": [
+   "unesco-itgse"
+  ],
+  "urgent": false,
+  "lesson": "d06-l01"
+ },
+ {
+  "id": "d06-f03",
+  "domain": "d06",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "I have a crush on someone in my class and I can't stop thinking about them. Is something wrong with me?",
+   "hi": "मुझे अपनी क्लास में किसी पर क्रश है और मैं उसके बारे में सोचना बंद नहीं कर पा रहा/रही। क्या मुझमें कुछ गड़बड़ है?",
+   "hg": "Mujhe apni class mein kisi par crush hai aur main uske baare mein sochna band nahi kar pa raha/rahi. Kya mujhme kuch gadbad hai?"
+  },
+  "a": {
+   "en": "Nothing is wrong with you. A crush is a strong liking that often starts around puberty, and thinking about the person a lot is part of it. It usually settles with time. You do not have to tell them or do anything. Keep up your studies, hobbies and friends so the crush is one part of your life, not all of it. If it is upsetting you, or someone is teasing you about it, talk to a trusted adult.",
+   "hi": "तुममें कुछ गड़बड़ नहीं है। क्रश किसी को बहुत ज़्यादा पसंद करने की भावना है जो अक्सर प्यूबर्टी के आसपास शुरू होती है, और उस इंसान के बारे में बहुत सोचना इसी का हिस्सा है। समय के साथ ये अक्सर शांत हो जाता है। तुम्हें उसे बताना या कुछ भी करना ज़रूरी नहीं। अपनी पढ़ाई, शौक़ और दोस्त बनाए रखो ताकि क्रश तुम्हारी ज़िंदगी का एक हिस्सा रहे, पूरी ज़िंदगी नहीं। अगर ये तुम्हें परेशान कर रहा है, या कोई इस पर चिढ़ा रहा है, तो किसी भरोसेमंद बड़े से बात करो।",
+   "hg": "Tumme kuch gadbad nahi hai. Crush kisi ko bahut zyada pasand karne ki feeling hai jo aksar puberty ke aas-paas shuru hoti hai, aur us insaan ke baare mein bahut sochna isi ka hissa hai. Time ke saath yeh usually settle ho jata hai. Tumhe use batana ya kuch bhi karna zaroori nahi. Apni padhai, hobbies aur dost banaye rakho taaki crush tumhari life ka ek part rahe, poori life nahi. Agar yeh tumhe pareshan kar raha hai, ya koi is par tease kar raha hai, toh kisi trusted adult se baat karo."
+  },
+  "keywords": [
+   "crush",
+   "crush on classmate",
+   "kisi ko pasand karna",
+   "crush hai kya karu",
+   "क्रश",
+   "पसंद करना",
+   "like someone",
+   "pyaar ho gaya",
+   "thinking about someone",
+   "first crush"
+  ],
+  "refs": [
+   "unesco-itgse"
+  ],
+  "urgent": false,
+  "lesson": "d06-l02"
+ },
+ {
+  "id": "d06-f04",
+  "domain": "d06",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My friends keep daring me to do things I don't want to do. How do I say no without losing them?",
+   "hi": "मेरे दोस्त बार-बार ऐसे डेयर देते हैं जो मैं नहीं करना चाहता/चाहती। उन्हें खोए बिना ना कैसे कहूँ?",
+   "hg": "Mere dost baar-baar aise dare dete hain jo main nahi karna chahta/chahti. Unhe khoye bina no kaise bolun?"
+  },
+  "a": {
+   "en": "Say it short and calm: 'No, I'm not doing that.' Then change the topic or suggest something else. You do not need a long excuse; the more you explain, the more they argue. If it helps, use a reason like 'My parents will ground me.' Friends who care may tease for a minute and then move on. If the group keeps pushing, mocks you or threatens to leave you out, that is pressure, not friendship, and it is fine to spend more time with other people.",
+   "hi": "छोटा और शांत जवाब दो: 'नहीं, मुझे ये नहीं करना।' फिर बात बदल दो या कुछ और करने का सुझाव दो। लंबा बहाना बनाने की ज़रूरत नहीं; जितनी सफ़ाई दोगे, उतनी बहस होगी। चाहो तो कोई वजह बोल दो, जैसे 'घर पर डाँट पड़ेगी।' जिन दोस्तों को तुम्हारी परवाह है, वो एक मिनट चिढ़ाकर आगे बढ़ जाएँगे। अगर ग्रुप ज़ोर डालता रहे, मज़ाक उड़ाए या अलग कर देने की धमकी दे, तो वो दोस्ती नहीं, दबाव है, और दूसरे लोगों के साथ ज़्यादा समय बिताना बिल्कुल ठीक है।",
+   "hg": "Chhota aur calm jawab do: 'Nahi, mujhe yeh nahi karna.' Phir topic change kar do ya kuch aur karne ka idea do. Lamba excuse banane ki zaroorat nahi; jitni explanation doge, utni behes hogi. Chaho toh koi reason bol do, jaise 'Ghar par daant padegi.' Jin doston ko tumhari care hai, woh ek minute tease karke aage badh jayenge. Agar group push karta rahe, mazaak udaye ya left out karne ki dhamki de, toh woh dosti nahi, pressure hai, aur doosre logon ke saath zyada time bitana bilkul theek hai."
+  },
+  "keywords": [
+   "peer pressure",
+   "dare",
+   "friends force me",
+   "dost force karte hain",
+   "na kaise bolu",
+   "how to say no",
+   "दोस्तों का दबाव",
+   "ना कैसे कहें",
+   "dost zabardasti",
+   "group pressure"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-cse"
+  ],
+  "urgent": false,
+  "lesson": "d06-l02"
+ },
+ {
+  "id": "d06-f05",
+  "domain": "d06",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My best friend has a new best friend and I feel left out. What do I do?",
+   "hi": "मेरे बेस्ट फ़्रेंड का अब एक नया बेस्ट फ़्रेंड है और मैं अकेला महसूस कर रहा/रही हूँ। क्या करूँ?",
+   "hg": "Mere best friend ka ab ek naya best friend hai aur main left out feel kar raha/rahi hoon. Kya karoon?"
+  },
+  "a": {
+   "en": "Feeling jealous or left out here is very common and does not make you a bad friend. Friendships change as people join new classes, teams and groups, and one person cannot be everything for another. Tell your friend how you feel without blaming: 'I miss hanging out with you.' Plan something together. Also widen your own circle through a club, sport or tuition batch. If your friend starts ignoring or mocking you on purpose, that is different, and stepping back is okay.",
+   "hi": "ऐसे में जलन होना या अकेला महसूस करना बहुत आम है और इससे तुम बुरे दोस्त नहीं बन जाते। नई क्लास, टीम और ग्रुप के साथ दोस्तियाँ बदलती हैं, और एक इंसान दूसरे के लिए सब कुछ नहीं हो सकता। बिना इल्ज़ाम लगाए अपने दोस्त को बताओ कि तुम्हें कैसा लग रहा है: 'मुझे तुम्हारे साथ समय बिताना याद आता है।' साथ में कुछ करने का प्लान बनाओ। अपना दायरा भी बढ़ाओ, किसी क्लब, खेल या ट्यूशन बैच के ज़रिए। अगर दोस्त जानबूझकर अनदेखा करने या मज़ाक उड़ाने लगे, तो वो अलग बात है, और तब पीछे हट जाना ठीक है।",
+   "hg": "Aise mein jealous ya left out feel karna bahut common hai aur isse tum bure dost nahi ban jate. Nayi class, team aur groups ke saath dostiyan badalti hain, aur ek insaan doosre ke liye sab kuch nahi ho sakta. Bina blame kiye apne dost ko batao ki tumhe kaisa lag raha hai: 'Mujhe tumhare saath hangout karna miss hota hai.' Saath mein kuch karne ka plan banao. Apna circle bhi bada karo, kisi club, sport ya tuition batch ke through. Agar dost jaan-boojh kar ignore karne ya mazaak udane lage, toh woh alag baat hai, aur tab peeche hat jana theek hai."
+  },
+  "keywords": [
+   "best friend left",
+   "left out",
+   "jealous of friend",
+   "dost badal gaya",
+   "akela feel",
+   "bestie new friend",
+   "बेस्ट फ़्रेंड",
+   "अकेला महसूस",
+   "jealousy friendship",
+   "dost ignore kar raha"
+  ],
+  "refs": [
+   "unesco-itgse"
+  ],
+  "urgent": false,
+  "lesson": "d06-l02"
+ },
+ {
+  "id": "d06-f06",
+  "domain": "d06",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Someone proposed to me and I don't like them that way. How do I say no without being mean?",
+   "hi": "किसी ने मुझे प्रपोज़ किया है और मुझे वो उस तरह पसंद नहीं। बिना दिल दुखाए मना कैसे करूँ?",
+   "hg": "Kisi ne mujhe propose kiya hai aur mujhe woh us tarah pasand nahi. Bina mean hue mana kaise karoon?"
+  },
+  "a": {
+   "en": "Be kind, clear and brief: 'Thank you for telling me, but I don't feel the same way.' Do not say 'maybe later' if you mean no, because it keeps them hoping. You do not owe a reason, and you do not have to stay friends if that feels uncomfortable. Do not share their message or mock them in a group. If they keep asking, follow you, message from other accounts or threaten to hurt themselves, that is not yours to manage alone: tell a parent, teacher or counsellor.",
+   "hi": "नरमी से, साफ़ और छोटे में कहो: 'बताने के लिए शुक्रिया, पर मेरे मन में वैसी भावना नहीं है।' अगर जवाब 'ना' है तो 'शायद बाद में' मत कहो, क्योंकि इससे उनकी उम्मीद बनी रहती है। वजह बताना तुम्हारी ज़िम्मेदारी नहीं, और अगर असहज लगे तो दोस्ती रखना भी ज़रूरी नहीं। उनका मैसेज किसी को मत दिखाओ और ग्रुप में उनका मज़ाक मत उड़ाओ। अगर वो बार-बार पूछें, पीछा करें, दूसरे अकाउंट से मैसेज करें या ख़ुद को नुक़सान पहुँचाने की धमकी दें, तो ये अकेले सँभालने की चीज़ नहीं है: माता-पिता, टीचर या काउंसलर को बताओ।",
+   "hg": "Kind, clear aur short raho: 'Batane ke liye thank you, par mere mann mein waisi feeling nahi hai.' Agar answer 'no' hai toh 'maybe later' mat bolo, kyunki isse unki hope bani rehti hai. Reason dena tumhari zimmedari nahi, aur agar uncomfortable lage toh dosti rakhna bhi zaroori nahi. Unka message kisi ko mat dikhao aur group mein unka mazaak mat udao. Agar woh baar-baar poochein, peecha karein, doosre accounts se message karein ya khud ko hurt karne ki dhamki dein, toh yeh akele handle karne ki cheez nahi hai: parent, teacher ya counsellor ko batao."
+  },
+  "keywords": [
+   "proposal reject",
+   "how to reject someone",
+   "propose kiya",
+   "mana kaise karu",
+   "reject kaise kare",
+   "रिजेक्ट कैसे करें",
+   "प्रपोज़",
+   "friendzone",
+   "not interested",
+   "na bolna hai"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-cse"
+  ],
+  "urgent": false,
+  "lesson": "d06-l06"
+ },
+ {
+  "id": "d06-f07",
+  "domain": "d06",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My boyfriend/girlfriend wants my phone password and says I'm hiding something if I refuse. Is that normal?",
+   "hi": "मेरा बॉयफ़्रेंड/गर्लफ़्रेंड मेरे फ़ोन का पासवर्ड माँगता है और मना करने पर कहता है कि मैं कुछ छुपा रहा/रही हूँ। क्या ये नॉर्मल है?",
+   "hg": "Mera boyfriend/girlfriend mere phone ka password maangta hai aur mana karne par bolta hai ki main kuch chhupa raha/rahi hoon. Kya yeh normal hai?"
+  },
+  "a": {
+   "en": "It is common, but it is not healthy. Wanting privacy is not the same as hiding something, and trust that needs constant checking is not trust. You can say, 'I'm happy to talk about what is worrying you, but my password stays with me.' A caring partner accepts that. If they sulk, accuse you, check your phone secretly or make access a condition for staying together, that is controlling behaviour. If it comes with other rules about your friends or clothes, talk to someone you trust.",
+   "hi": "ये आम है, पर सही नहीं है। प्राइवेसी चाहना कुछ छुपाने जैसा नहीं है, और जिस भरोसे को हर वक़्त जाँच की ज़रूरत पड़े वो भरोसा नहीं है। तुम कह सकते हो, 'तुम्हें जो बात परेशान कर रही है उस पर मैं खुलकर बात करूँगा/करूँगी, पर मेरा पासवर्ड मेरे पास रहेगा।' परवाह करने वाला पार्टनर ये मान लेता है। अगर वो मुँह फुलाए, इल्ज़ाम लगाए, चुपके से फ़ोन चेक करे या साथ रहने की शर्त बना दे, तो ये कंट्रोल करने वाला बर्ताव है। अगर इसके साथ तुम्हारे दोस्तों या कपड़ों को लेकर और नियम भी हों, तो किसी भरोसेमंद इंसान से बात करो।",
+   "hg": "Yeh common hai, par healthy nahi hai. Privacy chahna kuch chhupane jaisa nahi hai, aur jis trust ko har waqt checking chahiye woh trust nahi hai. Tum bol sakte ho, 'Tumhe jo baat worry kar rahi hai us par main khul kar baat karne ko ready hoon, par mera password mere paas rahega.' Care karne wala partner yeh accept kar leta hai. Agar woh muh phulaye, accuse kare, chupke se phone check kare ya saath rehne ki condition bana de, toh yeh controlling behaviour hai. Agar iske saath tumhare doston ya kapdon ko lekar aur rules bhi hon, toh kisi trusted insaan se baat karo."
+  },
+  "keywords": [
+   "password share",
+   "phone check",
+   "partner checks phone",
+   "bf password maangta hai",
+   "gf phone check karti hai",
+   "पासवर्ड",
+   "फ़ोन चेक",
+   "privacy in relationship",
+   "trust issues",
+   "insta password"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-cse"
+  ],
+  "urgent": false,
+  "lesson": "d06-l03"
+ },
+ {
+  "id": "d06-f08",
+  "domain": "d06",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My partner gets angry when I talk to other friends and says it's because they love me. Is it?",
+   "hi": "मैं दूसरे दोस्तों से बात करूँ तो मेरा पार्टनर ग़ुस्सा हो जाता है और कहता है कि ये प्यार की वजह से है। क्या सच में ऐसा है?",
+   "hg": "Main doosre doston se baat karoon toh mera partner gussa ho jata hai aur bolta hai ki yeh pyaar ki wajah se hai. Kya sach mein aisa hai?"
+  },
+  "a": {
+   "en": "Love and jealousy can exist together, but anger that limits who you talk to is about control, not love. An insecure moment that is handled by talking is normal. A rule such as 'don't talk to them' is not. Notice the pattern: are you hiding ordinary chats, dropping friends or feeling scared of the reaction? Those are signs the relationship is shrinking your life. Say clearly that your friendships are not negotiable. If the anger continues or includes threats, shouting or grabbing, speak to a trusted adult or call 1098 (under 18) or 181.",
+   "hi": "प्यार और जलन साथ हो सकते हैं, लेकिन जो ग़ुस्सा ये तय करे कि तुम किससे बात करोगे, वो प्यार नहीं, कंट्रोल है। असुरक्षा का कोई पल जिसे बात करके सँभाल लिया जाए, सामान्य है। 'उनसे बात मत करो' जैसा नियम सामान्य नहीं है। पैटर्न पर ग़ौर करो: क्या तुम आम चैट भी छुपा रहे हो, दोस्त छोड़ रहे हो या उसकी प्रतिक्रिया से डरते हो? ये संकेत हैं कि रिश्ता तुम्हारी ज़िंदगी को छोटा कर रहा है। साफ़ कहो कि तुम्हारी दोस्तियों पर कोई सौदा नहीं होगा। अगर ग़ुस्सा जारी रहे या उसमें धमकी, चिल्लाना या ज़ोर से पकड़ना शामिल हो, तो किसी भरोसेमंद बड़े से बात करो या 1098 (18 से कम उम्र) या 181 पर कॉल करो।",
+   "hg": "Pyaar aur jealousy saath ho sakte hain, lekin jo gussa yeh decide kare ki tum kisse baat karoge, woh pyaar nahi, control hai. Insecurity ka koi moment jise baat karke handle kar liya jaye, normal hai. 'Unse baat mat karo' jaisa rule normal nahi hai. Pattern notice karo: kya tum normal chats bhi chhupa rahe ho, dost chhod rahe ho ya uske reaction se darte ho? Yeh signs hain ki relationship tumhari life ko chhota kar raha hai. Clearly bolo ki tumhari dostiyan negotiable nahi hain. Agar gussa continue rahe ya usme dhamki, chillana ya zor se pakadna shamil ho, toh kisi trusted adult se baat karo ya 1098 (18 se kam) ya 181 par call karo."
+  },
+  "keywords": [
+   "possessive partner",
+   "jealous boyfriend",
+   "jealous girlfriend",
+   "doston se baat nahi karne deta",
+   "possessive bf",
+   "पज़ेसिव",
+   "जलन",
+   "controlling partner",
+   "shak karta hai",
+   "insecure partner"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-vaw"
+  ],
+  "urgent": true,
+  "lesson": "d06-l03"
+ },
+ {
+  "id": "d06-f09",
+  "domain": "d06",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "How do I know if I'm being gaslighted or just overthinking?",
+   "hi": "कैसे पता चले कि मेरे साथ गैसलाइटिंग हो रही है या मैं बस ज़्यादा सोच रहा/रही हूँ?",
+   "hg": "Kaise pata chale ki mere saath gaslighting ho rahi hai ya main bas overthink kar raha/rahi hoon?"
+  },
+  "a": {
+   "en": "One disagreement about what happened is not gaslighting; memories differ honestly. Gaslighting is a repeated pattern in which your clear memories and feelings are denied ('that never happened', 'you're crazy') until you doubt yourself. Clues: you apologise constantly, feel confused after most arguments, check with others whether your reaction is 'allowed', and were more confident before this relationship. Keep private notes of events where the other person cannot read them, and ask a trusted friend what they have noticed. If the pattern holds, talk to a trusted adult or counsellor, or call Tele-MANAS 14416; under 18, Child Helpline 1098 can help, and women can call 181.",
+   "hi": "क्या हुआ था, इस पर एक बार की असहमति गैसलाइटिंग नहीं है; यादें ईमानदारी से भी अलग हो सकती हैं। गैसलाइटिंग एक बार-बार दोहराया जाने वाला पैटर्न है जिसमें तुम्हारी साफ़ यादों और भावनाओं को नकारा जाता है ('ऐसा कभी हुआ ही नहीं', 'तुम पागल हो'), जब तक तुम ख़ुद पर शक न करने लगो। संकेत: तुम हर समय माफ़ी माँगते हो, ज़्यादातर बहसों के बाद उलझन में रहते हो, दूसरों से पूछते हो कि तुम्हारी प्रतिक्रिया 'जायज़' है या नहीं, और इस रिश्ते से पहले तुममें ज़्यादा आत्मविश्वास था। घटनाओं के निजी नोट ऐसी जगह रखो जहाँ वो इंसान उन्हें पढ़ न सके, और किसी भरोसेमंद दोस्त से पूछो कि उसने क्या देखा है। अगर पैटर्न बना रहे, तो किसी भरोसेमंद बड़े या काउंसलर से बात करो, या टेली-मानस 14416 पर कॉल करो; 18 से कम हो तो चाइल्ड हेल्पलाइन 1098 मदद कर सकती है, और महिलाएँ 181 पर कॉल कर सकती हैं।",
+   "hg": "Kya hua tha, is par ek baar ka disagreement gaslighting nahi hai; memories honestly bhi alag ho sakti hain. Gaslighting ek repeated pattern hai jisme tumhari clear memories aur feelings ko deny kiya jata hai ('aisa kabhi hua hi nahi', 'tum pagal ho'), jab tak tum khud par doubt na karne lago. Clues: tum har time sorry bolte ho, zyadatar arguments ke baad confused rehte ho, doosron se poochte ho ki tumhara reaction 'allowed' hai ya nahi, aur is relationship se pehle tumme zyada confidence tha. Events ke private notes aisi jagah rakho jahan woh insaan unhe padh na sake, aur kisi trusted dost se poocho ki usne kya notice kiya hai. Agar pattern bana rahe, toh kisi trusted adult ya counsellor se baat karo, ya Tele-MANAS 14416 par call karo; 18 se kam ho toh Child Helpline 1098 help kar sakti hai, aur women 181 par call kar sakti hain."
+  },
+  "keywords": [
+   "gaslighting",
+   "am i overthinking",
+   "gaslight kya hota hai",
+   "pagal bolta hai",
+   "har baar meri galti",
+   "गैसलाइटिंग",
+   "ख़ुद पर शक",
+   "manipulation",
+   "too sensitive",
+   "confused in relationship"
+  ],
+  "refs": [
+   "who-vaw",
+   "unesco-itgse"
+  ],
+  "urgent": true,
+  "lesson": "d06-l04"
+ },
+ {
+  "id": "d06-f10",
+  "domain": "d06",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My partner says they will hurt themselves if I break up. What should I do?",
+   "hi": "मेरा पार्टनर कहता है कि अगर मैंने ब्रेकअप किया तो वो ख़ुद को नुक़सान पहुँचा लेगा। मैं क्या करूँ?",
+   "hg": "Mera partner bolta hai ki agar maine breakup kiya toh woh khud ko hurt kar lega. Main kya karoon?"
+  },
+  "a": {
+   "en": "Take the statement seriously, but do not let it decide your relationship. You are not responsible for another person's life, and staying out of fear does not treat their distress. Say: 'I'm worried about you and I'm going to get you help.' Then tell someone who can act: their family or a trusted adult, or call Tele-MANAS on 14416; if there is immediate danger, call 112. When such threats are used repeatedly to stop you from leaving, it is a form of emotional manipulation. You can care about their safety and still end the relationship.",
+   "hi": "इस बात को गंभीरता से लो, पर इसे अपने रिश्ते का फ़ैसला मत करने दो। किसी और की ज़िंदगी की ज़िम्मेदारी तुम पर नहीं है, और डर के मारे साथ बने रहने से उसकी तकलीफ़ का इलाज नहीं होता। कहो: 'मुझे तुम्हारी फ़िक्र है और मैं तुम्हारे लिए मदद बुला रहा/रही हूँ।' फिर किसी ऐसे इंसान को बताओ जो कुछ कर सके: उसका परिवार या कोई भरोसेमंद बड़ा, या टेली-मानस 14416 पर कॉल करो; तुरंत ख़तरा हो तो 112 पर कॉल करो। जब ऐसी धमकियाँ तुम्हें जाने से रोकने के लिए बार-बार दी जाएँ, तो ये भावनात्मक चालाकी का एक रूप है। तुम उसकी सुरक्षा की परवाह करते हुए भी रिश्ता ख़त्म कर सकते हो।",
+   "hg": "Is baat ko seriously lo, par ise apne relationship ka decision mat karne do. Kisi aur ki life ki responsibility tum par nahi hai, aur darr ke maare saath bane rehne se uski takleef ka ilaaj nahi hota. Bolo: 'Mujhe tumhari fikr hai aur main tumhare liye help bula raha/rahi hoon.' Phir kisi aise insaan ko batao jo kuch kar sake: uski family ya koi trusted adult, ya Tele-MANAS 14416 par call karo; immediate danger ho toh 112 par call karo. Jab aisi dhamkiyan tumhe jaane se rokne ke liye baar-baar di jayein, toh yeh emotional manipulation ka ek form hai. Tum uski safety ki care karte hue bhi relationship end kar sakte ho."
+  },
+  "keywords": [
+   "suicide threat",
+   "marr jaunga",
+   "breakup threat",
+   "khud ko hurt kar lunga",
+   "emotional blackmail",
+   "जान दे दूँगा",
+   "इमोशनल ब्लैकमेल",
+   "self harm threat",
+   "partner threatens",
+   "breakup nahi karne deta"
+  ],
+  "refs": [
+   "who-adolescent-mh",
+   "tele-manas",
+   "who-vaw"
+  ],
+  "urgent": true,
+  "lesson": "d06-l04"
+ },
+ {
+  "id": "d06-f11",
+  "domain": "d06",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My partner keeps saying 'if you loved me you would' when I say no to getting physical. Is that okay?",
+   "hi": "जब मैं शारीरिक नज़दीकी से मना करता/करती हूँ, तो मेरा पार्टनर बार-बार कहता है 'प्यार करते तो मान जाते'। क्या ये ठीक है?",
+   "hg": "Jab main physical hone se mana karta/karti hoon, toh mera partner baar-baar bolta hai 'pyaar karte toh maan jate'. Kya yeh theek hai?"
+  },
+  "a": {
+   "en": "No. Using love as a test to get past your no is sexual coercion, even when no force is used. A no does not need a reason and should end the request; repeated asking, sulking, guilt, threats to leave or comparisons with other couples are pressure. Agreement given just to stop the pressure is not free consent. If you are under 18, the law (POCSO) treats any sexual act with you as an offence regardless of what was said. You can talk to a trusted adult, call 1098 if you are under 18, or call 181.",
+   "hi": "नहीं। तुम्हारी 'ना' को पार करने के लिए प्यार को परीक्षा बनाना यौन दबाव (sexual coercion) है, भले ही ज़बरदस्ती न की गई हो। 'ना' के लिए वजह की ज़रूरत नहीं होती और उसके बाद माँग वहीं रुक जानी चाहिए; बार-बार पूछना, मुँह फुलाना, अपराध-बोध कराना, छोड़ने की धमकी या दूसरे जोड़ों से तुलना, ये सब दबाव है। सिर्फ़ दबाव रोकने के लिए कही गई 'हाँ' आज़ाद सहमति नहीं है। अगर तुम 18 से कम हो, तो क़ानून (POCSO) तुम्हारे साथ किसी भी यौन कृत्य को अपराध मानता है, चाहे कुछ भी कहा गया हो। तुम किसी भरोसेमंद बड़े से बात कर सकते हो, 18 से कम हो तो 1098 पर, या 181 पर कॉल कर सकते हो।",
+   "hg": "Nahi. Tumhari 'no' ko cross karne ke liye pyaar ko test banana sexual coercion hai, chahe force use na hua ho. 'No' ke liye reason ki zaroorat nahi hoti aur uske baad request wahin ruk jani chahiye; baar-baar poochna, muh phulana, guilt dena, chhodne ki dhamki ya doosre couples se comparison, yeh sab pressure hai. Sirf pressure rokne ke liye boli gayi 'haan' free consent nahi hai. Agar tum 18 se kam ho, toh law (POCSO) tumhare saath kisi bhi sexual act ko offence maanta hai, chahe kuch bhi bola gaya ho. Tum kisi trusted adult se baat kar sakte ho, 18 se kam ho toh 1098 par, ya 181 par call kar sakte ho."
+  },
+  "keywords": [
+   "if you loved me",
+   "pressure for sex",
+   "partner forces me",
+   "zabardasti",
+   "pyaar karti ho to",
+   "physical hone ka pressure",
+   "दबाव",
+   "ज़बरदस्ती",
+   "sexual coercion",
+   "bf pressure karta hai"
+  ],
+  "refs": [
+   "who-vaw",
+   "pocso-2012",
+   "unesco-itgse"
+  ],
+  "urgent": true,
+  "lesson": "d06-l04"
+ },
+ {
+  "id": "d06-f12",
+  "domain": "d06",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Can a husband or wife say no to sex after marriage?",
+   "hi": "क्या शादी के बाद पति या पत्नी सेक्स से मना कर सकते हैं?",
+   "hg": "Kya shaadi ke baad husband ya wife sex ke liye mana kar sakte hain?"
+  },
+  "a": {
+   "en": "Yes. Marriage does not remove anyone's right to say no, for any reason: tiredness, pain, illness or simply not wanting to. Sex without free agreement is harmful inside marriage too. Indian criminal law currently has an exception for a husband and his adult wife in the definition of rape, which is contested in court, but a wife facing force, threats or pressure can seek protection under the Protection of Women from Domestic Violence Act, 2005; Women Helpline 181 explains options. Anyone in danger or hurt can call 112 or go to a hospital; free legal aid 15100 and Tele-MANAS 14416 can help. This is general information, not legal advice.",
+   "hi": "हाँ। शादी किसी से किसी भी वजह से 'ना' कहने का हक़ नहीं छीनती: थकान, दर्द, बीमारी या बस मन न होना। बिना आज़ाद सहमति का सेक्स शादी के अंदर भी नुक़सानदेह है। भारतीय आपराधिक क़ानून में बलात्कार की परिभाषा में फ़िलहाल पति और उसकी बालिग़ पत्नी के लिए एक अपवाद है, जिसे अदालत में चुनौती दी गई है, लेकिन ज़बरदस्ती, धमकी या दबाव झेल रही पत्नी घरेलू हिंसा से महिलाओं का संरक्षण अधिनियम, 2005 के तहत सुरक्षा माँग सकती है; महिला हेल्पलाइन 181 विकल्प समझा सकती है। ख़तरे में या चोटिल कोई भी व्यक्ति 112 पर कॉल कर सकता है या अस्पताल जा सकता है; मुफ़्त क़ानूनी सहायता 15100 और टेली-मानस 14416 भी मदद कर सकते हैं। ये सामान्य जानकारी है, क़ानूनी सलाह नहीं।",
+   "hg": "Haan. Shaadi kisi se kisi bhi reason se 'no' bolne ka haq nahi chheenti: thakaan, pain, bimari ya bas mann na hona. Bina free agreement ka sex shaadi ke andar bhi harmful hai. Indian criminal law mein rape ki definition mein filhaal husband aur uski adult wife ke liye ek exception hai, jise court mein challenge kiya gaya hai, lekin force, dhamki ya pressure jhel rahi wife Protection of Women from Domestic Violence Act, 2005 ke under protection maang sakti hai; Women Helpline 181 options samjha sakti hai. Danger mein ya hurt koi bhi insaan 112 par call kar sakta hai ya hospital ja sakta hai; free legal aid 15100 aur Tele-MANAS 14416 bhi help kar sakte hain. Yeh general information hai, legal advice nahi."
+  },
+  "keywords": [
+   "marital consent",
+   "shaadi ke baad mana karna",
+   "wife say no",
+   "husband forces",
+   "pati zabardasti karta hai",
+   "शादी के बाद ना",
+   "पति ज़बरदस्ती",
+   "marital rape",
+   "consent in marriage",
+   "biwi mana kare"
+  ],
+  "refs": [
+   "bns-2023",
+   "who-vaw"
+  ],
+  "urgent": true,
+  "lesson": "d06-l05"
+ },
+ {
+  "id": "d06-f13",
+  "domain": "d06",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Someone I met on a dating app says they love me and now needs money urgently. We have never met. Is this a scam?",
+   "hi": "डेटिंग ऐप पर मिला एक व्यक्ति कहता है कि वह मुझसे प्यार करता है और अब उसे फ़ौरन पैसे चाहिए। हम कभी मिले नहीं हैं। क्या यह ठगी है?",
+   "hg": "Dating app pe mila ek insaan kehta hai ki woh mujhse pyaar karta hai aur ab use urgently paise chahiye. Hum kabhi mile nahi hain. Kya yeh scam hai?"
+  },
+  "a": {
+   "en": "Almost certainly yes. Fast declarations of love, excuses for never video calling or meeting, and then an urgent need for money, a customs fee or an 'investment' are the standard romance-scam pattern, and it targets men and women of all ages. Do not send money, gift cards, OTPs, bank details or intimate photos. Stop replying, keep the chats and payment details, and report at 1930 or cybercrime.gov.in. If you have already paid, report immediately, because quick reporting sometimes allows the payment to be frozen. Tell someone you trust. Your feelings were real even though the profile was not, and Tele-MANAS on 14416 can help with the shock.",
+   "hi": "लगभग पक्का हाँ। जल्दी-जल्दी प्यार का इज़हार, वीडियो कॉल या मुलाक़ात से हर बार बचने के बहाने, और फिर फ़ौरन पैसों की ज़रूरत, कस्टम की फ़ीस या कोई 'निवेश', यह रोमांस स्कैम का जाना-पहचाना तरीक़ा है, और इसका निशाना हर उम्र के मर्द और औरतें बनते हैं। पैसे, गिफ़्ट कार्ड, ओटीपी, बैंक की जानकारी या अंतरंग तस्वीरें मत भेजिए। जवाब देना बंद कीजिए, चैट और भुगतान की जानकारी सँभालकर रखिए, और 1930 या cybercrime.gov.in पर रिपोर्ट कीजिए। अगर आप पैसे भेज चुके हैं, तो तुरंत रिपोर्ट कीजिए, क्योंकि जल्दी रिपोर्ट करने पर कभी-कभी भुगतान रोका जा सकता है। किसी भरोसेमंद व्यक्ति को बताइए। प्रोफ़ाइल नक़ली थी, पर आपकी भावनाएँ सच्ची थीं, और इस सदमे में टेली-मानस 14416 मदद कर सकता है।",
+   "hg": "Almost pakka haan. Jaldi-jaldi pyaar ka izhaar, video call ya milne se har baar bachne ke bahaane, aur phir urgent paison ki zaroorat, customs fee ya koi 'investment', yeh romance scam ka standard pattern hai, aur iska target har age ke men aur women bante hain. Paise, gift cards, OTP, bank details ya intimate photos mat bhejo. Reply karna band karo, chats aur payment details rakho, aur 1930 ya cybercrime.gov.in pe report karo. Agar paise bhej chuke ho, toh turant report karo, kyunki jaldi report karne par kabhi-kabhi payment freeze ho sakti hai. Kisi trusted insaan ko batao. Profile fake thi, par tumhari feelings real thi, aur is shock mein Tele-MANAS 14416 help kar sakta hai."
+  },
+  "keywords": [
+   "romance scam",
+   "dating app scam",
+   "dating app fraud",
+   "online pyaar dhokha",
+   "paise maang raha hai",
+   "पैसे माँग रहा है",
+   "ऑनलाइन प्यार में धोखा",
+   "नक़ली प्रोफ़ाइल",
+   "catfish",
+   "fake profile",
+   "online boyfriend paise maang raha",
+   "customs parcel scam"
+  ],
+  "refs": [
+   "cybercrime-portal",
+   "tele-manas"
+  ],
+  "urgent": true,
+  "lesson": "d06-l07"
+ },
+ {
+  "id": "d06-f14",
+  "domain": "d06",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "I had sex with someone outside my relationship. Do I need an STI test, and should I tell my partner?",
+   "hi": "मैंने अपने रिश्ते के बाहर किसी के साथ सेक्स किया। क्या मुझे एसटीआई की जाँच करानी चाहिए, और क्या अपने साथी को बताना चाहिए?",
+   "hg": "Maine apne relationship ke bahar kisi ke saath sex kiya. Kya mujhe STI test karwana chahiye, aur kya apne partner ko batana chahiye?"
+  },
+  "a": {
+   "en": "Yes, get tested, even if you feel fine and used a condom: many STIs cause no symptoms, and condoms reduce risk without removing it. Ask a doctor which tests to take and when, as some infections show only after a few weeks; if possible HIV exposure was within 72 hours, ask urgently about PEP. Until you have results, use condoms or avoid sex with your partner. Telling is hard, but your partner cannot protect their health without the facts, and will need testing and treatment if an infection is found. If you are the one who was cheated on, the same testing advice applies, and it is not your fault.",
+   "hi": "हाँ, जाँच कराइए, भले ही आप ठीक महसूस कर रहे हों और भले ही कंडोम इस्तेमाल किया हो, क्योंकि कई एसटीआई के कोई लक्षण नहीं होते और कंडोम जोखिम घटाते हैं, ख़त्म नहीं करते। डॉक्टर से पूछिए कि कौन-सी जाँच कब करानी है, क्योंकि कुछ संक्रमण कुछ हफ़्तों बाद ही जाँच में आते हैं; अगर एचआईवी का संभावित जोखिम पिछले 72 घंटों के भीतर हुआ है, तो फ़ौरन पीईपी के बारे में पूछिए। नतीजे आने तक अपने साथी के साथ कंडोम इस्तेमाल कीजिए या सेक्स से बचिए। बताना मुश्किल है, पर पूरी बात जाने बिना आपका साथी अपनी सेहत की हिफ़ाज़त नहीं कर सकता, और अगर कोई संक्रमण निकलता है तो उन्हें भी जाँच और इलाज की ज़रूरत होगी। अगर धोखा आपके साथ हुआ है, तो जाँच की यही सलाह आप पर भी लागू होती है, और इसमें आपकी कोई ग़लती नहीं है।",
+   "hg": "Haan, test karao, chahe tum theek feel kar rahe ho aur chahe condom use kiya ho, kyunki kai STIs ke koi symptoms nahi hote aur condoms risk kam karte hain, khatam nahi karte. Doctor se poochho ki kaunsa test kab karwana hai, kyunki kuch infections kuch hafton baad hi test mein aate hain; agar HIV ka possible exposure pichhle 72 ghanton ke andar hua hai, toh urgently PEP ke baare mein poochho. Results aane tak apne partner ke saath condom use karo ya sex avoid karo. Batana mushkil hai, par poori baat jaane bina tumhara partner apni health protect nahi kar sakta, aur agar koi infection nikalta hai toh unhe bhi testing aur treatment chahiye hoga. Agar cheating tumhare saath hui hai, toh testing ki yahi advice tum par bhi apply hoti hai, aur isme tumhari koi galti nahi hai."
+  },
+  "keywords": [
+   "cheating sti test",
+   "affair ke baad test",
+   "cheat kiya ab kya karun",
+   "partner ko batana chahiye",
+   "extra marital affair",
+   "one night stand test",
+   "बेवफ़ाई",
+   "धोखा देने के बाद जाँच",
+   "एसटीआई टेस्ट",
+   "पति ने धोखा दिया",
+   "hiv test kab karwaye",
+   "partner ne cheat kiya"
+  ],
+  "refs": [
+   "who-sti",
+   "who-pep",
+   "who-hiv"
+  ],
+  "urgent": false,
+  "lesson": "d06-l07"
+ },
+ {
+  "id": "d06-f15",
+  "domain": "d06",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Is a live-in relationship legal in India? Can our families or the police stop us?",
+   "hi": "क्या भारत में लिव-इन रिलेशनशिप क़ानूनी है? क्या हमारे परिवार या पुलिस हमें रोक सकते हैं?",
+   "hg": "Kya India mein live-in relationship legal hai? Kya humari families ya police humein rok sakti hain?"
+  },
+  "a": {
+   "en": "Yes, it is legal. Two consenting adults may live together without being married; the Supreme Court has said this is not an offence, even where society disapproves. Courts have also recognised some protections: a woman in a relationship 'in the nature of marriage' can seek relief under the domestic violence law, and children of such relationships have legal rights. Couples still face pressure from families, landlords and sometimes police, and adults who are threatened can call 112 or ask a court for protection. Rules differ in places; Uttarakhand, for example, requires live-in couples to register. Laws change and this is not legal advice; NALSA's free legal aid line is 15100.",
+   "hi": "हाँ, यह क़ानूनी है। दो वयस्क अपनी मर्ज़ी से बिना शादी के साथ रह सकते हैं; सुप्रीम कोर्ट कह चुका है कि यह अपराध नहीं है, भले ही समाज इसे पसंद न करे। अदालतों ने कुछ सुरक्षाएँ भी मानी हैं: 'विवाह जैसे रिश्ते' में रह रही महिला घरेलू हिंसा क़ानून के तहत राहत माँग सकती है, और ऐसे रिश्तों से हुए बच्चों के क़ानूनी अधिकार होते हैं। असल ज़िंदगी में जोड़ों को परिवार, मकान मालिकों और कभी-कभी पुलिस के दबाव का सामना करना पड़ता है, और जिन वयस्कों को धमकी मिल रही हो वे 112 पर कॉल कर सकते हैं या अदालत से सुरक्षा माँग सकते हैं। कुछ जगहों पर नियम अलग हैं; जैसे उत्तराखंड में लिव-इन जोड़ों को पंजीकरण कराना होता है। क़ानून बदलते रहते हैं और यह क़ानूनी सलाह नहीं है; नालसा की मुफ़्त क़ानूनी सहायता हेल्पलाइन 15100 है।",
+   "hg": "Haan, yeh legal hai. Do adults apni marzi se bina shaadi ke saath reh sakte hain; Supreme Court keh chuka hai ki yeh offence nahi hai, chahe society ise pasand na kare. Courts ne kuch protections bhi maani hain: 'marriage jaise relationship' mein reh rahi woman domestic violence law ke under relief maang sakti hai, aur aise relationships se hue bachchon ke legal rights hote hain. Real life mein couples ko family, landlords aur kabhi-kabhi police ka pressure face karna padta hai, aur jin adults ko dhamki mil rahi ho woh 112 pe call kar sakte hain ya court se protection maang sakte hain. Kuch jagah rules alag hain; jaise Uttarakhand mein live-in couples ko register karna hota hai. Laws badalte rehte hain aur yeh legal advice nahi hai; NALSA ki free legal aid helpline 15100 hai."
+  },
+  "keywords": [
+   "live in relationship legal",
+   "live in legal hai kya",
+   "live in rights india",
+   "bina shaadi saath rehna",
+   "बिना शादी साथ रहना",
+   "लिव इन रिलेशनशिप",
+   "लिव इन क़ानून",
+   "unmarried couple flat",
+   "parents against live in",
+   "ghar wale nahi maan rahe",
+   "live in police problem"
+  ],
+  "refs": [
+   "nalsa",
+   "wcd-mission-shakti"
+  ],
+  "urgent": false,
+  "lesson": "d06-l07"
+ }
+]

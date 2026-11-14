@@ -1,0 +1,263 @@
+[
+ {
+  "id": "d11-q01",
+  "domain": "d11",
+  "tracks": [
+   "A"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "tf",
+  "q": {
+   "en": "Only girls can be nurses and only boys can be pilots.",
+   "hi": "सिर्फ़ लड़कियाँ नर्स बन सकती हैं और सिर्फ़ लड़के पायलट बन सकते हैं।",
+   "hg": "Sirf ladkiyan nurse ban sakti hain aur sirf ladke pilot ban sakte hain."
+  },
+  "options": [
+   {
+    "en": "True",
+    "hi": "सही",
+    "hg": "Sahi"
+   },
+   {
+    "en": "False",
+    "hi": "ग़लत",
+    "hg": "Galat"
+   }
+  ],
+  "answer": 1,
+  "explain": {
+   "en": "Jobs are for everyone. A boy can be a nurse and a girl can be a pilot.",
+   "hi": "काम सबके लिए हैं। लड़का नर्स बन सकता है और लड़की पायलट बन सकती है।",
+   "hg": "Jobs sabke liye hain. Ladka nurse ban sakta hai aur ladki pilot ban sakti hai."
+  }
+ },
+ {
+  "id": "d11-q02",
+  "domain": "d11",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "scenario",
+  "q": {
+   "en": "Aditya joins the school dance club. Some classmates start calling him 'ladki' in the corridor. You are his benchmate. What is the best thing to do?",
+   "hi": "आदित्य स्कूल के डांस क्लब में शामिल होता है। कुछ सहपाठी गलियारे में उसे 'लड़की' कहकर बुलाने लगते हैं। तुम उसके साथ बेंच पर बैठते हो। सबसे अच्छा क्या करना होगा?",
+   "hg": "Aditya school ke dance club mein join karta hai. Kuch classmates corridor mein use 'ladki' bolne lagte hain. Tum uske benchmate ho. Best kya karna hoga?"
+  },
+  "options": [
+   {
+    "en": "Tell Aditya to leave the club so the teasing stops",
+    "hi": "आदित्य से कहो कि क्लब छोड़ दे ताकि चिढ़ाना बंद हो जाए",
+    "hg": "Aditya ko bolo club chhod de taaki teasing band ho jaye"
+   },
+   {
+    "en": "Laugh a little so that they do not start on you",
+    "hi": "थोड़ा हँस दो ताकि वे तुम्हें न चिढ़ाने लगें",
+    "hg": "Thoda hans do taaki woh tumhe na chidhane lagein"
+   },
+   {
+    "en": "Say 'Dance is for everyone, leave it', stay with Aditya, and tell a teacher if it continues",
+    "hi": "कहो 'डांस सबके लिए है, छोड़ो', आदित्य के साथ रहो, और अगर यह चलता रहे तो टीचर को बताओ",
+    "hg": "Bolo 'Dance sabke liye hai, chhodo', Aditya ke saath raho, aur agar yeh chalta rahe toh teacher ko batao"
+   }
+  ],
+  "answer": 2,
+  "explain": {
+   "en": "Aditya has done nothing that needs changing. Standing with him and involving a teacher if it repeats is how bullying stops.",
+   "hi": "आदित्य ने ऐसा कुछ नहीं किया जिसे बदलने की ज़रूरत हो। उसके साथ खड़े रहना और बार-बार होने पर टीचर को शामिल करना ही बुलिंग रोकने का तरीक़ा है।",
+   "hg": "Aditya ne aisa kuch nahi kiya jise change karne ki zaroorat ho. Uske saath khade rehna aur repeat hone pe teacher ko involve karna hi bullying rokne ka tareeka hai."
+  }
+ },
+ {
+  "id": "d11-q03",
+  "domain": "d11",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "trans_nb",
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "Which word describes a person whose gender identity matches the sex recorded at their birth?",
+   "hi": "जिस इंसान की जेंडर पहचान जन्म के समय दर्ज सेक्स से मेल खाती है, उसके लिए कौन-सा शब्द है?",
+   "hg": "Jis insaan ki gender identity birth pe likhe gaye sex se match karti hai, uske liye kaun-sa word hai?"
+  },
+  "options": [
+   {
+    "en": "Cisgender",
+    "hi": "सिसजेंडर (cisgender)",
+    "hg": "Cisgender"
+   },
+   {
+    "en": "Transgender",
+    "hi": "ट्रांसजेंडर (transgender)",
+    "hg": "Transgender"
+   },
+   {
+    "en": "Bisexual",
+    "hi": "बाइसेक्शुअल (bisexual)",
+    "hg": "Bisexual"
+   },
+   {
+    "en": "Intersex",
+    "hi": "इंटरसेक्स (intersex)",
+    "hg": "Intersex"
+   }
+  ],
+  "answer": 0,
+  "explain": {
+   "en": "Cisgender means identity and sex recorded at birth match. Transgender means they differ. Bisexual is an orientation and intersex is about body characteristics.",
+   "hi": "सिसजेंडर का मतलब है कि पहचान और जन्म के समय दर्ज सेक्स मेल खाते हैं। ट्रांसजेंडर का मतलब है कि वे अलग हैं। बाइसेक्शुअल एक रुझान है और इंटरसेक्स शरीर की बनावट की बात है।",
+   "hg": "Cisgender matlab identity aur birth pe likha gaya sex match karte hain. Transgender matlab woh alag hain. Bisexual ek orientation hai aur intersex body characteristics ki baat hai."
+  }
+ },
+ {
+  "id": "d11-q04",
+  "domain": "d11",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "intersex"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "Which statement about intersex variations is correct?",
+   "hi": "इंटरसेक्स भिन्नताओं के बारे में कौन-सी बात सही है?",
+   "hg": "Intersex variations ke baare mein kaun-si baat sahi hai?"
+  },
+  "options": [
+   {
+    "en": "They are caused by something the mother did during pregnancy",
+    "hi": "ये माँ के गर्भावस्था में किए गए किसी काम की वजह से होती हैं",
+    "hg": "Ye maa ke pregnancy mein kiye gaye kisi kaam ki wajah se hoti hain"
+   },
+   {
+    "en": "They are natural variations in chromosomes, hormones or anatomy",
+    "hi": "ये क्रोमोसोम, हार्मोन या शारीरिक बनावट की क़ुदरती भिन्नताएँ हैं",
+    "hg": "Ye chromosomes, hormones ya anatomy ki natural variations hain"
+   },
+   {
+    "en": "They are another word for being transgender",
+    "hi": "ये ट्रांसजेंडर होने का ही दूसरा नाम हैं",
+    "hg": "Ye transgender hone ka hi doosra naam hain"
+   },
+   {
+    "en": "They always show clearly at birth",
+    "hi": "ये हमेशा जन्म के समय साफ़ दिख जाती हैं",
+    "hg": "Ye hamesha birth pe clearly dikh jaati hain"
+   }
+  ],
+  "answer": 1,
+  "explain": {
+   "en": "Intersex refers to natural variations in sex characteristics. It is nobody's fault, differs from being transgender, and may be noticed only at puberty or later.",
+   "hi": "इंटरसेक्स का मतलब है सेक्स से जुड़ी शारीरिक विशेषताओं की क़ुदरती भिन्नताएँ। यह किसी की ग़लती नहीं है, ट्रांसजेंडर होने से अलग है, और इसका पता प्यूबर्टी में या उसके बाद भी चल सकता है।",
+   "hg": "Intersex matlab sex characteristics ki natural variations. Yeh kisi ki galti nahi hai, transgender hone se alag hai, aur iska pata puberty mein ya uske baad bhi chal sakta hai."
+  }
+ },
+ {
+  "id": "d11-q05",
+  "domain": "d11",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "trans_nb"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "What does the Transgender Persons (Protection of Rights) Act, 2019 do?",
+   "hi": "ट्रांसजेंडर व्यक्ति (अधिकारों का संरक्षण) अधिनियम, 2019 क्या करता है?",
+   "hg": "Transgender Persons (Protection of Rights) Act, 2019 kya karta hai?"
+  },
+  "options": [
+   {
+    "en": "It makes same-sex marriage legal",
+    "hi": "यह समलैंगिक विवाह को क़ानूनी बनाता है",
+    "hg": "Yeh same-sex marriage ko legal banata hai"
+   },
+   {
+    "en": "It requires transgender persons to live in separate housing",
+    "hi": "यह ट्रांसजेंडर लोगों को अलग जगह पर रहने के लिए बाध्य करता है",
+    "hg": "Yeh transgender logon ko alag housing mein rehne ke liye majboor karta hai"
+   },
+   {
+    "en": "It applies only to people above the age of 21",
+    "hi": "यह सिर्फ़ 21 साल से ऊपर के लोगों पर लागू होता है",
+    "hg": "Yeh sirf 21 saal se upar ke logon pe apply hota hai"
+   },
+   {
+    "en": "It prohibits discrimination against transgender persons in areas such as education, jobs and healthcare",
+    "hi": "यह शिक्षा, नौकरी और स्वास्थ्य सेवा जैसे क्षेत्रों में ट्रांसजेंडर लोगों के साथ भेदभाव पर रोक लगाता है",
+    "hg": "Yeh education, jobs aur healthcare jaise areas mein transgender logon ke saath discrimination pe rok lagata hai"
+   }
+  ],
+  "answer": 3,
+  "explain": {
+   "en": "The Act prohibits discrimination against transgender persons in education, employment, healthcare and housing; it does not deal with marriage. A 2026 amendment narrowed who the Act counts as a transgender person and is being challenged in the Supreme Court.",
+   "hi": "यह अधिनियम शिक्षा, रोज़गार, स्वास्थ्य सेवा और रहने की जगह में ट्रांसजेंडर लोगों के साथ भेदभाव पर रोक लगाता है; इसका विवाह से कोई संबंध नहीं है। 2026 के एक संशोधन ने यह दायरा छोटा कर दिया कि अधिनियम किसे ट्रांसजेंडर व्यक्ति मानता है, और उसे सुप्रीम कोर्ट में चुनौती दी गई है।",
+   "hg": "Yeh Act education, employment, healthcare aur housing mein transgender logon ke saath discrimination pe rok lagata hai; iska marriage se koi lena-dena nahi hai. 2026 ke ek amendment ne yeh narrow kar diya ki Act kise transgender person maanta hai, aur use Supreme Court mein challenge kiya gaya hai."
+  }
+ },
+ {
+  "id": "d11-q06",
+  "domain": "d11",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "scenario",
+  "q": {
+   "en": "Your class is planning a picnic. Farah uses a wheelchair, and someone says, 'Let's not tell her, the place has stairs anyway.' What is the most inclusive move?",
+   "hi": "तुम्हारी क्लास पिकनिक की योजना बना रही है। फ़राह व्हीलचेयर इस्तेमाल करती है, और कोई कहता है, 'उसे बताते ही नहीं, वैसे भी वहाँ सीढ़ियाँ हैं।' सबसे समावेशी क़दम क्या होगा?",
+   "hg": "Tumhari class picnic plan kar rahi hai. Farah wheelchair use karti hai, aur koi bolta hai, 'Use batate hi nahi, waise bhi wahan stairs hain.' Sabse inclusive move kya hoga?"
+  },
+  "options": [
+   {
+    "en": "Ask Farah what she needs and choose a place everyone can get into",
+    "hi": "फ़राह से पूछो कि उसे क्या चाहिए और ऐसी जगह चुनो जहाँ सब पहुँच सकें",
+    "hg": "Farah se poocho use kya chahiye aur aisi jagah choose karo jahan sab pahunch sakein"
+   },
+   {
+    "en": "Agree, because she would feel bad if she saw the stairs",
+    "hi": "मान जाओ, क्योंकि सीढ़ियाँ देखकर उसे बुरा लगेगा",
+    "hg": "Maan jao, kyunki stairs dekhkar use bura lagega"
+   },
+   {
+    "en": "Decide for her that she should stay home and send her photos later",
+    "hi": "उसकी ओर से तय कर लो कि वह घर पर रहे और बाद में उसे फ़ोटो भेज दो",
+    "hg": "Uski taraf se decide kar lo ki woh ghar pe rahe aur baad mein use photos bhej do"
+   },
+   {
+    "en": "Invite her, but leave it to her to work out the stairs",
+    "hi": "उसे बुला लो, पर सीढ़ियों का हल उसी पर छोड़ दो",
+    "hg": "Use invite kar lo, par stairs ka solution usi pe chhod do"
+   }
+  ],
+  "answer": 0,
+  "explain": {
+   "en": "Inclusion means asking the person and removing the barrier, not deciding for them or leaving them to manage alone.",
+   "hi": "समावेश का मतलब है उसी इंसान से पूछना और रुकावट हटाना, न कि उसकी ओर से फ़ैसला कर लेना या उसे अकेले जूझने के लिए छोड़ देना।",
+   "hg": "Inclusion ka matlab hai usi insaan se poochna aur barrier hatana, na ki uski taraf se decide kar lena ya use akele manage karne ke liye chhod dena."
+  }
+ }
+]

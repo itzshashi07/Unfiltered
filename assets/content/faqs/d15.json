@@ -1,0 +1,502 @@
+[
+ {
+  "id": "d15-f01",
+  "domain": "d15",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "menstrual"
+  ],
+  "q": {
+   "en": "I am not allowed in the kitchen or the puja room during my period. Am I dirty?",
+   "hi": "पीरियड के दिनों में मुझे रसोई या पूजा के कमरे में जाने नहीं दिया जाता। क्या मैं गंदी हूँ?",
+   "hg": "Period ke dinon mein mujhe kitchen ya pooja room mein jaane nahi diya jaata. Kya main gandi hoon?"
+  },
+  "a": {
+   "en": "No, you are not dirty. A period is the lining of the uterus leaving the body as ordinary blood and tissue, and it cannot spoil food or make a place impure. There is no medical reason for these rules. Many families follow them because their parents and grandparents did, sometimes as a way of giving women rest in earlier times. You can talk to your mother gently about what you have learned, and it is also okay if your family takes time to change. What matters is that you know your body is healthy and clean.",
+   "hi": "नहीं, तुम गंदी नहीं हो। पीरियड में गर्भाशय की परत आम ख़ून और ऊतक के रूप में शरीर से बाहर आती है, और इससे न खाना ख़राब होता है, न कोई जगह अशुद्ध होती है। इन नियमों की कोई मेडिकल वजह नहीं है। बहुत से परिवार इन्हें इसलिए मानते हैं क्योंकि उनके माता-पिता और दादा-दादी मानते थे, और पुराने समय में यह कभी-कभी औरतों को आराम देने का तरीका भी था। जो तुमने सीखा है उस पर अपनी मम्मी से नरमी से बात कर सकती हो, और अगर परिवार को बदलने में समय लगे तो वह भी ठीक है। असली बात यह है कि तुम्हें पता हो कि तुम्हारा शरीर स्वस्थ और साफ़ है।",
+   "hg": "Nahi, tum gandi nahi ho. Period mein uterus ki lining normal blood aur tissue ke roop mein body se bahar aati hai, aur isse na khana kharab hota hai, na koi jagah impure hoti hai. In rules ki koi medical wajah nahi hai. Bahut si families inhe isliye maanti hain kyunki unke parents aur grandparents maante the, aur purane time mein yeh kabhi-kabhi women ko rest dene ka tareeka bhi tha. Jo tumne seekha hai us pe apni Mummy se pyaar se baat kar sakti ho, aur agar family ko change hone mein time lage toh woh bhi theek hai. Asli baat yeh hai ki tumhe pata ho ki tumhari body healthy aur saaf hai."
+  },
+  "keywords": [
+   "period impure",
+   "kitchen during periods",
+   "mandir periods",
+   "पीरियड अशुद्ध",
+   "माहवारी रसोई",
+   "achaar periods",
+   "periods mein pooja",
+   "ganda khoon",
+   "period rules",
+   "mahina aaya"
+  ],
+  "refs": [
+   "nhs-periods",
+   "unesco-itgse"
+  ],
+  "urgent": false,
+  "lesson": "d15-l01"
+ },
+ {
+  "id": "d15-f02",
+  "domain": "d15",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [
+   "penis_testicular"
+  ],
+  "q": {
+   "en": "I woke up with wet, sticky underwear. Is something wrong with me?",
+   "hi": "सुबह उठा तो अंडरवियर गीला और चिपचिपा था। क्या मुझमें कुछ गड़बड़ है?",
+   "hg": "Subah utha toh underwear geela aur chipchipa tha. Kya mujhme kuch gadbad hai?"
+  },
+  "a": {
+   "en": "Nothing is wrong. This is called a wet dream, or nocturnal emission: semen comes out of the penis during sleep. It is a normal part of puberty, it is not urine, and it is not a disease or a sign of weakness. You cannot control it, and you did not cause it by thinking about anything. Some people have them often, and some never do. Wash, change your clothes and put the sheet for washing; you do not have to explain it to anyone. See a doctor only if there is pain, burning or blood.",
+   "hi": "कुछ गड़बड़ नहीं है। इसे स्वप्नदोष (wet dream) कहते हैं: नींद में लिंग से वीर्य (semen) बाहर आ जाता है। यह प्यूबर्टी का सामान्य हिस्सा है, यह पेशाब नहीं है, और न कोई बीमारी है, न कमज़ोरी की निशानी। इसे तुम रोक नहीं सकते, और यह तुम्हारे कुछ सोचने की वजह से नहीं हुआ। कुछ लोगों को यह अक्सर होता है, और कुछ को कभी नहीं। ख़ुद को धो लो, कपड़े बदल लो और चादर धुलने डाल दो; किसी को सफ़ाई देने की ज़रूरत नहीं। डॉक्टर को तभी दिखाओ जब दर्द, जलन या ख़ून हो।",
+   "hg": "Kuch gadbad nahi hai. Isse wet dream ya nocturnal emission bolte hain: neend mein penis se semen bahar aa jaata hai. Yeh puberty ka normal part hai, yeh peshaab nahi hai, aur na koi bimari hai, na kamzori ka sign. Isse tum control nahi kar sakte, aur yeh tumhare kuch sochne ki wajah se nahi hua. Kuch logon ko yeh aksar hota hai, aur kuch ko kabhi nahi. Khud ko wash kar lo, kapde badal lo aur chaadar dhulne daal do; kisi ko explain karne ki zaroorat nahi. Doctor ko tabhi dikhao jab dard, jalan ya blood ho."
+  },
+  "keywords": [
+   "wet dream",
+   "nightfall",
+   "night fall",
+   "swapnadosh",
+   "स्वप्नदोष",
+   "नाइट फ़ॉल",
+   "sticky underwear",
+   "raat ko semen",
+   "nocturnal emission",
+   "geela underwear"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "nhm-rksk"
+  ],
+  "urgent": false,
+  "lesson": "d15-l01"
+ },
+ {
+  "id": "d15-f03",
+  "domain": "d15",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "q": {
+   "en": "All my friends have grown taller or started their periods and I have not. Am I abnormal?",
+   "hi": "मेरे सारे दोस्त लंबे हो गए हैं या उनके पीरियड शुरू हो गए हैं, और मेरा कुछ नहीं हुआ। क्या मैं असामान्य हूँ?",
+   "hg": "Mere saare dost lambe ho gaye hain ya unke periods start ho gaye hain, aur mera kuch nahi hua. Kya main abnormal hoon?"
+  },
+  "a": {
+   "en": "Almost certainly not. Puberty usually starts anywhere from 8 to 13 in girls and from 9 to 14 in boys, and periods usually come a couple of years after the first body changes. So friends of the same age can look very different for a few years, and most late starters catch up. Starting later does not mean you will be less healthy as an adult. A doctor's visit is sensible if a girl has no body changes by 13 or no period by 15, or if a boy has no changes by 14.",
+   "hi": "लगभग पक्का है कि नहीं। प्यूबर्टी आम तौर पर लड़कियों में 8 से 13 और लड़कों में 9 से 14 साल के बीच कभी भी शुरू होती है, और पीरियड आम तौर पर शरीर के पहले बदलावों के एक-दो साल बाद आते हैं। इसलिए एक ही उम्र के दोस्त कुछ साल तक बहुत अलग दिख सकते हैं, और देर से शुरू होने वाले ज़्यादातर बच्चे बाद में बराबर आ जाते हैं। देर से शुरू होने का मतलब यह नहीं कि तुम बड़े होकर कम स्वस्थ रहोगे। डॉक्टर को दिखाना तब समझदारी है जब किसी लड़की में 13 साल तक शरीर में कोई बदलाव न आए या 15 साल तक पीरियड न आएँ, या किसी लड़के में 14 साल तक कोई बदलाव न आए।",
+   "hg": "Almost pakka hai ki nahi. Puberty usually ladkiyon mein 8 se 13 aur ladkon mein 9 se 14 saal ke beech kabhi bhi start hoti hai, aur periods usually body ke pehle changes ke ek-do saal baad aate hain. Isliye same age ke dost kuch saal tak bahut alag dikh sakte hain, aur late start hone wale zyadatar bachche baad mein catch up kar lete hain. Late start hone ka matlab yeh nahi ki tum bade hokar kam healthy rahoge. Doctor ko dikhana tab sensible hai jab kisi ladki mein 13 saal tak body mein koi change na aaye ya 15 saal tak periods na aayein, ya kisi ladke mein 14 saal tak koi change na aaye."
+  },
+  "keywords": [
+   "late puberty",
+   "height nahi badh rahi",
+   "period nahi aaya",
+   "पीरियड नहीं आया",
+   "क़द नहीं बढ़ रहा",
+   "late bloomer",
+   "chhota dikhta hu",
+   "voice not changed",
+   "puberty kab",
+   "देर से प्यूबर्टी"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "nhm-rksk"
+  ],
+  "urgent": false,
+  "lesson": "d15-l01"
+ },
+ {
+  "id": "d15-f04",
+  "domain": "d15",
+  "tracks": [
+   "B",
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Can I trust health advice from reels and YouTube videos?",
+   "hi": "क्या रील और यूट्यूब वीडियो की सेहत वाली सलाह पर भरोसा किया जा सकता है?",
+   "hg": "Kya reels aur YouTube videos ki health advice pe trust kar sakte hain?"
+  },
+  "a": {
+   "en": "Sometimes, but not automatically. Some videos are made by real doctors and explain things well. Many others are made by people who want views or want to sell a product, and they can sound just as confident. Check three things: who is speaking and whether they are trained, whether they are selling something, and whether they promise a quick miracle. Lots of likes do not make something true. If a video worries you or tells you to eat, take or avoid something, ask a parent, teacher or doctor before you act on it.",
+   "hi": "कभी-कभी, पर आँख मूँदकर नहीं। कुछ वीडियो असली डॉक्टर बनाते हैं और चीज़ें अच्छे से समझाते हैं। बहुत से दूसरे वीडियो ऐसे लोग बनाते हैं जिन्हें व्यूज़ चाहिए या कोई सामान बेचना है, और वे भी उतने ही भरोसे से बोलते हैं। तीन बातें जाँचो: बोल कौन रहा है और क्या उसने इसकी पढ़ाई की है, क्या वह कुछ बेच रहा है, और क्या वह फटाफट चमत्कार का वादा कर रहा है। ढेर सारे लाइक किसी बात को सच नहीं बना देते। अगर कोई वीडियो तुम्हें परेशान करे या कुछ खाने, लेने या छोड़ने को कहे, तो उस पर अमल करने से पहले मम्मी-पापा, टीचर या डॉक्टर से पूछो।",
+   "hg": "Kabhi-kabhi, par automatically nahi. Kuch videos real doctors banate hain aur cheezein achhe se explain karte hain. Bahut se doosre videos aise log banate hain jinhe views chahiye ya koi product bechna hai, aur woh bhi utne hi confidence se bolte hain. Teen cheezein check karo: bol kaun raha hai aur kya woh trained hai, kya woh kuch bech raha hai, aur kya woh quick miracle ka promise kar raha hai. Dher saare likes kisi baat ko sach nahi bana dete. Agar koi video tumhe worry kare ya kuch khane, lene ya chhodne ko bole, toh us pe act karne se pehle parent, teacher ya doctor se poochho."
+  },
+  "keywords": [
+   "health reels",
+   "youtube doctor",
+   "instagram health tips",
+   "रील सलाह",
+   "सोशल मीडिया",
+   "influencer advice",
+   "whatsapp forward",
+   "gharelu nuskha",
+   "viral health video",
+   "kya yeh sach hai"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-cse"
+  ],
+  "urgent": false,
+  "lesson": "d15-l04"
+ },
+ {
+  "id": "d15-f05",
+  "domain": "d15",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "I masturbated and now I feel weak and guilty. Have I damaged my body or my chances of having children?",
+   "hi": "मैंने हस्तमैथुन किया और अब कमज़ोरी और अपराध-बोध महसूस हो रहा है। क्या मैंने अपने शरीर को या आगे बच्चे होने की संभावना को नुकसान पहुँचा दिया है?",
+   "hg": "Maine masturbate kiya aur ab weak aur guilty feel ho raha hai. Kya maine apni body ko ya future mein bachche hone ke chances ko damage kar diya hai?"
+  },
+  "a": {
+   "en": "No. Masturbation does not cause weakness, weight loss, memory problems, acne or hair fall, and it does not reduce fertility in people of any gender. Semen is made continuously, so nothing has been used up. The tired, heavy feeling usually comes from guilt, worry and lost sleep, not from the act. It is a private activity, and choosing not to do it is equally normal. If the fear keeps returning, affects your studies or sleep, or you notice pain or injury, talk to a doctor or call Tele-MANAS on 14416; this kind of worry is common and treatable.",
+   "hi": "नहीं। हस्तमैथुन (masturbation) से कमज़ोरी, वज़न घटना, याददाश्त की दिक़्क़त, मुँहासे या बाल झड़ना नहीं होता, और किसी भी जेंडर के इंसान की प्रजनन क्षमता इससे कम नहीं होती। वीर्य लगातार बनता रहता है, इसलिए कुछ भी ख़त्म नहीं हुआ है। थकान और भारीपन का एहसास आम तौर पर अपराध-बोध, फ़िक्र और कम नींद से आता है, उस क्रिया से नहीं। यह एक निजी क्रिया है, और इसे न करने का फ़ैसला भी उतना ही सामान्य है। अगर यह डर बार-बार लौटे, पढ़ाई या नींद पर असर डाले, या दर्द या चोट दिखे, तो डॉक्टर से बात करो या टेली-मानस 14416 पर कॉल करो; इस तरह की फ़िक्र आम है और इसका इलाज हो सकता है।",
+   "hg": "Nahi. Masturbation se kamzori, weight loss, memory problems, acne ya hair fall nahi hota, aur kisi bhi gender ke insaan ki fertility isse kam nahi hoti. Semen lagataar banta rehta hai, isliye kuch bhi khatam nahi hua hai. Thakaan aur heaviness ki feeling usually guilt, tension aur kam neend se aati hai, us act se nahi. Yeh ek private activity hai, aur isse na karne ka decision bhi utna hi normal hai. Agar yeh darr baar-baar laute, padhai ya neend pe asar daale, ya pain ya injury dikhe, toh doctor se baat karo ya Tele-MANAS 14416 pe call karo; is tarah ki worry common hai aur treatable hai."
+  },
+  "keywords": [
+   "masturbation weakness",
+   "hastmaithun",
+   "हस्तमैथुन",
+   "कमज़ोरी",
+   "muth marna nuksan",
+   "infertility masturbation",
+   "बांझपन",
+   "dhat",
+   "semen loss",
+   "kamzori ho gayi",
+   "guilt after masturbation"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-sexual-health",
+   "tele-manas"
+  ],
+  "urgent": false,
+  "lesson": "d15-l02"
+ },
+ {
+  "id": "d15-f06",
+  "domain": "d15",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "vulva_vaginal"
+  ],
+  "q": {
+   "en": "Can cycling or sports break the hymen, and will a doctor or future partner be able to tell?",
+   "hi": "क्या साइकिल चलाने या खेल-कूद से हाइमन टूट सकता है, और क्या डॉक्टर या आगे चलकर कोई पार्टनर यह जान पाएगा?",
+   "hg": "Kya cycling ya sports se hymen toot sakta hai, aur kya doctor ya future partner yeh jaan payega?"
+  },
+  "a": {
+   "en": "Sport, cycling, stretching or tampons can stretch or wear the hymen in some people, and in others nothing changes. Either way it does not matter medically. The hymen varies so much from person to person that it cannot show whether someone has had sex, and many people do not bleed during first intercourse. No doctor and no partner can tell by looking or examining. 'Virginity tests' are unscientific; WHO has condemned them and the Supreme Court of India has prohibited the two-finger test. You never need to stop playing sport to 'protect' anything.",
+   "hi": "खेल-कूद, साइकिल चलाने, स्ट्रेचिंग या टैम्पॉन से कुछ लोगों में हाइमन खिंच या घिस सकता है, और कुछ में कुछ नहीं बदलता। दोनों ही सूरतों में मेडिकल नज़रिए से इसका कोई मतलब नहीं है। हाइमन हर इंसान में इतना अलग होता है कि वह यह नहीं दिखा सकता कि किसी ने सेक्स किया है या नहीं, और बहुत से लोगों को पहली बार संभोग में ख़ून नहीं आता। न कोई डॉक्टर और न कोई पार्टनर देखकर या जाँच करके यह बता सकता है। 'वर्जिनिटी टेस्ट' अवैज्ञानिक हैं; WHO ने इनकी निंदा की है और भारत के सुप्रीम कोर्ट ने टू-फ़िंगर टेस्ट पर रोक लगाई है। किसी चीज़ को 'बचाने' के लिए तुम्हें खेलना छोड़ने की कभी ज़रूरत नहीं।",
+   "hg": "Sports, cycling, stretching ya tampons se kuch logon mein hymen stretch ya ghis sakta hai, aur kuch mein kuch nahi badalta. Dono cases mein medically iska koi matlab nahi hai. Hymen har insaan mein itna alag hota hai ki woh yeh nahi dikha sakta ki kisi ne sex kiya hai ya nahi, aur bahut logon ko first intercourse mein bleeding nahi hoti. Na koi doctor aur na koi partner dekhkar ya examine karke yeh bata sakta hai. 'Virginity tests' unscientific hain; WHO ne inhe condemn kiya hai aur Supreme Court of India ne two-finger test ko prohibit kiya hai. Kisi cheez ko 'protect' karne ke liye tumhe sports chhodne ki kabhi zaroorat nahi."
+  },
+  "keywords": [
+   "hymen break",
+   "cycling hymen",
+   "virginity test",
+   "हाइमन",
+   "कौमार्य",
+   "seal toot gayi",
+   "virgin kaise pata",
+   "two finger test",
+   "first night bleeding",
+   "jhilli"
+  ],
+  "refs": [
+   "who-sexual-health",
+   "unesco-itgse"
+  ],
+  "urgent": false,
+  "lesson": "d15-l03"
+ },
+ {
+  "id": "d15-f07",
+  "domain": "d15",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "q": {
+   "en": "Can a girl get pregnant the very first time? What if he pulls out?",
+   "hi": "क्या लड़की पहली ही बार में गर्भवती हो सकती है? और अगर लड़का स्खलन से पहले ही बाहर निकाल ले तो?",
+   "hg": "Kya ladki pehli hi baar mein pregnant ho sakti hai? Aur agar ladka pull out kar le toh?"
+  },
+  "a": {
+   "en": "Yes, pregnancy is possible the first time, and pulling out does not reliably prevent it. Pregnancy needs only a sperm to meet an egg; the body does not treat a first time differently. Fluid released before ejaculation can contain sperm, and timing withdrawal perfectly is difficult, so it fails often. Counting 'safe days' is also unreliable. If you are under 18, the law says you cannot legally consent to sexual activity, and waiting is a completely valid choice. If you are worried about a possible pregnancy right now, talk to a doctor or a trusted adult quickly.",
+   "hi": "हाँ, पहली बार में भी गर्भ ठहर सकता है, और स्खलन से पहले लिंग बाहर निकाल लेना (विदड्रॉअल) इसे भरोसे के साथ नहीं रोकता। गर्भ के लिए बस एक शुक्राणु का अंडे से मिलना काफ़ी है; शरीर पहली बार को अलग नहीं मानता। स्खलन से पहले निकलने वाले तरल में शुक्राणु हो सकते हैं, और एकदम सही समय पर बाहर निकालना मुश्किल होता है, इसलिए यह तरीका अक्सर नाकाम होता है। 'सेफ़ डेज़' गिनना भी भरोसेमंद नहीं है। अगर तुम 18 से कम उम्र के हो, तो क़ानून के हिसाब से तुम यौन गतिविधि के लिए क़ानूनी सहमति नहीं दे सकते, और इंतज़ार करना पूरी तरह सही विकल्प है। अगर अभी गर्भ ठहरने की फ़िक्र है, तो जल्दी किसी डॉक्टर या भरोसेमंद बड़े से बात करो।",
+   "hg": "Haan, pehli baar mein bhi pregnancy ho sakti hai, aur pull out karna isse reliably nahi rokta. Pregnancy ke liye bas ek sperm ka egg se milna kaafi hai; body pehli baar ko alag treat nahi karti. Ejaculation se pehle nikalne wale fluid mein sperm ho sakte hain, aur perfect timing pe pull out karna mushkil hota hai, isliye yeh method aksar fail hota hai. 'Safe days' count karna bhi reliable nahi hai. Agar tum under 18 ho, toh law ke hisaab se tum sexual activity ke liye legally consent nahi de sakte, aur wait karna ek completely valid choice hai. Agar abhi possible pregnancy ki tension hai, toh jaldi kisi doctor ya trusted adult se baat karo."
+  },
+  "keywords": [
+   "pregnant first time",
+   "pehli baar pregnant",
+   "pull out method",
+   "withdrawal",
+   "पहली बार गर्भ",
+   "गर्भवती",
+   "safe days",
+   "bahar nikalna",
+   "precum pregnancy",
+   "ek baar mein pregnant"
+  ],
+  "refs": [
+   "who-fp",
+   "unesco-itgse",
+   "pocso-2012"
+  ],
+  "urgent": false,
+  "lesson": "d15-l03"
+ },
+ {
+  "id": "d15-f08",
+  "domain": "d15",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My partner checks my phone and gets angry when I talk to other people. They say it is because they love me. Is that love?",
+   "hi": "मेरा पार्टनर मेरा फ़ोन चेक करता है और मैं दूसरों से बात करूँ तो ग़ुस्सा हो जाता है। वह कहता है कि यह सब प्यार की वजह से है। क्या यह प्यार है?",
+   "hg": "Mera partner mera phone check karta hai aur main doosron se baat karun toh gussa ho jaata hai. Woh bolta hai ki yeh sab pyaar ki wajah se hai. Kya yeh pyaar hai?"
+  },
+  "a": {
+   "en": "It is control, even if they sincerely believe it is love. Caring about someone looks like trust and respect for their friendships and privacy. Checking your phone, demanding passwords, deciding who you can talk to and getting angry when you say no are warning signs, and they tend to grow over time rather than fade. Films often show this as romance, which is why it is so easy to mistake. You are allowed to set limits, and you are allowed to leave. If you feel scared of their reaction, talk to a trusted adult; if you are under 18 you can call 1098.",
+   "hi": "यह कंट्रोल है, भले ही वह सच्चे मन से इसे प्यार मानता हो। किसी की परवाह करना भरोसे और उसकी दोस्तियों व निजता के आदर जैसा दिखता है। फ़ोन चेक करना, पासवर्ड माँगना, यह तय करना कि तुम किससे बात करोगे और मना करने पर ग़ुस्सा होना ख़तरे के संकेत हैं, और ये समय के साथ घटने की जगह बढ़ते जाते हैं। फ़िल्में अक्सर इसे रोमांस की तरह दिखाती हैं, इसीलिए धोखा खाना इतना आसान है। तुम्हें हदें तय करने का हक़ है, और रिश्ता छोड़ने का भी। अगर उसकी प्रतिक्रिया से डर लगता है, तो किसी भरोसेमंद बड़े से बात करो; अगर तुम 18 से कम उम्र के हो तो 1098 पर कॉल कर सकते हो।",
+   "hg": "Yeh control hai, chahe woh sachche mann se isse pyaar maanta ho. Kisi ki care karna trust aur uski dostiyon aur privacy ki respect jaisa dikhta hai. Phone check karna, passwords maangna, yeh decide karna ki tum kisse baat karoge aur mana karne pe gussa hona warning signs hain, aur yeh time ke saath kam hone ki jagah badhte jaate hain. Films aksar isse romance ki tarah dikhati hain, isiliye confuse hona itna easy hai. Tumhe limits set karne ka haq hai, aur relationship chhodne ka bhi. Agar uske reaction se darr lagta hai, toh kisi trusted adult se baat karo; agar tum under 18 ho toh 1098 pe call kar sakte ho."
+  },
+  "keywords": [
+   "possessive boyfriend",
+   "phone check karta hai",
+   "jealous partner",
+   "जलन प्यार",
+   "शक करता है",
+   "controlling relationship",
+   "toxic bf",
+   "password maangta hai",
+   "gussa karta hai",
+   "is this love"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-vaw",
+   "wcd-childline"
+  ],
+  "urgent": true,
+  "lesson": "d15-l05"
+ },
+ {
+  "id": "d15-f09",
+  "domain": "d15",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "A relative of my friend has HIV. Is it safe to eat with them or use the same bathroom?",
+   "hi": "मेरे दोस्त के एक रिश्तेदार को एचआईवी है। क्या उनके साथ खाना खाना या एक ही बाथरूम इस्तेमाल करना सुरक्षित है?",
+   "hg": "Mere dost ke ek relative ko HIV hai. Kya unke saath khana khana ya same bathroom use karna safe hai?"
+  },
+  "a": {
+   "en": "Yes, completely safe. HIV does not spread through sharing food, plates, glasses, toilets, towels, hugs, handshakes, coughing or mosquito bites. It spreads only through specific body fluids, mainly via unprotected sex, shared needles, unscreened blood, or from parent to baby without treatment. A person on regular HIV treatment can live a long, healthy life, and with an undetectable viral load they do not pass HIV on through sex. Treating them like anyone else is both safe and kind. For questions, the NACO helpline 1097 gives information.",
+   "hi": "हाँ, पूरी तरह सुरक्षित है। एचआईवी साथ खाने, थाली, गिलास, शौचालय या तौलिया साझा करने, गले लगने, हाथ मिलाने, खाँसी या मच्छर के काटने से नहीं फैलता। यह सिर्फ़ शरीर के कुछ ख़ास तरल पदार्थों से फैलता है, ज़्यादातर असुरक्षित सेक्स, साझा सुई, बिना जाँचे ख़ून, या इलाज न होने पर माता-पिता से बच्चे में। नियमित इलाज ले रहा इंसान लंबी और सेहतमंद ज़िंदगी जी सकता है, और वायरल लोड पकड़ में न आने लायक हो तो उससे सेक्स के ज़रिए भी एचआईवी नहीं फैलता। उनसे वैसा ही बर्ताव करना जैसा किसी और से करते हो, सुरक्षित भी है और इंसानियत भी। सवाल हों तो नाको हेल्पलाइन 1097 जानकारी देती है।",
+   "hg": "Haan, completely safe hai. HIV saath khane, plate, glass, toilet ya towel share karne, hug karne, haath milane, khaansi ya machhar ke kaatne se nahi phailta. Yeh sirf body ke kuch specific fluids se phailta hai, mainly unprotected sex, shared needles, unscreened blood, ya treatment na hone pe parent se baby mein. Regular treatment le raha insaan lambi aur healthy life jee sakta hai, aur viral load undetectable ho toh usse sex ke through bhi HIV nahi phailta. Unse waisa hi behave karna jaisa kisi aur se karte ho, safe bhi hai aur kind bhi. Questions hon toh NACO helpline 1097 information deti hai."
+  },
+  "keywords": [
+   "hiv sharing food",
+   "hiv toilet",
+   "hiv se kaise phailta",
+   "एचआईवी",
+   "एड्स छूने से",
+   "hiv mosquito",
+   "aids patient ke saath khana",
+   "hiv hug",
+   "1097",
+   "hiv casual contact"
+  ],
+  "refs": [
+   "who-hiv",
+   "naco"
+  ],
+  "urgent": false,
+  "lesson": "d15-l04"
+ },
+ {
+  "id": "d15-f10",
+  "domain": "d15",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My partner looks healthy and I have no symptoms. Could either of us still have an STI?",
+   "hi": "मेरा पार्टनर स्वस्थ दिखता है और मुझे कोई लक्षण नहीं हैं। क्या फिर भी हम में से किसी को एसटीआई हो सकता है?",
+   "hg": "Mera partner healthy dikhta hai aur mujhe koi symptoms nahi hain. Kya phir bhi hum mein se kisi ko STI ho sakta hai?"
+  },
+  "a": {
+   "en": "Yes. Many STIs cause no symptoms for a long time, so looking or feeling healthy proves nothing; chlamydia, gonorrhoea, HIV, HPV and hepatitis B can be silent. Only testing can tell, and it is available at government hospitals and clinics. Bacterial STIs are curable and viral ones manageable, so early testing helps. See a doctor promptly for sores, unusual discharge, burning when urinating or pelvic pain. If you are under 18, the law says you cannot legally consent to sexual activity, and waiting is a valid choice. You can still get tested, at an Adolescent Friendly Health Clinic, but a doctor cannot promise complete secrecy to someone under 18.",
+   "hi": "हाँ। बहुत से एसटीआई लंबे समय तक कोई लक्षण नहीं देते, इसलिए स्वस्थ दिखना या ठीक महसूस करना कुछ साबित नहीं करता; क्लैमाइडिया, गोनोरिया, एचआईवी, एचपीवी और हेपेटाइटिस बी, सब बिना लक्षण के रह सकते हैं। सिर्फ़ जाँच से पता चलता है, और जाँच सरकारी अस्पतालों और क्लिनिकों में होती है। बैक्टीरिया वाले एसटीआई इलाज से ठीक हो जाते हैं और वायरस वाले क़ाबू में रखे जा सकते हैं, इसलिए जल्दी पता चलना फ़ायदे की बात है। घाव, असामान्य स्राव, पेशाब में जलन या पेड़ू में दर्द हो तो जल्दी डॉक्टर को दिखाओ। अगर तुम 18 से कम उम्र के हो, तो क़ानून के हिसाब से तुम यौन गतिविधि के लिए क़ानूनी सहमति नहीं दे सकते, और इंतज़ार करना सही विकल्प है। तुम फिर भी जाँच करा सकते हो, किशोर मित्र स्वास्थ्य क्लिनिक (AFHC) में, पर डॉक्टर 18 से कम उम्र वाले से पूरी गोपनीयता का वादा नहीं कर सकते।",
+   "hg": "Haan. Bahut se STIs lambe time tak koi symptom nahi dete, isliye healthy dikhna ya fine feel karna kuch prove nahi karta; chlamydia, gonorrhoea, HIV, HPV aur hepatitis B, sab silent reh sakte hain. Sirf testing se pata chalta hai, aur testing government hospitals aur clinics mein hoti hai. Bacteria wale STIs treatment se cure ho jaate hain aur viral wale manage ho sakte hain, isliye jaldi pata chalna advantage hai. Sores, unusual discharge, peshaab mein jalan ya pelvic pain ho toh jaldi doctor ko dikhao. Agar tum under 18 ho, toh law ke hisaab se tum sexual activity ke liye legally consent nahi de sakte, aur wait karna ek valid choice hai. Tum phir bhi test karwa sakte ho, Adolescent Friendly Health Clinic (AFHC) mein, par doctor under 18 wale se complete secrecy ka promise nahi kar sakte."
+  },
+  "keywords": [
+   "sti no symptoms",
+   "std test",
+   "gupt rog",
+   "गुप्त रोग",
+   "एसटीआई जाँच",
+   "partner looks clean",
+   "bina lakshan",
+   "sti kaise pata chale",
+   "silent infection",
+   "std symptoms nahi"
+  ],
+  "refs": [
+   "who-sti",
+   "who-chlamydia"
+  ],
+  "urgent": false,
+  "lesson": "d15-l04"
+ },
+ {
+  "id": "d15-f11",
+  "domain": "d15",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "q": {
+   "en": "Is the emergency pill the same as an abortion pill?",
+   "hi": "क्या इमरजेंसी गोली और गर्भपात की गोली एक ही चीज़ हैं?",
+   "hg": "Kya emergency pill aur abortion pill same cheez hain?"
+  },
+  "a": {
+   "en": "No, they are different medicines that do different things. The emergency contraceptive pill works before pregnancy begins, mainly by delaying ovulation; it can be used up to 5 days after unprotected sex and works better the sooner it is taken. It cannot end a pregnancy that is already established. Abortion medicines end an existing pregnancy and are given only by qualified providers under the law. The emergency pill is a backup, not a regular method, and it does not protect against STIs. If your next period is late, take a pregnancy test and see a doctor.",
+   "hi": "नहीं, ये अलग-अलग दवाएँ हैं और अलग-अलग काम करती हैं। इमरजेंसी गर्भनिरोधक गोली गर्भ शुरू होने से पहले काम करती है, मुख्य रूप से ओव्यूलेशन को टालकर; इसे असुरक्षित सेक्स के 5 दिन बाद तक लिया जा सकता है और जितनी जल्दी ली जाए उतना बेहतर काम करती है। यह पहले से ठहर चुके गर्भ को ख़त्म नहीं कर सकती। गर्भपात की दवाएँ मौजूद गर्भ को ख़त्म करती हैं और क़ानून के तहत सिर्फ़ योग्य सेवा-प्रदाता ही देते हैं। इमरजेंसी गोली एक बैकअप है, नियमित तरीका नहीं, और यह एसटीआई से नहीं बचाती। अगर अगला पीरियड देर से आए, तो प्रेगनेंसी टेस्ट करो और डॉक्टर को दिखाओ।",
+   "hg": "Nahi, yeh alag-alag medicines hain aur alag-alag kaam karti hain. Emergency contraceptive pill pregnancy shuru hone se pehle kaam karti hai, mainly ovulation ko delay karke; isse unprotected sex ke 5 din baad tak liya ja sakta hai aur jitni jaldi li jaye utna better kaam karti hai. Yeh already established pregnancy ko end nahi kar sakti. Abortion medicines existing pregnancy ko end karti hain aur law ke under inhe sirf qualified providers hi dete hain. Emergency pill ek backup hai, regular method nahi, aur yeh STIs se protect nahi karti. Agar agla period late aaye, toh pregnancy test karo aur doctor ko dikhao."
+  },
+  "keywords": [
+   "emergency pill",
+   "i pill",
+   "morning after pill",
+   "इमरजेंसी गोली",
+   "गर्भपात की गोली",
+   "abortion pill difference",
+   "72 hours pill",
+   "unwanted 72",
+   "ec pill",
+   "pill lene ke baad period"
+  ],
+  "refs": [
+   "who-ec",
+   "who-abortion"
+  ],
+  "urgent": false,
+  "lesson": "d15-l04"
+ },
+ {
+  "id": "d15-f12",
+  "domain": "d15",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "women",
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My husband says a wife cannot refuse sex after marriage. Is that true?",
+   "hi": "मेरे पति कहते हैं कि शादी के बाद पत्नी सेक्स के लिए मना नहीं कर सकती। क्या यह सच है?",
+   "hg": "Mere husband bolte hain ki shaadi ke baad wife sex ke liye mana nahi kar sakti. Kya yeh sach hai?"
+  },
+  "a": {
+   "en": "No. Marriage is not consent, and you keep the right to say no on any day, for any reason. Medically and ethically, sex without a willing yes is harmful, whoever the partner is. Indian criminal law still has a contested exception that does not label forced intercourse by a husband as rape when the wife is an adult, but sexual abuse within marriage is recognised under the Protection of Women from Domestic Violence Act, which offers protection orders and other remedies. If you are being forced or hurt, call 181 or 112, or contact a One Stop Centre. This is not legal advice.",
+   "hi": "नहीं। शादी सहमति नहीं है, और किसी भी दिन, किसी भी वजह से मना करने का हक़ आपके पास बना रहता है। मेडिकल और नैतिक, दोनों नज़रियों से बिना मन की हाँ के किया गया सेक्स नुकसान पहुँचाता है, पार्टनर कोई भी हो। भारतीय आपराधिक क़ानून में अब भी एक विवादित अपवाद है जिसके तहत पत्नी बालिग़ हो तो पति द्वारा ज़बरदस्ती किए गए संभोग को बलात्कार नहीं कहा जाता, लेकिन शादी के अंदर यौन दुर्व्यवहार को घरेलू हिंसा से महिलाओं का संरक्षण अधिनियम के तहत माना गया है, जिसमें संरक्षण आदेश और दूसरे उपाय मिलते हैं। अगर आपके साथ ज़बरदस्ती हो रही है या आपको चोट पहुँचाई जा रही है, तो 181 या 112 पर कॉल कीजिए, या वन स्टॉप सेंटर से संपर्क कीजिए। यह क़ानूनी सलाह नहीं है।",
+   "hg": "Nahi. Shaadi consent nahi hai, aur kisi bhi din, kisi bhi reason se mana karne ka haq aapke paas bana rehta hai. Medically aur ethically, bina willing haan ke kiya gaya sex harmful hai, partner koi bhi ho. Indian criminal law mein ab bhi ek contested exception hai jiske under wife adult ho toh husband ke forced intercourse ko rape nahi bola jaata, lekin shaadi ke andar sexual abuse ko Protection of Women from Domestic Violence Act ke under recognise kiya gaya hai, jisme protection orders aur doosre remedies milte hain. Agar aapke saath zabardasti ho rahi hai ya aapko hurt kiya ja raha hai, toh 181 ya 112 pe call kijiye, ya One Stop Centre se contact kijiye. Yeh legal advice nahi hai."
+  },
+  "keywords": [
+   "marital rape",
+   "wife cannot refuse",
+   "pati zabardasti",
+   "शादी के बाद सहमति",
+   "पति ज़बरदस्ती",
+   "husband forces",
+   "patni ka farz",
+   "marriage consent",
+   "181",
+   "shaadi ke baad mana"
+  ],
+  "refs": [
+   "bns-2023",
+   "who-vaw",
+   "wcd-mission-shakti"
+  ],
+  "urgent": true,
+  "lesson": "d15-l05"
+ }
+]

@@ -1,0 +1,490 @@
+[
+ {
+  "id": "d09-f01",
+  "domain": "d09",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Can you get an STI from a toilet seat, a hug or a kiss?",
+   "hi": "क्या टॉयलेट सीट, गले लगने या किस करने से एसटीआई हो सकता है?",
+   "hg": "Kya toilet seat, hug ya kiss se STI ho sakta hai?"
+  },
+  "a": {
+   "en": "Not from toilet seats or hugs. Most germs that cause STIs do not survive well outside the body; they need sexual contact, infected blood or skin-to-skin contact with an infected area to spread. Kissing is mostly low-risk, and HIV is not passed through saliva. The exception is the herpes virus that causes cold sores, which can spread through kissing, most easily when a sore is present or about to appear, but sometimes even when the skin looks normal. Sharing food, water bottles, classrooms or swimming pools does not spread STIs.",
+   "hi": "टॉयलेट सीट या गले लगने से नहीं। एसटीआई करने वाले ज़्यादातर कीटाणु शरीर के बाहर ज़्यादा देर टिक नहीं पाते; इन्हें फैलने के लिए यौन संपर्क, संक्रमित ख़ून या संक्रमित हिस्से की त्वचा से त्वचा का संपर्क चाहिए। किस करने में आम तौर पर ख़तरा कम है, और एचआईवी लार से नहीं फैलता। अपवाद है हर्पीज़ का वह वायरस जो होंठों पर छाले (कोल्ड सोर) करता है; यह किस करने से फैल सकता है, सबसे आसानी से तब जब छाला मौजूद हो या निकलने वाला हो, पर कभी-कभी तब भी जब त्वचा सामान्य दिखे। खाना, पानी की बोतल, क्लासरूम या स्विमिंग पूल साझा करने से एसटीआई नहीं फैलते।",
+   "hg": "Toilet seat ya hug se nahi. STI karne wale zyada-tar germs body ke bahar zyada der tik nahi paate; inhe failne ke liye sexual contact, infected blood ya infected area ki skin-to-skin contact chahiye. Kiss karne mein mostly risk kam hai, aur HIV saliva se nahi failta. Exception hai herpes ka woh virus jo cold sores karta hai; yeh kiss karne se fail sakta hai, sabse easily tab jab sore maujood ho ya nikalne wala ho, par kabhi-kabhi tab bhi jab skin normal dikhe. Khana, water bottle, classroom ya swimming pool share karne se STIs nahi failte."
+  },
+  "keywords": [
+   "toilet seat sti",
+   "kiss se hiv",
+   "hug se aids",
+   "public toilet infection",
+   "kissing se sti",
+   "sti kaise failta hai",
+   "टॉयलेट सीट",
+   "किस करने से एचआईवी",
+   "गले लगने से एड्स",
+   "saliva hiv"
+  ],
+  "refs": [
+   "who-sti",
+   "who-herpes",
+   "who-hiv"
+  ],
+  "urgent": false,
+  "lesson": "d09-l01"
+ },
+ {
+  "id": "d09-f02",
+  "domain": "d09",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "What is the difference between HIV and AIDS?",
+   "hi": "एचआईवी और एड्स में क्या फ़र्क़ है?",
+   "hg": "HIV aur AIDS mein kya farak hai?"
+  },
+  "a": {
+   "en": "HIV is a virus; AIDS is a condition that the virus can cause. HIV slowly weakens the immune system. If it is not treated, after some years the body can no longer fight off infections, and that advanced stage is called AIDS. A person can live with HIV for decades and never develop AIDS if they take daily medicines called antiretroviral therapy (ART). So 'HIV-positive' does not mean 'has AIDS'. A blood test is the only way to know whether someone has HIV. For questions, the NACO helpline is 1097.",
+   "hi": "एचआईवी एक वायरस है; एड्स वह स्थिति है जो यह वायरस पैदा कर सकता है। एचआईवी धीरे-धीरे प्रतिरक्षा तंत्र को कमज़ोर करता है। अगर इलाज न हो, तो कुछ बरसों बाद शरीर संक्रमणों से लड़ नहीं पाता, और उसी आगे बढ़े हुए चरण को एड्स कहते हैं। अगर कोई व्यक्ति रोज़ एंटीरेट्रोवायरल थेरेपी (ART) नाम की दवाएँ ले, तो वह दशकों तक एचआईवी के साथ जी सकता है और उसे कभी एड्स नहीं होता। इसलिए 'एचआईवी पॉज़िटिव' का मतलब 'एड्स है' नहीं होता। किसी को एचआईवी है या नहीं, यह सिर्फ़ ख़ून की जाँच से पता चलता है। सवालों के लिए NACO हेल्पलाइन 1097 है।",
+   "hg": "HIV ek virus hai; AIDS woh condition hai jo yeh virus kar sakta hai. HIV dheere-dheere immune system ko weak karta hai. Agar treatment na ho, toh kuch saalon baad body infections se lad nahi paati, aur usi advanced stage ko AIDS kehte hain. Agar koi insaan roz antiretroviral therapy (ART) naam ki medicines le, toh woh decades tak HIV ke saath jee sakta hai aur use kabhi AIDS nahi hota. Isliye 'HIV-positive' ka matlab 'AIDS hai' nahi hota. Kisi ko HIV hai ya nahi, yeh sirf blood test se pata chalta hai. Sawaalon ke liye NACO helpline 1097 hai."
+  },
+  "keywords": [
+   "hiv vs aids",
+   "hiv aur aids mein farak",
+   "aids kya hai",
+   "hiv kya hota hai",
+   "hiv positive matlab",
+   "एचआईवी और एड्स",
+   "एड्स क्या है",
+   "एचआईवी पॉज़िटिव",
+   "art medicine",
+   "1097"
+  ],
+  "refs": [
+   "who-hiv",
+   "naco"
+  ],
+  "urgent": false,
+  "lesson": "d09-l01"
+ },
+ {
+  "id": "d09-f03",
+  "domain": "d09",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My uncle has hepatitis B. Can I catch it by eating with him or hugging him?",
+   "hi": "मेरे चाचा को हेपेटाइटिस बी है। क्या उनके साथ खाने या उन्हें गले लगाने से मुझे हो सकता है?",
+   "hg": "Mere chacha ko hepatitis B hai. Kya unke saath khane ya unhe hug karne se mujhe ho sakta hai?"
+  },
+  "a": {
+   "en": "No. Hepatitis B does not spread through sharing meals, utensils, hugging, coughing or sitting together. It spreads through infected blood and sexual fluids, and from mother to baby around birth. In a household, the things not to share are items that can carry traces of blood: razors, toothbrushes, nail cutters and needles. The best protection is the hepatitis B vaccine. Most children in India receive it as babies; if you are not sure that you did, a doctor can check your records or advise vaccination. Family members of someone with hepatitis B are often advised to get tested and vaccinated.",
+   "hi": "नहीं। हेपेटाइटिस बी साथ खाना खाने, बर्तन साझा करने, गले लगने, खाँसने या साथ बैठने से नहीं फैलता। यह संक्रमित ख़ून और यौन तरल से, और जन्म के आसपास माँ से बच्चे में फैलता है। घर में जो चीज़ें साझा नहीं करनी चाहिए, वे हैं जिन पर ख़ून के अंश रह सकते हैं: रेज़र, टूथब्रश, नेल कटर और सुइयाँ। सबसे अच्छा बचाव हेपेटाइटिस बी का टीका है। भारत में ज़्यादातर बच्चों को यह शैशव में ही लग जाता है; अगर तुम्हें पक्का नहीं पता कि तुम्हें लगा था, तो डॉक्टर रिकॉर्ड देख सकते हैं या टीका लगवाने की सलाह दे सकते हैं। जिस घर में किसी को हेपेटाइटिस बी हो, वहाँ परिवार के सदस्यों को अक्सर जाँच और टीकाकरण की सलाह दी जाती है।",
+   "hg": "Nahi. Hepatitis B saath khana khane, bartan share karne, hug karne, khaansne ya saath baithne se nahi failta. Yeh infected blood aur sexual fluids se, aur birth ke aaspaas maa se baby mein failta hai. Ghar mein jo cheezein share nahi karni chahiye, woh hain jin par blood ke traces reh sakte hain: razor, toothbrush, nail cutter aur needles. Best protection hepatitis B vaccine hai. India mein zyada-tar bachchon ko yeh babyhood mein hi lag jaati hai; agar tumhe pakka nahi pata ki tumhe lagi thi, toh doctor records check kar sakte hain ya vaccine lagwane ki advice de sakte hain. Jis ghar mein kisi ko hepatitis B ho, wahan family members ko aksar test aur vaccination ki advice di jaati hai."
+  },
+  "keywords": [
+   "hepatitis b",
+   "hep b spread",
+   "hepatitis b kaise failta hai",
+   "peeliya",
+   "saath khane se hepatitis",
+   "hepatitis b vaccine",
+   "हेपेटाइटिस बी",
+   "पीलिया",
+   "साथ खाने से",
+   "liver infection"
+  ],
+  "refs": [
+   "who-hepb"
+  ],
+  "urgent": false,
+  "lesson": "d09-l01"
+ },
+ {
+  "id": "d09-f04",
+  "domain": "d09",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "vulva_vaginal"
+  ],
+  "q": {
+   "en": "I have itching and white discharge down there. Does that mean I have an STI?",
+   "hi": "मुझे नीचे खुजली और सफ़ेद पानी की शिकायत है। क्या इसका मतलब मुझे एसटीआई है?",
+   "hg": "Mujhe neeche khujli aur white discharge ho raha hai. Kya iska matlab mujhe STI hai?"
+  },
+  "a": {
+   "en": "Not necessarily. Itching and discharge have many causes that are not sexually transmitted, such as a yeast infection, bacterial vaginosis, sweat rash, a reaction to soap, or a fungal rash in the groin. Some clear or white discharge from the vagina is normal and changes through the menstrual cycle. Signs worth showing a doctor are discharge that is yellow-green, grey, frothy, bloody or strong-smelling, sores or blisters, burning when urinating, or lower abdominal pain. Nobody can tell the cause by looking, so avoid creams or tablets bought without advice and see a doctor; you can ask for a female doctor.",
+   "hi": "ज़रूरी नहीं। खुजली और स्राव की कई वजहें होती हैं जो यौन संपर्क से नहीं फैलतीं, जैसे यीस्ट इन्फ़ेक्शन, बैक्टीरियल वेजिनोसिस, पसीने से हुए दाने, साबुन से एलर्जी, या जाँघों के बीच फ़ंगल इन्फ़ेक्शन। योनि से थोड़ा साफ़ या सफ़ेद स्राव सामान्य है और माहवारी के चक्र के साथ बदलता रहता है। डॉक्टर को दिखाने लायक़ संकेत हैं: पीला-हरा, स्लेटी, झागदार, ख़ून मिला या तेज़ गंध वाला स्राव, घाव या छाले, पेशाब में जलन, या पेट के निचले हिस्से में दर्द। वजह देखकर कोई नहीं बता सकता, इसलिए बिना सलाह के ख़रीदी क्रीम या गोलियों से बचो और डॉक्टर को दिखाओ; चाहो तो महिला डॉक्टर से दिखाने की माँग भी की जा सकती है।",
+   "hg": "Zaroori nahi. Khujli aur discharge ke kai reasons hote hain jo sexually transmitted nahi hain, jaise yeast infection, bacterial vaginosis, sweat rash, soap se reaction, ya groin mein fungal rash. Vagina se thoda clear ya white discharge normal hai aur menstrual cycle ke saath change hota rehta hai. Doctor ko dikhane layak signs hain: yellow-green, grey, jhaagdar, blood wala ya tez smell wala discharge, sores ya blisters, peshab mein jalan, ya lower abdomen mein pain. Reason dekhkar koi nahi bata sakta, isliye bina advice ke khareedi cream ya tablets se bacho aur doctor ko dikhao; chaaho toh female doctor se dikhane ke liye bhi kaha ja sakta hai."
+  },
+  "keywords": [
+   "white discharge",
+   "safed pani",
+   "itching private part",
+   "neeche khujli",
+   "yeast infection",
+   "discharge normal hai kya",
+   "सफ़ेद पानी",
+   "खुजली",
+   "योनि से स्राव",
+   "jock itch",
+   "private part mein jalan"
+  ],
+  "refs": [
+   "who-sti",
+   "nhm-afhc"
+  ],
+  "urgent": false,
+  "lesson": "d09-l01"
+ },
+ {
+  "id": "d09-f05",
+  "domain": "d09",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Is the HPV vaccine only for girls? And is it too late if I'm already a teenager?",
+   "hi": "क्या एचपीवी का टीका सिर्फ़ लड़कियों के लिए है? और अगर मैं पहले से किशोर उम्र में हूँ तो क्या देर हो गई?",
+   "hg": "Kya HPV vaccine sirf ladkiyon ke liye hai? Aur agar main already teenager hoon toh kya late ho gaya?"
+  },
+  "a": {
+   "en": "It is not only for girls, and a teenager is not too late. WHO's main target group is girls aged 9 to 14, because the vaccine works best before any sexual contact and cervical cancer is the biggest HPV-related risk. But HPV also causes genital warts and some cancers in boys and men, and many countries vaccinate boys as well. Older teenagers and young adults can still benefit from catch-up vaccination. The number of doses depends on age, so ask a doctor. The vaccine prevents infection; it does not treat one, and cervical screening is still needed in adulthood.",
+   "hi": "यह सिर्फ़ लड़कियों के लिए नहीं है, और किशोर उम्र में देर नहीं हुई है। WHO का मुख्य लक्ष्य समूह 9 से 14 साल की लड़कियाँ हैं, क्योंकि टीका किसी भी यौन संपर्क से पहले सबसे अच्छा काम करता है और एचपीवी से जुड़ा सबसे बड़ा ख़तरा सर्वाइकल कैंसर है। लेकिन एचपीवी से लड़कों और पुरुषों में भी जननांगों के मस्से और कुछ कैंसर होते हैं, और कई देश लड़कों को भी टीका लगाते हैं। बड़े किशोरों और युवा वयस्कों को भी छूटा हुआ टीका लगवाने से फ़ायदा हो सकता है। ख़ुराकों की संख्या उम्र पर निर्भर करती है, इसलिए डॉक्टर से पूछो। टीका संक्रमण से बचाता है; वह संक्रमण का इलाज नहीं करता, और वयस्क होने पर सर्वाइकल स्क्रीनिंग फिर भी ज़रूरी है।",
+   "hg": "Yeh sirf ladkiyon ke liye nahi hai, aur teenage mein late nahi hua hai. WHO ka main target group 9 se 14 saal ki ladkiyan hain, kyunki vaccine kisi bhi sexual contact se pehle sabse achha kaam karti hai aur HPV se juda sabse bada risk cervical cancer hai. Lekin HPV se ladkon aur men mein bhi genital warts aur kuch cancers hote hain, aur kai countries ladkon ko bhi vaccine lagati hain. Bade teenagers aur young adults ko bhi catch-up vaccination se fayda ho sakta hai. Doses ka number age par depend karta hai, isliye doctor se poocho. Vaccine infection se bachati hai; woh infection ko treat nahi karti, aur adult hone par cervical screening phir bhi zaroori hai."
+  },
+  "keywords": [
+   "hpv vaccine",
+   "hpv vaccine boys",
+   "cervical cancer vaccine",
+   "hpv ka teeka",
+   "hpv vaccine age",
+   "ladkon ko hpv vaccine",
+   "एचपीवी टीका",
+   "सर्वाइकल कैंसर का टीका",
+   "hpv vaccine kab lagwaye",
+   "hpv injection"
+  ],
+  "refs": [
+   "who-hpv",
+   "who-cervical"
+  ],
+  "urgent": false,
+  "lesson": "d09-l05"
+ },
+ {
+  "id": "d09-f06",
+  "domain": "d09",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Can you get an STI from oral sex?",
+   "hi": "क्या ओरल सेक्स से एसटीआई हो सकता है?",
+   "hg": "Kya oral sex se STI ho sakta hai?"
+  },
+  "a": {
+   "en": "Yes. Gonorrhoea, chlamydia, syphilis, herpes and HPV can all pass between the mouth and the genitals or anus, in either direction, and infections in the throat usually cause no symptoms. HIV transmission through oral sex is much less likely than through vaginal or anal sex, but the other infections spread this way readily. Pregnancy is not possible from oral sex, which is why people often assume it is 'safe'. Barriers such as condoms and dental dams reduce the risk. If a clinician asks what kinds of contact you have had, it is so that the right sites are tested.",
+   "hi": "हाँ। गोनोरिया, क्लैमाइडिया, सिफ़लिस, हर्पीज़ और एचपीवी, ये सभी मुँह और जननांग या गुदा के बीच दोनों दिशाओं में फैल सकते हैं, और गले के संक्रमण में आम तौर पर कोई लक्षण नहीं होते। ओरल सेक्स से एचआईवी फैलने की संभावना योनि या गुदा मैथुन की तुलना में बहुत कम है, लेकिन बाक़ी संक्रमण इस रास्ते से आसानी से फैलते हैं। ओरल सेक्स से गर्भ नहीं ठहर सकता, इसीलिए लोग अक्सर इसे 'सुरक्षित' मान लेते हैं। कंडोम और डेंटल डैम जैसे अवरोध ख़तरा घटाते हैं। अगर डॉक्टर पूछें कि किस तरह का संपर्क हुआ था, तो वह इसलिए कि सही जगह से जाँच का नमूना लिया जा सके।",
+   "hg": "Haan. Gonorrhoea, chlamydia, syphilis, herpes aur HPV, yeh sab mouth aur genitals ya anus ke beech dono directions mein fail sakte hain, aur throat ke infection mein usually koi symptoms nahi hote. Oral sex se HIV failne ka chance vaginal ya anal sex ke comparison mein bahut kam hai, lekin baaki infections is route se aasani se failte hain. Oral sex se pregnancy nahi ho sakti, isiliye log aksar ise 'safe' maan lete hain. Condoms aur dental dams jaise barriers risk kam karte hain. Agar clinician pooche ki kis tarah ka contact hua tha, toh woh isliye ki sahi jagah se test ka sample liya ja sake."
+  },
+  "keywords": [
+   "oral sex sti",
+   "oral se infection",
+   "oral sex safe hai kya",
+   "throat gonorrhea",
+   "dental dam",
+   "oral sex hiv",
+   "ओरल सेक्स",
+   "मुख मैथुन से संक्रमण",
+   "गले में संक्रमण",
+   "oral se hiv hota hai kya"
+  ],
+  "refs": [
+   "who-sti",
+   "who-herpes"
+  ],
+  "urgent": false,
+  "lesson": "d09-l05"
+ },
+ {
+  "id": "d09-f07",
+  "domain": "d09",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "The condom broke and I'm scared about HIV. What is PEP and where do I get it?",
+   "hi": "कंडोम फट गया और मुझे एचआईवी का डर है। PEP क्या है और यह कहाँ मिलता है?",
+   "hg": "Condom phat gaya aur mujhe HIV ka darr hai. PEP kya hai aur kahan milta hai?"
+  },
+  "a": {
+   "en": "PEP (post-exposure prophylaxis) is a 28-day course of HIV medicines that can prevent infection after a possible exposure. It must start as soon as possible and no later than 72 hours afterwards, so go to a hospital emergency department or HIV clinic now. A doctor will assess the risk and decide whether PEP is needed. Ask too about emergency contraception, which can be used up to 5 days afterwards, the sooner the better, and STI testing. If you are under 18, a parent or guardian is usually involved and doctors cannot promise complete secrecy because of POCSO reporting, but go anyway. NACO helpline 1097 can guide you to a centre.",
+   "hi": "PEP (पोस्ट-एक्सपोज़र प्रोफ़िलैक्सिस) एचआईवी की दवाओं का 28 दिन का कोर्स है जो संभावित संपर्क के बाद संक्रमण को रोक सकता है। इसे जल्द से जल्द और संपर्क के 72 घंटे के भीतर शुरू करना होता है, इसलिए अभी अस्पताल के इमरजेंसी विभाग या एचआईवी क्लिनिक जाएँ। डॉक्टर जोखिम का आकलन करके तय करेंगे कि PEP की ज़रूरत है या नहीं। इमरजेंसी गर्भनिरोधक के बारे में भी पूछें, जो 5 दिन तक इस्तेमाल हो सकता है, जितना जल्दी उतना बेहतर, और एसटीआई की जाँच के बारे में भी। अगर आप 18 से कम उम्र के हैं, तो आम तौर पर माता-पिता या अभिभावक शामिल होते हैं और POCSO के तहत सूचना देने की वजह से डॉक्टर पूरी गोपनीयता का वादा नहीं कर सकते, फिर भी ज़रूर जाएँ। NACO हेल्पलाइन 1097 आपको केंद्र तक पहुँचने का रास्ता बता सकती है।",
+   "hg": "PEP (post-exposure prophylaxis) HIV medicines ka 28 din ka course hai jo possible exposure ke baad infection ko rok sakta hai. Ise jaldi se jaldi aur exposure ke 72 ghante ke andar start karna hota hai, isliye abhi hospital ke emergency department ya HIV clinic jao. Doctor risk assess karke decide karenge ki PEP ki zaroorat hai ya nahi. Emergency contraception ke baare mein bhi poocho, jo 5 din tak use ho sakta hai, jitna jaldi utna better, aur STI testing ke baare mein bhi. Agar tum 18 se kam ho, toh usually parent ya guardian involve hote hain aur POCSO reporting ki wajah se doctors complete secrecy ka promise nahi kar sakte, phir bhi zaroor jao. NACO helpline 1097 aapko centre tak guide kar sakti hai."
+  },
+  "keywords": [
+   "pep",
+   "condom broke",
+   "condom phat gaya",
+   "hiv exposure",
+   "pep kahan milega",
+   "72 hours hiv",
+   "unprotected sex hiv darr",
+   "कंडोम फट गया",
+   "एचआईवी का डर",
+   "पीईपी दवा",
+   "hiv se bachne ki dawa"
+  ],
+  "refs": [
+   "who-pep",
+   "naco",
+   "who-ec"
+  ],
+  "urgent": true,
+  "lesson": "d09-l05"
+ },
+ {
+  "id": "d09-f08",
+  "domain": "d09",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "How soon after exposure will a test show an infection? I tested negative the next day.",
+   "hi": "संपर्क के कितने समय बाद जाँच में संक्रमण दिखता है? मेरी जाँच अगले ही दिन नेगेटिव आई।",
+   "hg": "Exposure ke kitne time baad test mein infection dikhta hai? Mera test agle hi din negative aaya."
+  },
+  "a": {
+   "en": "A test the next day cannot rule anything out. If a possible HIV exposure was in the last 72 hours, go to a hospital or HIV clinic today and ask about PEP; helpline 1097 can help. Every infection has a window period, the time before a test can detect it. It ranges from days to weeks for chlamydia and gonorrhoea, and from weeks to a few months for HIV, syphilis and hepatitis B, depending on the test. A negative result inside the window may be too early. A clinician can say which tests to take and when. Until then, avoid sex, or use a condom every time.",
+   "hi": "अगले दिन की जाँच से कुछ भी पक्का नहीं कहा जा सकता। अगर एचआईवी का संभावित संपर्क पिछले 72 घंटों के भीतर हुआ है, तो आज ही अस्पताल या एचआईवी क्लिनिक जाकर PEP के बारे में पूछें; हेल्पलाइन 1097 मदद कर सकती है। हर संक्रमण का एक विंडो पीरियड होता है, यानी वह समय जिससे पहले जाँच उसे पकड़ नहीं पाती। क्लैमाइडिया और गोनोरिया में यह कुछ दिनों से कुछ हफ़्तों तक होता है, और एचआईवी, सिफ़लिस और हेपेटाइटिस बी में कुछ हफ़्तों से कुछ महीनों तक, जाँच के प्रकार के हिसाब से। विंडो के भीतर आया नेगेटिव नतीजा शायद बस बहुत जल्दी का नतीजा हो। कौन सी जाँच कब करानी है, यह डॉक्टर बता सकते हैं। तब तक सेक्स न करें, या हर बार कंडोम इस्तेमाल करें।",
+   "hg": "Agle din ka test kuch bhi rule out nahi kar sakta. Agar HIV ka possible exposure pichhle 72 ghanton ke andar hua hai, toh aaj hi hospital ya HIV clinic jaakar PEP ke baare mein poocho; helpline 1097 help kar sakti hai. Har infection ka ek window period hota hai, yaani woh time jisse pehle test use detect nahi kar paata. Chlamydia aur gonorrhoea mein yeh kuch dino se kuch hafton tak hota hai, aur HIV, syphilis aur hepatitis B mein kuch hafton se kuch mahino tak, test ke type ke hisaab se. Window ke andar aaya negative result shayad bas bahut jaldi ka result ho. Kaun se tests kab karane hain, yeh clinician bata sakte hain. Tab tak sex mat karo, ya har baar condom use karo."
+  },
+  "keywords": [
+   "window period",
+   "hiv test kab karaye",
+   "test negative but worried",
+   "kitne din baad test",
+   "hiv test accuracy",
+   "sti test timing",
+   "विंडो पीरियड",
+   "जाँच कब कराएँ",
+   "एचआईवी टेस्ट",
+   "negative aaya phir bhi darr"
+  ],
+  "refs": [
+   "who-hiv",
+   "who-sti",
+   "naco"
+  ],
+  "urgent": true,
+  "lesson": "d09-l04"
+ },
+ {
+  "id": "d09-f09",
+  "domain": "d09",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "q": {
+   "en": "I tested HIV-positive. Can I still have a relationship, marry and have children?",
+   "hi": "मेरी एचआईवी जाँच पॉज़िटिव आई है। क्या मेरे लिए अब भी रिश्ता, शादी और बच्चे मुमकिन हैं?",
+   "hg": "Mera HIV test positive aaya hai. Kya mere liye ab bhi relationship, shaadi aur bachche possible hain?"
+  },
+  "a": {
+   "en": "Yes to all three. Start antiretroviral therapy early at an ART centre, where medicines are free, and take it daily. Over some months the virus in the blood usually becomes undetectable, which a viral-load test confirms, and a person who stays undetectable does not pass HIV to sexual partners. Until then, use condoms every time. Treatment during pregnancy, birth and breastfeeding makes infection of the baby very unlikely, so many people living with HIV have HIV-negative children. A partner needs to know so they can choose and get tested; counsellors at the centre can help you prepare. Indian law protects you from discrimination, and 1097 is a place to start.",
+   "hi": "तीनों का जवाब हाँ है। ART केंद्र पर जल्दी एंटीरेट्रोवायरल थेरेपी शुरू करें, जहाँ दवाएँ मुफ़्त मिलती हैं, और इसे रोज़ लें। कुछ महीनों में ख़ून में वायरस आम तौर पर इतना घट जाता है कि जाँच में पकड़ में नहीं आता, जिसकी पुष्टि वायरल-लोड टेस्ट से होती है, और जो व्यक्ति इसी स्तर पर बना रहता है वह यौन पार्टनर तक एचआईवी नहीं पहुँचाता। तब तक हर बार कंडोम इस्तेमाल करें। गर्भावस्था, प्रसव और स्तनपान के दौरान इलाज से बच्चे के संक्रमित होने की संभावना बहुत कम रह जाती है, इसलिए एचआईवी के साथ जी रहे बहुत से लोग एचआईवी-नेगेटिव बच्चों के माता-पिता बनते हैं। पार्टनर को यह जानना ज़रूरी है ताकि वे अपने फ़ैसले ख़ुद ले सकें और जाँच करा सकें; केंद्र के काउंसलर इसकी तैयारी में मदद कर सकते हैं। भारतीय क़ानून आपको भेदभाव से बचाता है, और शुरुआत के लिए 1097 पर कॉल कर सकते हैं।",
+   "hg": "Teeno ka jawab haan hai. ART centre par jaldi antiretroviral therapy start karo, jahan medicines free milti hain, aur ise roz lo. Kuch mahino mein blood mein virus usually undetectable ho jaata hai, jiska confirmation viral-load test se hota hai, aur jo insaan undetectable bana rehta hai woh sexual partners ko HIV pass nahi karta. Tab tak har baar condom use karo. Pregnancy, delivery aur breastfeeding ke dauraan treatment se baby ke infected hone ka chance bahut kam reh jaata hai, isliye HIV ke saath jee rahe bahut se log HIV-negative bachchon ke parents bante hain. Partner ko yeh pata hona zaroori hai taaki woh apne decisions khud le sakein aur test karwa sakein; centre ke counsellors iski preparation mein help kar sakte hain. Indian law aapko discrimination se protect karta hai, aur shuruaat ke liye 1097 par call kar sakte ho."
+  },
+  "keywords": [
+   "hiv positive marriage",
+   "hiv positive life",
+   "hiv ke saath shaadi",
+   "hiv positive baby",
+   "u=u",
+   "hiv positive ho gaya ab kya",
+   "एचआईवी पॉज़िटिव शादी",
+   "एचआईवी के साथ जीवन",
+   "एचआईवी और बच्चे",
+   "art centre"
+  ],
+  "refs": [
+   "who-hiv",
+   "naco"
+  ],
+  "urgent": false,
+  "lesson": "d09-l04"
+ },
+ {
+  "id": "d09-f10",
+  "domain": "d09",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "How do I tell my partner I have an STI without them thinking I cheated?",
+   "hi": "मैं अपने पार्टनर को कैसे बताऊँ कि मुझे एसटीआई है, ताकि वे यह न सोचें कि मैंने धोखा दिया?",
+   "hg": "Main apne partner ko kaise bataun ki mujhe STI hai, bina yeh sochwaye ki maine cheat kiya?"
+  },
+  "a": {
+   "en": "Lead with facts and care for their health. Pick a private moment and say what it is, that it is treatable, and that they need a test too. Explain that most STIs cause no symptoms and can go unnoticed for months or years, so a diagnosis cannot show who had it first or when. Expect surprise or anger, and give them time. Do not have sex until you have both been treated or advised by a clinician. If you fear a violent reaction, a clinic counsellor can help you find a safer way to tell them. If you are threatened or hurt, call 112 or the Women Helpline 181.",
+   "hi": "बात तथ्यों से और उनकी सेहत की फ़िक्र से शुरू करें। कोई निजी पल चुनें और बताएँ कि संक्रमण कौन सा है, कि इसका इलाज है, और कि उन्हें भी जाँच करानी चाहिए। समझाएँ कि ज़्यादातर एसटीआई में कोई लक्षण नहीं होते और वे महीनों या बरसों तक बिना पता चले रह सकते हैं, इसलिए निदान से यह नहीं पता चलता कि पहले किसे हुआ था या कब। हैरानी या ग़ुस्से के लिए तैयार रहें, और उन्हें समय दें। जब तक दोनों का इलाज न हो जाए या डॉक्टर सलाह न दें, तब तक सेक्स न करें। अगर आपको हिंसक प्रतिक्रिया का डर हो, तो क्लिनिक के काउंसलर बताने का ज़्यादा सुरक्षित तरीक़ा ढूँढने में मदद कर सकते हैं। अगर आपको धमकी मिले या चोट पहुँचाई जाए, तो 112 या महिला हेल्पलाइन 181 पर कॉल करें।",
+   "hg": "Baat facts se aur unki health ki care se start karo. Koi private moment chuno aur batao ki infection kaun sa hai, ki iska treatment hai, aur ki unhe bhi test karana chahiye. Samjhao ki zyada-tar STIs mein koi symptoms nahi hote aur woh mahino ya saalon tak bina pata chale reh sakte hain, isliye diagnosis se yeh nahi pata chalta ki pehle kisko hua tha ya kab. Surprise ya gusse ke liye ready raho, aur unhe time do. Jab tak dono ka treatment na ho jaye ya clinician advice na de, tab tak sex mat karo. Agar violent reaction ka darr ho, toh clinic counsellor batane ka zyada safe tareeka dhoondhne mein help kar sakte hain. Agar tumhe dhamki mile ya hurt kiya jaye, toh 112 ya Women Helpline 181 par call karo."
+  },
+  "keywords": [
+   "tell partner sti",
+   "partner ko kaise bataun",
+   "sti disclosure",
+   "partner notification",
+   "sti hai cheating nahi",
+   "girlfriend ko sti bataun",
+   "पार्टनर को कैसे बताऊँ",
+   "एसटीआई बताना",
+   "धोखा नहीं दिया",
+   "husband ko infection batana"
+  ],
+  "refs": [
+   "who-sti"
+  ],
+  "urgent": false,
+  "lesson": "d09-l04"
+ },
+ {
+  "id": "d09-f11",
+  "domain": "d09",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Is a cold sore on the lip the same as herpes? Does herpes ever go away?",
+   "hi": "क्या होंठ पर निकला छाला (कोल्ड सोर) हर्पीज़ ही है? क्या हर्पीज़ कभी जाता है?",
+   "hg": "Kya lip par cold sore herpes hi hai? Kya herpes kabhi jaata hai?"
+  },
+  "a": {
+   "en": "A cold sore is herpes: it is usually caused by herpes simplex virus type 1, which a large share of people carry, often since childhood. The same virus can infect the genitals through oral contact, and type 2 mainly causes genital herpes. The sores heal, but the virus stays in nerve cells for life and can return, usually less often and more mildly over time. It can spread even without visible sores, though the risk is highest during an outbreak. Antiviral medicines prescribed by a doctor shorten outbreaks. Herpes is common and manageable, and it does not define a person's worth or future.",
+   "hi": "कोल्ड सोर हर्पीज़ ही है: यह आम तौर पर हर्पीज़ सिंप्लेक्स वायरस टाइप 1 से होता है, जो बहुत बड़ी संख्या में लोगों के शरीर में होता है, अक्सर बचपन से। यही वायरस मुख संपर्क के ज़रिए जननांगों को संक्रमित कर सकता है, और टाइप 2 मुख्य रूप से जननांग हर्पीज़ करता है। छाले भर जाते हैं, लेकिन वायरस ज़िंदगी भर तंत्रिका कोशिकाओं में रहता है और लौट सकता है, समय के साथ आम तौर पर कम बार और हल्के रूप में। यह बिना दिखने वाले छालों के भी फैल सकता है, हालाँकि सबसे ज़्यादा ख़तरा छाले निकलने के दौरान होता है। डॉक्टर की लिखी एंटीवायरल दवाएँ दौरों को छोटा करती हैं। हर्पीज़ आम है और क़ाबू में रखा जा सकता है, और यह किसी इंसान की क़ीमत या भविष्य तय नहीं करता।",
+   "hg": "Cold sore herpes hi hai: yeh usually herpes simplex virus type 1 se hota hai, jo bahut saare logon ki body mein hota hai, aksar bachpan se. Yahi virus oral contact ke through genitals ko infect kar sakta hai, aur type 2 mainly genital herpes karta hai. Sores heal ho jaate hain, lekin virus life bhar nerve cells mein rehta hai aur wapas aa sakta hai, time ke saath usually kam baar aur mild form mein. Yeh bina visible sores ke bhi fail sakta hai, halanki sabse zyada risk outbreak ke dauraan hota hai. Doctor ki prescribe ki hui antiviral medicines outbreaks ko chhota karti hain. Herpes common hai aur manage ho sakta hai, aur yeh kisi insaan ki worth ya future define nahi karta."
+  },
+  "keywords": [
+   "herpes",
+   "cold sore",
+   "herpes cure",
+   "honth par chhala",
+   "herpes theek hota hai kya",
+   "hsv",
+   "genital herpes",
+   "हर्पीज़",
+   "होंठ पर छाला",
+   "हर्पीज़ का इलाज",
+   "muh ke chhale herpes"
+  ],
+  "refs": [
+   "who-herpes"
+  ],
+  "urgent": false,
+  "lesson": "d09-l03"
+ },
+ {
+  "id": "d09-f12",
+  "domain": "d09",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Where can a teenager go with questions about STIs, and will my parents find out?",
+   "hi": "एसटीआई से जुड़े सवालों के लिए कोई किशोर कहाँ जा सकता है, और क्या मेरे माता-पिता को पता चल जाएगा?",
+   "hg": "STIs ke sawaalon ke liye ek teenager kahan ja sakta hai, aur kya mere parents ko pata chal jayega?"
+  },
+  "a": {
+   "en": "You can see a doctor at any government health centre, and many have an Adolescent Friendly Health Clinic for young people. For HIV questions, call the free NACO helpline 1097. Two honest limits if you are under 18: a parent or guardian is usually involved in consent for tests and treatment, and under POCSO doctors must report sexual abuse or sexual activity involving a minor, so they cannot promise total secrecy. That rule exists to protect you, not to punish you. If anyone pressured or forced you, it is not your fault: tell a trusted adult or call the Child Helpline 1098. Do not let this stop you getting care.",
+   "hi": "तुम किसी भी सरकारी स्वास्थ्य केंद्र में डॉक्टर को दिखा सकते हो, और कई केंद्रों में किशोर मित्र स्वास्थ्य क्लिनिक (AFHC) होता है। एचआईवी से जुड़े सवालों के लिए NACO की मुफ़्त हेल्पलाइन 1097 पर कॉल करो। अगर तुम 18 से कम उम्र के हो, तो दो सीमाएँ ईमानदारी से जान लो: जाँच और इलाज की सहमति में आम तौर पर माता-पिता या अभिभावक शामिल होते हैं, और POCSO के तहत डॉक्टरों को नाबालिग के यौन शोषण या यौन गतिविधि की सूचना देनी होती है, इसलिए वे पूरी गोपनीयता का वादा नहीं कर सकते। यह नियम तुम्हें बचाने के लिए है, सज़ा देने के लिए नहीं। अगर किसी ने तुम पर दबाव डाला या ज़बरदस्ती की, तो यह तुम्हारी ग़लती नहीं है: किसी भरोसेमंद बड़े को बताओ या चाइल्ड हेल्पलाइन 1098 पर कॉल करो। इस वजह से इलाज लेने से मत रुको।",
+   "hg": "Tum kisi bhi government health centre mein doctor ko dikha sakte ho, aur kai centres mein Adolescent Friendly Health Clinic (AFHC) hota hai. HIV ke sawaalon ke liye NACO ki free helpline 1097 par call karo. Agar tum 18 se kam ho, toh do honest limits jaan lo: tests aur treatment ke consent mein usually parent ya guardian involve hote hain, aur POCSO ke under doctors ko minor ke sexual abuse ya sexual activity ko report karna hota hai, isliye woh total secrecy ka promise nahi kar sakte. Yeh rule tumhe protect karne ke liye hai, punish karne ke liye nahi. Agar kisi ne tum par pressure daala ya zabardasti ki, toh yeh tumhari galti nahi hai: kisi trusted adult ko batao ya Child Helpline 1098 par call karo. Is wajah se care lene se mat ruko."
+  },
+  "keywords": [
+   "sti test teenager",
+   "afhc",
+   "doctor parents ko batayega",
+   "kahan test karaye",
+   "confidential sti test",
+   "teen clinic",
+   "किशोर क्लिनिक",
+   "क्या माता-पिता को पता चलेगा",
+   "एसटीआई जाँच कहाँ",
+   "1097 helpline"
+  ],
+  "refs": [
+   "nhm-afhc",
+   "naco",
+   "pocso-2012"
+  ],
+  "urgent": false,
+  "lesson": "d09-l01"
+ }
+]

@@ -1,0 +1,5687 @@
+{
+ "generated_from": "assets/content",
+ "unesco_concepts": {
+  "1": "Relationships",
+  "2": "Values, Rights, Culture and Sexuality",
+  "3": "Understanding Gender",
+  "4": "Violence and Staying Safe",
+  "5": "Skills for Health and Well-being",
+  "6": "The Human Body and Development",
+  "7": "Sexuality and Sexual Behaviour",
+  "8": "Sexual and Reproductive Health"
+ },
+ "tracks": {
+  "A": "5–8",
+  "B": "9–12",
+  "C": "13–15",
+  "D": "16–17",
+  "E": "18+"
+ },
+ "domains": [
+  {
+   "id": "d01",
+   "title": {
+    "en": "Understanding the Human Body",
+    "hi": "मानव शरीर को समझना",
+    "hg": "Body Ko Samjho"
+   },
+   "unesco": [
+    6
+   ],
+   "allowed_tracks": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 1,
+    "B": 1,
+    "C": 3,
+    "D": 3,
+    "E": 2
+   },
+   "faqs": 12,
+   "myths": 7,
+   "quiz": 18,
+   "scenarios": 0
+  },
+  {
+   "id": "d02",
+   "title": {
+    "en": "Puberty: The Reality",
+    "hi": "किशोरावस्था: असली सच",
+    "hg": "Puberty: Asli Scene"
+   },
+   "unesco": [
+    6
+   ],
+   "allowed_tracks": [
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 0,
+    "B": 3,
+    "C": 3,
+    "D": 1,
+    "E": 1
+   },
+   "faqs": 12,
+   "myths": 7,
+   "quiz": 18,
+   "scenarios": 0
+  },
+  {
+   "id": "d03",
+   "title": {
+    "en": "Menstruation & Menstrual Health",
+    "hi": "माहवारी और मासिक स्वास्थ्य",
+    "hg": "Periods & Menstrual Health"
+   },
+   "unesco": [
+    6,
+    8
+   ],
+   "allowed_tracks": [
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 0,
+    "B": 2,
+    "C": 3,
+    "D": 3,
+    "E": 2
+   },
+   "faqs": 12,
+   "myths": 7,
+   "quiz": 18,
+   "scenarios": 0
+  },
+  {
+   "id": "d04",
+   "title": {
+    "en": "Sexual Feelings & Personal Questions",
+    "hi": "यौन भावनाएँ और निजी सवाल",
+    "hg": "Feelings & Personal Sawaal"
+   },
+   "unesco": [
+    7
+   ],
+   "allowed_tracks": [
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 0,
+    "B": 2,
+    "C": 2,
+    "D": 1,
+    "E": 2
+   },
+   "faqs": 15,
+   "myths": 9,
+   "quiz": 20,
+   "scenarios": 0
+  },
+  {
+   "id": "d05",
+   "title": {
+    "en": "Consent & Body Autonomy",
+    "hi": "सहमति और शरीर पर अपना हक़",
+    "hg": "Consent & Body Autonomy"
+   },
+   "unesco": [
+    4,
+    5
+   ],
+   "allowed_tracks": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 1,
+    "B": 1,
+    "C": 2,
+    "D": 2,
+    "E": 2
+   },
+   "faqs": 12,
+   "myths": 7,
+   "quiz": 18,
+   "scenarios": 5
+  },
+  {
+   "id": "d06",
+   "title": {
+    "en": "Relationships & Emotional Intelligence",
+    "hi": "रिश्ते और भावनात्मक समझ",
+    "hg": "Relationships & Emotional IQ"
+   },
+   "unesco": [
+    1
+   ],
+   "allowed_tracks": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 1,
+    "B": 1,
+    "C": 2,
+    "D": 2,
+    "E": 3
+   },
+   "faqs": 15,
+   "myths": 9,
+   "quiz": 20,
+   "scenarios": 5
+  },
+  {
+   "id": "d07",
+   "title": {
+    "en": "Contraception & Pregnancy Prevention",
+    "hi": "गर्भनिरोध और गर्भ से बचाव",
+    "hg": "Contraception & Protection"
+   },
+   "unesco": [
+    8
+   ],
+   "allowed_tracks": [
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 0,
+    "B": 0,
+    "C": 1,
+    "D": 2,
+    "E": 2
+   },
+   "faqs": 12,
+   "myths": 7,
+   "quiz": 16,
+   "scenarios": 0
+  },
+  {
+   "id": "d08",
+   "title": {
+    "en": "Pregnancy, Fertility & Choices",
+    "hi": "गर्भावस्था, प्रजनन क्षमता और विकल्प",
+    "hg": "Pregnancy, Fertility & Choices"
+   },
+   "unesco": [
+    8
+   ],
+   "allowed_tracks": [
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 0,
+    "B": 0,
+    "C": 1,
+    "D": 3,
+    "E": 3
+   },
+   "faqs": 15,
+   "myths": 9,
+   "quiz": 18,
+   "scenarios": 0
+  },
+  {
+   "id": "d09",
+   "title": {
+    "en": "Sexually Transmitted Infections",
+    "hi": "यौन संचारित संक्रमण (STI)",
+    "hg": "STIs: Seedhi Baat"
+   },
+   "unesco": [
+    8
+   ],
+   "allowed_tracks": [
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 0,
+    "B": 0,
+    "C": 1,
+    "D": 3,
+    "E": 2
+   },
+   "faqs": 12,
+   "myths": 7,
+   "quiz": 16,
+   "scenarios": 0
+  },
+  {
+   "id": "d10",
+   "title": {
+    "en": "Sexual Health & Wellbeing",
+    "hi": "यौन स्वास्थ्य और तंदुरुस्ती",
+    "hg": "Sexual Health & Wellbeing"
+   },
+   "unesco": [
+    5,
+    8
+   ],
+   "allowed_tracks": [
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 0,
+    "B": 1,
+    "C": 1,
+    "D": 3,
+    "E": 5
+   },
+   "faqs": 21,
+   "myths": 13,
+   "quiz": 22,
+   "scenarios": 0
+  },
+  {
+   "id": "d11",
+   "title": {
+    "en": "Gender, Identity & Inclusion",
+    "hi": "जेंडर, पहचान और समावेश",
+    "hg": "Gender, Identity & Inclusion"
+   },
+   "unesco": [
+    3,
+    2
+   ],
+   "allowed_tracks": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 1,
+    "B": 1,
+    "C": 2,
+    "D": 3,
+    "E": 3
+   },
+   "faqs": 15,
+   "myths": 9,
+   "quiz": 18,
+   "scenarios": 0
+  },
+  {
+   "id": "d12",
+   "title": {
+    "en": "Pornography, Media & Internet Reality",
+    "hi": "पोर्नोग्राफ़ी, मीडिया और इंटरनेट की हक़ीक़त",
+    "hg": "Porn, Media & Internet Reality"
+   },
+   "unesco": [
+    7,
+    2
+   ],
+   "allowed_tracks": [
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 0,
+    "B": 1,
+    "C": 2,
+    "D": 2,
+    "E": 3
+   },
+   "faqs": 15,
+   "myths": 9,
+   "quiz": 18,
+   "scenarios": 2
+  },
+  {
+   "id": "d13",
+   "title": {
+    "en": "Digital Safety & Exploitation Prevention",
+    "hi": "डिजिटल सुरक्षा और शोषण से बचाव",
+    "hg": "Digital Safety"
+   },
+   "unesco": [
+    4
+   ],
+   "allowed_tracks": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 1,
+    "B": 1,
+    "C": 2,
+    "D": 3,
+    "E": 2
+   },
+   "faqs": 12,
+   "myths": 7,
+   "quiz": 18,
+   "scenarios": 5
+  },
+  {
+   "id": "d14",
+   "title": {
+    "en": "Violence, Harassment & Personal Safety",
+    "hi": "हिंसा, उत्पीड़न और व्यक्तिगत सुरक्षा",
+    "hg": "Violence, Harassment & Safety"
+   },
+   "unesco": [
+    4
+   ],
+   "allowed_tracks": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 2,
+    "B": 1,
+    "C": 2,
+    "D": 4,
+    "E": 5
+   },
+   "faqs": 21,
+   "myths": 13,
+   "quiz": 24,
+   "scenarios": 3
+  },
+  {
+   "id": "d15",
+   "title": {
+    "en": "Indian Myths & Cultural Realities",
+    "hi": "भारतीय मिथक और सांस्कृतिक सच्चाइयाँ",
+    "hg": "Desi Myths vs Reality"
+   },
+   "unesco": [
+    2
+   ],
+   "allowed_tracks": [
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 0,
+    "B": 1,
+    "C": 2,
+    "D": 2,
+    "E": 2
+   },
+   "faqs": 12,
+   "myths": 12,
+   "quiz": 16,
+   "scenarios": 0
+  },
+  {
+   "id": "d16",
+   "title": {
+    "en": "Indian Laws, Rights & Support",
+    "hi": "भारतीय क़ानून, अधिकार और सहायता",
+    "hg": "Indian Laws, Rights & Support"
+   },
+   "unesco": [
+    2,
+    4
+   ],
+   "allowed_tracks": [
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 0,
+    "B": 1,
+    "C": 2,
+    "D": 3,
+    "E": 3
+   },
+   "faqs": 15,
+   "myths": 9,
+   "quiz": 18,
+   "scenarios": 0
+  },
+  {
+   "id": "d17",
+   "title": {
+    "en": "Mental Health, Body Image & Pressure",
+    "hi": "मानसिक स्वास्थ्य, बॉडी इमेज और दबाव",
+    "hg": "Mental Health & Body Image"
+   },
+   "unesco": [
+    5
+   ],
+   "allowed_tracks": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 1,
+    "B": 1,
+    "C": 1,
+    "D": 2,
+    "E": 2
+   },
+   "faqs": 15,
+   "myths": 9,
+   "quiz": 18,
+   "scenarios": 2
+  },
+  {
+   "id": "d18",
+   "title": {
+    "en": "Life Skills & Communication",
+    "hi": "जीवन कौशल और संवाद",
+    "hg": "Life Skills & Communication"
+   },
+   "unesco": [
+    5,
+    1
+   ],
+   "allowed_tracks": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "lessons_per_track": {
+    "A": 1,
+    "B": 1,
+    "C": 2,
+    "D": 2,
+    "E": 2
+   },
+   "faqs": 12,
+   "myths": 7,
+   "quiz": 16,
+   "scenarios": 4
+  }
+ ],
+ "lessons": [
+  {
+   "id": "d01-l01",
+   "domain": "d01",
+   "tracks": [
+    "A"
+   ],
+   "difficulty": 1,
+   "minutes": 3,
+   "unesco": [
+    6,
+    4
+   ],
+   "prereqs": [],
+   "interactive": "body_lab",
+   "refs": [
+    "unesco-itgse",
+    "wcd-childline"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "My Body, Real Names",
+    "hi": "मेरा शरीर, असली नाम",
+    "hg": "Meri Body, Asli Naam"
+   },
+   "objectives": [
+    {
+     "en": "Say the correct names of body parts, including private parts.",
+     "hi": "शरीर के हिस्सों के सही नाम बोलना, निजी अंगों के भी।",
+     "hg": "Body parts ke sahi naam bolna, private parts ke bhi."
+    },
+    {
+     "en": "Understand that your body belongs to you and private parts are private.",
+     "hi": "समझना कि तुम्हारा शरीर तुम्हारा है और निजी अंग निजी होते हैं।",
+     "hg": "Samajhna ki tumhari body tumhari hai aur private parts private hote hain."
+    },
+    {
+     "en": "Know which grown-ups to tell if something feels wrong.",
+     "hi": "जानना कि कुछ ग़लत लगे तो किन बड़ों को बताना है।",
+     "hg": "Jaanna ki kuch galat lage toh kin bade logon ko batana hai."
+    }
+   ]
+  },
+  {
+   "id": "d01-l02",
+   "domain": "d01",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 6,
+   "unesco": [
+    6
+   ],
+   "prereqs": [],
+   "interactive": "body_lab",
+   "refs": [
+    "unesco-itgse",
+    "who-sexual-health"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Outside and Inside: The Body Map",
+    "hi": "बाहर और अंदर: शरीर का नक्शा",
+    "hg": "Bahar aur Andar: Body ka Map"
+   },
+   "objectives": [
+    {
+     "en": "Name the main external and internal reproductive organs.",
+     "hi": "मुख्य बाहरी और अंदरूनी प्रजनन अंगों के नाम बताना।",
+     "hg": "Main external aur internal reproductive organs ke naam batana."
+    },
+    {
+     "en": "Tell the urethra, the vagina and the anus apart.",
+     "hi": "मूत्रमार्ग (urethra), योनि (vagina) और गुदा (anus) में फ़र्क़ समझना।",
+     "hg": "Urethra, vagina aur anus ka difference samajhna."
+    },
+    {
+     "en": "Explain why the urinary system is separate from the reproductive system.",
+     "hi": "समझाना कि मूत्र तंत्र और प्रजनन तंत्र अलग-अलग क्यों हैं।",
+     "hg": "Samjhana ki urinary system aur reproductive system alag kyun hain."
+    }
+   ]
+  },
+  {
+   "id": "d01-l03",
+   "domain": "d01",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    6
+   ],
+   "prereqs": [],
+   "interactive": "puberty_lab",
+   "refs": [
+    "unesco-itgse",
+    "nhm-rksk",
+    "who-sexual-health"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Hormones: The Body's Messaging System",
+    "hi": "हार्मोन: शरीर का मैसेजिंग सिस्टम",
+    "hg": "Hormones: Body ka Messaging System"
+   },
+   "objectives": [
+    {
+     "en": "Explain what hormones are and how the brain starts puberty.",
+     "hi": "समझाना कि हार्मोन क्या हैं और दिमाग़ प्यूबर्टी कैसे शुरू करता है।",
+     "hg": "Samjhana ki hormones kya hain aur brain puberty kaise start karta hai."
+    },
+    {
+     "en": "Link specific hormones to acne, body hair, voice change and breast or chest development.",
+     "hi": "मुँहासे, शरीर के बाल, आवाज़ में बदलाव और स्तन या छाती के विकास को उनके हार्मोन से जोड़ना।",
+     "hg": "Acne, body hair, voice change aur breast ya chest development ko unke hormones se connect karna."
+    },
+    {
+     "en": "Recognise that every body makes both testosterone and oestrogen.",
+     "hi": "पहचानना कि हर शरीर टेस्टोस्टेरोन और एस्ट्रोजन दोनों बनाता है।",
+     "hg": "Pehchanna ki har body testosterone aur oestrogen dono banati hai."
+    }
+   ]
+  },
+  {
+   "id": "d01-l04",
+   "domain": "d01",
+   "tracks": [
+    "C",
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    6,
+    8
+   ],
+   "prereqs": [
+    "d01-l03"
+   ],
+   "interactive": "period_lab",
+   "refs": [
+    "unesco-itgse",
+    "nhs-periods",
+    "who-fp"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Sperm, Eggs and How a Pregnancy Begins",
+    "hi": "शुक्राणु, अंडाणु और गर्भ की शुरुआत",
+    "hg": "Sperm, Eggs aur Pregnancy Kaise Start Hoti Hai"
+   },
+   "objectives": [
+    {
+     "en": "Describe how and where sperm and eggs are produced.",
+     "hi": "बताना कि शुक्राणु और अंडाणु कैसे और कहाँ बनते हैं।",
+     "hg": "Batana ki sperm aur eggs kaise aur kahan bante hain."
+    },
+    {
+     "en": "Explain ovulation and menstruation as two parts of one cycle.",
+     "hi": "समझाना कि ओव्यूलेशन और माहवारी एक ही चक्र के दो हिस्से हैं।",
+     "hg": "Samjhana ki ovulation aur periods ek hi cycle ke do parts hain."
+    },
+    {
+     "en": "Outline fertilisation, implantation and the start of pregnancy.",
+     "hi": "निषेचन, इम्प्लांटेशन और गर्भ की शुरुआत का क्रम बताना।",
+     "hg": "Fertilisation, implantation aur pregnancy ke start ka sequence batana."
+    }
+   ]
+  },
+  {
+   "id": "d01-l05",
+   "domain": "d01",
+   "tracks": [
+    "D",
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    6,
+    7
+   ],
+   "prereqs": [
+    "d01-l04"
+   ],
+   "interactive": "myth_buster",
+   "refs": [
+    "unesco-itgse",
+    "who-sexual-health",
+    "who-cervical"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "The Parts Textbooks Skip",
+    "hi": "वे अंग जो किताबें छोड़ देती हैं",
+    "hg": "Woh Parts Jo Textbooks Skip Kar Deti Hain"
+   },
+   "objectives": [
+    {
+     "en": "Describe the structure and role of the clitoris.",
+     "hi": "क्लिटोरिस की बनावट और काम बताना।",
+     "hg": "Clitoris ka structure aur role batana."
+    },
+    {
+     "en": "Explain what the hymen is and why it cannot show anyone's sexual history.",
+     "hi": "समझाना कि हाइमन क्या है और यह किसी के यौन इतिहास के बारे में कुछ क्यों नहीं बता सकता।",
+     "hg": "Samjhana ki hymen kya hai aur yeh kisi ki sexual history ke baare mein kuch kyun nahi bata sakta."
+    },
+    {
+     "en": "Identify the cervix, foreskin and prostate and what each one does.",
+     "hi": "सर्विक्स, फ़ोरस्किन और प्रोस्टेट को पहचानना और हर एक का काम जानना।",
+     "hg": "Cervix, foreskin aur prostate ko identify karna aur har ek ka kaam jaanna."
+    }
+   ]
+  },
+  {
+   "id": "d01-l06",
+   "domain": "d01",
+   "tracks": [
+    "C",
+    "D",
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    6,
+    5
+   ],
+   "prereqs": [
+    "d01-l03"
+   ],
+   "interactive": "ask",
+   "refs": [
+    "unesco-itgse",
+    "who-sexual-health",
+    "nhm-afhc"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Normal Is a Range",
+    "hi": "सामान्य का दायरा बहुत बड़ा है",
+    "hg": "Normal Ek Range Hai"
+   },
+   "objectives": [
+    {
+     "en": "Recognise common, harmless variations in bodies and genitals.",
+     "hi": "शरीर और जननांगों की आम, हानिरहित भिन्नताओं को पहचानना।",
+     "hg": "Body aur genitals ke common, harmless variations ko pehchanna."
+    },
+    {
+     "en": "Explain intersex variations accurately and respectfully.",
+     "hi": "इंटरसेक्स भिन्नताओं को सही और सम्मान के साथ समझाना।",
+     "hg": "Intersex variations ko accurately aur respect ke saath explain karna."
+    },
+    {
+     "en": "Identify the symptoms that need medical attention.",
+     "hi": "उन लक्षणों को पहचानना जिनके लिए डॉक्टर को दिखाना ज़रूरी है।",
+     "hg": "Un symptoms ko identify karna jinke liye doctor ko dikhana zaroori hai."
+    }
+   ]
+  },
+  {
+   "id": "d02-l01",
+   "domain": "d02",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 5,
+   "unesco": [
+    6
+   ],
+   "prereqs": [],
+   "interactive": "puberty_lab",
+   "refs": [
+    "unesco-itgse",
+    "nhm-rksk"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Puberty: What, Why and When",
+    "hi": "प्यूबर्टी: क्या, क्यों और कब",
+    "hg": "Puberty: Kya, Kyun aur Kab"
+   },
+   "objectives": [
+    {
+     "en": "Explain what puberty is and what starts it.",
+     "hi": "बताना कि प्यूबर्टी क्या है और यह किससे शुरू होती है।",
+     "hg": "Batana ki puberty kya hai aur yeh kis cheez se start hoti hai."
+    },
+    {
+     "en": "State the usual age ranges in which puberty begins.",
+     "hi": "बताना कि प्यूबर्टी आम तौर पर किस उम्र के बीच शुरू होती है।",
+     "hg": "Batana ki puberty usually kis age range mein start hoti hai."
+    },
+    {
+     "en": "Understand that starting earlier or later than friends is normal.",
+     "hi": "समझना कि दोस्तों से पहले या बाद में शुरू होना सामान्य है।",
+     "hg": "Samajhna ki friends se pehle ya baad mein start hona normal hai."
+    }
+   ]
+  },
+  {
+   "id": "d02-l02",
+   "domain": "d02",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 6,
+   "unesco": [
+    6,
+    5
+   ],
+   "prereqs": [
+    "d02-l01"
+   ],
+   "interactive": "puberty_lab",
+   "refs": [
+    "unesco-itgse",
+    "nhm-rksk"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Height, Hair, Sweat, Skin and Voice",
+    "hi": "लंबाई, बाल, पसीना, त्वचा और आवाज़",
+    "hg": "Height, Hair, Sweat, Skin aur Voice"
+   },
+   "objectives": [
+    {
+     "en": "Describe growth spurts, body odour, acne, body hair and voice change.",
+     "hi": "लंबाई का तेज़ी से बढ़ना, शरीर की गंध, मुँहासे, शरीर के बाल और आवाज़ के बदलाव को समझाना।",
+     "hg": "Growth spurts, body odour, acne, body hair aur voice change ko explain karna."
+    },
+    {
+     "en": "Use simple daily hygiene for sweat and skin.",
+     "hi": "पसीने और त्वचा के लिए रोज़ की आसान साफ़-सफ़ाई अपनाना।",
+     "hg": "Paseene aur skin ke liye simple daily hygiene follow karna."
+    },
+    {
+     "en": "Understand that removing body hair is a personal choice.",
+     "hi": "समझना कि शरीर के बाल हटाना अपनी मर्ज़ी की बात है।",
+     "hg": "Samajhna ki body hair remove karna apni choice hai."
+    }
+   ]
+  },
+  {
+   "id": "d02-l03",
+   "domain": "d02",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    6
+   ],
+   "prereqs": [
+    "d02-l01"
+   ],
+   "interactive": "period_lab",
+   "refs": [
+    "unesco-itgse",
+    "nhs-periods",
+    "nhm-rksk"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Periods, Breast Buds, Erections and Wet Dreams",
+    "hi": "पीरियड, ब्रेस्ट बड, इरेक्शन और स्वप्नदोष",
+    "hg": "Periods, Breast Buds, Erections aur Wet Dreams"
+   },
+   "objectives": [
+    {
+     "en": "Explain what a period is and which signs come before the first one.",
+     "hi": "बताना कि पीरियड क्या है और पहले पीरियड से पहले कौन-से संकेत दिखते हैं।",
+     "hg": "Batana ki period kya hai aur pehle period se pehle kaun se signs dikhte hain."
+    },
+    {
+     "en": "Describe breast development and the changes in genital appearance.",
+     "hi": "स्तनों के विकास और जननांगों के रूप में आने वाले बदलावों को समझाना।",
+     "hg": "Breast development aur genitals ke look mein aane wale changes ko explain karna."
+    },
+    {
+     "en": "Understand erections and wet dreams as normal, automatic body events.",
+     "hi": "समझना कि इरेक्शन और स्वप्नदोष शरीर की सामान्य, अपने आप होने वाली घटनाएँ हैं।",
+     "hg": "Samajhna ki erections aur wet dreams normal, automatic body events hain."
+    }
+   ]
+  },
+  {
+   "id": "d02-l04",
+   "domain": "d02",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    6,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "who-adolescent-mh",
+    "tele-manas",
+    "unesco-itgse"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Hormones, Mood and the Teenage Brain",
+    "hi": "हार्मोन, मूड और किशोर दिमाग़",
+    "hg": "Hormones, Mood aur Teenage Brain"
+   },
+   "objectives": [
+    {
+     "en": "Explain how hormones and brain development affect mood in puberty.",
+     "hi": "समझाना कि प्यूबर्टी में हार्मोन और दिमाग़ का विकास मूड पर कैसे असर डालते हैं।",
+     "hg": "Samjhana ki puberty mein hormones aur brain development mood par kaise effect daalte hain."
+    },
+    {
+     "en": "Describe why sleep timing shifts in the teenage years.",
+     "hi": "बताना कि किशोर उम्र में नींद का समय क्यों खिसक जाता है।",
+     "hg": "Batana ki teenage mein neend ki timing kyun shift ho jaati hai."
+    },
+    {
+     "en": "Tell ordinary mood swings apart from signs that need support.",
+     "hi": "आम मूड स्विंग और मदद की ज़रूरत वाले संकेतों में फ़र्क़ करना।",
+     "hg": "Normal mood swings aur support ki zaroorat wale signs mein difference karna."
+    }
+   ]
+  },
+  {
+   "id": "d02-l05",
+   "domain": "d02",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    1,
+    5,
+    7
+   ],
+   "prereqs": [
+    "d02-l04"
+   ],
+   "interactive": "communication",
+   "refs": [
+    "unesco-itgse",
+    "who-cse",
+    "who-adolescent-mh"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Crushes, Comparison and Peer Pressure",
+    "hi": "क्रश, तुलना और दोस्तों का दबाव",
+    "hg": "Crushes, Comparison aur Peer Pressure"
+   },
+   "objectives": [
+    {
+     "en": "Understand crushes and attraction as a normal part of development.",
+     "hi": "समझना कि क्रश और आकर्षण विकास का सामान्य हिस्सा हैं।",
+     "hg": "Samajhna ki crushes aur attraction development ka normal part hain."
+    },
+    {
+     "en": "Recognise social anxiety and body comparison, and ways to manage them.",
+     "hi": "सामाजिक घबराहट और शरीर की तुलना को पहचानना, और उन्हें सँभालने के तरीक़े जानना।",
+     "hg": "Social anxiety aur body comparison ko pehchanna, aur unhe manage karne ke tareeke jaanna."
+    },
+    {
+     "en": "Practise ways of saying no to peer pressure.",
+     "hi": "दोस्तों के दबाव को मना करने के तरीक़ों का अभ्यास करना।",
+     "hg": "Peer pressure ko no bolne ke tareekon ki practice karna."
+    }
+   ]
+  },
+  {
+   "id": "d02-l06",
+   "domain": "d02",
+   "tracks": [
+    "C",
+    "D",
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 7,
+   "unesco": [
+    6,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "ask",
+   "refs": [
+    "unesco-itgse",
+    "nhm-afhc",
+    "nhm-rksk"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Early, Late or Right on Time?",
+    "hi": "जल्दी, देर से या ठीक समय पर?",
+    "hg": "Early, Late ya Right on Time?"
+   },
+   "objectives": [
+    {
+     "en": "Define early (precocious) and delayed puberty.",
+     "hi": "जल्दी (प्रीकोशियस) और देर से आने वाली प्यूबर्टी की परिभाषा बताना।",
+     "hg": "Early (precocious) aur delayed puberty ko define karna."
+    },
+    {
+     "en": "Describe common causes and what a medical assessment involves.",
+     "hi": "आम कारण और मेडिकल जाँच में क्या-क्या होता है, यह बताना।",
+     "hg": "Common causes aur medical assessment mein kya-kya hota hai, yeh batana."
+    },
+    {
+     "en": "Correct common misconceptions about puberty timing and growth.",
+     "hi": "प्यूबर्टी के समय और बढ़त से जुड़ी आम ग़लतफ़हमियों को दूर करना।",
+     "hg": "Puberty ki timing aur growth se judi common galatfehmiyon ko correct karna."
+    }
+   ]
+  },
+  {
+   "id": "d03-l01",
+   "domain": "d03",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 6,
+   "unesco": [
+    6
+   ],
+   "prereqs": [],
+   "interactive": "period_lab",
+   "refs": [
+    "nhs-periods",
+    "unesco-itgse",
+    "nhm-rksk"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Periods 101: What Is Actually Happening",
+    "hi": "पीरियड्स 101: असल में होता क्या है",
+    "hg": "Periods 101: Actually ho kya raha hai"
+   },
+   "objectives": [
+    {
+     "en": "Explain what a period is and why the body has one.",
+     "hi": "समझा सकें कि पीरियड क्या है और शरीर में यह क्यों होता है।",
+     "hg": "Samjha sako ki period kya hai aur body mein yeh kyun hota hai."
+    },
+    {
+     "en": "Know what is normal for a first period and the early cycles.",
+     "hi": "जानें कि पहले पीरियड और शुरुआती चक्रों में क्या-क्या सामान्य है।",
+     "hg": "Jaano ki first period aur shuruaati cycles mein kya-kya normal hai."
+    },
+    {
+     "en": "Decide whom to tell and what to keep ready.",
+     "hi": "तय करें कि किसे बताना है और क्या तैयार रखना है।",
+     "hg": "Decide karo ki kisko batana hai aur kya ready rakhna hai."
+    }
+   ]
+  },
+  {
+   "id": "d03-l02",
+   "domain": "d03",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 6,
+   "unesco": [
+    5,
+    6
+   ],
+   "prereqs": [
+    "d03-l01"
+   ],
+   "interactive": null,
+   "refs": [
+    "nhs-periods",
+    "nhm-rksk",
+    "unesco-itgse"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Pads, Hygiene and a Normal School Day",
+    "hi": "पैड, सफ़ाई और स्कूल का आम दिन",
+    "hg": "Pads, Hygiene aur ek Normal School Day"
+   },
+   "objectives": [
+    {
+     "en": "Use, change and dispose of a pad correctly.",
+     "hi": "पैड सही तरीक़े से लगाना, बदलना और फेंकना सीखें।",
+     "hg": "Pad sahi tareeke se lagana, change karna aur dispose karna seekho."
+    },
+    {
+     "en": "Stay clean and comfortable without products you do not need.",
+     "hi": "ग़ैर-ज़रूरी प्रोडक्ट के बिना साफ़ और आराम से रहना जानें।",
+     "hg": "Bina faltu products ke clean aur comfortable rehna jaano."
+    },
+    {
+     "en": "Handle stains and support others kindly.",
+     "hi": "दाग़ लगने पर क्या करें और दूसरों का साथ कैसे दें, यह समझें।",
+     "hg": "Stain lage toh kya karna hai aur doosron ko support kaise karna hai, yeh samjho."
+    }
+   ]
+  },
+  {
+   "id": "d03-l03",
+   "domain": "d03",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    6,
+    8
+   ],
+   "prereqs": [],
+   "interactive": "period_lab",
+   "refs": [
+    "nhs-periods",
+    "who-fp",
+    "unesco-itgse"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "The Cycle Decoded: Four Phases, Four Hormones",
+    "hi": "चक्र की पूरी कहानी: चार चरण, चार हार्मोन",
+    "hg": "Cycle Decoded: Chaar Phases, Chaar Hormones"
+   },
+   "objectives": [
+    {
+     "en": "Name the four phases of the menstrual cycle in order.",
+     "hi": "मासिक चक्र के चारों चरण क्रम से बता सकें।",
+     "hg": "Menstrual cycle ke chaaron phases order mein bata sako."
+    },
+    {
+     "en": "Describe what FSH, LH, estrogen and progesterone each do.",
+     "hi": "समझा सकें कि FSH, LH, एस्ट्रोजन और प्रोजेस्टेरोन क्या-क्या करते हैं।",
+     "hg": "Samjha sako ki FSH, LH, estrogen aur progesterone kya-kya karte hain."
+    },
+    {
+     "en": "Explain why tracking helps your health but cannot be trusted to prevent pregnancy.",
+     "hi": "समझें कि ट्रैकिंग सेहत के लिए काम की है, पर गर्भ रोकने के लिए भरोसेमंद नहीं।",
+     "hg": "Samjho ki tracking health ke liye useful hai, par pregnancy rokne ke liye reliable nahi."
+    }
+   ]
+  },
+  {
+   "id": "d03-l04",
+   "domain": "d03",
+   "tracks": [
+    "C",
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    5,
+    8
+   ],
+   "prereqs": [
+    "d03-l03"
+   ],
+   "interactive": null,
+   "refs": [
+    "nhs-periods",
+    "who-adolescent-mh",
+    "tele-manas"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Cramps, PMS and Mood: What Helps",
+    "hi": "ऐंठन, PMS और मूड: क्या काम आता है",
+    "hg": "Cramps, PMS aur Mood: Kya Kaam Aata Hai"
+   },
+   "objectives": [
+    {
+     "en": "Explain why cramps happen.",
+     "hi": "समझा सकें कि ऐंठन क्यों होती है।",
+     "hg": "Samjha sako ki cramps kyun hote hain."
+    },
+    {
+     "en": "List practical things that ease period pain.",
+     "hi": "पीरियड के दर्द में आराम देने वाले व्यावहारिक उपाय गिना सकें।",
+     "hg": "Period pain mein aaram dene wale practical upaay gina sako."
+    },
+    {
+     "en": "Tell PMS from PMDD and know when to see a doctor.",
+     "hi": "PMS और PMDD का फ़र्क़ जानें और समझें कि डॉक्टर के पास कब जाना है।",
+     "hg": "PMS aur PMDD ka farak jaano aur samjho ki doctor ke paas kab jaana hai."
+    }
+   ]
+  },
+  {
+   "id": "d03-l05",
+   "domain": "d03",
+   "tracks": [
+    "D",
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    5,
+    8
+   ],
+   "prereqs": [],
+   "interactive": null,
+   "refs": [
+    "nhs-periods",
+    "nhs-tss",
+    "nhm-rksk"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Pads, Tampons, Cups: Choosing and Using Them Safely",
+    "hi": "पैड, टैम्पोन, कप: चुनना और सुरक्षित इस्तेमाल",
+    "hg": "Pads, Tampons, Cups: Choose Karna aur Safely Use Karna"
+   },
+   "objectives": [
+    {
+     "en": "Compare pads, cloth pads, tampons and menstrual cups.",
+     "hi": "पैड, कपड़े के पैड, टैम्पोन और मेंस्ट्रुअल कप की तुलना कर सकें।",
+     "hg": "Pads, cloth pads, tampons aur menstrual cups compare kar sako."
+    },
+    {
+     "en": "Use internal products safely.",
+     "hi": "शरीर के अंदर लगने वाले प्रोडक्ट सुरक्षित तरीक़े से इस्तेमाल करना जानें।",
+     "hg": "Body ke andar lagne wale products safely use karna jaano."
+    },
+    {
+     "en": "Recognise the warning signs of toxic shock syndrome.",
+     "hi": "टॉक्सिक शॉक सिंड्रोम के चेतावनी-संकेत पहचानें।",
+     "hg": "Toxic shock syndrome ke warning signs pehchaano."
+    }
+   ]
+  },
+  {
+   "id": "d03-l06",
+   "domain": "d03",
+   "tracks": [
+    "C",
+    "D",
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    8,
+    5
+   ],
+   "prereqs": [
+    "d03-l04"
+   ],
+   "interactive": "ask",
+   "refs": [
+    "nhs-periods",
+    "who-pcos",
+    "who-endometriosis",
+    "nhm-afhc"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "When a Period Needs a Doctor",
+    "hi": "जब पीरियड के लिए डॉक्टर की ज़रूरत हो",
+    "hg": "Jab Period ko Doctor ki Zaroorat Ho"
+   },
+   "objectives": [
+    {
+     "en": "List the signs that mean a period needs medical evaluation.",
+     "hi": "वे संकेत गिना सकें जिन पर पीरियड की डॉक्टरी जाँच ज़रूरी है।",
+     "hg": "Woh signs gina sako jin par period ka medical check-up zaroori hai."
+    },
+    {
+     "en": "Describe PCOS and endometriosis in plain words.",
+     "hi": "PCOS और एंडोमेट्रियोसिस को आसान शब्दों में समझा सकें।",
+     "hg": "PCOS aur endometriosis ko simple words mein samjha sako."
+    },
+    {
+     "en": "Prepare for a doctor's visit about periods.",
+     "hi": "पीरियड के बारे में डॉक्टर से मिलने की तैयारी कर सकें।",
+     "hg": "Periods ke baare mein doctor visit ki tayyari kar sako."
+    }
+   ]
+  },
+  {
+   "id": "d04-l01",
+   "domain": "d04",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 6,
+   "unesco": [
+    1,
+    7
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "unesco-itgse",
+    "who-cse",
+    "wcd-childline"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Crushes: When Someone Suddenly Feels Special",
+    "hi": "क्रश: जब कोई अचानक ख़ास लगने लगे",
+    "hg": "Crush: Jab Koi Achanak Special Lagne Lage"
+   },
+   "objectives": [
+    {
+     "en": "Explain what a crush is and why crushes appear while growing up.",
+     "hi": "समझा सकें कि क्रश क्या है और बड़े होते समय क्यों होता है।",
+     "hg": "Samjha sako ki crush kya hai aur bade hote time kyun hota hai."
+    },
+    {
+     "en": "Handle your own and other people's crush feelings with respect.",
+     "hi": "अपनी और दूसरों की क्रश वाली भावनाओं को इज़्ज़त के साथ संभालें।",
+     "hg": "Apni aur doosron ki crush wali feelings ko respect ke saath handle karo."
+    },
+    {
+     "en": "Recognise when 'special' attention from an older person is a warning sign.",
+     "hi": "पहचानें कि किसी बड़े का 'ख़ास' ध्यान कब ख़तरे का संकेत है।",
+     "hg": "Pehchaano ki kisi bade ki 'special' attention kab warning sign hai."
+    }
+   ]
+  },
+  {
+   "id": "d04-l02",
+   "domain": "d04",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 6,
+   "unesco": [
+    6
+   ],
+   "prereqs": [
+    "d04-l01"
+   ],
+   "interactive": "puberty_lab",
+   "refs": [
+    "unesco-itgse",
+    "nhm-rksk",
+    "who-sexual-health"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Body Surprises: Erections, Wet Dreams and Privacy",
+    "hi": "शरीर के अचानक बदलाव: इरेक्शन, स्वप्नदोष और निजता",
+    "hg": "Body Surprises: Erections, Wet Dreams aur Privacy"
+   },
+   "objectives": [
+    {
+     "en": "Explain erections and wet dreams as normal body events that cannot be controlled.",
+     "hi": "समझा सकें कि इरेक्शन और स्वप्नदोष शरीर की सामान्य घटनाएँ हैं जिन पर किसी का बस नहीं।",
+     "hg": "Samjha sako ki erections aur wet dreams normal body events hain jo control mein nahi hote."
+    },
+    {
+     "en": "Know that every kind of body has its own changes.",
+     "hi": "जानें कि हर तरह के शरीर में अपने बदलाव होते हैं।",
+     "hg": "Jaano ki har tarah ki body mein apne changes hote hain."
+    },
+    {
+     "en": "Understand privacy for yourself and for others.",
+     "hi": "अपनी और दूसरों की निजता (privacy) को समझें।",
+     "hg": "Apni aur doosron ki privacy ko samjho."
+    }
+   ]
+  },
+  {
+   "id": "d04-l03",
+   "domain": "d04",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    7,
+    6
+   ],
+   "prereqs": [],
+   "interactive": "ask",
+   "refs": [
+    "unesco-itgse",
+    "who-sexual-health",
+    "pocso-2012"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Sexual Feelings and Attraction, Decoded",
+    "hi": "यौन भावनाएँ और आकर्षण: पूरी समझ",
+    "hg": "Sexual Feelings aur Attraction, Decoded"
+   },
+   "objectives": [
+    {
+     "en": "Describe sexual feelings and arousal as normal parts of adolescent development.",
+     "hi": "समझा सकें कि यौन भावनाएँ और उत्तेजना किशोरावस्था के विकास का सामान्य हिस्सा हैं।",
+     "hg": "Samjha sako ki sexual feelings aur arousal adolescent development ka normal part hain."
+    },
+    {
+     "en": "Tell romantic attraction, sexual attraction and sexual orientation apart.",
+     "hi": "रोमांटिक आकर्षण, यौन आकर्षण और यौन रुझान का फ़र्क़ बता सकें।",
+     "hg": "Romantic attraction, sexual attraction aur sexual orientation ka farak bata sako."
+    },
+    {
+     "en": "Explain why having a feeling is different from acting on it.",
+     "hi": "समझें कि किसी भावना का होना और उस पर अमल करना अलग-अलग बातें हैं।",
+     "hg": "Samjho ki koi feeling hona aur us par act karna alag-alag baatein hain."
+    }
+   ]
+  },
+  {
+   "id": "d04-l04",
+   "domain": "d04",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    7,
+    5
+   ],
+   "prereqs": [
+    "d04-l03"
+   ],
+   "interactive": "myth_buster",
+   "refs": [
+    "who-sexual-health",
+    "unesco-itgse",
+    "nhm-afhc",
+    "tele-manas"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Masturbation: Facts, Not Fear",
+    "hi": "हस्तमैथुन: डर नहीं, तथ्य",
+    "hg": "Masturbation: Darr Nahi, Facts"
+   },
+   "objectives": [
+    {
+     "en": "State what masturbation is and that doing it or not doing it are both normal.",
+     "hi": "बता सकें कि हस्तमैथुन क्या है और इसे करना या न करना, दोनों सामान्य हैं।",
+     "hg": "Bata sako ki masturbation kya hai aur ise karna ya na karna, dono normal hain."
+    },
+    {
+     "en": "Correct the myths about weakness, semen loss and infertility.",
+     "hi": "कमज़ोरी, वीर्य-नाश और बाँझपन से जुड़े मिथक सुधार सकें।",
+     "hg": "Weakness, semen loss aur infertility wale myths correct kar sako."
+    },
+    {
+     "en": "Identify when a habit deserves attention and where to get support.",
+     "hi": "पहचानें कि कोई आदत कब ध्यान माँगती है और मदद कहाँ मिलेगी।",
+     "hg": "Pehchaano ki koi habit kab attention maangti hai aur support kahan milega."
+    }
+   ]
+  },
+  {
+   "id": "d04-l05",
+   "domain": "d04",
+   "tracks": [
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    7,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "unesco-itgse",
+    "nhm-afhc",
+    "tele-manas",
+    "pocso-2012",
+    "who-adolescent-mh"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Curiosity, Choices and Habits: A Reality Check",
+    "hi": "जिज्ञासा, फ़ैसले और आदतें: हक़ीक़त की पड़ताल",
+    "hg": "Curiosity, Choices aur Habits: Reality Check"
+   },
+   "objectives": [
+    {
+     "en": "Find reliable sources for questions about sex and the body.",
+     "hi": "सेक्स और शरीर से जुड़े सवालों के लिए भरोसेमंद स्रोत ढूँढ़ सकें।",
+     "hg": "Sex aur body ke sawaalon ke liye reliable sources dhoondh sako."
+    },
+    {
+     "en": "Use clear questions to make decisions without pressure.",
+     "hi": "बिना दबाव के फ़ैसले लेने के लिए साफ़ सवालों का इस्तेमाल कर सकें।",
+     "hg": "Bina pressure ke decisions lene ke liye clear sawaal use kar sako."
+    },
+    {
+     "en": "Tell a healthy habit from a compulsive one and know where support is.",
+     "hi": "सेहतमंद आदत और बेक़ाबू आदत का फ़र्क़ समझें और जानें कि मदद कहाँ है।",
+     "hg": "Healthy habit aur compulsive habit ka farak samjho aur jaano ki support kahan hai."
+    }
+   ]
+  },
+  {
+   "id": "d04-l06",
+   "domain": "d04",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    7,
+    8
+   ],
+   "prereqs": [],
+   "interactive": "ask",
+   "refs": [
+    "who-sexual-health",
+    "nhs-ed"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Adult Sexual Response: Arousal, Orgasm and Libido",
+    "hi": "वयस्क यौन प्रतिक्रिया: उत्तेजना, ऑर्गैज़्म और यौन इच्छा",
+    "hg": "Adult Sexual Response: Arousal, Orgasm aur Libido"
+   },
+   "objectives": [
+    {
+     "en": "Describe the stages of sexual response and what happens in the body.",
+     "hi": "यौन प्रतिक्रिया के चरण और शरीर में होने वाले बदलाव बता सकें।",
+     "hg": "Sexual response ke stages aur body mein hone wale changes bata sako."
+    },
+    {
+     "en": "Explain why libido differs between people and across life.",
+     "hi": "समझा सकें कि यौन इच्छा अलग-अलग लोगों में और जीवन के अलग दौर में क्यों बदलती है।",
+     "hg": "Samjha sako ki libido alag-alag logon mein aur life ke alag phases mein kyun badalti hai."
+    },
+    {
+     "en": "Recognise common sexual concerns and where to find qualified help.",
+     "hi": "आम यौन समस्याओं को पहचानें और जानें कि योग्य मदद कहाँ मिलती है।",
+     "hg": "Common sexual concerns pehchaano aur jaano ki qualified help kahan milti hai."
+    }
+   ]
+  },
+  {
+   "id": "d04-l07",
+   "domain": "d04",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    7,
+    8
+   ],
+   "prereqs": [],
+   "interactive": "communication",
+   "refs": [
+    "who-sexual-health",
+    "nhs-ejaculation",
+    "nhs-ed"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Pleasure, Performance and Pressure",
+    "hi": "आनंद, परफ़ॉर्मेंस और दबाव",
+    "hg": "Pleasure, Performance aur Pressure"
+   },
+   "objectives": [
+    {
+     "en": "Explain what the orgasm gap is and why it exists.",
+     "hi": "समझा सकें कि ऑर्गैज़्म गैप क्या है और यह क्यों होता है।",
+     "hg": "Samjha sako ki orgasm gap kya hai aur yeh kyun hota hai."
+    },
+    {
+     "en": "Recognise performance anxiety, premature ejaculation and delayed ejaculation as common, treatable concerns.",
+     "hi": "पहचान सकें कि परफ़ॉर्मेंस की घबराहट, शीघ्रपतन और देर से स्खलन आम समस्याएँ हैं जिनका इलाज हो सकता है।",
+     "hg": "Pehchaan sako ki performance anxiety, premature ejaculation aur delayed ejaculation common concerns hain jinka treatment ho sakta hai."
+    },
+    {
+     "en": "Plan how to talk with a partner, and know when to see a doctor or sex therapist.",
+     "hi": "तय कर सकें कि साथी से बात कैसे करनी है, और जानें कि डॉक्टर या सेक्स थेरेपिस्ट से कब मिलना चाहिए।",
+     "hg": "Plan kar sako ki partner se baat kaise karni hai, aur jaano ki doctor ya sex therapist se kab milna chahiye."
+    }
+   ]
+  },
+  {
+   "id": "d05-l01",
+   "domain": "d05",
+   "tracks": [
+    "A"
+   ],
+   "difficulty": 1,
+   "minutes": 4,
+   "unesco": [
+    4,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "unesco-itgse",
+    "wcd-childline"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "My Body Belongs to Me",
+    "hi": "मेरा शरीर मेरा अपना है",
+    "hg": "Meri Body Meri Apni Hai"
+   },
+   "objectives": [
+    {
+     "en": "Say that my body belongs to me.",
+     "hi": "कह पाना कि मेरा शरीर मेरा है।",
+     "hg": "Bol paana ki meri body meri hai."
+    },
+    {
+     "en": "Ask before touching others, and stop when they say no.",
+     "hi": "दूसरों को छूने से पहले पूछना और 'ना' सुनते ही रुक जाना।",
+     "hg": "Doosron ko touch karne se pehle poochna aur 'no' sunte hi ruk jaana."
+    },
+    {
+     "en": "Name grown-ups I can tell when something feels wrong.",
+     "hi": "उन बड़ों के नाम बता पाना जिन्हें मैं कुछ ग़लत लगने पर बता सकता/सकती हूँ।",
+     "hg": "Un bade logon ke naam bata paana jinhe main kuch galat lagne par bata sakta/sakti hoon."
+    }
+   ]
+  },
+  {
+   "id": "d05-l02",
+   "domain": "d05",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 6,
+   "unesco": [
+    4,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "consent_sim",
+   "refs": [
+    "unesco-itgse",
+    "wcd-childline"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Boundaries, Permission and the Power of No",
+    "hi": "सीमाएँ, इजाज़त और 'ना' की ताक़त",
+    "hg": "Boundaries, Permission aur 'No' ki Power"
+   },
+   "objectives": [
+    {
+     "en": "Explain what a personal boundary is, for your body, your things and your feelings.",
+     "hi": "समझा पाना कि शरीर, सामान और भावनाओं के लिए निजी सीमा क्या होती है।",
+     "hg": "Samjha paana ki body, saamaan aur feelings ke liye personal boundary kya hoti hai."
+    },
+    {
+     "en": "Tell a real yes apart from a pressured or unsure one.",
+     "hi": "असली 'हाँ' और दबाव वाली या अधूरी 'हाँ' में फ़र्क़ कर पाना।",
+     "hg": "Real 'yes' aur pressure wali ya unsure 'yes' mein fark kar paana."
+    },
+    {
+     "en": "Know what to do when someone uses tricks, gifts or secrets to cross your boundary.",
+     "hi": "जानना कि जब कोई चालाकी, तोहफ़ों या राज़ के सहारे तुम्हारी सीमा लाँघे तो क्या करना है।",
+     "hg": "Jaanna ki jab koi tricks, gifts ya secrets se tumhari boundary cross kare toh kya karna hai."
+    }
+   ]
+  },
+  {
+   "id": "d05-l03",
+   "domain": "d05",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    4,
+    5,
+    7
+   ],
+   "prereqs": [],
+   "interactive": "consent_sim",
+   "refs": [
+    "unesco-itgse",
+    "who-cse",
+    "pocso-2012"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Consent Decoded: What a Real Yes Looks Like",
+    "hi": "सहमति का असली मतलब: सच्ची 'हाँ' कैसी होती है",
+    "hg": "Consent Decoded: Real 'Yes' Kaisi Dikhti Hai"
+   },
+   "objectives": [
+    {
+     "en": "List the features that make agreement real consent.",
+     "hi": "वे बातें गिना पाना जो किसी रज़ामंदी को असली सहमति बनाती हैं।",
+     "hg": "Woh features gina paana jo kisi agreement ko real consent banate hain."
+    },
+    {
+     "en": "Recognise pressure, guilt-tripping and coercion, and respond respectfully to a no.",
+     "hi": "दबाव, अपराध-बोध कराने और ज़बरदस्ती को पहचानना, और 'ना' का सम्मान से जवाब देना।",
+     "hg": "Pressure, guilt-tripping aur coercion ko pehchanna, aur 'no' ka respect se jawab dena."
+    },
+    {
+     "en": "State what Indian law says about sexual activity and people under 18.",
+     "hi": "बता पाना कि 18 से कम उम्र और यौन गतिविधि के बारे में भारतीय क़ानून क्या कहता है।",
+     "hg": "Bata paana ki 18 se kam umar aur sexual activity ke baare mein Indian law kya kehta hai."
+    }
+   ]
+  },
+  {
+   "id": "d05-l04",
+   "domain": "d05",
+   "tracks": [
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    4,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "consent_sim",
+   "refs": [
+    "unesco-itgse",
+    "pocso-2012",
+    "bns-2023",
+    "cybercrime-portal"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Pressure, Power and the Law",
+    "hi": "दबाव, ताक़त और क़ानून",
+    "hg": "Pressure, Power aur Law"
+   },
+   "objectives": [
+    {
+     "en": "Explain how a power imbalance affects a person's freedom to refuse.",
+     "hi": "समझा पाना कि ताक़त का असंतुलन किसी के मना करने की आज़ादी पर कैसे असर डालता है।",
+     "hg": "Samjha paana ki power imbalance kisi ke mana karne ki freedom par kaise asar daalta hai."
+    },
+    {
+     "en": "Spot common manipulation tactics and the effect of alcohol or drugs on consent.",
+     "hi": "चालाकी के आम तरीक़े और सहमति पर शराब या नशे का असर पहचान पाना।",
+     "hg": "Common manipulation tactics aur consent par alcohol ya drugs ka asar pehchaan paana."
+    },
+    {
+     "en": "Describe what Indian law says about under-18s, private images and harassment.",
+     "hi": "बता पाना कि 18 से कम उम्र, निजी तस्वीरों और उत्पीड़न के बारे में भारतीय क़ानून क्या कहता है।",
+     "hg": "Bata paana ki under-18, private images aur harassment ke baare mein Indian law kya kehta hai."
+    }
+   ]
+  },
+  {
+   "id": "d05-l05",
+   "domain": "d05",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    1,
+    4,
+    7
+   ],
+   "prereqs": [],
+   "interactive": "communication",
+   "refs": [
+    "unesco-itgse",
+    "who-sexual-health",
+    "who-vaw",
+    "bns-2023"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Consent Between Adults: Partners, Marriage and Alcohol",
+    "hi": "वयस्कों के बीच सहमति: पार्टनर, शादी और शराब",
+    "hg": "Adults ke Beech Consent: Partners, Shaadi aur Alcohol"
+   },
+   "objectives": [
+    {
+     "en": "Explain why consent is needed each time, including in long-term relationships and marriage.",
+     "hi": "समझा पाना कि सहमति हर बार क्यों ज़रूरी है, लंबे रिश्तों और शादी में भी।",
+     "hg": "Samjha paana ki consent har baar kyun zaroori hai, long-term relationships aur shaadi mein bhi."
+    },
+    {
+     "en": "Use plain, practical ways to ask, check in and stop.",
+     "hi": "पूछने, बीच में हाल जानने और रुकने के सीधे, व्यावहारिक तरीक़े अपनाना।",
+     "hg": "Poochne, check-in karne aur rukne ke seedhe, practical tareeke use karna."
+    },
+    {
+     "en": "Describe how intoxication affects capacity, and where Indian law currently stands on marriage and consent.",
+     "hi": "बता पाना कि नशा फ़ैसला लेने की क्षमता पर कैसे असर डालता है, और शादी व सहमति पर भारतीय क़ानून अभी कहाँ खड़ा है।",
+     "hg": "Bata paana ki intoxication capacity par kaise asar daalta hai, aur shaadi aur consent par Indian law abhi kahan khada hai."
+    }
+   ]
+  },
+  {
+   "id": "d05-l06",
+   "domain": "d05",
+   "tracks": [
+    "C",
+    "D",
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    4,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "who-vaw",
+    "who-pep",
+    "who-ec",
+    "pocso-2012",
+    "wcd-childline",
+    "mha-erss"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "When Consent Is Violated: Believe, Support, Report",
+    "hi": "जब सहमति तोड़ी जाए: यक़ीन करें, साथ दें, शिकायत करें",
+    "hg": "Jab Consent Toda Jaaye: Believe, Support, Report"
+   },
+   "objectives": [
+    {
+     "en": "Describe sexual harassment and sexual assault in plain words, and say who is responsible.",
+     "hi": "यौन उत्पीड़न और यौन हमले को सीधे शब्दों में बता पाना, और यह कि ज़िम्मेदार कौन है।",
+     "hg": "Sexual harassment aur sexual assault ko seedhe words mein bata paana, aur yeh ki zimmedar kaun hai."
+    },
+    {
+     "en": "Respond helpfully when someone tells you they were harmed.",
+     "hi": "जब कोई बताए कि उसके साथ ग़लत हुआ है, तो मददगार ढंग से जवाब देना।",
+     "hg": "Jab koi bataye ki uske saath galat hua hai, toh helpful tareeke se respond karna."
+    },
+    {
+     "en": "Know where to get urgent help in India and what the limits of secrecy are.",
+     "hi": "जानना कि भारत में तुरंत मदद कहाँ मिलती है और गोपनीयता की सीमाएँ क्या हैं।",
+     "hg": "Jaanna ki India mein urgent help kahan milti hai aur secrecy ki limits kya hain."
+    }
+   ]
+  },
+  {
+   "id": "d06-l01",
+   "domain": "d06",
+   "tracks": [
+    "A"
+   ],
+   "difficulty": 1,
+   "minutes": 3,
+   "unesco": [
+    1
+   ],
+   "prereqs": [],
+   "interactive": null,
+   "refs": [
+    "unesco-itgse"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "How to Be a Good Friend",
+    "hi": "अच्छा दोस्त कैसे बनें",
+    "hg": "Achha Dost Kaise Banein"
+   },
+   "objectives": [
+    {
+     "en": "Say what a kind friend does.",
+     "hi": "बता सको कि अच्छा दोस्त क्या-क्या करता है।",
+     "hg": "Bata sako ki ek achha dost kya-kya karta hai."
+    },
+    {
+     "en": "Know how to say sorry when you hurt someone.",
+     "hi": "जान सको कि किसी को दुख पहुँचे तो सॉरी कैसे कहते हैं।",
+     "hg": "Jaan sako ki kisi ko hurt ho jaye toh sorry kaise bolte hain."
+    },
+    {
+     "en": "Know that everyone has personal space.",
+     "hi": "समझ सको कि हर किसी की अपनी जगह (personal space) होती है।",
+     "hg": "Samajh sako ki har kisi ka apna personal space hota hai."
+    }
+   ]
+  },
+  {
+   "id": "d06-l02",
+   "domain": "d06",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 6,
+   "unesco": [
+    1,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "communication",
+   "refs": [
+    "unesco-itgse",
+    "who-cse",
+    "wcd-childline"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Friends, Crushes and Saying No",
+    "hi": "दोस्त, क्रश और ना कहना",
+    "hg": "Dost, Crush aur No Bolna"
+   },
+   "objectives": [
+    {
+     "en": "Tell the difference between a friendship that feels good and one that keeps hurting.",
+     "hi": "फ़र्क़ पहचान सको कि कौन-सी दोस्ती अच्छा महसूस कराती है और कौन-सी बार-बार दुख देती है।",
+     "hg": "Farq pehchaan sako ki kaunsi dosti achha feel karati hai aur kaunsi baar-baar hurt karti hai."
+    },
+    {
+     "en": "Understand that a crush is a normal feeling, not a problem to fix.",
+     "hi": "समझ सको कि क्रश एक सामान्य भावना है, कोई समस्या नहीं जिसे ठीक करना पड़े।",
+     "hg": "Samajh sako ki crush ek normal feeling hai, koi problem nahi jise fix karna pade."
+    },
+    {
+     "en": "Use at least one clear way to say no to peer pressure.",
+     "hi": "दोस्तों के दबाव को ना कहने का कम से कम एक साफ़ तरीक़ा इस्तेमाल कर सको।",
+     "hg": "Peer pressure ko no bolne ka kam se kam ek clear tareeka use kar sako."
+    }
+   ]
+  },
+  {
+   "id": "d06-l03",
+   "domain": "d06",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    1,
+    7
+   ],
+   "prereqs": [],
+   "interactive": "relationship_radar",
+   "refs": [
+    "unesco-itgse",
+    "who-cse",
+    "pocso-2012"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Attraction, Respect and Boundaries",
+    "hi": "आकर्षण, सम्मान और बाउंड्री",
+    "hg": "Attraction, Respect aur Boundaries"
+   },
+   "objectives": [
+    {
+     "en": "Describe attraction as a normal part of growing up that does not have to be acted on.",
+     "hi": "समझा सको कि आकर्षण बड़े होने का सामान्य हिस्सा है और उस पर कुछ करना ज़रूरी नहीं।",
+     "hg": "Samjha sako ki attraction bade hone ka normal hissa hai aur us par kuch karna zaroori nahi."
+    },
+    {
+     "en": "Name the core ingredients of a healthy relationship: respect, trust, honest communication and equality.",
+     "hi": "अच्छे रिश्ते की बुनियादी चीज़ें गिना सको: सम्मान, भरोसा, ईमानदार बातचीत और बराबरी।",
+     "hg": "Healthy relationship ke core ingredients gina sako: respect, trust, honest communication aur equality."
+    },
+    {
+     "en": "Set and respect boundaries, including digital ones.",
+     "hi": "बाउंड्री तय कर सको और दूसरों की बाउंड्री का सम्मान कर सको, डिजिटल बाउंड्री भी।",
+     "hg": "Boundaries set kar sako aur doosron ki boundaries respect kar sako, digital wali bhi."
+    }
+   ]
+  },
+  {
+   "id": "d06-l04",
+   "domain": "d06",
+   "tracks": [
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    1,
+    4
+   ],
+   "prereqs": [],
+   "interactive": "relationship_radar",
+   "refs": [
+    "who-vaw",
+    "unesco-itgse",
+    "pocso-2012",
+    "wcd-childline"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Red Flags: Spotting Unhealthy Patterns",
+    "hi": "रेड फ़्लैग: ग़लत पैटर्न पहचानना",
+    "hg": "Red Flags: Unhealthy Patterns Pehchanna"
+   },
+   "objectives": [
+    {
+     "en": "Recognise love bombing, gaslighting, possessiveness and control as patterns that build over time.",
+     "hi": "लव बॉम्बिंग, गैसलाइटिंग, पज़ेसिवनेस और कंट्रोल को समय के साथ बनने वाले पैटर्न के रूप में पहचान सको।",
+     "hg": "Love bombing, gaslighting, possessiveness aur control ko time ke saath banne wale patterns ki tarah pehchaan sako."
+    },
+    {
+     "en": "Distinguish emotional abuse, physical abuse and sexual coercion, and understand that none of them is the fault of the person targeted.",
+     "hi": "भावनात्मक दुर्व्यवहार, शारीरिक हिंसा और यौन दबाव में फ़र्क़ कर सको, और समझ सको कि इनमें से किसी में भी झेलने वाले की गलती नहीं होती।",
+     "hg": "Emotional abuse, physical abuse aur sexual coercion mein farq kar sako, aur samajh sako ki inme se kisi mein bhi jhelne wale ki galti nahi hoti."
+    },
+    {
+     "en": "Know safe first steps for yourself or a friend.",
+     "hi": "अपने लिए या किसी दोस्त के लिए सुरक्षित शुरुआती क़दम जान सको।",
+     "hg": "Apne liye ya kisi dost ke liye safe first steps jaan sako."
+    }
+   ]
+  },
+  {
+   "id": "d06-l05",
+   "domain": "d06",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    1,
+    2,
+    4
+   ],
+   "prereqs": [],
+   "interactive": "communication",
+   "refs": [
+    "unesco-itgse",
+    "who-vaw",
+    "bns-2023",
+    "who-sexual-health"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Adult Relationships: Closeness, Conflict and Commitment",
+    "hi": "वयस्क रिश्ते: नज़दीकी, टकराव और कमिटमेंट",
+    "hg": "Adult Relationships: Closeness, Conflict aur Commitment"
+   },
+   "objectives": [
+    {
+     "en": "Explain what emotional intimacy is and how it is built.",
+     "hi": "समझा सको कि भावनात्मक नज़दीकी क्या है और कैसे बनती है।",
+     "hg": "Samjha sako ki emotional intimacy kya hai aur kaise banti hai."
+    },
+    {
+     "en": "Use basic conflict-resolution tools without contempt, threats or stonewalling.",
+     "hi": "तिरस्कार, धमकी या चुप्पी की दीवार के बिना टकराव सुलझाने के बुनियादी तरीक़े इस्तेमाल कर सको।",
+     "hg": "Contempt, dhamki ya stonewalling ke bina conflict resolve karne ke basic tools use kar sako."
+    },
+    {
+     "en": "Understand that consent stays necessary inside marriage and know where to seek help.",
+     "hi": "समझ सको कि शादी के अंदर भी सहमति ज़रूरी रहती है और जान सको कि मदद कहाँ मिलेगी।",
+     "hg": "Samajh sako ki shaadi ke andar bhi consent zaroori rehta hai aur jaan sako ki help kahan milegi."
+    }
+   ]
+  },
+  {
+   "id": "d06-l06",
+   "domain": "d06",
+   "tracks": [
+    "C",
+    "D",
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    1,
+    5
+   ],
+   "prereqs": [
+    "d06-l03"
+   ],
+   "interactive": "support_circle",
+   "refs": [
+    "unesco-itgse",
+    "who-adolescent-mh",
+    "tele-manas",
+    "cybercrime-portal"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Rejection, Breakups and Self-Worth",
+    "hi": "रिजेक्शन, ब्रेकअप और आत्म-सम्मान",
+    "hg": "Rejection, Breakups aur Self-Worth"
+   },
+   "objectives": [
+    {
+     "en": "Respond to rejection respectfully, whether you are giving it or receiving it.",
+     "hi": "रिजेक्शन को सम्मान के साथ सँभाल सको, चाहे तुम मना कर रहे हो या तुम्हें मना किया गया हो।",
+     "hg": "Rejection ko respect ke saath handle kar sako, chahe tum mana kar rahe ho ya tumhe mana kiya gaya ho."
+    },
+    {
+     "en": "Describe healthy ways to cope with a breakup.",
+     "hi": "ब्रेकअप से उबरने के सही तरीक़े बता सको।",
+     "hg": "Breakup se cope karne ke healthy tareeke bata sako."
+    },
+    {
+     "en": "Recognise when low mood needs support and where to find it.",
+     "hi": "पहचान सको कि उदासी को कब मदद की ज़रूरत है और वो मदद कहाँ मिलेगी।",
+     "hg": "Pehchaan sako ki low mood ko kab support chahiye aur woh kahan milega."
+    }
+   ]
+  },
+  {
+   "id": "d06-l07",
+   "domain": "d06",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    1,
+    4,
+    8
+   ],
+   "prereqs": [],
+   "interactive": "relationship_radar",
+   "refs": [
+    "unesco-itgse",
+    "who-sti",
+    "who-ec",
+    "who-pep",
+    "cybercrime-portal",
+    "bns-2023"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Dating Apps, Hookups and Honesty",
+    "hi": "डेटिंग ऐप, हुकअप और ईमानदारी",
+    "hg": "Dating Apps, Hookups aur Honesty"
+   },
+   "objectives": [
+    {
+     "en": "Plan a first meeting with someone from an app in a way that keeps you safe.",
+     "hi": "ऐप पर मिले किसी व्यक्ति से पहली मुलाक़ात ऐसे तय कर सकें कि आप सुरक्षित रहें।",
+     "hg": "App pe mile kisi insaan se first meeting aise plan kar sako ki tum safe raho."
+    },
+    {
+     "en": "Spot catfishing and romance scams before they cost you money or safety.",
+     "hi": "कैटफ़िशिंग और रोमांस स्कैम को पैसे या सुरक्षा गँवाने से पहले पहचान सकें।",
+     "hg": "Catfishing aur romance scams ko paise ya safety khone se pehle pehchaan sako."
+    },
+    {
+     "en": "Explain the consent, STI and pregnancy realities of casual sex, and why honesty matters in casual, committed and live-in relationships.",
+     "hi": "कैज़ुअल सेक्स में सहमति, एसटीआई और गर्भ की सच्चाइयाँ समझा सकें, और यह भी कि कैज़ुअल, पक्के और लिव-इन रिश्तों में ईमानदारी क्यों ज़रूरी है।",
+     "hg": "Casual sex mein consent, STI aur pregnancy ki realities samjha sako, aur yeh bhi ki casual, committed aur live-in relationships mein honesty kyun zaroori hai."
+    }
+   ]
+  },
+  {
+   "id": "d07-l01",
+   "domain": "d07",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 1,
+   "minutes": 6,
+   "unesco": [
+    8
+   ],
+   "prereqs": [],
+   "interactive": "myth_buster",
+   "refs": [
+    "who-fp",
+    "unesco-itgse",
+    "pocso-2012",
+    "nhm-afhc"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "How Pregnancy Happens and How It Is Prevented",
+    "hi": "गर्भ कैसे ठहरता है और उससे बचाव कैसे होता है",
+    "hg": "Pregnancy Kaise Hoti Hai aur Kaise Roki Jati Hai"
+   },
+   "objectives": [
+    {
+     "en": "Explain in outline how a pregnancy begins.",
+     "hi": "मोटे तौर पर समझा सको कि गर्भ कैसे ठहरता है।",
+     "hg": "Outline mein samjha sako ki pregnancy kaise shuru hoti hai."
+    },
+    {
+     "en": "Know that reliable methods of contraception exist and that delaying sex is a valid choice.",
+     "hi": "जान सको कि गर्भनिरोध के भरोसेमंद तरीक़े मौजूद हैं और सेक्स को टालना एक जायज़ फ़ैसला है।",
+     "hg": "Jaan sako ki contraception ke reliable methods exist karte hain aur sex ko delay karna ek valid choice hai."
+    },
+    {
+     "en": "Name trustworthy places to get information and help.",
+     "hi": "जानकारी और मदद के भरोसेमंद ठिकाने बता सको।",
+     "hg": "Information aur help ke trustworthy sources bata sako."
+    }
+   ]
+  },
+  {
+   "id": "d07-l02",
+   "domain": "d07",
+   "tracks": [
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    8
+   ],
+   "prereqs": [],
+   "interactive": "protection_lab",
+   "refs": [
+    "who-fp",
+    "who-ec",
+    "who-pep",
+    "who-sti"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Condoms: External, Internal and What Can Go Wrong",
+    "hi": "कंडोम: एक्सटर्नल, इंटरनल और क्या गड़बड़ हो सकती है",
+    "hg": "Condoms: External, Internal aur Kya Galat Ho Sakta Hai"
+   },
+   "objectives": [
+    {
+     "en": "Explain how external and internal condoms work and how effective they are.",
+     "hi": "समझा सको कि एक्सटर्नल और इंटरनल कंडोम कैसे काम करते हैं और कितने असरदार हैं।",
+     "hg": "Samjha sako ki external aur internal condoms kaise kaam karte hain aur kitne effective hain."
+    },
+    {
+     "en": "List the common mistakes that make condoms fail.",
+     "hi": "वो आम गलतियाँ गिना सको जिनसे कंडोम फ़ेल होते हैं।",
+     "hg": "Woh common mistakes gina sako jinse condoms fail hote hain."
+    },
+    {
+     "en": "Know the time-sensitive steps after a condom breaks or is not used.",
+     "hi": "जान सको कि कंडोम फटने या इस्तेमाल न होने के बाद कौन-से क़दम समय रहते उठाने होते हैं।",
+     "hg": "Jaan sako ki condom phatne ya use na hone ke baad kaunse time-sensitive steps lene hote hain."
+    }
+   ]
+  },
+  {
+   "id": "d07-l03",
+   "domain": "d07",
+   "tracks": [
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 9,
+   "unesco": [
+    8
+   ],
+   "prereqs": [
+    "d07-l02"
+   ],
+   "interactive": "protection_lab",
+   "refs": [
+    "who-fp",
+    "who-ec",
+    "who-abortion",
+    "pocso-2012"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Pills, Injections, IUDs, Implants and the Emergency Pill",
+    "hi": "गोलियाँ, इंजेक्शन, IUD, इम्प्लांट और इमरजेंसी पिल",
+    "hg": "Pills, Injections, IUDs, Implants aur Emergency Pill"
+   },
+   "objectives": [
+    {
+     "en": "Explain the difference between typical use and perfect use.",
+     "hi": "टिपिकल यूज़ और परफ़ेक्ट यूज़ का फ़र्क़ समझा सको।",
+     "hg": "Typical use aur perfect use ka farq samjha sako."
+    },
+    {
+     "en": "Compare pills, injectables, IUDs and implants in outline.",
+     "hi": "गोलियों, इंजेक्शन, IUD और इम्प्लांट की मोटे तौर पर तुलना कर सको।",
+     "hg": "Pills, injectables, IUDs aur implants ko outline mein compare kar sako."
+    },
+    {
+     "en": "Distinguish emergency contraception from abortion and understand the legal position of under-18s.",
+     "hi": "इमरजेंसी गर्भनिरोधक और गर्भपात में फ़र्क़ कर सको और 18 से कम उम्र वालों की क़ानूनी स्थिति समझ सको।",
+     "hg": "Emergency contraception aur abortion mein farq kar sako aur under-18 ki legal position samajh sako."
+    }
+   ]
+  },
+  {
+   "id": "d07-l04",
+   "domain": "d07",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 9,
+   "unesco": [
+    8
+   ],
+   "prereqs": [],
+   "interactive": "protection_lab",
+   "refs": [
+    "who-fp",
+    "who-sti",
+    "who-sexual-health"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Choosing a Method: The Honest Comparison",
+    "hi": "तरीक़ा चुनना: ईमानदार तुलना",
+    "hg": "Method Choose Karna: Honest Comparison"
+   },
+   "objectives": [
+    {
+     "en": "Compare contraceptive methods using typical-use and perfect-use figures.",
+     "hi": "टिपिकल यूज़ और परफ़ेक्ट यूज़ के आँकड़ों से गर्भनिरोधक तरीक़ों की तुलना कर सको।",
+     "hg": "Typical-use aur perfect-use figures se contraceptive methods compare kar sako."
+    },
+    {
+     "en": "Describe the main trade-offs of barrier, short-acting hormonal and long-acting methods.",
+     "hi": "बैरियर, कम अवधि वाले हार्मोनल और लंबे समय तक चलने वाले तरीक़ों के मुख्य फ़ायदे-नुक़सान बता सको।",
+     "hg": "Barrier, short-acting hormonal aur long-acting methods ke main trade-offs bata sako."
+    },
+    {
+     "en": "Explain why STI protection is a separate question from pregnancy prevention.",
+     "hi": "समझा सको कि STI से बचाव और गर्भ से बचाव दो अलग सवाल क्यों हैं।",
+     "hg": "Samjha sako ki STI protection aur pregnancy prevention do alag questions kyun hain."
+    }
+   ]
+  },
+  {
+   "id": "d07-l05",
+   "domain": "d07",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 9,
+   "unesco": [
+    8
+   ],
+   "prereqs": [
+    "d07-l04"
+   ],
+   "interactive": "protection_lab",
+   "refs": [
+    "who-ec",
+    "who-fp",
+    "who-abortion",
+    "nhs-ectopic"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "When Plans Fail: Emergency Contraception and Uncertainty",
+    "hi": "जब प्लान फ़ेल हो जाए: इमरजेंसी गर्भनिरोधक और अनिश्चितता",
+    "hg": "Jab Plan Fail Ho Jaye: Emergency Contraception aur Uncertainty"
+   },
+   "objectives": [
+    {
+     "en": "Describe the forms of emergency contraception and their time limits.",
+     "hi": "इमरजेंसी गर्भनिरोधक के प्रकार और उनकी समय-सीमा बता सको।",
+     "hg": "Emergency contraception ke forms aur unki time limits bata sako."
+    },
+    {
+     "en": "Explain how illness and other medicines can reduce contraceptive effectiveness.",
+     "hi": "समझा सको कि बीमारी और दूसरी दवाएँ गर्भनिरोधक का असर कैसे घटा सकती हैं।",
+     "hg": "Samjha sako ki illness aur doosri medicines contraceptive ka effect kaise kam kar sakti hain."
+    },
+    {
+     "en": "Know how to handle uncertainty about pregnancy and when to seek professional care.",
+     "hi": "जान सको कि गर्भ को लेकर अनिश्चितता कैसे सँभालें और डॉक्टर के पास कब जाएँ।",
+     "hg": "Jaan sako ki pregnancy ki uncertainty kaise handle karein aur professional care kab lein."
+    }
+   ]
+  },
+  {
+   "id": "d08-l01",
+   "domain": "d08",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 1,
+   "minutes": 6,
+   "unesco": [
+    6,
+    8
+   ],
+   "prereqs": [],
+   "interactive": "body_lab",
+   "refs": [
+    "unesco-itgse",
+    "who-sexual-health",
+    "pocso-2012",
+    "nhm-afhc"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "How a Pregnancy Actually Begins",
+    "hi": "गर्भ असल में कैसे ठहरता है",
+    "hg": "Pregnancy Actually Kaise Shuru Hoti Hai"
+   },
+   "objectives": [
+    {
+     "en": "Describe fertilisation and implantation in the correct order.",
+     "hi": "निषेचन और इम्प्लांटेशन को सही क्रम में समझा सको।",
+     "hg": "Fertilisation aur implantation ko sahi order mein samjha sako."
+    },
+    {
+     "en": "Explain what the placenta and umbilical cord do.",
+     "hi": "बता सको कि प्लेसेंटा और गर्भनाल क्या काम करते हैं।",
+     "hg": "Bata sako ki placenta aur umbilical cord kya kaam karte hain."
+    },
+    {
+     "en": "Outline the three trimesters of pregnancy.",
+     "hi": "गर्भावस्था की तीन तिमाहियों की मोटी रूपरेखा बता सको।",
+     "hg": "Pregnancy ke teen trimesters ka outline bata sako."
+    }
+   ]
+  },
+  {
+   "id": "d08-l02",
+   "domain": "d08",
+   "tracks": [
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    8
+   ],
+   "prereqs": [],
+   "interactive": "ask",
+   "refs": [
+    "who-sexual-health",
+    "nhs-ectopic",
+    "who-abortion",
+    "nhm-cac",
+    "pocso-2012",
+    "nhm-afhc"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Am I Pregnant? Signs, Tests and Their Limits",
+    "hi": "क्या मैं प्रेग्नेंट हूँ? संकेत, टेस्ट और उनकी सीमाएँ",
+    "hg": "Kya Main Pregnant Hoon? Signs, Tests aur Unki Limits"
+   },
+   "objectives": [
+    {
+     "en": "List common early signs of pregnancy and their other causes.",
+     "hi": "गर्भावस्था के आम शुरुआती संकेत और उनकी दूसरी वजहें बता सको।",
+     "hg": "Pregnancy ke common early signs aur unki doosri wajahein bata sako."
+    },
+    {
+     "en": "Explain how and when to use a home pregnancy test.",
+     "hi": "समझा सको कि घरेलू प्रेग्नेंसी टेस्ट कैसे और कब करना है।",
+     "hg": "Samjha sako ki home pregnancy test kaise aur kab karna hai."
+    },
+    {
+     "en": "State what a home test cannot show and what the next steps are.",
+     "hi": "बता सको कि घरेलू टेस्ट क्या नहीं दिखा सकता और अगले क़दम क्या हैं।",
+     "hg": "Bata sako ki home test kya nahi dikha sakta aur next steps kya hain."
+    }
+   ]
+  },
+  {
+   "id": "d08-l03",
+   "domain": "d08",
+   "tracks": [
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    8
+   ],
+   "prereqs": [
+    "d08-l02"
+   ],
+   "interactive": "support_circle",
+   "refs": [
+    "nhs-ectopic",
+    "who-sexual-health",
+    "tele-manas",
+    "mha-erss"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Pregnancy Care and When Things Go Wrong",
+    "hi": "गर्भावस्था की देखभाल और जब कुछ गड़बड़ हो जाए",
+    "hg": "Pregnancy Care aur Jab Kuch Galat Ho Jaaye"
+   },
+   "objectives": [
+    {
+     "en": "Describe what prenatal check-ups include and why they matter.",
+     "hi": "बता सको कि प्रसव-पूर्व जाँचों में क्या होता है और वे क्यों ज़रूरी हैं।",
+     "hg": "Bata sako ki prenatal check-ups mein kya hota hai aur woh kyun zaroori hain."
+    },
+    {
+     "en": "Explain what causes most miscarriages and why blame is wrong.",
+     "hi": "समझा सको कि ज़्यादातर मिसकैरेज किस वजह से होते हैं और दोष देना क्यों ग़लत है।",
+     "hg": "Samjha sako ki zyadatar miscarriages kis wajah se hote hain aur blame karna kyun galat hai."
+    },
+    {
+     "en": "Recognise the warning signs of ectopic pregnancy that need emergency care.",
+     "hi": "एक्टोपिक प्रेग्नेंसी के वे चेतावनी संकेत पहचान सको जिनमें तुरंत इलाज चाहिए।",
+     "hg": "Ectopic pregnancy ke woh warning signs pehchaan sako jinme emergency care chahiye."
+    }
+   ]
+  },
+  {
+   "id": "d08-l04",
+   "domain": "d08",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    6,
+    8
+   ],
+   "prereqs": [],
+   "interactive": "myth_buster",
+   "refs": [
+    "who-infertility",
+    "who-pcos",
+    "who-endometriosis",
+    "who-fp",
+    "who-chlamydia"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Fertility: How It Works and What People Get Wrong",
+    "hi": "फ़र्टिलिटी: यह कैसे काम करती है और लोग क्या ग़लत समझते हैं",
+    "hg": "Fertility: Kaise Kaam Karti Hai aur Log Kya Galat Samajhte Hain"
+   },
+   "objectives": [
+    {
+     "en": "Explain the fertile window and why conception often takes months.",
+     "hi": "फ़र्टाइल विंडो समझा सकें और बता सकें कि गर्भ ठहरने में अक्सर महीने क्यों लगते हैं।",
+     "hg": "Fertile window samjha sako aur bata sako ki conceive karne mein aksar mahine kyun lagte hain."
+    },
+    {
+     "en": "Define infertility and say when a couple should seek evaluation.",
+     "hi": "इनफ़र्टिलिटी की परिभाषा बता सकें और यह कि जोड़े को जाँच कब करानी चाहिए।",
+     "hg": "Infertility define kar sako aur bata sako ki couple ko evaluation kab karani chahiye."
+    },
+    {
+     "en": "Name common reproductive conditions and the main kinds of treatment.",
+     "hi": "प्रजनन से जुड़ी आम स्थितियों और इलाज के मुख्य तरीक़ों के नाम बता सकें।",
+     "hg": "Common reproductive conditions aur treatment ke main types ke naam bata sako."
+    }
+   ]
+  },
+  {
+   "id": "d08-l05",
+   "domain": "d08",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 9,
+   "unesco": [
+    2,
+    8
+   ],
+   "prereqs": [],
+   "interactive": "ask",
+   "refs": [
+    "who-abortion",
+    "nhm-cac",
+    "who-fp",
+    "pocso-2012",
+    "tele-manas"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Your Pregnancy, Your Decision: Options, Law and After Birth",
+    "hi": "आपकी गर्भावस्था, आपका फ़ैसला: विकल्प, क़ानून और प्रसव के बाद",
+    "hg": "Tumhari Pregnancy, Tumhara Decision: Options, Law aur Delivery Ke Baad"
+   },
+   "objectives": [
+    {
+     "en": "Describe the three lawful pregnancy options without judgement.",
+     "hi": "बिना किसी फ़ैसले के गर्भावस्था के तीनों क़ानूनी विकल्प बता सकें।",
+     "hg": "Bina judgement ke pregnancy ke teeno lawful options bata sako."
+    },
+    {
+     "en": "State the main conditions of India's MTP Act and how they differ for minors.",
+     "hi": "भारत के MTP क़ानून की मुख्य शर्तें और नाबालिगों के लिए उनका फ़र्क़ बता सकें।",
+     "hg": "India ke MTP Act ki main conditions aur minors ke liye unka fark bata sako."
+    },
+    {
+     "en": "Recognise postpartum warning signs that need medical help.",
+     "hi": "प्रसव के बाद के वे चेतावनी संकेत पहचान सकें जिनमें डॉक्टरी मदद चाहिए।",
+     "hg": "Postpartum ke woh warning signs pehchaan sako jinme medical help chahiye."
+    }
+   ]
+  },
+  {
+   "id": "d08-l06",
+   "domain": "d08",
+   "tracks": [
+    "D",
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 9,
+   "unesco": [
+    2,
+    3,
+    8
+   ],
+   "prereqs": [],
+   "interactive": "myth_buster",
+   "refs": [
+    "pcpndt",
+    "who-abortion",
+    "nhm-cac",
+    "who-infertility",
+    "wcd-mission-shakti"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Son Preference, Unsafe Abortion and the Blame Game",
+    "hi": "बेटे की चाह, असुरक्षित गर्भपात और इल्ज़ाम का खेल",
+    "hg": "Bete ki Chaah, Unsafe Abortion aur Blame Game"
+   },
+   "objectives": [
+    {
+     "en": "Explain what son preference and sex selection do to girls, women and whole communities.",
+     "hi": "समझा सको कि बेटे की चाह और लिंग चयन लड़कियों, महिलाओं और पूरे समाज के साथ क्या करते हैं।",
+     "hg": "Samjha sako ki bete ki chaah aur sex selection ladkiyon, women aur poori community ke saath kya karte hain."
+    },
+    {
+     "en": "State in plain language what the PC-PNDT Act bans, and that abortion itself remains legal healthcare.",
+     "hi": "आसान भाषा में बता सको कि PC-PNDT क़ानून किस चीज़ पर रोक लगाता है, और यह कि गर्भपात अपने आप में वैध स्वास्थ्य सेवा है।",
+     "hg": "Simple language mein bata sako ki PC-PNDT Act kis cheez ko ban karta hai, aur yeh ki abortion khud legal healthcare hi hai."
+    },
+    {
+     "en": "Recognise the dangers of unsafe abortion and name where safe, legal care is available.",
+     "hi": "असुरक्षित गर्भपात के ख़तरे पहचान सको और बता सको कि सुरक्षित, क़ानूनी सेवा कहाँ मिलती है।",
+     "hg": "Unsafe abortion ke dangers pehchaan sako aur bata sako ki safe, legal care kahan milti hai."
+    }
+   ]
+  },
+  {
+   "id": "d09-l01",
+   "domain": "d09",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 1,
+   "minutes": 6,
+   "unesco": [
+    8
+   ],
+   "prereqs": [],
+   "interactive": "sti_match",
+   "refs": [
+    "who-sti",
+    "who-hiv",
+    "naco",
+    "nhm-afhc"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "STIs 101: What They Are and How They Spread",
+    "hi": "एसटीआई की पहली क्लास: ये क्या हैं और कैसे फैलते हैं",
+    "hg": "STIs 101: Yeh Kya Hain aur Kaise Failte Hain"
+   },
+   "objectives": [
+    {
+     "en": "Explain what an STI is and what causes it.",
+     "hi": "समझाना कि एसटीआई क्या है और यह किस वजह से होता है।",
+     "hg": "Samjhana ki STI kya hai aur yeh kis wajah se hota hai."
+    },
+    {
+     "en": "List the ways STIs do and do not spread.",
+     "hi": "बताना कि एसटीआई किन तरीक़ों से फैलते हैं और किनसे नहीं।",
+     "hg": "Batana ki STIs kin tareekon se failte hain aur kinse nahi."
+    },
+    {
+     "en": "Understand why many infections cause no symptoms.",
+     "hi": "समझना कि बहुत से संक्रमणों में कोई लक्षण क्यों नहीं दिखते।",
+     "hg": "Samajhna ki bahut se infections mein koi symptoms kyun nahi dikhte."
+    }
+   ]
+  },
+  {
+   "id": "d09-l02",
+   "domain": "d09",
+   "tracks": [
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    8
+   ],
+   "prereqs": [],
+   "interactive": "sti_match",
+   "refs": [
+    "who-sti",
+    "who-chlamydia",
+    "who-syphilis"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "The Curable Four: Chlamydia, Gonorrhoea, Syphilis, Trichomoniasis",
+    "hi": "ठीक होने वाले चार: क्लैमाइडिया, गोनोरिया, सिफ़लिस, ट्राइकोमोनिएसिस",
+    "hg": "Curable Four: Chlamydia, Gonorrhoea, Syphilis, Trichomoniasis"
+   },
+   "objectives": [
+    {
+     "en": "Describe the four common curable STIs and their typical signs.",
+     "hi": "चार आम, ठीक हो सकने वाले एसटीआई और उनके आम संकेत बताना।",
+     "hg": "Chaar common curable STIs aur unke typical signs batana."
+    },
+    {
+     "en": "Explain what can happen when they go untreated.",
+     "hi": "समझाना कि इलाज न होने पर क्या हो सकता है।",
+     "hg": "Samjhana ki treatment na hone par kya ho sakta hai."
+    },
+    {
+     "en": "Understand why prescribed treatment and partner treatment both matter.",
+     "hi": "समझना कि डॉक्टर का लिखा इलाज और पार्टनर का इलाज, दोनों क्यों ज़रूरी हैं।",
+     "hg": "Samajhna ki prescribed treatment aur partner ka treatment, dono kyun zaroori hain."
+    }
+   ]
+  },
+  {
+   "id": "d09-l03",
+   "domain": "d09",
+   "tracks": [
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    8
+   ],
+   "prereqs": [
+    "d09-l02"
+   ],
+   "interactive": "sti_match",
+   "refs": [
+    "who-hiv",
+    "who-hpv",
+    "who-herpes",
+    "who-hepb",
+    "who-cervical",
+    "naco"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "The Viral Four: HIV, HPV, Herpes, Hepatitis B",
+    "hi": "वायरस वाले चार: एचआईवी, एचपीवी, हर्पीज़, हेपेटाइटिस बी",
+    "hg": "Viral Four: HIV, HPV, Herpes, Hepatitis B"
+   },
+   "objectives": [
+    {
+     "en": "Tell HIV from AIDS and explain what treatment achieves.",
+     "hi": "एचआईवी और एड्स में फ़र्क़ बताना और समझाना कि इलाज से क्या हासिल होता है।",
+     "hg": "HIV aur AIDS ka farak batana aur samjhana ki treatment se kya hota hai."
+    },
+    {
+     "en": "Describe HPV, genital herpes and hepatitis B and how each is prevented or managed.",
+     "hi": "एचपीवी, जननांग हर्पीज़ और हेपेटाइटिस बी के बारे में बताना, और यह कि हर एक से बचाव या नियंत्रण कैसे होता है।",
+     "hg": "HPV, genital herpes aur hepatitis B ke baare mein batana, aur har ek ko prevent ya manage kaise karte hain."
+    },
+    {
+     "en": "Know which viral STIs have vaccines.",
+     "hi": "जानना कि वायरस वाले किन एसटीआई के टीके मौजूद हैं।",
+     "hg": "Jaanna ki kin viral STIs ki vaccines available hain."
+    }
+   ]
+  },
+  {
+   "id": "d09-l04",
+   "domain": "d09",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    8,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "communication",
+   "refs": [
+    "who-sti",
+    "who-hiv",
+    "naco"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Testing, Treatment and Telling a Partner",
+    "hi": "जाँच, इलाज और पार्टनर को बताना",
+    "hg": "Testing, Treatment aur Partner ko Batana"
+   },
+   "objectives": [
+    {
+     "en": "Describe what happens at an STI check and why timing matters.",
+     "hi": "बताना कि एसटीआई जाँच में क्या होता है और समय क्यों मायने रखता है।",
+     "hg": "Batana ki STI check mein kya hota hai aur timing kyun matter karti hai."
+    },
+    {
+     "en": "Explain how treatment works for curable and for lifelong infections.",
+     "hi": "समझाना कि ठीक होने वाले और ज़िंदगी भर रहने वाले संक्रमणों में इलाज कैसे काम करता है।",
+     "hg": "Samjhana ki curable aur lifelong infections mein treatment kaise kaam karta hai."
+    },
+    {
+     "en": "Plan a respectful conversation with a partner about testing or a diagnosis.",
+     "hi": "जाँच या किसी निदान के बारे में पार्टनर से सम्मानजनक बातचीत की योजना बनाना।",
+     "hg": "Testing ya diagnosis ke baare mein partner se respectful conversation plan karna."
+    }
+   ]
+  },
+  {
+   "id": "d09-l05",
+   "domain": "d09",
+   "tracks": [
+    "D",
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    8,
+    5
+   ],
+   "prereqs": [
+    "d09-l03"
+   ],
+   "interactive": "protection_lab",
+   "refs": [
+    "who-sti",
+    "who-pep",
+    "who-hiv",
+    "who-hpv",
+    "who-hepb",
+    "naco"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Protect, Prevent, Act Fast",
+    "hi": "बचाव, रोकथाम और फ़ौरन क़दम",
+    "hg": "Protect, Prevent, Act Fast"
+   },
+   "objectives": [
+    {
+     "en": "Compare the main ways of preventing STIs and what each one covers.",
+     "hi": "एसटीआई से बचाव के मुख्य तरीक़ों की तुलना करना और यह कि हर तरीक़ा किससे बचाता है।",
+     "hg": "STIs se bachav ke main tareekon ko compare karna aur har ek kya cover karta hai."
+    },
+    {
+     "en": "Distinguish PEP from PrEP.",
+     "hi": "PEP और PrEP में फ़र्क़ करना।",
+     "hg": "PEP aur PrEP ka farak samajhna."
+    },
+    {
+     "en": "Recognise the signs and situations that need urgent medical assessment.",
+     "hi": "उन संकेतों और हालात को पहचानना जिनमें तुरंत डॉक्टरी जाँच ज़रूरी है।",
+     "hg": "Un signs aur situations ko pehchanna jinme urgent medical assessment chahiye."
+    }
+   ]
+  },
+  {
+   "id": "d10-l01",
+   "domain": "d10",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 5,
+   "unesco": [
+    6,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "nhm-rksk",
+    "unesco-itgse",
+    "wcd-childline"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Clean, Comfortable and Speaking Up",
+    "hi": "साफ़-सफ़ाई, आराम और बताने की हिम्मत",
+    "hg": "Saaf, Comfortable, Aur Bol Dena"
+   },
+   "objectives": [
+    {
+     "en": "Describe simple daily hygiene for the genitals.",
+     "hi": "जननांगों की रोज़ की आसान साफ़-सफ़ाई बता पाना।",
+     "hg": "Genitals ki roz ki simple hygiene bata paana."
+    },
+    {
+     "en": "List signs that mean you should tell a trusted adult.",
+     "hi": "वे संकेत गिना पाना जिन पर किसी भरोसेमंद बड़े को बताना चाहिए।",
+     "hg": "Woh signs gina paana jin pe kisi trusted adult ko batana chahiye."
+    },
+    {
+     "en": "Understand that doctors help with private-part problems and how a safe check-up works.",
+     "hi": "समझना कि डॉक्टर निजी अंगों की समस्याओं में मदद करते हैं और सुरक्षित जाँच कैसी होती है।",
+     "hg": "Samajhna ki doctors private parts ki problems mein help karte hain aur safe check-up kaisa hota hai."
+    }
+   ]
+  },
+  {
+   "id": "d10-l02",
+   "domain": "d10",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 6,
+   "unesco": [
+    6,
+    8
+   ],
+   "prereqs": [],
+   "interactive": "body_lab",
+   "refs": [
+    "who-sexual-health",
+    "nhm-rksk",
+    "unesco-itgse"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Genital Health 101: Normal, Not Normal and Myths",
+    "hi": "जननांगों की सेहत 101: क्या सामान्य है, क्या नहीं, और मिथक",
+    "hg": "Genital Health 101: Normal, Not Normal Aur Myths"
+   },
+   "objectives": [
+    {
+     "en": "Tell apart the urinary and reproductive systems and their openings.",
+     "hi": "मूत्र तंत्र और प्रजनन तंत्र और उनके छेदों में फ़र्क़ बता पाना।",
+     "hg": "Urinary aur reproductive systems aur unki openings mein fark bata paana."
+    },
+    {
+     "en": "Describe healthy genital hygiene and what normal discharge and smegma are.",
+     "hi": "जननांगों की सही साफ़-सफ़ाई और सामान्य डिस्चार्ज व स्मेग्मा क्या हैं, यह बता पाना।",
+     "hg": "Healthy genital hygiene aur normal discharge aur smegma kya hain, yeh bata paana."
+    },
+    {
+     "en": "Recognise symptoms that need a doctor.",
+     "hi": "उन लक्षणों को पहचान पाना जिनमें डॉक्टर को दिखाना ज़रूरी है।",
+     "hg": "Un symptoms ko pehchaan paana jinme doctor ko dikhana zaroori hai."
+    }
+   ]
+  },
+  {
+   "id": "d10-l03",
+   "domain": "d10",
+   "tracks": [
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    8,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "who-sexual-health",
+    "nhm-afhc",
+    "who-endometriosis",
+    "nhs-ectopic",
+    "pocso-2012"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Red Flags: Testicular Pain, Pelvic Pain and Real Doctors",
+    "hi": "ख़तरे के संकेत: अंडकोष का दर्द, पेल्विक दर्द और असली डॉक्टर",
+    "hg": "Red Flags: Testicular Pain, Pelvic Pain Aur Asli Doctors"
+   },
+   "objectives": [
+    {
+     "en": "Recognise testicular torsion and other urgent genital and pelvic symptoms.",
+     "hi": "टेस्टिकुलर टॉर्शन और जननांगों व पेल्विस के दूसरे इमरजेंसी लक्षण पहचान पाना।",
+     "hg": "Testicular torsion aur genitals aur pelvis ke dusre urgent symptoms pehchaan paana."
+    },
+    {
+     "en": "Explain when pelvic pain needs medical assessment.",
+     "hi": "समझा पाना कि पेल्विक दर्द में डॉक्टर की जाँच कब ज़रूरी है।",
+     "hg": "Samjha paana ki pelvic pain mein doctor ki jaanch kab zaroori hai."
+    },
+    {
+     "en": "Prepare for a clinic visit and identify medical misinformation.",
+     "hi": "क्लिनिक जाने की तैयारी कर पाना और इलाज से जुड़ी ग़लत जानकारी पहचान पाना।",
+     "hg": "Clinic visit ki taiyari kar paana aur medical misinformation pehchaan paana."
+    }
+   ]
+  },
+  {
+   "id": "d10-l04",
+   "domain": "d10",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    8,
+    7
+   ],
+   "prereqs": [],
+   "interactive": "ask",
+   "refs": [
+    "nhs-ed",
+    "who-sexual-health",
+    "who-endometriosis",
+    "tele-manas"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "When Sex Hurts or Doesn't Go to Plan",
+    "hi": "जब सेक्स में दर्द हो या बात न बने",
+    "hg": "Jab Sex Mein Dard Ho Ya Baat Na Bane"
+   },
+   "objectives": [
+    {
+     "en": "Describe common causes of painful intercourse, erectile dysfunction and premature ejaculation.",
+     "hi": "संभोग में दर्द, इरेक्टाइल डिसफ़ंक्शन और शीघ्रपतन की आम वजहें बता पाना।",
+     "hg": "Painful intercourse, erectile dysfunction aur premature ejaculation ke common causes bata paana."
+    },
+    {
+     "en": "Explain how anxiety affects sexual response.",
+     "hi": "समझा पाना कि घबराहट यौन प्रतिक्रिया पर कैसे असर डालती है।",
+     "hg": "Samjha paana ki anxiety sexual response pe kaise asar daalti hai."
+    },
+    {
+     "en": "Know when and from whom to seek medical help.",
+     "hi": "जानना कि मेडिकल मदद कब और किससे लेनी है।",
+     "hg": "Jaanna ki medical help kab aur kisse leni hai."
+    }
+   ]
+  },
+  {
+   "id": "d10-l05",
+   "domain": "d10",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    8,
+    6
+   ],
+   "prereqs": [
+    "d10-l04"
+   ],
+   "interactive": "ask",
+   "refs": [
+    "who-infertility",
+    "who-sexual-health",
+    "who-pcos",
+    "who-endometriosis"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Pelvic Floor, Fertility Worries and Finding the Right Clinician",
+    "hi": "पेल्विक फ़्लोर, संतान की चिंता और सही डॉक्टर की तलाश",
+    "hg": "Pelvic Floor, Fertility Ki Tension Aur Sahi Doctor Dhoondhna"
+   },
+   "objectives": [
+    {
+     "en": "Explain what the pelvic floor does and the signs of pelvic-floor problems.",
+     "hi": "समझा पाना कि पेल्विक फ़्लोर क्या करता है और उसकी समस्याओं के संकेत क्या हैं।",
+     "hg": "Samjha paana ki pelvic floor kya karta hai aur uski problems ke signs kya hain."
+    },
+    {
+     "en": "State when to seek a fertility evaluation and why both partners are assessed.",
+     "hi": "बता पाना कि प्रजनन क्षमता की जाँच कब करवानी चाहिए और दोनों पार्टनरों की जाँच क्यों होती है।",
+     "hg": "Bata paana ki fertility evaluation kab karwana chahiye aur dono partners ki jaanch kyun hoti hai."
+    },
+    {
+     "en": "Choose the right kind of clinician and prepare for the visit.",
+     "hi": "सही तरह का डॉक्टर चुन पाना और मुलाक़ात की तैयारी कर पाना।",
+     "hg": "Sahi type ka doctor choose kar paana aur visit ki taiyari kar paana."
+    }
+   ]
+  },
+  {
+   "id": "d10-l06",
+   "domain": "d10",
+   "tracks": [
+    "D",
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    8,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "body_lab",
+   "refs": [
+    "nhs-testicular",
+    "nhs-tight-foreskin",
+    "who-infertility",
+    "who-sexual-health",
+    "nhm-afhc"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Men's Bodies: The Check-ups Nobody Mentions",
+    "hi": "पुरुषों का शरीर: वे जाँचें जिनका ज़िक्र कोई नहीं करता",
+    "hg": "Men's Body: Woh Check-ups Jinka Zikr Koi Nahi Karta"
+   },
+   "objectives": [
+    {
+     "en": "Do a monthly testicle self-check and name the changes that need a doctor.",
+     "hi": "हर महीने अंडकोष की ख़ुद जाँच कर पाना और वे बदलाव बता पाना जिन पर डॉक्टर को दिखाना चाहिए।",
+     "hg": "Har mahine testicle self-check kar paana aur woh changes bata paana jin pe doctor ko dikhana chahiye."
+    },
+    {
+     "en": "Tell a normal foreskin from one that needs care, and describe circumcision factually.",
+     "hi": "सामान्य ऊपरी त्वचा और इलाज की ज़रूरत वाली ऊपरी त्वचा में फ़र्क़ कर पाना, और ख़तने के बारे में तथ्य बता पाना।",
+     "hg": "Normal foreskin aur care ki zaroorat wali foreskin mein fark kar paana, aur circumcision ke baare mein facts bata paana."
+    },
+    {
+     "en": "Explain what the prostate, testosterone and anabolic steroids do, and what delaying care costs.",
+     "hi": "समझा पाना कि प्रोस्टेट, टेस्टोस्टेरोन और एनाबॉलिक स्टेरॉयड क्या करते हैं, और इलाज टालने की क़ीमत क्या है।",
+     "hg": "Samjha paana ki prostate, testosterone aur anabolic steroids kya karte hain, aur care taalne ki keemat kya hai."
+    }
+   ]
+  },
+  {
+   "id": "d10-l07",
+   "domain": "d10",
+   "tracks": [
+    "D",
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    8,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "body_lab",
+   "refs": [
+    "who-breast-cancer",
+    "who-cervical",
+    "who-hpv",
+    "nhs-thrush",
+    "who-endometriosis"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Women's Bodies: The Check-ups Nobody Mentions",
+    "hi": "महिलाओं का शरीर: वे जाँचें जिनका ज़िक्र कोई नहीं करता",
+    "hg": "Women's Body: Woh Check-ups Jinka Zikr Koi Nahi Karta"
+   },
+   "objectives": [
+    {
+     "en": "Know how your breasts normally look and feel, and name the changes that need a doctor.",
+     "hi": "जान पाना कि तुम्हारे स्तन सामान्य रूप से कैसे दिखते और महसूस होते हैं, और वे बदलाव बता पाना जिन पर डॉक्टर को दिखाना चाहिए।",
+     "hg": "Jaan paana ki tumhare breasts normally kaise dikhte aur feel hote hain, aur woh changes bata paana jin pe doctor ko dikhana chahiye."
+    },
+    {
+     "en": "Explain how HPV vaccination and cervical screening together prevent cervical cancer.",
+     "hi": "समझा पाना कि एचपीवी का टीका और सर्वाइकल स्क्रीनिंग मिलकर सर्वाइकल कैंसर से कैसे बचाते हैं।",
+     "hg": "Samjha paana ki HPV vaccine aur cervical screening milke cervical cancer se kaise bachate hain."
+    },
+    {
+     "en": "Tell thrush, bacterial vaginosis and urine infections apart, and insist on care when pain is dismissed.",
+     "hi": "थ्रश, बैक्टीरियल वेजिनोसिस और पेशाब के संक्रमण में फ़र्क़ कर पाना, और दर्द को टाल दिए जाने पर इलाज के लिए अड़ पाना।",
+     "hg": "Thrush, bacterial vaginosis aur urine infection mein fark kar paana, aur dard ko taal diye jaane pe care ke liye ad paana."
+    }
+   ]
+  },
+  {
+   "id": "d10-l08",
+   "domain": "d10",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    8,
+    7,
+    6
+   ],
+   "prereqs": [],
+   "interactive": "ask",
+   "refs": [
+    "who-menopause",
+    "nhs-vaginismus",
+    "nhs-ed",
+    "who-sexual-health"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Bodies Change: Menopause, Ageing and Sex",
+    "hi": "शरीर बदलता है: मेनोपॉज़, बढ़ती उम्र और सेक्स",
+    "hg": "Body Badalti Hai: Menopause, Badhti Umar Aur Sex"
+   },
+   "objectives": [
+    {
+     "en": "Recognise the symptoms of perimenopause and menopause and the help available.",
+     "hi": "पेरिमेनोपॉज़ और मेनोपॉज़ के लक्षण और उपलब्ध मदद पहचान पाना।",
+     "hg": "Perimenopause aur menopause ke symptoms aur available help pehchaan paana."
+    },
+    {
+     "en": "Explain why dryness, painful sex, vaginismus and erection changes happen and what treats them.",
+     "hi": "समझा पाना कि सूखापन, सेक्स में दर्द, वैजिनिस्मस और इरेक्शन में बदलाव क्यों होते हैं और उनका इलाज क्या है।",
+     "hg": "Samjha paana ki dryness, painful sex, vaginismus aur erection changes kyun hote hain aur unka treatment kya hai."
+    },
+    {
+     "en": "Describe how childbirth, illness, disability and age change desire and intimacy without ending them.",
+     "hi": "बता पाना कि प्रसव, बीमारी, विकलांगता और उम्र इच्छा और नज़दीकी को कैसे बदलते हैं, पर ख़त्म नहीं करते।",
+     "hg": "Bata paana ki delivery, bimari, disability aur umar desire aur intimacy ko kaise badalte hain, par khatam nahi karte."
+    }
+   ]
+  },
+  {
+   "id": "d11-l01",
+   "domain": "d11",
+   "tracks": [
+    "A"
+   ],
+   "difficulty": 1,
+   "minutes": 3,
+   "unesco": [
+    1,
+    3
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "unesco-itgse"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Everyone Is Different, Everyone Belongs",
+    "hi": "सब अलग हैं, सब अपने हैं",
+    "hg": "Sab Alag Hain, Sab Apne Hain"
+   },
+   "objectives": [
+    {
+     "en": "Say that people look, speak and live in different ways, and that this is okay.",
+     "hi": "बता सको कि लोग अलग दिखते हैं, अलग बोलते हैं और अलग तरह से रहते हैं, और यह ठीक है।",
+     "hg": "Bata sako ki log alag dikhte hain, alag bolte hain aur alag tarah se rehte hain, aur yeh theek hai."
+    },
+    {
+     "en": "Know that toys, colours, games and jobs are for everyone.",
+     "hi": "जान सको कि खिलौने, रंग, खेल और काम सबके लिए हैं।",
+     "hg": "Jaan sako ki khilone, colours, games aur jobs sabke liye hain."
+    },
+    {
+     "en": "Know what to do when someone is being teased.",
+     "hi": "जान सको कि जब किसी को चिढ़ाया जाए तो क्या करना है।",
+     "hg": "Jaan sako ki jab kisi ko chidhaya jaye toh kya karna hai."
+    }
+   ]
+  },
+  {
+   "id": "d11-l02",
+   "domain": "d11",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 5,
+   "unesco": [
+    3
+   ],
+   "prereqs": [],
+   "interactive": "myth_buster",
+   "refs": [
+    "unesco-itgse",
+    "who-cse"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Who Made These Rules? Gender Stereotypes",
+    "hi": "ये नियम किसने बनाए? जेंडर स्टीरियोटाइप",
+    "hg": "Ye Rules Kisne Banaye? Gender Stereotypes"
+   },
+   "objectives": [
+    {
+     "en": "Explain what a gender stereotype is.",
+     "hi": "समझा सको कि जेंडर स्टीरियोटाइप क्या होता है।",
+     "hg": "Samjha sako ki gender stereotype kya hota hai."
+    },
+    {
+     "en": "Give examples of how stereotypes limit both girls and boys.",
+     "hi": "उदाहरण दे सको कि स्टीरियोटाइप लड़कियों और लड़कों दोनों को कैसे रोकते हैं।",
+     "hg": "Examples de sako ki stereotypes ladkiyon aur ladkon dono ko kaise rokte hain."
+    },
+    {
+     "en": "Respond calmly and respectfully when someone is teased for not fitting a stereotype.",
+     "hi": "जब किसी को स्टीरियोटाइप में फ़िट न होने पर चिढ़ाया जाए, तो शांति और इज़्ज़त से जवाब दे सको।",
+     "hg": "Jab kisi ko stereotype mein fit na hone pe chidhaya jaye, toh calmly aur respect se jawab de sako."
+    }
+   ]
+  },
+  {
+   "id": "d11-l03",
+   "domain": "d11",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    3,
+    7
+   ],
+   "prereqs": [],
+   "interactive": "ask",
+   "refs": [
+    "unesco-itgse",
+    "who-sexual-health"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Sex, Gender, Attraction: Four Different Things",
+    "hi": "सेक्स, जेंडर, आकर्षण: चार अलग-अलग बातें",
+    "hg": "Sex, Gender, Attraction: Chaar Alag Cheezein"
+   },
+   "objectives": [
+    {
+     "en": "Tell apart biological sex, gender identity, gender expression and sexual orientation.",
+     "hi": "जैविक सेक्स, जेंडर पहचान, जेंडर अभिव्यक्ति और यौन रुझान में फ़र्क़ बता सको।",
+     "hg": "Biological sex, gender identity, gender expression aur sexual orientation mein farak bata sako."
+    },
+    {
+     "en": "Explain that intersex variations and diverse identities are natural, not illnesses.",
+     "hi": "समझा सको कि इंटरसेक्स भिन्नताएँ और अलग-अलग पहचानें क़ुदरती हैं, बीमारी नहीं।",
+     "hg": "Samjha sako ki intersex variations aur alag-alag identities natural hain, bimaari nahi."
+    },
+    {
+     "en": "Know that there is no deadline for putting a label on yourself.",
+     "hi": "जान सको कि ख़ुद पर कोई लेबल लगाने की कोई आख़िरी तारीख़ नहीं होती।",
+     "hg": "Jaan sako ki khud pe label lagane ki koi deadline nahi hoti."
+    }
+   ]
+  },
+  {
+   "id": "d11-l04",
+   "domain": "d11",
+   "tracks": [
+    "D",
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    2,
+    3,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "unesco-itgse",
+    "who-adolescent-mh",
+    "tele-manas"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Discrimination, the Law and Your Mind",
+    "hi": "भेदभाव, क़ानून और तुम्हारा मन",
+    "hg": "Discrimination, Kanoon aur Tumhara Mann"
+   },
+   "objectives": [
+    {
+     "en": "Recognise gender discrimination in everyday situations.",
+     "hi": "रोज़मर्रा की स्थितियों में जेंडर भेदभाव को पहचान सको।",
+     "hg": "Roz ki situations mein gender discrimination ko pehchaan sako."
+    },
+    {
+     "en": "Describe in plain language where Indian law stands on same-sex relationships and transgender rights.",
+     "hi": "आसान भाषा में बता सको कि समलैंगिक रिश्तों और ट्रांसजेंडर अधिकारों पर भारतीय क़ानून क्या कहता है।",
+     "hg": "Simple language mein bata sako ki same-sex relationships aur transgender rights pe Indian law kya kehta hai."
+    },
+    {
+     "en": "Explain why stigma, not identity, harms mental health, and where support is available.",
+     "hi": "समझा सको कि मानसिक सेहत को नुक़सान पहचान से नहीं, बदनामी और तिरस्कार से होता है, और मदद कहाँ मिलती है।",
+     "hg": "Samjha sako ki mental health ko nuksaan identity se nahi, stigma se hota hai, aur support kahan milta hai."
+    }
+   ]
+  },
+  {
+   "id": "d11-l05",
+   "domain": "d11",
+   "tracks": [
+    "C",
+    "D",
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    1,
+    2,
+    3
+   ],
+   "prereqs": [
+    "d11-l03"
+   ],
+   "interactive": "communication",
+   "refs": [
+    "unesco-itgse",
+    "who-cse"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Inclusion in Practice: Words, Disability and Neurodiversity",
+    "hi": "समावेश असल ज़िंदगी में: शब्द, विकलांगता और न्यूरोडाइवर्सिटी",
+    "hg": "Inclusion Real Life Mein: Words, Disability aur Neurodiversity"
+   },
+   "objectives": [
+    {
+     "en": "Use respectful language about gender, orientation and disability.",
+     "hi": "जेंडर, रुझान और विकलांगता के बारे में इज़्ज़त भरी भाषा इस्तेमाल कर सको।",
+     "hg": "Gender, orientation aur disability ke baare mein respectful language use kar sako."
+    },
+    {
+     "en": "Explain why disabled and neurodivergent people need the same information and respect as everyone else.",
+     "hi": "समझा सको कि विकलांग और न्यूरोडाइवर्जेंट लोगों को भी वही जानकारी और इज़्ज़त क्यों चाहिए जो सबको चाहिए।",
+     "hg": "Samjha sako ki disabled aur neurodivergent logon ko bhi wahi information aur respect kyun chahiye jo sabko chahiye."
+    },
+    {
+     "en": "Act as an upstander when someone is bullied, while respecting differences in belief.",
+     "hi": "जब किसी को बुली किया जाए तो उसके साथ खड़े हो सको, और साथ ही अलग-अलग मान्यताओं का सम्मान कर सको।",
+     "hg": "Jab kisi ko bully kiya jaye toh uske saath khade ho sako, aur saath hi alag-alag beliefs ka respect kar sako."
+    }
+   ]
+  },
+  {
+   "id": "d11-l06",
+   "domain": "d11",
+   "tracks": [
+    "D",
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 9,
+   "unesco": [
+    2,
+    3,
+    4
+   ],
+   "prereqs": [],
+   "interactive": "ask",
+   "refs": [
+    "who-fgm",
+    "who-sexual-health",
+    "unesco-itgse",
+    "wcd-childline",
+    "nalsa"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Harm Done to Bodies in the Name of Tradition",
+    "hi": "परंपरा के नाम पर शरीर को पहुँचाया गया नुक़सान",
+    "hg": "Tradition ke Naam pe Body ko Pahunchaya Gaya Harm"
+   },
+   "objectives": [
+    {
+     "en": "Describe what female genital cutting is, where it happens and why WHO calls every form of it harmful.",
+     "hi": "बता सको कि महिला जननांग काटना (female genital cutting) क्या है, कहाँ होता है और WHO इसके हर रूप को नुक़सानदेह क्यों कहता है।",
+     "hg": "Bata sako ki female genital cutting kya hai, kahan hoti hai aur WHO iske har form ko harmful kyun kehta hai."
+    },
+    {
+     "en": "Explain why 'virginity tests', hymen 'repair', conversion therapy and non-urgent surgery on intersex children have no medical justification.",
+     "hi": "समझा सको कि 'वर्जिनिटी टेस्ट', हाइमन 'रिपेयर', कन्वर्ज़न थेरेपी और इंटरसेक्स बच्चों की ग़ैर-ज़रूरी सर्जरी का कोई मेडिकल आधार क्यों नहीं है।",
+     "hg": "Samjha sako ki 'virginity test', hymen 'repair', conversion therapy aur intersex bacchon ki non-urgent surgery ka koi medical justification kyun nahi hai."
+    },
+    {
+     "en": "Apply the idea of bodily autonomy and know where to get help if you or someone you know is at risk.",
+     "hi": "शारीरिक स्वायत्तता (bodily autonomy) के विचार को लागू कर सको और जान सको कि तुम या तुम्हारा कोई जानने वाला ख़तरे में हो तो मदद कहाँ मिलेगी।",
+     "hg": "Bodily autonomy ke idea ko apply kar sako aur jaan sako ki tum ya tumhara koi jaanne wala risk mein ho toh help kahan milegi."
+    }
+   ]
+  },
+  {
+   "id": "d12-l01",
+   "domain": "d12",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 5,
+   "unesco": [
+    5,
+    4
+   ],
+   "prereqs": [],
+   "interactive": "digital_safety",
+   "refs": [
+    "unesco-itgse",
+    "who-cse",
+    "wcd-childline"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Screens Edit Real Life",
+    "hi": "स्क्रीन पर सब असली नहीं होता",
+    "hg": "Screen Pe Sab Real Nahi Hota"
+   },
+   "objectives": [
+    {
+     "en": "Explain how photos and videos are staged, filtered or edited before you see them.",
+     "hi": "समझा पाना कि तस्वीरें और वीडियो तुम तक पहुँचने से पहले कैसे सजाए, फ़िल्टर और एडिट किए जाते हैं।",
+     "hg": "Samjha paana ki photos aur videos tum tak pahunchne se pehle kaise stage, filter aur edit hote hain."
+    },
+    {
+     "en": "Spot when a post is trying to sell you something.",
+     "hi": "पहचान पाना कि कोई पोस्ट तुम्हें कुछ बेचने की कोशिश कर रही है।",
+     "hg": "Pehchaan paana ki koi post tumhe kuch bechne ki koshish kar rahi hai."
+    },
+    {
+     "en": "Know what to do if you see content online that is meant for adults or feels upsetting.",
+     "hi": "जानना कि अगर ऑनलाइन बड़ों के लिए बनी या परेशान करने वाली चीज़ दिख जाए तो क्या करना है।",
+     "hg": "Jaanna ki agar online adults ke liye bana ya upset karne wala content dikh jaaye toh kya karna hai."
+    }
+   ]
+  },
+  {
+   "id": "d12-l02",
+   "domain": "d12",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 6,
+   "unesco": [
+    5,
+    7
+   ],
+   "prereqs": [],
+   "interactive": "ask",
+   "refs": [
+    "unesco-itgse",
+    "who-cse-qa",
+    "pocso-2012"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Porn Is a Script, Not a Syllabus",
+    "hi": "पोर्न एक स्क्रिप्ट है, सिलेबस नहीं",
+    "hg": "Porn Script Hai, Syllabus Nahi"
+   },
+   "objectives": [
+    {
+     "en": "Describe pornography as scripted, edited media made for adult viewers.",
+     "hi": "बता पाना कि पोर्नोग्राफ़ी बड़ों के लिए बनाया गया स्क्रिप्टेड और एडिट किया हुआ मीडिया है।",
+     "hg": "Bata paana ki pornography adults ke liye bana scripted aur edited media hai."
+    },
+    {
+     "en": "List what it leaves out or distorts about bodies, consent and feelings.",
+     "hi": "गिना पाना कि यह शरीर, सहमति और भावनाओं के बारे में क्या छोड़ देती है या तोड़-मरोड़कर दिखाती है।",
+     "hg": "Gina paana ki yeh bodies, consent aur feelings ke baare mein kya chhod deti hai ya tod-marod ke dikhati hai."
+    },
+    {
+     "en": "Know respectful ways to handle curiosity and pressure from friends.",
+     "hi": "जानना कि जिज्ञासा और दोस्तों के दबाव को समझदारी से कैसे सँभालें।",
+     "hg": "Jaanna ki curiosity aur doston ke pressure ko samajhdaari se kaise handle karein."
+    }
+   ]
+  },
+  {
+   "id": "d12-l03",
+   "domain": "d12",
+   "tracks": [
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    5,
+    3,
+    4
+   ],
+   "prereqs": [],
+   "interactive": "myth_buster",
+   "refs": [
+    "unesco-itgse",
+    "who-cse",
+    "who-adolescent-mh",
+    "tele-manas"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Reality Check: Body Image, Consent Myths and Your Feed",
+    "hi": "रियलिटी चेक: बॉडी इमेज, सहमति के मिथक और तुम्हारी फ़ीड",
+    "hg": "Reality Check: Body Image, Consent Myths Aur Tumhari Feed"
+   },
+   "objectives": [
+    {
+     "en": "Explain how sexualised media distorts body image and ideas about consent and gender.",
+     "hi": "समझा पाना कि यौन रंग में रंगा मीडिया बॉडी इमेज और सहमति व जेंडर की समझ को कैसे बिगाड़ता है।",
+     "hg": "Samjha paana ki sexualised media body image aur consent aur gender ki samajh ko kaise bigaadta hai."
+    },
+    {
+     "en": "Recognise parasocial relationships and influencer misinformation about bodies and sex.",
+     "hi": "एकतरफ़ा (parasocial) जुड़ाव और शरीर व सेक्स पर इन्फ्लुएंसरों की ग़लत जानकारी को पहचान पाना।",
+     "hg": "Parasocial relationships aur bodies aur sex pe influencers ki misinformation ko pehchaan paana."
+    },
+    {
+     "en": "Identify signs of compulsive use and where to get help.",
+     "hi": "बेक़ाबू इस्तेमाल के संकेत और मदद कहाँ मिलेगी, यह पहचान पाना।",
+     "hg": "Compulsive use ke signs aur help kahan milegi, yeh pehchaan paana."
+    }
+   ]
+  },
+  {
+   "id": "d12-l04",
+   "domain": "d12",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 7,
+   "unesco": [
+    7,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "communication",
+   "refs": [
+    "who-sexual-health",
+    "unesco-itgse",
+    "cybercrime-portal",
+    "tele-manas"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Adult Reality: Porn, Intimacy and Paid Attention",
+    "hi": "वयस्कों की असलियत: पोर्न, नज़दीकी और ख़रीदी हुई तवज्जो",
+    "hg": "Adult Reality: Porn, Intimacy Aur Paid Attention"
+   },
+   "objectives": [
+    {
+     "en": "Compare on-screen sex with how adult bodies and intimacy actually work.",
+     "hi": "स्क्रीन पर दिखने वाले सेक्स की तुलना इस बात से कर पाना कि वयस्क शरीर और नज़दीकी असल में कैसे काम करते हैं।",
+     "hg": "On-screen sex ko is baat se compare kar paana ki adult bodies aur intimacy actually kaise kaam karti hain."
+    },
+    {
+     "en": "Recognise paid parasocial intimacy and sexual-health misinformation aimed at adults.",
+     "hi": "पैसे देकर मिलने वाली एकतरफ़ा नज़दीकी और वयस्कों को निशाना बनाने वाली यौन स्वास्थ्य की ग़लत जानकारी को पहचान पाना।",
+     "hg": "Paid parasocial intimacy aur adults ko target karne wali sexual-health misinformation ko pehchaan paana."
+    },
+    {
+     "en": "Understand the ethical and legal lines around sexual content and where to get help for compulsive use.",
+     "hi": "यौन कंटेंट से जुड़ी नैतिक और क़ानूनी सीमाएँ समझना और जानना कि बेक़ाबू इस्तेमाल के लिए मदद कहाँ मिलेगी।",
+     "hg": "Sexual content se judi ethical aur legal lines samajhna aur jaanna ki compulsive use ke liye help kahan milegi."
+    }
+   ]
+  },
+  {
+   "id": "d12-l05",
+   "domain": "d12",
+   "tracks": [
+    "C",
+    "D",
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    4,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "digital_safety",
+   "refs": [
+    "cybercrime-portal",
+    "pocso-2012",
+    "wcd-childline",
+    "unesco-itgse"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Deepfakes, Leaks and Sextortion: Your Action Plan",
+    "hi": "डीपफ़ेक, लीक और सेक्सटॉर्शन: तुम्हारा एक्शन प्लान",
+    "hg": "Deepfakes, Leaks Aur Sextortion: Tumhara Action Plan"
+   },
+   "objectives": [
+    {
+     "en": "Explain what deepfakes and AI-generated intimate images are and why creating or sharing them is abuse.",
+     "hi": "समझा पाना कि डीपफ़ेक और AI से बनी अंतरंग तस्वीरें क्या हैं और इन्हें बनाना या शेयर करना शोषण क्यों है।",
+     "hg": "Samjha paana ki deepfakes aur AI-generated intimate images kya hain aur inhe banana ya share karna abuse kyun hai."
+    },
+    {
+     "en": "Recognise how sextortion works and the steps that stop it.",
+     "hi": "पहचान पाना कि सेक्सटॉर्शन कैसे काम करता है और कौन-से क़दम उसे रोकते हैं।",
+     "hg": "Pehchaan paana ki sextortion kaise kaam karta hai aur kaun-se steps use rokte hain."
+    },
+    {
+     "en": "Know where and how to report in India.",
+     "hi": "जानना कि भारत में रिपोर्ट कहाँ और कैसे करनी है।",
+     "hg": "Jaanna ki India mein report kahan aur kaise karni hai."
+    }
+   ]
+  },
+  {
+   "id": "d12-l06",
+   "domain": "d12",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    4,
+    2
+   ],
+   "prereqs": [],
+   "interactive": "digital_safety",
+   "refs": [
+    "cybercrime-portal",
+    "pocso-2012",
+    "bns-2023",
+    "who-vaw",
+    "naco",
+    "nalsa"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "What the Screen Hides: Exploitation Behind Porn and Paid Sex",
+    "hi": "स्क्रीन क्या छिपाती है: पोर्न और पैसे के बदले सेक्स के पीछे का शोषण",
+    "hg": "Screen Kya Chhupati Hai: Porn aur Paid Sex ke Peeche ka Exploitation"
+   },
+   "objectives": [
+    {
+     "en": "Explain why consent cannot be judged from a video.",
+     "hi": "समझा सकें कि वीडियो देखकर सहमति का अंदाज़ा क्यों नहीं लगाया जा सकता।",
+     "hg": "Samjha sako ki video dekhkar consent judge kyun nahi kiya ja sakta."
+    },
+    {
+     "en": "Describe how trafficking and coercion work, and the broad legal position of sex work in India.",
+     "hi": "बता सकें कि तस्करी और ज़बरदस्ती कैसे काम करती हैं, और भारत में सेक्स वर्क की मोटी-मोटी क़ानूनी स्थिति क्या है।",
+     "hg": "Bata sako ki trafficking aur coercion kaise kaam karte hain, aur India mein sex work ki broad legal position kya hai."
+    },
+    {
+     "en": "Know how to report abuse material and suspected trafficking without spreading the harm.",
+     "hi": "जान सकें कि शोषण की सामग्री और तस्करी के शक की रिपोर्ट नुक़सान फैलाए बिना कैसे की जाती है।",
+     "hg": "Jaan sako ki abuse material aur suspected trafficking ko harm phailaye bina kaise report karte hain."
+    }
+   ]
+  },
+  {
+   "id": "d13-l01",
+   "domain": "d13",
+   "tracks": [
+    "A"
+   ],
+   "difficulty": 1,
+   "minutes": 3,
+   "unesco": [
+    4,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "digital_safety",
+   "refs": [
+    "unesco-itgse",
+    "wcd-childline"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Ask First, Then Click",
+    "hi": "पहले पूछो, फिर क्लिक करो",
+    "hg": "Pehle Poochho, Phir Click Karo"
+   },
+   "objectives": [
+    {
+     "en": "Name four things you never share online with people you do not know.",
+     "hi": "वे चार चीज़ें बता पाना जो ऑनलाइन अनजान लोगों को कभी नहीं बतानी हैं।",
+     "hg": "Woh chaar cheezein bata paana jo online anjaan logon ko kabhi nahi batani."
+    },
+    {
+     "en": "Remember to ask a grown-up before you click, download or chat.",
+     "hi": "याद रखना कि क्लिक, डाउनलोड या चैट करने से पहले किसी बड़े से पूछना है।",
+     "hg": "Yaad rakhna ki click, download ya chat karne se pehle kisi bade se poochhna hai."
+    },
+    {
+     "en": "Know what to do if something online feels yucky or scary.",
+     "hi": "जानना कि ऑनलाइन कुछ गंदा या डरावना लगे तो क्या करना है।",
+     "hg": "Jaanna ki online kuch yucky ya darawna lage toh kya karna hai."
+    }
+   ]
+  },
+  {
+   "id": "d13-l02",
+   "domain": "d13",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 5,
+   "unesco": [
+    4,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "digital_safety",
+   "refs": [
+    "unesco-itgse",
+    "wcd-childline",
+    "pocso-2012"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Private Info and Online Friends: Spot the Trick",
+    "hi": "निजी जानकारी और ऑनलाइन दोस्त: चाल पहचानो",
+    "hg": "Private Info aur Online Dost: Chaal Pehchaano"
+   },
+   "objectives": [
+    {
+     "en": "List the kinds of information that should stay private online.",
+     "hi": "बता पाना कि ऑनलाइन कौन-कौन सी जानकारी निजी रहनी चाहिए।",
+     "hg": "Bata paana ki online kaun-kaun si information private rehni chahiye."
+    },
+    {
+     "en": "Recognise the steps a groomer uses to build trust and secrecy.",
+     "hi": "पहचानना कि ग्रूमिंग करने वाला भरोसा और राज़ बनाने के लिए कौन से क़दम उठाता है।",
+     "hg": "Pehchaanna ki grooming karne wala trust aur secret banane ke liye kaun se steps leta hai."
+    },
+    {
+     "en": "Know exactly what to do if a chat starts to feel wrong.",
+     "hi": "जानना कि अगर कोई चैट ग़लत लगने लगे तो ठीक-ठीक क्या करना है।",
+     "hg": "Jaanna ki agar koi chat galat lagne lage toh exactly kya karna hai."
+    }
+   ]
+  },
+  {
+   "id": "d13-l03",
+   "domain": "d13",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 6,
+   "unesco": [
+    4,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "digital_safety",
+   "refs": [
+    "pocso-2012",
+    "cybercrime-portal",
+    "unesco-itgse"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Sexting, Pressure and the Screenshot Problem",
+    "hi": "सेक्सटिंग, दबाव और स्क्रीनशॉट की समस्या",
+    "hg": "Sexting, Pressure aur Screenshot Wali Problem"
+   },
+   "objectives": [
+    {
+     "en": "Explain why a sent image can never be fully taken back.",
+     "hi": "समझा पाना कि भेजी हुई तस्वीर पूरी तरह वापस क्यों नहीं ली जा सकती।",
+     "hg": "Samjha paana ki bheji hui image poori tarah wapas kyun nahi li ja sakti."
+    },
+    {
+     "en": "Know how Indian law treats sexual images of anyone under 18.",
+     "hi": "जानना कि भारतीय क़ानून 18 साल से कम उम्र के किसी भी इंसान की यौन तस्वीरों को कैसे देखता है।",
+     "hg": "Jaanna ki Indian law 18 se kam age ke kisi bhi insaan ki sexual images ko kaise dekhta hai."
+    },
+    {
+     "en": "Recognise pressure tactics and practise refusing them.",
+     "hi": "दबाव डालने के तरीके पहचानना और मना करने का अभ्यास करना।",
+     "hg": "Pressure daalne ke tareeke pehchaanna aur mana karne ki practice karna."
+    }
+   ]
+  },
+  {
+   "id": "d13-l04",
+   "domain": "d13",
+   "tracks": [
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    4,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "digital_safety",
+   "refs": [
+    "cybercrime-portal",
+    "pocso-2012",
+    "tele-manas"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Sextortion: Their Playbook, Your Way Out",
+    "hi": "सेक्सटॉर्शन: उनकी चाल, तुम्हारा रास्ता",
+    "hg": "Sextortion: Unka Playbook, Tumhara Exit Plan"
+   },
+   "objectives": [
+    {
+     "en": "Describe how a sextortion scam typically unfolds.",
+     "hi": "बता पाना कि सेक्सटॉर्शन का जाल आम तौर पर कैसे बिछाया जाता है।",
+     "hg": "Bata paana ki sextortion scam typically kaise chalta hai."
+    },
+    {
+     "en": "List the immediate steps: stop, do not pay, preserve, report, tell.",
+     "hi": "फ़ौरन उठाए जाने वाले क़दम गिनाना: रुको, पैसे मत दो, सबूत बचाओ, रिपोर्ट करो, बताओ।",
+     "hg": "Immediate steps ginaana: ruko, pay mat karo, proof bachao, report karo, batao."
+    },
+    {
+     "en": "Handle evidence safely without copying any sexual image.",
+     "hi": "किसी भी यौन तस्वीर की कॉपी बनाए बिना सबूत को सुरक्षित तरीके से सँभालना।",
+     "hg": "Kisi bhi sexual image ki copy banaye bina evidence ko safely handle karna."
+    }
+   ]
+  },
+  {
+   "id": "d13-l05",
+   "domain": "d13",
+   "tracks": [
+    "D",
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 7,
+   "unesco": [
+    4,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "digital_safety",
+   "refs": [
+    "cybercrime-portal",
+    "bns-2023",
+    "pocso-2012"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Deepfakes, Leaks and Fake Profiles",
+    "hi": "डीपफेक, लीक और नकली प्रोफ़ाइल",
+    "hg": "Deepfakes, Leaks aur Fake Profiles"
+   },
+   "objectives": [
+    {
+     "en": "Define image-based sexual abuse, including AI-generated and morphed images.",
+     "hi": "तस्वीरों के ज़रिए यौन शोषण को परिभाषित करना, जिसमें AI से बनी और मॉर्फ़ की हुई तस्वीरें भी शामिल हैं।",
+     "hg": "Image-based sexual abuse ko define karna, jisme AI-generated aur morphed images bhi shamil hain."
+    },
+    {
+     "en": "Explain why a fake image is still reportable abuse.",
+     "hi": "समझाना कि नकली तस्वीर भी ऐसा शोषण क्यों है जिसकी रिपोर्ट की जा सकती है।",
+     "hg": "Explain karna ki fake image bhi reportable abuse kyun hai."
+    },
+    {
+     "en": "Know the steps to take against a leak, a deepfake or a fake profile.",
+     "hi": "जानना कि लीक, डीपफेक या नकली प्रोफ़ाइल के ख़िलाफ़ कौन से क़दम उठाने हैं।",
+     "hg": "Jaanna ki leak, deepfake ya fake profile ke against kaun se steps lene hain."
+    }
+   ]
+  },
+  {
+   "id": "d13-l06",
+   "domain": "d13",
+   "tracks": [
+    "C",
+    "D",
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    4,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "cybercrime-portal",
+    "wcd-childline",
+    "mha-erss",
+    "tele-manas"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Report, Preserve, Support: Your Action Plan",
+    "hi": "रिपोर्ट करो, सबूत बचाओ, साथ दो: तुम्हारा एक्शन प्लान",
+    "hg": "Report Karo, Proof Bachao, Saath Do: Tumhara Action Plan"
+   },
+   "objectives": [
+    {
+     "en": "Identify cyberbullying and respond without making it worse.",
+     "hi": "साइबरबुलिंग को पहचानना और बात बिगाड़े बिना उसका जवाब देना।",
+     "hg": "Cyberbullying ko pehchaanna aur baat bigaade bina respond karna."
+    },
+    {
+     "en": "Name the Indian reporting routes and when to use each one.",
+     "hi": "भारत में रिपोर्ट करने के रास्ते बताना और यह कि कौन सा कब काम आता है।",
+     "hg": "India ke reporting routes batana aur yeh ki kaun sa kab kaam aata hai."
+    },
+    {
+     "en": "Support a friend who is being threatened online without blaming or exposing them.",
+     "hi": "ऑनलाइन धमकी झेल रहे दोस्त का साथ देना, बिना इल्ज़ाम लगाए और बिना उसकी बात फैलाए।",
+     "hg": "Online dhamki jhel rahe dost ko support karna, bina blame kiye aur bina uski baat phailaye."
+    }
+   ]
+  },
+  {
+   "id": "d14-l01",
+   "domain": "d14",
+   "tracks": [
+    "A"
+   ],
+   "difficulty": 1,
+   "minutes": 4,
+   "unesco": [
+    4
+   ],
+   "prereqs": [],
+   "interactive": "consent_sim",
+   "refs": [
+    "unesco-itgse",
+    "wcd-childline"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Safe Touch, Unsafe Touch",
+    "hi": "सुरक्षित स्पर्श, असुरक्षित स्पर्श",
+    "hg": "Safe Touch, Unsafe Touch"
+   },
+   "objectives": [
+    {
+     "en": "Tell a safe touch from an unsafe touch.",
+     "hi": "सुरक्षित और असुरक्षित स्पर्श में फ़र्क़ पहचानना।",
+     "hg": "Safe touch aur unsafe touch ka farak pehchanna."
+    },
+    {
+     "en": "Know which parts of the body are private.",
+     "hi": "जानना कि शरीर के कौन से अंग निजी हैं।",
+     "hg": "Jaanna ki body ke kaun se parts private hain."
+    },
+    {
+     "en": "Remember the three steps: No, Go, Tell.",
+     "hi": "तीन क़दम याद रखना: ना कहो, हट जाओ, बताओ।",
+     "hg": "Teen steps yaad rakhna: No bolo, Go karo, Tell karo."
+    }
+   ]
+  },
+  {
+   "id": "d14-l02",
+   "domain": "d14",
+   "tracks": [
+    "A"
+   ],
+   "difficulty": 1,
+   "minutes": 4,
+   "unesco": [
+    4,
+    5
+   ],
+   "prereqs": [
+    "d14-l01"
+   ],
+   "interactive": "support_circle",
+   "refs": [
+    "unesco-itgse",
+    "wcd-childline"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Secrets, Helpers and Bullies",
+    "hi": "राज़, मददगार और बुलीइंग",
+    "hg": "Secrets, Helpers aur Bullies"
+   },
+   "objectives": [
+    {
+     "en": "Tell a safe secret from an unsafe secret.",
+     "hi": "सुरक्षित राज़ और असुरक्षित राज़ में फ़र्क़ करना।",
+     "hg": "Safe secret aur unsafe secret ka farak samajhna."
+    },
+    {
+     "en": "Name five grown-ups you trust.",
+     "hi": "अपने पाँच भरोसेमंद बड़ों के नाम बताना।",
+     "hg": "Apne paanch trusted bado ke naam batana."
+    },
+    {
+     "en": "Know what to do about bullying.",
+     "hi": "जानना कि बुलीइंग होने पर क्या करना है।",
+     "hg": "Jaanna ki bullying hone par kya karna hai."
+    }
+   ]
+  },
+  {
+   "id": "d14-l03",
+   "domain": "d14",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 6,
+   "unesco": [
+    4,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "unesco-itgse",
+    "wcd-childline",
+    "pocso-2012"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Bullying, Teasing and Tricky People",
+    "hi": "बुलीइंग, छेड़छाड़ और चालाक लोग",
+    "hg": "Bullying, Teasing aur Tricky Log"
+   },
+   "objectives": [
+    {
+     "en": "Recognise the four kinds of bullying, including online bullying.",
+     "hi": "बुलीइंग के चार रूप पहचानना, ऑनलाइन बुलीइंग समेत।",
+     "hg": "Bullying ke chaar types pehchanna, online bullying bhi."
+    },
+    {
+     "en": "Tell friendly joking from harassment.",
+     "hi": "दोस्ताना मज़ाक़ और उत्पीड़न में फ़र्क़ करना।",
+     "hg": "Friendly mazaak aur harassment ka farak samajhna."
+    },
+    {
+     "en": "Spot the warning signs of grooming and know who to tell.",
+     "hi": "ग्रूमिंग के चेतावनी संकेत पहचानना और जानना कि किसे बताना है।",
+     "hg": "Grooming ke warning signs pehchanna aur jaanna ki kisko batana hai."
+    }
+   ]
+  },
+  {
+   "id": "d14-l04",
+   "domain": "d14",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    4
+   ],
+   "prereqs": [],
+   "interactive": "consent_sim",
+   "refs": [
+    "pocso-2012",
+    "bns-2023",
+    "who-vaw",
+    "wcd-childline"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Harassment, Grooming and Stalking: Call It What It Is",
+    "hi": "उत्पीड़न, ग्रूमिंग और स्टॉकिंग: जो है, वही कहो",
+    "hg": "Harassment, Grooming aur Stalking: Jo Hai Wahi Bolo"
+   },
+   "objectives": [
+    {
+     "en": "Identify sexual harassment in its verbal, non-verbal, physical and online forms.",
+     "hi": "यौन उत्पीड़न के मौखिक, बिना शब्दों वाले, शारीरिक और ऑनलाइन रूप पहचानना।",
+     "hg": "Sexual harassment ke verbal, non-verbal, physical aur online forms pehchanna."
+    },
+    {
+     "en": "Explain how grooming and abuse by trusted people work.",
+     "hi": "समझाना कि ग्रूमिंग और भरोसेमंद लोगों द्वारा शोषण कैसे होता है।",
+     "hg": "Samjhana ki grooming aur trusted logon dwara abuse kaise hota hai."
+    },
+    {
+     "en": "Describe stalking and what POCSO says about people under 18.",
+     "hi": "बताना कि स्टॉकिंग क्या है और POCSO 18 से कम उम्र वालों के बारे में क्या कहता है।",
+     "hg": "Batana ki stalking kya hai aur POCSO 18 se kam umar walon ke baare mein kya kehta hai."
+    }
+   ]
+  },
+  {
+   "id": "d14-l05",
+   "domain": "d14",
+   "tracks": [
+    "D",
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    4,
+    1
+   ],
+   "prereqs": [],
+   "interactive": "relationship_radar",
+   "refs": [
+    "who-vaw",
+    "bns-2023",
+    "who-pep",
+    "who-ec",
+    "mha-erss"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Violence in Relationships and at Home",
+    "hi": "रिश्तों और घर के भीतर हिंसा",
+    "hg": "Relationships aur Ghar ke Andar Violence"
+   },
+   "objectives": [
+    {
+     "en": "Recognise the forms of intimate partner and domestic violence, including the non-physical ones.",
+     "hi": "पार्टनर द्वारा हिंसा और घरेलू हिंसा के रूप पहचानना, उन रूपों समेत जो शारीरिक नहीं हैं।",
+     "hg": "Intimate partner violence aur domestic violence ke forms pehchanna, non-physical wale bhi."
+    },
+    {
+     "en": "Know what care exists after a sexual assault and which time limits matter.",
+     "hi": "जानना कि यौन हमले के बाद कौन सी देखभाल मिलती है और कौन सी समय-सीमाएँ अहम हैं।",
+     "hg": "Jaanna ki sexual assault ke baad kaun si care milti hai aur kaun si time limits matter karti hain."
+    },
+    {
+     "en": "Recognise common trafficking tactics.",
+     "hi": "मानव तस्करी के आम हथकंडे पहचानना।",
+     "hg": "Trafficking ke common tactics pehchanna."
+    }
+   ]
+  },
+  {
+   "id": "d14-l06",
+   "domain": "d14",
+   "tracks": [
+    "C",
+    "D",
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    4,
+    5
+   ],
+   "prereqs": [
+    "d14-l04"
+   ],
+   "interactive": "support_circle",
+   "refs": [
+    "unesco-itgse",
+    "who-vaw",
+    "pocso-2012",
+    "wcd-childline",
+    "tele-manas",
+    "mha-erss"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Helping a Friend, Reporting and Your Rights",
+    "hi": "दोस्त की मदद, शिकायत और तुम्हारे अधिकार",
+    "hg": "Dost ki Help, Reporting aur Tumhare Rights"
+   },
+   "objectives": [
+    {
+     "en": "Use safe bystander options when you see harassment.",
+     "hi": "उत्पीड़न होते देखने पर सुरक्षित तरीक़ों से दख़ल देना।",
+     "hg": "Harassment hote dekho toh safe bystander options use karna."
+    },
+    {
+     "en": "Respond to a friend's disclosure without blame or pressure.",
+     "hi": "दोस्त के बताने पर बिना दोष दिए और बिना दबाव डाले जवाब देना।",
+     "hg": "Dost ke batane par bina blame aur bina pressure ke respond karna."
+    },
+    {
+     "en": "Explain how reporting works, the limits of confidentiality and the rights of survivors.",
+     "hi": "समझाना कि शिकायत कैसे होती है, गोपनीयता की सीमाएँ क्या हैं और सर्वाइवर के अधिकार क्या हैं।",
+     "hg": "Samjhana ki reporting kaise hoti hai, confidentiality ki limits kya hain aur survivors ke rights kya hain."
+    }
+   ]
+  },
+  {
+   "id": "d14-l07",
+   "domain": "d14",
+   "tracks": [
+    "D",
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    4,
+    2
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "who-vaw",
+    "unicef-child-marriage",
+    "bns-2023",
+    "pocso-2012",
+    "wcd-mission-shakti",
+    "nalsa",
+    "mha-erss"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Violence in the Name of Family",
+    "hi": "परिवार के नाम पर हिंसा",
+    "hg": "Family ke Naam par Violence"
+   },
+   "objectives": [
+    {
+     "en": "Recognise dowry abuse, 'honour' violence, forced marriage, child marriage and acid attacks as crimes, not customs.",
+     "hi": "दहेज उत्पीड़न, 'इज़्ज़त' के नाम पर हिंसा, जबरन शादी, बाल विवाह और तेज़ाब के हमलों को रिवाज नहीं, अपराध के रूप में पहचानना।",
+     "hg": "Dahej abuse, 'izzat' ke naam par violence, forced marriage, child marriage aur acid attacks ko custom nahi, crime ke roop mein pehchanna."
+    },
+    {
+     "en": "Understand why families hide this violence and why silence protects the person doing harm.",
+     "hi": "समझना कि परिवार इस हिंसा को क्यों छिपाते हैं और चुप्पी नुक़सान पहुँचाने वाले को ही क्यों बचाती है।",
+     "hg": "Samajhna ki families is violence ko kyun chhupati hain aur chuppi harm karne wale ko hi kyun bachati hai."
+    },
+    {
+     "en": "Know who to contact: 112, 181, 1098, the police, Protection Officers and free legal aid on 15100.",
+     "hi": "जानना कि किससे संपर्क करें: 112, 181, 1098, पुलिस, संरक्षण अधिकारी (Protection Officer) और 15100 पर मुफ़्त क़ानूनी सहायता।",
+     "hg": "Jaanna ki kisse contact karna hai: 112, 181, 1098, police, Protection Officers aur 15100 par free legal aid."
+    }
+   ]
+  },
+  {
+   "id": "d14-l08",
+   "domain": "d14",
+   "tracks": [
+    "D",
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    4,
+    3
+   ],
+   "prereqs": [],
+   "interactive": "myth_buster",
+   "refs": [
+    "who-child-maltreatment",
+    "pocso-2012",
+    "bns-2023",
+    "who-pep",
+    "tele-manas",
+    "wcd-childline",
+    "nalsa"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Boys and Men Are Survivors Too",
+    "hi": "लड़के और पुरुष भी सर्वाइवर होते हैं",
+    "hg": "Ladke aur Men bhi Survivors Hote Hain"
+   },
+   "objectives": [
+    {
+     "en": "Understand that sexual abuse and assault happen to boys and men, and who commits them.",
+     "hi": "समझना कि यौन शोषण और यौन हमला लड़कों और पुरुषों के साथ भी होता है, और इसे कौन करता है।",
+     "hg": "Samajhna ki sexual abuse aur assault ladkon aur men ke saath bhi hota hai, aur ise kaun karta hai."
+    },
+    {
+     "en": "Replace common myths about male bodies, strength and consent with facts.",
+     "hi": "पुरुष शरीर, ताक़त और सहमति से जुड़े आम मिथकों की जगह तथ्य रखना।",
+     "hg": "Male body, strength aur consent se jude common myths ki jagah facts rakhna."
+    },
+    {
+     "en": "Know what the law covers, where it falls short, and where a male survivor can get help.",
+     "hi": "जानना कि क़ानून क्या कवर करता है, कहाँ कमज़ोर पड़ता है, और पुरुष सर्वाइवर को मदद कहाँ मिल सकती है।",
+     "hg": "Jaanna ki law kya cover karta hai, kahan kamzor padta hai, aur male survivor ko help kahan mil sakti hai."
+    }
+   ]
+  },
+  {
+   "id": "d14-l09",
+   "domain": "d14",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    4,
+    7,
+    8
+   ],
+   "prereqs": [],
+   "interactive": "consent_sim",
+   "refs": [
+    "who-vaw",
+    "who-ec",
+    "who-pep",
+    "who-fp",
+    "who-sti",
+    "who-alcohol",
+    "bns-2023",
+    "mha-erss"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Coercion That Does Not Look Like Violence",
+    "hi": "वह ज़बरदस्ती जो हिंसा जैसी नहीं दिखती",
+    "hg": "Woh Coercion jo Violence Jaisa Nahi Dikhta"
+   },
+   "objectives": [
+    {
+     "en": "Recognise pressure, stealthing, reproductive coercion, drink spiking and deceit as violations of consent.",
+     "hi": "दबाव, स्टेल्थिंग, प्रजनन संबंधी ज़बरदस्ती, ड्रिंक में नशा मिलाने और धोखे को सहमति के उल्लंघन के रूप में पहचानना।",
+     "hg": "Pressure, stealthing, reproductive coercion, drink spiking aur dhoke ko consent ke violation ke roop mein pehchanna."
+    },
+    {
+     "en": "Understand how Indian law treats these situations, including where it is unclear or unequal.",
+     "hi": "समझना कि भारतीय क़ानून इन स्थितियों को कैसे देखता है, और कहाँ वह अस्पष्ट या ग़ैर-बराबर है।",
+     "hg": "Samajhna ki Indian law in situations ko kaise dekhta hai, aur kahan woh unclear ya unequal hai."
+    },
+    {
+     "en": "Know the time-sensitive medical steps and support options afterwards.",
+     "hi": "जानना कि बाद में कौन से इलाज समय-सीमा वाले हैं और सहारा कहाँ मिलता है।",
+     "hg": "Jaanna ki baad mein kaun se medical steps time-sensitive hain aur support kahan milta hai."
+    }
+   ]
+  },
+  {
+   "id": "d15-l01",
+   "domain": "d15",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 5,
+   "unesco": [
+    2,
+    6
+   ],
+   "prereqs": [],
+   "interactive": "myth_buster",
+   "refs": [
+    "nhs-periods",
+    "unesco-itgse",
+    "nhm-rksk"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Growing-Up Myth Check",
+    "hi": "बड़े होने से जुड़े मिथक: सच क्या है",
+    "hg": "Growing-Up Myth Check: Sach Kya Hai"
+   },
+   "objectives": [
+    {
+     "en": "Explain why periods are not impure or dirty.",
+     "hi": "समझा पाना कि पीरियड्स अशुद्ध या गंदे क्यों नहीं हैं।",
+     "hg": "Samjha paana ki periods impure ya gande kyun nahi hain."
+    },
+    {
+     "en": "Know that exercise during periods is safe and that wet dreams are normal.",
+     "hi": "जानना कि पीरियड्स में कसरत करना सुरक्षित है और स्वप्नदोष (wet dream) सामान्य है।",
+     "hg": "Jaanna ki periods mein exercise safe hai aur wet dreams normal hain."
+    },
+    {
+     "en": "Understand that puberty starts at different ages for different people.",
+     "hi": "समझना कि प्यूबर्टी अलग-अलग लोगों में अलग-अलग उम्र में शुरू होती है।",
+     "hg": "Samajhna ki puberty alag-alag logon mein alag-alag age pe start hoti hai."
+    }
+   ]
+  },
+  {
+   "id": "d15-l02",
+   "domain": "d15",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 6,
+   "unesco": [
+    2,
+    7
+   ],
+   "prereqs": [],
+   "interactive": "myth_buster",
+   "refs": [
+    "unesco-itgse",
+    "who-sexual-health",
+    "nhm-afhc"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Masturbation Myths: Weakness, Infertility and 'Dhat'",
+    "hi": "हस्तमैथुन के मिथक: कमज़ोरी, संतान न होना और 'धात'",
+    "hg": "Masturbation Myths: Kamzori, Infertility aur 'Dhat'"
+   },
+   "objectives": [
+    {
+     "en": "State what medical science says about masturbation and physical health.",
+     "hi": "बता पाना कि हस्तमैथुन (masturbation) और शरीर की सेहत के बारे में मेडिकल साइंस क्या कहती है।",
+     "hg": "Bata paana ki masturbation aur physical health ke baare mein medical science kya bolti hai."
+    },
+    {
+     "en": "Explain how semen is produced and why 'semen loss' does not drain strength.",
+     "hi": "समझाना कि वीर्य (semen) कैसे बनता है और 'वीर्य निकलने' से ताक़त क्यों नहीं घटती।",
+     "hg": "Explain karna ki semen kaise banta hai aur 'semen loss' se taakat kyun nahi ghatti."
+    },
+    {
+     "en": "Recognise when the worry itself needs support from a doctor or counsellor.",
+     "hi": "पहचानना कि कब ख़ुद यह फ़िक्र ही डॉक्टर या काउंसलर की मदद माँगती है।",
+     "hg": "Pehchaanna ki kab khud yeh tension hi doctor ya counsellor ki help maangti hai."
+    }
+   ]
+  },
+  {
+   "id": "d15-l03",
+   "domain": "d15",
+   "tracks": [
+    "C",
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 6,
+   "unesco": [
+    2,
+    6,
+    8
+   ],
+   "prereqs": [],
+   "interactive": "myth_buster",
+   "refs": [
+    "who-sexual-health",
+    "unesco-itgse",
+    "who-fp"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Body Myths: The Hymen, Looks and the First Time",
+    "hi": "शरीर के मिथक: हाइमन, रंग-रूप और 'पहली बार'",
+    "hg": "Body Myths: Hymen, Looks aur 'First Time'"
+   },
+   "objectives": [
+    {
+     "en": "Describe what the hymen is and why it cannot show sexual history.",
+     "hi": "बता पाना कि हाइमन क्या है और वह यौन इतिहास क्यों नहीं दिखा सकता।",
+     "hg": "Bata paana ki hymen kya hai aur woh sexual history kyun nahi dikha sakta."
+    },
+    {
+     "en": "Explain why appearance is not evidence of sexual experience.",
+     "hi": "समझाना कि रंग-रूप यौन अनुभव का सबूत क्यों नहीं है।",
+     "hg": "Explain karna ki appearance sexual experience ka proof kyun nahi hai."
+    },
+    {
+     "en": "Know that pregnancy is possible the first time sperm meets an egg.",
+     "hi": "जानना कि जब भी शुक्राणु अंडे से मिले, पहली बार में भी गर्भ ठहर सकता है।",
+     "hg": "Jaanna ki jab bhi sperm egg se mile, pehli baar mein bhi pregnancy ho sakti hai."
+    }
+   ]
+  },
+  {
+   "id": "d15-l04",
+   "domain": "d15",
+   "tracks": [
+    "D",
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    2,
+    8
+   ],
+   "prereqs": [],
+   "interactive": "myth_buster",
+   "refs": [
+    "who-hiv",
+    "who-sti",
+    "who-ec",
+    "naco"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Infection and Pill Myths, Fact-Checked",
+    "hi": "संक्रमण और गोली से जुड़े मिथक: जाँच-परख",
+    "hg": "Infection aur Pill ke Myths: Fact-Check"
+   },
+   "objectives": [
+    {
+     "en": "State how HIV is and is not transmitted.",
+     "hi": "बता पाना कि एचआईवी कैसे फैलता है और कैसे नहीं।",
+     "hg": "Bata paana ki HIV kaise phailta hai aur kaise nahi."
+    },
+    {
+     "en": "Explain why STIs cannot be ruled out by looking, and what emergency contraception does and does not do.",
+     "hi": "समझाना कि सिर्फ़ देखकर एसटीआई को नकारा क्यों नहीं जा सकता, और इमरजेंसी गर्भनिरोधक क्या करता है और क्या नहीं।",
+     "hg": "Explain karna ki sirf dekhkar STI rule out kyun nahi ho sakta, aur emergency contraception kya karta hai aur kya nahi."
+    },
+    {
+     "en": "Use four questions to judge health advice on social media.",
+     "hi": "सोशल मीडिया की सेहत वाली सलाह को परखने के लिए चार सवालों का इस्तेमाल करना।",
+     "hg": "Social media ki health advice ko judge karne ke liye chaar questions use karna."
+    }
+   ]
+  },
+  {
+   "id": "d15-l05",
+   "domain": "d15",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 7,
+   "unesco": [
+    1,
+    2,
+    4
+   ],
+   "prereqs": [
+    "d15-l04"
+   ],
+   "interactive": "relationship_radar",
+   "refs": [
+    "bns-2023",
+    "who-vaw",
+    "wcd-mission-shakti",
+    "unesco-itgse"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Marriage, Consent and What Love Is Not",
+    "hi": "शादी, सहमति और वह जो प्यार नहीं है",
+    "hg": "Shaadi, Consent aur Woh Jo Pyaar Nahi Hai"
+   },
+   "objectives": [
+    {
+     "en": "Explain why marriage does not create automatic sexual consent.",
+     "hi": "समझाना कि शादी से यौन सहमति अपने आप क्यों नहीं बन जाती।",
+     "hg": "Explain karna ki shaadi se sexual consent apne aap kyun nahi ban jaati."
+    },
+    {
+     "en": "Describe honestly what Indian law currently says and where it is contested.",
+     "hi": "ईमानदारी से बताना कि भारतीय क़ानून अभी क्या कहता है और किस बात पर विवाद है।",
+     "hg": "Honestly batana ki Indian law abhi kya bolta hai aur kis baat pe vivaad hai."
+    },
+    {
+     "en": "Tell care apart from control in a relationship and know where to get help.",
+     "hi": "रिश्ते में परवाह और कंट्रोल का फ़र्क़ पहचानना और जानना कि मदद कहाँ मिलती है।",
+     "hg": "Relationship mein care aur control ka farq pehchaanna aur jaanna ki help kahan milti hai."
+    }
+   ]
+  },
+  {
+   "id": "d16-l01",
+   "domain": "d16",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 6,
+   "unesco": [
+    2,
+    4
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "pocso-2012",
+    "wcd-childline",
+    "mha-erss"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Laws That Protect You",
+    "hi": "क़ानून जो तुम्हारी हिफ़ाज़त करते हैं",
+    "hg": "Laws Jo Tumhe Protect Karte Hain"
+   },
+   "objectives": [
+    {
+     "en": "Say what the POCSO Act is and who counts as a child under it.",
+     "hi": "बता पाना कि पॉक्सो क़ानून क्या है और उसमें बच्चा किसे माना गया है।",
+     "hg": "Bata paana ki POCSO Act kya hai aur usme child kise maana gaya hai."
+    },
+    {
+     "en": "Describe how the law tries to make reporting gentle and private for children.",
+     "hi": "बता पाना कि क़ानून बच्चों के लिए शिकायत की प्रक्रिया को नरम और निजी कैसे बनाता है।",
+     "hg": "Bata paana ki law bachchon ke liye reporting ko gentle aur private kaise banata hai."
+    },
+    {
+     "en": "Know that adults must report abuse, and which numbers to call.",
+     "hi": "जानना कि बड़ों के लिए शोषण की सूचना देना ज़रूरी है, और किन नंबरों पर फ़ोन करना है।",
+     "hg": "Jaanna ki adults ke liye abuse report karna zaroori hai, aur kin numbers par call karna hai."
+    }
+   ]
+  },
+  {
+   "id": "d16-l02",
+   "domain": "d16",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    2,
+    4
+   ],
+   "prereqs": [],
+   "interactive": "myth_buster",
+   "refs": [
+    "pocso-2012",
+    "wcd-childline"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "POCSO, Plainly: Age 18, Reporting and Your Privacy",
+    "hi": "पॉक्सो, सीधी भाषा में: 18 की उम्र, रिपोर्टिंग और तुम्हारी निजता",
+    "hg": "POCSO, Seedhi Baat: Age 18, Reporting aur Tumhari Privacy"
+   },
+   "objectives": [
+    {
+     "en": "List the kinds of acts the POCSO Act covers.",
+     "hi": "गिना पाना कि पॉक्सो क़ानून में किस तरह के कृत्य आते हैं।",
+     "hg": "Gina paana ki POCSO Act mein kis tarah ke acts aate hain."
+    },
+    {
+     "en": "Explain why a minor's agreement is not consent under Indian law.",
+     "hi": "समझा पाना कि भारतीय क़ानून में नाबालिग की रज़ामंदी सहमति क्यों नहीं है।",
+     "hg": "Samjha paana ki Indian law mein minor ka agreement consent kyun nahi hai."
+    },
+    {
+     "en": "Describe mandatory reporting and what it means for confidentiality.",
+     "hi": "बता पाना कि अनिवार्य रिपोर्टिंग क्या है और गोपनीयता पर इसका क्या असर पड़ता है।",
+     "hg": "Bata paana ki mandatory reporting kya hai aur confidentiality par iska kya asar padta hai."
+    }
+   ]
+  },
+  {
+   "id": "d16-l03",
+   "domain": "d16",
+   "tracks": [
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    2,
+    4
+   ],
+   "prereqs": [],
+   "interactive": "digital_safety",
+   "refs": [
+    "bns-2023",
+    "cybercrime-portal",
+    "mha-erss",
+    "pocso-2012"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Harassment, Stalking and Image Abuse: What the Law Covers",
+    "hi": "उत्पीड़न, पीछा करना और तस्वीरों का दुरुपयोग: क़ानून में क्या आता है",
+    "hg": "Harassment, Stalking aur Image Abuse: Law Kya Cover Karta Hai"
+   },
+   "objectives": [
+    {
+     "en": "Name the main sexual offences the Bharatiya Nyaya Sanhita describes, including harassment, voyeurism and stalking.",
+     "hi": "भारतीय न्याय संहिता में बताए गए मुख्य यौन अपराधों के नाम बता पाना, जिनमें उत्पीड़न, ताक-झाँक और पीछा करना शामिल हैं।",
+     "hg": "Bharatiya Nyaya Sanhita mein bataye gaye main sexual offences ke naam bata paana, jisme harassment, voyeurism aur stalking shaamil hain."
+    },
+    {
+     "en": "Explain what the IT Act says about private images and child sexual abuse material.",
+     "hi": "समझा पाना कि IT Act निजी तस्वीरों और बाल यौन शोषण सामग्री के बारे में क्या कहता है।",
+     "hg": "Samjha paana ki IT Act private images aur child sexual abuse material ke baare mein kya kehta hai."
+    },
+    {
+     "en": "Describe the main routes for reporting in India.",
+     "hi": "भारत में शिकायत करने के मुख्य रास्ते बता पाना।",
+     "hg": "India mein report karne ke main routes bata paana."
+    }
+   ]
+  },
+  {
+   "id": "d16-l04",
+   "domain": "d16",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    2,
+    8
+   ],
+   "prereqs": [],
+   "interactive": "ask",
+   "refs": [
+    "nhm-cac",
+    "who-abortion",
+    "bns-2023",
+    "naco"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Adult Rights: Abortion Law, Marriage and Medical Confidentiality",
+    "hi": "वयस्कों के अधिकार: गर्भपात क़ानून, शादी और चिकित्सा गोपनीयता",
+    "hg": "Adult Rights: Abortion Law, Shaadi aur Medical Confidentiality"
+   },
+   "objectives": [
+    {
+     "en": "State the main conditions of the Medical Termination of Pregnancy Act.",
+     "hi": "गर्भ का चिकित्सकीय समापन अधिनियम (MTP Act) की मुख्य शर्तें बता पाना।",
+     "hg": "Medical Termination of Pregnancy Act ki main conditions bata paana."
+    },
+    {
+     "en": "Describe where Indian law stands on marriage age, consent in marriage and equality rights.",
+     "hi": "बता पाना कि शादी की उम्र, शादी में सहमति और बराबरी के अधिकारों पर भारतीय क़ानून कहाँ खड़ा है।",
+     "hg": "Bata paana ki shaadi ki age, shaadi mein consent aur equality rights par Indian law kahan khada hai."
+    },
+    {
+     "en": "Explain what medical confidentiality covers and when the law overrides it.",
+     "hi": "समझा पाना कि चिकित्सा गोपनीयता में क्या आता है और क़ानून कब उससे ऊपर हो जाता है।",
+     "hg": "Samjha paana ki medical confidentiality mein kya aata hai aur law kab usse override karta hai."
+    }
+   ]
+  },
+  {
+   "id": "d16-l05",
+   "domain": "d16",
+   "tracks": [
+    "C",
+    "D",
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    2,
+    4,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "wcd-childline",
+    "mha-erss",
+    "cybercrime-portal",
+    "tele-manas",
+    "naco",
+    "nhm-afhc",
+    "pocso-2012"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Your Help Map: Helplines, Schools and Free Legal Aid",
+    "hi": "आपका मदद का नक़्शा: हेल्पलाइन, स्कूल और मुफ़्त क़ानूनी सहायता",
+    "hg": "Tumhara Help Map: Helplines, Schools aur Free Legal Aid"
+   },
+   "objectives": [
+    {
+     "en": "Match India's main helplines to the problems they handle.",
+     "hi": "भारत की मुख्य हेल्पलाइनों को उन समस्याओं से जोड़ पाना जिनमें वे मदद करती हैं।",
+     "hg": "India ki main helplines ko un problems se match kar paana jinhe woh handle karti hain."
+    },
+    {
+     "en": "State what schools, colleges and workplaces are required to do about abuse and harassment.",
+     "hi": "बता पाना कि शोषण और उत्पीड़न के मामले में स्कूल, कॉलेज और कार्यस्थल के लिए क्या करना ज़रूरी है।",
+     "hg": "Bata paana ki abuse aur harassment ke case mein schools, colleges aur workplaces ke liye kya karna zaroori hai."
+    },
+    {
+     "en": "Follow a step-by-step path to get help, including free legal aid.",
+     "hi": "मदद पाने का क़दम-दर-क़दम रास्ता अपना पाना, मुफ़्त क़ानूनी सहायता समेत।",
+     "hg": "Help lene ka step-by-step raasta follow kar paana, free legal aid ke saath."
+    }
+   ]
+  },
+  {
+   "id": "d16-l06",
+   "domain": "d16",
+   "tracks": [
+    "D",
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 8,
+   "unesco": [
+    2,
+    4
+   ],
+   "prereqs": [],
+   "interactive": "ask",
+   "refs": [
+    "bns-2023",
+    "pcpndt",
+    "shebox",
+    "nalsa",
+    "unicef-child-marriage",
+    "pocso-2012",
+    "ncw"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "The Law in the Hardest Situations",
+    "hi": "सबसे मुश्किल हालात में क़ानून",
+    "hg": "Sabse Mushkil Situations mein Law"
+   },
+   "objectives": [
+    {
+     "en": "Name, in plain language, the Indian laws on dowry, child marriage, sex selection, workplace sexual harassment, acid attacks, trafficking and sex by deceit.",
+     "hi": "दहेज, बाल विवाह, लिंग चयन, कार्यस्थल पर यौन उत्पीड़न, तेज़ाब के हमले, मानव तस्करी और धोखे से सेक्स पर भारतीय क़ानूनों को सीधी भाषा में बता पाना।",
+     "hg": "Dahej, child marriage, sex selection, workplace sexual harassment, acid attacks, trafficking aur dhoke se sex par Indian laws ko seedhi language mein bata paana."
+    },
+    {
+     "en": "Understand the gaps, including weaker protection for adult male and transgender survivors.",
+     "hi": "क़ानून की कमियाँ समझना, जिनमें वयस्क पुरुष और ट्रांसजेंडर सर्वाइवर के लिए कमज़ोर सुरक्षा शामिल है।",
+     "hg": "Law ke gaps samajhna, jisme adult male aur transgender survivors ke liye weaker protection shaamil hai."
+    },
+    {
+     "en": "Know how to reach free legal aid through NALSA on 15100.",
+     "hi": "जानना कि नालसा (NALSA) के 15100 के ज़रिए मुफ़्त क़ानूनी सहायता तक कैसे पहुँचें।",
+     "hg": "Jaanna ki NALSA ke 15100 ke through free legal aid tak kaise pahunchein."
+    }
+   ]
+  },
+  {
+   "id": "d17-l01",
+   "domain": "d17",
+   "tracks": [
+    "A"
+   ],
+   "difficulty": 1,
+   "minutes": 3,
+   "unesco": [
+    5
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "unesco-itgse",
+    "who-adolescent-mh"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "All Feelings Are Okay",
+    "hi": "हर एहसास ठीक है",
+    "hg": "Har Feeling Theek Hai"
+   },
+   "objectives": [
+    {
+     "en": "Name five different feelings.",
+     "hi": "पाँच अलग-अलग एहसासों के नाम बता सको।",
+     "hg": "Paanch alag-alag feelings ke naam bata sako."
+    },
+    {
+     "en": "Use slow breathing to calm down.",
+     "hi": "धीमी साँस लेकर ख़ुद को शांत कर सको।",
+     "hg": "Dheemi saans lekar khud ko shaant kar sako."
+    },
+    {
+     "en": "Tell a trusted grown-up when a feeling is too big.",
+     "hi": "जब कोई एहसास बहुत बड़ा लगे, तो भरोसे वाले बड़े को बता सको।",
+     "hg": "Jab koi feeling bahut badi lage, toh bharose wale bade ko bata sako."
+    }
+   ]
+  },
+  {
+   "id": "d17-l02",
+   "domain": "d17",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 6,
+   "unesco": [
+    5,
+    6
+   ],
+   "prereqs": [],
+   "interactive": "puberty_lab",
+   "refs": [
+    "unesco-itgse",
+    "nhm-rksk",
+    "tele-manas"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Growing Up Without the Comparison Trap",
+    "hi": "तुलना के जाल में फँसे बिना बड़ा होना",
+    "hg": "Comparison Trap Se Bachke Bade Hona"
+   },
+   "objectives": [
+    {
+     "en": "Explain why bodies in the same class change at different times.",
+     "hi": "समझा सको कि एक ही क्लास के बच्चों के शरीर अलग-अलग समय पर क्यों बदलते हैं।",
+     "hg": "Samjha sako ki ek hi class ke bachchon ki bodies alag-alag time par kyun badalti hain."
+    },
+    {
+     "en": "Spot how filters and advertisements distort what looks normal.",
+     "hi": "पहचान सको कि फ़िल्टर और विज्ञापन 'नॉर्मल' की तस्वीर को कैसे बिगाड़ते हैं।",
+     "hg": "Pehchaan sako ki filters aur ads 'normal' ki picture ko kaise bigaadte hain."
+    },
+    {
+     "en": "Name what builds self-esteem and whom to ask for help.",
+     "hi": "बता सको कि आत्म-सम्मान किन चीज़ों से बनता है और मदद किससे माँगनी है।",
+     "hg": "Bata sako ki self-esteem kin cheezon se banta hai aur help kisse maangni hai."
+    }
+   ]
+  },
+  {
+   "id": "d17-l03",
+   "domain": "d17",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    5,
+    7
+   ],
+   "prereqs": [],
+   "interactive": "communication",
+   "refs": [
+    "who-adolescent-mh",
+    "unesco-itgse",
+    "tele-manas",
+    "pocso-2012"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Pressure, Rejection and Shame: A Survival Guide",
+    "hi": "दबाव, रिजेक्शन और शर्म: संभलने की गाइड",
+    "hg": "Pressure, Rejection aur Sharam: Survival Guide"
+   },
+   "objectives": [
+    {
+     "en": "Tell the difference between guilt and shame.",
+     "hi": "अपराध-बोध (guilt) और शर्म (shame) का फ़र्क़ बता सको।",
+     "hg": "Guilt aur shame ka fark bata sako."
+    },
+    {
+     "en": "Respond to pressure to date or be sexually active.",
+     "hi": "डेट करने या यौन रूप से सक्रिय होने के दबाव का जवाब दे सको।",
+     "hg": "Date karne ya sexually active hone ke pressure ka jawab de sako."
+    },
+    {
+     "en": "Choose coping that helps over coping that harms.",
+     "hi": "नुक़सान करने वाले तरीक़ों की जगह मदद करने वाले तरीक़े चुन सको।",
+     "hg": "Nuksaan karne wali coping ki jagah help karne wali coping chun sako."
+    }
+   ]
+  },
+  {
+   "id": "d17-l04",
+   "domain": "d17",
+   "tracks": [
+    "D"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    1,
+    4,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "relationship_radar",
+   "refs": [
+    "who-vaw",
+    "who-adolescent-mh",
+    "tele-manas",
+    "unesco-itgse"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Anxious, Heartbroken or Being Controlled? Know the Difference",
+    "hi": "बेचैनी, टूटा दिल या कंट्रोल? फ़र्क़ पहचानो",
+    "hg": "Anxiety, Heartbreak ya Control? Fark Pehchano"
+   },
+   "objectives": [
+    {
+     "en": "Describe relationship anxiety and ways to steady it.",
+     "hi": "रिश्ते की बेचैनी को पहचान सको और उसे संभालने के तरीक़े बता सको।",
+     "hg": "Relationship anxiety ko pehchaan sako aur usse steady karne ke tareeke bata sako."
+    },
+    {
+     "en": "Get through a breakup without harming yourself or the other person.",
+     "hi": "ख़ुद को या सामने वाले को नुक़सान पहुँचाए बिना ब्रेकअप से गुज़र सको।",
+     "hg": "Khud ko ya saamne wale ko harm kiye bina breakup se guzar sako."
+    },
+    {
+     "en": "Recognise the pattern of emotional abuse and know where to get help.",
+     "hi": "भावनात्मक शोषण का पैटर्न पहचान सको और जान सको कि मदद कहाँ मिलेगी।",
+     "hg": "Emotional abuse ka pattern pehchaan sako aur jaan sako ki help kahan milegi."
+    }
+   ]
+  },
+  {
+   "id": "d17-l05",
+   "domain": "d17",
+   "tracks": [
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    5,
+    7
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "tele-manas",
+    "who-adolescent-mh",
+    "who-sexual-health",
+    "unesco-itgse"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Adulting Is Heavy: Stress, Sex Pressure and Real Help",
+    "hi": "बड़ों की ज़िंदगी भारी है: तनाव, सेक्स का दबाव और असली मदद",
+    "hg": "Adulting Heavy Hai: Stress, Sex Pressure aur Asli Help"
+   },
+   "objectives": [
+    {
+     "en": "Identify common adult stressors and the basics that protect mental health.",
+     "hi": "वयस्क जीवन के आम तनाव और मानसिक सेहत को बचाने वाली बुनियादी चीज़ें पहचान सकें।",
+     "hg": "Adult life ke common stressors aur mental health ko protect karne wale basics pehchaan sako."
+    },
+    {
+     "en": "Respect your own and others' decisions about being or not being sexually active.",
+     "hi": "यौन रूप से सक्रिय होने या न होने के अपने और दूसरों के फ़ैसलों की इज़्ज़त कर सकें।",
+     "hg": "Sexually active hone ya na hone ke apne aur doosron ke decisions ki respect kar sako."
+    },
+    {
+     "en": "Explain who the different mental health professionals are and how to reach them.",
+     "hi": "समझा सकें कि मानसिक स्वास्थ्य के अलग-अलग पेशेवर कौन हैं और उन तक कैसे पहुँचा जाए।",
+     "hg": "Samjha sako ki alag-alag mental health professionals kaun hain aur un tak kaise pahunchein."
+    }
+   ]
+  },
+  {
+   "id": "d17-l06",
+   "domain": "d17",
+   "tracks": [
+    "D",
+    "E"
+   ],
+   "difficulty": 3,
+   "minutes": 9,
+   "unesco": [
+    3,
+    4,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "nhs-eating-disorders",
+    "who-suicide",
+    "who-maternal-mh",
+    "who-child-maltreatment",
+    "who-adolescent-mh",
+    "tele-manas",
+    "mha-erss"
+   ],
+   "sensitive": true,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "What Silence Costs: Bodies, Minds and Asking for Help",
+    "hi": "चुप्पी की क़ीमत: शरीर, मन और मदद माँगना",
+    "hg": "Chuppi ki Keemat: Body, Mind aur Help Maangna"
+   },
+   "objectives": [
+    {
+     "en": "Recognise signs of eating disorders and body dysmorphia, including muscle dysmorphia, in people of any gender.",
+     "hi": "किसी भी जेंडर के लोगों में ईटिंग डिसऑर्डर और बॉडी डिस्मॉर्फ़िया, जिसमें मसल डिस्मॉर्फ़िया भी शामिल है, के संकेत पहचान सको।",
+     "hg": "Kisi bhi gender ke logon mein eating disorders aur body dysmorphia, jisme muscle dysmorphia bhi shaamil hai, ke signs pehchaan sako."
+    },
+    {
+     "en": "Explain why men seek help less, how depression can follow childbirth in mothers and fathers, and why shame after abuse belongs to the abuser.",
+     "hi": "समझा सको कि पुरुष मदद कम क्यों माँगते हैं, प्रसव के बाद माँ और पिता दोनों को डिप्रेशन कैसे हो सकता है, और शोषण के बाद की शर्म असल में शोषण करने वाले की क्यों है।",
+     "hg": "Samjha sako ki men help kam kyun maangte hain, delivery ke baad mothers aur fathers dono ko depression kaise ho sakta hai, aur abuse ke baad ki shame asal mein abuser ki kyun hai."
+    },
+    {
+     "en": "Name suicide warning signs and the three steps for responding: ask directly, stay, connect to help.",
+     "hi": "आत्महत्या के चेतावनी संकेत और जवाब देने के तीन क़दम बता सको: सीधे पूछो, साथ रहो, मदद से जोड़ो।",
+     "hg": "Suicide ke warning signs aur respond karne ke teen steps bata sako: seedha poocho, saath raho, help se connect karo."
+    }
+   ]
+  },
+  {
+   "id": "d18-l01",
+   "domain": "d18",
+   "tracks": [
+    "A"
+   ],
+   "difficulty": 1,
+   "minutes": 3,
+   "unesco": [
+    5,
+    4
+   ],
+   "prereqs": [],
+   "interactive": "communication",
+   "refs": [
+    "unesco-itgse",
+    "wcd-childline"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "My Voice Is Strong",
+    "hi": "मेरी आवाज़ में दम है",
+    "hg": "Meri Awaaz Mein Dum Hai"
+   },
+   "objectives": [
+    {
+     "en": "Say no in a clear voice when something feels wrong.",
+     "hi": "जब कुछ ग़लत लगे तो साफ़ आवाज़ में 'ना' कह सको।",
+     "hg": "Jab kuch galat lage toh clear awaaz mein 'no' bol sako."
+    },
+    {
+     "en": "Stop when another person says no.",
+     "hi": "जब कोई दूसरा 'ना' कहे तो रुक सको।",
+     "hg": "Jab koi doosra 'no' bole toh ruk sako."
+    },
+    {
+     "en": "Ask questions and tell a grown-up you trust when you need help.",
+     "hi": "सवाल पूछ सको और मदद चाहिए हो तो किसी भरोसे वाले बड़े को बता सको।",
+     "hg": "Sawaal pooch sako aur help chahiye ho toh kisi bharose wale bade ko bata sako."
+    }
+   ]
+  },
+  {
+   "id": "d18-l02",
+   "domain": "d18",
+   "tracks": [
+    "B"
+   ],
+   "difficulty": 1,
+   "minutes": 6,
+   "unesco": [
+    1,
+    5
+   ],
+   "prereqs": [],
+   "interactive": "communication",
+   "refs": [
+    "unesco-itgse",
+    "who-cse"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Say It Clearly: Feelings, Fights and Awkward Talks",
+    "hi": "साफ़ बोलो: भावनाएँ, झगड़े और झिझक वाली बातें",
+    "hg": "Seedha Bolo: Feelings, Fights aur Awkward Baatein"
+   },
+   "objectives": [
+    {
+     "en": "Use an 'I' sentence to say what bothers you without blaming.",
+     "hi": "'मैं' वाले वाक्य से बिना इल्ज़ाम लगाए बता सको कि तुम्हें क्या परेशान कर रहा है।",
+     "hg": "'Main' wale sentence se bina blame kiye bata sako ki tumhe kya pareshaan kar raha hai."
+    },
+    {
+     "en": "Say no to a friend, and accept a friend's no.",
+     "hi": "दोस्त को 'ना' कह सको, और दोस्त की 'ना' मान सको।",
+     "hg": "Dost ko 'no' bol sako, aur dost ki 'no' accept kar sako."
+    },
+    {
+     "en": "Start an awkward conversation with a parent or teacher, and repair a fight.",
+     "hi": "माता-पिता या टीचर से झिझक वाली बात शुरू कर सको, और झगड़ा सुलझा सको।",
+     "hg": "Parent ya teacher se awkward baat shuru kar sako, aur fight repair kar sako."
+    }
+   ]
+  },
+  {
+   "id": "d18-l03",
+   "domain": "d18",
+   "tracks": [
+    "C"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    5,
+    1
+   ],
+   "prereqs": [],
+   "interactive": "communication",
+   "refs": [
+    "unesco-itgse",
+    "who-cse"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Your Call: Decisions, Pressure and Manipulation",
+    "hi": "फ़ैसला तुम्हारा: निर्णय, दबाव और बहलाने-फुसलाने के तरीक़े",
+    "hg": "Faisla Tumhara: Decisions, Pressure aur Manipulation"
+   },
+   "objectives": [
+    {
+     "en": "Use a step-by-step method for decisions that matter.",
+     "hi": "अहम फ़ैसलों के लिए क़दम-दर-क़दम तरीक़ा इस्तेमाल कर सको।",
+     "hg": "Important decisions ke liye step-by-step method use kar sako."
+    },
+    {
+     "en": "Name common manipulation tactics when you hear them.",
+     "hi": "बहलाने-फुसलाने की आम चालों को सुनते ही पहचान सको।",
+     "hg": "Common manipulation tactics ko sunte hi pehchaan sako."
+    },
+    {
+     "en": "Say an assertive no, and respect another person's no.",
+     "hi": "मज़बूती से 'ना' कह सको, और दूसरे की 'ना' का सम्मान कर सको।",
+     "hg": "Assertive 'no' bol sako, aur doosre ki 'no' ko respect kar sako."
+    }
+   ]
+  },
+  {
+   "id": "d18-l04",
+   "domain": "d18",
+   "tracks": [
+    "D",
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 8,
+   "unesco": [
+    5,
+    8
+   ],
+   "prereqs": [],
+   "interactive": "support_circle",
+   "refs": [
+    "unesco-itgse",
+    "nhm-afhc",
+    "pocso-2012"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Hard Conversations: Doctors, Parents and Friends in Trouble",
+    "hi": "मुश्किल बातचीत: डॉक्टर, माता-पिता और मुसीबत में पड़े दोस्त",
+    "hg": "Mushkil Conversations: Doctor, Parents aur Mushkil Mein Dost"
+   },
+   "objectives": [
+    {
+     "en": "Prepare for a medical appointment and ask the questions that matter.",
+     "hi": "डॉक्टर के पास जाने की तैयारी कर सको और ज़रूरी सवाल पूछ सको।",
+     "hg": "Doctor ke appointment ki taiyaari kar sako aur zaroori sawaal pooch sako."
+    },
+    {
+     "en": "Explain what confidentiality means and where its limits are, especially under 18.",
+     "hi": "समझा सको कि गोपनीयता का क्या मतलब है और उसकी सीमाएँ कहाँ हैं, ख़ासकर 18 साल से कम उम्र में।",
+     "hg": "Samjha sako ki confidentiality ka kya matlab hai aur uski limits kahan hain, khaaskar 18 se kam age mein."
+    },
+    {
+     "en": "Open a difficult conversation with a parent and respond well when a friend confides in you.",
+     "hi": "माता-पिता से मुश्किल बात शुरू कर सको और जब कोई दोस्त अपनी बात बताए तो सही ढंग से साथ दे सको।",
+     "hg": "Parent se mushkil baat shuru kar sako aur jab koi dost apni baat share kare toh sahi tareeke se saath de sako."
+    }
+   ]
+  },
+  {
+   "id": "d18-l05",
+   "domain": "d18",
+   "tracks": [
+    "C",
+    "D",
+    "E"
+   ],
+   "difficulty": 2,
+   "minutes": 7,
+   "unesco": [
+    5
+   ],
+   "prereqs": [
+    "d18-l03"
+   ],
+   "interactive": "myth_buster",
+   "refs": [
+    "unesco-itgse",
+    "who-cse"
+   ],
+   "sensitive": false,
+   "review": "pending_expert_review",
+   "revised": "2026-11-14",
+   "title": {
+    "en": "Fact-Check Mode: Health Info You Can Trust",
+    "hi": "फ़ैक्ट-चेक मोड: सेहत की भरोसेमंद जानकारी",
+    "hg": "Fact-Check Mode: Bharosemand Health Info"
+   },
+   "objectives": [
+    {
+     "en": "Explain why health misinformation spreads easily.",
+     "hi": "समझा सको कि सेहत से जुड़ी ग़लत जानकारी इतनी आसानी से क्यों फैलती है।",
+     "hg": "Samjha sako ki health misinformation itni easily kyun phailti hai."
+    },
+    {
+     "en": "Apply five checks to any health claim and recognise the red flags of quackery.",
+     "hi": "सेहत के किसी भी दावे पर पाँच जाँचें लगा सको और नीम-हकीमी के ख़तरे के संकेत पहचान सको।",
+     "hg": "Kisi bhi health claim pe paanch checks laga sako aur quackery ke red flags pehchaan sako."
+    },
+    {
+     "en": "Post, forward and comment responsibly.",
+     "hi": "ज़िम्मेदारी से पोस्ट, फ़ॉरवर्ड और कमेंट कर सको।",
+     "hg": "Responsibly post, forward aur comment kar sako."
+    }
+   ]
+  }
+ ]
+}

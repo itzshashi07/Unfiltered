@@ -1,0 +1,114 @@
+[
+  {
+    "id": "d17-g1",
+    "domain": "d17",
+    "tracks": ["A", "B"],
+    "title": {"en": "Feelings Words", "hi": "एहसासों के शब्द", "hg": "Feelings Wale Words"},
+    "terms": [
+      {
+        "term": {"en": "Feeling", "hi": "एहसास (feeling)", "hg": "Feeling"},
+        "def": {
+          "en": "What you feel inside, like happy, sad, angry or scared. Feelings come and go, and every feeling is okay to have.",
+          "hi": "जो तुम अपने अंदर महसूस करते हो, जैसे ख़ुशी, उदासी, गुस्सा या डर। एहसास आते-जाते रहते हैं, और हर एहसास का होना ठीक है।",
+          "hg": "Jo tum apne andar mehsoos karte ho, jaise khushi, udaasi, gussa ya darr. Feelings aati-jaati rehti hain, aur har feeling ka hona theek hai."
+        }
+      },
+      {
+        "term": {"en": "Worry", "hi": "चिंता", "hg": "Chinta (worry)"},
+        "def": {
+          "en": "The feeling that something bad might happen. It can make your tummy hurt or keep you awake at night.",
+          "hi": "यह एहसास कि कुछ बुरा हो सकता है। इससे पेट में दर्द हो सकता है या रात को नींद नहीं आती।",
+          "hg": "Yeh feeling ki kuch bura ho sakta hai. Isse pet mein dard ho sakta hai ya raat ko neend nahi aati."
+        }
+      },
+      {
+        "term": {"en": "Calm", "hi": "शांत", "hg": "Shaant (calm)"},
+        "def": {
+          "en": "When your body feels slow and relaxed and your mind feels quiet. Slow breathing helps you get calm.",
+          "hi": "जब शरीर धीमा और ढीला महसूस हो और मन में शोर न हो। धीमी साँसें शांत होने में मदद करती हैं।",
+          "hg": "Jab body slow aur relaxed feel ho aur mann mein shor na ho. Dheemi saansein shaant hone mein help karti hain."
+        }
+      },
+      {
+        "term": {"en": "Trusted grown-up", "hi": "भरोसे वाला बड़ा", "hg": "Bharose wala bada"},
+        "def": {
+          "en": "An adult who keeps you safe, listens to you and helps you, like a parent, grandparent or teacher.",
+          "hi": "ऐसा बड़ा इंसान जो तुम्हें सुरक्षित रखता है, तुम्हारी बात सुनता है और मदद करता है, जैसे माता-पिता, दादा-दादी या टीचर।",
+          "hg": "Aisa bada insaan jo tumhe safe rakhta hai, tumhari baat sunta hai aur help karta hai, jaise parents, dada-dadi ya teacher."
+        }
+      },
+      {
+        "term": {"en": "Bullying", "hi": "बुलिंग (तंग करना)", "hg": "Bullying"},
+        "def": {
+          "en": "When someone hurts, teases or leaves out another person again and again on purpose. It is never the fault of the person being bullied.",
+          "hi": "जब कोई किसी को जान-बूझकर बार-बार चोट पहुँचाता है, चिढ़ाता है या अलग कर देता है। इसमें उस इंसान की ग़लती कभी नहीं होती जिसे तंग किया जा रहा है।",
+          "hg": "Jab koi kisi ko jaan-boojhkar baar-baar hurt karta hai, chidhata hai ya alag kar deta hai. Isme us insaan ki galti kabhi nahi hoti jisse bully kiya ja raha hai."
+        }
+      },
+      {
+        "term": {"en": "Brave", "hi": "बहादुर", "hg": "Bahadur (brave)"},
+        "def": {
+          "en": "Doing the right thing even when you feel scared, like telling a grown-up about a problem.",
+          "hi": "डर लगने पर भी सही काम करना, जैसे किसी बड़े को अपनी परेशानी बताना।",
+          "hg": "Darr lagne par bhi sahi kaam karna, jaise kisi bade ko apni problem batana."
+        }
+      }
+    ]
+  },
+  {
+    "id": "d17-g2",
+    "domain": "d17",
+    "tracks": ["C", "D", "E"],
+    "title": {"en": "Mind and Pressure Words", "hi": "मन और दबाव से जुड़े शब्द", "hg": "Mind aur Pressure Wale Words"},
+    "terms": [
+      {
+        "term": {"en": "Self-esteem", "hi": "आत्म-सम्मान (self-esteem)", "hg": "Self-esteem"},
+        "def": {
+          "en": "Your overall sense of your own worth. It grows from your actions and values, not from looks, marks or likes.",
+          "hi": "अपनी क़ीमत के बारे में तुम्हारा कुल एहसास। यह तुम्हारे कामों और मूल्यों से बढ़ता है, शक्ल, नंबरों या लाइक्स से नहीं।",
+          "hg": "Apni worth ke baare mein tumhara overall ehsaas. Yeh tumhare actions aur values se badhta hai, looks, marks ya likes se nahi."
+        }
+      },
+      {
+        "term": {"en": "Body image", "hi": "बॉडी इमेज (शरीर की छवि)", "hg": "Body image"},
+        "def": {
+          "en": "How you see, think and feel about your own body. It can differ a lot from how your body actually looks to others.",
+          "hi": "तुम अपने शरीर को कैसे देखते हो, उसके बारे में क्या सोचते और महसूस करते हो। यह इस बात से काफ़ी अलग हो सकता है कि तुम्हारा शरीर दूसरों को असल में कैसा दिखता है।",
+          "hg": "Tum apni body ko kaise dekhte ho, uske baare mein kya sochte aur feel karte ho. Yeh is baat se kaafi alag ho sakta hai ki tumhari body doosron ko actually kaisi dikhti hai."
+        }
+      },
+      {
+        "term": {"en": "Peer pressure", "hi": "साथियों का दबाव (peer pressure)", "hg": "Peer pressure"},
+        "def": {
+          "en": "Feeling pushed by people your own age to do, say or look a certain way in order to fit in.",
+          "hi": "अपनी उम्र के लोगों की तरफ़ से यह दबाव महसूस होना कि ग्रुप में फ़िट होने के लिए कुछ ख़ास करो, बोलो या ख़ास तरह दिखो।",
+          "hg": "Apni age ke logon ki taraf se yeh pressure feel hona ki group mein fit hone ke liye kuch khaas karo, bolo ya khaas tarah dikho."
+        }
+      },
+      {
+        "term": {"en": "Shame", "hi": "शर्म (shame)", "hg": "Shame (sharam)"},
+        "def": {
+          "en": "The painful feeling that you yourself are bad or defective. It differs from guilt, which is about a specific action.",
+          "hi": "यह दर्द भरा एहसास कि तुम ख़ुद ही बुरे या ख़राब हो। यह अपराध-बोध से अलग है, जो किसी ख़ास काम के बारे में होता है।",
+          "hg": "Yeh dard bhari feeling ki tum khud hi bure ya defective ho. Yeh guilt se alag hai, jo kisi specific action ke baare mein hota hai."
+        }
+      },
+      {
+        "term": {"en": "Gaslighting", "hi": "गैसलाइटिंग", "hg": "Gaslighting"},
+        "def": {
+          "en": "A form of emotional abuse in which someone repeatedly denies or twists what happened so that you doubt your own memory and judgement.",
+          "hi": "भावनात्मक शोषण का एक रूप जिसमें कोई बार-बार हुई बात से मुकरता है या उसे तोड़-मरोड़ देता है, ताकि तुम्हें अपनी ही याददाश्त और समझ पर शक हो।",
+          "hg": "Emotional abuse ka ek form jisme koi baar-baar hui baat se mukarta hai ya usse tod-marod deta hai, taaki tumhe apni hi memory aur judgement par doubt ho."
+        }
+      },
+      {
+        "term": {"en": "Counselling", "hi": "काउंसलिंग (परामर्श)", "hg": "Counselling"},
+        "def": {
+          "en": "Structured conversations with a trained professional that help you understand your feelings and build ways to handle problems.",
+          "hi": "किसी प्रशिक्षित पेशेवर के साथ सिलसिलेवार बातचीत, जो अपने एहसास समझने और परेशानियाँ संभालने के तरीक़े बनाने में मदद करती है।",
+          "hg": "Kisi trained professional ke saath structured baatcheet, jo apni feelings samajhne aur problems handle karne ke tareeke banane mein help karti hai."
+        }
+      }
+    ]
+  }
+]

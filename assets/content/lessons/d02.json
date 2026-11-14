@@ -1,0 +1,1281 @@
+[
+ {
+  "id": "d02-l01",
+  "domain": "d02",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "men",
+   "women"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "difficulty": 1,
+  "minutes": 5,
+  "unesco": [
+   6
+  ],
+  "title": {
+   "en": "Puberty: What, Why and When",
+   "hi": "प्यूबर्टी: क्या, क्यों और कब",
+   "hg": "Puberty: Kya, Kyun aur Kab"
+  },
+  "subtitle": {
+   "en": "The body's biggest update, explained from the start",
+   "hi": "शरीर का सबसे बड़ा अपडेट, शुरुआत से समझो",
+   "hg": "Body ka sabse bada update, shuru se samjho"
+  },
+  "hook": {
+   "en": "Your body is about to run its biggest update since you were a baby. Nobody gets to skip it, and nobody gets the same schedule.",
+   "hi": "जब तुम नन्हे-से बेबी थे, उसके बाद का सबसे बड़ा अपडेट तुम्हारा शरीर अब चलाने वाला है। इसे कोई छोड़ नहीं सकता, और किसी का टाइम-टेबल एक जैसा नहीं होता।",
+   "hg": "Jab tum chhote se baby the, uske baad ka sabse bada update tumhari body ab run karne wali hai. Ise koi skip nahi kar sakta, aur kisi ka schedule same nahi hota."
+  },
+  "objectives": [
+   {
+    "en": "Explain what puberty is and what starts it.",
+    "hi": "बताना कि प्यूबर्टी क्या है और यह किससे शुरू होती है।",
+    "hg": "Batana ki puberty kya hai aur yeh kis cheez se start hoti hai."
+   },
+   {
+    "en": "State the usual age ranges in which puberty begins.",
+    "hi": "बताना कि प्यूबर्टी आम तौर पर किस उम्र के बीच शुरू होती है।",
+    "hg": "Batana ki puberty usually kis age range mein start hoti hai."
+   },
+   {
+    "en": "Understand that starting earlier or later than friends is normal.",
+    "hi": "समझना कि दोस्तों से पहले या बाद में शुरू होना सामान्य है।",
+    "hg": "Samajhna ki friends se pehle ya baad mein start hona normal hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "What puberty actually is",
+     "hi": "प्यूबर्टी असल में क्या है",
+     "hg": "Puberty actually kya hai"
+    },
+    "body": {
+     "en": "Puberty is the stretch of years when a child's body changes into an adult's body. You grow taller, your shape changes, hair grows in new places, your skin and sweat change, and the reproductive organs start working. It is not one event and not a single birthday. It is a slow process that usually takes somewhere between two and five years from first sign to finish. Feelings, friendships and how you think about yourself shift during the same years, which is why it can feel like everything is changing at once.",
+     "hi": "प्यूबर्टी (यौवनारंभ) उन सालों का दौर है जब बच्चे का शरीर बदलकर बड़े इंसान का शरीर बनता है। लंबाई बढ़ती है, शरीर का आकार बदलता है, नई जगहों पर बाल आते हैं, त्वचा और पसीना बदलते हैं, और प्रजनन अंग काम करना शुरू करते हैं। यह कोई एक घटना या एक जन्मदिन नहीं है। यह एक धीमी प्रक्रिया है जिसे पहले लक्षण से पूरा होने तक आम तौर पर दो से पाँच साल लगते हैं। इन्हीं सालों में भावनाएँ, दोस्तियाँ और अपने बारे में तुम्हारी सोच भी बदलती है, इसीलिए लगता है कि सब कुछ एक साथ बदल रहा है।",
+     "hg": "Puberty un saalon ka phase hai jab bachche ki body badalkar adult ki body banti hai. Height badhti hai, body ki shape badalti hai, nayi jagahon par baal aate hain, skin aur paseena badalte hain, aur reproductive organs kaam karna start karte hain. Yeh koi ek event ya ek birthday nahi hai. Yeh ek slow process hai jise pehle sign se finish hone tak usually do se paanch saal lagte hain. Inhi saalon mein feelings, dostiyan aur apne baare mein tumhari soch bhi badalti hai, isiliye lagta hai ki sab kuch ek saath change ho raha hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Why it happens",
+     "hi": "यह क्यों होती है",
+     "hg": "Yeh kyun hoti hai"
+    },
+    "body": {
+     "en": "Puberty starts with a signal from the brain. A small gland at the base of the brain, the pituitary, releases hormones into the blood. These tell the ovaries to make more oestrogen, or the testes to make more testosterone. Those hormones then switch on the changes you can see. The point of all this, biologically, is to get the body ready for adult life, including being able to have children one day if a person chooses to. You did not cause it by thinking, eating or doing anything in particular, and you cannot stop it.",
+     "hi": "प्यूबर्टी दिमाग़ के एक संकेत से शुरू होती है। दिमाग़ के निचले हिस्से में एक छोटी ग्रंथि, पिट्यूटरी, ख़ून में हार्मोन छोड़ती है। ये अंडाशय को ज़्यादा एस्ट्रोजन, या वृषण को ज़्यादा टेस्टोस्टेरोन बनाने का संदेश देते हैं। फिर यही हार्मोन वे बदलाव शुरू करते हैं जो तुम्हें दिखते हैं। जीव-विज्ञान के हिसाब से इस सबका मक़सद शरीर को बड़ों की ज़िंदगी के लिए तैयार करना है, जिसमें यह भी शामिल है कि कोई चाहे तो आगे चलकर बच्चे पैदा कर सके। यह तुम्हारे कुछ सोचने, खाने या करने से शुरू नहीं हुई, और तुम इसे रोक भी नहीं सकते।",
+     "hg": "Puberty brain ke ek signal se start hoti hai. Brain ke base par ek chhoti gland, pituitary, blood mein hormones release karti hai. Yeh ovaries ko zyada oestrogen, ya testes ko zyada testosterone banane ka message dete hain. Phir yahi hormones woh changes switch on karte hain jo tumhe dikhte hain. Biology ke hisaab se is sabka point body ko adult life ke liye ready karna hai, jisme yeh bhi aata hai ki koi chahe toh aage chalkar bachche kar sake. Yeh tumhare kuch sochne, khane ya karne se start nahi hui, aur tum ise rok bhi nahi sakte."
+    }
+   },
+   {
+    "h": {
+     "en": "When it begins",
+     "hi": "यह कब शुरू होती है",
+     "hg": "Yeh kab start hoti hai"
+    },
+    "body": {
+     "en": "In girls, puberty usually begins between the ages of 8 and 13, and the first sign is typically small breast buds. In boys it usually begins between 9 and 14, and the first sign is the testes getting bigger, which is easy to miss. So girls often start a year or two before boys of the same age, and in one classroom some children look like teenagers while others still look like kids. When you start depends mostly on your family's genes; ask your parents when they started and you may get a clue.",
+     "hi": "लड़कियों में प्यूबर्टी आम तौर पर 8 से 13 साल की उम्र के बीच शुरू होती है, और पहला लक्षण अक्सर छोटे ब्रेस्ट बड होते हैं। लड़कों में यह आम तौर पर 9 से 14 साल के बीच शुरू होती है, और पहला लक्षण वृषण का बड़ा होना है, जिस पर आसानी से ध्यान नहीं जाता। इसलिए लड़कियाँ अक्सर अपनी उम्र के लड़कों से एक-दो साल पहले शुरू करती हैं, और एक ही क्लास में कुछ बच्चे टीनेजर जैसे दिखते हैं जबकि कुछ अब भी छोटे बच्चों जैसे। तुम्हारी शुरुआत कब होगी, यह ज़्यादातर परिवार के जीन पर निर्भर है; मम्मी-पापा से पूछो कि उनकी कब हुई थी, तुम्हें अंदाज़ा मिल सकता है।",
+     "hg": "Ladkiyon mein puberty usually 8 se 13 saal ki age ke beech start hoti hai, aur pehla sign typically chhote breast buds hote hain. Ladkon mein yeh usually 9 se 14 ke beech start hoti hai, aur pehla sign testes ka bada hona hai, jo easily miss ho jata hai. Isliye ladkiyan aksar same age ke ladkon se ek-do saal pehle start karti hain, aur ek hi classroom mein kuch bachche teenagers jaise dikhte hain jabki kuch ab bhi kids jaise. Tumhara start kab hoga, yeh zyadatar family ke genes par depend karta hai; mummy-papa se poocho unka kab hua tha, tumhe clue mil sakta hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Early, late and everything between",
+     "hi": "जल्दी, देर से और बीच का सब कुछ",
+     "hg": "Early, late aur beech ka sab kuch"
+    },
+    "body": {
+     "en": "Starting at 9 or starting at 13 are both normal. Starting first can feel embarrassing because your body gets noticed; starting last can feel like being left behind. Neither says anything about how you will look or how tall you will be as an adult. A doctor should check things only if changes begin before 8 in girls or before 9 in boys, or if nothing has started by 13 in girls or 14 in boys. In most such cases the answer is simply that your clock runs a little differently, but it is worth confirming.",
+     "hi": "9 साल में शुरू होना भी सामान्य है और 13 में शुरू होना भी। सबसे पहले शुरू होने पर झेंप लग सकती है क्योंकि सबकी नज़र तुम्हारे शरीर पर जाती है; सबसे आख़िर में शुरू होने पर लग सकता है कि तुम पीछे छूट गए। दोनों में से कोई भी यह नहीं बताता कि बड़े होकर तुम कैसे दिखोगे या कितने लंबे होगे। डॉक्टर को तभी दिखाना चाहिए जब बदलाव लड़कियों में 8 साल से पहले या लड़कों में 9 साल से पहले शुरू हो जाएँ, या लड़कियों में 13 और लड़कों में 14 साल तक कुछ भी शुरू न हो। ऐसे ज़्यादातर मामलों में जवाब बस इतना होता है कि तुम्हारी घड़ी थोड़ी अलग चलती है, पर पक्का कर लेना अच्छा है।",
+     "hg": "9 saal mein start hona bhi normal hai aur 13 mein start hona bhi. Sabse pehle start hona embarrassing lag sakta hai kyunki sabki nazar tumhari body par jaati hai; sabse last mein start hona aisa lag sakta hai jaise tum peeche reh gaye. Dono mein se koi bhi yeh nahi batata ki bade hokar tum kaise dikhoge ya kitne lambe hoge. Doctor ko tabhi dikhana chahiye jab changes ladkiyon mein 8 se pehle ya ladkon mein 9 se pehle start ho jayein, ya ladkiyon mein 13 aur ladkon mein 14 saal tak kuch bhi start na ho. Aise zyadatar cases mein answer bas itna hota hai ki tumhari clock thodi alag chalti hai, par confirm kar lena achha hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Everyone goes through puberty at the same age.",
+    "hi": "सबकी प्यूबर्टी एक ही उम्र में होती है।",
+    "hg": "Sabki puberty same age mein hoti hai."
+   },
+   "fact": {
+    "en": "The normal starting range is five years wide: 8 to 13 for girls and 9 to 14 for boys. Two healthy classmates can be years apart.",
+    "hi": "शुरुआत का सामान्य दायरा पाँच साल चौड़ा है: लड़कियों के लिए 8 से 13 और लड़कों के लिए 9 से 14। एक ही क्लास के दो स्वस्थ बच्चों में कई साल का फ़र्क़ हो सकता है।",
+    "hg": "Start hone ki normal range paanch saal wide hai: ladkiyon ke liye 8 se 13 aur ladkon ke liye 9 se 14. Do healthy classmates ke beech kai saal ka gap ho sakta hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Puberty is a process of several years that turns a child's body into an adult's body.",
+    "hi": "प्यूबर्टी कई साल चलने वाली प्रक्रिया है जो बच्चे के शरीर को बड़े के शरीर में बदलती है।",
+    "hg": "Puberty kai saal chalne wala process hai jo bachche ki body ko adult ki body mein badalta hai."
+   },
+   {
+    "en": "It is started by hormones on a signal from the brain, not by anything you did.",
+    "hi": "यह दिमाग़ के संकेत पर हार्मोन से शुरू होती है, तुम्हारे किसी काम से नहीं।",
+    "hg": "Yeh brain ke signal par hormones se start hoti hai, tumhare kisi kaam se nahi."
+   },
+   {
+    "en": "Starting anywhere between 8 and 13 for girls, or 9 and 14 for boys, is normal.",
+    "hi": "लड़कियों में 8 से 13 और लड़कों में 9 से 14 साल के बीच कभी भी शुरू होना सामान्य है।",
+    "hg": "Ladkiyon mein 8 se 13 aur ladkon mein 9 se 14 ke beech kabhi bhi start hona normal hai."
+   }
+  ],
+  "activity": {
+   "en": "Ask a parent, older sibling or cousin one question: what surprised you most when you were growing up? Note their answer. You will find that almost everyone felt unprepared.",
+   "hi": "मम्मी-पापा, बड़े भाई-बहन या किसी कज़िन से एक सवाल पूछो: बड़े होते समय आपको सबसे ज़्यादा हैरानी किस बात पर हुई थी? उनका जवाब लिख लो। तुम पाओगे कि लगभग हर कोई तैयार नहीं था।",
+   "hg": "Mummy-papa, bade bhai-behen ya kisi cousin se ek sawaal poocho: bade hote time aapko sabse zyada surprise kis baat par hua tha? Unka answer note karo. Tum dekhoge ki almost har koi unprepared tha."
+  },
+  "interactive": "puberty_lab",
+  "quiz": [
+   {
+    "id": "d02-l01-q1",
+    "type": "mcq",
+    "q": {
+     "en": "What is usually the first sign of puberty in boys?",
+     "hi": "लड़कों में प्यूबर्टी का पहला लक्षण आम तौर पर क्या होता है?",
+     "hg": "Ladkon mein puberty ka pehla sign usually kya hota hai?"
+    },
+    "options": [
+     {
+      "en": "A deeper voice",
+      "hi": "आवाज़ का भारी होना",
+      "hg": "Voice ka deep hona"
+     },
+     {
+      "en": "Facial hair",
+      "hi": "चेहरे पर बाल आना",
+      "hg": "Face par baal aana"
+     },
+     {
+      "en": "The testes getting bigger",
+      "hi": "वृषण का बड़ा होना",
+      "hg": "Testes ka bada hona"
+     },
+     {
+      "en": "A sudden jump in height",
+      "hi": "लंबाई का अचानक बढ़ना",
+      "hg": "Height ka achanak badhna"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "Growth of the testes comes first and is easy to miss. Voice change, facial hair and the height spurt follow later.",
+     "hi": "सबसे पहले वृषण बढ़ते हैं, और इस पर आसानी से ध्यान नहीं जाता। आवाज़ का बदलना, चेहरे के बाल और लंबाई का तेज़ी से बढ़ना बाद में आते हैं।",
+     "hg": "Sabse pehle testes grow karte hain, aur yeh easily miss ho jata hai. Voice change, facial hair aur height spurt baad mein aate hain."
+    }
+   },
+   {
+    "id": "d02-l01-q2",
+    "type": "tf",
+    "q": {
+     "en": "A girl who shows no signs of puberty at age 11 definitely has a medical problem.",
+     "hi": "जिस लड़की में 11 साल की उम्र तक प्यूबर्टी का कोई लक्षण नहीं दिखा, उसे पक्का कोई मेडिकल दिक़्क़त है।",
+     "hg": "Jis ladki mein 11 saal ki age tak puberty ka koi sign nahi dikha, use pakka koi medical problem hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Puberty in girls can begin any time from 8 to 13. A check-up is advised only if there are no signs by 13.",
+     "hi": "लड़कियों में प्यूबर्टी 8 से 13 साल के बीच कभी भी शुरू हो सकती है। जाँच की सलाह तभी दी जाती है जब 13 साल तक कोई लक्षण न दिखे।",
+     "hg": "Ladkiyon mein puberty 8 se 13 ke beech kabhi bhi start ho sakti hai. Check-up tabhi advise hota hai jab 13 saal tak koi sign na dikhe."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "nhm-rksk"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d02-l02",
+  "domain": "d02",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "difficulty": 1,
+  "minutes": 6,
+  "unesco": [
+   6,
+   5
+  ],
+  "title": {
+   "en": "Height, Hair, Sweat, Skin and Voice",
+   "hi": "लंबाई, बाल, पसीना, त्वचा और आवाज़",
+   "hg": "Height, Hair, Sweat, Skin aur Voice"
+  },
+  "subtitle": {
+   "en": "The changes everyone can see, and how to look after them",
+   "hi": "वे बदलाव जो सबको दिखते हैं, और उनकी देखभाल",
+   "hg": "Woh changes jo sabko dikhte hain, aur unka khayal kaise rakhein"
+  },
+  "hook": {
+   "en": "Trousers too short in three months. A smell you swear was not there last year. A voice that squeaks at the worst moment. All of it has an explanation.",
+   "hi": "तीन महीने में पैंट छोटी। एक ऐसी गंध जो पिछले साल पक्का नहीं थी। सबसे ग़लत मौक़े पर चीं बोलती आवाज़। इन सबकी एक वजह है।",
+   "hg": "Teen mahine mein pant chhoti. Ek aisi smell jo last year pakka nahi thi. Sabse galat moment par squeak karti voice. In sabka ek explanation hai."
+  },
+  "objectives": [
+   {
+    "en": "Describe growth spurts, body odour, acne, body hair and voice change.",
+    "hi": "लंबाई का तेज़ी से बढ़ना, शरीर की गंध, मुँहासे, शरीर के बाल और आवाज़ के बदलाव को समझाना।",
+    "hg": "Growth spurts, body odour, acne, body hair aur voice change ko explain karna."
+   },
+   {
+    "en": "Use simple daily hygiene for sweat and skin.",
+    "hi": "पसीने और त्वचा के लिए रोज़ की आसान साफ़-सफ़ाई अपनाना।",
+    "hg": "Paseene aur skin ke liye simple daily hygiene follow karna."
+   },
+   {
+    "en": "Understand that removing body hair is a personal choice.",
+    "hi": "समझना कि शरीर के बाल हटाना अपनी मर्ज़ी की बात है।",
+    "hg": "Samajhna ki body hair remove karna apni choice hai."
+   }
+  ],
+  "prereqs": [
+   "d02-l01"
+  ],
+  "sections": [
+   {
+    "h": {
+     "en": "Growth spurts",
+     "hi": "लंबाई की तेज़ बढ़त",
+     "hg": "Growth spurts"
+    },
+    "body": {
+     "en": "During puberty you grow faster than at any time since you were a toddler. Girls usually have their growth spurt earlier, often around 10 to 12, and boys later, often around 12 to 15, which is why many girls are taller than boys in classes 6 and 7. Hands and feet tend to grow first, then arms and legs, then the spine, so you may feel clumsy for a while. Your body needs fuel for this: regular meals with dal, eggs, milk or curd, vegetables and enough sleep matter more than any height drink advertised on TV.",
+     "hi": "प्यूबर्टी में तुम उतनी तेज़ी से बढ़ते हो जितना बहुत छोटे बचपन के बाद कभी नहीं बढ़े। लड़कियों की लंबाई आम तौर पर पहले तेज़ी से बढ़ती है, अक्सर 10 से 12 साल के आसपास, और लड़कों की बाद में, अक्सर 12 से 15 के आसपास; इसीलिए छठी-सातवीं क्लास में कई लड़कियाँ लड़कों से लंबी होती हैं। अक्सर पहले हाथ-पैर के पंजे बढ़ते हैं, फिर बाँहें और टाँगें, फिर रीढ़, इसलिए कुछ समय तक तुम्हें अपना शरीर बेढंगा लग सकता है। इसके लिए शरीर को ईंधन चाहिए: दाल, अंडे, दूध या दही, सब्ज़ियों वाला नियमित खाना और पूरी नींद, टीवी पर दिखने वाले किसी भी हाइट ड्रिंक से ज़्यादा काम के हैं।",
+     "hg": "Puberty mein tum utni tezi se grow karte ho jitna bahut chhote bachpan ke baad kabhi nahi kiya. Ladkiyon ka growth spurt usually pehle aata hai, aksar 10 se 12 ke around, aur ladkon ka baad mein, aksar 12 se 15 ke around; isiliye class 6 aur 7 mein kai ladkiyan ladkon se lambi hoti hain. Aksar pehle haath aur pair ke panje badhte hain, phir arms aur legs, phir spine, isliye kuch time tak tum clumsy feel kar sakte ho. Iske liye body ko fuel chahiye: dal, ande, doodh ya dahi, sabziyon wala regular khana aur poori neend, TV par dikhne wale kisi bhi height drink se zyada kaam ke hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Sweat and body odour",
+     "hi": "पसीना और शरीर की गंध",
+     "hg": "Paseena aur body odour"
+    },
+    "body": {
+     "en": "New sweat glands switch on in your armpits and groin during puberty. Fresh sweat has almost no smell; the odour appears when bacteria living on the skin break it down. That is why the fix is simple hygiene, not perfume. Bathe daily, and again after sports in hot weather. Wash armpits, groin and feet with soap, dry properly, and wear clean cotton underwear, socks and a fresh shirt each day. A deodorant can help from this age. Spraying it over unwashed skin only mixes the two smells.",
+     "hi": "प्यूबर्टी में बगल और जाँघों के जोड़ में नई पसीने की ग्रंथियाँ चालू हो जाती हैं। ताज़ा पसीने में लगभग कोई गंध नहीं होती; गंध तब आती है जब त्वचा पर रहने वाले बैक्टीरिया उसे तोड़ते हैं। इसलिए इसका इलाज परफ़्यूम नहीं, सीधी-सादी साफ़-सफ़ाई है। रोज़ नहाओ, और गर्मी में खेलने के बाद दोबारा नहाओ। बगल, जाँघों के जोड़ और पैरों को साबुन से धोओ, अच्छी तरह सुखाओ, और रोज़ साफ़ सूती अंडरवियर, मोज़े और धुली शर्ट पहनो। इस उम्र से डिओडरेंट मदद कर सकता है। बिना धुली त्वचा पर उसे छिड़कने से बस दो गंध आपस में मिल जाती हैं।",
+     "hg": "Puberty mein armpits aur groin mein naye sweat glands switch on ho jaate hain. Fresh paseene mein almost koi smell nahi hoti; smell tab aati hai jab skin par rehne wale bacteria use break down karte hain. Isliye iska fix perfume nahi, simple hygiene hai. Roz nahao, aur garmi mein sports ke baad dobara nahao. Armpits, groin aur pairon ko soap se dhoo, achhe se sukhao, aur roz clean cotton underwear, socks aur fresh shirt pehno. Is age se deodorant help kar sakta hai. Bina dhuli skin par spray karne se bas do smells mix ho jaati hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Skin and hair",
+     "hi": "त्वचा और बाल",
+     "hg": "Skin aur hair"
+    },
+    "body": {
+     "en": "Hormones make the skin oilier, so pimples on the face, chest and back are extremely common. Wash your face gently twice a day with a mild cleanser, keep your hands off, and never squeeze pimples, because that causes scars. Hair starts growing around the genitals and under the arms, becomes thicker on the legs and arms, and later appears on the face for many boys. All of it is normal. Removing body hair is a personal choice, not a hygiene rule. If you choose to shave or trim, ask a trusted adult to show you how the first time, use your own clean razor and never share it.",
+     "hi": "हार्मोन त्वचा को ज़्यादा तैलीय बना देते हैं, इसलिए चेहरे, छाती और पीठ पर मुँहासे बहुत ही आम हैं। दिन में दो बार हल्के क्लींज़र से चेहरा नरमी से धोओ, हाथ चेहरे से दूर रखो, और मुँहासे कभी मत फोड़ो, क्योंकि इससे दाग़ पड़ जाते हैं। जननांगों के आसपास और बगल में बाल उगने लगते हैं, टाँगों और बाँहों के बाल घने होते हैं, और बाद में कई लड़कों के चेहरे पर भी बाल आते हैं। यह सब सामान्य है। शरीर के बाल हटाना अपनी मर्ज़ी की बात है, साफ़-सफ़ाई का कोई नियम नहीं। अगर तुम शेव या ट्रिम करना चुनो, तो पहली बार किसी भरोसेमंद बड़े से तरीक़ा सीख लो, अपना साफ़ रेज़र इस्तेमाल करो और उसे कभी किसी के साथ मत बाँटो।",
+     "hg": "Hormones skin ko zyada oily bana dete hain, isliye face, chest aur back par pimples bahut hi common hain. Din mein do baar mild cleanser se face gently wash karo, haath face se door rakho, aur pimples kabhi mat phodo, kyunki isse scars padte hain. Genitals ke aas-paas aur underarms mein baal ugne lagte hain, legs aur arms ke baal ghane hote hain, aur baad mein kai ladkon ke face par bhi baal aate hain. Yeh sab normal hai. Body hair remove karna personal choice hai, hygiene ka koi rule nahi. Agar tum shave ya trim karna choose karo, toh pehli baar kisi trusted adult se tareeka seekh lo, apna clean razor use karo aur use kabhi share mat karo."
+    }
+   },
+   {
+    "h": {
+     "en": "Voice changes",
+     "hi": "आवाज़ में बदलाव",
+     "hg": "Voice changes"
+    },
+    "body": {
+     "en": "The voice box, or larynx, grows during puberty and the vocal cords inside it become longer and thicker, like the thicker strings on a guitar. Longer, thicker cords vibrate more slowly and make a deeper sound. In boys this change is big, and while the muscles are learning to control the new size, the voice can suddenly jump high or crack. This usually settles within some months to a couple of years. In boys the growing larynx may show as a bump on the throat called the Adam's apple. Girls' voices deepen too, only slightly.",
+     "hi": "प्यूबर्टी में स्वरयंत्र (larynx) बढ़ता है और उसके अंदर के स्वर-तंतु लंबे और मोटे हो जाते हैं, जैसे गिटार के मोटे तार। लंबे, मोटे तंतु धीरे काँपते हैं और भारी आवाज़ निकालते हैं। लड़कों में यह बदलाव काफ़ी बड़ा होता है, और जब तक मांसपेशियाँ इस नए आकार को सँभालना सीखती हैं, आवाज़ अचानक पतली हो सकती है या फट सकती है। आम तौर पर यह कुछ महीनों से लेकर एक-दो साल में ठीक हो जाता है। लड़कों में बढ़ता स्वरयंत्र गले पर एक उभार की तरह दिख सकता है, जिसे एडम्स ऐपल कहते हैं। लड़कियों की आवाज़ भी भारी होती है, पर बहुत थोड़ी।",
+     "hg": "Puberty mein voice box, yaani larynx, grow karta hai aur uske andar ke vocal cords lambe aur mote ho jaate hain, jaise guitar ki moti strings. Lambe, mote cords slow vibrate karte hain aur deep sound nikalte hain. Ladkon mein yeh change kaafi bada hota hai, aur jab tak muscles is naye size ko control karna seekhti hain, voice achanak high ho sakti hai ya crack ho sakti hai. Usually yeh kuch mahino se lekar ek-do saal mein settle ho jata hai. Ladkon mein badhta larynx gale par ek ubhaar jaisa dikh sakta hai, jise Adam's apple kehte hain. Ladkiyon ki voice bhi deep hoti hai, par bahut thodi."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Sweating a lot means you are unhealthy or dirty.",
+    "hi": "ज़्यादा पसीना आने का मतलब है कि तुम बीमार या गंदे हो।",
+    "hg": "Zyada paseena aane ka matlab hai ki tum unhealthy ya gande ho."
+   },
+   "fact": {
+    "en": "Sweating is how the body cools itself, and it increases in puberty because new sweat glands start working. The odour comes from bacteria on the skin and is managed by washing.",
+    "hi": "पसीना शरीर को ठंडा रखने का तरीक़ा है, और प्यूबर्टी में यह इसलिए बढ़ता है क्योंकि नई पसीने की ग्रंथियाँ काम करने लगती हैं। गंध त्वचा के बैक्टीरिया से आती है और धोने से क़ाबू में रहती है।",
+    "hg": "Paseena body ko cool rakhne ka tareeka hai, aur puberty mein yeh isliye badhta hai kyunki naye sweat glands kaam karne lagte hain. Smell skin ke bacteria se aati hai aur wash karne se control mein rehti hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "The growth spurt comes earlier in most girls and later in most boys.",
+    "hi": "ज़्यादातर लड़कियों में लंबाई पहले तेज़ी से बढ़ती है और ज़्यादातर लड़कों में बाद में।",
+    "hg": "Zyadatar ladkiyon mein growth spurt pehle aata hai aur zyadatar ladkon mein baad mein."
+   },
+   {
+    "en": "Body odour comes from bacteria acting on sweat, so daily washing is what works.",
+    "hi": "शरीर की गंध पसीने पर बैक्टीरिया के असर से आती है, इसलिए रोज़ धोना ही काम करता है।",
+    "hg": "Body odour paseene par bacteria ke action se aati hai, isliye daily wash karna hi kaam karta hai."
+   },
+   {
+    "en": "Body hair, pimples and a cracking voice are normal results of puberty hormones.",
+    "hi": "शरीर के बाल, मुँहासे और फटती आवाज़ प्यूबर्टी के हार्मोन के सामान्य नतीजे हैं।",
+    "hg": "Body hair, pimples aur crack hoti voice puberty hormones ke normal results hain."
+   }
+  ],
+  "activity": {
+   "en": "Make your own puberty kit list: soap, a clean towel, deodorant, spare underwear, a mild face wash. Tick what you already have and tell a parent what is missing.",
+   "hi": "अपनी प्यूबर्टी किट की सूची बनाओ: साबुन, साफ़ तौलिया, डिओडरेंट, एक अतिरिक्त अंडरवियर, हल्का फ़ेस वॉश। जो चीज़ें तुम्हारे पास हैं उन पर निशान लगाओ और जो नहीं हैं, वे मम्मी-पापा को बताओ।",
+   "hg": "Apni puberty kit ki list banao: soap, clean towel, deodorant, spare underwear, mild face wash. Jo already hai us par tick karo aur jo missing hai woh mummy-papa ko batao."
+  },
+  "interactive": "puberty_lab",
+  "quiz": [
+   {
+    "id": "d02-l02-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Why are many girls taller than boys around classes 6 and 7?",
+     "hi": "छठी-सातवीं क्लास के आसपास कई लड़कियाँ लड़कों से लंबी क्यों होती हैं?",
+     "hg": "Class 6 aur 7 ke around kai ladkiyan ladkon se lambi kyun hoti hain?"
+    },
+    "options": [
+     {
+      "en": "Girls eat more at that age",
+      "hi": "उस उम्र में लड़कियाँ ज़्यादा खाती हैं",
+      "hg": "Us age mein ladkiyan zyada khati hain"
+     },
+     {
+      "en": "Girls usually have their growth spurt earlier",
+      "hi": "लड़कियों की लंबाई आम तौर पर पहले तेज़ी से बढ़ती है",
+      "hg": "Ladkiyon ka growth spurt usually pehle aata hai"
+     },
+     {
+      "en": "Boys stop growing at 11",
+      "hi": "लड़के 11 साल में बढ़ना बंद कर देते हैं",
+      "hg": "Ladke 11 saal mein grow karna band kar dete hain"
+     },
+     {
+      "en": "Girls are born with longer bones",
+      "hi": "लड़कियों की हड्डियाँ जन्म से लंबी होती हैं",
+      "hg": "Ladkiyon ki bones janam se lambi hoti hain"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Girls' growth spurt usually comes a couple of years before boys'. Boys catch up and often overtake later in their teens.",
+     "hi": "लड़कियों की लंबाई आम तौर पर लड़कों से एक-दो साल पहले तेज़ी से बढ़ती है। लड़के बाद में, किशोर उम्र में, बराबर आ जाते हैं और अक्सर आगे निकल जाते हैं।",
+     "hg": "Ladkiyon ka growth spurt usually ladkon se ek-do saal pehle aata hai. Ladke baad mein, teens mein, catch up kar lete hain aur aksar aage nikal jaate hain."
+    }
+   },
+   {
+    "id": "d02-l02-q2",
+    "type": "tf",
+    "q": {
+     "en": "Fresh sweat has almost no smell; body odour comes from bacteria breaking it down.",
+     "hi": "ताज़ा पसीने में लगभग कोई गंध नहीं होती; शरीर की गंध बैक्टीरिया के पसीने को तोड़ने से आती है।",
+     "hg": "Fresh paseene mein almost koi smell nahi hoti; body odour bacteria ke paseene ko break down karne se aati hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Bacteria on the skin feed on sweat and release smelly substances. Washing with soap removes both the sweat and the bacteria.",
+     "hi": "त्वचा के बैक्टीरिया पसीने पर पलते हैं और बदबूदार पदार्थ छोड़ते हैं। साबुन से धोने पर पसीना और बैक्टीरिया दोनों हट जाते हैं।",
+     "hg": "Skin ke bacteria paseene par feed karte hain aur smelly substances chhodte hain. Soap se wash karne par paseena aur bacteria dono hat jaate hain."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "nhm-rksk"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d02-l03",
+  "domain": "d02",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "men",
+   "women"
+  ],
+  "body": [
+   "hormones_changes",
+   "menstrual",
+   "penis_testicular"
+  ],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   6
+  ],
+  "title": {
+   "en": "Periods, Breast Buds, Erections and Wet Dreams",
+   "hi": "पीरियड, ब्रेस्ट बड, इरेक्शन और स्वप्नदोष",
+   "hg": "Periods, Breast Buds, Erections aur Wet Dreams"
+  },
+  "subtitle": {
+   "en": "The body events that arrive without a notice",
+   "hi": "शरीर की वे घटनाएँ जो बिना बताए आ जाती हैं",
+   "hg": "Body ke woh events jo bina notice ke aa jaate hain"
+  },
+  "hook": {
+   "en": "A first period, a random erection, damp pyjamas in the morning: some body events arrive unannounced. They are scheduled features, not glitches.",
+   "hi": "पहला पीरियड, बेवजह इरेक्शन, सुबह गीला पजामा: शरीर की कुछ घटनाएँ बिना बताए आ जाती हैं। ये ख़राबी नहीं, शरीर के तय फ़ीचर हैं।",
+   "hg": "Pehla period, random erection, subah geela pajama: body ke kuch events bina announce kiye aa jaate hain. Yeh glitches nahi, scheduled features hain."
+  },
+  "objectives": [
+   {
+    "en": "Explain what a period is and which signs come before the first one.",
+    "hi": "बताना कि पीरियड क्या है और पहले पीरियड से पहले कौन-से संकेत दिखते हैं।",
+    "hg": "Batana ki period kya hai aur pehle period se pehle kaun se signs dikhte hain."
+   },
+   {
+    "en": "Describe breast development and the changes in genital appearance.",
+    "hi": "स्तनों के विकास और जननांगों के रूप में आने वाले बदलावों को समझाना।",
+    "hg": "Breast development aur genitals ke look mein aane wale changes ko explain karna."
+   },
+   {
+    "en": "Understand erections and wet dreams as normal, automatic body events.",
+    "hi": "समझना कि इरेक्शन और स्वप्नदोष शरीर की सामान्य, अपने आप होने वाली घटनाएँ हैं।",
+    "hg": "Samajhna ki erections aur wet dreams normal, automatic body events hain."
+   }
+  ],
+  "prereqs": [
+   "d02-l01"
+  ],
+  "sections": [
+   {
+    "h": {
+     "en": "Breast development",
+     "hi": "स्तनों का विकास",
+     "hg": "Breast development"
+    },
+    "body": {
+     "en": "For most girls the first sign of puberty is a breast bud: a small, firm, sometimes sore lump under the nipple. One side often starts months before the other. Over the next few years the breasts become fuller and the darker area around the nipple, the areola, grows. Final size and shape depend mostly on genes and overall body build; no special food, exercise, cream or type of bra changes them. A soft, well-fitting vest or bra is for comfort only; wear one when you feel you want it. Many boys also get a small tender swelling under a nipple for a while, and it fades by itself.",
+     "hi": "ज़्यादातर लड़कियों में प्यूबर्टी का पहला लक्षण ब्रेस्ट बड होता है: निप्पल के नीचे एक छोटी, सख़्त गाँठ जिसमें कभी-कभी दर्द भी होता है। अक्सर एक तरफ़ दूसरी से महीनों पहले शुरू होता है। अगले कुछ सालों में स्तन भरते जाते हैं और निप्पल के चारों ओर का गहरा घेरा, यानी एरिओला, बड़ा होता है। आख़िरी आकार और बनावट ज़्यादातर जीन और शरीर की क़द-काठी पर निर्भर करती है; कोई ख़ास खाना, कसरत, क्रीम या किसी तरह की ब्रा इन्हें नहीं बदलती। नरम, ठीक नाप की बनियान या ब्रा सिर्फ़ आराम के लिए है; जब तुम्हें ज़रूरत लगे तब पहनो। कई लड़कों के निप्पल के नीचे भी कुछ समय के लिए हल्की दर्द वाली सूजन आती है, और वह अपने आप चली जाती है।",
+     "hg": "Zyadatar ladkiyon mein puberty ka pehla sign breast bud hota hai: nipple ke neeche ek chhoti, firm lump jisme kabhi-kabhi dard bhi hota hai. Aksar ek side doosri se mahino pehle start hoti hai. Agle kuch saalon mein breasts fuller hote jaate hain aur nipple ke around ka dark area, yaani areola, bada hota hai. Final size aur shape zyadatar genes aur overall body build par depend karti hai; koi special khana, exercise, cream ya kisi type ki bra inhe change nahi karti. Soft, sahi fitting ki vest ya bra sirf comfort ke liye hai; jab tumhe zaroorat lage tab pehno. Kai ladkon ke nipple ke neeche bhi kuch time ke liye halki dard wali swelling aati hai, aur woh apne aap chali jaati hai."
+    }
+   },
+   {
+    "h": {
+     "en": "The first period",
+     "hi": "पहला पीरियड",
+     "hg": "Pehla period"
+    },
+    "body": {
+     "en": "A period is blood and tissue from the lining of the uterus leaving the body through the vagina. It usually begins about two years after breast buds appear, and whitish discharge in the underwear for some months is a sign that it is on the way. The first few periods may be brownish, light and irregular, coming anywhere from 21 to 45 days apart. Bleeding lasts about 2 to 7 days. Keep a pad in your school bag from the time breast development starts. A period is healthy; it is not an illness or an impurity, and you can bathe, play and go to school as usual.",
+     "hi": "पीरियड (माहवारी) में गर्भाशय की अंदरूनी परत का ख़ून और ऊतक योनि के रास्ते शरीर से बाहर निकलता है। यह आम तौर पर ब्रेस्ट बड आने के क़रीब दो साल बाद शुरू होता है, और कुछ महीनों तक अंडरवियर में सफ़ेद-सा स्राव दिखना इस बात का संकेत है कि पीरियड आने वाला है। शुरुआती कुछ पीरियड भूरे-से, हल्के और अनियमित हो सकते हैं, और 21 से 45 दिन के किसी भी अंतर पर आ सकते हैं। ख़ून लगभग 2 से 7 दिन आता है। जब से स्तनों का विकास शुरू हो, तब से स्कूल बैग में एक पैड रखो। पीरियड सेहत की निशानी है; यह न बीमारी है, न अशुद्धि, और तुम हमेशा की तरह नहा सकती हो, खेल सकती हो और स्कूल जा सकती हो।",
+     "hg": "Period mein uterus ki lining ka blood aur tissue vagina ke raaste body se bahar nikalta hai. Yeh usually breast buds aane ke lagbhag do saal baad start hota hai, aur kuch mahino tak underwear mein whitish discharge dikhna is baat ka sign hai ki period aane wala hai. Shuru ke kuch periods brownish, light aur irregular ho sakte hain, aur 21 se 45 din ke kisi bhi gap par aa sakte hain. Bleeding lagbhag 2 se 7 din chalti hai. Jab se breast development start ho, tab se school bag mein ek pad rakho. Period healthy cheez hai; yeh na bimaari hai, na impurity, aur tum hamesha ki tarah naha sakti ho, khel sakti ho aur school ja sakti ho."
+    }
+   },
+   {
+    "h": {
+     "en": "Changes in the genitals",
+     "hi": "जननांगों में बदलाव",
+     "hg": "Genitals mein changes"
+    },
+    "body": {
+     "en": "In boys, the testes grow first and the skin of the scrotum becomes darker, thinner and looser. The penis then grows longer and later wider, a process that takes several years. In girls, the vulva changes too: the labia grow and may darken, and hair appears. In everyone, pubic hair starts soft and sparse and becomes curlier and thicker. Nobody's genitals look exactly like anyone else's, and they do not need to match pictures. Wash the outside daily with water and mild soap, and dry well.",
+     "hi": "लड़कों में पहले वृषण बढ़ते हैं और स्क्रोटम की त्वचा गहरे रंग की, पतली और ढीली हो जाती है। फिर लिंग पहले लंबाई में और बाद में मोटाई में बढ़ता है, और इसमें कई साल लगते हैं। लड़कियों में वल्वा भी बदलती है: लेबिया बढ़ते हैं और उनका रंग गहरा हो सकता है, और बाल आने लगते हैं। सभी में जननांगों के पास के बाल पहले नरम और कम होते हैं, फिर घुँघराले और घने हो जाते हैं। किसी के भी जननांग हूबहू किसी और जैसे नहीं दिखते, और उन्हें तस्वीरों से मिलने की ज़रूरत नहीं। बाहरी हिस्से को रोज़ पानी और हल्के साबुन से धोओ और अच्छी तरह सुखाओ।",
+     "hg": "Ladkon mein pehle testes grow karte hain aur scrotum ki skin dark, patli aur loose ho jaati hai. Phir penis pehle length mein aur baad mein width mein badhta hai, aur isme kai saal lagte hain. Ladkiyon mein vulva bhi change hoti hai: labia grow karte hain aur dark ho sakte hain, aur baal aane lagte hain. Sabme pubic hair pehle soft aur kam hote hain, phir curly aur ghane ho jaate hain. Kisi ke bhi genitals exactly kisi aur jaise nahi dikhte, aur unhe pictures se match karne ki zaroorat nahi. Bahar wale part ko roz paani aur mild soap se wash karo aur achhe se sukhao."
+    }
+   },
+   {
+    "h": {
+     "en": "Erections and wet dreams",
+     "hi": "इरेक्शन और स्वप्नदोष",
+     "hg": "Erections aur wet dreams"
+    },
+    "body": {
+     "en": "An erection happens when extra blood flows into the penis, making it firmer and larger for a short while. Boys have them from babyhood, but in puberty they become frequent and can happen for no reason at all: in class, on the bus, on waking. They go down on their own; sitting down or holding a bag in front works meanwhile. A wet dream is when semen, a whitish sticky fluid, comes out of the penis during sleep. It is not urine and you cannot control it. Just change, wash and carry on. Some boys have many, some have none, and both are normal.",
+     "hi": "इरेक्शन तब होता है जब लिंग में ज़्यादा ख़ून भर जाता है और वह थोड़ी देर के लिए सख़्त और बड़ा हो जाता है। लड़कों को यह बचपन से होता है, पर प्यूबर्टी में यह बार-बार होने लगता है और बिना किसी वजह के भी हो सकता है: क्लास में, बस में, सुबह उठते समय। यह अपने आप बैठ जाता है; तब तक बैठ जाना या बैग आगे रख लेना काम आता है। स्वप्नदोष (wet dream) का मतलब है नींद में लिंग से वीर्य निकलना, जो एक सफ़ेद-सा चिपचिपा तरल है। नाम में 'दोष' है, पर यह कोई दोष नहीं। यह पेशाब नहीं है और इस पर तुम्हारा बस नहीं चलता। बस कपड़े बदलो, धो लो और आगे बढ़ो। कुछ लड़कों को यह कई बार होता है, कुछ को कभी नहीं, और दोनों सामान्य हैं।",
+     "hg": "Erection tab hota hai jab penis mein extra blood bhar jata hai aur woh thodi der ke liye firm aur bada ho jata hai. Ladkon ko yeh bachpan se hota hai, par puberty mein yeh frequent ho jata hai aur bina kisi reason ke bhi ho sakta hai: class mein, bus mein, subah uthte time. Yeh apne aap chala jata hai; tab tak baith jana ya bag aage rakh lena kaam aata hai. Wet dream ka matlab hai neend mein penis se semen nikalna, jo ek whitish sticky fluid hai. Yeh urine nahi hai aur is par tumhara control nahi hota. Bas kapde change karo, wash karo aur aage badho. Kuch ladkon ko yeh kai baar hota hai, kuch ko kabhi nahi, aur dono normal hain."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "A wet dream means you were thinking dirty thoughts.",
+    "hi": "स्वप्नदोष का मतलब है कि तुम गंदी बातें सोच रहे थे।",
+    "hg": "Wet dream ka matlab hai ki tum gandi baatein soch rahe the."
+   },
+   "fact": {
+    "en": "Wet dreams happen during sleep because the body has started making semen. They are automatic, not a choice, and not a sign of bad character or illness.",
+    "hi": "स्वप्नदोष नींद में इसलिए होता है क्योंकि शरीर वीर्य बनाने लगा है। यह अपने आप होता है, तुम्हारी मर्ज़ी से नहीं, और यह ख़राब चरित्र या बीमारी की निशानी नहीं है।",
+    "hg": "Wet dreams neend mein isliye hote hain kyunki body semen banana start kar chuki hai. Yeh automatic hai, choice nahi, aur yeh bad character ya bimaari ka sign nahi hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Breast buds are usually the first sign of puberty in girls, and the first period follows about two years later.",
+    "hi": "लड़कियों में प्यूबर्टी का पहला लक्षण आम तौर पर ब्रेस्ट बड होता है, और पहला पीरियड क़रीब दो साल बाद आता है।",
+    "hg": "Ladkiyon mein puberty ka pehla sign usually breast buds hote hain, aur pehla period lagbhag do saal baad aata hai."
+   },
+   {
+    "en": "Genitals grow and change colour during puberty, and no two people's look the same.",
+    "hi": "प्यूबर्टी में जननांग बढ़ते हैं और उनका रंग बदलता है, और किन्हीं दो लोगों के जननांग एक जैसे नहीं दिखते।",
+    "hg": "Puberty mein genitals grow karte hain aur unka colour badalta hai, aur kinhi do logon ke genitals same nahi dikhte."
+   },
+   {
+    "en": "Erections and wet dreams are automatic body events, not something to feel guilty about.",
+    "hi": "इरेक्शन और स्वप्नदोष शरीर की अपने आप होने वाली घटनाएँ हैं, इनमें अपराध-बोध की कोई बात नहीं।",
+    "hg": "Erections aur wet dreams automatic body events hain, inme guilty feel karne wali koi baat nahi."
+   }
+  ],
+  "activity": {
+   "en": "Decide now what you would do if a period or a wet dream caught you unprepared: where the spare clothes or pads are kept, and which adult you would tell. Having a plan removes most of the fear.",
+   "hi": "अभी तय कर लो कि अगर पीरियड या स्वप्नदोष अचानक आ जाए तो क्या करोगे: अतिरिक्त कपड़े या पैड कहाँ रखे हैं, और किस बड़े को बताओगे। योजना पहले से हो तो ज़्यादातर डर ख़त्म हो जाता है।",
+   "hg": "Abhi decide kar lo ki agar period ya wet dream achanak aa jaye toh kya karoge: spare kapde ya pads kahan rakhe hain, aur kis adult ko bataoge. Plan ready ho toh zyadatar darr khatam ho jata hai."
+  },
+  "interactive": "period_lab",
+  "quiz": [
+   {
+    "id": "d02-l03-q1",
+    "type": "mcq",
+    "q": {
+     "en": "What often appears in the underwear for some months before a first period?",
+     "hi": "पहले पीरियड से कुछ महीने पहले अंडरवियर में अक्सर क्या दिखने लगता है?",
+     "hg": "Pehle period se kuch mahine pehle underwear mein aksar kya dikhne lagta hai?"
+    },
+    "options": [
+     {
+      "en": "Whitish or clear discharge",
+      "hi": "सफ़ेद-सा या पारदर्शी स्राव",
+      "hg": "Whitish ya clear discharge"
+     },
+     {
+      "en": "Dark brown stains every day",
+      "hi": "रोज़ गहरे भूरे दाग़",
+      "hg": "Roz dark brown daag"
+     },
+     {
+      "en": "Small blood clots",
+      "hi": "ख़ून के छोटे थक्के",
+      "hg": "Blood ke chhote clots"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Clear or whitish vaginal discharge usually starts some months before the first period and is a healthy sign that the body is getting ready.",
+     "hi": "योनि से पारदर्शी या सफ़ेद-सा स्राव आम तौर पर पहले पीरियड से कुछ महीने पहले शुरू होता है; यह इस बात का स्वस्थ संकेत है कि शरीर तैयार हो रहा है।",
+     "hg": "Clear ya whitish vaginal discharge usually pehle period se kuch mahine pehle start hota hai; yeh healthy sign hai ki body ready ho rahi hai."
+    }
+   },
+   {
+    "id": "d02-l03-q2",
+    "type": "tf",
+    "q": {
+     "en": "A boy can stop wet dreams from happening if he tries hard enough.",
+     "hi": "अगर लड़का पूरी कोशिश करे तो वह स्वप्नदोष को होने से रोक सकता है।",
+     "hg": "Agar ladka poori koshish kare toh woh wet dreams ko hone se rok sakta hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Wet dreams happen during sleep and are not under conscious control. They are a normal part of puberty for many boys.",
+     "hi": "स्वप्नदोष नींद में होता है और इस पर अपना बस नहीं चलता। बहुत-से लड़कों के लिए यह प्यूबर्टी का सामान्य हिस्सा है।",
+     "hg": "Wet dreams neend mein hote hain aur in par conscious control nahi hota. Bahut se ladkon ke liye yeh puberty ka normal part hai."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "nhs-periods",
+   "nhm-rksk"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d02-l04",
+  "domain": "d02",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   6,
+   5
+  ],
+  "title": {
+   "en": "Hormones, Mood and the Teenage Brain",
+   "hi": "हार्मोन, मूड और किशोर दिमाग़",
+   "hg": "Hormones, Mood aur Teenage Brain"
+  },
+  "subtitle": {
+   "en": "Why feelings get loud, sleep gets late, and when to ask for help",
+   "hi": "भावनाएँ तेज़ क्यों हो जाती हैं, नींद देर से क्यों आती है, और मदद कब माँगें",
+   "hg": "Feelings loud kyun ho jaati hain, neend late kyun aati hai, aur help kab maangni hai"
+  },
+  "hook": {
+   "en": "Laughing at four, furious at five, crying at six and unable to explain any of it. You are not being dramatic; your brain is under renovation.",
+   "hi": "चार बजे हँसी, पाँच बजे ग़ुस्सा, छह बजे रोना, और वजह किसी की समझ नहीं आती। तुम नाटक नहीं कर रहे; तुम्हारे दिमाग़ में मरम्मत का काम चल रहा है।",
+   "hg": "Chaar baje hasi, paanch baje gussa, chhe baje rona, aur reason kisi ka samajh nahi aata. Tum drama nahi kar rahe; tumhare brain mein renovation chal raha hai."
+  },
+  "objectives": [
+   {
+    "en": "Explain how hormones and brain development affect mood in puberty.",
+    "hi": "समझाना कि प्यूबर्टी में हार्मोन और दिमाग़ का विकास मूड पर कैसे असर डालते हैं।",
+    "hg": "Samjhana ki puberty mein hormones aur brain development mood par kaise effect daalte hain."
+   },
+   {
+    "en": "Describe why sleep timing shifts in the teenage years.",
+    "hi": "बताना कि किशोर उम्र में नींद का समय क्यों खिसक जाता है।",
+    "hg": "Batana ki teenage mein neend ki timing kyun shift ho jaati hai."
+   },
+   {
+    "en": "Tell ordinary mood swings apart from signs that need support.",
+    "hi": "आम मूड स्विंग और मदद की ज़रूरत वाले संकेतों में फ़र्क़ करना।",
+    "hg": "Normal mood swings aur support ki zaroorat wale signs mein difference karna."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Hormones turn up the volume",
+     "hi": "हार्मोन आवाज़ तेज़ कर देते हैं",
+     "hg": "Hormones volume badha dete hain"
+    },
+    "body": {
+     "en": "During puberty, levels of oestrogen, progesterone and testosterone rise and, for a few years, swing unevenly before settling into an adult pattern. These hormones act on the brain as well as the body. They make the emotional centres react more strongly, so irritation, embarrassment, excitement and sadness all feel bigger than they did at ten. People who menstruate may also notice a few days of low mood, tearfulness or irritability before a period. Feelings that arrive fast and loud are a normal part of this stage; they are information, not instructions you must act on.",
+     "hi": "प्यूबर्टी में एस्ट्रोजन, प्रोजेस्टेरोन और टेस्टोस्टेरोन का स्तर बढ़ता है और कुछ सालों तक ऊपर-नीचे होता रहता है, फिर बड़ों जैसे ढर्रे पर ठहरता है। ये हार्मोन शरीर के साथ-साथ दिमाग़ पर भी असर करते हैं। ये भावनाओं वाले हिस्सों की प्रतिक्रिया तेज़ कर देते हैं, इसलिए चिढ़, झेंप, उत्साह और उदासी, सब दस साल की उम्र के मुक़ाबले ज़्यादा बड़े लगते हैं। जिन्हें पीरियड आते हैं, उन्हें पीरियड से पहले कुछ दिन मन उदास रहना, रोना आना या चिड़चिड़ापन भी महसूस हो सकता है। भावनाओं का तेज़ी से और ज़ोर से आना इस दौर का सामान्य हिस्सा है; वे जानकारी हैं, ऐसे हुक्म नहीं जिन पर अमल करना ज़रूरी हो।",
+     "hg": "Puberty mein oestrogen, progesterone aur testosterone ke levels badhte hain aur kuch saalon tak upar-neeche hote rehte hain, phir adult pattern mein settle hote hain. Yeh hormones body ke saath-saath brain par bhi kaam karte hain. Yeh emotional centres ka reaction strong kar dete hain, isliye irritation, embarrassment, excitement aur sadness, sab das saal ki age ke comparison mein zyada bade feel hote hain. Jinhe periods aate hain, unhe period se pehle kuch din low mood, rona aana ya chidchidapan bhi feel ho sakta hai. Feelings ka fast aur loud aana is stage ka normal part hai; woh information hain, aise orders nahi jin par act karna zaroori ho."
+    }
+   },
+   {
+    "h": {
+     "en": "A brain still under construction",
+     "hi": "दिमाग़ अभी बन रहा है",
+     "hg": "Brain abhi under construction hai"
+    },
+    "body": {
+     "en": "The teenage brain is not a faulty adult brain; it is being rewired. The parts that handle emotion and reward mature early. The prefrontal cortex, which handles planning, weighing consequences and braking impulses, keeps developing into the mid-twenties. That gap is why risky ideas can feel brilliant in the moment, especially with friends watching, and why you may say something and regret it a minute later. The useful trick is to build in a pause: wait ten minutes before replying to a message that made you angry, and decide big things when you are calm.",
+     "hi": "किशोर दिमाग़ कोई ख़राब वयस्क दिमाग़ नहीं है; उसकी वायरिंग नए सिरे से हो रही है। भावनाओं और इनाम वाले हिस्से जल्दी पक जाते हैं। प्रीफ़्रंटल कॉर्टेक्स, जो योजना बनाने, नतीजे तौलने और आवेग पर ब्रेक लगाने का काम करता है, पच्चीस साल के आसपास तक विकसित होता रहता है। इसी अंतर की वजह से जोखिम वाले आइडिया उस पल शानदार लगते हैं, ख़ासकर जब दोस्त देख रहे हों, और इसी वजह से तुम कुछ कह देते हो और एक मिनट बाद पछताते हो। काम की तरकीब यह है कि बीच में ठहराव डालो: जिस मैसेज से ग़ुस्सा आया, उसका जवाब देने से पहले दस मिनट रुको, और बड़े फ़ैसले शांत मन से लो।",
+     "hg": "Teenage brain koi faulty adult brain nahi hai; uski rewiring ho rahi hai. Emotion aur reward wale parts jaldi mature ho jaate hain. Prefrontal cortex, jo planning, consequences tolna aur impulses par brake lagana handle karta hai, mid-twenties tak develop hota rehta hai. Isi gap ki wajah se risky ideas us moment mein brilliant lagte hain, khaaskar jab friends dekh rahe hon, aur isi wajah se tum kuch bol dete ho aur ek minute baad regret karte ho. Useful trick yeh hai ki beech mein pause daalo: jis message se gussa aaya, uska reply karne se pehle das minute ruko, aur bade decisions calm mood mein lo."
+    }
+   },
+   {
+    "h": {
+     "en": "Sleep moves later",
+     "hi": "नींद देर से आने लगती है",
+     "hg": "Neend late shift ho jaati hai"
+    },
+    "body": {
+     "en": "In the teen years the body clock shifts. The sleep hormone melatonin is released later at night, so you truly do not feel sleepy at the time you used to, yet school still starts early. Most teenagers need around eight to ten hours of sleep and get far less. Short sleep by itself causes irritability, low mood and poor concentration, which then get blamed on attitude. What helps: a fixed wake-up time, daylight in the morning, no tea, coffee or energy drinks in the evening, and keeping the phone away from the bed, because late-night scrolling delays sleep further.",
+     "hi": "किशोर उम्र में शरीर की घड़ी खिसक जाती है। नींद का हार्मोन मेलाटोनिन रात में देर से निकलता है, इसलिए पहले वाले समय पर सच में नींद नहीं आती, जबकि स्कूल अब भी सुबह जल्दी लगता है। ज़्यादातर किशोरों को क़रीब आठ से दस घंटे की नींद चाहिए, पर मिलती बहुत कम है। कम नींद अपने आप में चिड़चिड़ापन, उदासी और ध्यान की कमी पैदा करती है, और फिर इसका दोष रवैये पर मढ़ दिया जाता है। क्या मदद करता है: रोज़ एक ही समय पर उठना, सुबह की धूप लेना, शाम को चाय, कॉफ़ी या एनर्जी ड्रिंक न पीना, और फ़ोन को बिस्तर से दूर रखना, क्योंकि देर रात स्क्रॉल करने से नींद और पीछे खिसकती है।",
+     "hg": "Teen years mein body clock shift ho jaati hai. Sleep hormone melatonin raat mein late release hota hai, isliye pehle wale time par sach mein neend nahi aati, jabki school ab bhi subah jaldi lagta hai. Zyadatar teenagers ko lagbhag aath se das ghante ki neend chahiye, par milti bahut kam hai. Kam neend khud hi chidchidapan, low mood aur poor concentration cause karti hai, aur phir blame attitude par aa jata hai. Kya help karta hai: roz fixed time par uthna, subah ki dhoop lena, shaam ko chai, coffee ya energy drinks nahi, aur phone ko bed se door rakhna, kyunki late-night scrolling neend ko aur delay karti hai."
+    }
+   },
+   {
+    "h": {
+     "en": "When it is more than a mood swing",
+     "hi": "जब बात मूड स्विंग से आगे की हो",
+     "hg": "Jab baat mood swing se zyada ho"
+    },
+    "body": {
+     "en": "Ordinary mood swings pass within hours or a day or two, and in between you still enjoy things. Take it seriously if sadness, emptiness, anger or worry lasts most of the day for two weeks or more; if you stop enjoying everything, cannot sleep or sleep all day, or your eating changes sharply; if you avoid school or friends; or if you think about hurting yourself. None of this is weakness, and it is treatable. Tell a parent, teacher or school counsellor, visit a doctor, or call Tele-MANAS on 14416, which is free and open day and night.",
+     "hi": "आम मूड स्विंग कुछ घंटों या एक-दो दिन में गुज़र जाते हैं, और बीच-बीच में तुम्हें चीज़ों में मज़ा आता रहता है। इसे गंभीरता से लो अगर उदासी, ख़ालीपन, ग़ुस्सा या चिंता दो हफ़्ते या उससे ज़्यादा समय तक दिन के ज़्यादातर हिस्से में बनी रहे; अगर किसी भी चीज़ में मज़ा आना बंद हो जाए, नींद न आए या दिन भर नींद आए, या खाने की आदत एकदम बदल जाए; अगर तुम स्कूल या दोस्तों से कतराने लगो; या ख़ुद को नुक़सान पहुँचाने के ख़याल आएँ। इनमें से कुछ भी कमज़ोरी नहीं है, और इसका इलाज हो सकता है। मम्मी-पापा, टीचर या स्कूल काउंसलर को बताओ, डॉक्टर को दिखाओ, या टेली-मानस को 14416 पर फ़ोन करो, जो मुफ़्त है और दिन-रात खुला रहता है।",
+     "hg": "Normal mood swings kuch ghanton ya ek-do din mein nikal jaate hain, aur beech-beech mein tumhe cheezein enjoy hoti rehti hain. Ise seriously lo agar sadness, khaalipan, gussa ya tension do hafte ya usse zyada time tak din ke zyadatar hisse mein bana rahe; agar kisi bhi cheez mein maza aana band ho jaye, neend na aaye ya din bhar neend aaye, ya khane ki aadat ekdum badal jaye; agar tum school ya friends ko avoid karne lago; ya khud ko hurt karne ke khayal aayein. Inme se kuch bhi weakness nahi hai, aur yeh treatable hai. Mummy-papa, teacher ya school counsellor ko batao, doctor ko dikhao, ya Tele-MANAS ko 14416 par call karo, jo free hai aur din-raat khula rehta hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Teenage moodiness is just bad attitude.",
+    "hi": "किशोरों का मूडी होना बस बदतमीज़ी है।",
+    "hg": "Teenagers ka moody hona bas attitude problem hai."
+   },
+   "fact": {
+    "en": "Mood swings in puberty have biological causes: shifting hormones, a brain that is still developing, and a body clock that leaves most teenagers short of sleep.",
+    "hi": "प्यूबर्टी में मूड स्विंग के पीछे शरीर से जुड़े कारण हैं: बदलते हार्मोन, अभी विकसित हो रहा दिमाग़, और शरीर की ऐसी घड़ी जिससे ज़्यादातर किशोरों की नींद पूरी नहीं हो पाती।",
+    "hg": "Puberty mein mood swings ke biological causes hain: badalte hormones, abhi develop ho raha brain, aur aisi body clock jisse zyadatar teenagers ki neend poori nahi ho paati."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Rising and uneven hormone levels make emotions feel stronger for a few years.",
+    "hi": "बढ़ते और ऊपर-नीचे होते हार्मोन कुछ सालों तक भावनाओं को ज़्यादा तेज़ बना देते हैं।",
+    "hg": "Badhte aur upar-neeche hote hormones kuch saalon tak emotions ko zyada strong feel karwate hain."
+   },
+   {
+    "en": "The brain's planning and braking centre keeps developing into the mid-twenties, so pausing before acting helps.",
+    "hi": "दिमाग़ का योजना और ब्रेक वाला हिस्सा पच्चीस के आसपास तक विकसित होता है, इसलिए कुछ करने से पहले रुकना मदद करता है।",
+    "hg": "Brain ka planning aur braking centre mid-twenties tak develop hota hai, isliye act karne se pehle pause lena help karta hai."
+   },
+   {
+    "en": "Low mood lasting two weeks or more, or any thought of self-harm, needs support from an adult or a professional.",
+    "hi": "दो हफ़्ते या ज़्यादा चलने वाली उदासी, या ख़ुद को नुक़सान पहुँचाने का कोई भी ख़याल, किसी बड़े या पेशेवर की मदद माँगता है।",
+    "hg": "Do hafte ya zyada chalne wala low mood, ya self-harm ka koi bhi thought, kisi adult ya professional ki support maangta hai."
+   }
+  ],
+  "activity": {
+   "en": "For one week, rate your mood every morning and night from 1 to 5 and note how many hours you slept. At the end, look for a pattern between the two.",
+   "hi": "एक हफ़्ते तक हर सुबह और रात अपने मूड को 1 से 5 के बीच अंक दो और लिखो कि कितने घंटे सोए। आख़िर में देखो कि दोनों के बीच कोई पैटर्न दिखता है या नहीं।",
+   "hg": "Ek week tak har subah aur raat apne mood ko 1 se 5 mein rate karo aur note karo ki kitne ghante soye. End mein dekho ki dono ke beech koi pattern dikhta hai ya nahi."
+  },
+  "interactive": "support_circle",
+  "quiz": [
+   {
+    "id": "d02-l04-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Which part of the brain, responsible for planning and impulse control, keeps developing into the mid-twenties?",
+     "hi": "दिमाग़ का कौन-सा हिस्सा, जो योजना बनाने और आवेग पर क़ाबू का काम करता है, पच्चीस साल के आसपास तक विकसित होता रहता है?",
+     "hg": "Brain ka kaun sa part, jo planning aur impulse control handle karta hai, mid-twenties tak develop hota rehta hai?"
+    },
+    "options": [
+     {
+      "en": "The brain stem",
+      "hi": "ब्रेन स्टेम",
+      "hg": "Brain stem"
+     },
+     {
+      "en": "The cerebellum",
+      "hi": "सेरिबेलम",
+      "hg": "Cerebellum"
+     },
+     {
+      "en": "The pituitary gland",
+      "hi": "पिट्यूटरी ग्रंथि",
+      "hg": "Pituitary gland"
+     },
+     {
+      "en": "The prefrontal cortex",
+      "hi": "प्रीफ़्रंटल कॉर्टेक्स",
+      "hg": "Prefrontal cortex"
+     }
+    ],
+    "answer": 3,
+    "explain": {
+     "en": "The prefrontal cortex matures last. Emotional and reward centres mature earlier, which explains strong feelings and impulsive choices in the teens.",
+     "hi": "प्रीफ़्रंटल कॉर्टेक्स सबसे आख़िर में पकता है। भावनाओं और इनाम वाले हिस्से पहले पक जाते हैं, इसीलिए किशोर उम्र में भावनाएँ तेज़ और फ़ैसले जल्दबाज़ी वाले होते हैं।",
+     "hg": "Prefrontal cortex sabse last mein mature hota hai. Emotional aur reward centres pehle mature ho jaate hain, isiliye teens mein feelings strong aur choices impulsive hoti hain."
+    }
+   },
+   {
+    "id": "d02-l04-q2",
+    "type": "scenario",
+    "q": {
+     "en": "Kabir, 14, has felt low and empty most of the day for three weeks and has stopped going to football, which he loved. What should he do?",
+     "hi": "14 साल का कबीर तीन हफ़्ते से दिन के ज़्यादातर समय उदास और ख़ाली-ख़ाली महसूस कर रहा है, और उसने फ़ुटबॉल जाना छोड़ दिया है जो उसे बहुत पसंद था। उसे क्या करना चाहिए?",
+     "hg": "Kabir, 14, teen hafte se din ke zyadatar time low aur empty feel kar raha hai, aur usne football jaana chhod diya hai jo use bahut pasand tha. Use kya karna chahiye?"
+    },
+    "options": [
+     {
+      "en": "Tell a trusted adult and get help from a doctor or counsellor",
+      "hi": "किसी भरोसेमंद बड़े को बताना और डॉक्टर या काउंसलर से मदद लेना",
+      "hg": "Kisi trusted adult ko batana aur doctor ya counsellor se help lena"
+     },
+     {
+      "en": "Wait for it to pass, since all teenagers feel this way",
+      "hi": "इसके गुज़रने का इंतज़ार करना, क्योंकि सभी किशोर ऐसा महसूस करते हैं",
+      "hg": "Iske nikalne ka wait karna, kyunki sab teenagers aisa feel karte hain"
+     },
+     {
+      "en": "Hide it so that his family does not worry",
+      "hi": "इसे छिपाना ताकि घरवाले परेशान न हों",
+      "hg": "Ise chhupana taaki family tension na le"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Low mood most of the day for two weeks or more, with loss of interest, is beyond an ordinary mood swing. It is treatable, and the first step is telling someone.",
+     "hi": "दो हफ़्ते या ज़्यादा समय तक दिन भर की उदासी, साथ में दिलचस्पी ख़त्म होना, आम मूड स्विंग से आगे की बात है। इसका इलाज हो सकता है, और पहला क़दम किसी को बताना है।",
+     "hg": "Do hafte ya zyada time tak din bhar ka low mood, saath mein interest khatam hona, normal mood swing se aage ki baat hai. Yeh treatable hai, aur pehla step kisi ko batana hai."
+    }
+   }
+  ],
+  "refs": [
+   "who-adolescent-mh",
+   "tele-manas",
+   "unesco-itgse"
+  ],
+  "warning": {
+   "en": "If you have thoughts of harming yourself or feel you cannot go on, tell a trusted adult now and call Tele-MANAS on 14416 or the emergency number 112.",
+   "hi": "अगर ख़ुद को नुक़सान पहुँचाने के ख़याल आ रहे हैं या लग रहा है कि अब और नहीं सहा जाएगा, तो अभी किसी भरोसेमंद बड़े को बताओ और टेली-मानस को 14416 पर या इमरजेंसी नंबर 112 पर फ़ोन करो।",
+   "hg": "Agar khud ko hurt karne ke thoughts aa rahe hain ya lag raha hai ki ab aur nahi ho payega, toh abhi kisi trusted adult ko batao aur Tele-MANAS ko 14416 par ya emergency number 112 par call karo."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d02-l05",
+  "domain": "d02",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   1,
+   5,
+   7
+  ],
+  "title": {
+   "en": "Crushes, Comparison and Peer Pressure",
+   "hi": "क्रश, तुलना और दोस्तों का दबाव",
+   "hg": "Crushes, Comparison aur Peer Pressure"
+  },
+  "subtitle": {
+   "en": "The social side of puberty that nobody puts in a diagram",
+   "hi": "प्यूबर्टी का वह सामाजिक पहलू जो किसी चित्र में नहीं आता",
+   "hg": "Puberty ka social side jo kisi diagram mein nahi aata"
+  },
+  "hook": {
+   "en": "Suddenly someone's name makes your stomach flip, the mirror has opinions, and your friends have a plan you are not sure about. Welcome to the social side of puberty.",
+   "hi": "अचानक किसी का नाम सुनते ही पेट में गुदगुदी होती है, आईना राय देने लगता है, और दोस्तों के पास एक ऐसा प्लान है जिस पर तुम्हें पक्का भरोसा नहीं। प्यूबर्टी के सामाजिक पहलू में स्वागत है।",
+   "hg": "Achanak kisi ka naam sunte hi pet mein butterflies, mirror ke apne opinions, aur friends ke paas ek aisa plan jis par tum sure nahi ho. Welcome to puberty ka social side."
+  },
+  "objectives": [
+   {
+    "en": "Understand crushes and attraction as a normal part of development.",
+    "hi": "समझना कि क्रश और आकर्षण विकास का सामान्य हिस्सा हैं।",
+    "hg": "Samajhna ki crushes aur attraction development ka normal part hain."
+   },
+   {
+    "en": "Recognise social anxiety and body comparison, and ways to manage them.",
+    "hi": "सामाजिक घबराहट और शरीर की तुलना को पहचानना, और उन्हें सँभालने के तरीक़े जानना।",
+    "hg": "Social anxiety aur body comparison ko pehchanna, aur unhe manage karne ke tareeke jaanna."
+   },
+   {
+    "en": "Practise ways of saying no to peer pressure.",
+    "hi": "दोस्तों के दबाव को मना करने के तरीक़ों का अभ्यास करना।",
+    "hg": "Peer pressure ko no bolne ke tareekon ki practice karna."
+   }
+  ],
+  "prereqs": [
+   "d02-l04"
+  ],
+  "sections": [
+   {
+    "h": {
+     "en": "Crushes and attraction",
+     "hi": "क्रश और आकर्षण",
+     "hg": "Crushes aur attraction"
+    },
+    "body": {
+     "en": "As hormones rise, many people start feeling drawn to someone: a classmate, a senior, a celebrity. You may think about them constantly, feel nervous near them, or feel a physical pull. This can be towards a different gender, the same gender, more than one, or it may not happen at all for a long time; every one of these is normal. A crush is a feeling, not a task. You do not have to confess it, act on it or prove it. Feelings also never give anyone the right to touch, pressure or keep messaging someone who has not shown interest.",
+     "hi": "हार्मोन बढ़ने के साथ बहुत लोगों को किसी की तरफ़ खिंचाव महसूस होने लगता है: कोई क्लासमेट, कोई सीनियर, कोई सेलिब्रिटी। तुम हर समय उसी के बारे में सोच सकते हो, उसके पास घबराहट हो सकती है, या शारीरिक खिंचाव महसूस हो सकता है। यह किसी दूसरे जेंडर की तरफ़ हो सकता है, अपने ही जेंडर की तरफ़, एक से ज़्यादा की तरफ़, या लंबे समय तक बिल्कुल न हो; इनमें से हर बात सामान्य है। क्रश एक एहसास है, कोई काम नहीं। उसे बताना, उस पर कुछ करना या उसे साबित करना ज़रूरी नहीं। और भावनाएँ किसी को यह हक़ कभी नहीं देतीं कि वह ऐसे इंसान को छुए, उस पर दबाव डाले या उसे लगातार मैसेज करे जिसने दिलचस्पी नहीं दिखाई।",
+     "hg": "Hormones badhne ke saath bahut logon ko kisi ki taraf pull feel hone lagta hai: koi classmate, koi senior, koi celebrity. Tum har time usi ke baare mein soch sakte ho, uske paas nervous feel kar sakte ho, ya physical pull feel ho sakta hai. Yeh kisi doosre gender ki taraf ho sakta hai, same gender ki taraf, ek se zyada ki taraf, ya lambe time tak bilkul na ho; inme se har cheez normal hai. Crush ek feeling hai, koi task nahi. Use confess karna, us par act karna ya use prove karna zaroori nahi. Aur feelings kisi ko yeh haq kabhi nahi deti ki woh aise insaan ko touch kare, pressure daale ya lagataar message kare jisne interest nahi dikhaya."
+    }
+   },
+   {
+    "h": {
+     "en": "The spotlight feeling",
+     "hi": "हर नज़र मुझ पर है वाला एहसास",
+     "hg": "Spotlight wali feeling"
+    },
+    "body": {
+     "en": "In the early teens the brain becomes much more sensitive to what others think. Psychologists describe an imaginary audience: the sense that everyone is watching and judging your pimple, your voice crack or what you just said. In reality, most classmates are busy worrying about their own. Some nervousness before speaking in class or meeting new people is ordinary and fades with practice. It needs attention when fear of being judged makes you skip school, avoid eating in front of others or stop meeting friends for weeks. That is social anxiety, and a counsellor or doctor can help with it.",
+     "hi": "शुरुआती किशोर उम्र में दिमाग़ इस बात को लेकर बहुत ज़्यादा संवेदनशील हो जाता है कि दूसरे क्या सोचते हैं। मनोवैज्ञानिक इसे काल्पनिक दर्शक कहते हैं: यह एहसास कि हर कोई तुम्हारे मुँहासे, फटी आवाज़ या अभी-अभी कही बात को देख रहा है और परख रहा है। असल में ज़्यादातर क्लासमेट अपनी ही चिंताओं में उलझे होते हैं। क्लास में बोलने या नए लोगों से मिलने से पहले थोड़ी घबराहट आम है और अभ्यास से घटती जाती है। ध्यान देने की ज़रूरत तब है जब लोगों की राय के डर से तुम स्कूल छोड़ने लगो, दूसरों के सामने खाने से बचो या हफ़्तों तक दोस्तों से न मिलो। इसे सोशल एंग्ज़ायटी कहते हैं, और काउंसलर या डॉक्टर इसमें मदद कर सकते हैं।",
+     "hg": "Early teens mein brain is baat ko lekar bahut zyada sensitive ho jata hai ki doosre kya sochte hain. Psychologists ise imaginary audience kehte hain: yeh feeling ki har koi tumhara pimple, voice crack ya abhi boli hui baat dekh raha hai aur judge kar raha hai. Reality mein zyadatar classmates apni hi tension mein busy hote hain. Class mein bolne ya naye logon se milne se pehle thodi nervousness normal hai aur practice se kam hoti jaati hai. Dhyan dene ki zaroorat tab hai jab judge hone ke darr se tum school skip karne lago, doosron ke saamne khane se bacho ya hafton tak friends se na milo. Ise social anxiety kehte hain, aur counsellor ya doctor isme help kar sakte hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Comparing bodies",
+     "hi": "शरीरों की तुलना",
+     "hg": "Bodies ko compare karna"
+    },
+    "body": {
+     "en": "Puberty hands out changes on different dates, so any changing room or class photo shows bodies at every stage. Comparing your stage two with someone's stage four tells you nothing about where either of you will end up. Social media makes it worse by showing angles, filters and edited shapes as if they were everyday bodies. Commenting on anyone's chest, height, weight, skin colour or facial hair, even as a joke, is body-shaming, and it sticks for years. Unfollow accounts that leave you feeling worse, and notice what your body lets you do rather than how it measures up.",
+     "hi": "प्यूबर्टी हर किसी को बदलाव अलग-अलग तारीख़ों पर देती है, इसलिए किसी भी चेंजिंग रूम या क्लास फ़ोटो में हर स्टेज के शरीर दिखते हैं। अपनी दूसरी स्टेज की तुलना किसी की चौथी स्टेज से करने पर यह पता नहीं चलता कि तुम दोनों आख़िर में कहाँ पहुँचोगे। सोशल मीडिया इसे और बिगाड़ता है, क्योंकि वह एंगल, फ़िल्टर और एडिट किए हुए आकार ऐसे दिखाता है जैसे वे रोज़मर्रा के शरीर हों। किसी की छाती, लंबाई, वज़न, रंग या चेहरे के बालों पर टिप्पणी करना, मज़ाक में भी, बॉडी-शेमिंग है, और यह बरसों तक चुभती रहती है। जो अकाउंट देखकर तुम्हें बुरा लगता है उन्हें अनफ़ॉलो करो, और इस पर ध्यान दो कि तुम्हारा शरीर तुम्हें क्या-क्या करने देता है, न कि वह किसी पैमाने पर कितना खरा उतरता है।",
+     "hg": "Puberty sabko changes alag-alag dates par deti hai, isliye kisi bhi changing room ya class photo mein har stage ki bodies dikhti hain. Apni stage two ko kisi ki stage four se compare karne par yeh pata nahi chalta ki tum dono end mein kahan pahunchoge. Social media ise aur kharab karta hai, kyunki woh angles, filters aur edited shapes aise dikhata hai jaise woh everyday bodies hon. Kisi ke chest, height, weight, skin colour ya facial hair par comment karna, joke mein bhi, body-shaming hai, aur yeh saalon tak chubhti rehti hai. Jo accounts dekhkar tumhe bura feel hota hai unhe unfollow karo, aur is par dhyan do ki tumhari body tumhe kya-kya karne deti hai, na ki woh kisi scale par kitni fit baithti hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Peer pressure",
+     "hi": "दोस्तों का दबाव",
+     "hg": "Peer pressure"
+    },
+    "body": {
+     "en": "Wanting to belong is strongest at this age, and friends can push in both directions. Pressure is not always a dare; it is also teasing, being left out, or hearing that everyone has done it except you, about dating, sending photos, smoking, vaping, drinking or watching adult content. Claims like that are usually exaggerated. You are allowed to say no without a long explanation: not my thing, I don't want to, or simply walking away. Blaming a strict parent is a perfectly good exit. Friends who drop you for a no were offering membership, not friendship. Waiting is always a valid choice.",
+     "hi": "इस उम्र में किसी ग्रुप का हिस्सा बनने की चाह सबसे तेज़ होती है, और दोस्त अच्छी और बुरी, दोनों दिशाओं में धकेल सकते हैं। दबाव हमेशा चुनौती के रूप में नहीं आता; यह चिढ़ाना, अलग-थलग कर देना, या यह सुनाना भी है कि तुम्हें छोड़कर सबने कर लिया है, चाहे बात डेटिंग की हो, फ़ोटो भेजने की, सिगरेट, वेप, शराब की या वयस्कों वाला कंटेंट देखने की। ऐसे दावे आम तौर पर बढ़ा-चढ़ाकर किए जाते हैं। तुम्हें लंबी सफ़ाई दिए बिना मना करने का हक़ है: यह मेरे बस का नहीं, मुझे नहीं करना, या बस वहाँ से चले जाना। सख़्त मम्मी-पापा का बहाना बनाना भी निकलने का बिल्कुल ठीक रास्ता है। जो दोस्त एक 'ना' पर तुम्हें छोड़ दें, वे दोस्ती नहीं, मेंबरशिप दे रहे थे। इंतज़ार करना हमेशा एक सही विकल्प है।",
+     "hg": "Is age mein kisi group ka part banne ki chaah sabse strong hoti hai, aur friends achhi aur buri, dono directions mein push kar sakte hain. Pressure hamesha dare nahi hota; yeh tease karna, left out kar dena, ya yeh sunana bhi hai ki tumhe chhodkar sabne kar liya hai, chahe baat dating ki ho, photos bhejne ki, smoking, vaping, drinking ki ya adult content dekhne ki. Aise claims usually badha-chadhakar bole jaate hain. Tumhe lamba explanation diye bina no bolne ka haq hai: not my thing, mujhe nahi karna, ya bas wahan se nikal jana. Strict parents ka bahana banana bhi ek perfectly fine exit hai. Jo friends ek no par tumhe drop kar dein, woh friendship nahi, membership de rahe the. Wait karna hamesha ek valid choice hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Everyone in my class already has a girlfriend or boyfriend, so something is wrong with me.",
+    "hi": "मेरी क्लास में सबकी गर्लफ़्रेंड या बॉयफ़्रेंड है, तो मुझमें ही कुछ कमी है।",
+    "hg": "Meri class mein sabki girlfriend ya boyfriend hai, toh mujhme hi kuch problem hai."
+   },
+   "fact": {
+    "en": "Far fewer people are dating than the talk suggests, and many exaggerate. Not having or not wanting a relationship in your teens is completely normal.",
+    "hi": "जितनी बातें होती हैं, उससे कहीं कम लोग असल में डेट कर रहे होते हैं, और बहुत-से बढ़ा-चढ़ाकर बताते हैं। किशोर उम्र में रिलेशनशिप न होना या न चाहना पूरी तरह सामान्य है।",
+    "hg": "Jitni baatein hoti hain, usse kaafi kam log actually date kar rahe hote hain, aur bahut se badha-chadhakar batate hain. Teens mein relationship na hona ya na chahna completely normal hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "A crush on any gender, or no crush at all, is normal, and a feeling never has to be acted on.",
+    "hi": "किसी भी जेंडर पर क्रश होना, या बिल्कुल न होना, सामान्य है, और किसी एहसास पर कुछ करना कभी ज़रूरी नहीं होता।",
+    "hg": "Kisi bhi gender par crush hona, ya bilkul na hona, normal hai, aur kisi feeling par act karna kabhi zaroori nahi hota."
+   },
+   {
+    "en": "Most people are too busy with their own worries to judge you as closely as it feels.",
+    "hi": "ज़्यादातर लोग अपनी ही चिंताओं में इतने उलझे होते हैं कि तुम्हें उतने ग़ौर से नहीं परखते जितना तुम्हें लगता है।",
+    "hg": "Zyadatar log apni hi tension mein itne busy hote hain ki tumhe utna closely judge nahi karte jitna tumhe lagta hai."
+   },
+   {
+    "en": "You can say no without explaining, and waiting is always a valid choice.",
+    "hi": "तुम बिना सफ़ाई दिए मना कर सकते हो, और इंतज़ार करना हमेशा एक सही विकल्प है।",
+    "hg": "Tum bina explain kiye no bol sakte ho, aur wait karna hamesha ek valid choice hai."
+   }
+  ],
+  "activity": {
+   "en": "Write three sentences you could actually say to get out of something you do not want to do. Say them aloud once, so they are ready when you need them.",
+   "hi": "ऐसे तीन वाक्य लिखो जो तुम सच में बोल सको जब कोई ऐसा काम करने को कहे जो तुम नहीं करना चाहते। उन्हें एक बार ज़ोर से बोलकर देखो, ताकि ज़रूरत पड़ने पर वे तैयार रहें।",
+   "hg": "Aise teen sentences likho jo tum actually bol sako jab koi aisa kaam karne ko bole jo tum nahi karna chahte. Unhe ek baar zor se bolkar dekho, taaki zaroorat padne par woh ready rahein."
+  },
+  "interactive": "communication",
+  "quiz": [
+   {
+    "id": "d02-l05-q1",
+    "type": "scenario",
+    "q": {
+     "en": "Riya's friends call her such a baby because she refuses to send a selfie to a boy they dared her to message. What is the strongest response?",
+     "hi": "रिया की सहेलियाँ उसे बच्ची कह रही हैं क्योंकि वह उस लड़के को सेल्फ़ी भेजने से मना कर रही है जिसे मैसेज करने की उन्होंने चुनौती दी थी। सबसे मज़बूत जवाब क्या है?",
+     "hg": "Riya ki friends use bachchi bol rahi hain kyunki woh us ladke ko selfie bhejne se mana kar rahi hai jise message karne ka unhone dare diya tha. Sabse strong response kya hai?"
+    },
+    "options": [
+     {
+      "en": "Send it once so that they stop teasing",
+      "hi": "एक बार भेज देना ताकि वे चिढ़ाना बंद करें",
+      "hg": "Ek baar bhej dena taaki woh tease karna band karein"
+     },
+     {
+      "en": "Say that she does not want to, and change the topic or leave",
+      "hi": "कह देना कि उसे नहीं भेजनी, और बात बदल देना या वहाँ से चले जाना",
+      "hg": "Bol dena ki use nahi bhejni, aur topic change kar dena ya wahan se nikal jana"
+     },
+     {
+      "en": "Let a friend send it from her phone instead",
+      "hi": "किसी सहेली को अपने फ़ोन से भेजने देना",
+      "hg": "Kisi friend ko apne phone se bhejne dena"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "A clear no needs no long explanation. Teasing is a form of pressure, and giving in once usually invites the next dare.",
+     "hi": "साफ़ 'ना' के लिए लंबी सफ़ाई की ज़रूरत नहीं होती। चिढ़ाना भी दबाव का ही एक रूप है, और एक बार मान लेने पर अक्सर अगली चुनौती आ जाती है।",
+     "hg": "Clear no ke liye lamba explanation nahi chahiye. Tease karna bhi pressure ka hi ek form hai, aur ek baar maan lene par usually agla dare aa jata hai."
+    }
+   },
+   {
+    "id": "d02-l05-q2",
+    "type": "tf",
+    "q": {
+     "en": "Having a crush on someone of the same gender is a normal variation of attraction.",
+     "hi": "अपने ही जेंडर के किसी व्यक्ति पर क्रश होना आकर्षण का एक सामान्य रूप है।",
+     "hg": "Same gender ke kisi insaan par crush hona attraction ka ek normal variation hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Attraction to the same gender, a different gender, more than one, or none is all part of normal human variation and is not an illness.",
+     "hi": "अपने जेंडर की तरफ़, दूसरे जेंडर की तरफ़ या एक से ज़्यादा जेंडर की तरफ़ आकर्षण होना, या किसी की तरफ़ भी आकर्षण न होना, यह सब इंसानों की सामान्य विविधता का हिस्सा है, कोई बीमारी नहीं।",
+     "hg": "Same gender ki taraf, doosre gender ki taraf ya ek se zyada gender ki taraf attraction hona, ya kisi ki taraf bhi attraction na hona, yeh sab normal human variation ka part hai, koi bimaari nahi."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-cse",
+   "who-adolescent-mh"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d02-l06",
+  "domain": "d02",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "men",
+   "women"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "difficulty": 3,
+  "minutes": 7,
+  "unesco": [
+   6,
+   5
+  ],
+  "title": {
+   "en": "Early, Late or Right on Time?",
+   "hi": "जल्दी, देर से या ठीक समय पर?",
+   "hg": "Early, Late ya Right on Time?"
+  },
+  "subtitle": {
+   "en": "Puberty timing, what doctors check, and when to get help",
+   "hi": "प्यूबर्टी का समय, डॉक्टर क्या जाँचते हैं, और मदद कब लें",
+   "hg": "Puberty ki timing, doctors kya check karte hain, aur help kab leni hai"
+  },
+  "hook": {
+   "en": "Being the first or the last in class to change feels like a verdict. Mostly it is just genetics. Here is how to tell a different clock from a real problem.",
+   "hi": "क्लास में सबसे पहले या सबसे आख़िर में बदलना किसी फ़ैसले जैसा लगता है। ज़्यादातर यह बस जीन का मामला होता है। जानो कि अलग घड़ी और असली समस्या में फ़र्क़ कैसे करें।",
+   "hg": "Class mein sabse pehle ya sabse last change hona ek verdict jaisa lagta hai. Mostly yeh bas genetics hai. Dekho ki alag clock aur real problem mein difference kaise karein."
+  },
+  "objectives": [
+   {
+    "en": "Define early (precocious) and delayed puberty.",
+    "hi": "जल्दी (प्रीकोशियस) और देर से आने वाली प्यूबर्टी की परिभाषा बताना।",
+    "hg": "Early (precocious) aur delayed puberty ko define karna."
+   },
+   {
+    "en": "Describe common causes and what a medical assessment involves.",
+    "hi": "आम कारण और मेडिकल जाँच में क्या-क्या होता है, यह बताना।",
+    "hg": "Common causes aur medical assessment mein kya-kya hota hai, yeh batana."
+   },
+   {
+    "en": "Correct common misconceptions about puberty timing and growth.",
+    "hi": "प्यूबर्टी के समय और बढ़त से जुड़ी आम ग़लतफ़हमियों को दूर करना।",
+    "hg": "Puberty ki timing aur growth se judi common galatfehmiyon ko correct karna."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "What counts as early or delayed",
+     "hi": "जल्दी या देर किसे कहते हैं",
+     "hg": "Early ya delayed kise kehte hain"
+    },
+    "body": {
+     "en": "Puberty is called early, or precocious, when signs such as breast development or pubic hair appear before age 8 in girls, or testicular growth or pubic hair before 9 in boys. It is called delayed when there is no breast development by 13 in girls, no testicular enlargement by 14 in boys, or no period by 15. These cut-offs are screening lines, not diagnoses: they tell you when to get checked, not that something is wrong. A child who starts early also needs adults to remember that a taller, developed body still belongs to a child of that age.",
+     "hi": "प्यूबर्टी को जल्दी, यानी प्रीकोशियस, तब कहा जाता है जब लड़कियों में 8 साल से पहले स्तनों का विकास या जननांगों के पास बाल दिखने लगें, या लड़कों में 9 साल से पहले वृषण बढ़ने लगें या वहाँ बाल आ जाएँ। इसे देर से आई तब कहा जाता है जब लड़कियों में 13 साल तक स्तनों का विकास न हो, लड़कों में 14 साल तक वृषण न बढ़ें, या 15 साल तक पीरियड न आए। ये सीमाएँ जाँच की रेखाएँ हैं, बीमारी का फ़ैसला नहीं: ये बताती हैं कि कब जाँच करवानी है, यह नहीं कि कुछ गड़बड़ है। जो बच्चा जल्दी शुरू करता है, उसके मामले में बड़ों को यह भी याद रखना चाहिए कि लंबा, विकसित शरीर अब भी उसी उम्र के बच्चे का है।",
+     "hg": "Puberty ko early, yaani precocious, tab kaha jata hai jab ladkiyon mein 8 saal se pehle breast development ya pubic hair dikhne lagein, ya ladkon mein 9 saal se pehle testes badhne lagein ya pubic hair aa jayein. Ise delayed tab kaha jata hai jab ladkiyon mein 13 saal tak breast development na ho, ladkon mein 14 saal tak testes na badhein, ya 15 saal tak period na aaye. Yeh cut-offs screening lines hain, diagnosis nahi: yeh batate hain ki kab check karwana hai, yeh nahi ki kuch galat hai. Jo bachcha early start karta hai, uske case mein adults ko yeh bhi yaad rakhna chahiye ki lambi, developed body ab bhi usi age ke bachche ki hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Why timing differs",
+     "hi": "समय अलग-अलग क्यों होता है",
+     "hg": "Timing alag kyun hoti hai"
+    },
+    "body": {
+     "en": "The commonest reason for a late start is a family pattern called constitutional delay: a parent or sibling was also a late bloomer, and the person catches up fully, just later. Other causes include long-term illness, being very underweight, eating disorders, extremely intense athletic training, thyroid or pituitary problems, and some genetic or intersex variations. Early puberty in girls often has no identifiable cause; in boys it is less common and more likely to need investigation. Body weight and overall nutrition also influence timing. None of these are caused by thoughts, friendships, films or masturbation.",
+     "hi": "देर से शुरुआत की सबसे आम वजह परिवार का एक पैटर्न है, जिसे कॉन्स्टिट्यूशनल डिले कहते हैं: माँ, पिता या भाई-बहन में से कोई भी देर से बढ़ा था, और ऐसा व्यक्ति पूरा विकास कर लेता है, बस थोड़ी देर से। दूसरी वजहों में लंबी बीमारी, बहुत कम वज़न, ईटिंग डिसऑर्डर, हद से ज़्यादा कड़ी खेल-ट्रेनिंग, थायरॉइड या पिट्यूटरी की समस्याएँ और कुछ आनुवंशिक या इंटरसेक्स भिन्नताएँ शामिल हैं। लड़कियों में जल्दी प्यूबर्टी की अक्सर कोई पहचानी जा सकने वाली वजह नहीं मिलती; लड़कों में यह कम होती है और इसमें जाँच की ज़रूरत ज़्यादा पड़ती है। शरीर का वज़न और कुल पोषण भी समय पर असर डालते हैं। इनमें से कुछ भी विचारों, दोस्तियों, फ़िल्मों या हस्तमैथुन की वजह से नहीं होता।",
+     "hg": "Late start ka sabse common reason ek family pattern hai, jise constitutional delay kehte hain: mummy, papa ya kisi sibling ka bhi late hua tha, aur aisa insaan poora catch up kar leta hai, bas thoda late. Doosre causes mein lambi bimaari, bahut kam weight, eating disorders, hadd se zyada intense athletic training, thyroid ya pituitary ki problems aur kuch genetic ya intersex variations aate hain. Ladkiyon mein early puberty ka aksar koi identifiable cause nahi milta; ladkon mein yeh kam hoti hai aur isme investigation ki zaroorat zyada padti hai. Body weight aur overall nutrition bhi timing par asar daalte hain. Inme se kuch bhi thoughts, dostiyon, films ya masturbation ki wajah se nahi hota."
+    }
+   },
+   {
+    "h": {
+     "en": "What a doctor will do",
+     "hi": "डॉक्टर क्या करेंगे",
+     "hg": "Doctor kya karenge"
+    },
+    "body": {
+     "en": "A paediatrician or endocrinologist starts with questions about growth and family history, measures height and weight, and plots them on a growth chart. They then examine the stage of development; you can ask for a parent or nurse to be present and for each step to be explained first. Common tests are blood tests for hormone levels and an X-ray of the left hand and wrist to estimate bone age. Many people need only monitoring. When treatment is needed, such as medicine to pause very early puberty or a short hormone course to start a delayed one, it is prescribed and supervised by a specialist.",
+     "hi": "बच्चों के डॉक्टर या एंडोक्राइनोलॉजिस्ट पहले बढ़त और परिवार के इतिहास के बारे में सवाल पूछते हैं, लंबाई और वज़न नापते हैं और उन्हें ग्रोथ चार्ट पर दर्ज करते हैं। फिर वे विकास की स्टेज की जाँच करते हैं; तुम कह सकते हो कि उस समय मम्मी-पापा या नर्स साथ रहें और हर क़दम पहले समझाया जाए। आम जाँचों में हार्मोन के स्तर के लिए ख़ून की जाँच और हड्डियों की उम्र का अंदाज़ा लगाने के लिए बाएँ हाथ और कलाई का एक्स-रे शामिल है। बहुत लोगों को सिर्फ़ निगरानी की ज़रूरत होती है। जब इलाज ज़रूरी हो, जैसे बहुत जल्दी आई प्यूबर्टी को रोकने की दवा या देर से आई प्यूबर्टी को शुरू करने के लिए हार्मोन का छोटा कोर्स, तो उसे विशेषज्ञ ही लिखते हैं और उसकी निगरानी करते हैं।",
+     "hg": "Paediatrician ya endocrinologist pehle growth aur family history ke baare mein sawaal poochte hain, height aur weight measure karte hain aur unhe growth chart par plot karte hain. Phir woh development ki stage examine karte hain; tum bol sakte ho ki us time mummy-papa ya nurse saath rahein aur har step pehle explain kiya jaye. Common tests mein hormone levels ke liye blood tests aur bone age estimate karne ke liye left haath aur wrist ka X-ray aata hai. Bahut logon ko sirf monitoring chahiye hoti hai. Jab treatment zaroori ho, jaise bahut early puberty ko pause karne ki medicine ya delayed puberty ko start karne ke liye hormones ka chhota course, toh use specialist hi prescribe aur supervise karte hain."
+    }
+   },
+   {
+    "h": {
+     "en": "After puberty, and for late finishers",
+     "hi": "प्यूबर्टी के बाद, और देर से पूरा करने वालों के लिए",
+     "hg": "Puberty ke baad, aur late finishers ke liye"
+    },
+    "body": {
+     "en": "Puberty does not end on a set birthday. Most girls reach adult height around 14 to 16 and most boys around 16 to 18, though some boys keep growing slowly a little longer. Facial and chest hair, shoulder width and breast shape can continue changing into the early twenties. Periods typically become more regular within a few years of starting. If you are 16 or older and still worried, about height, sparse facial hair, irregular cycles or anything else, it is not too late to ask. Government Adolescent Friendly Health Clinics see people aged 10 to 19, and adults can consult a general physician or gynaecologist.",
+     "hi": "प्यूबर्टी किसी तय जन्मदिन पर ख़त्म नहीं होती। ज़्यादातर लड़कियाँ 14 से 16 साल के आसपास और ज़्यादातर लड़के 16 से 18 के आसपास अपनी पूरी लंबाई पा लेते हैं, हालाँकि कुछ लड़के थोड़ा और समय तक धीरे-धीरे बढ़ते रहते हैं। चेहरे और छाती के बाल, कंधों की चौड़ाई और स्तनों की बनावट बीस-बाईस की उम्र तक बदलती रह सकती है। पीरियड आम तौर पर शुरू होने के कुछ सालों में ज़्यादा नियमित हो जाते हैं। अगर तुम 16 या उससे बड़े हो और अब भी लंबाई, चेहरे के कम बाल, अनियमित चक्र या किसी और बात को लेकर चिंतित हो, तो पूछने में देर नहीं हुई है। सरकारी किशोर अनुकूल स्वास्थ्य क्लिनिक (AFHC) 10 से 19 साल वालों को देखते हैं, और वयस्क किसी जनरल फ़िज़िशियन या स्त्री रोग विशेषज्ञ से मिल सकते हैं।",
+     "hg": "Puberty kisi fixed birthday par khatam nahi hoti. Zyadatar ladkiyan 14 se 16 ke around aur zyadatar ladke 16 se 18 ke around apni adult height tak pahunch jaate hain, though kuch ladke thoda aur time tak slowly grow karte rehte hain. Facial aur chest hair, shoulders ki width aur breast shape early twenties tak change hoti reh sakti hai. Periods typically start hone ke kuch saalon mein zyada regular ho jaate hain. Agar tum 16 ya usse bade ho aur ab bhi height, kam facial hair, irregular cycles ya kisi aur cheez ko lekar worried ho, toh poochne mein late nahi hua hai. Government ke Adolescent Friendly Health Clinics (AFHC) 10 se 19 saal walon ko dekhte hain, aur adults kisi general physician ya gynaecologist se mil sakte hain."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Late bloomers stay small and underdeveloped for life.",
+    "hi": "जो देर से बढ़ते हैं, वे ज़िंदगी भर छोटे और अविकसित रह जाते हैं।",
+    "hg": "Late bloomers life bhar chhote aur underdeveloped reh jaate hain."
+   },
+   "fact": {
+    "en": "Most people with a late start go through every stage of puberty and reach an adult height in line with their family. They simply get there later.",
+    "hi": "देर से शुरू करने वाले ज़्यादातर लोग प्यूबर्टी की हर स्टेज से गुज़रते हैं और अपने परिवार के हिसाब की लंबाई तक पहुँचते हैं। बस वे वहाँ थोड़ी देर से पहुँचते हैं।",
+    "hg": "Late start karne wale zyadatar log puberty ki har stage se guzarte hain aur apni family ke hisaab ki adult height tak pahunchte hain. Bas woh wahan thoda late pahunchte hain."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Signs before 8 in girls or 9 in boys, none by 13 or 14, or no period by 15 are reasons to see a doctor.",
+    "hi": "लड़कियों में 8 और लड़कों में 9 साल से पहले लक्षण, 13 या 14 साल तक कोई लक्षण नहीं, या 15 साल तक पीरियड नहीं, ये सब डॉक्टर को दिखाने की वजहें हैं।",
+    "hg": "Ladkiyon mein 8 aur ladkon mein 9 se pehle signs, 13 ya 14 tak koi sign nahi, ya 15 tak period nahi, yeh sab doctor ko dikhane ke reasons hain."
+   },
+   {
+    "en": "The commonest cause of late puberty is a harmless family pattern, and the person catches up.",
+    "hi": "देर से आई प्यूबर्टी की सबसे आम वजह परिवार का एक हानिरहित पैटर्न है, और ऐसा व्यक्ति बाद में बराबर आ जाता है।",
+    "hg": "Late puberty ka sabse common cause ek harmless family pattern hai, aur aisa insaan baad mein catch up kar leta hai."
+   },
+   {
+    "en": "Hormone treatment for puberty timing is only ever prescribed and supervised by a specialist.",
+    "hi": "प्यूबर्टी के समय के लिए हार्मोन का इलाज सिर्फ़ विशेषज्ञ ही लिखते हैं और वही उसकी निगरानी करते हैं।",
+    "hg": "Puberty timing ke liye hormone treatment sirf specialist hi prescribe aur supervise karte hain."
+   }
+  ],
+  "activity": {
+   "en": "Find out, if you can, when your parents or older siblings had their growth spurt or first period. Family timing is the single best clue to your own.",
+   "hi": "हो सके तो पता करो कि तुम्हारे मम्मी-पापा या बड़े भाई-बहनों की लंबाई कब तेज़ी से बढ़ी थी या पहला पीरियड कब आया था। परिवार का समय ही तुम्हारे अपने समय का सबसे अच्छा सुराग़ है।",
+   "hg": "Ho sake toh pata karo ki tumhare mummy-papa ya bade siblings ka growth spurt ya pehla period kab aaya tha. Family ki timing hi tumhari apni timing ka sabse best clue hai."
+  },
+  "interactive": "ask",
+  "quiz": [
+   {
+    "id": "d02-l06-q1",
+    "type": "mcq",
+    "q": {
+     "en": "By what age should a boy with no testicular growth see a doctor about delayed puberty?",
+     "hi": "अगर लड़के के वृषण बिल्कुल न बढ़े हों, तो देर से प्यूबर्टी के लिए उसे किस उम्र तक डॉक्टर को दिखा देना चाहिए?",
+     "hg": "Agar ladke ke testes bilkul na badhe hon, toh delayed puberty ke liye use kis age tak doctor ko dikha dena chahiye?"
+    },
+    "options": [
+     {
+      "en": "12",
+      "hi": "12 साल",
+      "hg": "12 saal"
+     },
+     {
+      "en": "13",
+      "hi": "13 साल",
+      "hg": "13 saal"
+     },
+     {
+      "en": "14",
+      "hi": "14 साल",
+      "hg": "14 saal"
+     },
+     {
+      "en": "16",
+      "hi": "16 साल",
+      "hg": "16 saal"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "In boys, no sign of puberty by 14 is the point at which a check-up is advised. For girls the equivalent age is 13.",
+     "hi": "लड़कों में 14 साल तक प्यूबर्टी का कोई लक्षण न दिखे तो जाँच की सलाह दी जाती है। लड़कियों के लिए यह उम्र 13 साल है।",
+     "hg": "Ladkon mein 14 saal tak puberty ka koi sign na dikhe toh check-up advise hota hai. Ladkiyon ke liye yeh age 13 saal hai."
+    }
+   },
+   {
+    "id": "d02-l06-q2",
+    "type": "tf",
+    "q": {
+     "en": "A teenager whose puberty is delayed can safely start it by taking hormone tablets or gym supplements on their own.",
+     "hi": "जिस किशोर की प्यूबर्टी देर से हो रही है, वह अपने मन से हार्मोन की गोलियाँ या जिम सप्लीमेंट लेकर उसे सुरक्षित रूप से शुरू कर सकता है।",
+     "hg": "Jis teenager ki puberty delayed hai, woh khud se hormone tablets ya gym supplements lekar use safely start kar sakta hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Hormones taken without tests and supervision can harm growth and health. Any treatment for puberty timing must be prescribed by a specialist.",
+     "hi": "जाँच और निगरानी के बिना लिए गए हार्मोन बढ़त और सेहत को नुक़सान पहुँचा सकते हैं। प्यूबर्टी के समय का कोई भी इलाज विशेषज्ञ की सलाह से ही होना चाहिए।",
+     "hg": "Tests aur supervision ke bina liye gaye hormones growth aur health ko harm kar sakte hain. Puberty timing ka koi bhi treatment specialist ke prescription se hi hona chahiye."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "nhm-afhc",
+   "nhm-rksk"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ }
+]

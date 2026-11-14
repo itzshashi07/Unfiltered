@@ -1,0 +1,868 @@
+[
+ {
+  "id": "d05-s1",
+  "domain": "d05",
+  "module": "consent",
+  "tracks": [
+   "A"
+  ],
+  "title": {
+   "en": "Hugs, Hands and a Secret",
+   "hi": "गले लगना, हाथ पकड़ना और एक राज़",
+   "hg": "Hugs, Haath aur Ek Secret"
+  },
+  "intro": {
+   "en": "It is Diwali at your house and lots of people have come. Let us see what you do.",
+   "hi": "तुम्हारे घर दिवाली है और बहुत सारे लोग आए हैं। चलो देखें, तुम क्या करते हो।",
+   "hg": "Tumhare ghar Diwali hai aur bahut saare log aaye hain. Chalo dekhein, tum kya karte ho."
+  },
+  "sensitive": false,
+  "start": "n1",
+  "nodes": {
+   "n1": {
+    "text": {
+     "en": "Sharma Aunty opens her arms and says, 'Come, give me a big hug!' You do not feel like hugging today.",
+     "hi": "शर्मा आंटी बाँहें फैलाकर कहती हैं, 'आओ, ज़ोर से गले लगो!' आज तुम्हारा गले लगने का मन नहीं है।",
+     "hg": "Sharma Aunty baahein phailakar bolti hain, 'Aao, zor se hug do!' Aaj tumhara hug karne ka mann nahi hai."
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Smile and say, 'Namaste, Aunty!'",
+       "hi": "मुस्कुराकर कहो, 'नमस्ते, आंटी!'",
+       "hg": "Smile karke bolo, 'Namaste, Aunty!'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Great choice. You were polite and you listened to your own body. A namaste is a kind way to say hello without a hug.",
+       "hi": "बहुत बढ़िया। तुमने तमीज़ भी दिखाई और अपने शरीर की बात भी सुनी। नमस्ते बिना गले लगे हैलो कहने का प्यारा तरीक़ा है।",
+       "hg": "Bahut badhiya. Tum polite bhi rahe aur apni body ki baat bhi suni. Namaste bina hug ke hello bolne ka pyaara tareeka hai."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Hide behind mummy",
+       "hi": "मम्मी के पीछे छिप जाओ",
+       "hg": "Mummy ke peeche chhup jao"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "It is okay to feel shy, and mummy is a safe person. Next time you can also use words, like 'No hug today, namaste!' Words help people understand you.",
+       "hi": "शर्माना ठीक है, और मम्मी सुरक्षित इंसान हैं। अगली बार तुम शब्दों में भी कह सकते हो, जैसे 'आज गले नहीं, नमस्ते!' शब्दों से लोग तुम्हारी बात समझ पाते हैं।",
+       "hg": "Shy feel karna okay hai, aur mummy safe person hain. Next time tum words mein bhi bol sakte ho, jaise 'Aaj hug nahi, namaste!' Words se log tumhari baat samajh paate hain."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Hug her even though you do not want to",
+       "hi": "मन न होने पर भी गले लग जाओ",
+       "hg": "Mann na hone par bhi hug kar lo"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Many children do this so that nobody feels bad. But your body is yours. You are allowed to say 'No, thank you' and do a namaste instead.",
+       "hi": "बहुत से बच्चे ऐसा करते हैं ताकि किसी को बुरा न लगे। लेकिन तुम्हारा शरीर तुम्हारा है। तुम 'नहीं, धन्यवाद' कहकर नमस्ते कर सकते हो।",
+       "hg": "Bahut bachche aisa karte hain taaki kisi ko bura na lage. Lekin tumhari body tumhari hai. Tum 'Nahi, thank you' bolkar namaste kar sakte ho."
+      },
+      "next": "n2"
+     }
+    ]
+   },
+   "n2": {
+    "text": {
+     "en": "Later you want to hold your friend Pihu's hand and run to see the rangoli. Pihu pulls her hand back and says, 'No, I don't want to.'",
+     "hi": "बाद में तुम अपनी दोस्त पीहू का हाथ पकड़कर रंगोली देखने दौड़ना चाहते हो। पीहू हाथ पीछे खींच लेती है और कहती है, 'नहीं, मुझे नहीं पकड़ना।'",
+     "hg": "Baad mein tum apni dost Pihu ka haath pakadkar rangoli dekhne daudna chahte ho. Pihu haath peeche kheench leti hai aur bolti hai, 'Nahi, mujhe nahi pakadna.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Say 'Okay!' and run next to her",
+       "hi": "'ठीक है!' कहो और उसके साथ-साथ दौड़ो",
+       "hg": "'Okay!' bolo aur uske saath-saath daudo"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Well done. Pihu is the boss of her body, just as you are the boss of yours. You listened to her no, and you can still have fun together.",
+       "hi": "शाबाश। पीहू अपने शरीर की बॉस है, जैसे तुम अपने शरीर के हो। तुमने उसकी 'ना' सुनी, और तुम दोनों फिर भी साथ में मज़े कर सकते हो।",
+       "hg": "Shabaash. Pihu apni body ki boss hai, jaise tum apni body ke ho. Tumne uski 'no' suni, aur tum dono phir bhi saath mein masti kar sakte ho."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Feel sad and go to sit alone",
+       "hi": "उदास होकर अकेले जा बैठो",
+       "hg": "Udaas hokar akele ja baitho"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Feeling a little sad is normal. But Pihu's no is about her hand, not about you. You can still play together in another way.",
+       "hi": "थोड़ा उदास होना स्वाभाविक है। लेकिन पीहू की 'ना' उसके हाथ के बारे में है, तुम्हारे बारे में नहीं। तुम दोनों किसी और तरह से साथ खेल सकते हो।",
+       "hg": "Thoda udaas hona normal hai. Lekin Pihu ki 'no' uske haath ke baare mein hai, tumhare baare mein nahi. Tum dono kisi aur tarah se saath khel sakte ho."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Grab her hand anyway",
+       "hi": "फिर भी उसका हाथ पकड़ लो",
+       "hg": "Phir bhi uska haath pakad lo"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Pihu said no, so grabbing her hand would make her feel bad. When a friend says no, we stop. You can ask, 'Want to race instead?'",
+       "hi": "पीहू ने 'ना' कहा है, इसलिए हाथ पकड़ लेने से उसे बुरा लगेगा। जब दोस्त 'ना' कहे, तो हम रुक जाते हैं। तुम पूछ सकते हो, 'चलो रेस लगाएँ?'",
+       "hg": "Pihu ne 'no' bola hai, isliye haath pakad lene se usse bura lagega. Jab dost 'no' bole, toh hum ruk jaate hain. Tum pooch sakte ho, 'Chalo race lagayein?'"
+      },
+      "next": "n3"
+     }
+    ]
+   },
+   "n3": {
+    "text": {
+     "en": "Raju bhaiya from next door gives you a chocolate. He whispers, 'Don't tell your mummy. It is our secret.' You get a funny feeling in your tummy.",
+     "hi": "पड़ोस के राजू भैया तुम्हें चॉकलेट देते हैं। वे धीरे से कहते हैं, 'मम्मी को मत बताना। यह हमारा राज़ है।' तुम्हारे पेट में अजीब-सा लगता है।",
+     "hg": "Pados ke Raju bhaiya tumhe chocolate dete hain. Woh dheere se bolte hain, 'Mummy ko mat batana. Yeh hamara secret hai.' Tumhare pet mein ajeeb-sa lagta hai."
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Go and tell mummy or papa",
+       "hi": "जाकर मम्मी या पापा को बता दो",
+       "hg": "Jaakar mummy ya papa ko bata do"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "That is exactly right. A secret that gives you a funny feeling is an unsafe secret. Telling a grown-up you trust keeps you safe, and you will not be in trouble.",
+       "hi": "बिल्कुल सही। जो राज़ अजीब-सा महसूस कराए, वह असुरक्षित राज़ है। भरोसेमंद बड़े को बताने से तुम सुरक्षित रहते हो, और तुम्हें डाँट नहीं पड़ेगी।",
+       "hg": "Bilkul sahi. Jo secret ajeeb-sa feel karaye, woh unsafe secret hai. Trusted bade ko batane se tum safe rehte ho, aur tumhe daant nahi padegi."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Keep the secret because he told you to",
+       "hi": "राज़ रख लो क्योंकि उन्होंने कहा है",
+       "hg": "Secret rakh lo kyunki unhone bola hai"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "It is hard to say no to someone older. But safe grown-ups do not ask children to hide things from mummy and papa. You can still tell now. It is never too late.",
+       "hi": "अपने से बड़े को 'ना' कहना मुश्किल होता है। लेकिन सुरक्षित बड़े बच्चों से मम्मी-पापा से बातें छिपाने को नहीं कहते। तुम अब भी बता सकते हो। बताने में कभी देर नहीं होती।",
+       "hg": "Apne se bade ko 'no' bolna mushkil hota hai. Lekin safe bade bachchon se mummy-papa se cheezein chhupane ko nahi bolte. Tum ab bhi bata sakte ho. Batane mein kabhi der nahi hoti."
+      },
+      "next": null
+     }
+    ]
+   }
+  },
+  "debrief": {
+   "en": "Your body is yours, and your friends' bodies are theirs. We ask first and we listen to no. If a secret or a touch gives you a funny feeling, tell a grown-up you trust. You will never be in trouble for telling.",
+   "hi": "तुम्हारा शरीर तुम्हारा है, और तुम्हारे दोस्तों का शरीर उनका। हम पहले पूछते हैं और 'ना' सुनते हैं। अगर कोई राज़ या छूना अजीब-सा लगे, तो किसी भरोसेमंद बड़े को बताओ। बताने पर तुम्हें कभी डाँट नहीं पड़ेगी।",
+   "hg": "Tumhari body tumhari hai, aur tumhare doston ki body unki. Hum pehle poochte hain aur 'no' sunte hain. Agar koi secret ya touch ajeeb-sa lage, toh kisi trusted bade ko batao. Batane par tumhe kabhi daant nahi padegi."
+  },
+  "refs": [
+   "unesco-itgse",
+   "wcd-childline"
+  ]
+ },
+ {
+  "id": "d05-s2",
+  "domain": "d05",
+  "module": "consent",
+  "tracks": [
+   "B"
+  ],
+  "title": {
+   "en": "Your Space, Your Call",
+   "hi": "तुम्हारा दायरा, तुम्हारा फ़ैसला",
+   "hg": "Tumhara Space, Tumhara Call"
+  },
+  "intro": {
+   "en": "You are in Class 6. Three small moments this week will test your boundaries, and how you treat other people's.",
+   "hi": "तुम छठी क्लास में हो। इस हफ़्ते के तीन छोटे पल तुम्हारी सीमाओं को परखेंगे, और यह भी कि तुम दूसरों की सीमाओं के साथ कैसे पेश आते हो।",
+   "hg": "Tum Class 6 mein ho. Is hafte ke teen chhote moments tumhari boundaries ko test karenge, aur yeh bhi ki tum doosron ki boundaries ke saath kaise pesh aate ho."
+  },
+  "sensitive": true,
+  "start": "n1",
+  "nodes": {
+   "n1": {
+    "text": {
+     "en": "On the school bus, Vihaan takes a photo of you asleep with your mouth open. He laughs and says he is posting it in the class group.",
+     "hi": "स्कूल बस में विहान तुम्हारी मुँह खोलकर सोते हुए फ़ोटो खींच लेता है। वह हँसता है और कहता है कि इसे क्लास ग्रुप में डाल रहा है।",
+     "hg": "School bus mein Vihaan tumhari muh kholkar sote hue photo kheench leta hai. Woh hasta hai aur bolta hai ki isse class group mein daal raha hai."
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Say clearly, 'Don't post it. Please delete it.'",
+       "hi": "साफ़ कहो, 'इसे पोस्ट मत करना। प्लीज़ डिलीट कर दो।'",
+       "hg": "Clearly bolo, 'Isse post mat karna. Please delete kar do.'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Clear and calm. Your photo is part of your personal space, so people need your permission to share it. If he posts it anyway, tell your class teacher or a parent.",
+       "hi": "साफ़ और शांत। तुम्हारी फ़ोटो तुम्हारे निजी दायरे का हिस्सा है, इसलिए उसे शेयर करने के लिए तुम्हारी इजाज़त चाहिए। अगर वह फिर भी पोस्ट कर दे, तो क्लास टीचर या मम्मी-पापा को बताओ।",
+       "hg": "Clear aur calm. Tumhari photo tumhare personal space ka part hai, isliye usse share karne ke liye tumhari permission chahiye. Agar woh phir bhi post kar de, toh class teacher ya parents ko batao."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Laugh along, even though you hate it",
+       "hi": "साथ में हँस दो, हालाँकि तुम्हें बिल्कुल अच्छा नहीं लग रहा",
+       "hg": "Saath mein has do, halaanki tumhe bilkul accha nahi lag raha"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Laughing along feels easier in the moment, but it tells Vihaan you are fine with it. You can still say afterwards, 'Actually, I don't like that photo. Please delete it.'",
+       "hi": "उस पल साथ हँस देना आसान लगता है, पर इससे विहान को लगता है कि तुम्हें कोई दिक़्क़त नहीं। तुम बाद में भी कह सकते हो, 'असल में मुझे वह फ़ोटो पसंद नहीं। प्लीज़ डिलीट कर दो।'",
+       "hg": "Us moment mein saath has dena easy lagta hai, par isse Vihaan ko lagta hai ki tumhe koi problem nahi. Tum baad mein bhi bol sakte ho, 'Actually mujhe woh photo pasand nahi. Please delete kar do.'"
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Snatch his phone and take an embarrassing photo of him",
+       "hi": "उसका फ़ोन छीनकर उसकी भी शर्मिंदा करने वाली फ़ोटो खींच लो",
+       "hg": "Uska phone chheenkar uski bhi embarrassing photo kheench lo"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Being angry makes sense. But snatching his phone crosses his boundary too and can turn into a fight. Saying no in words, and asking a teacher for help if needed, works better.",
+       "hi": "ग़ुस्सा आना समझ में आता है। लेकिन फ़ोन छीनना उसकी सीमा भी लाँघना है और बात झगड़े तक पहुँच सकती है। शब्दों में 'ना' कहना, और ज़रूरत पड़े तो टीचर की मदद लेना, ज़्यादा काम करता है।",
+       "hg": "Gussa aana samajh mein aata hai. Lekin phone chheenna uski boundary bhi cross karna hai aur baat fight tak pahunch sakti hai. Words mein 'no' bolna, aur zaroorat pade toh teacher ki help lena, zyada kaam karta hai."
+      },
+      "next": "n2"
+     }
+    ]
+   },
+   "n2": {
+    "text": {
+     "en": "At lunch your best friend Tara is upset. You try to put your arm around her. She shifts away and says, 'Not now.'",
+     "hi": "लंच में तुम्हारी पक्की दोस्त तारा परेशान है। तुम उसके कंधे पर हाथ रखने की कोशिश करते हो। वह थोड़ा सरक जाती है और कहती है, 'अभी नहीं।'",
+     "hg": "Lunch mein tumhari best friend Tara upset hai. Tum uske kandhe par haath rakhne ki koshish karte ho. Woh thoda sarak jaati hai aur bolti hai, 'Abhi nahi.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Say, 'Okay. I'm here if you want to talk.'",
+       "hi": "कहो, 'ठीक है। बात करनी हो तो मैं यहीं हूँ।'",
+       "hg": "Bolo, 'Okay. Baat karni ho toh main yahin hoon.'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "That is respect. Tara's no is about what she needs right now, not about your friendship. Giving her space and staying nearby shows you care.",
+       "hi": "यही सम्मान है। तारा की 'ना' इस बारे में है कि उसे अभी क्या चाहिए, तुम्हारी दोस्ती के बारे में नहीं। उसे थोड़ी जगह देना और पास बने रहना बताता है कि तुम्हें उसकी परवाह है।",
+       "hg": "Yahi respect hai. Tara ki 'no' is baare mein hai ki usse abhi kya chahiye, tumhari dosti ke baare mein nahi. Usse space dena aur paas rehna dikhata hai ki tumhe uski parwah hai."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Walk off hurt and ignore her all day",
+       "hi": "बुरा मानकर चले जाओ और पूरा दिन उससे बात मत करो",
+       "hg": "Bura maankar chale jao aur poora din usse baat mat karo"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "It stings when a friend says 'not now'. But ignoring her punishes her for having a boundary. Give her space without going cold, and check in later.",
+       "hi": "जब दोस्त 'अभी नहीं' कहे तो चुभता है। लेकिन उसे अनदेखा करना उसे सीमा रखने की सज़ा देना है। रूखे हुए बिना उसे थोड़ी जगह दो, और बाद में हाल पूछ लो।",
+       "hg": "Jab dost 'abhi nahi' bole toh chubhta hai. Lekin usse ignore karna usse boundary rakhne ki saza dena hai. Cold hue bina usse space do, aur baad mein haal pooch lo."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Hug her anyway, because best friends are allowed",
+       "hi": "फिर भी गले लगा लो, पक्के दोस्तों को तो छूट होती है",
+       "hg": "Phir bhi hug kar lo, best friends ko toh allowed hota hai"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "You meant it kindly, but a hug she does not want is not comforting. Even best friends ask and listen. Try, 'Do you want a hug or some space?'",
+       "hi": "तुम्हारी नीयत अच्छी थी, पर जो गले लगना उसे नहीं चाहिए, उससे सुकून नहीं मिलता। पक्के दोस्त भी पूछते और सुनते हैं। कहकर देखो, 'गले लगूँ या थोड़ी देर अकेला छोड़ दूँ?'",
+       "hg": "Tumhari niyat acchi thi, par jo hug usse nahi chahiye, usse comfort nahi milta. Best friends bhi poochte aur sunte hain. Try karo, 'Hug chahiye ya thoda space?'"
+      },
+      "next": "n3"
+     }
+    ]
+   },
+   "n3": {
+    "text": {
+     "en": "That evening Aryan bhaiya from your cricket academy, who is in Class 11, messages you: 'You're my favourite junior. Let's chat every night, but don't tell your parents. They won't get it.'",
+     "hi": "उसी शाम तुम्हारी क्रिकेट अकादमी के आर्यन भैया, जो ग्यारहवीं में हैं, मैसेज करते हैं: 'तू मेरा फ़ेवरेट जूनियर है। रोज़ रात को चैट करेंगे, पर मम्मी-पापा को मत बताना। वे नहीं समझेंगे।'",
+     "hg": "Usi shaam tumhari cricket academy ke Aryan bhaiya, jo Class 11 mein hain, message karte hain: 'Tu mera favourite junior hai. Roz raat ko chat karenge, par parents ko mat batana. Woh nahi samjhenge.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Show the message to a parent or another trusted adult",
+       "hi": "मैसेज मम्मी-पापा या किसी और भरोसेमंद बड़े को दिखाओ",
+       "hg": "Message parents ya kisi aur trusted adult ko dikhao"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Exactly right. Someone older asking for a secret chat is a warning sign, even if he is friendly and you like him. Telling an adult is how you keep yourself safe.",
+       "hi": "बिल्कुल सही। किसी बड़े का छिपाकर चैट करने को कहना ख़तरे का संकेत है, चाहे वह अच्छे से पेश आता हो और तुम्हें पसंद हो। बड़े को बताना ख़ुद को सुरक्षित रखने का तरीक़ा है।",
+       "hg": "Bilkul sahi. Kisi bade ka secret chat ke liye bolna warning sign hai, chahe woh friendly ho aur tumhe pasand ho. Adult ko batana khud ko safe rakhne ka tareeka hai."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Reply 'I can't chat at night' and tell nobody",
+       "hi": "जवाब दो 'मैं रात को चैट नहीं कर सकता' और किसी को मत बताओ",
+       "hg": "Reply karo 'main raat ko chat nahi kar sakta' aur kisi ko mat batao"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Saying no was a good start. But the 'don't tell your parents' part still needs an adult to know, because people who ask for secrecy often try again. Show the message to someone you trust.",
+       "hi": "'ना' कहना अच्छी शुरुआत थी। लेकिन 'मम्मी-पापा को मत बताना' वाली बात किसी बड़े को पता होनी चाहिए, क्योंकि छिपाने को कहने वाले लोग अक्सर दोबारा कोशिश करते हैं। मैसेज किसी भरोसेमंद इंसान को दिखाओ।",
+       "hg": "'No' bolna acchi shuruaat thi. Lekin 'parents ko mat batana' wali baat kisi adult ko pata honi chahiye, kyunki secrecy maangne wale log aksar dobara try karte hain. Message kisi trusted insaan ko dikhao."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Agree, because it feels special to be chosen",
+       "hi": "मान जाओ, क्योंकि चुना जाना ख़ास लगता है",
+       "hg": "Maan jao, kyunki choose hona special lagta hai"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Feeling special is natural, and that is what makes this risky. Safe older people do not ask children to hide chats from parents. It is not too late: stop replying and show a trusted adult.",
+       "hi": "ख़ास महसूस करना स्वाभाविक है, और इसी वजह से यह जोखिम भरा है। सुरक्षित बड़े बच्चों से चैट मम्मी-पापा से छिपाने को नहीं कहते। अभी देर नहीं हुई: जवाब देना बंद करो और किसी भरोसेमंद बड़े को दिखाओ।",
+       "hg": "Special feel karna natural hai, aur isi wajah se yeh risky hai. Safe bade log bachchon se chats parents se chhupane ko nahi bolte. Abhi der nahi hui: reply karna band karo aur kisi trusted adult ko dikhao."
+      },
+      "next": null
+     }
+    ]
+   }
+  },
+  "debrief": {
+   "en": "Boundaries work in both directions. You can say no to a photo, a hug or a chat, and you respect it when a friend says no to you. Any older person who asks you to keep chats, gifts or meetings secret from your parents is showing a warning sign. Tell a trusted adult or call 1098.",
+   "hi": "सीमाएँ दोनों तरफ़ काम करती हैं। तुम फ़ोटो, गले लगने या चैट के लिए 'ना' कह सकते हो, और जब दोस्त तुम्हें 'ना' कहे तो उसका सम्मान करते हो। जो भी बड़ा इंसान चैट, तोहफ़े या मुलाक़ातें मम्मी-पापा से छिपाने को कहे, वह ख़तरे का संकेत दे रहा है। किसी भरोसेमंद बड़े को बताओ या 1098 पर फ़ोन करो।",
+   "hg": "Boundaries dono taraf kaam karti hain. Tum photo, hug ya chat ke liye 'no' bol sakte ho, aur jab dost tumhe 'no' bole toh uski respect karte ho. Jo bhi bada insaan chats, gifts ya meetings parents se chhupane ko bole, woh warning sign de raha hai. Kisi trusted adult ko batao ya 1098 par call karo."
+  },
+  "refs": [
+   "unesco-itgse",
+   "wcd-childline"
+  ]
+ },
+ {
+  "id": "d05-s3",
+  "domain": "d05",
+  "module": "consent",
+  "tracks": [
+   "C"
+  ],
+  "title": {
+   "en": "The Terrace at the Birthday Party",
+   "hi": "बर्थडे पार्टी की छत",
+   "hg": "Birthday Party ki Terrace"
+  },
+  "intro": {
+   "en": "You are 14 and at a friend's birthday party. Reyansh, a classmate you like, asks you to come up to the terrace to talk.",
+   "hi": "तुम 14 साल के हो और एक दोस्त की बर्थडे पार्टी में हो। रेयांश, एक क्लासमेट जो तुम्हें पसंद है, तुम्हें बात करने के लिए छत पर चलने को कहता है।",
+   "hg": "Tum 14 saal ke ho aur ek dost ki birthday party mein ho. Reyansh, ek classmate jo tumhe pasand hai, tumhe baat karne ke liye terrace par chalne ko bolta hai."
+  },
+  "sensitive": true,
+  "start": "n1",
+  "nodes": {
+   "n1": {
+    "text": {
+     "en": "On the terrace Reyansh says he really likes you. Then he leans closer and says, 'Let's kiss. Everyone here already has.' You like him, but you do not want this.",
+     "hi": "छत पर रेयांश कहता है कि तुम उसे बहुत पसंद हो। फिर वह पास आकर कहता है, 'चलो किस करते हैं। यहाँ सब कर चुके हैं।' वह तुम्हें पसंद है, पर तुम यह नहीं चाहते।",
+     "hg": "Terrace par Reyansh bolta hai ki tum usse bahut pasand ho. Phir woh paas aakar bolta hai, 'Chalo kiss karte hain. Yahan sab kar chuke hain.' Woh tumhe pasand hai, par tum yeh nahi chahte."
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Say, 'I like you too, but no. I don't want to.'",
+       "hi": "कहो, 'तुम भी मुझे पसंद हो, पर नहीं। मेरा मन नहीं है।'",
+       "hg": "Bolo, 'Tum bhi mujhe pasand ho, par nahi. Mera mann nahi hai.'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Honest and clear. Liking someone and saying no to something can both be true. You don't have to match what 'everyone' is supposedly doing, and you don't owe a reason.",
+       "hi": "ईमानदार और साफ़। किसी को पसंद करना और किसी बात के लिए 'ना' कहना, दोनों एक साथ सच हो सकते हैं। 'सब' जो कर रहे बताए जाते हैं, वह करना तुम्हारे लिए ज़रूरी नहीं, और वजह बताना भी नहीं।",
+       "hg": "Honest aur clear. Kisi ko pasand karna aur kisi cheez ke liye 'no' bolna, dono ek saath sach ho sakte hain. 'Sab' jo kar rahe bataye jaate hain, woh karna tumhare liye zaroori nahi, aur reason dena bhi nahi."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Laugh and change the subject",
+       "hi": "हँसकर बात बदल दो",
+       "hg": "Has kar topic change kar do"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Deflecting is a common way to stay safe when a direct no feels hard, and that is understandable. But he may not read it as a no. If he asks again, plain words protect you better.",
+       "hi": "जब सीधे 'ना' कहना मुश्किल लगे, तो बात टाल देना ख़ुद को सुरक्षित रखने का आम तरीक़ा है, और यह समझ में आता है। लेकिन हो सकता है वह इसे 'ना' न समझे। अगर वह दोबारा पूछे, तो सीधे शब्द तुम्हें बेहतर बचाते हैं।",
+       "hg": "Jab direct 'no' bolna mushkil lage, toh baat taal dena khud ko safe rakhne ka common tareeka hai, aur yeh samajh mein aata hai. Lekin ho sakta hai woh isse 'no' na samjhe. Agar woh dobara pooche, toh seedhe words tumhe better protect karte hain."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Go along with it so he doesn't lose interest",
+       "hi": "मान जाओ ताकि उसकी दिलचस्पी ख़त्म न हो",
+       "hg": "Maan jao taaki uska interest khatam na ho"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Wanting him to keep liking you is completely human. But a yes given out of fear of losing someone is not a free yes, and you deserve someone who is fine with waiting. You can still say stop.",
+       "hi": "यह चाहना कि वह तुम्हें पसंद करता रहे, बिल्कुल इंसानी बात है। लेकिन किसी को खो देने के डर से कही गई 'हाँ' आज़ाद 'हाँ' नहीं है, और तुम ऐसे इंसान के हक़दार हो जिसे इंतज़ार करने में कोई दिक़्क़त न हो। तुम अब भी 'रुको' कह सकते हो।",
+       "hg": "Yeh chahna ki woh tumhe pasand karta rahe, bilkul human hai. Lekin kisi ko kho dene ke darr se boli gayi 'yes' free yes nahi hai, aur tum aise insaan ko deserve karte ho jise wait karne mein koi problem na ho. Tum ab bhi 'stop' bol sakte ho."
+      },
+      "next": "n2"
+     }
+    ]
+   },
+   "n2": {
+    "text": {
+     "en": "Reyansh frowns. 'If you actually liked me, you would. Maybe I should just tell people you led me on.'",
+     "hi": "रेयांश की त्योरियाँ चढ़ जाती हैं। 'सच में पसंद करते तो मान जाते। शायद मुझे सबको बता देना चाहिए कि तुमने मुझे झूठी उम्मीद दी।'",
+     "hg": "Reyansh ka muh ban jaata hai. 'Sach mein pasand karte toh maan jaate. Shayad mujhe sabko bata dena chahiye ki tumne mujhe lead on kiya.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Say, 'That's pressure, and my answer is still no. I'm going back down.'",
+       "hi": "कहो, 'यह दबाव है, और मेरा जवाब अब भी ना है। मैं नीचे जा रहा/रही हूँ।'",
+       "hg": "Bolo, 'Yeh pressure hai, aur mera jawab ab bhi no hai. Main neeche ja raha/rahi hoon.'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "You named it correctly. 'If you liked me' is guilt, and threatening to spread stories is coercion. Leaving for a place with other people is a smart, safe move.",
+       "hi": "तुमने सही नाम दिया। 'पसंद करते तो' कहना अपराध-बोध कराना है, और बातें फैलाने की धमकी ज़बरदस्ती है। ऐसी जगह चले जाना जहाँ और लोग हों, समझदारी भरा और सुरक्षित क़दम है।",
+       "hg": "Tumne sahi naam diya. 'Pasand karte toh' bolna guilt-trip hai, aur baatein phailane ki dhamki coercion hai. Aisi jagah chale jaana jahan aur log hon, smart aur safe move hai."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Apologise and promise 'maybe next time'",
+       "hi": "माफ़ी माँगो और वादा करो, 'शायद अगली बार'",
+       "hg": "Sorry bolo aur promise karo, 'shayad next time'"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Saying sorry can calm things down, but you did nothing wrong, and 'maybe next time' can invite more pressure later. You are allowed to leave it at no.",
+       "hi": "माफ़ी माँगने से माहौल शांत हो सकता है, पर तुमने कुछ ग़लत नहीं किया, और 'शायद अगली बार' आगे चलकर और दबाव को न्योता दे सकता है। तुम बात को 'ना' पर ही छोड़ सकते हो।",
+       "hg": "Sorry bolne se cheezein calm ho sakti hain, par tumne kuch galat nahi kiya, aur 'shayad next time' baad mein aur pressure ko invite kar sakta hai. Tum baat ko 'no' par hi chhod sakte ho."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Give in so he won't spread rumours",
+       "hi": "मान जाओ ताकि वह अफ़वाह न फैलाए",
+       "hg": "Maan jao taaki woh rumours na phailaye"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "The threat is scary, and giving in can feel like the only way out. It is not your fault he threatened you. But threats usually grow when they work. Getting away and telling someone you trust is safer.",
+       "hi": "धमकी डरावनी है, और मान जाना इकलौता रास्ता लग सकता है। उसने धमकाया, इसमें तुम्हारी ग़लती नहीं। लेकिन धमकियाँ जब काम कर जाती हैं तो आम तौर पर बढ़ती जाती हैं। वहाँ से निकल जाना और किसी भरोसेमंद इंसान को बताना ज़्यादा सुरक्षित है।",
+       "hg": "Dhamki scary hai, aur maan jaana ek hi raasta lag sakta hai. Usne dhamkaya, isme tumhari galti nahi. Lekin dhamkiyan jab kaam kar jaati hain toh usually badhti jaati hain. Wahan se nikal jaana aur kisi trusted insaan ko batana zyada safe hai."
+      },
+      "next": "n3"
+     }
+    ]
+   },
+   "n3": {
+    "text": {
+     "en": "Back downstairs, your friend Mitali notices that you look shaken. She asks, 'What happened?'",
+     "hi": "नीचे लौटने पर तुम्हारी दोस्त मिताली देखती है कि तुम घबराए हुए हो। वह पूछती है, 'क्या हुआ?'",
+     "hg": "Neeche lautne par tumhari dost Mitali notice karti hai ki tum ghabraye hue ho. Woh poochti hai, 'Kya hua?'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Tell her, and decide together to tell a parent or another trusted adult",
+       "hi": "उसे बताओ, और मिलकर तय करो कि मम्मी-पापा या किसी भरोसेमंद बड़े को बताओगे",
+       "hg": "Usse batao, aur saath mein decide karo ki parents ya kisi trusted adult ko bataoge"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Good call. Pressure and threats are easier to handle with support, and an adult can step in if he spreads rumours. You did nothing wrong by going to the terrace or by liking him.",
+       "hi": "अच्छा फ़ैसला। दबाव और धमकियों से निपटना साथ मिलने पर आसान हो जाता है, और अगर वह अफ़वाह फैलाए तो कोई बड़ा दख़ल दे सकता है। छत पर जाकर या उसे पसंद करके तुमने कुछ ग़लत नहीं किया।",
+       "hg": "Accha decision. Pressure aur dhamkiyon ko handle karna support ke saath easy ho jaata hai, aur agar woh rumours phailaye toh koi adult step in kar sakta hai. Terrace par jaakar ya usse pasand karke tumne kuch galat nahi kiya."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Say 'nothing' and stay close to her for the rest of the party",
+       "hi": "'कुछ नहीं' कहो और बाक़ी पार्टी में उसके पास ही रहो",
+       "hg": "'Kuch nahi' bolo aur baaki party mein uske paas hi raho"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Staying with a friend keeps you safer tonight, and you don't have to talk before you are ready. But if he threatens you again or spreads stories, tell a trusted adult.",
+       "hi": "दोस्त के साथ रहना आज रात तुम्हें ज़्यादा सुरक्षित रखता है, और तैयार होने से पहले बात करना ज़रूरी नहीं। लेकिन अगर वह दोबारा धमकाए या बातें फैलाए, तो किसी भरोसेमंद बड़े को बताओ।",
+       "hg": "Dost ke saath rehna aaj raat tumhe zyada safe rakhta hai, aur ready hone se pehle baat karna zaroori nahi. Lekin agar woh dobara dhamkaye ya baatein phailaye, toh kisi trusted adult ko batao."
+      },
+      "next": null
+     }
+    ]
+   }
+  },
+  "debrief": {
+   "en": "Liking someone never creates a duty to kiss or touch them. 'Everyone does it', 'if you liked me' and threats to spread rumours are pressure, and a yes produced by pressure is not consent. Leaving, saying no again and telling someone you trust are all strong responses. Waiting is always a valid choice.",
+   "hi": "किसी को पसंद करने से उसे चूमने या छूने का कोई फ़र्ज़ नहीं बनता। 'सब करते हैं', 'पसंद करते तो' और अफ़वाह फैलाने की धमकी दबाव हैं, और दबाव से निकली 'हाँ' सहमति नहीं है। वहाँ से चले जाना, दोबारा 'ना' कहना और किसी भरोसेमंद इंसान को बताना, ये सब मज़बूत जवाब हैं। इंतज़ार करना हमेशा एक सही विकल्प है।",
+   "hg": "Kisi ko pasand karne se usse kiss ya touch karne ki koi duty nahi banti. 'Sab karte hain', 'pasand karte toh' aur rumours phailane ki dhamki pressure hain, aur pressure se nikli 'yes' consent nahi hai. Wahan se chale jaana, dobara 'no' bolna aur kisi trusted insaan ko batana, yeh sab strong responses hain. Wait karna hamesha ek valid choice hai."
+  },
+  "refs": [
+   "unesco-itgse",
+   "who-cse"
+  ]
+ },
+ {
+  "id": "d05-s4",
+  "domain": "d05",
+  "module": "consent",
+  "tracks": [
+   "D"
+  ],
+  "title": {
+   "en": "Extra Classes",
+   "hi": "एक्स्ट्रा क्लास",
+   "hg": "Extra Classes"
+  },
+  "intro": {
+   "en": "You are 16 and preparing for entrance exams. Nikhil sir, a 26-year-old tutor at your coaching centre, has started paying you special attention.",
+   "hi": "आप 16 साल के हैं और प्रवेश परीक्षाओं की तैयारी कर रहे हैं। आपके कोचिंग सेंटर के 26 साल के ट्यूटर, निखिल सर, आप पर ख़ास ध्यान देने लगे हैं।",
+   "hg": "Tum 16 saal ke ho aur entrance exams ki taiyari kar rahe ho. Tumhare coaching centre ke 26 saal ke tutor, Nikhil sir, tum par special attention dene lage hain."
+  },
+  "sensitive": true,
+  "start": "n1",
+  "nodes": {
+   "n1": {
+    "text": {
+     "en": "At 11 pm he messages: 'You're far more mature than your batch. I can give you private doubt sessions at my flat. Don't mention it to the others, they'll get jealous.'",
+     "hi": "रात 11 बजे उनका मैसेज आता है: 'तुम अपने बैच से कहीं ज़्यादा समझदार हो। मैं अपने फ़्लैट पर तुम्हें अकेले में डाउट सेशन दे सकता हूँ। बाक़ियों को मत बताना, वे जलेंगे।'",
+     "hg": "Raat 11 baje unka message aata hai: 'Tum apne batch se kahin zyada mature ho. Main apne flat par tumhe private doubt sessions de sakta hoon. Baakiyon ko mat batana, woh jealous ho jaayenge.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Reply that you will ask doubts in class, and show the message to a parent",
+       "hi": "जवाब दीजिए कि डाउट क्लास में ही पूछेंगे, और मैसेज मम्मी-पापा को दिखाइए",
+       "hg": "Reply karo ki doubts class mein hi poochoge, aur message parents ko dikhao"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Strong move. Late-night messages, flattery about maturity, a private location and secrecy are classic grooming steps. Keeping contact public and involving a parent removes the secrecy he is relying on.",
+       "hi": "मज़बूत क़दम। देर रात के मैसेज, 'समझदार' कहकर तारीफ़, अकेले की जगह और बात छिपाने की माँग, ये ग्रूमिंग के जाने-पहचाने क़दम हैं। बातचीत को सबके सामने रखना और मम्मी-पापा को शामिल करना वह पर्दा हटा देता है जिसके भरोसे वे चल रहे हैं।",
+       "hg": "Strong move. Late-night messages, maturity ki tareef, private location aur secrecy, yeh grooming ke classic steps hain. Contact ko public rakhna aur parents ko involve karna woh secrecy hata deta hai jis par woh depend kar rahe hain."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Ignore the message and hope it stops",
+       "hi": "मैसेज को अनदेखा कीजिए और उम्मीद कीजिए कि बात यहीं रुक जाएगी",
+       "hg": "Message ignore karo aur hope karo ki baat yahin ruk jaayegi"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Not replying is safer than agreeing, and wanting it to just go away is natural. But while nobody else knows, he can keep trying. Don't delete the chat, and tell an adult you trust.",
+       "hi": "जवाब न देना हाँ कहने से ज़्यादा सुरक्षित है, और यह चाहना कि बात अपने आप ख़त्म हो जाए, स्वाभाविक है। लेकिन जब तक किसी और को पता नहीं, वे कोशिश जारी रख सकते हैं। चैट डिलीट मत कीजिए, और किसी भरोसेमंद बड़े को बताइए।",
+       "hg": "Reply na karna agree karne se zyada safe hai, aur yeh chahna ki baat apne aap khatam ho jaaye, natural hai. Lekin jab tak kisi aur ko pata nahi, woh try karte reh sakte hain. Chat delete mat karo, aur kisi trusted adult ko batao."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Agree, since extra help could improve your rank",
+       "hi": "मान जाइए, क्योंकि अलग से मदद मिलने पर रैंक सुधर सकती है",
+       "hg": "Maan jao, kyunki extra help se rank improve ho sakti hai"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "The offer is tempting because he controls something you need, which is how a power imbalance works. A tutor asking to meet alone in secret is a warning sign, not a favour. It is not too late: do not go, keep the chat, and show it to a parent.",
+       "hi": "यह पेशकश इसलिए लुभाती है कि उनके हाथ में वह चीज़ है जिसकी आपको ज़रूरत है, और ताक़त का असंतुलन ऐसे ही काम करता है। कोई ट्यूटर अकेले में, छिपकर मिलने को कहे, तो यह एहसान नहीं, ख़तरे का संकेत है। अभी देर नहीं हुई: मत जाइए, चैट डिलीट मत कीजिए, और उसे मम्मी-पापा को दिखाइए।",
+       "hg": "Yeh offer isliye tempting hai ki unke control mein woh cheez hai jiski tumhe zaroorat hai, aur power imbalance aise hi kaam karta hai. Koi tutor akele mein, secretly milne ko bole, toh yeh favour nahi, warning sign hai. Abhi der nahi hui: mat jao, chat delete mat karo, aur usse parents ko dikhao."
+      },
+      "next": "n2"
+     }
+    ]
+   },
+   "n2": {
+    "text": {
+     "en": "The next week he keeps you back after class, compliments your looks, puts a hand on your shoulder and says, 'I could make sure your test scores look good. Just be nice to me.'",
+     "hi": "अगले हफ़्ते वे क्लास के बाद आपको रोक लेते हैं, आपके रूप की तारीफ़ करते हैं, कंधे पर हाथ रखते हैं और कहते हैं, 'मैं तुम्हारे टेस्ट के नंबर अच्छे करवा सकता हूँ। बस मेरे साथ अच्छे से पेश आओ।'",
+     "hg": "Agle hafte woh class ke baad tumhe rok lete hain, tumhare looks ki tareef karte hain, kandhe par haath rakhte hain aur bolte hain, 'Main tumhare test scores acche karwa sakta hoon. Bas mere saath nice raho.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Step back, say 'Don't touch me', leave, and tell a parent the same day",
+       "hi": "पीछे हटिए, कहिए 'मुझे मत छुइए', वहाँ से निकल जाइए, और उसी दिन मम्मी-पापा को बताइए",
+       "hg": "Peeche hato, bolo 'Mujhe touch mat karo', wahan se nikal jao, aur usi din parents ko batao"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "You handled it. Offering marks for 'being nice' is abuse of power, and unwanted touching of someone under 18 by an adult in authority is an offence. Leaving first and telling quickly are the safest steps.",
+       "hi": "आपने इसे सँभाल लिया। 'अच्छे से पेश आने' के बदले नंबर देने की बात ताक़त का दुरुपयोग है, और अधिकार वाले वयस्क का 18 से कम उम्र के किसी इंसान को अनचाहे ढंग से छूना अपराध है। पहले वहाँ से निकलना और जल्दी बता देना सबसे सुरक्षित क़दम हैं।",
+       "hg": "Tumne isse handle kar liya. 'Nice rehne' ke badle marks ka offer power ka abuse hai, aur authority wale adult ka 18 se kam umar ke kisi insaan ko unwanted touch karna offence hai. Pehle wahan se nikalna aur jaldi bata dena sabse safe steps hain."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Freeze, say nothing, and leave as soon as you can",
+       "hi": "सुन्न पड़ जाइए, कुछ मत कहिए, और मौक़ा मिलते ही निकल जाइए",
+       "hg": "Freeze ho jao, kuch mat bolo, aur mauka milte hi nikal jao"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Freezing is an automatic reaction, not agreement, and it is not a failure. You got out, which matters. The next step is telling an adult you trust, so that you are not alone with him again.",
+       "hi": "सुन्न पड़ जाना शरीर की अपने आप होने वाली प्रतिक्रिया है, रज़ामंदी नहीं, और यह कोई नाकामी नहीं है। आप वहाँ से निकल आए, यही अहम है। अगला क़दम है किसी भरोसेमंद बड़े को बताना, ताकि आप दोबारा उनके साथ अकेले न हों।",
+       "hg": "Freeze ho jaana automatic reaction hai, agreement nahi, aur yeh koi failure nahi hai. Tum wahan se nikal aaye, yahi important hai. Next step hai kisi trusted adult ko batana, taaki tum dobara unke saath akele na ho."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Stay quiet and keep attending, because your rank depends on him",
+       "hi": "चुप रहिए और क्लास जाते रहिए, क्योंकि आपकी रैंक उन्हीं पर टिकी है",
+       "hg": "Chup raho aur class jaate raho, kyunki tumhari rank unhi par depend karti hai"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Fear for your marks is real, and he is counting on it. None of this is your fault. But staying silent leaves him free to keep targeting you. Stopping him is the adults' job, and a trusted adult can help you report it safely.",
+       "hi": "नंबरों का डर असली है, और वे इसी के भरोसे हैं। इसमें आपकी कोई ग़लती नहीं। लेकिन चुप रहने से उन्हें आपको निशाना बनाते रहने की खुली छूट मिल जाती है। उन्हें रोकना बड़ों का काम है, और कोई भरोसेमंद बड़ा सुरक्षित ढंग से शिकायत करने में आपकी मदद कर सकता है।",
+       "hg": "Marks ka darr real hai, aur woh isi par count kar rahe hain. Isme tumhari koi galti nahi. Lekin chup rehne se unhe tumhe target karte rehne ki khuli chhoot mil jaati hai. Unhe rokna adults ka kaam hai, aur koi trusted adult safely report karne mein tumhari help kar sakta hai."
+      },
+      "next": "n3"
+     }
+    ]
+   },
+   "n3": {
+    "text": {
+     "en": "You tell your older cousin Ananya everything. She says, 'I believe you. This is not on you. Shall we tell your parents and report it?' You are scared it will become a big issue.",
+     "hi": "आप अपनी बड़ी कज़िन अनन्या को सब कुछ बता देते हैं। वह कहती है, 'मुझे तुम पर यक़ीन है। इसमें तुम्हारी ग़लती नहीं। चलो मम्मी-पापा को बताएँ और शिकायत करें?' आपको डर है कि बात बहुत बड़ी हो जाएगी।",
+     "hg": "Tum apni badi cousin Ananya ko sab kuch bata dete ho. Woh bolti hai, 'Mujhe tum par yakeen hai. Isme tumhari galti nahi. Chalo parents ko batayein aur report karein?' Tumhe darr hai ki baat bahut badi ho jaayegi."
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Agree, and go with her to your parents, who can call 1098 or approach the police",
+       "hi": "मान जाइए, और उसके साथ मम्मी-पापा के पास जाइए, जो 1098 पर फ़ोन कर सकते हैं या पुलिस के पास जा सकते हैं",
+       "hg": "Maan jao, aur uske saath parents ke paas jao, jo 1098 par call kar sakte hain ya police ke paas ja sakte hain"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "This is how protection starts. Under POCSO, what he did is an offence, the media may not reveal your identity, and adults who know are required to report it. You will not have to handle it alone.",
+       "hi": "सुरक्षा की शुरुआत यहीं से होती है। पॉक्सो के तहत उन्होंने जो किया वह अपराध है, मीडिया आपकी पहचान उजागर नहीं कर सकता, और जिन बड़ों को पता है उनके लिए इसकी सूचना देना ज़रूरी है। आपको यह अकेले नहीं झेलना पड़ेगा।",
+       "hg": "Protection ki shuruaat yahin se hoti hai. POCSO ke under unhone jo kiya woh offence hai, media tumhari identity reveal nahi kar sakta, aur jin adults ko pata hai unke liye isse report karna zaroori hai. Tumhe yeh akele handle nahi karna padega."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Ask her to keep it secret and just change your batch",
+       "hi": "उससे कहिए कि बात राज़ रखे, और बस अपना बैच बदल लीजिए",
+       "hg": "Usse bolo ki baat secret rakhe, aur bas apna batch change kar lo"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Wanting to avoid a scene is understandable. But changing batch does not stop him contacting you, and the law does not let adults stay silent about abuse of someone under 18. Stopping him is the adults' job, not yours, and Ananya can stay beside you through the reporting.",
+       "hi": "तमाशे से बचना चाहना समझ में आता है। लेकिन बैच बदलने से उनका आपसे संपर्क करना नहीं रुकता, और क़ानून बड़ों को 18 से कम उम्र के किसी इंसान के शोषण पर चुप रहने की छूट नहीं देता। उन्हें रोकना बड़ों का काम है, आपका नहीं, और शिकायत की पूरी प्रक्रिया में अनन्या आपके साथ रह सकती है।",
+       "hg": "Scene avoid karna chahna samajh mein aata hai. Lekin batch change karne se unka tumse contact karna nahi rukta, aur law adults ko 18 se kam umar ke kisi insaan ke abuse par chup rehne ki chhoot nahi deta. Unhe rokna adults ka kaam hai, tumhara nahi, aur reporting ke poore process mein Ananya tumhare saath reh sakti hai."
+      },
+      "next": null
+     }
+    ]
+   }
+  },
+  "debrief": {
+   "en": "Flattery, secrecy, private meetings and favours in return for 'being nice' are how adults in authority groom teenagers. A yes given to someone who controls your marks is not free, and under POCSO an adult's sexual advances towards anyone under 18 are an offence regardless. Freezing is not consent. Tell a trusted adult; 1098 and the police can act.",
+   "hi": "तारीफ़, बात छिपाने की माँग, अकेले में मिलना और 'अच्छे से पेश आने' के बदले एहसान, इन्हीं तरीक़ों से अधिकार वाले वयस्क किशोरों की ग्रूमिंग करते हैं। जो इंसान आपके नंबरों पर क़ाबू रखता है, उसे कही 'हाँ' आज़ाद नहीं होती, और पॉक्सो के तहत 18 से कम उम्र के किसी भी इंसान की ओर वयस्क की यौन पहल हर हाल में अपराध है। सुन्न पड़ जाना सहमति नहीं है। किसी भरोसेमंद बड़े को बताइए; 1098 और पुलिस कार्रवाई कर सकते हैं।",
+   "hg": "Tareef, secrecy, private meetings aur 'nice rehne' ke badle favours, inhi tareekon se authority wale adults teenagers ki grooming karte hain. Jo insaan tumhare marks control karta hai, usse boli 'yes' free nahi hoti, aur POCSO ke under 18 se kam umar ke kisi bhi insaan ki taraf adult ke sexual advances har haal mein offence hain. Freeze ho jaana consent nahi hai. Kisi trusted adult ko batao; 1098 aur police action le sakte hain."
+  },
+  "refs": [
+   "pocso-2012",
+   "unesco-itgse",
+   "wcd-childline"
+  ]
+ },
+ {
+  "id": "d05-s5",
+  "domain": "d05",
+  "module": "consent",
+  "tracks": [
+   "E"
+  ],
+  "title": {
+   "en": "After the Farewell Party",
+   "hi": "फ़ेयरवेल पार्टी के बाद",
+   "hg": "Farewell Party ke Baad"
+  },
+  "intro": {
+   "en": "You are 23. You and your partner Ishita, 22, have been together for six months. Tonight is a friend's farewell party.",
+   "hi": "आप 23 साल के हैं। आप और आपकी पार्टनर इशिता, 22, छह महीने से साथ हैं। आज रात एक दोस्त की फ़ेयरवेल पार्टी है।",
+   "hg": "Tum 23 saal ke ho. Tum aur tumhari partner Ishita, 22, chheh mahine se saath ho. Aaj raat ek dost ki farewell party hai."
+  },
+  "sensitive": true,
+  "start": "n1",
+  "nodes": {
+   "n1": {
+    "text": {
+     "en": "By midnight Ishita has had far more to drink than usual. She is slurring, leaning on you and nearly asleep in the cab. A friend texts, 'Lucky night for you.' At her flat she mumbles something affectionate.",
+     "hi": "आधी रात तक इशिता हमेशा से कहीं ज़्यादा पी चुकी है। उसकी ज़बान लड़खड़ा रही है, वह आप पर टिकी हुई है और कैब में लगभग सो चुकी है। एक दोस्त मैसेज करता है, 'आज तो तेरी लॉटरी लग गई।' अपने फ़्लैट पर वह प्यार से कुछ बुदबुदाती है।",
+     "hg": "Aadhi raat tak Ishita usual se kahin zyada pee chuki hai. Uski zabaan ladkhada rahi hai, woh tum par tiki hui hai aur cab mein lagbhag so chuki hai. Ek dost text karta hai, 'Aaj toh teri lottery lag gayi.' Apne flat par woh pyaar se kuch mumble karti hai."
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Give her water, help her to bed, and stay nearby on the sofa. Nothing sexual tonight",
+       "hi": "उसे पानी दीजिए, बिस्तर तक पहुँचाइए, और पास ही सोफ़े पर रहिए। आज रात कुछ भी यौन नहीं",
+       "hg": "Usse paani do, bed tak pahunchao, aur paas hi sofa par raho. Aaj raat kuch bhi sexual nahi"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Right call. Someone who is slurring and drifting off cannot consent, whatever she mumbles and however long you have been together. Looking after her tonight is what a partner does.",
+       "hi": "सही फ़ैसला। जिसकी ज़बान लड़खड़ा रही हो और जो नींद में ढुलक रहा हो, वह सहमति नहीं दे सकता, चाहे वह कुछ भी बुदबुदाए और आप कितने भी समय से साथ हों। आज रात उसका ख़याल रखना ही पार्टनर का काम है।",
+       "hg": "Sahi call. Jiski zabaan ladkhada rahi ho aur jo neend mein dhulak raha ho, woh consent nahi de sakta, chahe woh kuch bhi mumble kare aur tum kitne bhi time se saath ho. Aaj raat uska khayal rakhna hi partner ka kaam hai."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Drop her at the door and head home quickly, to stay out of the situation",
+       "hi": "उसे दरवाज़े पर छोड़िए और झट से घर निकल जाइए, ताकि इस हालात से दूर रहें",
+       "hg": "Usse door par chhodo aur jaldi ghar nikal jao, taaki situation se door raho"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Stepping away from anything sexual is right. But someone that intoxicated may need a person nearby in case she vomits or cannot be woken. Staying close, or calling her flatmate, is safer.",
+       "hi": "किसी भी यौन बात से दूर हट जाना सही है। लेकिन इतने नशे में इंसान को पास में किसी की ज़रूरत पड़ सकती है, कहीं उसे उल्टी हो या वह जगाने पर न उठे। पास रहना, या उसकी फ़्लैटमेट को बुला लेना, ज़्यादा सुरक्षित है।",
+       "hg": "Kisi bhi sexual cheez se door hatna sahi hai. Lekin itne nashe mein insaan ko paas mein kisi ki zaroorat pad sakti hai, kahin usse ulti ho ya woh jagaane par na uthe. Paas rehna, ya uski flatmate ko bula lena, zyada safe hai."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Treat her affection as a yes. You are a couple, after all",
+       "hi": "उसके प्यार जताने को 'हाँ' मान लीजिए। आख़िर आप दोनों कपल हैं",
+       "hg": "Uske affection ko 'yes' maan lo. Aakhir tum dono couple ho"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "It is easy to read affection as agreement, especially in a relationship. But she has lost the capacity to choose tonight, so this would be sex without consent. Waiting until she is sober costs nothing.",
+       "hi": "प्यार जताने को रज़ामंदी समझ लेना आसान है, ख़ासकर रिश्ते में। लेकिन आज रात वह चुनने की क्षमता खो चुकी है, इसलिए यह बिना सहमति का सेक्स होगा। उसके होश में आने तक रुकने से कुछ नहीं बिगड़ता।",
+       "hg": "Affection ko agreement samajh lena easy hai, khaaskar relationship mein. Lekin aaj raat woh choose karne ki capacity kho chuki hai, isliye yeh bina consent ka sex hoga. Uske sober hone tak wait karne se kuch nahi bigadta."
+      },
+      "next": "n2"
+     }
+    ]
+   },
+   "n2": {
+    "text": {
+     "en": "A week later, both sober, you are being intimate at her place and she has said yes. A few minutes in, she goes quiet, turns her face away and her body tenses.",
+     "hi": "एक हफ़्ते बाद, दोनों पूरे होश में, आप उसके घर पर अंतरंग हैं और उसने 'हाँ' कही है। कुछ मिनट बाद वह चुप हो जाती है, चेहरा फेर लेती है और उसका शरीर कस जाता है।",
+     "hg": "Ek hafte baad, dono sober, tum uske ghar par intimate ho aur usne 'yes' bola hai. Kuch minute baad woh chup ho jaati hai, face doosri taraf kar leti hai aur uski body tense ho jaati hai."
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Stop and ask, 'Hey, are you okay? Do you want to stop?'",
+       "hi": "रुकिए और पूछिए, 'सुनो, ठीक हो? रुक जाएँ?'",
+       "hg": "Ruko aur poocho, 'Hey, theek ho? Ruk jaayein?'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Exactly. Consent is ongoing, and body language counts as much as words. Pausing to check takes seconds and tells her that her comfort matters more than the moment.",
+       "hi": "बिल्कुल। सहमति लगातार चलती है, और हाव-भाव उतने ही मायने रखते हैं जितने शब्द। रुककर पूछने में कुछ सेकंड लगते हैं, और इससे उसे पता चलता है कि उसका सहज होना इस पल से ज़्यादा अहम है।",
+       "hg": "Exactly. Consent ongoing hota hai, aur body language utni hi matter karti hai jitne words. Ruk kar check karne mein kuch seconds lagte hain, aur isse usse pata chalta hai ki uska comfort is moment se zyada important hai."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Slow down but carry on, assuming she would say something",
+       "hi": "धीमे हो जाइए पर जारी रखिए, यह मानकर कि कुछ होता तो वह कह देती",
+       "hg": "Slow ho jao par continue karo, yeh maankar ki kuch hota toh woh bol deti"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Noticing the change is a start, but carrying on means continuing without knowing whether she still wants to. Many people go silent instead of saying stop, out of awkwardness or not wanting to disappoint. When the signals change, pause fully and ask.",
+       "hi": "बदलाव पर ध्यान जाना एक शुरुआत है, लेकिन जारी रखने का मतलब है यह जाने बिना आगे बढ़ना कि वह अब भी चाहती है या नहीं। बहुत से लोग झिझक में, या सामने वाले को निराश न करने के लिए, 'रुको' कहने की जगह चुप हो जाते हैं। जब इशारे बदलें, तो पूरी तरह रुककर पूछिए।",
+       "hg": "Change notice karna ek start hai, lekin continue karne ka matlab hai bina jaane aage badhna ki woh ab bhi chahti hai ya nahi. Bahut log awkwardness mein, ya saamne wale ko disappoint na karne ke liye, 'stop' bolne ki jagah chup ho jaate hain. Jab signals badlein, toh poori tarah ruk kar poocho."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Carry on, because she already said yes",
+       "hi": "जारी रखिए, क्योंकि वह पहले ही 'हाँ' कह चुकी है",
+       "hg": "Continue karo, kyunki woh pehle hi 'yes' bol chuki hai"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Her earlier yes does not cover this moment. Going quiet and tensing up are signs that something has changed, and continuing past them can hurt her and the trust between you. Stop and ask.",
+       "hi": "उसकी पहले की 'हाँ' इस पल पर लागू नहीं होती। चुप हो जाना और शरीर का कस जाना बताते हैं कि कुछ बदल गया है, और इन्हें अनदेखा करके आगे बढ़ना उसे और आप दोनों के बीच के भरोसे को चोट पहुँचा सकता है। रुकिए और पूछिए।",
+       "hg": "Uski pehle ki 'yes' is moment par apply nahi hoti. Chup ho jaana aur body ka tense hona batate hain ki kuch badal gaya hai, aur inhe ignore karke aage badhna usse aur tum dono ke beech ke trust ko hurt kar sakta hai. Ruko aur poocho."
+      },
+      "next": "n3"
+     }
+    ]
+   },
+   "n3": {
+    "text": {
+     "en": "She says, 'Sorry, I'm just not feeling it tonight. Can we stop?'",
+     "hi": "वह कहती है, 'सॉरी, आज मेरा मन नहीं बन रहा। क्या हम रुक सकते हैं?'",
+     "hg": "Woh bolti hai, 'Sorry, aaj mera mann nahi ban raha. Kya hum ruk sakte hain?'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Say, 'Of course. No need to say sorry. Tea?'",
+       "hi": "कहिए, 'बिल्कुल। सॉरी कहने की ज़रूरत नहीं। चाय पिएँ?'",
+       "hg": "Bolo, 'Bilkul. Sorry bolne ki zaroorat nahi. Chai?'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "That response makes it safe for her to be honest next time too. Withdrawing consent needs no apology and no explanation, and how you react to a no shapes the whole relationship.",
+       "hi": "ऐसा जवाब अगली बार भी उसके लिए सच बोलना सुरक्षित बनाता है। सहमति वापस लेने के लिए न माफ़ी चाहिए, न सफ़ाई, और 'ना' पर आपकी प्रतिक्रिया पूरे रिश्ते की शक्ल तय करती है।",
+       "hg": "Aisa response next time bhi uske liye honest hona safe banata hai. Consent wapas lene ke liye na sorry chahiye, na explanation, aur 'no' par tumhara reaction poore relationship ko shape karta hai."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Sigh, turn away and go silent",
+       "hi": "आह भरिए, मुँह फेर लीजिए और चुप हो जाइए",
+       "hg": "Aah bharo, muh pher lo aur chup ho jao"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Disappointment is a normal feeling, and you are allowed to have it. But sulking makes a partner feel punished for saying no, and can pressure them into agreeing next time. Say you are fine, and mean it.",
+       "hi": "निराश होना स्वाभाविक है, और ऐसा महसूस करने का आपको हक़ है। लेकिन मुँह फुलाने से पार्टनर को लगता है कि 'ना' कहने की सज़ा मिल रही है, और अगली बार वह दबाव में हाँ कह सकती है। कहिए कि सब ठीक है, और सच में ऐसा ही रखिए।",
+       "hg": "Disappoint hona normal feeling hai, aur aisa feel karne ka tumhe haq hai. Lekin muh phulane se partner ko lagta hai ki 'no' bolne ki saza mil rahi hai, aur next time woh pressure mein haan bol sakti hai. Bolo ki sab theek hai, aur sach mein aisa hi rakho."
+      },
+      "next": null
+     }
+    ]
+   }
+  },
+  "debrief": {
+   "en": "Between adults, consent depends on capacity and it continues moment to moment. A partner who is heavily intoxicated cannot consent, a yes can be withdrawn midway, and silence or tension means pause and ask. Accepting a no without sulking is what keeps a relationship safe for honesty.",
+   "hi": "वयस्कों के बीच सहमति फ़ैसला लेने की क्षमता पर टिकी होती है और हर पल चलती रहती है। बहुत ज़्यादा नशे में डूबा पार्टनर सहमति नहीं दे सकता, 'हाँ' बीच में वापस ली जा सकती है, और चुप्पी या तनाव का मतलब है रुककर पूछना। बिना मुँह फुलाए 'ना' को मान लेना ही रिश्ते को सच बोलने के लिए सुरक्षित रखता है।",
+   "hg": "Adults ke beech consent capacity par depend karta hai aur moment to moment chalta rehta hai. Bahut zyada nashe mein partner consent nahi de sakta, 'yes' beech mein wapas li ja sakti hai, aur chuppi ya tension ka matlab hai ruk kar poochna. Bina muh phulaye 'no' ko accept karna hi relationship ko honesty ke liye safe rakhta hai."
+  },
+  "refs": [
+   "unesco-itgse",
+   "who-sexual-health",
+   "bns-2023"
+  ]
+ }
+]

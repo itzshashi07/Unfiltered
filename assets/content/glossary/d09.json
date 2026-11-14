@@ -1,0 +1,177 @@
+[
+ {
+  "id": "d09-g1",
+  "domain": "d09",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "STI basics",
+   "hi": "एसटीआई की बुनियादी बातें",
+   "hg": "STI basics"
+  },
+  "terms": [
+   {
+    "term": {
+     "en": "STI (sexually transmitted infection)",
+     "hi": "यौन संचारित संक्रमण (STI)",
+     "hg": "STI (sexually transmitted infection)"
+    },
+    "def": {
+     "en": "An infection passed mainly through sexual contact, caused by bacteria, viruses or parasites. The older term is STD.",
+     "hi": "ऐसा संक्रमण जो मुख्य रूप से यौन संपर्क से फैलता है और बैक्टीरिया, वायरस या परजीवी से होता है। इसका पुराना नाम STD है।",
+     "hg": "Aisa infection jo mainly sexual contact se failta hai aur bacteria, virus ya parasite se hota hai. Iska purana naam STD hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Asymptomatic",
+     "hi": "बिना लक्षण वाला (asymptomatic)",
+     "hg": "Asymptomatic"
+    },
+    "def": {
+     "en": "Having an infection without any signs or symptoms. An asymptomatic person can still pass the infection to others.",
+     "hi": "संक्रमण होना, पर उसका कोई संकेत या लक्षण न होना। बिना लक्षण वाला व्यक्ति भी संक्रमण दूसरों तक पहुँचा सकता है।",
+     "hg": "Infection hona, par uska koi sign ya symptom na hona. Asymptomatic insaan bhi infection doosron tak pass kar sakta hai."
+    }
+   },
+   {
+    "term": {
+     "en": "HIV",
+     "hi": "एचआईवी (HIV)",
+     "hg": "HIV"
+    },
+    "def": {
+     "en": "Human immunodeficiency virus, which weakens the immune system. It can be controlled with daily medicines but cannot yet be cured.",
+     "hi": "ह्यूमन इम्यूनोडेफ़िशिएंसी वायरस, जो प्रतिरक्षा तंत्र को कमज़ोर करता है। रोज़ की दवाओं से इसे क़ाबू में रखा जा सकता है, पर अभी इसका पूरा इलाज नहीं है।",
+     "hg": "Human immunodeficiency virus, jo immune system ko weak karta hai. Daily medicines se ise control kiya ja sakta hai, par abhi iska cure nahi hai."
+    }
+   },
+   {
+    "term": {
+     "en": "AIDS",
+     "hi": "एड्स (AIDS)",
+     "hg": "AIDS"
+    },
+    "def": {
+     "en": "Acquired immunodeficiency syndrome: the advanced stage of untreated HIV, when the body can no longer fight off serious infections.",
+     "hi": "एक्वायर्ड इम्यूनोडेफ़िशिएंसी सिंड्रोम: बिना इलाज वाले एचआईवी का आगे बढ़ा हुआ चरण, जब शरीर गंभीर संक्रमणों से लड़ नहीं पाता।",
+     "hg": "Acquired immunodeficiency syndrome: untreated HIV ka advanced stage, jab body serious infections se lad nahi paati."
+    }
+   },
+   {
+    "term": {
+     "en": "HPV",
+     "hi": "एचपीवी (HPV)",
+     "hg": "HPV"
+    },
+    "def": {
+     "en": "Human papillomavirus, a very common virus spread by skin-to-skin sexual contact. Some types cause genital warts or cancers, and a vaccine prevents the main types.",
+     "hi": "ह्यूमन पैपिलोमावायरस, एक बहुत आम वायरस जो यौन संपर्क में त्वचा से त्वचा के ज़रिए फैलता है। इसके कुछ प्रकार जननांगों के मस्से या कैंसर करते हैं, और टीका मुख्य प्रकारों से बचाता है।",
+     "hg": "Human papillomavirus, ek bahut common virus jo sexual contact mein skin-to-skin se failta hai. Iske kuch types genital warts ya cancers karte hain, aur vaccine main types se bachati hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Hepatitis B",
+     "hi": "हेपेटाइटिस बी (Hepatitis B)",
+     "hg": "Hepatitis B"
+    },
+    "def": {
+     "en": "A virus that infects the liver and spreads through blood, sexual fluids and from mother to baby. A vaccine prevents it.",
+     "hi": "एक वायरस जो लिवर को संक्रमित करता है और ख़ून, यौन तरल और माँ से बच्चे में फैलता है। टीका इससे बचाता है।",
+     "hg": "Ek virus jo liver ko infect karta hai aur blood, sexual fluids aur maa se baby mein failta hai. Vaccine isse bachati hai."
+    }
+   }
+  ]
+ },
+ {
+  "id": "d09-g2",
+  "domain": "d09",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "Prevention and treatment words",
+   "hi": "बचाव और इलाज के शब्द",
+   "hg": "Prevention aur treatment ke words"
+  },
+  "terms": [
+   {
+    "term": {
+     "en": "PEP (post-exposure prophylaxis)",
+     "hi": "पीईपी (PEP, पोस्ट-एक्सपोज़र प्रोफ़िलैक्सिस)",
+     "hg": "PEP (post-exposure prophylaxis)"
+    },
+    "def": {
+     "en": "A 28-day course of HIV medicines, started within 72 hours of a possible exposure, to prevent infection.",
+     "hi": "एचआईवी की दवाओं का 28 दिन का कोर्स, जो संभावित संपर्क के 72 घंटे के भीतर शुरू किया जाता है ताकि संक्रमण न हो।",
+     "hg": "HIV medicines ka 28 din ka course, jo possible exposure ke 72 ghante ke andar start kiya jaata hai taaki infection na ho."
+    }
+   },
+   {
+    "term": {
+     "en": "PrEP (pre-exposure prophylaxis)",
+     "hi": "प्रेप (PrEP, प्री-एक्सपोज़र प्रोफ़िलैक्सिस)",
+     "hg": "PrEP (pre-exposure prophylaxis)"
+    },
+    "def": {
+     "en": "Medicine taken by HIV-negative people before a possible exposure to prevent HIV, prescribed and monitored by a clinician.",
+     "hi": "वह दवा जो एचआईवी-नेगेटिव लोग संभावित संपर्क से पहले एचआईवी से बचने के लिए लेते हैं; इसे डॉक्टर लिखते हैं और निगरानी रखते हैं।",
+     "hg": "Woh medicine jo HIV-negative log possible exposure se pehle HIV se bachne ke liye lete hain; ise clinician prescribe aur monitor karte hain."
+    }
+   },
+   {
+    "term": {
+     "en": "ART (antiretroviral therapy)",
+     "hi": "एआरटी (ART, एंटीरेट्रोवायरल थेरेपी)",
+     "hg": "ART (antiretroviral therapy)"
+    },
+    "def": {
+     "en": "Daily medicines that keep HIV suppressed, protect the immune system and allow a long, healthy life.",
+     "hi": "रोज़ ली जाने वाली दवाएँ जो एचआईवी को दबाकर रखती हैं, प्रतिरक्षा तंत्र को बचाती हैं और लंबी, स्वस्थ ज़िंदगी मुमकिन बनाती हैं।",
+     "hg": "Roz li jaane wali medicines jo HIV ko suppressed rakhti hain, immune system ko protect karti hain aur lambi, healthy life possible banati hain."
+    }
+   },
+   {
+    "term": {
+     "en": "Undetectable viral load (U=U)",
+     "hi": "पकड़ में न आने वाला वायरल लोड (U=U)",
+     "hg": "Undetectable viral load (U=U)"
+    },
+    "def": {
+     "en": "So little HIV in the blood that tests cannot measure it. A person who stays undetectable does not transmit HIV sexually.",
+     "hi": "ख़ून में एचआईवी की इतनी कम मात्रा कि जाँच उसे माप न सके। जो व्यक्ति इसी स्तर पर बना रहता है, वह यौन संबंध से एचआईवी नहीं फैलाता।",
+     "hg": "Blood mein HIV ki itni kam amount ki test use measure na kar sake. Jo insaan undetectable bana rehta hai, woh sexually HIV transmit nahi karta."
+    }
+   },
+   {
+    "term": {
+     "en": "Window period",
+     "hi": "विंडो पीरियड (window period)",
+     "hg": "Window period"
+    },
+    "def": {
+     "en": "The time between exposure to an infection and the point when a test can reliably detect it. Testing earlier can give a false negative.",
+     "hi": "संक्रमण के संपर्क और उस समय के बीच का अंतर जब जाँच उसे भरोसे के साथ पकड़ सके। इससे पहले जाँच कराने पर नतीजा ग़लत तौर पर नेगेटिव आ सकता है।",
+     "hg": "Infection ke exposure aur us point ke beech ka time jab test use reliably detect kar sake. Isse pehle test karane par false negative aa sakta hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Partner notification",
+     "hi": "पार्टनर को सूचना (partner notification)",
+     "hg": "Partner notification"
+    },
+    "def": {
+     "en": "Letting sexual partners know about a diagnosis so that they can be tested and treated, done directly or with help from a clinic.",
+     "hi": "यौन पार्टनरों को निदान के बारे में बताना ताकि वे भी जाँच और इलाज करा सकें; यह सीधे या क्लिनिक की मदद से किया जाता है।",
+     "hg": "Sexual partners ko diagnosis ke baare mein batana taaki woh bhi test aur treatment kara sakein; yeh directly ya clinic ki help se kiya jaata hai."
+    }
+   }
+  ]
+ }
+]

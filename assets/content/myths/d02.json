@@ -1,0 +1,249 @@
+[
+ {
+  "id": "d02-m01",
+  "domain": "d02",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "claim": {
+   "en": "Shaving makes hair grow back thicker and darker.",
+   "hi": "शेव करने से बाल ज़्यादा मोटे और काले होकर वापस आते हैं।",
+   "hg": "Shave karne se baal zyada mote aur dark hokar wapas aate hain."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Shaving cuts the hair at the skin surface and does nothing to the root, where growth is controlled. The regrown tip is blunt instead of tapered, so it feels stubbly and can look darker for a while, but the number, thickness and colour of hairs do not change. Hair gets thicker in puberty because of hormones, whether you shave or not.",
+   "hi": "शेव करने से बाल त्वचा की सतह पर कटता है; जड़ पर, जहाँ से बढ़त तय होती है, कोई असर नहीं पड़ता। दोबारा उगे बाल का सिरा नुकीला नहीं बल्कि सपाट होता है, इसलिए वह खुरदरा लगता है और कुछ समय तक गहरा दिख सकता है, पर बालों की गिनती, मोटाई और रंग नहीं बदलते। प्यूबर्टी में बाल हार्मोन की वजह से मोटे होते हैं, चाहे तुम शेव करो या न करो।",
+   "hg": "Shave karne se baal skin ki surface par cut hota hai; root par, jahan se growth control hoti hai, koi effect nahi padta. Dobara uge baal ka tip tapered nahi balki blunt hota hai, isliye woh stubbly feel hota hai aur kuch time tak dark dikh sakta hai, par baalon ki ginti, thickness aur colour nahi badalte. Puberty mein baal hormones ki wajah se mote hote hain, chahe tum shave karo ya na karo."
+  },
+  "why": {
+   "en": "People usually start shaving just when hormones are making their hair coarser anyway, so the razor gets the blame for a change that was already under way.",
+   "hi": "लोग आम तौर पर ठीक उसी समय शेव करना शुरू करते हैं जब हार्मोन वैसे भी उनके बाल मोटे कर रहे होते हैं, इसलिए जो बदलाव पहले से चल रहा था उसका दोष रेज़र पर आ जाता है।",
+   "hg": "Log usually theek usi time shave karna start karte hain jab hormones waise bhi unke baal mote kar rahe hote hain, isliye jo change pehle se chal raha tha uska blame razor par aa jata hai."
+  },
+  "refs": [
+   "nhm-rksk",
+   "unesco-itgse"
+  ],
+  "lesson": "d02-l02"
+ },
+ {
+  "id": "d02-m02",
+  "domain": "d02",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "claim": {
+   "en": "Pimples mean your face is dirty.",
+   "hi": "मुँहासे का मतलब है कि तुम्हारा चेहरा गंदा है।",
+   "hg": "Pimples ka matlab hai ki tumhara face ganda hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Acne starts inside the pore. Puberty hormones make oil glands produce more oil; oil and dead skin cells plug the pore, and bacteria that normally live on the skin multiply inside it. Dirt on the surface is not the cause, and scrubbing hard or washing many times a day irritates the skin and can make acne worse. Gentle washing twice a day is enough.",
+   "hi": "मुँहासा रोमछिद्र के अंदर से शुरू होता है। प्यूबर्टी के हार्मोन तेल ग्रंथियों से ज़्यादा तेल बनवाते हैं; तेल और मरी हुई त्वचा की कोशिकाएँ रोमछिद्र को बंद कर देती हैं, और त्वचा पर आम तौर पर रहने वाले बैक्टीरिया उसके अंदर बढ़ने लगते हैं। सतह की गंदगी इसकी वजह नहीं है, और ज़ोर से रगड़ने या दिन में कई बार धोने से त्वचा में जलन होती है और मुँहासे बिगड़ सकते हैं। दिन में दो बार नरमी से धोना काफ़ी है।",
+   "hg": "Acne pore ke andar se start hota hai. Puberty hormones oil glands se zyada oil banwate hain; oil aur dead skin cells pore ko plug kar dete hain, aur skin par normally rehne wale bacteria uske andar multiply karne lagte hain. Surface ki gandagi iska cause nahi hai, aur zor se scrub karne ya din mein kai baar wash karne se skin irritate hoti hai aur acne aur kharab ho sakta hai. Din mein do baar gently wash karna kaafi hai."
+  },
+  "why": {
+   "en": "Blackheads look like trapped dirt, though their dark colour comes from oil reacting with air. Adverts for face washes also link clear skin with being clean.",
+   "hi": "ब्लैकहेड फँसी हुई गंदगी जैसे दिखते हैं, जबकि उनका गहरा रंग तेल के हवा के संपर्क में आने से बनता है। फ़ेस वॉश के विज्ञापन भी साफ़ त्वचा को सफ़ाई से जोड़कर दिखाते हैं।",
+   "hg": "Blackheads phansi hui gandagi jaise dikhte hain, jabki unka dark colour oil ke hawa se react karne se aata hai. Face wash ke ads bhi clear skin ko cleanliness se jodkar dikhate hain."
+  },
+  "refs": [
+   "nhm-rksk",
+   "unesco-itgse"
+  ],
+  "lesson": "d02-l02"
+ },
+ {
+  "id": "d02-m03",
+  "domain": "d02",
+  "tracks": [
+   "B",
+   "C",
+   "D"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [
+   "penis_testicular"
+  ],
+  "claim": {
+   "en": "Wet dreams make boys weak and thin.",
+   "hi": "स्वप्नदोष से लड़के कमज़ोर और दुबले हो जाते हैं।",
+   "hg": "Wet dreams se ladke weak aur duble ho jaate hain."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "A wet dream releases a small amount of semen, which is mostly water with a little protein and sugar, and the body replaces it continuously. It does not drain strength, blood, memory or height, and it is not a disease that needs medicine. The Hindi word swapnadosh literally labels it a fault, but it is an ordinary sign that puberty is under way.",
+   "hi": "स्वप्नदोष में थोड़ा-सा वीर्य निकलता है, जो ज़्यादातर पानी होता है और उसमें थोड़ा प्रोटीन और शर्करा होती है, और शरीर इसे लगातार बनाता रहता है। इससे ताक़त, ख़ून, याददाश्त या लंबाई नहीं घटती, और यह कोई बीमारी नहीं है जिसके लिए दवा चाहिए। हिंदी का शब्द स्वप्नदोष इसे एक दोष बता देता है, पर असल में यह बस इस बात का आम संकेत है कि प्यूबर्टी चल रही है।",
+   "hg": "Wet dream mein thoda sa semen nikalta hai, jo mostly paani hota hai aur usme thoda protein aur sugar hoti hai, aur body ise continuously banati rehti hai. Isse taakat, khoon, memory ya height kam nahi hoti, aur yeh koi bimaari nahi hai jiske liye dawai chahiye. Hindi word swapnadosh ise ek dosh bata deta hai, par actually yeh bas is baat ka ordinary sign hai ki puberty chal rahi hai."
+  },
+  "why": {
+   "en": "Traditional beliefs treat semen as a precious store of energy, and roadside clinics and adverts sell cures by presenting a normal event as a dangerous illness.",
+   "hi": "पुरानी मान्यताओं में वीर्य को ऊर्जा का क़ीमती भंडार माना जाता है, और सड़क किनारे के क्लिनिक और विज्ञापन एक सामान्य घटना को ख़तरनाक बीमारी बताकर उसका इलाज बेचते हैं।",
+   "hg": "Purani beliefs mein semen ko energy ka precious store maana jata hai, aur roadside clinics aur ads ek normal event ko dangerous bimaari batakar uska ilaaj bechte hain."
+  },
+  "refs": [
+   "unesco-itgse",
+   "nhm-rksk"
+  ],
+  "lesson": "d02-l03"
+ },
+ {
+  "id": "d02-m04",
+  "domain": "d02",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "men",
+   "women"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "claim": {
+   "en": "Girls usually start puberty earlier than boys.",
+   "hi": "लड़कियों में प्यूबर्टी आम तौर पर लड़कों से पहले शुरू होती है।",
+   "hg": "Ladkiyon mein puberty usually ladkon se pehle start hoti hai."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True, on average. Puberty typically begins between 8 and 13 in girls and between 9 and 14 in boys, and girls' growth spurt also comes about two years earlier. That is why girls are often taller than boys of the same age for a few years in middle school. Boys' growth spurt comes later and lasts longer, so the difference usually reverses in the mid-teens.",
+   "hi": "औसतन यह सही है। प्यूबर्टी लड़कियों में आम तौर पर 8 से 13 और लड़कों में 9 से 14 साल के बीच शुरू होती है, और लड़कियों की लंबाई भी क़रीब दो साल पहले तेज़ी से बढ़ती है। इसीलिए मिडिल स्कूल के कुछ सालों में लड़कियाँ अक्सर अपनी उम्र के लड़कों से लंबी होती हैं। लड़कों की तेज़ बढ़त बाद में आती है और ज़्यादा समय चलती है, इसलिए किशोर उम्र के बीच तक यह फ़र्क़ आम तौर पर पलट जाता है।",
+   "hg": "On average yeh sahi hai. Puberty ladkiyon mein typically 8 se 13 aur ladkon mein 9 se 14 ke beech start hoti hai, aur ladkiyon ka growth spurt bhi lagbhag do saal pehle aata hai. Isiliye middle school ke kuch saalon mein ladkiyan aksar same age ke ladkon se lambi hoti hain. Ladkon ka growth spurt baad mein aata hai aur zyada time chalta hai, isliye mid-teens tak yeh difference usually reverse ho jata hai."
+  },
+  "why": {
+   "en": "It can sound like an unfair rumour because nobody explains it, and boys who are suddenly shorter than their classmates may feel that something has gone wrong.",
+   "hi": "यह किसी नाइंसाफ़ अफ़वाह जैसा लग सकता है क्योंकि कोई इसे समझाता नहीं, और जो लड़के अचानक अपनी क्लास की लड़कियों से छोटे पड़ जाते हैं, उन्हें लग सकता है कि कुछ गड़बड़ हो गई है।",
+   "hg": "Yeh ek unfair rumour jaisa lag sakta hai kyunki koi ise explain nahi karta, aur jo ladke achanak apni classmates se chhote pad jaate hain, unhe lag sakta hai ki kuch gadbad ho gayi hai."
+  },
+  "refs": [
+   "unesco-itgse",
+   "nhm-rksk"
+  ],
+  "lesson": "d02-l01"
+ },
+ {
+  "id": "d02-m05",
+  "domain": "d02",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "claim": {
+   "en": "Teenagers' body clocks really do shift later at night.",
+   "hi": "किशोरों के शरीर की घड़ी सच में रात की तरफ़ खिसक जाती है।",
+   "hg": "Teenagers ki body clock sach mein raat ki taraf shift ho jaati hai."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. During puberty the brain starts releasing the sleep hormone melatonin later in the evening, so teenagers feel sleepy later and find early mornings harder than children or adults do. They still need about eight to ten hours of sleep. The shift is biological, but bright screens and late caffeine push it even later, while morning daylight and a fixed wake-up time pull it back.",
+   "hi": "सही है। प्यूबर्टी में दिमाग़ नींद का हार्मोन मेलाटोनिन शाम को देर से छोड़ने लगता है, इसलिए किशोरों को नींद देर से आती है और सुबह जल्दी उठना उन्हें बच्चों या बड़ों के मुक़ाबले ज़्यादा मुश्किल लगता है। फिर भी उन्हें क़रीब आठ से दस घंटे की नींद चाहिए। यह बदलाव शरीर का है, पर तेज़ रोशनी वाली स्क्रीन और देर शाम का कैफ़ीन इसे और पीछे धकेलते हैं, जबकि सुबह की धूप और रोज़ एक ही समय पर उठना इसे वापस खींचते हैं।",
+   "hg": "Sahi hai. Puberty mein brain sleep hormone melatonin ko shaam ko late release karne lagta hai, isliye teenagers ko neend late aati hai aur subah jaldi uthna unhe bachchon ya adults ke comparison mein zyada mushkil lagta hai. Phir bhi unhe lagbhag aath se das ghante ki neend chahiye. Yeh shift biological hai, par bright screens aur late caffeine ise aur late push karte hain, jabki subah ki dhoop aur fixed wake-up time ise wapas kheenchte hain."
+  },
+  "why": {
+   "en": "Adults often read late nights and groggy mornings as laziness or phone addiction, because the change in the body clock cannot be seen from outside.",
+   "hi": "बड़े लोग अक्सर देर रात तक जागने और सुबह की सुस्ती को आलस या फ़ोन की लत समझ लेते हैं, क्योंकि शरीर की घड़ी में आया बदलाव बाहर से दिखता नहीं।",
+   "hg": "Adults aksar late nights aur subah ki susti ko laziness ya phone addiction samajh lete hain, kyunki body clock ka change bahar se dikhta nahi."
+  },
+  "refs": [
+   "who-adolescent-mh",
+   "unesco-itgse"
+  ],
+  "lesson": "d02-l04"
+ },
+ {
+  "id": "d02-m06",
+  "domain": "d02",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "claim": {
+   "en": "Lifting weights or going to the gym in your teens stunts your height.",
+   "hi": "किशोर उम्र में वज़न उठाने या जिम जाने से लंबाई रुक जाती है।",
+   "hg": "Teens mein weights uthane ya gym jaane se height ruk jaati hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Properly supervised strength training has not been shown to damage growth plates or reduce adult height. Height is set mainly by genes, nutrition, sleep and the timing of puberty. The real risks in a gym are injuries from lifting too heavy with poor technique, and from steroids or unregulated supplements, which can harm hormones and growth. Learn form first, increase weight slowly and avoid any booster sold without a prescription.",
+   "hi": "सही निगरानी में की गई स्ट्रेंथ ट्रेनिंग से ग्रोथ प्लेट को नुक़सान पहुँचने या वयस्क लंबाई घटने का कोई प्रमाण नहीं मिला है। लंबाई ज़्यादातर जीन, पोषण, नींद और प्यूबर्टी के समय से तय होती है। जिम के असली ख़तरे हैं ग़लत तकनीक से बहुत भारी वज़न उठाने पर लगने वाली चोटें, और स्टेरॉइड या बिना जाँचे-परखे सप्लीमेंट, जो हार्मोन और बढ़त को नुक़सान पहुँचा सकते हैं। पहले सही तरीक़ा सीखो, वज़न धीरे-धीरे बढ़ाओ और बिना पर्चे के बिकने वाले किसी भी बूस्टर से दूर रहो।",
+   "hg": "Properly supervised strength training se growth plates ko damage hone ya adult height kam hone ka koi proof nahi mila hai. Height mainly genes, nutrition, neend aur puberty ki timing se set hoti hai. Gym ke real risks hain galat technique se bahut heavy lift karne par lagne wali injuries, aur steroids ya unregulated supplements, jo hormones aur growth ko harm kar sakte hain. Pehle sahi form seekho, weight slowly badhao aur bina prescription ke bikne wale kisi bhi booster se door raho."
+  },
+  "why": {
+   "en": "People noticed that many weightlifters and gymnasts are short and assumed training caused it, and injuries from unsupervised heavy lifting made the warning seem sensible.",
+   "hi": "लोगों ने देखा कि कई वेटलिफ़्टर और जिमनास्ट छोटे क़द के होते हैं और मान लिया कि यह ट्रेनिंग की वजह से है, और बिना निगरानी के भारी वज़न उठाने से लगी चोटों ने इस चेतावनी को समझदारी वाली बात बना दिया।",
+   "hg": "Logon ne dekha ki kai weightlifters aur gymnasts chhoti height ke hote hain aur maan liya ki yeh training ki wajah se hai, aur bina supervision ke heavy lifting se lagi injuries ne is warning ko sensible bana diya."
+  },
+  "refs": [
+   "nhm-rksk",
+   "unesco-itgse"
+  ],
+  "lesson": "d02-l06"
+ },
+ {
+  "id": "d02-m07",
+  "domain": "d02",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Masturbation during puberty causes pimples, weakness or stops your growth.",
+   "hi": "प्यूबर्टी में हस्तमैथुन से मुँहासे होते हैं, कमज़ोरी आती है या लंबाई रुक जाती है।",
+   "hg": "Puberty mein masturbation se pimples hote hain, weakness aati hai ya height ruk jaati hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Masturbation does not cause acne, weakness, weight loss, poor memory, hair loss, infertility or shorter height. Acne and growth are driven by hormones, genes, nutrition and sleep, and they follow the same course whether a person masturbates or not. It is a private activity, and not doing it is equally normal. It is a concern only if it causes injury, distress or gets in the way of daily life.",
+   "hi": "हस्तमैथुन से मुँहासे, कमज़ोरी, वज़न घटना, याददाश्त की कमी, बाल झड़ना, बाँझपन या लंबाई कम रहना, कुछ भी नहीं होता। मुँहासे और बढ़त हार्मोन, जीन, पोषण और नींद से तय होते हैं, और कोई हस्तमैथुन करे या न करे, ये अपनी ही राह चलते हैं। यह एक निजी काम है, और इसे न करना भी उतना ही सामान्य है। यह चिंता की बात तभी है जब इससे चोट लगे, मन परेशान रहे या रोज़ की ज़िंदगी में रुकावट आए।",
+   "hg": "Masturbation se acne, weakness, weight loss, kamzor memory, hair loss, infertility ya kam height, kuch bhi nahi hota. Acne aur growth hormones, genes, nutrition aur neend se drive hote hain, aur koi masturbate kare ya na kare, yeh apne hi course par chalte hain. Yeh ek private activity hai, aur ise na karna bhi utna hi normal hai. Yeh concern tabhi hai jab isse injury ho, distress ho ya daily life mein rukawat aaye."
+  },
+  "why": {
+   "en": "Pimples, tiredness and sexual feelings all arrive in the same years, so people connect them. Old beliefs about semen being strength, and adverts for cures, keep the fear going.",
+   "hi": "मुँहासे, थकान और यौन भावनाएँ, सब उन्हीं सालों में आते हैं, इसलिए लोग इन्हें आपस में जोड़ देते हैं। वीर्य को ताक़त मानने वाली पुरानी मान्यताएँ और इलाज बेचने वाले विज्ञापन इस डर को ज़िंदा रखते हैं।",
+   "hg": "Pimples, thakaan aur sexual feelings, sab unhi saalon mein aate hain, isliye log inhe aapas mein connect kar dete hain. Semen ko taakat maanne wali purani beliefs aur ilaaj bechne wale ads is darr ko zinda rakhte hain."
+  },
+  "refs": [
+   "unesco-itgse",
+   "who-sexual-health"
+  ],
+  "lesson": "d02-l06"
+ }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "d11-g1",
+    "domain": "d11",
+    "tracks": ["B", "C", "D", "E"],
+    "title": {
+      "en": "Fairness and respect words",
+      "hi": "बराबरी और सम्मान के शब्द",
+      "hg": "Fairness aur respect ke words"
+    },
+    "terms": [
+      {
+        "term": { "en": "Stereotype", "hi": "स्टीरियोटाइप (बनी-बनाई सोच)", "hg": "Stereotype" },
+        "def": {
+          "en": "A fixed idea that everyone in a group is the same, such as 'all boys are rough' or 'all girls are shy'.",
+          "hi": "एक पक्की सोच कि किसी समूह का हर इंसान एक जैसा होता है, जैसे 'सारे लड़के उधमी होते हैं' या 'सारी लड़कियाँ शर्मीली होती हैं'।",
+          "hg": "Ek fixed soch ki kisi group ka har insaan same hota hai, jaise 'saare ladke rough hote hain' ya 'saari ladkiyan shy hoti hain'."
+        }
+      },
+      {
+        "term": { "en": "Gender equality", "hi": "जेंडर बराबरी (लैंगिक समानता)", "hg": "Gender equality" },
+        "def": {
+          "en": "People of every gender getting the same respect, rights, opportunities and responsibilities at home, in school and at work.",
+          "hi": "हर जेंडर के लोगों को घर, स्कूल और काम की जगह पर बराबर इज़्ज़त, अधिकार, मौक़े और ज़िम्मेदारियाँ मिलना।",
+          "hg": "Har gender ke logon ko ghar, school aur work pe barabar respect, rights, opportunities aur responsibilities milna."
+        }
+      },
+      {
+        "term": { "en": "Discrimination", "hi": "भेदभाव", "hg": "Discrimination (bhedbhaav)" },
+        "def": {
+          "en": "Treating a person unfairly or worse than others because of who they are, for example their gender, caste, religion or disability.",
+          "hi": "किसी इंसान के साथ इस वजह से नाइंसाफ़ी या दूसरों से बुरा बर्ताव करना कि वह कौन है, जैसे उसका जेंडर, जाति, धर्म या विकलांगता।",
+          "hg": "Kisi insaan ke saath is wajah se unfair ya doosron se bura behave karna ki woh kaun hai, jaise uska gender, caste, religion ya disability."
+        }
+      },
+      {
+        "term": { "en": "Inclusion", "hi": "समावेश (सबको शामिल करना)", "hg": "Inclusion" },
+        "def": {
+          "en": "Making sure everyone can take part and feels welcome, by removing whatever keeps a person out.",
+          "hi": "यह पक्का करना कि हर कोई हिस्सा ले सके और उसे अपनापन लगे, और इसके लिए हर वह रुकावट हटाना जो किसी को बाहर रखती है।",
+          "hg": "Yeh pakka karna ki har koi part le sake aur use welcome feel ho, aur iske liye har woh rukawat hatana jo kisi ko bahar rakhti hai."
+        }
+      },
+      {
+        "term": { "en": "Ally", "hi": "साथी (ally)", "hg": "Ally" },
+        "def": {
+          "en": "Someone who stands up for a person or group facing unfair treatment, even though they are not part of that group.",
+          "hi": "वह इंसान जो नाइंसाफ़ी झेल रहे किसी व्यक्ति या समूह के लिए खड़ा होता है, भले ही वह ख़ुद उस समूह का हिस्सा न हो।",
+          "hg": "Woh insaan jo unfair treatment jhel rahe kisi person ya group ke liye khada hota hai, bhale hi woh khud us group ka hissa na ho."
+        }
+      },
+      {
+        "term": { "en": "Neurodivergent", "hi": "न्यूरोडाइवर्जेंट (neurodivergent)", "hg": "Neurodivergent" },
+        "def": {
+          "en": "Having a brain that learns, senses or communicates differently from most people, as in autism, ADHD or dyslexia. It is a difference, not a defect.",
+          "hi": "ऐसा दिमाग़ होना जो ज़्यादातर लोगों से अलग ढंग से सीखता, महसूस करता या बातचीत करता है, जैसे ऑटिज़्म, ADHD या डिस्लेक्सिया में। यह फ़र्क़ है, कमी नहीं।",
+          "hg": "Aisa brain hona jo zyadatar logon se alag tareeke se seekhta, sense karta ya communicate karta hai, jaise autism, ADHD ya dyslexia mein. Yeh difference hai, defect nahi."
+        }
+      }
+    ]
+  },
+  {
+    "id": "d11-g2",
+    "domain": "d11",
+    "tracks": ["C", "D", "E"],
+    "title": {
+      "en": "Identity and orientation words",
+      "hi": "पहचान और रुझान के शब्द",
+      "hg": "Identity aur orientation ke words"
+    },
+    "terms": [
+      {
+        "term": { "en": "Gender identity", "hi": "जेंडर पहचान (gender identity)", "hg": "Gender identity" },
+        "def": {
+          "en": "A person's own inner sense of being a woman, a man, both, neither or something else. Only the person can tell you what it is.",
+          "hi": "इंसान का अपने अंदर का एहसास कि वह महिला है, पुरुष है, दोनों है, कोई नहीं है या कुछ और है। यह सिर्फ़ वही इंसान बता सकता है।",
+          "hg": "Insaan ka apne andar ka ehsaas ki woh woman hai, man hai, dono hai, koi nahi hai ya kuch aur hai. Yeh sirf wahi insaan bata sakta hai."
+        }
+      },
+      {
+        "term": { "en": "Transgender", "hi": "ट्रांसजेंडर (transgender)", "hg": "Transgender" },
+        "def": {
+          "en": "Describes a person whose gender identity is different from the sex recorded at birth. It is an adjective: 'a transgender woman', not 'a transgender'.",
+          "hi": "ऐसे इंसान के लिए शब्द जिसकी जेंडर पहचान जन्म के समय दर्ज सेक्स से अलग है। यह विशेषण है: 'एक ट्रांसजेंडर महिला' कहा जाता है, 'एक ट्रांसजेंडर' नहीं।",
+          "hg": "Aise insaan ke liye word jiski gender identity birth pe likhe gaye sex se alag hai. Yeh adjective hai: 'ek transgender woman' bolte hain, 'ek transgender' nahi."
+        }
+      },
+      {
+        "term": { "en": "Non-binary", "hi": "नॉन-बाइनरी (non-binary)", "hg": "Non-binary" },
+        "def": {
+          "en": "Describes a person whose gender identity is not only 'man' or only 'woman'. Some non-binary people use 'they' as their pronoun in English.",
+          "hi": "ऐसे इंसान के लिए शब्द जिसकी जेंडर पहचान सिर्फ़ 'पुरुष' या सिर्फ़ 'महिला' नहीं है। कुछ नॉन-बाइनरी लोग अंग्रेज़ी में अपने लिए 'they' सर्वनाम इस्तेमाल करते हैं।",
+          "hg": "Aise insaan ke liye word jiski gender identity sirf 'man' ya sirf 'woman' nahi hai. Kuch non-binary log English mein apne liye 'they' pronoun use karte hain."
+        }
+      },
+      {
+        "term": { "en": "Sexual orientation", "hi": "यौन रुझान (sexual orientation)", "hg": "Sexual orientation" },
+        "def": {
+          "en": "The pattern of who a person feels romantic or sexual attraction to, for example heterosexual, gay, lesbian or bisexual. It is not a choice.",
+          "hi": "इंसान को रोमांटिक या यौन आकर्षण किसकी ओर होता है, इसका स्वरूप, जैसे हेट्रोसेक्शुअल, गे, लेस्बियन या बाइसेक्शुअल। यह चुनी हुई चीज़ नहीं है।",
+          "hg": "Insaan ko romantic ya sexual attraction kiski taraf hota hai, iska pattern, jaise heterosexual, gay, lesbian ya bisexual. Yeh choice nahi hai."
+        }
+      },
+      {
+        "term": { "en": "Asexual", "hi": "एसेक्शुअल (asexual)", "hg": "Asexual" },
+        "def": {
+          "en": "Describes a person who feels little or no sexual attraction to anyone. Asexual people can still want close friendships and loving relationships.",
+          "hi": "ऐसे इंसान के लिए शब्द जिसे किसी की ओर यौन आकर्षण बहुत कम या बिल्कुल महसूस नहीं होता। एसेक्शुअल लोग फिर भी गहरी दोस्ती और प्यार भरे रिश्ते चाह सकते हैं।",
+          "hg": "Aise insaan ke liye word jise kisi ki taraf sexual attraction bahut kam ya bilkul feel nahi hota. Asexual log phir bhi close dosti aur loving relationships chaah sakte hain."
+        }
+      },
+      {
+        "term": { "en": "Intersex", "hi": "इंटरसेक्स (intersex)", "hg": "Intersex" },
+        "def": {
+          "en": "Describes people born with chromosomes, hormones or anatomy that do not fit typical definitions of male or female. It is a natural variation of the body.",
+          "hi": "उन लोगों के लिए शब्द जो ऐसे क्रोमोसोम, हार्मोन या शारीरिक बनावट के साथ पैदा होते हैं जो पुरुष या स्त्री की आम परिभाषा में फ़िट नहीं होती। यह शरीर की क़ुदरती भिन्नता है।",
+          "hg": "Un logon ke liye word jo aise chromosomes, hormones ya anatomy ke saath paida hote hain jo male ya female ki typical definition mein fit nahi hoti. Yeh body ki natural variation hai."
+        }
+      }
+    ]
+  }
+]

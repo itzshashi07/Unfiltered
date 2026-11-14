@@ -1,0 +1,613 @@
+[
+ {
+  "id": "d17-f01",
+  "domain": "d17",
+  "tracks": [
+   "A"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Is it bad to feel angry?",
+   "hi": "क्या गुस्सा आना बुरी बात है?",
+   "hg": "Kya gussa aana buri baat hai?"
+  },
+  "a": {
+   "en": "No. Feeling angry is okay. Everyone feels angry sometimes. But hitting, biting or breaking things is not okay. When you feel angry, stop and take five slow breaths. Then tell a grown-up you trust what made you angry. They can help.",
+   "hi": "नहीं। गुस्सा आना ठीक है। सबको कभी-कभी गुस्सा आता है। लेकिन मारना, काटना या चीज़ें तोड़ना ठीक नहीं है। जब गुस्सा आए, तो रुको और पाँच धीमी साँसें लो। फिर किसी भरोसे वाले बड़े को बताओ कि गुस्सा किस बात पर आया। वे मदद कर सकते हैं।",
+   "hg": "Nahi. Gussa aana theek hai. Sabko kabhi-kabhi gussa aata hai. Lekin maarna, kaatna ya cheezein todna theek nahi hai. Jab gussa aaye, toh ruko aur paanch dheemi saansein lo. Phir kisi bharose wale bade ko batao ki gussa kis baat par aaya. Woh help kar sakte hain."
+  },
+  "keywords": [
+   "angry",
+   "feeling angry",
+   "gussa",
+   "gussa aata hai",
+   "bahut gussa",
+   "गुस्सा",
+   "गुस्सा आना",
+   "mad at someone"
+  ],
+  "refs": [
+   "unesco-itgse"
+  ],
+  "urgent": false,
+  "lesson": "d17-l01"
+ },
+ {
+  "id": "d17-f02",
+  "domain": "d17",
+  "tracks": [
+   "A"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "I feel sad and I do not know why. What should I do?",
+   "hi": "मैं उदास हूँ और मुझे पता नहीं क्यों। मैं क्या करूँ?",
+   "hg": "Main udaas hoon aur mujhe pata nahi kyun. Main kya karoon?"
+  },
+  "a": {
+   "en": "It is okay to feel sad, even when you do not know the reason. You can cry. You can hug someone you love. You can draw or play outside. And tell a grown-up you trust, like Mummy, Papa or your teacher: 'I feel sad.' If the sad feeling stays for many days, tell them again.",
+   "hi": "उदास होना ठीक है, तब भी जब वजह पता न हो। तुम रो सकते हो। जिससे प्यार करते हो उसे गले लगा सकते हो। चित्र बना सकते हो या बाहर खेल सकते हो। और किसी भरोसे वाले बड़े को बताओ, जैसे मम्मी, पापा या टीचर: 'मैं उदास हूँ।' अगर उदासी कई दिनों तक रहे, तो उन्हें फिर से बताओ।",
+   "hg": "Udaas hona theek hai, tab bhi jab wajah pata na ho. Tum ro sakte ho. Jisse pyaar karte ho usse hug kar sakte ho. Drawing kar sakte ho ya bahar khel sakte ho. Aur kisi bharose wale bade ko batao, jaise Mummy, Papa ya teacher: 'Main udaas hoon.' Agar udaasi kai dinon tak rahe, toh unhe phir se batao."
+  },
+  "keywords": [
+   "sad",
+   "feeling sad",
+   "udaas",
+   "rona aata hai",
+   "mann kharab",
+   "उदास",
+   "रोना आता है",
+   "crying"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-adolescent-mh"
+  ],
+  "urgent": false,
+  "lesson": "d17-l01"
+ },
+ {
+  "id": "d17-f03",
+  "domain": "d17",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Everyone in my class looks more grown up than me. Is something wrong with me?",
+   "hi": "क्लास में सब मुझसे ज़्यादा बड़े दिखते हैं। क्या मुझमें कोई गड़बड़ है?",
+   "hg": "Class mein sab mujhse zyada grown up dikhte hain. Kya mujh mein kuch gadbad hai?"
+  },
+  "a": {
+   "en": "Almost certainly not. Puberty can start anywhere between 8 and 13 in girls and between 9 and 14 in boys, so classmates of the same age can look years apart. Late starters catch up, and starting later does not make your adult body any less normal. Feeling left behind is one of the most common puberty worries. See a doctor if there are no signs at all by 13 for girls or 14 for boys, mostly for reassurance. Until then, tell a parent or another adult you trust how it feels.",
+   "hi": "नहीं, लगभग पक्की बात है कि तुममें कोई गड़बड़ नहीं है। प्यूबर्टी लड़कियों में 8 से 13 और लड़कों में 9 से 14 साल के बीच कभी भी शुरू हो सकती है, इसलिए एक ही उम्र के सहपाठी देखने में कई साल छोटे-बड़े लग सकते हैं। देर से शुरू करने वाले भी बराबर पहुँच जाते हैं, और देर से शुरू होने से तुम्हारा वयस्क शरीर कम नॉर्मल नहीं होता। पीछे छूट जाने का एहसास प्यूबर्टी की सबसे आम चिंताओं में से एक है। अगर लड़कियों में 13 और लड़कों में 14 साल तक कोई भी संकेत न दिखे, तो डॉक्टर को दिखाओ, ज़्यादातर तसल्ली के लिए। तब तक माता-पिता या किसी भरोसे वाले बड़े को बताओ कि तुम्हें कैसा लग रहा है।",
+   "hg": "Nahi, almost pakka hai ki tum mein kuch gadbad nahi hai. Puberty ladkiyon mein 8 se 13 aur ladkon mein 9 se 14 saal ke beech kabhi bhi shuru ho sakti hai, isliye ek hi age ke classmates dekhne mein kai saal chhote-bade lag sakte hain. Late shuru karne wale bhi catch up kar lete hain, aur late shuru hone se tumhari adult body kam normal nahi hoti. Peeche chhoot jaane ki feeling puberty ki sabse common tensions mein se ek hai. Agar ladkiyon mein 13 aur ladkon mein 14 saal tak koi bhi sign na dikhe, toh doctor ko dikhao, zyadatar tasalli ke liye. Tab tak parents ya kisi trusted adult ko batao ki tumhe kaisa lag raha hai."
+  },
+  "keywords": [
+   "late puberty",
+   "puberty late",
+   "sab bade dikhte hain",
+   "height nahi badh rahi",
+   "chhota dikhta hoon",
+   "प्यूबर्टी देर से",
+   "क़द नहीं बढ़ रहा",
+   "late bloomer",
+   "body develop nahi hui"
+  ],
+  "refs": [
+   "nhm-rksk",
+   "unesco-itgse"
+  ],
+  "urgent": false,
+  "lesson": "d17-l02"
+ },
+ {
+  "id": "d17-f04",
+  "domain": "d17",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "People tease me about my weight and skin colour. How do I stop feeling bad about my body?",
+   "hi": "लोग मेरे वज़न और रंग को लेकर चिढ़ाते हैं। मैं अपने शरीर को लेकर बुरा महसूस करना कैसे बंद करूँ?",
+   "hg": "Log mere weight aur rang ko lekar chidhate hain. Main apni body ko lekar bura feel karna kaise band karoon?"
+  },
+  "a": {
+   "en": "Start here: the teasing is the problem, not your body. Comments about weight, height or skin colour are bullying, and no body deserves that. Bodies come in many sizes and shades, and dark skin, thin bodies and fat bodies are all normal. You may still feel hurt, which is natural. Tell a parent or teacher what is being said and by whom; you do not have to fix it alone. Spend time with people who are kind to you, and notice what your body can do. If you start skipping meals or avoiding school, tell an adult or call 1098.",
+   "hi": "शुरुआत यहाँ से करो: दिक़्क़त चिढ़ाने में है, तुम्हारे शरीर में नहीं। वज़न, क़द या रंग पर ताने बुलिंग हैं, और कोई भी शरीर इसका हक़दार नहीं है। शरीर कई नाप और कई रंगों के होते हैं, और साँवला रंग, पतला शरीर और मोटा शरीर, सब नॉर्मल हैं। फिर भी बुरा लग सकता है, और यह स्वाभाविक है। माता-पिता या टीचर को बताओ कि क्या कहा जा रहा है और कौन कह रहा है; इसे अकेले ठीक करना तुम्हारा काम नहीं है। उन लोगों के साथ समय बिताओ जो तुमसे अच्छा बर्ताव करते हैं, और ध्यान दो कि तुम्हारा शरीर क्या-क्या कर सकता है। अगर तुम खाना छोड़ने लगो या स्कूल जाने से बचने लगो, तो किसी बड़े को बताओ या 1098 पर कॉल करो।",
+   "hg": "Shuruaat yahan se karo: problem chidhane mein hai, tumhari body mein nahi. Weight, height ya rang par comments bullying hain, aur koi bhi body yeh deserve nahi karti. Bodies kai sizes aur kai shades ki hoti hain, aur saanwla rang, patli body aur moti body, sab normal hain. Phir bhi bura lag sakta hai, aur yeh natural hai. Parents ya teacher ko batao ki kya bola ja raha hai aur kaun bol raha hai; isse akele fix karna tumhara kaam nahi hai. Un logon ke saath time bitao jo tumhare saath kind hain, aur notice karo ki tumhari body kya-kya kar sakti hai. Agar tum khana skip karne lago ya school jaane se bachne lago, toh kisi bade ko batao ya 1098 par call karo."
+  },
+  "keywords": [
+   "body shaming",
+   "mota bolte hain",
+   "kaala bolte hain",
+   "weight teasing",
+   "skin colour",
+   "moti",
+   "patla",
+   "मोटा कहते हैं",
+   "रंग को लेकर चिढ़ाना",
+   "bullying body",
+   "fat"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "wcd-childline"
+  ],
+  "urgent": false,
+  "lesson": "d17-l02"
+ },
+ {
+  "id": "d17-f05",
+  "domain": "d17",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Why do I cry or get angry so easily these days?",
+   "hi": "आजकल मुझे इतनी जल्दी रोना या गुस्सा क्यों आ जाता है?",
+   "hg": "Aajkal mujhe itni jaldi rona ya gussa kyun aa jaata hai?"
+  },
+  "a": {
+   "en": "During puberty, hormone changes and a fast-developing brain make emotions stronger and quicker to switch. Add less sleep, school pressure and friendship drama, and small things can feel huge. This is common and does not mean something is wrong with you. Sleep, food, exercise and naming the feeling out loud all take the edge off. Talk to a trusted adult or call Tele-MANAS on 14416 if the low or angry mood stays on most days for two weeks or more, stops you from doing normal things, or comes with thoughts of hurting yourself.",
+   "hi": "प्यूबर्टी के दौरान हार्मोन में बदलाव और तेज़ी से विकसित होता दिमाग़ भावनाओं को ज़्यादा तेज़ और जल्दी बदलने वाला बना देते हैं। ऊपर से कम नींद, स्कूल का दबाव और दोस्ती के झगड़े जुड़ जाएँ, तो छोटी बातें भी बहुत बड़ी लगने लगती हैं। यह आम है और इसका मतलब यह नहीं कि तुममें कोई गड़बड़ है। नींद, खाना, कसरत और एहसास का नाम ज़ोर से बोलना, ये सब इसकी धार कम करते हैं। अगर उदासी या गुस्सा दो हफ़्ते या उससे ज़्यादा समय तक लगभग हर दिन रहे, रोज़ के काम रोक दे, या ख़ुद को चोट पहुँचाने के ख़याल आएँ, तो किसी भरोसे वाले बड़े से बात करो या टेली-मानस 14416 पर कॉल करो।",
+   "hg": "Puberty ke dauraan hormone changes aur tezi se develop hota dimaag emotions ko zyada strong aur jaldi switch hone wala bana dete hain. Upar se kam neend, school ka pressure aur friendship drama jud jaaye, toh chhoti baatein bhi bahut badi lagne lagti hain. Yeh common hai aur iska matlab yeh nahi ki tum mein kuch gadbad hai. Neend, khana, exercise aur feeling ka naam zor se bolna, yeh sab iski dhaar kam karte hain. Agar low ya gusse wala mood do hafte ya usse zyada time tak lagbhag har din rahe, normal kaam rok de, ya khud ko hurt karne ke thoughts aayein, toh kisi trusted adult se baat karo ya Tele-MANAS 14416 par call karo."
+  },
+  "keywords": [
+   "mood swings",
+   "rona aata hai",
+   "gussa jaldi aata hai",
+   "chidchidapan",
+   "emotional",
+   "मूड स्विंग",
+   "जल्दी गुस्सा",
+   "बिना बात रोना",
+   "irritated",
+   "mood kharab"
+  ],
+  "refs": [
+   "who-adolescent-mh",
+   "tele-manas"
+  ],
+  "urgent": false,
+  "lesson": "d17-l02"
+ },
+ {
+  "id": "d17-f06",
+  "domain": "d17",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My crush said no and now I feel worthless. Is this normal?",
+   "hi": "मेरे क्रश ने मना कर दिया और अब मुझे लगता है मैं बेकार हूँ। क्या यह नॉर्मल है?",
+   "hg": "Mere crush ne mana kar diya aur ab mujhe lagta hai main worthless hoon. Kya yeh normal hai?"
+  },
+  "a": {
+   "en": "Yes, the hurt is normal, and no, you are not worthless. Rejection stings sharply and usually fades over days or weeks. A 'no' means that person does not feel the same way; it says nothing about your value or your future. Respect the answer: do not keep asking, follow them around or send messages through friends. Let yourself feel sad, talk to someone you trust, and keep doing things you are good at. If the worthless feeling stays for more than two weeks, or you think of harming yourself, tell a trusted adult or call 14416.",
+   "hi": "हाँ, दुख होना नॉर्मल है, और नहीं, तुम बेकार नहीं हो। रिजेक्शन तेज़ चुभता है और आम तौर पर कुछ दिनों या हफ़्तों में हल्का पड़ जाता है। 'ना' का मतलब बस इतना है कि उस इंसान को वैसा महसूस नहीं होता; यह तुम्हारी क़ीमत या तुम्हारे भविष्य के बारे में कुछ नहीं कहता। जवाब की इज़्ज़त करो: बार-बार मत पूछो, पीछा मत करो और दोस्तों के ज़रिए मैसेज मत भिजवाओ। ख़ुद को उदास होने दो, किसी भरोसे वाले से बात करो, और वे काम करते रहो जिनमें तुम अच्छे हो। अगर बेकार होने का एहसास दो हफ़्ते से ज़्यादा रहे, या ख़ुद को नुक़सान पहुँचाने का ख़याल आए, तो किसी भरोसे वाले बड़े को बताओ या 14416 पर कॉल करो।",
+   "hg": "Haan, hurt hona normal hai, aur nahi, tum worthless nahi ho. Rejection tez chubhta hai aur aam taur par kuch dinon ya hafton mein halka pad jaata hai. 'No' ka matlab bas itna hai ki us insaan ko waisa feel nahi hota; yeh tumhari value ya tumhare future ke baare mein kuch nahi kehta. Jawab ki respect karo: baar-baar mat poochho, peechha mat karo aur friends ke through messages mat bhijwao. Khud ko sad hone do, kisi bharose wale se baat karo, aur woh kaam karte raho jinme tum achhe ho. Agar worthless wali feeling do hafte se zyada rahe, ya khud ko harm karne ka thought aaye, toh kisi trusted adult ko batao ya 14416 par call karo."
+  },
+  "keywords": [
+   "rejection",
+   "crush ne mana kiya",
+   "crush rejected me",
+   "heartbroken",
+   "dil toot gaya",
+   "रिजेक्शन",
+   "क्रश ने मना किया",
+   "one sided love",
+   "ek tarfa pyaar",
+   "worthless"
+  ],
+  "refs": [
+   "who-adolescent-mh",
+   "unesco-itgse"
+  ],
+  "urgent": false,
+  "lesson": "d17-l03"
+ },
+ {
+  "id": "d17-f07",
+  "domain": "d17",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My friends tease me because I have never had a girlfriend or boyfriend or 'done anything'. Am I behind?",
+   "hi": "मेरे दोस्त चिढ़ाते हैं क्योंकि मेरी कभी गर्लफ़्रेंड या बॉयफ़्रेंड नहीं रही और मैंने 'कुछ किया' नहीं। क्या मैं बाक़ी सबसे पीछे हूँ?",
+   "hg": "Mere friends chidhate hain kyunki meri kabhi girlfriend ya boyfriend nahi rahi aur maine 'kuch kiya' nahi. Kya main baaki sab se peeche hoon?"
+  },
+  "a": {
+   "en": "No. There is no schedule you are late for. Many people your age have never dated or had any sexual experience, and friends often exaggerate their own stories. Not being interested yet, or deciding to wait, is a normal and valid choice. Under Indian law a person under 18 cannot legally consent to sexual activity, so nobody should be pushing you towards it. You can say, 'I am fine with where I am,' and change the subject. Friends who keep mocking you after that are applying pressure, not friendship.",
+   "hi": "नहीं। ऐसा कोई टाइमटेबल नहीं है जिसमें तुम लेट हो। तुम्हारी उम्र के बहुत से लोगों ने कभी डेट नहीं किया और उन्हें कोई यौन अनुभव नहीं है, और दोस्त अक्सर अपनी कहानियाँ बढ़ा-चढ़ाकर सुनाते हैं। अभी दिलचस्पी न होना, या रुकने का फ़ैसला करना, नॉर्मल और सही चुनाव है। भारतीय क़ानून में 18 साल से कम उम्र का व्यक्ति यौन गतिविधि के लिए क़ानूनी सहमति नहीं दे सकता, इसलिए किसी को भी तुम्हें इस तरफ़ धकेलना नहीं चाहिए। तुम कह सकते हो, 'मैं जहाँ हूँ, वहाँ ठीक हूँ,' और बात बदल सकते हो। इसके बाद भी जो दोस्त मज़ाक़ उड़ाते रहें, वे दोस्ती नहीं निभा रहे, दबाव डाल रहे हैं।",
+   "hg": "Nahi. Aisa koi schedule nahi hai jisme tum late ho. Tumhari age ke bahut se logon ne kabhi date nahi kiya aur unhe koi sexual experience nahi hai, aur friends aksar apni stories badha-chadhakar sunate hain. Abhi interest na hona, ya wait karne ka decision lena, normal aur valid choice hai. Indian law mein 18 se kam umar ka person sexual activity ke liye legally consent nahi de sakta, isliye kisi ko bhi tumhe is taraf push nahi karna chahiye. Tum bol sakte ho, 'Main jahan hoon, wahan theek hoon,' aur topic change kar sakte ho. Iske baad bhi jo friends mazaak udate rahein, woh dosti nahi nibha rahe, pressure daal rahe hain."
+  },
+  "keywords": [
+   "no girlfriend",
+   "no boyfriend",
+   "single hoon",
+   "virgin teasing",
+   "peer pressure sex",
+   "gf nahi hai",
+   "bf nahi hai",
+   "दोस्त चिढ़ाते हैं",
+   "गर्लफ़्रेंड नहीं है",
+   "sab kar chuke hain",
+   "am i behind"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "pocso-2012"
+  ],
+  "urgent": false,
+  "lesson": "d17-l03"
+ },
+ {
+  "id": "d17-f08",
+  "domain": "d17",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Sometimes I think everyone would be better off without me. What should I do?",
+   "hi": "कभी-कभी लगता है कि मेरे बिना सब ज़्यादा ठीक रहेंगे। मैं क्या करूँ?",
+   "hg": "Kabhi-kabhi lagta hai ki mere bina sab better rahenge. Main kya karoon?"
+  },
+  "a": {
+   "en": "Thank you for saying it. This thought is a sign that you are carrying too much pain, not a sign that it is true. Please do not stay alone with it. Tell a trusted adult today, in plain words: 'I have been thinking about not being alive.' Call Tele-MANAS on 14416 at any hour, or 112 if you feel you might act on the thought. Stay near someone you trust until you have spoken to a helper. These feelings can ease with support, even when that seems impossible right now. You deserve that help.",
+   "hi": "यह कहने के लिए शुक्रिया। यह ख़याल इस बात का संकेत है कि तुम बहुत ज़्यादा दर्द उठा रहे हो, इस बात का नहीं कि यह सच है। इसके साथ अकेले मत रहो। आज ही किसी भरोसे वाले बड़े को सीधे शब्दों में बताओ: 'मुझे ज़िंदा न रहने के ख़याल आ रहे हैं।' टेली-मानस 14416 पर किसी भी समय कॉल करो, या अगर लगे कि तुम इस ख़याल पर कुछ कर बैठोगे तो 112 पर कॉल करो। जब तक किसी मदद करने वाले से बात न हो जाए, किसी भरोसे वाले इंसान के पास रहो। सहारा मिलने पर ये एहसास हल्के हो सकते हैं, भले ही अभी यह नामुमकिन लगे। तुम इस मदद के हक़दार हो।",
+   "hg": "Yeh bolne ke liye thank you. Yeh thought is baat ka sign hai ki tum bahut zyada dard utha rahe ho, is baat ka nahi ki yeh sach hai. Iske saath akele mat raho. Aaj hi kisi trusted adult ko seedhe shabdon mein batao: 'Mujhe zinda na rehne ke thoughts aa rahe hain.' Tele-MANAS 14416 par kisi bhi time call karo, ya agar lage ki tum is thought par kuch kar baithoge toh 112 par call karo. Jab tak kisi helper se baat na ho jaaye, kisi bharose wale insaan ke paas raho. Support milne par yeh feelings halki ho sakti hain, bhale hi abhi yeh impossible lage. Tum yeh help deserve karte ho."
+  },
+  "keywords": [
+   "suicide",
+   "suicidal thoughts",
+   "आत्महत्या",
+   "want to die",
+   "marna chahta hoon",
+   "marne ka mann",
+   "jeene ka mann nahi",
+   "मरने का मन",
+   "जीने का मन नहीं",
+   "ख़ुदकुशी के ख़याल",
+   "self harm",
+   "zindagi se thak gayi"
+  ],
+  "refs": [
+   "tele-manas",
+   "mha-erss",
+   "who-adolescent-mh"
+  ],
+  "urgent": true,
+  "lesson": "d17-l03"
+ },
+ {
+  "id": "d17-f09",
+  "domain": "d17",
+  "tracks": [
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "How do I know if my relationship is emotionally abusive or we just fight a lot?",
+   "hi": "कैसे पता चले कि मेरा रिश्ता भावनात्मक शोषण वाला है या हम बस बहुत झगड़ते हैं?",
+   "hg": "Kaise pata chale ki mera relationship emotionally abusive hai ya hum bas bahut jhagadte hain?"
+  },
+  "a": {
+   "en": "Look at the pattern and at how you feel. In ordinary fights, both people can speak, both can say sorry, and you are not afraid. In emotional abuse, one person repeatedly controls the other: insults, checking your phone, deciding whom you meet, threats, blaming you for everything, making you doubt your memory. Ask yourself: am I scared of their reaction? Have I stopped seeing friends? Do I apologise constantly? If yes, talk to a trusted adult or counsellor, or call 14416; girls can call 181 and anyone under 18 can call 1098. It is not your fault.",
+   "hi": "पैटर्न को देखो और यह देखो कि तुम्हें कैसा महसूस होता है। आम झगड़ों में दोनों बोल पाते हैं, दोनों माफ़ी माँग पाते हैं, और तुम्हें डर नहीं लगता। भावनात्मक शोषण में एक इंसान बार-बार दूसरे को कंट्रोल करता है: बेइज़्ज़ती, फ़ोन चेक करना, यह तय करना कि तुम किससे मिलोगे, धमकियाँ, हर बात का दोष तुम पर डालना, तुम्हें अपनी ही याददाश्त पर शक कराना। ख़ुद से पूछो: क्या मुझे उसकी प्रतिक्रिया से डर लगता है? क्या मैंने दोस्तों से मिलना छोड़ दिया है? क्या मुझे हर वक़्त माफ़ी माँगनी पड़ती है? अगर हाँ, तो किसी भरोसे वाले बड़े या काउंसलर से बात करो, या 14416 पर कॉल करो; लड़कियाँ 181 पर और 18 से कम उम्र का कोई भी 1098 पर कॉल कर सकता है। इसमें तुम्हारी ग़लती नहीं है।",
+   "hg": "Pattern ko dekho aur yeh dekho ki tumhe kaisa feel hota hai. Normal fights mein dono bol paate hain, dono sorry bol paate hain, aur tumhe darr nahi lagta. Emotional abuse mein ek insaan baar-baar doosre ko control karta hai: insult, phone check karna, yeh decide karna ki tum kisse miloge, dhamkiyan, har baat ka blame tum par daalna, tumhe apni hi memory par shak karana. Khud se poochho: kya mujhe uske reaction se darr lagta hai? Kya maine friends se milna chhod diya hai? Kya mujhe har waqt sorry bolna padta hai? Agar haan, toh kisi trusted adult ya counsellor se baat karo, ya 14416 par call karo; ladkiyan 181 par aur 18 se kam umar ka koi bhi 1098 par call kar sakta hai. Isme tumhari galti nahi hai."
+  },
+  "keywords": [
+   "emotional abuse",
+   "toxic relationship",
+   "controlling boyfriend",
+   "controlling girlfriend",
+   "gaslighting",
+   "phone check karta hai",
+   "भावनात्मक शोषण",
+   "टॉक्सिक रिश्ता",
+   "bf control karta hai",
+   "manipulation",
+   "darr lagta hai partner se"
+  ],
+  "refs": [
+   "who-vaw",
+   "tele-manas",
+   "wcd-childline"
+  ],
+  "urgent": true,
+  "lesson": "d17-l04"
+ },
+ {
+  "id": "d17-f10",
+  "domain": "d17",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "It has been weeks since my breakup and I still cannot focus. How long will this last?",
+   "hi": "ब्रेकअप को हफ़्ते हो गए और अब भी ध्यान नहीं लगता। यह कब तक चलेगा?",
+   "hg": "Breakup ko hafte ho gaye aur abhi bhi focus nahi hota. Yeh kab tak chalega?"
+  },
+  "a": {
+   "en": "There is no fixed timeline. For most people the sharpest pain eases over several weeks, with good days and sudden bad ones mixed together. Sleep and concentration suffer because your mind is grieving. What helps recovery: routine, exercise, talking honestly to a friend, and a break from checking their profile. Avoid using alcohol as a painkiller and avoid contacting them again and again. Get support from a counsellor or Tele-MANAS on 14416 if you cannot manage studies or work after a few weeks, or if hopeless thoughts or thoughts of self-harm appear.",
+   "hi": "इसकी कोई तय समय-सीमा नहीं है। ज़्यादातर लोगों में सबसे तेज़ दर्द कुछ हफ़्तों में हल्का पड़ता है, और बीच-बीच में अच्छे दिन और अचानक बुरे दिन दोनों आते हैं। नींद और ध्यान इसलिए बिगड़ते हैं क्योंकि मन शोक में है। उबरने में क्या मदद करता है: रूटीन, कसरत, किसी दोस्त से खुलकर बात करना, और उसकी प्रोफ़ाइल देखने से कुछ दिन की छुट्टी। शराब को दर्द की दवा की तरह इस्तेमाल न करें और उसे बार-बार संपर्क न करें। अगर कुछ हफ़्तों बाद भी पढ़ाई या काम न संभले, या नाउम्मीदी के या ख़ुद को नुक़सान पहुँचाने के ख़याल आएँ, तो काउंसलर या टेली-मानस 14416 से मदद लें।",
+   "hg": "Iski koi fixed timeline nahi hai. Zyadatar logon mein sabse tez dard kuch hafton mein halka padta hai, aur beech-beech mein achhe din aur achanak bure din dono aate hain. Neend aur concentration isliye bigadte hain kyunki mann grieve kar raha hai. Recovery mein kya help karta hai: routine, exercise, kisi friend se honestly baat karna, aur uski profile check karne se kuch din ka break. Alcohol ko painkiller ki tarah use mat karo aur usse baar-baar contact mat karo. Agar kuch hafton baad bhi padhai ya kaam na sambhle, ya hopeless thoughts ya self-harm ke thoughts aayein, toh counsellor ya Tele-MANAS 14416 se support lo."
+  },
+  "keywords": [
+   "breakup",
+   "breakup pain",
+   "move on kaise karein",
+   "ex ki yaad",
+   "heartbreak",
+   "ब्रेकअप",
+   "ब्रेकअप का दर्द",
+   "dil toota",
+   "cant focus after breakup",
+   "ex ko bhoolna",
+   "moving on"
+  ],
+  "refs": [
+   "who-adolescent-mh",
+   "tele-manas"
+  ],
+  "urgent": false,
+  "lesson": "d17-l04"
+ },
+ {
+  "id": "d17-f11",
+  "domain": "d17",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Counsellor, psychologist or psychiatrist: what is the difference and whom should I see?",
+   "hi": "काउंसलर, साइकोलॉजिस्ट या साइकियाट्रिस्ट: इनमें क्या फ़र्क़ है और मुझे किसके पास जाना चाहिए?",
+   "hg": "Counsellor, psychologist ya psychiatrist: inme kya fark hai aur mujhe kiske paas jaana chahiye?"
+  },
+  "a": {
+   "en": "A counsellor and a clinical psychologist mainly use talking therapies; a psychologist can also do detailed assessments. A psychiatrist is a medical doctor who can diagnose, prescribe medicines and also offer therapy. If you are unsure, start with whoever is easiest to reach: a college or workplace counsellor, a government hospital psychiatry OPD, or Tele-MANAS on 14416, which can guide you to the right level of care. Go straight to a psychiatrist or an emergency department if there are thoughts of suicide, or if you cannot sleep, eat or function. It is fine to change professionals if the fit is poor.",
+   "hi": "काउंसलर और क्लिनिकल साइकोलॉजिस्ट मुख्य रूप से बातचीत वाली थेरेपी करते हैं; साइकोलॉजिस्ट विस्तार से जाँच-परख (assessment) भी कर सकते हैं। साइकियाट्रिस्ट मेडिकल डॉक्टर होते हैं जो निदान कर सकते हैं, दवा लिख सकते हैं और थेरेपी भी दे सकते हैं। अगर समझ न आए, तो उससे शुरू करें जिस तक पहुँचना सबसे आसान हो: कॉलेज या दफ़्तर का काउंसलर, सरकारी अस्पताल की मनोरोग ओपीडी, या टेली-मानस 14416, जो आपको सही स्तर की देखभाल तक पहुँचा सकता है। अगर आत्महत्या के ख़याल हों, या आप सो, खा या रोज़ के काम न कर पा रहे हों, तो सीधे साइकियाट्रिस्ट या इमरजेंसी विभाग में जाएँ। अगर किसी पेशेवर के साथ तालमेल न बैठे, तो बदल लेना बिल्कुल ठीक है।",
+   "hg": "Counsellor aur clinical psychologist mainly talking therapies use karte hain; psychologist detailed assessments bhi kar sakte hain. Psychiatrist medical doctor hote hain jo diagnose kar sakte hain, medicines prescribe kar sakte hain aur therapy bhi de sakte hain. Agar samajh na aaye, toh usse shuru karo jis tak pahunchna sabse easy ho: college ya office ka counsellor, government hospital ki psychiatry OPD, ya Tele-MANAS 14416, jo tumhe sahi level ki care tak guide kar sakta hai. Agar suicide ke thoughts hon, ya tum so, kha ya function na kar pa rahe ho, toh seedhe psychiatrist ya emergency department jao. Agar kisi professional ke saath fit na baithe, toh change kar lena bilkul theek hai."
+  },
+  "keywords": [
+   "therapist",
+   "psychologist vs psychiatrist",
+   "counsellor kaise dhundhein",
+   "therapy kahan milegi",
+   "mental health doctor",
+   "साइकियाट्रिस्ट",
+   "काउंसलर",
+   "थेरेपी",
+   "dimaag ka doctor",
+   "मनोवैज्ञानिक",
+   "counselling",
+   "मनोचिकित्सक"
+  ],
+  "refs": [
+   "tele-manas",
+   "who-adolescent-mh"
+  ],
+  "urgent": false,
+  "lesson": "d17-l05"
+ },
+ {
+  "id": "d17-f12",
+  "domain": "d17",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My friend told me they are hurting themselves and made me promise not to tell anyone. What do I do?",
+   "hi": "मेरे दोस्त ने बताया कि वह ख़ुद को चोट पहुँचा रहा है और मुझसे वादा लिया कि किसी को नहीं बताऊँगा। मैं क्या करूँ?",
+   "hg": "Mere friend ne bataya ki woh khud ko hurt kar raha hai aur mujhse promise liya ki kisi ko nahi bataunga. Main kya karoon?"
+  },
+  "a": {
+   "en": "Take it seriously and do not carry it alone. A promise of secrecy should not be kept when someone's safety is at risk. Tell your friend kindly: 'I care about you too much to keep this secret; let us tell someone together.' Then inform a trusted adult, such as a parent, teacher or counsellor, or call Tele-MANAS on 14416. If your friend is in immediate danger, call 112 and stay with them. Listen without judging, and do not ask for details or promise to fix it. Your friend may be upset at first; getting them help is still the caring choice.",
+   "hi": "इसे गंभीरता से लो और इसे अकेले मत ढोओ। जब किसी की सुरक्षा ख़तरे में हो, तो राज़ रखने का वादा नहीं निभाना चाहिए। अपने दोस्त से प्यार से कहो: 'मुझे तुम्हारी इतनी परवाह है कि मैं यह बात छिपा नहीं सकता; चलो साथ में किसी को बताते हैं।' फिर किसी भरोसे वाले बड़े को बताओ, जैसे माता-पिता, टीचर या काउंसलर, या टेली-मानस 14416 पर कॉल करो। अगर दोस्त तुरंत ख़तरे में हो, तो 112 पर कॉल करो और उसके साथ रहो। बिना जज किए सुनो, ब्योरा मत पूछो और सब ठीक कर देने का वादा मत करो। दोस्त शुरू में नाराज़ हो सकता है; फिर भी उसे मदद दिलाना ही परवाह करने वाला क़दम है।",
+   "hg": "Isse seriously lo aur isse akele mat dhoo. Jab kisi ki safety risk mein ho, toh secret rakhne ka promise nahi nibhana chahiye. Apne friend se pyaar se bolo: 'Mujhe tumhari itni parwah hai ki main yeh secret nahi rakh sakta; chalo saath mein kisi ko batate hain.' Phir kisi trusted adult ko batao, jaise parent, teacher ya counsellor, ya Tele-MANAS 14416 par call karo. Agar friend turant danger mein ho, toh 112 par call karo aur uske saath raho. Bina judge kiye suno, details mat poochho aur sab fix kar dene ka promise mat karo. Friend shuru mein upset ho sakta hai; phir bhi usse help dilana hi caring choice hai."
+  },
+  "keywords": [
+   "friend self harm",
+   "dost khud ko hurt karta hai",
+   "friend suicidal",
+   "secret promise",
+   "dost ki madad",
+   "दोस्त ख़ुद को चोट पहुँचाता है",
+   "दोस्त की मदद",
+   "kisi ko mat batana",
+   "friend depressed",
+   "dost pareshan hai",
+   "how to help a friend"
+  ],
+  "refs": [
+   "tele-manas",
+   "mha-erss",
+   "who-adolescent-mh"
+  ],
+  "urgent": true,
+  "lesson": "d17-l03"
+ },
+ {
+  "id": "d17-f13",
+  "domain": "d17",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [],
+  "q": {
+   "en": "I go to the gym every day but still feel small and skinny, and I am thinking about taking steroids. Is something wrong with me?",
+   "hi": "मैं रोज़ जिम जाता हूँ, फिर भी ख़ुद को छोटा और दुबला महसूस करता हूँ, और स्टेरॉयड लेने की सोच रहा हूँ। क्या मुझमें कुछ गड़बड़ है?",
+   "hg": "Main roz gym jaata hoon, phir bhi khud ko chhota aur dubla feel karta hoon, aur steroids lene ki soch raha hoon. Kya mujhme kuch gadbad hai?"
+  },
+  "a": {
+   "en": "Wanting to be fit is healthy. But feeling small despite training, checking mirrors constantly, panicking over a missed workout or arranging life around gym and diet can be signs of muscle dysmorphia, a form of body dysmorphic disorder more common in boys and men. It is a problem of body image, not of muscle, so more size never settles it. Anabolic steroids carry real risks: severe acne, mood swings and aggression, heart strain, shrunken testicles and reduced fertility, and in teenagers they can stop growth early. Tell a doctor honestly what you feel and take. This is treatable, and asking is not weakness. Tele-MANAS on 14416 can also guide you.",
+   "hi": "फ़िट रहने की चाह सेहतमंद है। लेकिन कितनी भी ट्रेनिंग के बाद ख़ुद को छोटा ही महसूस करना, बार-बार आईना देखना, एक वर्कआउट छूटने पर घबरा जाना या पूरी ज़िंदगी जिम और डाइट के हिसाब से चलाना मसल डिस्मॉर्फ़िया के संकेत हो सकते हैं, जो बॉडी डिस्मॉर्फ़िक डिसऑर्डर का एक रूप है और लड़कों व पुरुषों में ज़्यादा देखा जाता है। यह शरीर की छवि (body image) की समस्या है, मसल्स की नहीं, इसलिए साइज़ कितना भी बढ़ जाए, तसल्ली नहीं होती। एनाबॉलिक स्टेरॉयड के असली जोखिम हैं: गंभीर मुँहासे, मूड में तेज़ उतार-चढ़ाव और ग़ुस्सा, दिल पर ज़ोर, अंडकोष का सिकुड़ना और फ़र्टिलिटी में कमी, और किशोरों में ये लंबाई बढ़ना जल्दी रोक सकते हैं। डॉक्टर को ईमानदारी से बताओ कि तुम क्या महसूस करते हो और क्या लेते हो। इसका इलाज होता है, और पूछना कमज़ोरी नहीं है। टेली-मानस 14416 भी तुम्हें रास्ता बता सकता है।",
+   "hg": "Fit rehne ki chaah healthy hai. Lekin kitni bhi training ke baad khud ko chhota hi feel karna, baar-baar mirror check karna, ek workout miss hone pe panic karna ya poori life gym aur diet ke hisaab se chalana muscle dysmorphia ke signs ho sakte hain, jo body dysmorphic disorder ka ek form hai aur ladkon aur men mein zyada dekha jata hai. Yeh body image ki problem hai, muscles ki nahi, isliye size kitna bhi badh jaye, tasalli nahi hoti. Anabolic steroids ke real risks hain: severe acne, mood swings aur aggression, heart pe strain, testicles ka shrink hona aur fertility kam hona, aur teenagers mein yeh growth jaldi rok sakte hain. Doctor ko honestly batao ki tum kya feel karte ho aur kya lete ho. Yeh treatable hai, aur poochna weakness nahi hai. Tele-MANAS 14416 bhi tumhe guide kar sakta hai."
+  },
+  "keywords": [
+   "muscle dysmorphia",
+   "gym addiction",
+   "body nahi ban rahi",
+   "steroids side effects",
+   "steroid lena chahiye ya nahi",
+   "dubla patla ladka",
+   "bigorexia",
+   "स्टेरॉयड के नुक़सान",
+   "बॉडी नहीं बन रही",
+   "दुबला पतला लड़का",
+   "body dysmorphia men",
+   "gym ke baad bhi patla"
+  ],
+  "refs": [
+   "nhs-eating-disorders",
+   "who-adolescent-mh",
+   "tele-manas"
+  ],
+  "urgent": false,
+  "lesson": "d17-l06"
+ },
+ {
+  "id": "d17-f14",
+  "domain": "d17",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My friend keeps saying he is a burden and has started giving away his things. I am scared but do not want to overreact. What do I do?",
+   "hi": "मेरा दोस्त बार-बार कहता है कि वह सब पर बोझ है और उसने अपनी चीज़ें लोगों को देनी शुरू कर दी हैं। मुझे डर लग रहा है, पर मैं बात का बतंगड़ भी नहीं बनाना चाहता। मैं क्या करूँ?",
+   "hg": "Mera dost baar-baar kehta hai ki woh sab pe burden hai aur usne apni cheezein logon ko deni shuru kar di hain. Mujhe darr lag raha hai, par main overreact bhi nahi karna chahta. Main kya karoon?"
+  },
+  "a": {
+   "en": "You are not overreacting; these are recognised warning signs of suicide. Talk to him privately today and ask plainly: 'Are you thinking about suicide?' Asking does not put the idea in his head; it shows that someone noticed. Listen more than you speak, and do not argue, lecture or promise to keep it secret. If he says yes, stay with him, keep him away from anything he could use to hurt himself, and call Tele-MANAS on 14416 together or bring in a family member or doctor. If he may act soon, call 112 and do not leave him alone. Then tell a trusted adult; you should not carry this alone.",
+   "hi": "तुम बात का बतंगड़ नहीं बना रहे; ये आत्महत्या के जाने-माने चेतावनी संकेत हैं। आज ही उससे अकेले में बात करो और साफ़ शब्दों में पूछो: 'क्या तुम आत्महत्या के बारे में सोच रहे हो?' पूछने से यह ख़याल उसके दिमाग़ में नहीं बैठता; इससे उसे पता चलता है कि किसी ने ध्यान दिया। बोलो कम, सुनो ज़्यादा, और बहस मत करो, भाषण मत दो, न ही राज़ रखने का वादा करो। अगर वह हाँ कहे, तो उसके साथ रहो, उसे हर उस चीज़ से दूर रखो जिससे वह ख़ुद को चोट पहुँचा सकता है, और साथ मिलकर टेली-मानस 14416 पर कॉल करो या परिवार के किसी सदस्य या डॉक्टर को बुलाओ। अगर लगे कि वह जल्द कुछ कर सकता है, तो 112 पर कॉल करो और उसे अकेला मत छोड़ो। फिर ख़ुद भी किसी भरोसेमंद बड़े को बताओ; यह बोझ तुम्हें अकेले नहीं उठाना चाहिए।",
+   "hg": "Tum overreact nahi kar rahe; yeh suicide ke recognised warning signs hain. Aaj hi usse akele mein baat karo aur seedhe words mein poocho: 'Kya tum suicide ke baare mein soch rahe ho?' Poochne se yeh idea uske dimaag mein nahi baithta; isse use pata chalta hai ki kisi ne notice kiya. Bolo kam, suno zyada, aur argue mat karo, lecture mat do, na hi secret rakhne ka promise karo. Agar woh haan bole, toh uske saath raho, use har us cheez se door rakho jisse woh khud ko hurt kar sakta hai, aur saath milke Tele-MANAS 14416 pe call karo ya family ke kisi member ya doctor ko bulao. Agar lage ki woh jaldi kuch kar sakta hai, toh 112 pe call karo aur use akela mat chhodo. Phir khud bhi kisi trusted adult ko batao; yeh bojh tumhe akele nahi uthana chahiye."
+  },
+  "keywords": [
+   "suicide warning signs",
+   "dost suicide ki baat karta hai",
+   "friend wants to die",
+   "dost ko kaise bachaye",
+   "burden feel karta hai",
+   "आत्महत्या के संकेत",
+   "दोस्त मरने की बात करता है",
+   "दोस्त को कैसे बचाएँ",
+   "suicide helpline india",
+   "14416",
+   "kisi ko suicide se kaise roke",
+   "bojh hoon bolta hai"
+  ],
+  "refs": [
+   "who-suicide",
+   "tele-manas",
+   "mha-erss"
+  ],
+  "urgent": true,
+  "lesson": "d17-l06"
+ },
+ {
+  "id": "d17-f15",
+  "domain": "d17",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Something was done to me years ago and I still feel dirty and ashamed, as if it was my fault. Will this feeling ever go away?",
+   "hi": "बरसों पहले मेरे साथ कुछ किया गया था और आज भी मुझे अपने आप में गंदगी और शर्म महसूस होती है, जैसे ग़लती मेरी थी। क्या यह एहसास कभी जाएगा?",
+   "hg": "Saalon pehle mere saath kuch kiya gaya tha aur aaj bhi mujhe ganda aur ashamed feel hota hai, jaise galti meri thi. Kya yeh feeling kabhi jayegi?"
+  },
+  "a": {
+   "en": "It can ease, and it was not your fault. Whether you froze, stayed silent, went back or your body reacted, responsibility lies with the person who harmed you. Shame after abuse is extremely common in survivors of every gender, and it grows in silence. Telling one safe person, such as a friend, doctor or counsellor, is often the turning point, and trauma-focused therapy helps many. Start with a free call to Tele-MANAS on 14416, or 1098 if under 18; helpers may then need to report it to keep you safe. There is no deadline for healing. If shame turns into thoughts of ending your life, call 14416 or 112 now.",
+   "hi": "यह एहसास हल्का हो सकता है, और ग़लती तुम्हारी नहीं थी। तुमने जो भी किया या नहीं किया, चाहे तुम सुन्न पड़ गए, चुप रहे, दोबारा वहाँ गए या तुम्हारे शरीर ने प्रतिक्रिया दी, ज़िम्मेदारी उसी की है जिसने तुम्हें नुक़सान पहुँचाया। शोषण के बाद शर्म हर जेंडर के सर्वाइवरों में बेहद आम है, और यह चुप्पी में बढ़ती है। किसी एक सुरक्षित इंसान को बताना, जैसे कोई दोस्त, डॉक्टर या काउंसलर, अक्सर वह मोड़ होता है जहाँ से चीज़ें बदलती हैं, और सदमे पर केंद्रित थेरेपी (trauma-focused therapy) बहुत लोगों की मदद करती है। तुम टेली-मानस 14416 पर मुफ़्त कॉल से शुरुआत कर सकते हो, या 18 से कम उम्र हो तो 1098 से, जहाँ मदद करने वालों को तुम्हें सुरक्षित रखने के लिए सूचना देनी पड़ सकती है। ठीक होने की कोई समय-सीमा नहीं होती। अगर शर्म अपनी जान लेने के ख़यालों में बदलने लगे, तो अभी 14416 या 112 पर कॉल करो।",
+   "hg": "Yeh feeling halki ho sakti hai, aur galti tumhari nahi thi. Tumne jo bhi kiya ya nahi kiya, chahe tum freeze ho gaye, chup rahe, dobara wahan gaye ya tumhari body ne react kiya, zimmedaari usi ki hai jisne tumhe harm kiya. Abuse ke baad shame har gender ke survivors mein bahut common hai, aur yeh chuppi mein badhti hai. Kisi ek safe insaan ko batana, jaise koi dost, doctor ya counsellor, aksar turning point hota hai, aur trauma-focused therapy bahut logon ki help karti hai. Tum Tele-MANAS 14416 pe free call se start kar sakte ho, ya 18 se kam ho toh 1098 se, jahan helpers ko tumhe safe rakhne ke liye report karna pad sakta hai. Heal hone ki koi deadline nahi hoti. Agar shame apni jaan lene ke thoughts mein badalne lage, toh abhi 14416 ya 112 pe call karo."
+  },
+  "keywords": [
+   "shame after abuse",
+   "abuse ke baad sharam",
+   "meri galti thi kya",
+   "ganda feel hota hai",
+   "bachpan mein abuse hua tha",
+   "यौन शोषण के बाद शर्म",
+   "क्या मेरी ग़लती थी",
+   "बचपन में शोषण",
+   "childhood abuse trauma",
+   "kisi ko bata nahi paya",
+   "male survivor",
+   "abuse survivor guilt"
+  ],
+  "refs": [
+   "who-child-maltreatment",
+   "who-vaw",
+   "tele-manas",
+   "wcd-childline"
+  ],
+  "urgent": true,
+  "lesson": "d17-l06"
+ }
+]

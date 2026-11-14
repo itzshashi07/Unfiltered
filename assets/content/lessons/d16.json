@@ -1,0 +1,1434 @@
+[
+ {
+  "id": "d16-l01",
+  "domain": "d16",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 1,
+  "minutes": 6,
+  "unesco": [
+   2,
+   4
+  ],
+  "title": {
+   "en": "Laws That Protect You",
+   "hi": "क़ानून जो तुम्हारी हिफ़ाज़त करते हैं",
+   "hg": "Laws Jo Tumhe Protect Karte Hain"
+  },
+  "subtitle": {
+   "en": "What India's child protection law says, in simple words",
+   "hi": "भारत का बाल सुरक्षा क़ानून क्या कहता है, आसान शब्दों में",
+   "hg": "India ka child protection law kya kehta hai, simple words mein"
+  },
+  "hook": {
+   "en": "India has a law written only to keep children safe. It is on your side, not on the side of the person who does harm.",
+   "hi": "भारत में एक क़ानून सिर्फ़ बच्चों को सुरक्षित रखने के लिए लिखा गया है। वह तुम्हारी तरफ़ है, नुक़सान पहुँचाने वाले की तरफ़ नहीं।",
+   "hg": "India mein ek law sirf bachchon ko safe rakhne ke liye likha gaya hai. Woh tumhari side hai, harm karne wale ki side nahi."
+  },
+  "objectives": [
+   {
+    "en": "Say what the POCSO Act is and who counts as a child under it.",
+    "hi": "बता पाना कि पॉक्सो क़ानून क्या है और उसमें बच्चा किसे माना गया है।",
+    "hg": "Bata paana ki POCSO Act kya hai aur usme child kise maana gaya hai."
+   },
+   {
+    "en": "Describe how the law tries to make reporting gentle and private for children.",
+    "hi": "बता पाना कि क़ानून बच्चों के लिए शिकायत की प्रक्रिया को नरम और निजी कैसे बनाता है।",
+    "hg": "Bata paana ki law bachchon ke liye reporting ko gentle aur private kaise banata hai."
+   },
+   {
+    "en": "Know that adults must report abuse, and which numbers to call.",
+    "hi": "जानना कि बड़ों के लिए शोषण की सूचना देना ज़रूरी है, और किन नंबरों पर फ़ोन करना है।",
+    "hg": "Jaanna ki adults ke liye abuse report karna zaroori hai, aur kin numbers par call karna hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "A special law for children",
+     "hi": "बच्चों के लिए एक ख़ास क़ानून",
+     "hg": "Bachchon ke liye ek special law"
+    },
+    "body": {
+     "en": "India has a law made only to protect children from sexual harm: the POCSO Act, 2012. In this law, a 'child' means anyone under 18, whether a girl, a boy or any other child. It says nobody may touch a child's private parts in a sexual way, make a child touch theirs, show a child pictures or videos meant only for adults, or say sexual things to a child. It does not matter who the person is: a stranger, a relative, a teacher or an older student. That person is the one in the wrong. A doctor checking your health, with a trusted adult present, is different.",
+     "hi": "भारत में एक क़ानून सिर्फ़ बच्चों को यौन नुक़सान से बचाने के लिए बना है: पॉक्सो क़ानून (POCSO Act, 2012)। इस क़ानून में 'बच्चा' वह हर इंसान है जिसकी उम्र 18 से कम है, चाहे लड़की हो, लड़का हो या कोई और बच्चा। यह कहता है कि कोई भी बच्चे के निजी अंगों को यौन इरादे से नहीं छू सकता, बच्चे से अपने निजी अंग नहीं छुआ सकता, बच्चे को सिर्फ़ बड़ों के लिए बनी तस्वीरें या वीडियो नहीं दिखा सकता, और बच्चे से यौन बातें नहीं कह सकता। इससे फ़र्क़ नहीं पड़ता कि वह इंसान कौन है: अजनबी, रिश्तेदार, टीचर या कोई बड़ा छात्र। ग़लत वही इंसान है। किसी भरोसेमंद बड़े की मौजूदगी में डॉक्टर का तुम्हारी सेहत जाँचना अलग बात है।",
+     "hg": "India mein ek law sirf bachchon ko sexual harm se bachane ke liye bana hai: POCSO Act, 2012. Is law mein 'child' woh har insaan hai jiski umar 18 se kam hai, chahe ladki ho, ladka ho ya koi aur bachcha. Yeh kehta hai ki koi bhi bachche ke private parts ko sexual way mein touch nahi kar sakta, bachche se apne private parts touch nahi karwa sakta, bachche ko sirf adults ke liye bani pictures ya videos nahi dikha sakta, aur bachche se sexual baatein nahi bol sakta. Isse fark nahi padta ki woh insaan kaun hai: stranger, relative, teacher ya koi bada student. Galat wahi insaan hai. Kisi trusted adult ke saamne doctor ka tumhari health check karna alag baat hai."
+    }
+   },
+   {
+    "h": {
+     "en": "The law tries to be gentle with children",
+     "hi": "क़ानून बच्चों के साथ नरमी बरतने की कोशिश करता है",
+     "hg": "Law bachchon ke saath gentle rehne ki koshish karta hai"
+    },
+    "body": {
+     "en": "When a child tells, the law says the process must be child-friendly. The child's statement is recorded at home or at another place where the child feels comfortable, as far as possible by a woman police officer, and the officer should not be in uniform. A parent or another person the child trusts can stay close. A child must not be kept at a police station overnight. Special courts hear these cases, away from the public. Newspapers, TV channels and websites are not allowed to reveal the child's name, photo, school or address.",
+     "hi": "जब कोई बच्चा बताता है, तो क़ानून कहता है कि पूरी प्रक्रिया बच्चे के अनुकूल होनी चाहिए। बच्चे का बयान घर पर या ऐसी किसी और जगह दर्ज किया जाता है जहाँ बच्चा सहज महसूस करे, जहाँ तक हो सके किसी महिला पुलिस अधिकारी द्वारा, और अधिकारी को वर्दी में नहीं होना चाहिए। मम्मी-पापा या कोई और इंसान जिस पर बच्चे को भरोसा है, पास रह सकता है। बच्चे को रात भर थाने में नहीं रखा जा सकता। ऐसे मामलों की सुनवाई विशेष अदालतों में, आम लोगों से दूर होती है। अख़बार, टीवी चैनल और वेबसाइट बच्चे का नाम, फ़ोटो, स्कूल या पता ज़ाहिर नहीं कर सकते।",
+     "hg": "Jab koi bachcha batata hai, toh law kehta hai ki poora process child-friendly hona chahiye. Bachche ka statement ghar par ya aisi kisi aur jagah record kiya jaata hai jahan bachcha comfortable feel kare, jahan tak ho sake kisi woman police officer dwara, aur officer ko uniform mein nahi hona chahiye. Parents ya koi aur insaan jis par bachche ko trust hai, paas reh sakta hai. Bachche ko raat bhar police station mein nahi rakha ja sakta. Aise cases ki sunwai special courts mein, public se door hoti hai. Newspapers, TV channels aur websites bachche ka naam, photo, school ya address reveal nahi kar sakte."
+    }
+   },
+   {
+    "h": {
+     "en": "Adults have a duty to report",
+     "hi": "बड़ों का फ़र्ज़ है सूचना देना",
+     "hg": "Adults ki duty hai report karna"
+    },
+    "body": {
+     "en": "Under POCSO, any person who knows that a child has been sexually harmed must tell the police or the Special Juvenile Police Unit. This is called mandatory reporting. So if you tell a teacher, a doctor or a counsellor, they cannot keep it completely secret. They must pass it on so that you can be protected, and they should explain this to you kindly. You will not be punished for telling, for telling late, or for what someone else did to you. If the first adult does not listen, tell another. You can also call 1098, the Child Helpline, or 112 in an emergency. Both are free.",
+     "hi": "पॉक्सो के तहत, जिस भी इंसान को पता हो कि किसी बच्चे के साथ यौन नुक़सान हुआ है, उसे पुलिस या विशेष किशोर पुलिस इकाई को बताना ही होगा। इसे अनिवार्य रिपोर्टिंग (mandatory reporting) कहते हैं। इसलिए अगर तुम किसी टीचर, डॉक्टर या काउंसलर को बताते हो, तो वे इसे पूरी तरह राज़ नहीं रख सकते। उन्हें आगे बताना होगा ताकि तुम्हारी हिफ़ाज़त हो सके, और उन्हें यह बात तुम्हें प्यार से समझानी चाहिए। बताने पर, देर से बताने पर, या किसी और के किए पर तुम्हें सज़ा नहीं मिलेगी। अगर पहला बड़ा न सुने, तो किसी और को बताओ। तुम चाइल्ड हेल्पलाइन 1098 पर, या आपात स्थिति में 112 पर भी फ़ोन कर सकते हो। दोनों मुफ़्त हैं।",
+     "hg": "POCSO ke under, jis bhi insaan ko pata ho ki kisi bachche ke saath sexual harm hua hai, usse police ya Special Juvenile Police Unit ko batana hi hoga. Isse mandatory reporting kehte hain. Isliye agar tum kisi teacher, doctor ya counsellor ko batate ho, toh woh isse poori tarah secret nahi rakh sakte. Unhe aage batana hoga taaki tumhari protection ho sake, aur unhe yeh baat tumhe pyaar se samjhani chahiye. Batane par, der se batane par, ya kisi aur ke kiye par tumhe saza nahi milegi. Agar pehla adult na sune, toh kisi aur ko batao. Tum Child Helpline 1098 par, ya emergency mein 112 par bhi call kar sakte ho. Dono free hain."
+    }
+   },
+   {
+    "h": {
+     "en": "An honest note about this lesson",
+     "hi": "इस पाठ के बारे में एक ईमानदार बात",
+     "hg": "Is lesson ke baare mein ek honest note"
+    },
+    "body": {
+     "en": "This lesson is about the law in India only; other countries have different rules. It explains the POCSO Act in simple words and leaves out many details. Parliament and the courts can change laws, so some points may be different after 14 November 2026, when this lesson was last updated. It is general information to help you understand your rights. It is not legal advice, and it has not yet been checked by a lawyer. For a real situation, a trusted adult, the Child Helpline 1098 or a legal aid lawyer can guide you. The official text of the Act is listed in this lesson's sources.",
+     "hi": "यह पाठ सिर्फ़ भारत के क़ानून के बारे में है; दूसरे देशों के नियम अलग हैं। यह पॉक्सो क़ानून को आसान शब्दों में समझाता है और बहुत-सी बारीकियाँ छोड़ देता है। संसद और अदालतें क़ानून बदल सकती हैं, इसलिए 14 नवंबर 2026 के बाद, जब यह पाठ आख़िरी बार अपडेट हुआ, कुछ बातें अलग हो सकती हैं। यह सामान्य जानकारी है ताकि तुम अपने अधिकार समझ सको। यह क़ानूनी सलाह नहीं है, और अभी किसी वकील ने इसकी जाँच नहीं की है। असल स्थिति में कोई भरोसेमंद बड़ा, चाइल्ड हेल्पलाइन 1098 या क़ानूनी सहायता वाला वकील तुम्हें रास्ता दिखा सकता है। क़ानून का आधिकारिक पाठ इस पाठ के स्रोतों में दिया गया है।",
+     "hg": "Yeh lesson sirf India ke law ke baare mein hai; doosre countries ke rules alag hain. Yeh POCSO Act ko simple words mein samjhata hai aur bahut si details chhod deta hai. Parliament aur courts laws badal sakte hain, isliye 14 November 2026 ke baad, jab yeh lesson last update hua, kuch points alag ho sakte hain. Yeh general information hai taaki tum apne rights samajh sako. Yeh legal advice nahi hai, aur abhi kisi lawyer ne isse check nahi kiya hai. Real situation mein koi trusted adult, Child Helpline 1098 ya legal aid lawyer tumhe guide kar sakta hai. Act ka official text is lesson ke sources mein diya gaya hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Laws are only for grown-ups. Children do not have rights of their own.",
+    "hi": "क़ानून सिर्फ़ बड़ों के लिए होते हैं। बच्चों के अपने कोई अधिकार नहीं होते।",
+    "hg": "Laws sirf bade logon ke liye hote hain. Bachchon ke apne koi rights nahi hote."
+   },
+   "fact": {
+    "en": "Children have their own rights under Indian law, including the right to be safe from abuse. The POCSO Act was written specifically for people under 18.",
+    "hi": "भारतीय क़ानून में बच्चों के अपने अधिकार हैं, जिनमें शोषण से सुरक्षित रहने का अधिकार शामिल है। पॉक्सो क़ानून ख़ास तौर पर 18 से कम उम्र के लोगों के लिए ही लिखा गया है।",
+    "hg": "Indian law mein bachchon ke apne rights hain, jisme abuse se safe rehne ka right shaamil hai. POCSO Act specifically 18 se kam umar ke logon ke liye hi likha gaya hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "In Indian law, everyone under 18 is a child and is protected by the POCSO Act.",
+    "hi": "भारतीय क़ानून में 18 से कम उम्र का हर इंसान बच्चा है और पॉक्सो क़ानून से सुरक्षित है।",
+    "hg": "Indian law mein 18 se kam umar ka har insaan child hai aur POCSO Act se protected hai."
+   },
+   {
+    "en": "Adults who know a child has been sexually harmed must report it, so they cannot promise full secrecy.",
+    "hi": "जिन बड़ों को पता हो कि किसी बच्चे के साथ यौन नुक़सान हुआ है, उन्हें इसकी सूचना देनी ही होती है, इसलिए वे पूरी गोपनीयता का वादा नहीं कर सकते।",
+    "hg": "Jin adults ko pata ho ki kisi bachche ke saath sexual harm hua hai, unhe isse report karna hi hota hai, isliye woh poori secrecy ka promise nahi kar sakte."
+   },
+   {
+    "en": "You can call 1098 or 112, and you will never be punished for telling.",
+    "hi": "तुम 1098 या 112 पर फ़ोन कर सकते हो, और बताने पर तुम्हें कभी सज़ा नहीं मिलेगी।",
+    "hg": "Tum 1098 ya 112 par call kar sakte ho, aur batane par tumhe kabhi saza nahi milegi."
+   }
+  ],
+  "activity": {
+   "en": "Write 1098 and 112 on a small card, along with the names of two adults you trust. Keep the card in your school bag.",
+   "hi": "एक छोटे कार्ड पर 1098 और 112 लिखो, साथ में दो भरोसेमंद बड़ों के नाम। यह कार्ड अपने स्कूल बैग में रखो।",
+   "hg": "Ek chhote card par 1098 aur 112 likho, saath mein do trusted adults ke naam. Yeh card apne school bag mein rakho."
+  },
+  "interactive": "support_circle",
+  "quiz": [
+   {
+    "id": "d16-l01-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Under the POCSO Act, a 'child' is anyone under what age?",
+     "hi": "पॉक्सो क़ानून में 'बच्चा' किस उम्र से कम के हर इंसान को माना गया है?",
+     "hg": "POCSO Act mein 'child' kis age se kam ke har insaan ko maana gaya hai?"
+    },
+    "options": [
+     {
+      "en": "Under 12",
+      "hi": "12 साल से कम",
+      "hg": "12 saal se kam"
+     },
+     {
+      "en": "Under 16",
+      "hi": "16 साल से कम",
+      "hg": "16 saal se kam"
+     },
+     {
+      "en": "Under 18",
+      "hi": "18 साल से कम",
+      "hg": "18 saal se kam"
+     },
+     {
+      "en": "Under 21",
+      "hi": "21 साल से कम",
+      "hg": "21 saal se kam"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "POCSO protects every person under 18, so a 17-year-old is also a child in this law.",
+     "hi": "पॉक्सो 18 से कम उम्र के हर इंसान की हिफ़ाज़त करता है, इसलिए 17 साल का इंसान भी इस क़ानून में बच्चा है।",
+     "hg": "POCSO 18 se kam umar ke har insaan ko protect karta hai, isliye 17 saal ka insaan bhi is law mein child hai."
+    }
+   },
+   {
+    "id": "d16-l01-q2",
+    "type": "tf",
+    "q": {
+     "en": "Newspapers and TV channels are not allowed to reveal the name or school of a child in a POCSO case.",
+     "hi": "अख़बार और टीवी चैनल पॉक्सो मामले से जुड़े बच्चे का नाम या स्कूल ज़ाहिर नहीं कर सकते।",
+     "hg": "Newspapers aur TV channels POCSO case se jude bachche ka naam ya school reveal nahi kar sakte."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "The law protects the child's privacy, so the media may not publish anything that reveals who the child is.",
+     "hi": "क़ानून बच्चे की निजता की रक्षा करता है, इसलिए मीडिया ऐसा कुछ नहीं छाप या दिखा सकता जिससे पता चले कि बच्चा कौन है।",
+     "hg": "Law bachche ki privacy protect karta hai, isliye media aisa kuch publish nahi kar sakta jisse pata chale ki bachcha kaun hai."
+    }
+   }
+  ],
+  "refs": [
+   "pocso-2012",
+   "wcd-childline",
+   "mha-erss"
+  ],
+  "warning": {
+   "en": "This is general information about Indian law, not legal advice, and it has not yet been reviewed by a lawyer. Laws can change. If someone is harming you, tell a trusted adult or call 1098.",
+   "hi": "यह भारतीय क़ानून के बारे में सामान्य जानकारी है, क़ानूनी सलाह नहीं, और अभी किसी वकील ने इसकी समीक्षा नहीं की है। क़ानून बदल सकते हैं। अगर कोई तुम्हें नुक़सान पहुँचा रहा है, तो किसी भरोसेमंद बड़े को बताओ या 1098 पर फ़ोन करो।",
+   "hg": "Yeh Indian law ke baare mein general information hai, legal advice nahi, aur abhi kisi lawyer ne isse review nahi kiya hai. Laws badal sakte hain. Agar koi tumhe harm kar raha hai, toh kisi trusted adult ko batao ya 1098 par call karo."
+  },
+  "sensitive": true,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14",
+  "laws": [
+   {
+    "en": "POCSO Act, 2012",
+    "hi": "लैंगिक अपराधों से बालकों का संरक्षण (पॉक्सो) अधिनियम, 2012",
+    "hg": "POCSO Act, 2012"
+   }
+  ]
+ },
+ {
+  "id": "d16-l02",
+  "domain": "d16",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   2,
+   4
+  ],
+  "title": {
+   "en": "POCSO, Plainly: Age 18, Reporting and Your Privacy",
+   "hi": "पॉक्सो, सीधी भाषा में: 18 की उम्र, रिपोर्टिंग और तुम्हारी निजता",
+   "hg": "POCSO, Seedhi Baat: Age 18, Reporting aur Tumhari Privacy"
+  },
+  "subtitle": {
+   "en": "What the Act covers, why 'we agreed' changes nothing, and who must report",
+   "hi": "क़ानून में क्या-क्या आता है, 'हम राज़ी थे' से कुछ क्यों नहीं बदलता, और सूचना देना किसका फ़र्ज़ है",
+   "hg": "Act mein kya-kya aata hai, 'hum raazi the' se kuch kyun nahi badalta, aur report karna kiski duty hai"
+  },
+  "hook": {
+   "en": "One number runs through this whole law: 18. Below it, the law does not ask whether you agreed.",
+   "hi": "इस पूरे क़ानून में एक ही संख्या चलती है: 18। उससे नीचे क़ानून यह पूछता ही नहीं कि तुम राज़ी थे या नहीं।",
+   "hg": "Is poore law mein ek hi number chalta hai: 18. Usse neeche law yeh poochta hi nahi ki tum raazi the ya nahi."
+  },
+  "objectives": [
+   {
+    "en": "List the kinds of acts the POCSO Act covers.",
+    "hi": "गिना पाना कि पॉक्सो क़ानून में किस तरह के कृत्य आते हैं।",
+    "hg": "Gina paana ki POCSO Act mein kis tarah ke acts aate hain."
+   },
+   {
+    "en": "Explain why a minor's agreement is not consent under Indian law.",
+    "hi": "समझा पाना कि भारतीय क़ानून में नाबालिग की रज़ामंदी सहमति क्यों नहीं है।",
+    "hg": "Samjha paana ki Indian law mein minor ka agreement consent kyun nahi hai."
+   },
+   {
+    "en": "Describe mandatory reporting and what it means for confidentiality.",
+    "hi": "बता पाना कि अनिवार्य रिपोर्टिंग क्या है और गोपनीयता पर इसका क्या असर पड़ता है।",
+    "hg": "Bata paana ki mandatory reporting kya hai aur confidentiality par iska kya asar padta hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "What POCSO covers",
+     "hi": "पॉक्सो में क्या-क्या आता है",
+     "hg": "POCSO mein kya-kya aata hai"
+    },
+    "body": {
+     "en": "Jurisdiction: India. Law: the Protection of Children from Sexual Offences Act, 2012. It protects every person under 18, of any gender. It covers penetrative sexual assault; sexual assault, meaning sexual touching without penetration; sexual harassment, such as sexual remarks or gestures, showing pornography to a child, or repeatedly following or contacting a child, including online; and using a child in pornographic material. An offence is treated as more serious when it is committed by someone in a position of trust or authority, such as a relative, a teacher, a police officer or staff of an institution. Attempting an offence, or helping someone else commit one, is also punishable.",
+     "hi": "अधिकार क्षेत्र: भारत। क़ानून: लैंगिक अपराधों से बालकों का संरक्षण अधिनियम (POCSO Act), 2012। यह 18 से कम उम्र के हर इंसान की हिफ़ाज़त करता है, जेंडर चाहे जो हो। इसमें आते हैं: प्रवेशन वाला यौन हमला; यौन हमला, यानी बिना प्रवेशन के यौन स्पर्श; यौन उत्पीड़न, जैसे यौन टिप्पणी या इशारे, बच्चे को पोर्नोग्राफ़ी दिखाना, या बच्चे का बार-बार पीछा करना या उससे संपर्क करना, ऑनलाइन भी; और बच्चे का पोर्नोग्राफ़िक सामग्री में इस्तेमाल। जब अपराध करने वाला भरोसे या अधिकार की जगह पर हो, जैसे रिश्तेदार, टीचर, पुलिस अधिकारी या किसी संस्था का कर्मचारी, तो अपराध को ज़्यादा गंभीर माना जाता है। अपराध की कोशिश करना, या किसी और की इसमें मदद करना भी सज़ा के लायक़ है।",
+     "hg": "Jurisdiction: India. Law: Protection of Children from Sexual Offences Act (POCSO), 2012. Yeh 18 se kam umar ke har insaan ko protect karta hai, gender chahe jo ho. Isme aate hain: penetrative sexual assault; sexual assault, yaani bina penetration ke sexual touch; sexual harassment, jaise sexual remarks ya gestures, bachche ko pornography dikhana, ya bachche ka baar-baar peecha karna ya usse contact karna, online bhi; aur bachche ka pornographic material mein use. Jab offence karne wala trust ya authority ki position mein ho, jaise relative, teacher, police officer ya kisi institution ka staff, toh offence ko zyada serious maana jaata hai. Offence ki koshish karna, ya kisi aur ki isme help karna bhi punishable hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Why 'we both agreed' does not change the law",
+     "hi": "'हम दोनों राज़ी थे' से क़ानून क्यों नहीं बदलता",
+     "hg": "'Hum dono raazi the' se law kyun nahi badalta"
+    },
+    "body": {
+     "en": "POCSO has no concept of a child's consent. Any sexual act with a person under 18 is an offence even if the young person agreed, and there is no exception for a boyfriend or girlfriend close in age. When the accused is also under 18, the case starts in the juvenile justice system, but it is still a case, and for the most serious offences a 16- or 17-year-old can be assessed and tried as an adult. The law punishes sexual acts, not crushes, friendships or relationships. How the law should treat close-in-age teenagers is debated, but for now the line is 18. Waiting is a fully valid choice.",
+     "hi": "पॉक्सो में बच्चे की सहमति जैसी कोई चीज़ है ही नहीं। 18 से कम उम्र के किसी भी इंसान के साथ कोई भी यौन कृत्य अपराध है, चाहे वह राज़ी रहा हो या नहीं, और उम्र में क़रीब बॉयफ्रेंड या गर्लफ्रेंड के लिए कोई छूट नहीं है। जब आरोपी भी 18 से कम उम्र का हो, तो मामला किशोर न्याय व्यवस्था में शुरू होता है, पर मामला फिर भी बनता है, और सबसे गंभीर अपराधों में 16 या 17 साल के आरोपी का आकलन करके उस पर वयस्क की तरह मुक़दमा चलाया जा सकता है। क़ानून यौन कृत्यों की सज़ा देता है, क्रश, दोस्ती या रिलेशनशिप की नहीं। उम्र में क़रीब किशोरों के साथ क़ानून कैसे पेश आए, इस पर बहस जारी है, लेकिन फ़िलहाल लकीर 18 ही है। इंतज़ार करना पूरी तरह सही विकल्प है।",
+     "hg": "POCSO mein child ke consent jaisa koi concept hai hi nahi. 18 se kam umar ke kisi bhi insaan ke saath koi bhi sexual act offence hai, chahe woh raazi raha ho ya nahi, aur age mein close boyfriend ya girlfriend ke liye koi exception nahi hai. Jab accused bhi 18 se kam umar ka ho, toh case juvenile justice system mein shuru hota hai, par case phir bhi banta hai, aur sabse serious offences mein 16 ya 17 saal ke accused ka assessment karke us par adult ki tarah trial chal sakta hai. Law sexual acts ki saza deta hai, crush, dosti ya relationship ki nahi. Age mein close teenagers ke saath law kaise deal kare, is par debate chal rahi hai, lekin filhaal line 18 hi hai. Wait karna poori tarah valid choice hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Mandatory reporting and what adults can promise",
+     "hi": "अनिवार्य रिपोर्टिंग और बड़े क्या वादा कर सकते हैं",
+     "hg": "Mandatory reporting aur adults kya promise kar sakte hain"
+    },
+    "body": {
+     "en": "Anyone who knows that an offence under POCSO has happened, or has reason to fear that one is likely, must inform the local police or the Special Juvenile Police Unit. An adult who fails to report can be punished; a child is not punished for not reporting. This is why a doctor, teacher or counsellor can keep most things you say private but cannot promise secrecy about sexual abuse or sexual activity involving someone under 18. A good professional tells you this before you speak, explains what they will report and to whom, and stays with you. The media may not disclose a child's identity.",
+     "hi": "जिसे भी पता हो कि पॉक्सो के तहत कोई अपराध हुआ है, या जिसके पास यह डर होने की वजह हो कि ऐसा होने वाला है, उसे स्थानीय पुलिस या विशेष किशोर पुलिस इकाई को सूचना देनी ही होगी। जो वयस्क सूचना नहीं देता उसे सज़ा हो सकती है; बच्चे को सूचना न देने पर सज़ा नहीं होती। इसी वजह से डॉक्टर, टीचर या काउंसलर तुम्हारी ज़्यादातर बातें निजी रख सकते हैं, लेकिन 18 से कम उम्र के किसी इंसान से जुड़े यौन शोषण या यौन गतिविधि के बारे में गोपनीयता का वादा नहीं कर सकते। एक अच्छा पेशेवर यह बात तुम्हारे बोलने से पहले बता देता है, समझाता है कि वह क्या और किसे बताएगा, और तुम्हारे साथ बना रहता है। मीडिया बच्चे की पहचान ज़ाहिर नहीं कर सकता।",
+     "hg": "Jise bhi pata ho ki POCSO ke under koi offence hua hai, ya jiske paas yeh darr hone ki wajah ho ki aisa hone wala hai, usse local police ya Special Juvenile Police Unit ko inform karna hi hoga. Jo adult report nahi karta usse saza ho sakti hai; child ko report na karne par saza nahi hoti. Isi wajah se doctor, teacher ya counsellor tumhari zyadatar baatein private rakh sakte hain, lekin 18 se kam umar ke kisi insaan se jude sexual abuse ya sexual activity ke baare mein secrecy ka promise nahi kar sakte. Ek accha professional yeh baat tumhare bolne se pehle bata deta hai, samjhata hai ki woh kya aur kise report karega, aur tumhare saath bana rehta hai. Media child ki identity disclose nahi kar sakta."
+    }
+   },
+   {
+    "h": {
+     "en": "Status of this lesson",
+     "hi": "इस पाठ की स्थिति",
+     "hg": "Is lesson ka status"
+    },
+    "body": {
+     "en": "This lesson applies to India only and describes the POCSO Act, 2012, with a brief mention of the juvenile justice system. It is a simplified explanation and leaves out procedure, punishments and exceptions that matter in real cases. It was last updated on 14 November 2026 and is awaiting review by a lawyer, so treat it as general information, not legal advice. Parliament can amend the Act, and court rulings can change how it is applied. For a real situation, speak to a trusted adult, the Child Helpline 1098, or a lawyer through your District Legal Services Authority. The official text is linked in the sources.",
+     "hi": "यह पाठ सिर्फ़ भारत पर लागू होता है और पॉक्सो क़ानून, 2012 के बारे में बताता है, साथ में किशोर न्याय व्यवस्था का छोटा-सा ज़िक्र है। यह सरल बनाई गई व्याख्या है और इसमें प्रक्रिया, सज़ाएँ और अपवाद छूटे हुए हैं, जो असली मामलों में मायने रखते हैं। इसे आख़िरी बार 14 नवंबर 2026 को अपडेट किया गया और अभी वकील की समीक्षा बाक़ी है, इसलिए इसे सामान्य जानकारी समझो, क़ानूनी सलाह नहीं। संसद क़ानून में बदलाव कर सकती है, और अदालतों के फ़ैसले इसे लागू करने का तरीक़ा बदल सकते हैं। असल स्थिति में किसी भरोसेमंद बड़े, चाइल्ड हेल्पलाइन 1098, या अपने ज़िला विधिक सेवा प्राधिकरण के ज़रिए किसी वकील से बात करो। आधिकारिक पाठ स्रोतों में दिया गया है।",
+     "hg": "Yeh lesson sirf India par apply hota hai aur POCSO Act, 2012 ke baare mein batata hai, saath mein juvenile justice system ka chhota-sa mention hai. Yeh simplified explanation hai aur isme procedure, punishments aur exceptions chhoote hue hain, jo real cases mein matter karte hain. Isse last 14 November 2026 ko update kiya gaya aur abhi lawyer ka review baaki hai, isliye isse general information samjho, legal advice nahi. Parliament Act mein changes kar sakti hai, aur court rulings isse apply karne ka tareeka badal sakti hain. Real situation mein kisi trusted adult, Child Helpline 1098, ya apni District Legal Services Authority ke through kisi lawyer se baat karo. Official text sources mein linked hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "POCSO only applies when a stranger attacks a child.",
+    "hi": "पॉक्सो तभी लागू होता है जब कोई अजनबी बच्चे पर हमला करे।",
+    "hg": "POCSO tabhi apply hota hai jab koi stranger bachche par attack kare."
+   },
+   "fact": {
+    "en": "POCSO applies to anyone, including relatives, teachers, neighbours and partners, and it covers non-contact acts such as sexual messages. Offences by people in positions of trust are treated as more serious.",
+    "hi": "पॉक्सो हर किसी पर लागू होता है, रिश्तेदारों, टीचरों, पड़ोसियों और पार्टनर पर भी, और इसमें बिना छुए किए गए कृत्य भी आते हैं, जैसे यौन मैसेज। भरोसे की जगह पर बैठे लोगों के अपराध ज़्यादा गंभीर माने जाते हैं।",
+    "hg": "POCSO har kisi par apply hota hai, relatives, teachers, padosiyon aur partners par bhi, aur isme non-contact acts bhi aate hain, jaise sexual messages. Trust ki position wale logon ke offences zyada serious maane jaate hain."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "POCSO covers assault, sexual touching, sexual harassment and using a child in pornography, for every person under 18.",
+    "hi": "पॉक्सो में 18 से कम उम्र के हर इंसान के लिए यौन हमला, यौन स्पर्श, यौन उत्पीड़न और बच्चे का पोर्नोग्राफ़ी में इस्तेमाल शामिल है।",
+    "hg": "POCSO mein 18 se kam umar ke har insaan ke liye assault, sexual touch, sexual harassment aur child ka pornography mein use cover hota hai."
+   },
+   {
+    "en": "A minor's agreement is not consent in law, even between two teenagers.",
+    "hi": "क़ानून में नाबालिग की रज़ामंदी सहमति नहीं है, दो किशोरों के बीच भी नहीं।",
+    "hg": "Law mein minor ka agreement consent nahi hai, do teenagers ke beech bhi nahi."
+   },
+   {
+    "en": "Because of mandatory reporting, no adult can promise you total secrecy about abuse or sexual activity under 18.",
+    "hi": "अनिवार्य रिपोर्टिंग की वजह से कोई भी बड़ा 18 से कम उम्र में शोषण या यौन गतिविधि के बारे में पूरी गोपनीयता का वादा नहीं कर सकता।",
+    "hg": "Mandatory reporting ki wajah se koi bhi adult under-18 abuse ya sexual activity ke baare mein total secrecy ka promise nahi kar sakta."
+   }
+  ],
+  "activity": {
+   "en": "Think of one adult you could approach if you ever needed to report something. Write down, just for yourself, the exact first sentence you would say to them.",
+   "hi": "ऐसे एक बड़े के बारे में सोचो जिसके पास तुम कभी कुछ बताने की ज़रूरत पड़ने पर जा सको। सिर्फ़ अपने लिए वह पहला वाक्य लिखो जो तुम उनसे कहोगे।",
+   "hg": "Aise ek adult ke baare mein socho jiske paas tum kabhi kuch report karne ki zaroorat padne par ja sako. Sirf apne liye woh exact pehla sentence likho jo tum unse bologe."
+  },
+  "interactive": "myth_buster",
+  "quiz": [
+   {
+    "id": "d16-l02-q1",
+    "type": "scenario",
+    "q": {
+     "en": "A 30-year-old man keeps sending sexual messages to a 15-year-old but never meets them. Under POCSO, this is:",
+     "hi": "30 साल का एक आदमी 15 साल के एक बच्चे को बार-बार यौन मैसेज भेजता है, पर कभी मिलता नहीं। पॉक्सो के तहत यह है:",
+     "hg": "30 saal ka ek aadmi 15 saal ke ek bachche ko baar-baar sexual messages bhejta hai, par kabhi milta nahi. POCSO ke under yeh hai:"
+    },
+    "options": [
+     {
+      "en": "Not an offence, because there was no touching",
+      "hi": "अपराध नहीं, क्योंकि छुआ नहीं गया",
+      "hg": "Offence nahi, kyunki touch nahi hua"
+     },
+     {
+      "en": "Only a matter for the app's moderators",
+      "hi": "सिर्फ़ ऐप के मॉडरेटरों का मामला",
+      "hg": "Sirf app ke moderators ka matter"
+     },
+     {
+      "en": "An offence only if the child had said no in writing",
+      "hi": "अपराध तभी, जब बच्चे ने लिखकर मना किया हो",
+      "hg": "Offence tabhi, jab bachche ne likhkar mana kiya ho"
+     },
+     {
+      "en": "Sexual harassment of a child, which is an offence",
+      "hi": "बच्चे का यौन उत्पीड़न, जो अपराध है",
+      "hg": "Child ka sexual harassment, jo offence hai"
+     }
+    ],
+    "answer": 3,
+    "explain": {
+     "en": "POCSO covers non-contact acts too. Sexual messages to a person under 18 are sexual harassment, whatever the child replied.",
+     "hi": "पॉक्सो में बिना छुए किए गए कृत्य भी आते हैं। 18 से कम उम्र के इंसान को यौन मैसेज भेजना यौन उत्पीड़न है, बच्चे ने जवाब में चाहे जो कहा हो।",
+     "hg": "POCSO non-contact acts ko bhi cover karta hai. 18 se kam umar ke insaan ko sexual messages bhejna sexual harassment hai, bachche ne reply mein chahe jo bola ho."
+    }
+   },
+   {
+    "id": "d16-l02-q2",
+    "type": "tf",
+    "q": {
+     "en": "Under POCSO, a child who knew about abuse but stayed silent can be punished for not reporting it.",
+     "hi": "पॉक्सो के तहत, जिस बच्चे को शोषण का पता था पर वह चुप रहा, उसे सूचना न देने की सज़ा मिल सकती है।",
+     "hg": "POCSO ke under, jis bachche ko abuse ka pata tha par woh chup raha, usse report na karne ki saza mil sakti hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "The duty to report, and the punishment for failing to, falls on adults. A child is not punished for staying silent.",
+     "hi": "सूचना देने का फ़र्ज़, और न देने की सज़ा, बड़ों पर लागू होती है। चुप रहने पर बच्चे को सज़ा नहीं होती।",
+     "hg": "Report karne ki duty, aur na karne ki saza, adults par apply hoti hai. Chup rehne par child ko saza nahi hoti."
+    }
+   }
+  ],
+  "refs": [
+   "pocso-2012",
+   "wcd-childline"
+  ],
+  "warning": {
+   "en": "General information about Indian law as of 14 November 2026, not legal advice, and not yet reviewed by a lawyer. Laws can change. If you or someone you know is being abused, tell a trusted adult or call 1098; in danger, call 112.",
+   "hi": "यह 14 नवंबर 2026 तक के भारतीय क़ानून के बारे में सामान्य जानकारी है, क़ानूनी सलाह नहीं, और अभी किसी वकील ने इसकी समीक्षा नहीं की है। क़ानून बदल सकते हैं। अगर तुम्हारा या तुम्हारे किसी जानने वाले का शोषण हो रहा है, तो किसी भरोसेमंद बड़े को बताओ या 1098 पर फ़ोन करो; ख़तरा हो तो 112 पर कॉल करो।",
+   "hg": "Yeh 14 November 2026 tak ke Indian law ke baare mein general information hai, legal advice nahi, aur abhi kisi lawyer ne isse review nahi kiya hai. Laws badal sakte hain. Agar tumhara ya tumhare kisi jaanne wale ka abuse ho raha hai, toh kisi trusted adult ko batao ya 1098 par call karo; danger ho toh 112 par call karo."
+  },
+  "sensitive": true,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14",
+  "laws": [
+   {
+    "en": "POCSO Act, 2012",
+    "hi": "लैंगिक अपराधों से बालकों का संरक्षण (पॉक्सो) अधिनियम, 2012",
+    "hg": "POCSO Act, 2012"
+   }
+  ]
+ },
+ {
+  "id": "d16-l03",
+  "domain": "d16",
+  "tracks": [
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 8,
+  "unesco": [
+   2,
+   4
+  ],
+  "title": {
+   "en": "Harassment, Stalking and Image Abuse: What the Law Covers",
+   "hi": "उत्पीड़न, पीछा करना और तस्वीरों का दुरुपयोग: क़ानून में क्या आता है",
+   "hg": "Harassment, Stalking aur Image Abuse: Law Kya Cover Karta Hai"
+  },
+  "subtitle": {
+   "en": "The Bharatiya Nyaya Sanhita, the IT Act and how a report is actually made",
+   "hi": "भारतीय न्याय संहिता, IT Act और शिकायत असल में कैसे की जाती है",
+   "hg": "Bharatiya Nyaya Sanhita, IT Act aur report actually kaise hoti hai"
+  },
+  "hook": {
+   "en": "'It was only online' and 'I was only joking' are not legal defences. Here is what Indian law calls these acts.",
+   "hi": "'बस ऑनलाइन ही तो था' और 'मैं तो मज़ाक़ कर रहा था' क़ानूनी बचाव नहीं हैं। देखिए भारतीय क़ानून इन हरकतों को क्या कहता है।",
+   "hg": "'Bas online hi toh tha' aur 'main toh mazaak kar raha tha' legal defence nahi hain. Dekho Indian law in harkaton ko kya kehta hai."
+  },
+  "objectives": [
+   {
+    "en": "Name the main sexual offences the Bharatiya Nyaya Sanhita describes, including harassment, voyeurism and stalking.",
+    "hi": "भारतीय न्याय संहिता में बताए गए मुख्य यौन अपराधों के नाम बता पाना, जिनमें उत्पीड़न, ताक-झाँक और पीछा करना शामिल हैं।",
+    "hg": "Bharatiya Nyaya Sanhita mein bataye gaye main sexual offences ke naam bata paana, jisme harassment, voyeurism aur stalking shaamil hain."
+   },
+   {
+    "en": "Explain what the IT Act says about private images and child sexual abuse material.",
+    "hi": "समझा पाना कि IT Act निजी तस्वीरों और बाल यौन शोषण सामग्री के बारे में क्या कहता है।",
+    "hg": "Samjha paana ki IT Act private images aur child sexual abuse material ke baare mein kya kehta hai."
+   },
+   {
+    "en": "Describe the main routes for reporting in India.",
+    "hi": "भारत में शिकायत करने के मुख्य रास्ते बता पाना।",
+    "hg": "India mein report karne ke main routes bata paana."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "The Bharatiya Nyaya Sanhita, 2023",
+     "hi": "भारतीय न्याय संहिता, 2023",
+     "hg": "Bharatiya Nyaya Sanhita, 2023"
+    },
+    "body": {
+     "en": "Jurisdiction: India. The Bharatiya Nyaya Sanhita (BNS), 2023 is India's main criminal code. It replaced the Indian Penal Code and has applied since 1 July 2024. It defines rape and other sexual offences against women, plus sexual harassment (unwelcome touching or advances, demands for sexual favours, sexual remarks), voyeurism (watching, recording or sharing images of a woman in a private act) and stalking (repeatedly following or contacting a woman who has shown no interest, including tracking her online). Consent means an unequivocal voluntary agreement, and not resisting physically is not, by itself, consent. Several of these sections protect women; anyone under 18, of any gender, is covered by POCSO.",
+     "hi": "अधिकार क्षेत्र: भारत। भारतीय न्याय संहिता (BNS), 2023 भारत का मुख्य आपराधिक क़ानून है। इसने भारतीय दंड संहिता (IPC) की जगह ली और 1 जुलाई 2024 से लागू है। इसमें बलात्कार और महिलाओं के ख़िलाफ़ दूसरे यौन अपराधों की परिभाषा है, और साथ ही यौन उत्पीड़न (अनचाहा छूना या पहल करना, यौन संबंध की माँग करना, यौन टिप्पणियाँ), ताक-झाँक (किसी महिला को निजी पल में देखना या रिकॉर्ड करना, या ऐसी तस्वीरें फैलाना) और पीछा करना (ऐसी महिला का बार-बार पीछा करना या उससे संपर्क करना जिसने साफ़ कर दिया कि उसकी कोई दिलचस्पी नहीं, इसमें ऑनलाइन नज़र रखना भी आता है) की भी। सहमति का मतलब है साफ़ और स्वेच्छा से दी गई रज़ामंदी, और शारीरिक विरोध न करना अपने आप में सहमति नहीं है। इनमें से कई धाराएँ महिलाओं की सुरक्षा के लिए लिखी गई हैं; 18 से कम उम्र का हर इंसान, किसी भी जेंडर का, पॉक्सो के दायरे में आता है।",
+     "hg": "Jurisdiction: India. Bharatiya Nyaya Sanhita (BNS), 2023 India ka main criminal code hai. Isne Indian Penal Code (IPC) ki jagah li aur 1 July 2024 se laagu hai. Isme rape aur women ke khilaaf doosre sexual offences ki definition hai, aur saath hi sexual harassment (unwanted touch ya advances, sexual favours ki demand, sexual remarks), voyeurism (kisi woman ko private act mein dekhna ya record karna, ya aisi images share karna) aur stalking (aisi woman ka baar-baar peecha karna ya usse contact karna jisne clear kar diya ki usse koi interest nahi, isme online track karna bhi aata hai) ki bhi. Consent ka matlab hai unequivocal voluntary agreement, aur physically resist na karna apne aap mein consent nahi hai. Inme se kai sections women ki protection ke liye likhe gaye hain; 18 se kam umar ka har insaan, kisi bhi gender ka, POCSO ke under cover hota hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Image-based abuse and the IT Act",
+     "hi": "तस्वीरों के ज़रिए शोषण और IT Act",
+     "hg": "Image-based abuse aur IT Act"
+    },
+    "body": {
+     "en": "The Information Technology Act, 2000 makes it an offence to capture, publish or send images of a person's private parts without consent, and to publish or transmit sexually explicit material. Anything involving child sexual abuse material, meaning sexual images of a person under 18, is an offence: creating, browsing, downloading, storing or sharing it. If such an image reaches you, do not forward it or save it 'as proof'. Do not delete the chat or the sender's account details either, since investigators may need them. Report at cybercrime.gov.in or on 1930, with a trusted adult. Threatening to leak someone's images to get money or more images is also a crime.",
+     "hi": "सूचना प्रौद्योगिकी अधिनियम (IT Act), 2000 के तहत किसी इंसान के निजी अंगों की तस्वीरें उसकी सहमति के बिना लेना, प्रकाशित करना या भेजना अपराध है, और यौन रूप से स्पष्ट सामग्री प्रकाशित या प्रसारित करना भी। बाल यौन शोषण सामग्री, यानी 18 से कम उम्र के किसी इंसान की यौन तस्वीरों से जुड़ा हर काम अपराध है: उसे बनाना, ब्राउज़ करना, डाउनलोड करना, रखना या शेयर करना। इसलिए अगर ऐसी कोई तस्वीर आप तक पहुँचे, तो उसे आगे मत भेजिए और 'सबूत के तौर पर' सेव भी मत कीजिए। चैट या भेजने वाले के अकाउंट की जानकारी भी डिलीट मत कीजिए, क्योंकि जाँच करने वालों को इसकी ज़रूरत पड़ सकती है। किसी भरोसेमंद बड़े के साथ cybercrime.gov.in या 1930 पर शिकायत कीजिए। पैसे या और तस्वीरें ऐंठने के लिए किसी की तस्वीरें लीक करने की धमकी देना भी अपराध है।",
+     "hg": "Information Technology Act (IT Act), 2000 ke under kisi insaan ke private parts ki images uske consent ke bina capture, publish ya send karna offence hai, aur sexually explicit material publish ya transmit karna bhi. Child sexual abuse material, yaani 18 se kam umar ke kisi insaan ki sexual images se juda har kaam offence hai: usse banana, browse karna, download karna, store karna ya share karna. Isliye agar aisi koi image tum tak pahunche, toh usse forward mat karo aur 'proof ke liye' save bhi mat karo. Chat ya sender ke account details bhi delete mat karo, kyunki investigators ko inki zaroorat pad sakti hai. Kisi trusted adult ke saath cybercrime.gov.in ya 1930 par report karo. Paise ya aur images nikalwane ke liye kisi ki images leak karne ki dhamki dena bhi crime hai."
+    }
+   },
+   {
+    "h": {
+     "en": "How reporting works",
+     "hi": "शिकायत कैसे होती है",
+     "hg": "Reporting kaise hoti hai"
+    },
+    "body": {
+     "en": "In an emergency call 112. For serious offences the police record a First Information Report (FIR), and the person reporting is entitled to a free copy. You can approach any police station; if the incident happened elsewhere, the complaint should still be recorded and transferred (a 'Zero FIR'). A woman reporting a sexual offence should have her statement recorded by a woman officer. Online abuse can be reported at cybercrime.gov.in or on 1930. Women can call 181, which can connect them to a One Stop Centre for medical, legal and counselling help. If you are under 18, call 1098, and remember that adults who learn of abuse must report.",
+     "hi": "आपात स्थिति में 112 पर कॉल कीजिए। गंभीर अपराधों में पुलिस प्रथम सूचना रिपोर्ट (FIR) दर्ज करती है, और शिकायत करने वाले को उसकी एक प्रति मुफ़्त पाने का हक़ है। आप किसी भी थाने में जा सकते हैं; घटना कहीं और हुई हो, तब भी शिकायत दर्ज होनी चाहिए और फिर सही थाने को भेजी जानी चाहिए, इसे अक्सर ज़ीरो FIR कहा जाता है। यौन अपराध की शिकायत करने वाली महिला का बयान महिला अधिकारी को दर्ज करना चाहिए। ऑनलाइन शोषण की शिकायत cybercrime.gov.in या 1930 पर की जा सकती है। महिलाएँ 181 पर फ़ोन कर सकती हैं, जहाँ से उन्हें इलाज, क़ानूनी मदद और काउंसलिंग के लिए वन स्टॉप सेंटर से जोड़ा जा सकता है। अगर आप 18 से कम उम्र के हैं, तो 1098 पर फ़ोन कीजिए, और याद रखिए कि जिन बड़ों को शोषण का पता चलता है, उन्हें इसकी सूचना देनी ही होती है।",
+     "hg": "Emergency mein 112 par call karo. Serious offences mein police First Information Report (FIR) record karti hai, aur report karne wale ko uski ek copy free milne ka haq hai. Tum kisi bhi police station ja sakte ho; incident kahin aur hua ho, tab bhi complaint record honi chahiye aur phir sahi station ko transfer honi chahiye, isse aksar Zero FIR kaha jaata hai. Sexual offence report karne wali woman ka statement woman officer ko record karna chahiye. Online abuse cybercrime.gov.in ya 1930 par report kiya ja sakta hai. Women 181 par call kar sakti hain, jahan se unhe medical, legal aur counselling help ke liye One Stop Centre se connect kiya ja sakta hai. Agar tum 18 se kam ho, toh 1098 par call karo, aur yaad rakho ki jin adults ko abuse ka pata chalta hai, unhe isse report karna hi hota hai."
+    }
+   },
+   {
+    "h": {
+     "en": "What this lesson is, and is not",
+     "hi": "यह पाठ क्या है, और क्या नहीं",
+     "hg": "Yeh lesson kya hai, aur kya nahi"
+    },
+    "body": {
+     "en": "This lesson covers Indian law only: the Bharatiya Nyaya Sanhita, 2023 and the Information Technology Act, 2000, with police procedure described in outline. It names offences in plain language and does not give section-by-section detail, punishments or defences. It was last updated on 14 November 2026 and has not yet been reviewed by a lawyer. These laws are new or frequently amended, and courts are still interpreting them, so details can change. Use this as general information, not as legal advice for your situation. A lawyer, or free legal aid through the District Legal Services Authority, can advise on a real case. Official texts are linked in the sources.",
+     "hi": "इस पाठ में सिर्फ़ भारतीय क़ानून की बात है: भारतीय न्याय संहिता, 2023 और सूचना प्रौद्योगिकी अधिनियम, 2000, साथ में पुलिस प्रक्रिया की मोटी रूपरेखा। यह अपराधों के नाम सीधी भाषा में बताता है और धारा-दर-धारा ब्योरा, सज़ाएँ या बचाव के तर्क नहीं देता। इसे आख़िरी बार 14 नवंबर 2026 को अपडेट किया गया और अभी किसी वकील ने इसकी समीक्षा नहीं की है। ये क़ानून या तो नए हैं या इनमें अक्सर संशोधन होते हैं, और अदालतें अभी इनकी व्याख्या कर रही हैं, इसलिए बारीकियाँ बदल सकती हैं। इसे सामान्य जानकारी की तरह इस्तेमाल कीजिए, अपनी स्थिति के लिए क़ानूनी सलाह की तरह नहीं। असली मामले में कोई वकील, या ज़िला विधिक सेवा प्राधिकरण के ज़रिए मिलने वाली मुफ़्त क़ानूनी सहायता, सलाह दे सकती है। आधिकारिक पाठ स्रोतों में दिए गए हैं।",
+     "hg": "Is lesson mein sirf Indian law ki baat hai: Bharatiya Nyaya Sanhita, 2023 aur Information Technology Act, 2000, saath mein police procedure ka outline. Yeh offences ke naam plain language mein batata hai aur section-by-section detail, punishments ya defences nahi deta. Isse last 14 November 2026 ko update kiya gaya aur abhi kisi lawyer ne isse review nahi kiya hai. Yeh laws ya toh naye hain ya inme aksar amendments hote hain, aur courts abhi inhe interpret kar rahe hain, isliye details badal sakti hain. Isse general information ki tarah use karo, apni situation ke liye legal advice ki tarah nahi. Real case mein koi lawyer, ya District Legal Services Authority ke through milne wali free legal aid, advice de sakti hai. Official texts sources mein linked hain."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Online harassment is not a real crime, because nobody was touched.",
+    "hi": "ऑनलाइन उत्पीड़न असली अपराध नहीं है, क्योंकि किसी को छुआ तो नहीं गया।",
+    "hg": "Online harassment real crime nahi hai, kyunki kisi ko touch toh nahi kiya gaya."
+   },
+   "fact": {
+    "en": "Stalking a woman through messages or tracking, sharing anyone's private images without consent, and sending sexual messages to a person under 18 are offences under the BNS, the IT Act or POCSO. No physical contact is needed.",
+    "hi": "मैसेज या निगरानी के ज़रिए किसी महिला का पीछा करना, किसी की भी निजी तस्वीरें सहमति के बिना फैलाना, और 18 से कम उम्र के इंसान को यौन मैसेज भेजना भारतीय न्याय संहिता, IT Act या पॉक्सो के तहत अपराध हैं। इसके लिए शारीरिक संपर्क ज़रूरी नहीं।",
+    "hg": "Messages ya tracking ke through kisi woman ko stalk karna, kisi ki bhi private images bina consent share karna, aur 18 se kam umar ke insaan ko sexual messages bhejna BNS, IT Act ya POCSO ke under offences hain. Iske liye physical contact zaroori nahi."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "The BNS, in force since 1 July 2024, covers sexual harassment, voyeurism and stalking, including online stalking.",
+    "hi": "1 जुलाई 2024 से लागू भारतीय न्याय संहिता में यौन उत्पीड़न, ताक-झाँक और पीछा करना शामिल हैं, ऑनलाइन पीछा करना भी।",
+    "hg": "1 July 2024 se laagu BNS mein sexual harassment, voyeurism aur stalking cover hote hain, online stalking bhi."
+   },
+   {
+    "en": "Never forward or save a sexual image of a person under 18; keep the chat intact and report it.",
+    "hi": "18 से कम उम्र के इंसान की यौन तस्वीर कभी आगे मत भेजिए और सेव मत कीजिए; चैट को जस का तस रखिए और शिकायत कीजिए।",
+    "hg": "18 se kam umar ke insaan ki sexual image kabhi forward ya save mat karo; chat ko waisa hi rakho aur report karo."
+   },
+   {
+    "en": "You can report through 112, any police station, cybercrime.gov.in, 1930, 181 or 1098.",
+    "hi": "शिकायत 112, किसी भी थाने, cybercrime.gov.in, 1930, 181 या 1098 के ज़रिए की जा सकती है।",
+    "hg": "Report 112, kisi bhi police station, cybercrime.gov.in, 1930, 181 ya 1098 ke through ki ja sakti hai."
+   }
+  ],
+  "activity": {
+   "en": "With a parent or another trusted adult, open cybercrime.gov.in and look at how a complaint is filed, without submitting anything. Note what information it asks for.",
+   "hi": "मम्मी-पापा या किसी और भरोसेमंद बड़े के साथ cybercrime.gov.in खोलिए और देखिए कि शिकायत कैसे दर्ज होती है, बिना कुछ जमा किए। ध्यान दीजिए कि वहाँ कौन-सी जानकारी माँगी जाती है।",
+   "hg": "Parents ya kisi aur trusted adult ke saath cybercrime.gov.in kholo aur dekho ki complaint kaise file hoti hai, bina kuch submit kiye. Note karo ki wahan kaun si information maangi jaati hai."
+  },
+  "interactive": "digital_safety",
+  "quiz": [
+   {
+    "id": "d16-l03-q1",
+    "type": "scenario",
+    "q": {
+     "en": "A sexual photo of a Class 11 student lands in your class group chat. What is the legally safe thing to do?",
+     "hi": "ग्यारहवीं के एक छात्र की यौन तस्वीर आपके क्लास ग्रुप चैट में आ जाती है। क़ानूनी तौर पर सुरक्षित क़दम क्या है?",
+     "hg": "Class 11 ke ek student ki sexual photo tumhare class group chat mein aa jaati hai. Legally safe step kya hai?"
+    },
+    "options": [
+     {
+      "en": "Save it to your gallery as proof for later",
+      "hi": "बाद के लिए सबूत के तौर पर गैलरी में सेव कर लेना",
+      "hg": "Baad ke liye proof ki tarah gallery mein save kar lena"
+     },
+     {
+      "en": "Forward it to the student so they know it is circulating",
+      "hi": "उस छात्र को भेज देना ताकि उसे पता चले कि यह फैल रही है",
+      "hg": "Us student ko forward kar dena taaki usse pata chale ki yeh circulate ho rahi hai"
+     },
+     {
+      "en": "Not save or forward it, keep the chat, and report it with a trusted adult",
+      "hi": "न सेव करना, न आगे भेजना, चैट को रहने देना, और किसी भरोसेमंद बड़े के साथ शिकायत करना",
+      "hg": "Na save karna, na forward karna, chat rehne dena, aur kisi trusted adult ke saath report karna"
+     },
+     {
+      "en": "Delete the whole chat and leave the group quietly",
+      "hi": "पूरी चैट डिलीट करके चुपचाप ग्रुप छोड़ देना",
+      "hg": "Poori chat delete karke chupchaap group chhod dena"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "Saving or forwarding it is itself an offence, and deleting the chat can remove details investigators need. Reporting at cybercrime.gov.in or 1930 is the right route.",
+     "hi": "उसे सेव करना या आगे भेजना ख़ुद एक अपराध है, और चैट डिलीट करने से वह जानकारी मिट सकती है जिसकी जाँच करने वालों को ज़रूरत है। cybercrime.gov.in या 1930 पर शिकायत करना सही रास्ता है।",
+     "hg": "Usse save ya forward karna khud ek offence hai, aur chat delete karne se woh details hat sakti hain jinki investigators ko zaroorat hai. cybercrime.gov.in ya 1930 par report karna sahi route hai."
+    }
+   },
+   {
+    "id": "d16-l03-q2",
+    "type": "tf",
+    "q": {
+     "en": "Under the BNS, the fact that a woman did not physically resist is enough, on its own, to show she consented.",
+     "hi": "भारतीय न्याय संहिता के तहत, किसी महिला का शारीरिक विरोध न करना अपने आप में यह दिखाने के लिए काफ़ी है कि वह राज़ी थी।",
+     "hg": "BNS ke under, kisi woman ka physically resist na karna apne aap mein yeh dikhane ke liye kaafi hai ki woh raazi thi."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "The BNS defines consent as an unequivocal voluntary agreement and says that not resisting is not, by that fact alone, consent.",
+     "hi": "भारतीय न्याय संहिता सहमति को साफ़ और स्वेच्छा से दी गई रज़ामंदी बताती है और कहती है कि सिर्फ़ विरोध न करने से सहमति नहीं मानी जाएगी।",
+     "hg": "BNS consent ko unequivocal voluntary agreement define karti hai aur kehti hai ki sirf resist na karne se consent nahi maana jaayega."
+    }
+   }
+  ],
+  "refs": [
+   "bns-2023",
+   "cybercrime-portal",
+   "mha-erss",
+   "pocso-2012"
+  ],
+  "warning": {
+   "en": "General information about Indian law as of 14 November 2026, not legal advice, and not yet reviewed by a lawyer. Laws can change. If you are being harassed, stalked or threatened, call 112 in danger, 1098 if under 18, 181 (women) or 1930 for online abuse.",
+   "hi": "यह 14 नवंबर 2026 तक के भारतीय क़ानून के बारे में सामान्य जानकारी है, क़ानूनी सलाह नहीं, और अभी किसी वकील ने इसकी समीक्षा नहीं की है। क़ानून बदल सकते हैं। अगर आपको परेशान किया जा रहा है, आपका पीछा हो रहा है या धमकी मिल रही है, तो ख़तरे में 112, 18 से कम उम्र हो तो 1098, महिलाएँ 181, और ऑनलाइन शोषण के लिए 1930 पर फ़ोन कीजिए।",
+   "hg": "Yeh 14 November 2026 tak ke Indian law ke baare mein general information hai, legal advice nahi, aur abhi kisi lawyer ne isse review nahi kiya hai. Laws badal sakte hain. Agar tumhe harass, stalk ya threaten kiya ja raha hai, toh danger mein 112, 18 se kam ho toh 1098, women 181, aur online abuse ke liye 1930 par call karo."
+  },
+  "sensitive": true,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14",
+  "laws": [
+   {
+    "en": "Bharatiya Nyaya Sanhita, 2023",
+    "hi": "भारतीय न्याय संहिता, 2023",
+    "hg": "Bharatiya Nyaya Sanhita (BNS), 2023"
+   },
+   {
+    "en": "Information Technology Act, 2000",
+    "hi": "सूचना प्रौद्योगिकी अधिनियम, 2000",
+    "hg": "IT Act, 2000"
+   },
+   {
+    "en": "POCSO Act, 2012",
+    "hi": "लैंगिक अपराधों से बालकों का संरक्षण (पॉक्सो) अधिनियम, 2012",
+    "hg": "POCSO Act, 2012"
+   }
+  ]
+ },
+ {
+  "id": "d16-l04",
+  "domain": "d16",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone",
+   "women"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "difficulty": 3,
+  "minutes": 8,
+  "unesco": [
+   2,
+   8
+  ],
+  "title": {
+   "en": "Adult Rights: Abortion Law, Marriage and Medical Confidentiality",
+   "hi": "वयस्कों के अधिकार: गर्भपात क़ानून, शादी और चिकित्सा गोपनीयता",
+   "hg": "Adult Rights: Abortion Law, Shaadi aur Medical Confidentiality"
+  },
+  "subtitle": {
+   "en": "What the law lets you decide for yourself, and where privacy stops",
+   "hi": "क़ानून आपको ख़ुद क्या तय करने देता है, और निजता कहाँ रुक जाती है",
+   "hg": "Law tumhe khud kya decide karne deta hai, aur privacy kahan ruk jaati hai"
+  },
+  "hook": {
+   "en": "Abortion is legal in India under conditions, an adult woman consents for herself, and a doctor's secrecy has limits. Most people get at least one of these wrong.",
+   "hi": "भारत में गर्भपात शर्तों के साथ क़ानूनी है, वयस्क महिला अपनी सहमति ख़ुद देती है, और डॉक्टर की गोपनीयता की सीमाएँ हैं। ज़्यादातर लोग इनमें से कम से कम एक बात ग़लत समझते हैं।",
+   "hg": "India mein abortion conditions ke saath legal hai, adult woman apna consent khud deti hai, aur doctor ki secrecy ki limits hain. Zyadatar log inme se kam se kam ek baat galat samajhte hain."
+  },
+  "objectives": [
+   {
+    "en": "State the main conditions of the Medical Termination of Pregnancy Act.",
+    "hi": "गर्भ का चिकित्सकीय समापन अधिनियम (MTP Act) की मुख्य शर्तें बता पाना।",
+    "hg": "Medical Termination of Pregnancy Act ki main conditions bata paana."
+   },
+   {
+    "en": "Describe where Indian law stands on marriage age, consent in marriage and equality rights.",
+    "hi": "बता पाना कि शादी की उम्र, शादी में सहमति और बराबरी के अधिकारों पर भारतीय क़ानून कहाँ खड़ा है।",
+    "hg": "Bata paana ki shaadi ki age, shaadi mein consent aur equality rights par Indian law kahan khada hai."
+   },
+   {
+    "en": "Explain what medical confidentiality covers and when the law overrides it.",
+    "hi": "समझा पाना कि चिकित्सा गोपनीयता में क्या आता है और क़ानून कब उससे ऊपर हो जाता है।",
+    "hg": "Samjha paana ki medical confidentiality mein kya aata hai aur law kab usse override karta hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Abortion law: the MTP Act",
+     "hi": "गर्भपात क़ानून: MTP Act",
+     "hg": "Abortion law: MTP Act"
+    },
+    "body": {
+     "en": "Jurisdiction: India. Law: the Medical Termination of Pregnancy Act, 1971, amended in 2021. Abortion is legal under conditions. Up to 20 weeks it needs one registered doctor's opinion. From 20 to 24 weeks it is allowed for specified categories, including survivors of sexual assault and minors, on two doctors' opinions. Beyond 24 weeks it is permitted for substantial foetal abnormalities, decided by a Medical Board, and at any stage if immediately necessary to save the woman's life. It covers married and unmarried women; an adult consents for herself. Under 18, a guardian's written consent is needed, and POCSO reporting applies. Only qualified providers at approved facilities may do it.",
+     "hi": "अधिकार क्षेत्र: भारत। क़ानून: गर्भ का चिकित्सकीय समापन अधिनियम (MTP Act), 1971, जिसमें 2021 में संशोधन हुआ। गर्भपात कुछ शर्तों के साथ क़ानूनी है। 20 हफ़्ते तक इसके लिए एक पंजीकृत डॉक्टर की राय चाहिए। 20 से 24 हफ़्ते के बीच यह तय श्रेणियों के लिए, जिनमें यौन हमले की पीड़िताएँ और नाबालिग शामिल हैं, दो डॉक्टरों की राय पर हो सकता है। 24 हफ़्ते के बाद इसकी इजाज़त भ्रूण में गंभीर असामान्यता होने पर है, जिसका फ़ैसला मेडिकल बोर्ड करता है, और अगर महिला की जान बचाने के लिए तुरंत ज़रूरी हो तो डॉक्टर किसी भी समय यह कर सकता है। यह क़ानून विवाहित और अविवाहित, दोनों महिलाओं पर लागू होता है, और वयस्क महिला के मामले में उसकी अपनी सहमति ही ज़रूरी है। 18 से कम उम्र में अभिभावक की लिखित सहमति चाहिए, और पॉक्सो के तहत सूचना देने का फ़र्ज़ लागू होता है। यह सिर्फ़ योग्य डॉक्टर, मान्यता प्राप्त केंद्रों पर ही कर सकते हैं।",
+     "hg": "Jurisdiction: India. Law: Medical Termination of Pregnancy Act (MTP Act), 1971, jisme 2021 mein amendment hua. Abortion kuch conditions ke saath legal hai. 20 weeks tak iske liye ek registered doctor ki opinion chahiye. 20 se 24 weeks ke beech yeh specified categories ke liye, jisme sexual assault survivors aur minors shaamil hain, do doctors ki opinion par ho sakta hai. 24 weeks ke baad iski permission substantial foetal abnormalities hone par hai, jiska decision Medical Board karta hai, aur agar woman ki jaan bachane ke liye turant zaroori ho toh doctor kisi bhi stage par yeh kar sakta hai. Yeh law married aur unmarried, dono women par apply hota hai, aur adult woman ke case mein uska apna consent hi zaroori hai. 18 se kam umar mein guardian ka written consent chahiye, aur POCSO ki reporting duties apply hoti hain. Yeh sirf qualified providers, approved facilities par hi kar sakte hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Marriage, consent and equal rights",
+     "hi": "शादी, सहमति और बराबरी के अधिकार",
+     "hg": "Shaadi, consent aur equal rights"
+    },
+    "body": {
+     "en": "The legal age of marriage is 18 for women and 21 for men. Marriage does not create consent: forced sex in marriage is sexual violence. The BNS keeps an exception under which intercourse by a man with his wife who is not under 18 is not rape; this is contested and under legal challenge. Other remedies include the Protection of Women from Domestic Violence Act, 2005. Consensual same-sex relations between adults have not been a crime since 2018. Transgender persons' rights are recognised by the 2014 NALSA judgment and the Transgender Persons Act, 2019; a 2026 amendment narrowing who that Act covers is being challenged in the Supreme Court.",
+     "hi": "शादी की क़ानूनी उम्र महिलाओं के लिए 18 और पुरुषों के लिए 21 साल है। शादी से सहमति नहीं बन जाती: शादी में ज़बरदस्ती का सेक्स यौन हिंसा है। भारतीय न्याय संहिता में अब भी एक अपवाद है, जिसके तहत पुरुष का अपनी ऐसी पत्नी के साथ संभोग, जो 18 से कम उम्र की नहीं है, बलात्कार नहीं माना जाता; इस पर विवाद है और इसे अदालत में चुनौती दी गई है। दूसरे उपाय मौजूद हैं, जैसे घरेलू हिंसा से महिलाओं का संरक्षण अधिनियम, 2005। वयस्कों के बीच सहमति से बने समलैंगिक संबंध 2018 से अपराध नहीं हैं। ट्रांसजेंडर व्यक्तियों के अधिकारों को 2014 के नालसा (NALSA) फ़ैसले और ट्रांसजेंडर व्यक्ति अधिनियम, 2019 से मान्यता मिली है; 2026 के एक संशोधन, जो इस क़ानून के दायरे को सीमित करता है, को सुप्रीम कोर्ट में चुनौती दी गई है।",
+     "hg": "Shaadi ki legal age women ke liye 18 aur men ke liye 21 saal hai. Shaadi se consent nahi ban jaata: shaadi mein forced sex sexual violence hai. BNS mein ab bhi ek exception hai, jiske under ek aadmi ka apni aisi wife ke saath intercourse, jo 18 se kam umar ki nahi hai, rape nahi maana jaata; yeh contested hai aur isse court mein challenge kiya gaya hai. Doosre remedies maujood hain, jaise Protection of Women from Domestic Violence Act, 2005. Adults ke beech consensual same-sex relations 2018 se crime nahi hain. Transgender persons ke rights ko 2014 ke NALSA judgment aur Transgender Persons Act, 2019 se recognition mili hai; 2026 ka ek amendment, jo is Act ka scope narrow karta hai, Supreme Court mein challenge hua hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Medical confidentiality and its limits",
+     "hi": "चिकित्सा गोपनीयता और उसकी सीमाएँ",
+     "hg": "Medical confidentiality aur uski limits"
+    },
+    "body": {
+     "en": "Doctors have a professional duty to keep what you tell them private, and you can ask to be seen alone. The MTP Act protects the identity of a woman who has had an abortion, and the HIV and AIDS (Prevention and Control) Act, 2017 protects HIV status. But confidentiality has limits. For a patient under 18, POCSO requires reporting sexual abuse or sexual activity. Hospitals must inform the police when treating a survivor of rape, but must also treat the survivor immediately and free of cost, so never let this stop you getting care. Courts can order records produced. First ask: 'What would you have to report?'",
+     "hi": "डॉक्टरों का पेशेवर फ़र्ज़ है कि आप जो बताएँ उसे निजी रखें, और आप अकेले में देखे जाने की माँग कर सकते हैं। MTP Act उस महिला की पहचान की रक्षा करता है जिसका गर्भपात हुआ है, और एचआईवी और एड्स (रोकथाम और नियंत्रण) अधिनियम, 2017 एचआईवी स्थिति को गोपनीय रखता है। लेकिन गोपनीयता की सीमाएँ हैं। 18 से कम उम्र के मरीज़ के मामले में पॉक्सो के तहत यौन शोषण या यौन गतिविधि की सूचना देनी होती है। बलात्कार पीड़ित का इलाज करते समय अस्पतालों को पुलिस को बताना होता है, पर उन्हें पीड़ित का इलाज तुरंत और मुफ़्त भी करना होता है, इसलिए इस वजह से इलाज लेने से कभी मत रुकिए। अदालतें रिकॉर्ड पेश करने का आदेश दे सकती हैं। पहले यह पूछिए: 'आपको क्या-क्या आगे बताना पड़ेगा?'",
+     "hg": "Doctors ki professional duty hai ki tum jo batao usse private rakhein, aur tum akele mein dekhe jaane ki request kar sakte ho. MTP Act us woman ki identity protect karta hai jiska abortion hua hai, aur HIV and AIDS (Prevention and Control) Act, 2017 HIV status ko confidential rakhta hai. Lekin confidentiality ki limits hain. 18 se kam umar ke patient ke case mein POCSO ke under sexual abuse ya sexual activity report karni hoti hai. Rape survivor ka treatment karte waqt hospitals ko police ko inform karna hota hai, par unhe survivor ka treatment turant aur free bhi karna hota hai, isliye is wajah se care lene se kabhi mat ruko. Courts records produce karne ka order de sakte hain. Pehle yeh poocho: 'Aapko kya-kya report karna padega?'"
+    }
+   },
+   {
+    "h": {
+     "en": "Before you rely on this",
+     "hi": "इस पर भरोसा करने से पहले",
+     "hg": "Is par rely karne se pehle"
+    },
+    "body": {
+     "en": "Everything here describes the law of India: the MTP Act, the BNS, the domestic violence law and the others named above, as understood on 14 November 2026. It is a plain-language summary, so it skips conditions, forms and procedures that decide real cases. It has not yet been reviewed by a lawyer, and it is general information, not legal or medical advice. Reproductive and family law changes through amendments and court rulings, sometimes quickly. For a decision about your own pregnancy, marriage or safety, speak to a registered doctor, a lawyer or the District Legal Services Authority. The official texts appear in this lesson's sources.",
+     "hi": "यहाँ लिखी हर बात भारत के क़ानून के बारे में है: MTP Act, भारतीय न्याय संहिता, घरेलू हिंसा क़ानून और ऊपर बताए गए दूसरे क़ानून, जैसी इनकी समझ 14 नवंबर 2026 को थी। यह सीधी भाषा में लिखा सार है, इसलिए इसमें वे शर्तें, फ़ॉर्म और प्रक्रियाएँ छूट गई हैं जिनसे असली मामले तय होते हैं। अभी किसी वकील ने इसकी समीक्षा नहीं की है, और यह सामान्य जानकारी है, क़ानूनी या चिकित्सा सलाह नहीं। प्रजनन और परिवार से जुड़े क़ानून संशोधनों और अदालती फ़ैसलों से बदलते रहते हैं, कभी-कभी बहुत जल्दी। अपने गर्भ, शादी या सुरक्षा से जुड़े फ़ैसले के लिए किसी पंजीकृत डॉक्टर, वकील या ज़िला विधिक सेवा प्राधिकरण से बात कीजिए। आधिकारिक पाठ इस पाठ के स्रोतों में मिलेंगे।",
+     "hg": "Yahan likhi har baat India ke law ke baare mein hai: MTP Act, BNS, domestic violence law aur upar bataye gaye doosre laws, jaisi inki samajh 14 November 2026 ko thi. Yeh plain-language summary hai, isliye isme woh conditions, forms aur procedures chhoot gaye hain jinse real cases decide hote hain. Abhi kisi lawyer ne isse review nahi kiya hai, aur yeh general information hai, legal ya medical advice nahi. Reproductive aur family law amendments aur court rulings se badalte rehte hain, kabhi-kabhi bahut jaldi. Apni pregnancy, shaadi ya safety se jude decision ke liye kisi registered doctor, lawyer ya District Legal Services Authority se baat karo. Official texts is lesson ke sources mein milenge."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "A married woman needs her husband's signature to have an abortion.",
+    "hi": "विवाहित महिला को गर्भपात के लिए पति के दस्तख़त चाहिए।",
+    "hg": "Married woman ko abortion ke liye husband ka signature chahiye."
+   },
+   "fact": {
+    "en": "Under the MTP Act, an adult woman's own consent is what the law requires. A provider who insists on a husband's or parent's permission for an adult is asking for something the Act itself does not demand.",
+    "hi": "MTP Act के तहत क़ानून को वयस्क महिला की अपनी सहमति चाहिए। जो डॉक्टर या क्लिनिक किसी वयस्क के लिए पति या माता-पिता की इजाज़त पर अड़ता है, वह ऐसी चीज़ माँग रहा है जो क़ानून ख़ुद नहीं माँगता।",
+    "hg": "MTP Act ke under law ko adult woman ka apna consent chahiye. Jo provider kisi adult ke liye husband ya parents ki permission par adta hai, woh aisi cheez maang raha hai jo Act khud nahi maangta."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Abortion is legal in India under the MTP Act's conditions, for married and unmarried women, only with qualified providers.",
+    "hi": "भारत में गर्भपात MTP Act की शर्तों के तहत, विवाहित और अविवाहित दोनों महिलाओं के लिए क़ानूनी है, और सिर्फ़ योग्य डॉक्टरों से।",
+    "hg": "India mein abortion MTP Act ki conditions ke under, married aur unmarried dono women ke liye legal hai, aur sirf qualified providers se."
+   },
+   {
+    "en": "Marriage is not consent, even though the BNS still carries a contested marital exception.",
+    "hi": "शादी सहमति नहीं है, हालाँकि भारतीय न्याय संहिता में एक विवादित वैवाहिक अपवाद अब भी मौजूद है।",
+    "hg": "Shaadi consent nahi hai, halaanki BNS mein ek contested marital exception ab bhi maujood hai."
+   },
+   {
+    "en": "Medical confidentiality is real but limited, so ask at the start what must be reported.",
+    "hi": "चिकित्सा गोपनीयता असली है पर सीमित है, इसलिए शुरू में ही पूछ लीजिए कि क्या-क्या आगे बताना ज़रूरी है।",
+    "hg": "Medical confidentiality real hai par limited hai, isliye shuru mein hi pooch lo ki kya-kya report karna zaroori hai."
+   }
+  ],
+  "activity": {
+   "en": "Find out, without sharing anything personal, which government hospital or approved facility near you provides abortion care and which office houses your District Legal Services Authority. Save both in your phone.",
+   "hi": "कोई निजी बात बताए बिना पता कीजिए कि आपके आस-पास कौन-सा सरकारी अस्पताल या मान्यता प्राप्त केंद्र गर्भपात सेवा देता है और आपका ज़िला विधिक सेवा प्राधिकरण किस दफ़्तर में है। दोनों को फ़ोन में सेव कीजिए।",
+   "hg": "Kuch personal share kiye bina pata karo ki tumhare aas-paas kaun sa government hospital ya approved facility abortion care deta hai aur tumhari District Legal Services Authority kis office mein hai. Dono ko phone mein save karo."
+  },
+  "interactive": "ask",
+  "quiz": [
+   {
+    "id": "d16-l04-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Under the MTP Act as amended in 2021, up to how many weeks can a termination be done on the opinion of one registered doctor?",
+     "hi": "2021 में संशोधित MTP Act के तहत, एक पंजीकृत डॉक्टर की राय पर कितने हफ़्ते तक गर्भ का समापन किया जा सकता है?",
+     "hg": "2021 mein amended MTP Act ke under, ek registered doctor ki opinion par kitne weeks tak termination kiya ja sakta hai?"
+    },
+    "options": [
+     {
+      "en": "12 weeks",
+      "hi": "12 हफ़्ते",
+      "hg": "12 weeks"
+     },
+     {
+      "en": "20 weeks",
+      "hi": "20 हफ़्ते",
+      "hg": "20 weeks"
+     },
+     {
+      "en": "24 weeks",
+      "hi": "24 हफ़्ते",
+      "hg": "24 weeks"
+     },
+     {
+      "en": "28 weeks",
+      "hi": "28 हफ़्ते",
+      "hg": "28 weeks"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "One doctor's opinion is enough up to 20 weeks. From 20 to 24 weeks, two doctors are needed and only specified categories qualify.",
+     "hi": "20 हफ़्ते तक एक डॉक्टर की राय काफ़ी है। 20 से 24 हफ़्ते के बीच दो डॉक्टरों की राय चाहिए और सिर्फ़ तय श्रेणियाँ ही पात्र हैं।",
+     "hg": "20 weeks tak ek doctor ki opinion kaafi hai. 20 se 24 weeks ke beech do doctors chahiye aur sirf specified categories hi qualify karti hain."
+    }
+   },
+   {
+    "id": "d16-l04-q2",
+    "type": "scenario",
+    "q": {
+     "en": "Farah is 26, unmarried and nine weeks pregnant. A clinic tells her to bring her father or a husband to sign. What does the MTP Act actually require?",
+     "hi": "फ़राह 26 साल की है, अविवाहित है और नौ हफ़्ते की गर्भवती है। एक क्लिनिक उससे कहता है कि दस्तख़त के लिए पिता या पति को लाए। MTP Act असल में क्या माँगता है?",
+     "hg": "Farah 26 saal ki hai, unmarried hai aur nau weeks pregnant hai. Ek clinic usse bolta hai ki sign karne ke liye father ya husband ko laaye. MTP Act actually kya maangta hai?"
+    },
+    "options": [
+     {
+      "en": "A court order, because she is unmarried",
+      "hi": "अदालत का आदेश, क्योंकि वह अविवाहित है",
+      "hg": "Court order, kyunki woh unmarried hai"
+     },
+     {
+      "en": "Her father's written consent, as her guardian",
+      "hi": "अभिभावक के तौर पर उसके पिता की लिखित सहमति",
+      "hg": "Guardian ke taur par uske father ka written consent"
+     },
+     {
+      "en": "Her own consent, because she is an adult",
+      "hi": "उसकी अपनी सहमति, क्योंकि वह वयस्क है",
+      "hg": "Uska apna consent, kyunki woh adult hai"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "The Act applies to unmarried women too, and guardian consent is required only for someone under 18. She can seek care at another approved facility.",
+     "hi": "यह क़ानून अविवाहित महिलाओं पर भी लागू होता है, और अभिभावक की सहमति सिर्फ़ 18 से कम उम्र वालों के लिए ज़रूरी है। वह किसी और मान्यता प्राप्त केंद्र पर सेवा ले सकती है।",
+     "hg": "Act unmarried women par bhi apply hota hai, aur guardian consent sirf 18 se kam umar walon ke liye zaroori hai. Woh kisi aur approved facility par care le sakti hai."
+    }
+   }
+  ],
+  "refs": [
+   "nhm-cac",
+   "who-abortion",
+   "bns-2023",
+   "naco"
+  ],
+  "warning": {
+   "en": "General information about Indian law as of 14 November 2026, not legal or medical advice, and not yet reviewed by a lawyer. Laws can change. Never attempt to end a pregnancy with unprescribed medicines; see a qualified provider at an approved facility.",
+   "hi": "यह 14 नवंबर 2026 तक के भारतीय क़ानून के बारे में सामान्य जानकारी है, क़ानूनी या चिकित्सा सलाह नहीं, और अभी किसी वकील ने इसकी समीक्षा नहीं की है। क़ानून बदल सकते हैं। बिना डॉक्टर के पर्चे की दवाओं से गर्भ गिराने की कोशिश कभी मत कीजिए; किसी मान्यता प्राप्त केंद्र पर योग्य डॉक्टर को दिखाइए।",
+   "hg": "Yeh 14 November 2026 tak ke Indian law ke baare mein general information hai, legal ya medical advice nahi, aur abhi kisi lawyer ne isse review nahi kiya hai. Laws badal sakte hain. Bina prescription ki medicines se pregnancy end karne ki koshish kabhi mat karo; kisi approved facility par qualified provider ko dikhao."
+  },
+  "sensitive": true,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14",
+  "laws": [
+   {
+    "en": "Medical Termination of Pregnancy Act, 1971",
+    "hi": "गर्भ का चिकित्सीय समापन (एमटीपी) अधिनियम, 1971",
+    "hg": "MTP Act, 1971"
+   },
+   {
+    "en": "Protection of Women from Domestic Violence Act, 2005",
+    "hi": "घरेलू हिंसा से महिलाओं का संरक्षण अधिनियम, 2005",
+    "hg": "Domestic Violence Act (PWDVA), 2005"
+   },
+   {
+    "en": "HIV and AIDS (Prevention and Control) Act, 2017",
+    "hi": "एचआईवी और एड्स (निवारण और नियंत्रण) अधिनियम, 2017",
+    "hg": "HIV and AIDS Act, 2017"
+   },
+   {
+    "en": "Transgender Persons (Protection of Rights) Act, 2019",
+    "hi": "उभयलिंगी व्यक्ति (अधिकारों का संरक्षण) अधिनियम, 2019",
+    "hg": "Transgender Persons Act, 2019"
+   },
+   {
+    "en": "Bharatiya Nyaya Sanhita, 2023",
+    "hi": "भारतीय न्याय संहिता, 2023",
+    "hg": "Bharatiya Nyaya Sanhita (BNS), 2023"
+   }
+  ]
+ },
+ {
+  "id": "d16-l05",
+  "domain": "d16",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 8,
+  "unesco": [
+   2,
+   4,
+   5
+  ],
+  "title": {
+   "en": "Your Help Map: Helplines, Schools and Free Legal Aid",
+   "hi": "आपका मदद का नक़्शा: हेल्पलाइन, स्कूल और मुफ़्त क़ानूनी सहायता",
+   "hg": "Tumhara Help Map: Helplines, Schools aur Free Legal Aid"
+  },
+  "subtitle": {
+   "en": "Who to call, what institutions owe you, and the path from problem to help",
+   "hi": "किसे फ़ोन करना है, संस्थाओं की आपके प्रति क्या ज़िम्मेदारी है, और परेशानी से मदद तक का रास्ता",
+   "hg": "Kisko call karna hai, institutions ki tumhare liye kya zimmedari hai, aur problem se help tak ka raasta"
+  },
+  "hook": {
+   "en": "Knowing a number is not the same as knowing what happens when you dial it. This lesson covers both.",
+   "hi": "नंबर पता होना और यह पता होना कि उसे मिलाने पर क्या होता है, दो अलग बातें हैं। इस पाठ में दोनों हैं।",
+   "hg": "Number pata hona aur yeh pata hona ki usse dial karne par kya hota hai, do alag cheezein hain. Is lesson mein dono hain."
+  },
+  "objectives": [
+   {
+    "en": "Match India's main helplines to the problems they handle.",
+    "hi": "भारत की मुख्य हेल्पलाइनों को उन समस्याओं से जोड़ पाना जिनमें वे मदद करती हैं।",
+    "hg": "India ki main helplines ko un problems se match kar paana jinhe woh handle karti hain."
+   },
+   {
+    "en": "State what schools, colleges and workplaces are required to do about abuse and harassment.",
+    "hi": "बता पाना कि शोषण और उत्पीड़न के मामले में स्कूल, कॉलेज और कार्यस्थल के लिए क्या करना ज़रूरी है।",
+    "hg": "Bata paana ki abuse aur harassment ke case mein schools, colleges aur workplaces ke liye kya karna zaroori hai."
+   },
+   {
+    "en": "Follow a step-by-step path to get help, including free legal aid.",
+    "hi": "मदद पाने का क़दम-दर-क़दम रास्ता अपना पाना, मुफ़्त क़ानूनी सहायता समेत।",
+    "hg": "Help lene ka step-by-step raasta follow kar paana, free legal aid ke saath."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "The numbers, and what each one is for",
+     "hi": "नंबर, और कौन-सा किस काम का है",
+     "hg": "Numbers, aur kaun sa kis kaam ka hai"
+    },
+    "body": {
+     "en": "These numbers work across India. 112 is the emergency line for police, ambulance and fire: use it when someone is in danger right now. 1098 is the Child Helpline for anyone under 18 facing abuse, violence, child marriage or neglect, or for anyone worried about a child. 181 is the Women Helpline for violence and harassment. 1930 and cybercrime.gov.in handle online crime, including threats to leak images. 14416 is Tele-MANAS, for mental health support. 1097 is the national HIV/AIDS helpline. For health questions, Adolescent Friendly Health Clinics in government health facilities offer counselling to young people aged 10 to 19.",
+     "hi": "ये नंबर पूरे भारत में काम करते हैं। 112 पुलिस, एम्बुलेंस और दमकल की आपातकालीन लाइन है: इसे तब मिलाइए जब कोई अभी ख़तरे में हो। 1098 चाइल्ड हेल्पलाइन है, 18 से कम उम्र के हर उस इंसान के लिए जो शोषण, हिंसा, बाल विवाह या उपेक्षा झेल रहा हो, या किसी भी ऐसे इंसान के लिए जिसे किसी बच्चे की चिंता हो। 181 महिला हेल्पलाइन है, हिंसा और उत्पीड़न के लिए। 1930 और cybercrime.gov.in ऑनलाइन अपराध देखते हैं, जिसमें तस्वीरें लीक करने की धमकी भी आती है। 14416 टेली-मानस है, मानसिक स्वास्थ्य सहायता के लिए। 1097 राष्ट्रीय एचआईवी/एड्स हेल्पलाइन है। सेहत से जुड़े सवालों के लिए सरकारी स्वास्थ्य केंद्रों के किशोर मैत्री स्वास्थ्य क्लिनिक (AFHC) 10 से 19 साल के युवाओं को परामर्श देते हैं।",
+     "hg": "Yeh numbers poore India mein kaam karte hain. 112 police, ambulance aur fire ki emergency line hai: isse tab dial karo jab koi abhi danger mein ho. 1098 Child Helpline hai, 18 se kam umar ke har us insaan ke liye jo abuse, violence, child marriage ya neglect face kar raha ho, ya kisi bhi aise insaan ke liye jise kisi bachche ki chinta ho. 181 Women Helpline hai, violence aur harassment ke liye. 1930 aur cybercrime.gov.in online crime handle karte hain, jisme images leak karne ki dhamki bhi aati hai. 14416 Tele-MANAS hai, mental health support ke liye. 1097 national HIV/AIDS helpline hai. Health ke sawaalon ke liye government health facilities ke Adolescent Friendly Health Clinics (AFHC) 10 se 19 saal ke young logon ko counselling dete hain."
+    }
+   },
+   {
+    "h": {
+     "en": "What schools, colleges and workplaces owe you",
+     "hi": "स्कूल, कॉलेज और कार्यस्थल की आपके प्रति ज़िम्मेदारी",
+     "hg": "Schools, colleges aur workplaces ki tumhare liye zimmedari"
+    },
+    "body": {
+     "en": "Under POCSO, teachers, principals and other staff who learn that a student under 18 has been sexually abused must report it to the police. Failing to report is an offence, and the head of an institution carries a heavier responsibility. The Right to Education Act, 2009 prohibits physical punishment and mental harassment of children in school. Workplaces, and colleges under UGC rules, must have an Internal Committee to hear sexual harassment complaints. A school should take your complaint seriously, protect your identity, and never pressure you to 'settle' or stay silent. If it does not act, go outside it: a parent, 1098, the police, or the district's Child Welfare Committee.",
+     "hi": "पॉक्सो के तहत, जिन टीचरों, प्रिंसिपलों और दूसरे कर्मचारियों को पता चले कि 18 से कम उम्र के किसी छात्र का यौन शोषण हुआ है, उन्हें पुलिस को सूचना देनी ही होगी। सूचना न देना अपराध है, और संस्था के प्रमुख पर ज़िम्मेदारी और भारी है। शिक्षा का अधिकार अधिनियम, 2009 स्कूल में बच्चों को शारीरिक सज़ा देने और मानसिक रूप से परेशान करने पर रोक लगाता है। कार्यस्थलों में, और यूजीसी (UGC) के नियमों के तहत कॉलेजों में, यौन उत्पीड़न की शिकायतें सुनने के लिए आंतरिक समिति होना ज़रूरी है। स्कूल को आपकी शिकायत गंभीरता से लेनी चाहिए, आपकी पहचान की रक्षा करनी चाहिए, और कभी भी आप पर 'समझौता' करने या चुप रहने का दबाव नहीं डालना चाहिए। अगर स्कूल कुछ न करे, तो उससे बाहर जाइए: मम्मी-पापा, 1098, पुलिस, या ज़िले की बाल कल्याण समिति।",
+     "hg": "POCSO ke under, jin teachers, principals aur doosre staff ko pata chale ki 18 se kam umar ke kisi student ka sexual abuse hua hai, unhe police ko report karna hi hoga. Report na karna offence hai, aur institution ke head par zimmedari aur bhaari hai. Right to Education Act, 2009 school mein bachchon ko physical punishment dene aur mentally harass karne par rok lagata hai. Workplaces mein, aur UGC rules ke under colleges mein, sexual harassment complaints sunne ke liye Internal Committee hona zaroori hai. School ko tumhari complaint seriously leni chahiye, tumhari identity protect karni chahiye, aur kabhi bhi tum par 'settle' karne ya chup rehne ka pressure nahi daalna chahiye. Agar school kuch na kare, toh usse bahar jao: parents, 1098, police, ya district ki Child Welfare Committee."
+    }
+   },
+   {
+    "h": {
+     "en": "A step-by-step path",
+     "hi": "क़दम-दर-क़दम रास्ता",
+     "hg": "Step-by-step raasta"
+    },
+    "body": {
+     "en": "First, get to safety: move towards other people, or call 112. Second, tell one trusted adult, and if they dismiss you, tell another. Third, contact the right service from the list above. Fourth, get medical care if you were hurt or assaulted; some treatments are time-limited. Fifth, write down what you remember: dates, places, names, usernames and what was said. Do not delete chats, and never save or forward a sexual image of anyone under 18. Sixth, expect honesty about confidentiality: if you are under 18, adults who learn of sexual abuse must report it, so ask what will happen next. You can bring someone you trust to every step.",
+     "hi": "पहला, सुरक्षित जगह पहुँचिए: दूसरे लोगों की तरफ़ जाइए, या 112 पर कॉल कीजिए। दूसरा, किसी एक भरोसेमंद बड़े को बताइए, और अगर वे बात टाल दें, तो किसी और को बताइए। तीसरा, ऊपर दी गई सूची में से सही सेवा से संपर्क कीजिए। चौथा, अगर चोट लगी है या यौन हमला हुआ है तो इलाज कराइए; कुछ इलाजों के लिए समय सीमित होता है। पाँचवाँ, जो याद है उसे लिख लीजिए: तारीख़ें, जगहें, नाम, यूज़रनेम और क्या कहा गया। चैट डिलीट मत कीजिए, और 18 से कम उम्र के किसी इंसान की यौन तस्वीर कभी सेव या फ़ॉरवर्ड मत कीजिए। छठा, गोपनीयता पर सच्ची बात की उम्मीद रखिए: अगर आप 18 से कम उम्र के हैं, तो जिन बड़ों को यौन शोषण का पता चलता है उन्हें सूचना देनी होती है, इसलिए पूछ लीजिए कि आगे क्या होगा। हर क़दम पर आप किसी भरोसेमंद इंसान को साथ ले जा सकते हैं।",
+     "hg": "Pehla, safe jagah pahuncho: doosre logon ki taraf jao, ya 112 par call karo. Doosra, kisi ek trusted adult ko batao, aur agar woh baat taal dein, toh kisi aur ko batao. Teesra, upar di gayi list mein se sahi service se contact karo. Chautha, agar chot lagi hai ya assault hua hai toh medical care lo; kuch treatments time-limited hote hain. Paanchva, jo yaad hai usse likh lo: dates, jagah, naam, usernames aur kya bola gaya. Chats delete mat karo, aur 18 se kam umar ke kisi insaan ki sexual image kabhi save ya forward mat karo. Chhatha, confidentiality par honest baat expect karo: agar tum 18 se kam ho, toh jin adults ko sexual abuse ka pata chalta hai unhe report karna hota hai, isliye pooch lo ki aage kya hoga. Har step par tum kisi trusted insaan ko saath le ja sakte ho."
+    }
+   },
+   {
+    "h": {
+     "en": "Legal help, and the limits of this lesson",
+     "hi": "क़ानूनी मदद, और इस पाठ की सीमाएँ",
+     "hg": "Legal help, aur is lesson ki limits"
+    },
+    "body": {
+     "en": "You do not need money to get legal help. Under the Legal Services Authorities Act, 1987, women and children are among those entitled to free legal aid, usually through the District Legal Services Authority at the district court. In POCSO cases the child and family may also be given a support person to guide them through the process. This lesson is about India only, was last updated on 14 November 2026, and has not yet been reviewed by a lawyer. Helpline numbers, schemes and laws can change. It is general information, not legal advice, and it cannot replace a lawyer or a counsellor who knows your situation.",
+     "hi": "क़ानूनी मदद पाने के लिए पैसों की ज़रूरत नहीं है। विधिक सेवा प्राधिकरण अधिनियम, 1987 के तहत महिलाएँ और बच्चे उन लोगों में हैं जिन्हें मुफ़्त क़ानूनी सहायता का हक़ है, जो आम तौर पर ज़िला अदालत में स्थित ज़िला विधिक सेवा प्राधिकरण के ज़रिए मिलती है। पॉक्सो के मामलों में बच्चे और परिवार को पूरी प्रक्रिया में रास्ता दिखाने के लिए एक सहायक व्यक्ति (support person) भी दिया जा सकता है। यह पाठ सिर्फ़ भारत के बारे में है, आख़िरी बार 14 नवंबर 2026 को अपडेट हुआ, और अभी किसी वकील ने इसकी समीक्षा नहीं की है। हेल्पलाइन नंबर, योजनाएँ और क़ानून बदल सकते हैं। यह सामान्य जानकारी है, क़ानूनी सलाह नहीं, और यह उस वकील या काउंसलर की जगह नहीं ले सकता जो आपकी स्थिति जानता हो।",
+     "hg": "Legal help lene ke liye paison ki zaroorat nahi hai. Legal Services Authorities Act, 1987 ke under women aur children un logon mein hain jinhe free legal aid ka haq hai, jo usually district court mein sthit District Legal Services Authority ke through milti hai. POCSO cases mein child aur family ko poore process mein guide karne ke liye ek support person bhi diya ja sakta hai. Yeh lesson sirf India ke baare mein hai, last 14 November 2026 ko update hua, aur abhi kisi lawyer ne isse review nahi kiya hai. Helpline numbers, schemes aur laws badal sakte hain. Yeh general information hai, legal advice nahi, aur yeh us lawyer ya counsellor ki jagah nahi le sakta jo tumhari situation jaanta ho."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "You need money and a lawyer before you can report a crime.",
+    "hi": "अपराध की शिकायत करने से पहले पैसे और वकील चाहिए।",
+    "hg": "Crime report karne se pehle paise aur lawyer chahiye."
+   },
+   "fact": {
+    "en": "Reporting to the police or a helpline costs nothing, and you do not need a lawyer to do it. Women and children are also entitled to free legal aid through the Legal Services Authorities.",
+    "hi": "पुलिस या हेल्पलाइन पर शिकायत करने में कोई पैसा नहीं लगता, और इसके लिए वकील की ज़रूरत नहीं होती। महिलाओं और बच्चों को विधिक सेवा प्राधिकरणों के ज़रिए मुफ़्त क़ानूनी सहायता का भी हक़ है।",
+    "hg": "Police ya helpline par report karne mein koi paisa nahi lagta, aur iske liye lawyer ki zaroorat nahi hoti. Women aur children ko Legal Services Authorities ke through free legal aid ka bhi haq hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "112 is for emergencies, 1098 for under-18s, 181 for women, 1930 for cybercrime, 14416 for mental health and 1097 for HIV.",
+    "hi": "112 आपात स्थिति के लिए, 1098 अठारह से कम उम्र वालों के लिए, 181 महिलाओं के लिए, 1930 साइबर अपराध के लिए, 14416 मानसिक स्वास्थ्य के लिए और 1097 एचआईवी के लिए है।",
+    "hg": "112 emergency ke liye, 1098 under-18 ke liye, 181 women ke liye, 1930 cybercrime ke liye, 14416 mental health ke liye aur 1097 HIV ke liye hai."
+   },
+   {
+    "en": "Schools must report sexual abuse of a student to the police and may not pressure anyone to stay silent.",
+    "hi": "स्कूलों को छात्र के यौन शोषण की सूचना पुलिस को देनी ही होती है और वे किसी पर चुप रहने का दबाव नहीं डाल सकते।",
+    "hg": "Schools ko student ke sexual abuse ki report police ko karni hi hoti hai aur woh kisi par chup rehne ka pressure nahi daal sakte."
+   },
+   {
+    "en": "Women and children are entitled to free legal aid through the District Legal Services Authority.",
+    "hi": "महिलाओं और बच्चों को ज़िला विधिक सेवा प्राधिकरण के ज़रिए मुफ़्त क़ानूनी सहायता का हक़ है।",
+    "hg": "Women aur children ko District Legal Services Authority ke through free legal aid ka haq hai."
+   }
+  ],
+  "activity": {
+   "en": "Draw your own help map: you in the centre, then two trusted adults, one person at school or college, and the helpline numbers that fit your age. Keep a photo of it on your phone.",
+   "hi": "अपना मदद का नक़्शा बनाइए: बीच में आप, फिर दो भरोसेमंद बड़े, स्कूल या कॉलेज का एक इंसान, और आपकी उम्र के हिसाब से सही हेल्पलाइन नंबर। इसकी एक फ़ोटो अपने फ़ोन में रखिए।",
+   "hg": "Apna help map banao: beech mein tum, phir do trusted adults, school ya college ka ek insaan, aur tumhari age ke hisaab se sahi helpline numbers. Iski ek photo apne phone mein rakho."
+  },
+  "interactive": "support_circle",
+  "quiz": [
+   {
+    "id": "d16-l05-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Which number reaches Tele-MANAS, the national mental health helpline?",
+     "hi": "राष्ट्रीय मानसिक स्वास्थ्य हेल्पलाइन टेली-मानस का नंबर कौन-सा है?",
+     "hg": "National mental health helpline Tele-MANAS ka number kaun sa hai?"
+    },
+    "options": [
+     {
+      "en": "Dial 1097",
+      "hi": "1097 मिलाइए",
+      "hg": "1097 dial karo"
+     },
+     {
+      "en": "Dial 1930",
+      "hi": "1930 मिलाइए",
+      "hg": "1930 dial karo"
+     },
+     {
+      "en": "Dial 181",
+      "hi": "181 मिलाइए",
+      "hg": "181 dial karo"
+     },
+     {
+      "en": "Dial 14416",
+      "hi": "14416 मिलाइए",
+      "hg": "14416 dial karo"
+     }
+    ],
+    "answer": 3,
+    "explain": {
+     "en": "14416 is Tele-MANAS. 1097 is the HIV/AIDS helpline, 1930 is for cybercrime and 181 is the Women Helpline.",
+     "hi": "14416 टेली-मानस है। 1097 एचआईवी/एड्स हेल्पलाइन है, 1930 साइबर अपराध के लिए है और 181 महिला हेल्पलाइन है।",
+     "hg": "14416 Tele-MANAS hai. 1097 HIV/AIDS helpline hai, 1930 cybercrime ke liye hai aur 181 Women Helpline hai."
+    }
+   },
+   {
+    "id": "d16-l05-q2",
+    "type": "scenario",
+    "q": {
+     "en": "Kavya, 15, tells her class teacher that the school van driver touches her inappropriately. The principal says, 'Let's not make this a police matter.' What does POCSO require?",
+     "hi": "15 साल की काव्या अपनी क्लास टीचर को बताती है कि स्कूल वैन का ड्राइवर उसे ग़लत ढंग से छूता है। प्रिंसिपल कहते हैं, 'इसे पुलिस का मामला मत बनाओ।' पॉक्सो क्या माँगता है?",
+     "hg": "15 saal ki Kavya apni class teacher ko batati hai ki school van ka driver usse galat tareeke se touch karta hai. Principal bolte hain, 'Isse police matter mat banao.' POCSO kya require karta hai?"
+    },
+    "options": [
+     {
+      "en": "The school must report it to the police or the Special Juvenile Police Unit",
+      "hi": "स्कूल को पुलिस या विशेष किशोर पुलिस इकाई को सूचना देनी ही होगी",
+      "hg": "School ko police ya Special Juvenile Police Unit ko report karna hi hoga"
+     },
+     {
+      "en": "The school may handle it internally if her parents agree",
+      "hi": "अगर काव्या के मम्मी-पापा राज़ी हों तो स्कूल इसे अंदर ही निपटा सकता है",
+      "hg": "Agar Kavya ke parents raazi hon toh school isse internally handle kar sakta hai"
+     },
+     {
+      "en": "Nothing happens until Kavya files a written complaint herself",
+      "hi": "जब तक काव्या ख़ुद लिखित शिकायत न दे, कुछ नहीं होगा",
+      "hg": "Jab tak Kavya khud written complaint na de, kuch nahi hoga"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Reporting is mandatory for adults who know, and failing to report is an offence. A principal cannot choose to keep it inside the school.",
+     "hi": "जिन बड़ों को पता है उनके लिए सूचना देना अनिवार्य है, और सूचना न देना अपराध है। प्रिंसिपल यह तय नहीं कर सकते कि बात स्कूल के भीतर ही रहेगी।",
+     "hg": "Jin adults ko pata hai unke liye report karna mandatory hai, aur report na karna offence hai. Principal yeh decide nahi kar sakte ki baat school ke andar hi rahegi."
+    }
+   }
+  ],
+  "refs": [
+   "wcd-childline",
+   "mha-erss",
+   "cybercrime-portal",
+   "tele-manas",
+   "naco",
+   "nhm-afhc",
+   "pocso-2012"
+  ],
+  "warning": {
+   "en": "General information about India as of 14 November 2026, not legal advice, and not yet reviewed by a lawyer. Numbers and laws can change. If you are in danger right now, call 112.",
+   "hi": "यह 14 नवंबर 2026 तक की भारत से जुड़ी सामान्य जानकारी है, क़ानूनी सलाह नहीं, और अभी किसी वकील ने इसकी समीक्षा नहीं की है। नंबर और क़ानून बदल सकते हैं। अगर आप अभी ख़तरे में हैं, तो 112 पर कॉल कीजिए।",
+   "hg": "Yeh 14 November 2026 tak ki India se judi general information hai, legal advice nahi, aur abhi kisi lawyer ne isse review nahi kiya hai. Numbers aur laws badal sakte hain. Agar tum abhi danger mein ho, toh 112 par call karo."
+  },
+  "sensitive": true,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14",
+  "laws": [
+   {
+    "en": "Legal Services Authorities Act, 1987",
+    "hi": "विधिक सेवा प्राधिकरण अधिनियम, 1987",
+    "hg": "Legal Services Authorities Act, 1987"
+   },
+   {
+    "en": "Right of Children to Free and Compulsory Education Act, 2009",
+    "hi": "निःशुल्क और अनिवार्य बाल शिक्षा का अधिकार अधिनियम, 2009",
+    "hg": "Right to Education (RTE) Act, 2009"
+   },
+   {
+    "en": "POCSO Act, 2012",
+    "hi": "लैंगिक अपराधों से बालकों का संरक्षण (पॉक्सो) अधिनियम, 2012",
+    "hg": "POCSO Act, 2012"
+   }
+  ]
+ },
+ {
+  "id": "d16-l06",
+  "domain": "d16",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 3,
+  "minutes": 8,
+  "unesco": [
+   2,
+   4
+  ],
+  "title": {
+   "en": "The Law in the Hardest Situations",
+   "hi": "सबसे मुश्किल हालात में क़ानून",
+   "hg": "Sabse Mushkil Situations mein Law"
+  },
+  "subtitle": {
+   "en": "A plain map of what Indian law says, and where it falls short",
+   "hi": "भारतीय क़ानून क्या कहता है और कहाँ कमज़ोर पड़ता है, सीधी भाषा में",
+   "hg": "Indian law kya kehta hai aur kahan kamzor padta hai, seedhi baat mein"
+  },
+  "hook": {
+   "en": "Most people learn what the law says only after something terrible has happened. This is the map to read before that.",
+   "hi": "ज़्यादातर लोग क़ानून तब जानते हैं जब कुछ बहुत बुरा हो चुका होता है। यह वह नक़्शा है जिसे उससे पहले पढ़ लेना चाहिए।",
+   "hg": "Zyada-tar log law tab seekhte hain jab kuch bahut bura ho chuka hota hai. Yeh woh map hai jo usse pehle padh lena chahiye."
+  },
+  "objectives": [
+   {
+    "en": "Name, in plain language, the Indian laws on dowry, child marriage, sex selection, workplace sexual harassment, acid attacks, trafficking and sex by deceit.",
+    "hi": "दहेज, बाल विवाह, लिंग चयन, कार्यस्थल पर यौन उत्पीड़न, तेज़ाब के हमले, मानव तस्करी और धोखे से सेक्स पर भारतीय क़ानूनों को सीधी भाषा में बता पाना।",
+    "hg": "Dahej, child marriage, sex selection, workplace sexual harassment, acid attacks, trafficking aur dhoke se sex par Indian laws ko seedhi language mein bata paana."
+   },
+   {
+    "en": "Understand the gaps, including weaker protection for adult male and transgender survivors.",
+    "hi": "क़ानून की कमियाँ समझना, जिनमें वयस्क पुरुष और ट्रांसजेंडर सर्वाइवर के लिए कमज़ोर सुरक्षा शामिल है।",
+    "hg": "Law ke gaps samajhna, jisme adult male aur transgender survivors ke liye weaker protection shaamil hai."
+   },
+   {
+    "en": "Know how to reach free legal aid through NALSA on 15100.",
+    "hi": "जानना कि नालसा (NALSA) के 15100 के ज़रिए मुफ़्त क़ानूनी सहायता तक कैसे पहुँचें।",
+    "hg": "Jaanna ki NALSA ke 15100 ke through free legal aid tak kaise pahunchein."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Marriage and family: dowry and child marriage",
+     "hi": "शादी और परिवार: दहेज और बाल विवाह",
+     "hg": "Shaadi aur family: dahej aur child marriage"
+    },
+    "body": {
+     "en": "Jurisdiction: India. The Dowry Prohibition Act, 1961 makes giving, taking and demanding dowry offences. Under the Bharatiya Nyaya Sanhita (BNS), cruelty to a married woman by her husband or his relatives, including dowry harassment, is a crime. Her unnatural death within seven years of marriage, after such harassment, is treated as 'dowry death'. The Prohibition of Child Marriage Act, 2006 covers marriages where the woman is under 18 or the man under 21. Adults who arrange or conduct one can be punished, as can an adult man who marries a child. Courts can stop one beforehand, and the person married as a child can ask a court to annul it.",
+     "hi": "क्षेत्राधिकार: भारत। दहेज प्रतिषेध अधिनियम, 1961 के तहत दहेज देना, लेना और माँगना अपराध हैं। भारतीय न्याय संहिता (BNS) के तहत शादीशुदा महिला के साथ उसके पति या पति के रिश्तेदारों की क्रूरता, जिसमें दहेज के लिए सताना शामिल है, अपराध है। ऐसे उत्पीड़न के बाद शादी के सात साल के भीतर उसकी असामान्य मौत को 'दहेज मृत्यु' माना जाता है। बाल विवाह प्रतिषेध अधिनियम, 2006 उन शादियों पर लागू होता है जिनमें लड़की 18 से कम या लड़का 21 से कम उम्र का हो। जो वयस्क ऐसी शादी तय करते या करवाते हैं उन्हें सज़ा हो सकती है, और उस वयस्क पुरुष को भी जो किसी बच्ची से शादी करे। अदालत ऐसी शादी को पहले ही रुकवा सकती है, और जिसकी शादी बचपन में हुई वह अदालत से उसे रद्द करने की माँग कर सकता है।",
+     "hg": "Jurisdiction: India. Dowry Prohibition Act, 1961 ke under dahej dena, lena aur maangna offences hain. Bharatiya Nyaya Sanhita (BNS) ke under married woman ke saath uske husband ya husband ke rishtedaaron ki cruelty, jisme dahej ke liye harassment shaamil hai, crime hai. Aise harassment ke baad shaadi ke saat saal ke andar uski unnatural death ko 'dowry death' maana jaata hai. Prohibition of Child Marriage Act, 2006 un shaadiyon par apply hota hai jinme ladki 18 se kam ya ladka 21 se kam umar ka ho. Jo adults aisi shaadi arrange karte ya karwate hain unhe punishment ho sakti hai, aur us adult man ko bhi jo kisi child se shaadi kare. Court aisi shaadi ko pehle hi rukwa sakti hai, aur jiski shaadi bachpan mein hui woh court se use annul karne ki maang kar sakta hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Before birth and at work: sex selection and harassment",
+     "hi": "जन्म से पहले और काम की जगह पर: लिंग चयन और उत्पीड़न",
+     "hg": "Birth se pehle aur kaam ki jagah par: sex selection aur harassment"
+    },
+    "body": {
+     "en": "The PC-PNDT Act, 1994 bans choosing a baby's sex before or after conception and telling anyone the sex of a foetus. Ultrasound clinics must be registered, and doctors and relatives who carry out or seek sex determination can be punished. Abortion for lawful reasons under the MTP Act is separate and stays legal. The POSH Act, 2013 requires workplaces with ten or more workers to have an Internal Committee for women's sexual harassment complaints, including from interns. Smaller workplaces and domestic workers go to the district's Local Committee. Complaints can also go online through SHe-Box; the time limit is usually three months. The Act does not cover men.",
+     "hi": "पीसी-पीएनडीटी अधिनियम, 1994 गर्भधारण से पहले या बाद में बच्चे का लिंग चुनने पर और किसी को भी भ्रूण का लिंग बताने पर रोक लगाता है। अल्ट्रासाउंड क्लिनिकों का पंजीकरण ज़रूरी है, और लिंग जाँच करने वाले डॉक्टरों और करवाने वाले रिश्तेदारों को सज़ा हो सकती है। एमटीपी अधिनियम के तहत वैध कारणों से गर्भपात अलग मामला है और क़ानूनी बना रहता है। पॉश (POSH) अधिनियम, 2013 के तहत दस या उससे ज़्यादा कर्मचारियों वाले कार्यस्थलों में महिलाओं की यौन उत्पीड़न की शिकायतों के लिए आंतरिक समिति (Internal Committee) होनी चाहिए; इंटर्न भी शिकायत कर सकती हैं। छोटे कार्यस्थलों और घरेलू कामगारों की शिकायतें ज़िले की स्थानीय समिति (Local Committee) में जाती हैं। शिकायत शी-बॉक्स (SHe-Box) पर ऑनलाइन भी की जा सकती है; समय-सीमा आम तौर पर तीन महीने है। यह अधिनियम पुरुषों को कवर नहीं करता।",
+     "hg": "PC-PNDT Act, 1994 conception se pehle ya baad mein baby ka sex choose karne par aur kisi ko bhi foetus ka sex batane par ban lagata hai. Ultrasound clinics ka registered hona zaroori hai, aur sex determination karne wale doctors aur karwane wale rishtedaaron ko punishment ho sakti hai. MTP Act ke under lawful reasons se abortion alag matter hai aur legal rehta hai. POSH Act, 2013 ke under das ya usse zyada workers wale workplaces mein women ki sexual harassment complaints ke liye Internal Committee honi chahiye; interns bhi complaint kar sakti hain. Chhote workplaces aur domestic workers ki complaints district ki Local Committee mein jaati hain. Complaint SHe-Box par online bhi ki ja sakti hai; time limit usually teen mahine hai. Yeh Act mardon ko cover nahi karta."
+    }
+   },
+   {
+    "h": {
+     "en": "Acid attacks, trafficking and sex by deceit",
+     "hi": "तेज़ाब के हमले, मानव तस्करी और धोखे से सेक्स",
+     "hg": "Acid attacks, trafficking aur dhoke se sex"
+    },
+    "body": {
+     "en": "The BNS punishes throwing or giving acid to harm a person of any gender, and attempting it, with long prison terms. The Supreme Court has ordered regulated acid sales, and free hospital treatment and compensation for survivors. Trafficking means recruiting, moving or holding a person by force, threat, fraud, abuse of power or payment, for forced labour, sexual exploitation or begging. The person's 'consent' is no defence; trafficking a child is punished more heavily. It is also an offence, separate from rape, for a man to obtain sex from a woman by deceit, including a false promise of marriage, job or promotion, or hiding his identity to marry her.",
+     "hi": "बीएनएस में किसी भी जेंडर के व्यक्ति को नुक़सान पहुँचाने के लिए तेज़ाब फेंकने या किसी और तरह से देने, और इसकी कोशिश करने पर लंबी क़ैद की सज़ा है। सुप्रीम कोर्ट ने तेज़ाब की बिक्री पर नियंत्रण का, और सर्वाइवर को अस्पताल में मुफ़्त इलाज और मुआवज़ा देने का आदेश दिया है। मानव तस्करी का मतलब है जबरन मज़दूरी, यौन शोषण या भीख मँगवाने के लिए किसी व्यक्ति को बल, धमकी, धोखे, ताक़त के दुरुपयोग या पैसे के लेन-देन से भर्ती करना, ले जाना या रोककर रखना। उस व्यक्ति की 'सहमति' कोई बचाव नहीं है; बच्चे की तस्करी पर ज़्यादा कड़ी सज़ा है। यह भी अपराध है, बलात्कार से अलग, कि कोई पुरुष किसी महिला से धोखे से सेक्स हासिल करे, जिसमें शादी, नौकरी या प्रमोशन का झूठा वादा, या अपनी पहचान छिपाकर उससे शादी करना शामिल है।",
+     "hg": "BNS mein kisi bhi gender ke insaan ko harm karne ke liye acid phenkne ya dene, aur iski attempt karne par lambi jail ki saza hai. Supreme Court ne acid ki sale regulate karne ka, aur survivors ko hospital mein free treatment aur compensation dene ka order diya hai. Trafficking ka matlab hai forced labour, sexual exploitation ya bheekh mangwane ke liye kisi insaan ko force, dhamki, fraud, power ke misuse ya payment ke through recruit karna, le jaana ya rokkar rakhna. Us insaan ki 'consent' koi defence nahi hai; child ki trafficking par zyada kadi saza hai. Yeh bhi offence hai, rape se alag, ki koi man kisi woman se dhoke se sex haasil kare, jisme shaadi, job ya promotion ka jhootha promise, ya apni identity chhupakar usse shaadi karna shaamil hai."
+    }
+   },
+   {
+    "h": {
+     "en": "The gaps, free legal aid, and the status of this lesson",
+     "hi": "कमियाँ, मुफ़्त क़ानूनी सहायता, और इस पाठ की स्थिति",
+     "hg": "Gaps, free legal aid, aur is lesson ka status"
+    },
+    "body": {
+     "en": "The law has gaps. The BNS defines rape as committed by a man against a woman, so adult male and transgender survivors have weaker protection, although POCSO protects every child under 18 whatever their gender. The marital exception for forced sex is still under challenge. Free legal aid is a right for women, children, people with disabilities, Scheduled Caste and Scheduled Tribe members, trafficking survivors and people with low incomes: call NALSA on 15100 or visit the District Legal Services Authority. This lesson covers India only, as of 14 November 2026. It has not been reviewed by a lawyer, laws change, and it is general information, not legal advice.",
+     "hi": "क़ानून में कमियाँ हैं। बीएनएस बलात्कार को पुरुष द्वारा महिला के ख़िलाफ़ किया गया अपराध मानती है, इसलिए वयस्क पुरुष और ट्रांसजेंडर सर्वाइवर की सुरक्षा कमज़ोर है, हालाँकि पॉक्सो 18 से कम उम्र के हर बच्चे की रक्षा करता है, उसका जेंडर चाहे जो हो। शादी के भीतर जबरन सेक्स वाले अपवाद को अब भी चुनौती दी जा रही है। मुफ़्त क़ानूनी सहायता महिलाओं, बच्चों, विकलांग व्यक्तियों, अनुसूचित जाति और अनुसूचित जनजाति के लोगों, तस्करी के सर्वाइवर और कम आमदनी वालों का अधिकार है: नालसा (NALSA) को 15100 पर कॉल करें या ज़िला विधिक सेवा प्राधिकरण जाएँ। यह पाठ सिर्फ़ भारत के बारे में है, 14 नवंबर 2026 तक की स्थिति के अनुसार। किसी वकील ने इसकी समीक्षा नहीं की है, क़ानून बदलते हैं, और यह सामान्य जानकारी है, क़ानूनी सलाह नहीं।",
+     "hg": "Law mein gaps hain. BNS rape ko man dwara woman ke against kiya gaya offence maanti hai, isliye adult male aur transgender survivors ki protection kamzor hai, halanki POCSO 18 se kam umar ke har child ko protect karta hai, uska gender chahe jo ho. Shaadi ke andar forced sex wale exception ko abhi bhi challenge kiya ja raha hai. Free legal aid women, children, persons with disabilities, Scheduled Castes aur Scheduled Tribes ke logon, trafficking survivors aur low income walon ka right hai: NALSA ko 15100 par call karo ya District Legal Services Authority jao. Yeh lesson sirf India ke baare mein hai, 14 November 2026 tak ki situation ke hisaab se. Kisi lawyer ne ise review nahi kiya hai, laws badalte hain, aur yeh general information hai, legal advice nahi."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Only the family that takes dowry is breaking the law.",
+    "hi": "क़ानून सिर्फ़ उस परिवार को दोषी मानता है जो दहेज लेता है।",
+    "hg": "Law sirf us family ko guilty maanta hai jo dahej leti hai."
+   },
+   "fact": {
+    "en": "Under the Dowry Prohibition Act, giving, taking and demanding dowry are all offences. But the Act also says that what a person harmed by the offence states in a complaint cannot be used to prosecute them under it, so a bride or her family should not fear reporting harassment. Legal aid on 15100 can advise on a real case.",
+    "hi": "दहेज प्रतिषेध अधिनियम के तहत दहेज देना, लेना और माँगना तीनों अपराध हैं। लेकिन यही क़ानून यह भी कहता है कि अपराध से पीड़ित व्यक्ति शिकायत में जो बताए, उसके आधार पर उस पर इस क़ानून के तहत मुक़दमा नहीं चलाया जा सकता, इसलिए दुल्हन या उसके परिवार को उत्पीड़न की शिकायत करने से डरना नहीं चाहिए। किसी असली मामले में 15100 पर क़ानूनी सहायता सलाह दे सकती है।",
+    "hg": "Dowry Prohibition Act ke under dahej dena, lena aur maangna teeno offences hain. Lekin yahi Act yeh bhi kehta hai ki offence se pareshaan insaan complaint mein jo bataye, uske basis par us par is Act ke under case nahi chalaya ja sakta, isliye dulhan ya uski family ko harassment report karne se darna nahi chahiye. Kisi real case mein 15100 par legal aid advice de sakti hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Dowry, child marriage, sex selection, workplace sexual harassment, acid attacks, trafficking and sex obtained by deceit are each covered by specific Indian laws.",
+    "hi": "दहेज, बाल विवाह, लिंग चयन, कार्यस्थल पर यौन उत्पीड़न, तेज़ाब के हमले, तस्करी और धोखे से हासिल किया गया सेक्स, इन सब पर भारत में अलग-अलग क़ानून हैं।",
+    "hg": "Dahej, child marriage, sex selection, workplace sexual harassment, acid attacks, trafficking aur dhoke se haasil kiya gaya sex, in sab par India mein specific laws hain."
+   },
+   {
+    "en": "The law is uneven: adult male and transgender survivors are protected less than women, while POCSO covers every child.",
+    "hi": "क़ानून बराबर नहीं है: वयस्क पुरुष और ट्रांसजेंडर सर्वाइवर को महिलाओं से कम सुरक्षा मिलती है, जबकि पॉक्सो हर बच्चे को कवर करता है।",
+    "hg": "Law equal nahi hai: adult male aur transgender survivors ko women se kam protection milti hai, jabki POCSO har child ko cover karta hai."
+   },
+   {
+    "en": "For a real situation, start with free legal aid through NALSA on 15100, because this lesson is not legal advice.",
+    "hi": "किसी असली स्थिति में शुरुआत नालसा के 15100 पर मुफ़्त क़ानूनी सहायता से करें, क्योंकि यह पाठ क़ानूनी सलाह नहीं है।",
+    "hg": "Kisi real situation mein start NALSA ke 15100 par free legal aid se karo, kyunki yeh lesson legal advice nahi hai."
+   }
+  ],
+  "activity": {
+   "en": "Find out where your District Legal Services Authority office is and, if you study or work somewhere, who sits on its Internal Committee. Save 15100 in your phone. Do not share anyone's personal case while asking.",
+   "hi": "पता करें कि आपके ज़िला विधिक सेवा प्राधिकरण का दफ़्तर कहाँ है और, अगर आप कहीं पढ़ते या काम करते हैं, तो वहाँ की आंतरिक समिति में कौन-कौन है। 15100 अपने फ़ोन में सेव करें। पूछते समय किसी का निजी मामला साझा न करें।",
+   "hg": "Pata karo ki tumhari District Legal Services Authority ka office kahan hai aur, agar tum kahin padhte ya kaam karte ho, toh wahan ki Internal Committee mein kaun-kaun hai. 15100 apne phone mein save karo. Poochte time kisi ka personal case share mat karo."
+  },
+  "interactive": "ask",
+  "quiz": [
+   {
+    "id": "d16-l06-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Under the Dowry Prohibition Act, which of these is an offence?",
+     "hi": "दहेज प्रतिषेध अधिनियम के तहत इनमें से क्या अपराध है?",
+     "hg": "Dowry Prohibition Act ke under inme se kya offence hai?"
+    },
+    "options": [
+     {
+      "en": "Only taking dowry",
+      "hi": "सिर्फ़ दहेज लेना",
+      "hg": "Sirf dahej lena"
+     },
+     {
+      "en": "Only demanding dowry after the wedding",
+      "hi": "सिर्फ़ शादी के बाद दहेज माँगना",
+      "hg": "Sirf shaadi ke baad dahej maangna"
+     },
+     {
+      "en": "Giving, taking and demanding dowry",
+      "hi": "दहेज देना, लेना और माँगना",
+      "hg": "Dahej dena, lena aur maangna"
+     },
+     {
+      "en": "Nothing, as long as the items are called gifts",
+      "hi": "कुछ नहीं, जब तक उन चीज़ों को तोहफ़ा कहा जाए",
+      "hg": "Kuch nahi, jab tak un cheezon ko gifts bola jaye"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "The Act covers giving, taking and demanding dowry, and calling a demand a 'gift' does not make it legal. A lawyer or NALSA on 15100 can advise on a real case.",
+     "hi": "यह अधिनियम दहेज देने, लेने और माँगने तीनों को कवर करता है, और माँग को 'तोहफ़ा' कह देने से वह क़ानूनी नहीं हो जाती। किसी असली मामले में वकील या नालसा (15100) सलाह दे सकते हैं।",
+     "hg": "Yeh Act dahej dene, lene aur maangne teeno ko cover karta hai, aur demand ko 'gift' bol dene se woh legal nahi ho jaati. Kisi real case mein lawyer ya NALSA (15100) advice de sakte hain."
+    }
+   },
+   {
+    "id": "d16-l06-q2",
+    "type": "scenario",
+    "q": {
+     "en": "Sana, 22, works in a shop with six staff. The owner's brother keeps making sexual remarks, and the shop has no Internal Committee. Where can she complain under the POSH Act?",
+     "hi": "सना, 22, एक दुकान में काम करती है जहाँ छह कर्मचारी हैं। मालिक का भाई बार-बार यौन टिप्पणियाँ करता है, और दुकान में कोई आंतरिक समिति नहीं है। पॉश अधिनियम के तहत वह शिकायत कहाँ कर सकती है?",
+     "hg": "Sana, 22, ek shop mein kaam karti hai jahan chhe staff hain. Owner ka bhai baar-baar sexual remarks karta hai, aur shop mein koi Internal Committee nahi hai. POSH Act ke under woh complaint kahan kar sakti hai?"
+    },
+    "options": [
+     {
+      "en": "The Local Committee for her district, or online through SHe-Box",
+      "hi": "अपने ज़िले की स्थानीय समिति में, या शी-बॉक्स पर ऑनलाइन",
+      "hg": "Apne district ki Local Committee mein, ya SHe-Box par online"
+     },
+     {
+      "en": "Nowhere, because the Act applies only to large companies",
+      "hi": "कहीं नहीं, क्योंकि यह अधिनियम सिर्फ़ बड़ी कंपनियों पर लागू होता है",
+      "hg": "Kahin nahi, kyunki yeh Act sirf badi companies par apply hota hai"
+     },
+     {
+      "en": "Only to the shop owner, whose decision is final",
+      "hi": "सिर्फ़ दुकान के मालिक से, जिसका फ़ैसला आख़िरी होगा",
+      "hg": "Sirf shop owner se, jiska decision final hoga"
+     },
+     {
+      "en": "Only in a court, after hiring a lawyer",
+      "hi": "सिर्फ़ अदालत में, वकील करने के बाद",
+      "hg": "Sirf court mein, lawyer hire karne ke baad"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Workplaces with fewer than ten workers need not have an Internal Committee, so complaints go to the district's Local Committee, and SHe-Box is the government's online route. If she is threatened or assaulted, she can also go to the police.",
+     "hi": "दस से कम कर्मचारियों वाले कार्यस्थलों में आंतरिक समिति ज़रूरी नहीं है, इसलिए शिकायत ज़िले की स्थानीय समिति में जाती है, और शी-बॉक्स सरकार का ऑनलाइन रास्ता है। अगर उसे धमकाया जाए या उस पर हमला हो, तो वह पुलिस के पास भी जा सकती है।",
+     "hg": "Das se kam workers wale workplaces mein Internal Committee zaroori nahi hai, isliye complaint district ki Local Committee mein jaati hai, aur SHe-Box government ka online route hai. Agar use dhamkaya jaye ya us par assault ho, toh woh police ke paas bhi ja sakti hai."
+    }
+   }
+  ],
+  "refs": [
+   "bns-2023",
+   "pcpndt",
+   "shebox",
+   "nalsa",
+   "unicef-child-marriage",
+   "pocso-2012",
+   "ncw"
+  ],
+  "warning": {
+   "en": "General information about Indian law as of 14 November 2026, not legal advice, and not yet reviewed by a lawyer. Laws and court rulings can change. In danger call 112; if under 18 call 1098; women can call 181; free legal aid is on 15100.",
+   "hi": "यह 14 नवंबर 2026 तक के भारतीय क़ानून की सामान्य जानकारी है, क़ानूनी सलाह नहीं, और अभी किसी वकील ने इसकी समीक्षा नहीं की है। क़ानून और अदालती फ़ैसले बदल सकते हैं। ख़तरे में 112 पर कॉल करें; 18 से कम उम्र हो तो 1098; महिलाएँ 181 पर कॉल कर सकती हैं; मुफ़्त क़ानूनी सहायता 15100 पर है।",
+   "hg": "Yeh 14 November 2026 tak ke Indian law ki general information hai, legal advice nahi, aur abhi kisi lawyer ne ise review nahi kiya hai. Laws aur court rulings badal sakte hain. Danger mein 112 par call karo; 18 se kam ho toh 1098; women 181 par call kar sakti hain; free legal aid 15100 par hai."
+  },
+  "sensitive": true,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14",
+  "laws": [
+   {
+    "en": "Bharatiya Nyaya Sanhita, 2023",
+    "hi": "भारतीय न्याय संहिता, 2023",
+    "hg": "Bharatiya Nyaya Sanhita (BNS), 2023"
+   },
+   {
+    "en": "POCSO Act, 2012",
+    "hi": "लैंगिक अपराधों से बालकों का संरक्षण (पॉक्सो) अधिनियम, 2012",
+    "hg": "POCSO Act, 2012"
+   },
+   {
+    "en": "Prohibition of Child Marriage Act, 2006",
+    "hi": "बाल विवाह प्रतिषेध अधिनियम, 2006",
+    "hg": "Child Marriage Act, 2006"
+   },
+   {
+    "en": "Dowry Prohibition Act, 1961",
+    "hi": "दहेज प्रतिषेध अधिनियम, 1961",
+    "hg": "Dowry Prohibition Act, 1961"
+   },
+   {
+    "en": "Sexual Harassment of Women at Workplace (POSH) Act, 2013",
+    "hi": "कार्यस्थल पर महिलाओं का लैंगिक उत्पीड़न (पॉश) अधिनियम, 2013",
+    "hg": "POSH Act, 2013"
+   },
+   {
+    "en": "Medical Termination of Pregnancy Act, 1971",
+    "hi": "गर्भ का चिकित्सीय समापन (एमटीपी) अधिनियम, 1971",
+    "hg": "MTP Act, 1971"
+   },
+   {
+    "en": "Pre-Conception and Pre-Natal Diagnostic Techniques (PC-PNDT) Act, 1994",
+    "hi": "गर्भधारण पूर्व और प्रसव पूर्व निदान तकनीक (पीसीपीएनडीटी) अधिनियम, 1994",
+    "hg": "PC-PNDT Act, 1994"
+   }
+  ]
+ }
+]

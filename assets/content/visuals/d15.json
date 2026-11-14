@@ -1,0 +1,398 @@
+[
+ {
+  "lesson": "d15-l01",
+  "type": "grid",
+  "title": {
+   "en": "Growing up: facts, not myths",
+   "hi": "बड़ा होना: मिथक नहीं, सच",
+   "hg": "Growing up: myths nahi, facts"
+  },
+  "items": [
+   {
+    "icon": "drop",
+    "label": {
+     "en": "Periods are clean",
+     "hi": "पीरियड्स अशुद्ध नहीं",
+     "hg": "Periods impure nahi"
+    },
+    "text": {
+     "en": "Menstrual blood is ordinary blood and tissue. A period makes nobody impure.",
+     "hi": "माहवारी का ख़ून आम ख़ून और ऊतक है। पीरियड किसी को अशुद्ध नहीं बनाता।",
+     "hg": "Period ka blood normal blood aur tissue hai. Period kisi ko impure nahi banata."
+    }
+   },
+   {
+    "icon": "exercise",
+    "label": {
+     "en": "Move if you like",
+     "hi": "मन हो तो खेलो-कूदो",
+     "hg": "Mann ho toh khelo-koodo"
+    },
+    "text": {
+     "en": "Running, yoga, dancing, sports and bathing are all safe during a period.",
+     "hi": "पीरियड्स में दौड़ना, योग, डांस, खेल और नहाना, सब सुरक्षित है।",
+     "hg": "Periods mein running, yoga, dance, sports aur nahana, sab safe hai."
+    }
+   },
+   {
+    "icon": "moon",
+    "label": {
+     "en": "Wet dreams are normal",
+     "hi": "स्वप्नदोष कोई दोष नहीं",
+     "hg": "Wet dreams normal hain"
+    },
+    "text": {
+     "en": "Semen may come out during sleep. It is not urine, illness or weakness.",
+     "hi": "नींद में वीर्य निकल सकता है। यह न पेशाब है, न बीमारी, न कमज़ोरी।",
+     "hg": "Neend mein semen nikal sakta hai. Yeh na urine hai, na bimari, na kamzori."
+    }
+   },
+   {
+    "icon": "growth",
+    "label": {
+     "en": "Different timelines",
+     "hi": "सबका अपना समय",
+     "hg": "Sabka apna time"
+    },
+    "text": {
+     "en": "Puberty usually starts between 8 and 13 in girls and 9 and 14 in boys.",
+     "hi": "प्यूबर्टी आम तौर पर लड़कियों में 8 से 13 और लड़कों में 9 से 14 साल के बीच शुरू होती है।",
+     "hg": "Puberty usually girls mein 8 se 13 aur boys mein 9 se 14 saal ke beech start hoti hai."
+    }
+   },
+   {
+    "icon": "doctor",
+    "label": {
+     "en": "When to see a doctor",
+     "hi": "डॉक्टर को कब दिखाएँ",
+     "hg": "Doctor ko kab dikhayein"
+    },
+    "text": {
+     "en": "If changes start very early or very late, periods have not begun by 15, or pain stops normal activities.",
+     "hi": "अगर बदलाव बहुत जल्दी या बहुत देर से शुरू हों, 15 तक पीरियड्स शुरू न हों, या दर्द रोज़ के काम रोक दे।",
+     "hg": "Agar changes bahut jaldi ya bahut late start hon, 15 tak periods start na hon, ya pain roz ke kaam rok de."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d15-l02",
+  "type": "compare",
+  "title": {
+   "en": "Masturbation myths vs science",
+   "hi": "हस्तमैथुन: मिथक बनाम विज्ञान",
+   "hg": "Masturbation: myths vs science"
+  },
+  "left": {
+   "title": {
+    "en": "Myth",
+    "hi": "मिथक",
+    "hg": "Myth"
+   },
+   "tone": "bad",
+   "icon": "cross",
+   "points": [
+    {
+     "en": "It causes weakness, pimples, hair fall or weak eyesight.",
+     "hi": "इससे कमज़ोरी आती है, मुँहासे होते हैं, बाल झड़ते हैं या नज़र कमज़ोर होती है।",
+     "hg": "Isse kamzori, pimples, hair fall ya weak eyesight hoti hai."
+    },
+    {
+     "en": "It leads to infertility later in life.",
+     "hi": "आगे चलकर इससे संतान नहीं हो पाती।",
+     "hg": "Aage chalkar isse infertility ho jaati hai."
+    },
+    {
+     "en": "One drop of semen is made from many drops of blood.",
+     "hi": "वीर्य की एक बूँद ख़ून की कई बूँदों से बनती है।",
+     "hg": "Semen ki ek boond blood ki kai boondon se banti hai."
+    },
+    {
+     "en": "Losing semen ('dhat') drains your strength.",
+     "hi": "वीर्य निकलने ('धात') से ताक़त ख़त्म हो जाती है।",
+     "hg": "Semen nikalne ('dhat') se taakat khatam ho jaati hai."
+    }
+   ]
+  },
+  "right": {
+   "title": {
+    "en": "Science",
+    "hi": "विज्ञान",
+    "hg": "Science"
+   },
+   "tone": "good",
+   "icon": "check",
+   "points": [
+    {
+     "en": "None of these is true. It is common and not physically harmful.",
+     "hi": "इनमें से कुछ भी सच नहीं। यह आम है और शरीर को नुक़सान नहीं पहुँचाता।",
+     "hg": "Inme se kuch bhi sach nahi. Yeh common hai aur body ko harm nahi karta."
+    },
+    {
+     "en": "Fertility depends on the health of the reproductive organs.",
+     "hi": "संतान होना प्रजनन अंगों की सेहत पर निर्भर करता है।",
+     "hg": "Fertility reproductive organs ki health par depend karti hai."
+    },
+    {
+     "en": "Semen is mostly fluid from glands, made continuously from puberty.",
+     "hi": "वीर्य ज़्यादातर ग्रंथियों का द्रव है, जो प्यूबर्टी से लगातार बनता रहता है।",
+     "hg": "Semen zyadatar glands ka fluid hai, jo puberty se lagataar banta rehta hai."
+    },
+    {
+     "en": "Releasing it uses up no energy or 'manhood'. A doctor can help with the worry.",
+     "hi": "इसके निकलने से न ताक़त घटती है, न 'मर्दानगी'। इस चिंता में डॉक्टर मदद कर सकते हैं।",
+     "hg": "Iske nikalne se na energy jaati hai, na 'manhood'. Is worry mein doctor help kar sakte hain."
+    }
+   ]
+  }
+ },
+ {
+  "lesson": "d15-l03",
+  "type": "grid",
+  "title": {
+   "en": "What a body cannot reveal",
+   "hi": "शरीर क्या नहीं बता सकता",
+   "hg": "Body kya nahi bata sakti"
+  },
+  "items": [
+   {
+    "icon": "info",
+    "label": {
+     "en": "The hymen is not a seal",
+     "hi": "हाइमन कोई सील नहीं",
+     "hg": "Hymen koi seal nahi"
+    },
+    "text": {
+     "en": "It is a thin, stretchy rim of tissue that normally has an opening.",
+     "hi": "यह ऊतक का एक पतला, लचीला घेरा है, जिसमें आम तौर पर एक खुली जगह होती है।",
+     "hg": "Yeh tissue ka ek patla, stretchy rim hai, jismein normally ek opening hoti hai."
+    }
+   },
+   {
+    "icon": "drop",
+    "label": {
+     "en": "Bleeding varies",
+     "hi": "ख़ून आना तय नहीं",
+     "hg": "Bleeding fixed nahi"
+    },
+    "text": {
+     "en": "Hymens vary naturally. There may or may not be bleeding during first sex; many people do not bleed.",
+     "hi": "हर किसी का हाइमन अलग होता है। पहली बार सेक्स में ख़ून आ भी सकता है और नहीं भी; बहुतों को नहीं आता।",
+     "hg": "Har kisi ka hymen alag hota hai. Pehli baar sex mein bleeding ho bhi sakti hai aur nahi bhi; bahuton ko nahi hoti."
+    }
+   },
+   {
+    "icon": "test",
+    "label": {
+     "en": "No test can tell",
+     "hi": "कोई जाँच नहीं बता सकती",
+     "hg": "Koi test nahi bata sakta"
+    },
+    "text": {
+     "en": "No exam can show sexual history. India's Supreme Court has prohibited the two-finger test.",
+     "hi": "कोई भी जाँच यौन इतिहास नहीं बता सकती। भारत के सुप्रीम कोर्ट ने 'टू-फ़िंगर टेस्ट' पर रोक लगाई है।",
+     "hg": "Koi bhi exam sexual history nahi bata sakta. India ke Supreme Court ne two-finger test par rok lagayi hai."
+    }
+   },
+   {
+    "icon": "eye_off",
+    "label": {
+     "en": "Looks tell nothing",
+     "hi": "रंग-रूप से कुछ पता नहीं चलता",
+     "hg": "Looks se kuch pata nahi chalta"
+    },
+    "text": {
+     "en": "Hips, walk, skin and body shape come from genes, hormones and growth, not sexual history.",
+     "hi": "कूल्हे, चाल, त्वचा और शरीर की बनावट जीन, हॉर्मोन और बढ़ती उम्र से तय होते हैं, यौन इतिहास से नहीं।",
+     "hg": "Hips, chaal, skin aur body shape genes, hormones aur growth se aate hain, sexual history se nahi."
+    }
+   },
+   {
+    "icon": "egg",
+    "label": {
+     "en": "The first time counts",
+     "hi": "पहली बार भी गर्भ संभव",
+     "hg": "First time bhi pregnancy possible"
+    },
+    "text": {
+     "en": "Pregnancy can happen the first time. Withdrawal and 'safe days' are unreliable.",
+     "hi": "पहली बार में भी गर्भ ठहर सकता है। विदड्रॉअल और 'सेफ़ डेज़' भरोसेमंद नहीं हैं।",
+     "hg": "Pehli baar mein bhi pregnancy ho sakti hai. Withdrawal aur 'safe days' reliable nahi hain."
+    }
+   },
+   {
+    "icon": "hourglass",
+    "label": {
+     "en": "Waiting is valid",
+     "hi": "इंतज़ार करना भी सही है",
+     "hg": "Wait karna bhi valid hai"
+    },
+    "text": {
+     "en": "Under Indian law, a person below 18 cannot consent to sex. Choosing to wait is always valid.",
+     "hi": "भारतीय क़ानून में 18 से कम उम्र का इंसान सेक्स के लिए सहमति नहीं दे सकता। इंतज़ार चुनना हमेशा सही है।",
+     "hg": "Indian law mein 18 se kam umar ka insaan sex ke liye consent nahi de sakta. Wait karne ka choice hamesha valid hai."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d15-l04",
+  "type": "compare",
+  "title": {
+   "en": "HIV, STIs and the pill: myth vs fact",
+   "hi": "एचआईवी, एसटीआई और गोली: मिथक बनाम सच",
+   "hg": "HIV, STIs aur pill: myth vs fact"
+  },
+  "left": {
+   "title": {
+    "en": "Myth",
+    "hi": "मिथक",
+    "hg": "Myth"
+   },
+   "tone": "bad",
+   "icon": "cross",
+   "points": [
+    {
+     "en": "HIV spreads by hugging, sharing food, toilets or mosquito bites.",
+     "hi": "एचआईवी गले लगने, साथ खाने, शौचालय या मच्छर के काटने से फैलता है।",
+     "hg": "HIV hug karne, saath khane, toilet ya machhar ke kaatne se phailta hai."
+    },
+    {
+     "en": "You would see or feel it if you had an STI.",
+     "hi": "एसटीआई होता तो दिख जाता या महसूस होता।",
+     "hg": "STI hota toh dikh jaata ya feel hota."
+    },
+    {
+     "en": "The emergency pill is an abortion pill.",
+     "hi": "इमरजेंसी गोली गर्भपात की गोली है।",
+     "hg": "Emergency pill abortion pill hai."
+    },
+    {
+     "en": "A video with millions of views must be right.",
+     "hi": "लाखों व्यूज़ वाला वीडियो सही ही होगा।",
+     "hg": "Millions views wala video sahi hi hoga."
+    }
+   ]
+  },
+  "right": {
+   "title": {
+    "en": "Fact",
+    "hi": "सच",
+    "hg": "Fact"
+   },
+   "tone": "good",
+   "icon": "check",
+   "points": [
+    {
+     "en": "HIV does not spread through everyday contact like this.",
+     "hi": "एचआईवी ऐसे रोज़मर्रा के मेल-जोल से नहीं फैलता।",
+     "hg": "HIV aise everyday contact se nahi phailta."
+    },
+    {
+     "en": "Many STIs have no symptoms. Only a test can tell.",
+     "hi": "बहुत से एसटीआई के कोई लक्षण नहीं होते। सिर्फ़ जाँच से पता चलता है।",
+     "hg": "Bahut se STIs ke koi symptoms nahi hote. Sirf test se pata chalta hai."
+    },
+    {
+     "en": "Emergency contraception delays ovulation and does not end an established pregnancy.",
+     "hi": "इमरजेंसी गर्भनिरोधक ओव्यूलेशन को टालता है, ठहर चुके गर्भ को ख़त्म नहीं करता।",
+     "hg": "Emergency contraception ovulation ko delay karta hai, established pregnancy ko end nahi karta."
+    },
+    {
+     "en": "Views show popularity, not accuracy. Check who is speaking and their source.",
+     "hi": "व्यूज़ लोकप्रियता दिखाते हैं, सच्चाई नहीं। देखो कौन बोल रहा है और उसका स्रोत क्या है।",
+     "hg": "Views popularity dikhate hain, accuracy nahi. Check karo kaun bol raha hai aur uska source kya hai."
+    }
+   ]
+  }
+ },
+ {
+  "lesson": "d15-l05",
+  "type": "grid",
+  "title": {
+   "en": "Marriage is not consent; control is not love",
+   "hi": "शादी सहमति नहीं, कंट्रोल प्यार नहीं",
+   "hg": "Shaadi consent nahi, control pyaar nahi"
+  },
+  "items": [
+   {
+    "icon": "yes",
+    "label": {
+     "en": "A yes every time",
+     "hi": "हर बार 'हाँ' ज़रूरी",
+     "hg": "Har baar 'haan' zaroori"
+    },
+    "text": {
+     "en": "Consent is a free yes to a specific act at a specific time, and it can be withdrawn.",
+     "hi": "सहमति किसी ख़ास समय पर किसी ख़ास क्रिया के लिए अपनी मर्ज़ी की 'हाँ' है, और इसे वापस लिया जा सकता है।",
+     "hg": "Consent ek specific time par specific act ke liye free 'haan' hai, aur ise wapas liya ja sakta hai."
+    }
+   },
+   {
+    "icon": "no",
+    "label": {
+     "en": "A no still counts",
+     "hi": "'ना' का वज़न वही है",
+     "hg": "'No' ab bhi count hota hai"
+    },
+    "text": {
+     "en": "A spouse may be tired, unwell or unwilling; their no weighs the same as before the wedding.",
+     "hi": "पति या पत्नी थके, बीमार या अनिच्छुक हो सकते हैं; उनकी 'ना' का वज़न शादी से पहले जितना ही है।",
+     "hg": "Spouse thaka hua, bimaar ya unwilling ho sakta hai; unki 'no' ka weight shaadi se pehle jitna hi hai."
+    }
+   },
+   {
+    "icon": "law",
+    "label": {
+     "en": "The law, honestly",
+     "hi": "क़ानून, साफ़-साफ़",
+     "hg": "Law, honestly"
+    },
+    "text": {
+     "en": "The BNS marital exception is contested and under challenge; the domestic violence law offers protection.",
+     "hi": "BNS का शादी वाला अपवाद विवादित है और अदालत में उसे चुनौती दी गई है; घरेलू हिंसा क़ानून सुरक्षा देता है।",
+     "hg": "BNS ka marital exception contested hai aur court mein challenge ho raha hai; domestic violence law protection deta hai."
+    }
+   },
+   {
+    "icon": "talk",
+    "label": {
+     "en": "Set your own pace",
+     "hi": "अपनी रफ़्तार ख़ुद तय करो",
+     "hg": "Apni pace khud set karo"
+    },
+    "text": {
+     "en": "Couples can drop the old script and decide together by asking and listening.",
+     "hi": "जोड़े पुरानी सोच को किनारे रखकर, पूछकर और सुनकर, मिलकर फ़ैसला कर सकते हैं।",
+     "hg": "Couples purani script side mein rakhkar, poochhkar aur sunkar, saath mein decide kar sakte hain."
+    }
+   },
+   {
+    "icon": "eye",
+    "label": {
+     "en": "Control is not love",
+     "hi": "कंट्रोल प्यार नहीं है",
+     "hg": "Control pyaar nahi hai"
+    },
+    "text": {
+     "en": "Checking phones, demanding passwords, tracking location and hitting 'out of love' are control.",
+     "hi": "फ़ोन चेक करना, पासवर्ड माँगना, लोकेशन ट्रैक करना और 'प्यार में' मारना, ये सब कंट्रोल है।",
+     "hg": "Phone check karna, passwords maangna, location track karna aur 'pyaar mein' maarna, yeh sab control hai."
+    }
+   },
+   {
+    "icon": "sos",
+    "label": {
+     "en": "Help exists",
+     "hi": "मदद मौजूद है",
+     "hg": "Help available hai"
+    },
+    "text": {
+     "en": "112 in an emergency, Tele-MANAS on 14416, and for women 181 and One Stop Centres.",
+     "hi": "इमरजेंसी में 112, टेली-मानस 14416, और महिलाओं के लिए 181 व वन स्टॉप सेंटर।",
+     "hg": "Emergency mein 112, Tele-MANAS 14416, aur women ke liye 181 aur One Stop Centres."
+    }
+   }
+  ]
+ }
+]

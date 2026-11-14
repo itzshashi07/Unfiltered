@@ -1,0 +1,266 @@
+[
+ {
+  "id": "d10-q01",
+  "domain": "d10",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "vulva_vaginal"
+  ],
+  "type": "mcq",
+  "q": {
+   "en": "After using the toilet, in which direction should a person with a vulva wipe or wash?",
+   "hi": "टॉयलेट के बाद जिनके पास वल्वा है, उन्हें किस दिशा में पोंछना या धोना चाहिए?",
+   "hg": "Toilet ke baad jinke paas vulva hai, unhe kis direction mein ponchhna ya dhona chahiye?"
+  },
+  "options": [
+   {
+    "en": "Front to back",
+    "hi": "आगे से पीछे",
+    "hg": "Aage se peeche"
+   },
+   {
+    "en": "Back to front",
+    "hi": "पीछे से आगे",
+    "hg": "Peeche se aage"
+   },
+   {
+    "en": "Side to side",
+    "hi": "एक तरफ़ से दूसरी तरफ़",
+    "hg": "Ek side se dusri side"
+   },
+   {
+    "en": "It does not matter",
+    "hi": "इससे कोई फ़र्क़ नहीं पड़ता",
+    "hg": "Isse koi fark nahi padta"
+   }
+  ],
+  "answer": 0,
+  "explain": {
+   "en": "Wiping front to back keeps germs from the bottom away from the opening where urine comes out, which lowers the chance of a urine infection.",
+   "hi": "आगे से पीछे पोंछने से पीछे के कीटाणु उस छेद से दूर रहते हैं जहाँ से पेशाब निकलता है, जिससे पेशाब के संक्रमण की आशंका घटती है।",
+   "hg": "Aage se peeche ponchhne se peeche ke germs us opening se door rehte hain jahan se urine nikalta hai, jisse urine infection ka chance kam hota hai."
+  }
+ },
+ {
+  "id": "d10-q02",
+  "domain": "d10",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "tf",
+  "q": {
+   "en": "During a proper check-up, the doctor should explain what they are going to do, and you can have a trusted adult with you.",
+   "hi": "सही जाँच के दौरान डॉक्टर को बताना चाहिए कि वे क्या करने वाले हैं, और तुम्हारे साथ कोई भरोसेमंद बड़ा रह सकता है।",
+   "hg": "Sahi check-up ke dauraan doctor ko batana chahiye ki woh kya karne wale hain, aur tumhare saath koi trusted adult reh sakta hai."
+  },
+  "options": [
+   {
+    "en": "True",
+    "hi": "सही",
+    "hg": "Sahi"
+   },
+   {
+    "en": "False",
+    "hi": "ग़लत",
+    "hg": "Galat"
+   }
+  ],
+  "answer": 0,
+  "explain": {
+   "en": "A safe check-up is explained first and you may ask questions or ask the doctor to stop. Having a parent or trusted adult present is your right.",
+   "hi": "सुरक्षित जाँच में पहले सब समझाया जाता है और तुम सवाल पूछ सकते हो या डॉक्टर को रुकने को कह सकते हो। मम्मी-पापा या किसी भरोसेमंद बड़े का साथ होना तुम्हारा हक़ है।",
+   "hg": "Safe check-up mein pehle sab explain kiya jaata hai aur tum sawaal puch sakte ho ya doctor ko rukne ko bol sakte ho. Parent ya trusted adult ka saath hona tumhara haq hai."
+  }
+ },
+ {
+  "id": "d10-q03",
+  "domain": "d10",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "vulva_vaginal"
+  ],
+  "type": "mcq",
+  "q": {
+   "en": "In a person with a vulva, which opening does urine come out of?",
+   "hi": "जिनके पास वल्वा है, उनमें पेशाब किस छेद से निकलता है?",
+   "hg": "Jinke paas vulva hai, unmein urine kis opening se nikalta hai?"
+  },
+  "options": [
+   {
+    "en": "The vagina",
+    "hi": "योनि से",
+    "hg": "Vagina se"
+   },
+   {
+    "en": "The urethra, a separate small opening",
+    "hi": "मूत्रमार्ग से, जो एक अलग छोटा छेद है",
+    "hg": "Urethra se, jo ek alag chhoti opening hai"
+   },
+   {
+    "en": "The anus",
+    "hi": "गुदा से",
+    "hg": "Anus se"
+   },
+   {
+    "en": "The cervix",
+    "hi": "गर्भाशय ग्रीवा (सर्विक्स) से",
+    "hg": "Cervix se"
+   }
+  ],
+  "answer": 1,
+  "explain": {
+   "en": "The urethra is a separate opening just above the vagina. Urine never passes through the vagina, which belongs to the reproductive system.",
+   "hi": "मूत्रमार्ग योनि के ठीक ऊपर एक अलग छेद है। पेशाब कभी योनि से नहीं गुज़रता, जो प्रजनन तंत्र का हिस्सा है।",
+   "hg": "Urethra vagina ke theek upar ek alag opening hai. Urine kabhi vagina se nahi guzarta, jo reproductive system ka hissa hai."
+  }
+ },
+ {
+  "id": "d10-q04",
+  "domain": "d10",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [],
+  "type": "scenario",
+  "q": {
+   "en": "After football practice in humid weather, Imran notices an itchy red patch in his groin folds. A friend offers a cream he used last year. What is the best step?",
+   "hi": "उमस भरे मौसम में फ़ुटबॉल प्रैक्टिस के बाद इमरान को जाँघों की सिलवटों में खुजली वाला लाल चकत्ता दिखता है। एक दोस्त उसे वह क्रीम देता है जो उसने पिछले साल लगाई थी। सबसे अच्छा क़दम क्या है?",
+   "hg": "Humid weather mein football practice ke baad Imran ko groin folds mein khujli wala laal patch dikhta hai. Ek dost use woh cream deta hai jo usne pichhle saal lagayi thi. Best step kya hai?"
+  },
+  "options": [
+   {
+    "en": "Use the friend's cream twice a day",
+    "hi": "दोस्त की क्रीम दिन में दो बार लगाना",
+    "hg": "Dost ki cream din mein do baar lagana"
+   },
+   {
+    "en": "Scrub the area with antiseptic liquid",
+    "hi": "उस जगह को एंटीसेप्टिक लिक्विड से रगड़ना",
+    "hg": "Us jagah ko antiseptic liquid se ragadna"
+   },
+   {
+    "en": "Keep the area clean and dry, change sweaty underwear, and see a doctor if it does not clear",
+    "hi": "उस जगह को साफ़ और सूखा रखना, पसीने वाला अंडरवियर बदलना, और ठीक न हो तो डॉक्टर को दिखाना",
+    "hg": "Us jagah ko saaf aur dry rakhna, paseene wala underwear badalna, aur theek na ho toh doctor ko dikhana"
+   }
+  ],
+  "answer": 2,
+  "explain": {
+   "en": "Sweaty skin folds often get fungal rashes. Borrowed creams may be the wrong kind and some make fungal infections worse, so dryness plus a doctor's advice is safer.",
+   "hi": "पसीने वाली त्वचा की सिलवटों में अक्सर फ़ंगल दाने हो जाते हैं। माँगी हुई क्रीम ग़लत तरह की हो सकती है और कुछ क्रीम फ़ंगल संक्रमण को बिगाड़ देती हैं, इसलिए सूखा रखना और डॉक्टर की सलाह लेना ज़्यादा सुरक्षित है।",
+   "hg": "Paseene wale skin folds mein aksar fungal rashes ho jaate hain. Maangi hui cream galat type ki ho sakti hai aur kuch creams fungal infection ko bigaad deti hain, isliye dry rakhna aur doctor ki advice lena zyada safe hai."
+  }
+ },
+ {
+  "id": "d10-q05",
+  "domain": "d10",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "Which combination of symptoms needs medical care on the same day?",
+   "hi": "लक्षणों के किस मेल में उसी दिन डॉक्टर को दिखाना ज़रूरी है?",
+   "hg": "Symptoms ke kis combination mein usi din doctor ko dikhana zaroori hai?"
+  },
+  "options": [
+   {
+    "en": "Mild itching after shaving",
+    "hi": "शेविंग के बाद हल्की खुजली",
+    "hg": "Shaving ke baad halki khujli"
+   },
+   {
+    "en": "Clear, stretchy discharge in the middle of the cycle",
+    "hi": "चक्र के बीच में साफ़, खिंचने वाला डिस्चार्ज",
+    "hg": "Cycle ke beech mein clear, stretchy discharge"
+   },
+   {
+    "en": "One testicle hanging slightly lower than the other",
+    "hi": "एक अंडकोष का दूसरे से थोड़ा नीचे लटकना",
+    "hg": "Ek testicle ka dusre se thoda neeche latakna"
+   },
+   {
+    "en": "Burning urination with fever and pain in the back or side",
+    "hi": "पेशाब में जलन के साथ बुख़ार और कमर या पेट के किनारे की तरफ़ दर्द",
+    "hg": "Urine mein jalan ke saath bukhaar aur kamar ya side mein dard"
+   }
+  ],
+  "answer": 3,
+  "explain": {
+   "en": "Fever with back or side pain alongside urinary symptoms can mean the infection has reached the kidneys. The other three are normal variations.",
+   "hi": "पेशाब के लक्षणों के साथ बुख़ार और कमर या पेट के किनारे की तरफ़ दर्द का मतलब हो सकता है कि संक्रमण गुर्दों तक पहुँच गया है। बाक़ी तीनों सामान्य हैं।",
+   "hg": "Urine wale symptoms ke saath bukhaar aur kamar ya side mein dard ka matlab ho sakta hai ki infection kidneys tak pahunch gaya hai. Baaki teeno normal variations hain."
+  }
+ },
+ {
+  "id": "d10-q06",
+  "domain": "d10",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "type": "mcq",
+  "q": {
+   "en": "How does WHO define infertility?",
+   "hi": "WHO इनफर्टिलिटी को कैसे परिभाषित करता है?",
+   "hg": "WHO infertility ko kaise define karta hai?"
+  },
+  "options": [
+   {
+    "en": "No pregnancy after three months of trying",
+    "hi": "तीन महीने की कोशिश के बाद गर्भ न ठहरना",
+    "hg": "Teen mahine ki koshish ke baad pregnancy na hona"
+   },
+   {
+    "en": "No pregnancy after 12 months or more of regular unprotected intercourse",
+    "hi": "12 महीने या उससे ज़्यादा नियमित, बिना बचाव के संभोग के बाद गर्भ न ठहरना",
+    "hg": "12 mahine ya usse zyada regular unprotected intercourse ke baad pregnancy na hona"
+   },
+   {
+    "en": "Any irregular menstrual cycle",
+    "hi": "माहवारी का कोई भी अनियमित चक्र",
+    "hg": "Koi bhi irregular menstrual cycle"
+   },
+   {
+    "en": "A low sperm count on a single test",
+    "hi": "एक ही टेस्ट में शुक्राणुओं की कम संख्या",
+    "hg": "Ek hi test mein low sperm count"
+   }
+  ],
+  "answer": 1,
+  "explain": {
+   "en": "The definition is based on 12 months or more of regular unprotected intercourse without pregnancy. It can involve either partner, so both are assessed.",
+   "hi": "परिभाषा का आधार है 12 महीने या उससे ज़्यादा नियमित, बिना बचाव के संभोग के बाद भी गर्भ न ठहरना। वजह किसी भी पार्टनर में हो सकती है, इसलिए दोनों की जाँच होती है।",
+   "hg": "Definition ka base hai 12 mahine ya usse zyada regular unprotected intercourse ke baad bhi pregnancy na hona. Wajah kisi bhi partner mein ho sakti hai, isliye dono ki jaanch hoti hai."
+  }
+ }
+]

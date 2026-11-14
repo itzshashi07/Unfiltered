@@ -1,0 +1,469 @@
+[
+ {
+  "lesson": "d16-l01",
+  "type": "steps",
+  "title": {
+   "en": "When you tell, the law helps",
+   "hi": "जब तुम बताते हो, क़ानून मदद करता है",
+   "hg": "Jab tum batate ho, law help karta hai"
+  },
+  "items": [
+   {
+    "icon": "talk",
+    "label": {
+     "en": "Tell a trusted adult",
+     "hi": "भरोसे वाले बड़े को बताओ",
+     "hg": "Trusted adult ko batao"
+    },
+    "text": {
+     "en": "Tell a grown-up you trust. If they do not listen, tell another. You will not be punished for telling.",
+     "hi": "किसी भरोसे वाले बड़े को बताओ। अगर वे न सुनें, तो किसी और को बताओ। बताने पर तुम्हें सज़ा नहीं मिलेगी।",
+     "hg": "Kisi bharose wale bade ko batao. Agar woh na sunein, toh kisi aur ko batao. Batane par tumhe saza nahi milegi."
+    }
+   },
+   {
+    "icon": "call",
+    "label": {
+     "en": "Or call for help",
+     "hi": "या फ़ोन करके मदद लो",
+     "hg": "Ya call karke help lo"
+    },
+    "text": {
+     "en": "Call 1098, the Child Helpline, or 112 in an emergency. Both are free.",
+     "hi": "चाइल्ड हेल्पलाइन 1098 पर, या आपात स्थिति में 112 पर फ़ोन करो। दोनों मुफ़्त हैं।",
+     "hg": "Child Helpline 1098 par, ya emergency mein 112 par call karo. Dono free hain."
+    }
+   },
+   {
+    "icon": "police",
+    "label": {
+     "en": "Adults must report it",
+     "hi": "बड़ों का फ़र्ज़: पुलिस को बताना",
+     "hg": "Adults ko report karna hi hota hai"
+    },
+    "text": {
+     "en": "Adults who know must tell the police, so they cannot keep it fully secret.",
+     "hi": "जिन बड़ों को पता चले, उन्हें पुलिस को बताना ही होता है, इसलिए वे इसे पूरी तरह राज़ नहीं रख सकते।",
+     "hg": "Jin adults ko pata chale, unhe police ko batana hi hota hai, isliye woh isse poori tarah secret nahi rakh sakte."
+    }
+   },
+   {
+    "icon": "home",
+    "label": {
+     "en": "You are heard gently",
+     "hi": "तुम्हारी बात नरमी से सुनी जाती है",
+     "hg": "Tumhari baat aaram se suni jaati hai"
+    },
+    "text": {
+     "en": "You can talk at home or another comfortable place, ideally to a woman officer out of uniform. A trusted person can stay close.",
+     "hi": "तुम घर पर या किसी और आरामदायक जगह बात कर सकते हो, हो सके तो बिना वर्दी वाली महिला अधिकारी से। कोई भरोसे वाला इंसान पास रह सकता है।",
+     "hg": "Tum ghar par ya kisi aur comfortable jagah baat kar sakte ho, ho sake toh bina uniform wali woman officer se. Koi trusted insaan paas reh sakta hai."
+    }
+   },
+   {
+    "icon": "lock",
+    "label": {
+     "en": "Your name stays private",
+     "hi": "तुम्हारा नाम छिपा रहता है",
+     "hg": "Tumhara naam private rehta hai"
+    },
+    "text": {
+     "en": "Newspapers, TV and websites may not reveal your name, photo, school or address.",
+     "hi": "अख़बार, टीवी और वेबसाइटें तुम्हारा नाम, फ़ोटो, स्कूल या पता ज़ाहिर नहीं कर सकतीं।",
+     "hg": "Newspapers, TV aur websites tumhara naam, photo, school ya address reveal nahi kar sakte."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d16-l02",
+  "type": "compare",
+  "title": {
+   "en": "POCSO: myths versus the law",
+   "hi": "पॉक्सो: मिथक बनाम क़ानून",
+   "hg": "POCSO: myths vs law"
+  },
+  "left": {
+   "title": {
+    "en": "Myth",
+    "hi": "मिथक",
+    "hg": "Myth"
+   },
+   "tone": "bad",
+   "icon": "cross",
+   "points": [
+    {
+     "en": "It only counts if a stranger does it.",
+     "hi": "यह तभी अपराध है जब कोई अजनबी करे।",
+     "hg": "Yeh tabhi offence hai jab koi stranger kare."
+    },
+    {
+     "en": "If both teenagers agreed, it is not an offence.",
+     "hi": "अगर दोनों किशोर राज़ी थे, तो यह अपराध नहीं है।",
+     "hg": "Agar dono teenagers raazi the, toh yeh offence nahi hai."
+    },
+    {
+     "en": "No touching means no crime.",
+     "hi": "छुआ नहीं, तो अपराध नहीं।",
+     "hg": "Touch nahi kiya, toh crime nahi."
+    },
+    {
+     "en": "A counsellor can promise to keep it fully secret.",
+     "hi": "काउंसलर इसे पूरी तरह राज़ रखने का वादा कर सकता है।",
+     "hg": "Counsellor isse poori tarah secret rakhne ka promise kar sakta hai."
+    }
+   ]
+  },
+  "right": {
+   "title": {
+    "en": "What POCSO says",
+    "hi": "पॉक्सो क्या कहता है",
+    "hg": "POCSO kya kehta hai"
+   },
+   "tone": "good",
+   "icon": "law",
+   "points": [
+    {
+     "en": "It applies to anyone, including relatives, teachers and partners.",
+     "hi": "यह हर किसी पर लागू होता है, रिश्तेदारों, टीचरों और पार्टनर पर भी।",
+     "hg": "Yeh sab par laagu hota hai, relatives, teachers aur partners par bhi."
+    },
+    {
+     "en": "Under 18, agreement is not consent in law, even between teens.",
+     "hi": "18 से कम उम्र में रज़ामंदी क़ानूनन सहमति नहीं है, दो किशोरों के बीच भी नहीं।",
+     "hg": "18 se kam umar mein agreement law mein consent nahi hai, do teenagers ke beech bhi nahi."
+    },
+    {
+     "en": "Sexual messages or showing pornography to a child are offences too.",
+     "hi": "बच्चे को यौन मैसेज भेजना या पोर्नोग्राफ़ी दिखाना भी अपराध है।",
+     "hg": "Child ko sexual messages bhejna ya pornography dikhana bhi offence hai."
+    },
+    {
+     "en": "Adults who know must report, so total secrecy cannot be promised.",
+     "hi": "जिन बड़ों को पता हो, उन्हें सूचना देनी ही होती है, इसलिए पूरी राज़दारी का वादा नहीं हो सकता।",
+     "hg": "Jin adults ko pata ho, unhe report karna hi hota hai, isliye total secrecy ka promise nahi ho sakta."
+    }
+   ]
+  }
+ },
+ {
+  "lesson": "d16-l03",
+  "type": "grid",
+  "title": {
+   "en": "What Indian law calls these acts",
+   "hi": "भारतीय क़ानून इन हरकतों को क्या कहता है",
+   "hg": "Indian law in harkaton ko kya kehta hai"
+  },
+  "items": [
+   {
+    "icon": "stop",
+    "label": {
+     "en": "Sexual harassment",
+     "hi": "यौन उत्पीड़न",
+     "hg": "Sexual harassment"
+    },
+    "text": {
+     "en": "Unwelcome touching or advances, demands for sexual favours, or sexual remarks.",
+     "hi": "अनचाहा छूना या पहल करना, यौन संबंध की माँग करना, या यौन टिप्पणियाँ।",
+     "hg": "Unwanted touch ya advances, sexual favours ki demand, ya sexual remarks."
+    }
+   },
+   {
+    "icon": "eye",
+    "label": {
+     "en": "Voyeurism",
+     "hi": "ताक-झाँक (voyeurism)",
+     "hg": "Voyeurism"
+    },
+    "text": {
+     "en": "Watching, recording or sharing images of a woman in a private act.",
+     "hi": "किसी महिला को निजी पल में देखना, रिकॉर्ड करना या ऐसी तस्वीरें फैलाना।",
+     "hg": "Kisi woman ko private act mein dekhna, record karna ya aisi images share karna."
+    }
+   },
+   {
+    "icon": "online",
+    "label": {
+     "en": "Stalking, online too",
+     "hi": "पीछा करना, ऑनलाइन भी",
+     "hg": "Stalking, online bhi"
+    },
+    "text": {
+     "en": "Repeatedly following or contacting a woman who has shown no interest, including tracking her online.",
+     "hi": "ऐसी महिला का बार-बार पीछा करना या उससे संपर्क करना जिसने कोई दिलचस्पी नहीं दिखाई, ऑनलाइन नज़र रखना भी।",
+     "hg": "Aisi woman ka baar-baar peecha karna ya usse contact karna jisne koi interest nahi dikhaya, online track karna bhi."
+    }
+   },
+   {
+    "icon": "no_photo",
+    "label": {
+     "en": "Private images",
+     "hi": "निजी तस्वीरें",
+     "hg": "Private images"
+    },
+    "text": {
+     "en": "Capturing or sending images of someone's private parts without consent is an offence. So is threatening to leak images for money or more images.",
+     "hi": "किसी के निजी अंगों की तस्वीरें बिना सहमति लेना या भेजना अपराध है। पैसे या और तस्वीरें ऐंठने के लिए तस्वीरें लीक करने की धमकी देना भी अपराध है।",
+     "hg": "Kisi ke private parts ki images bina consent capture ya send karna offence hai. Paise ya aur images nikalwane ke liye images leak karne ki dhamki dena bhi crime hai."
+    }
+   },
+   {
+    "icon": "block",
+    "label": {
+     "en": "Child sexual abuse material",
+     "hi": "बाल यौन शोषण सामग्री",
+     "hg": "Child sexual abuse material"
+    },
+    "text": {
+     "en": "Creating, browsing, downloading, storing or sharing sexual images of anyone under 18 is an offence. Never forward or save them.",
+     "hi": "18 से कम उम्र के किसी की यौन तस्वीरें बनाना, ब्राउज़ करना, डाउनलोड करना, रखना या शेयर करना अपराध है। इन्हें कभी फ़ॉरवर्ड या सेव मत कीजिए।",
+     "hg": "18 se kam umar ke kisi ki sexual images banana, browse karna, download karna, store karna ya share karna offence hai. Inhe kabhi forward ya save mat karo."
+    }
+   },
+   {
+    "icon": "report",
+    "label": {
+     "en": "Where to report",
+     "hi": "शिकायत कहाँ करें",
+     "hg": "Kahan report karein"
+    },
+    "text": {
+     "en": "112 in danger, any police station, cybercrime.gov.in or 1930. Under 18: 1098. Women: 181.",
+     "hi": "ख़तरे में 112, कोई भी थाना, cybercrime.gov.in या 1930। 18 से कम उम्र: 1098। महिलाएँ: 181।",
+     "hg": "Danger mein 112, koi bhi police station, cybercrime.gov.in ya 1930. Under 18: 1098. Women: 181."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d16-l04",
+  "type": "grid",
+  "title": {
+   "en": "Your adult rights in Indian law",
+   "hi": "भारतीय क़ानून में वयस्कों के अधिकार",
+   "hg": "Indian law mein adult rights"
+  },
+  "items": [
+   {
+    "icon": "clinic",
+    "label": {
+     "en": "Abortion is legal, with conditions",
+     "hi": "गर्भपात शर्तों के साथ क़ानूनी है",
+     "hg": "Abortion conditions ke saath legal hai"
+    },
+    "text": {
+     "en": "Up to 20 weeks needs one registered doctor's opinion. Only qualified providers at approved facilities may do it.",
+     "hi": "20 हफ़्ते तक एक पंजीकृत डॉक्टर की राय चाहिए। यह सिर्फ़ मान्यता प्राप्त केंद्रों पर योग्य डॉक्टर ही कर सकते हैं।",
+     "hg": "20 weeks tak ek registered doctor ki opinion chahiye. Yeh sirf approved facilities par qualified providers hi kar sakte hain."
+    }
+   },
+   {
+    "icon": "yes",
+    "label": {
+     "en": "An adult consents for herself",
+     "hi": "वयस्क महिला ख़ुद सहमति देती है",
+     "hg": "Adult woman khud consent deti hai"
+    },
+    "text": {
+     "en": "Married or unmarried, an adult woman's own consent is what the Act requires, not a husband's or parent's signature.",
+     "hi": "शादीशुदा हो या नहीं, क़ानून को वयस्क महिला की अपनी सहमति चाहिए, पति या माता-पिता के दस्तख़त नहीं।",
+     "hg": "Married ho ya unmarried, Act ko adult woman ka apna consent chahiye, husband ya parents ka signature nahi."
+    }
+   },
+   {
+    "icon": "id",
+    "label": {
+     "en": "Legal marriage age",
+     "hi": "शादी की क़ानूनी उम्र",
+     "hg": "Shaadi ki legal age"
+    },
+    "text": {
+     "en": "The legal age of marriage is 18 for women and 21 for men.",
+     "hi": "शादी की क़ानूनी उम्र महिलाओं के लिए 18 और पुरुषों के लिए 21 साल है।",
+     "hg": "Shaadi ki legal age women ke liye 18 aur men ke liye 21 saal hai."
+    }
+   },
+   {
+    "icon": "stop",
+    "label": {
+     "en": "Marriage is not consent",
+     "hi": "शादी सहमति नहीं है",
+     "hg": "Shaadi consent nahi hai"
+    },
+    "text": {
+     "en": "Ethically and medically, forced sex in marriage is sexual violence. The BNS marital exception is contested and under legal challenge; other remedies exist.",
+     "hi": "नैतिक और चिकित्सा नज़रिए से शादी में ज़बरदस्ती का सेक्स यौन हिंसा है। बीएनएस का वैवाहिक अपवाद विवादित है और उसे अदालत में चुनौती दी गई है; दूसरे उपाय भी मौजूद हैं।",
+     "hg": "Ethically aur medically shaadi mein forced sex sexual violence hai. BNS ka marital exception contested hai aur court mein challenge hua hai; doosre remedies bhi maujood hain."
+    }
+   },
+   {
+    "icon": "diversity",
+    "label": {
+     "en": "Equal rights",
+     "hi": "बराबरी के अधिकार",
+     "hg": "Equal rights"
+    },
+    "text": {
+     "en": "Consensual same-sex relations between adults have not been a crime since 2018. Transgender persons have legally recognised rights.",
+     "hi": "2018 से वयस्कों के बीच सहमति से बने समलैंगिक संबंध अपराध नहीं हैं। ट्रांसजेंडर व्यक्तियों के अधिकारों को क़ानूनी मान्यता मिली हुई है।",
+     "hg": "2018 se adults ke beech consensual same-sex relations crime nahi hain. Transgender persons ke rights ko legal recognition mili hui hai."
+    }
+   },
+   {
+    "icon": "lock",
+    "label": {
+     "en": "Confidentiality has limits",
+     "hi": "गोपनीयता की सीमाएँ हैं",
+     "hg": "Confidentiality ki limits hain"
+    },
+    "text": {
+     "en": "Doctors have a duty to keep what you say private, but some things must be reported. Ask first: 'What would you have to report?'",
+     "hi": "डॉक्टरों का फ़र्ज़ है कि आपकी बातें निजी रखें, पर कुछ बातें आगे बतानी पड़ती हैं। पहले ही पूछ लीजिए: 'आपको क्या-क्या आगे बताना पड़ेगा?'",
+     "hg": "Doctors ki duty hai ki tumhari baatein private rakhein, par kuch cheezein report karni padti hain. Pehle hi poocho: 'Aapko kya-kya report karna padega?'"
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d16-l05",
+  "type": "steps",
+  "title": {
+   "en": "Your step-by-step path to help",
+   "hi": "मदद तक पहुँचने का रास्ता, क़दम दर क़दम",
+   "hg": "Help tak pahunchne ka step-by-step raasta"
+  },
+  "items": [
+   {
+    "icon": "run",
+    "label": {
+     "en": "Get to safety",
+     "hi": "सुरक्षित जगह पहुँचिए",
+     "hg": "Safe jagah pahuncho"
+    },
+    "text": {
+     "en": "Move towards other people, or call 112 if someone is in danger right now.",
+     "hi": "दूसरे लोगों की तरफ़ जाइए, या कोई अभी ख़तरे में हो तो 112 पर कॉल कीजिए।",
+     "hg": "Doosre logon ki taraf jao, ya koi abhi danger mein ho toh 112 par call karo."
+    }
+   },
+   {
+    "icon": "talk",
+    "label": {
+     "en": "Tell a trusted adult",
+     "hi": "किसी भरोसेमंद बड़े को बताइए",
+     "hg": "Trusted adult ko batao"
+    },
+    "text": {
+     "en": "Tell one trusted adult. If they dismiss you, tell another.",
+     "hi": "किसी एक भरोसेमंद बड़े को बताइए। अगर वे बात टाल दें, तो किसी और को बताइए।",
+     "hg": "Kisi ek trusted adult ko batao. Agar woh baat taal dein, toh kisi aur ko batao."
+    }
+   },
+   {
+    "icon": "call",
+    "label": {
+     "en": "Contact the right service",
+     "hi": "सही सेवा से संपर्क कीजिए",
+     "hg": "Sahi service se contact karo"
+    },
+    "text": {
+     "en": "1098 if under 18, 181 for women, 1930 for online crime, 14416 for mental health.",
+     "hi": "18 से कम उम्र हो तो 1098, महिलाओं के लिए 181, ऑनलाइन अपराध के लिए 1930, मानसिक स्वास्थ्य के लिए 14416।",
+     "hg": "Under 18 ho toh 1098, women ke liye 181, online crime ke liye 1930, mental health ke liye 14416."
+    }
+   },
+   {
+    "icon": "hospital",
+    "label": {
+     "en": "Get medical care",
+     "hi": "इलाज कराइए",
+     "hg": "Medical care lo"
+    },
+    "text": {
+     "en": "If you were hurt or assaulted, see a doctor soon. Some treatments are time-limited.",
+     "hi": "अगर चोट लगी है या यौन हमला हुआ है, तो जल्दी डॉक्टर को दिखाइए। कुछ इलाजों के लिए समय सीमित होता है।",
+     "hg": "Agar chot lagi hai ya assault hua hai, toh jaldi doctor ko dikhao. Kuch treatments time-limited hote hain."
+    }
+   },
+   {
+    "icon": "document",
+    "label": {
+     "en": "Write it down",
+     "hi": "लिख लीजिए",
+     "hg": "Likh lo"
+    },
+    "text": {
+     "en": "Note dates, places, names and usernames. Do not delete chats, and never save or forward a sexual image of anyone under 18.",
+     "hi": "तारीख़ें, जगहें, नाम और यूज़रनेम लिख लीजिए। चैट डिलीट मत कीजिए, और 18 से कम उम्र के किसी की यौन तस्वीर कभी सेव या फ़ॉरवर्ड मत कीजिए।",
+     "hg": "Dates, jagah, naam aur usernames likh lo. Chats delete mat karo, aur 18 se kam umar ke kisi ki sexual image kabhi save ya forward mat karo."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d16-l06",
+  "type": "compare",
+  "title": {
+   "en": "What the law covers, and its gaps",
+   "hi": "क़ानून क्या कवर करता है, और कहाँ कमी है",
+   "hg": "Law kya cover karta hai, aur kahan gaps hain"
+  },
+  "left": {
+   "title": {
+    "en": "What the law covers",
+    "hi": "क़ानून में क्या है",
+    "hg": "Law mein kya hai"
+   },
+   "tone": "good",
+   "icon": "law",
+   "points": [
+    {
+     "en": "Giving, taking or demanding dowry is an offence.",
+     "hi": "दहेज देना, लेना या माँगना अपराध है।",
+     "hg": "Dahej dena, lena ya maangna offence hai."
+    },
+    {
+     "en": "Child marriage, sex selection, acid attacks and trafficking are all punishable.",
+     "hi": "बाल विवाह, लिंग चयन, तेज़ाब के हमले और मानव तस्करी, सब पर सज़ा है।",
+     "hg": "Child marriage, sex selection, acid attacks aur trafficking, sab par saza hai."
+    },
+    {
+     "en": "Workplaces with ten or more workers need an Internal Committee for sexual harassment complaints.",
+     "hi": "दस या ज़्यादा कर्मचारियों वाले कार्यस्थलों में यौन उत्पीड़न की शिकायतों के लिए आंतरिक समिति होनी चाहिए।",
+     "hg": "Das ya zyada workers wale workplaces mein sexual harassment complaints ke liye Internal Committee honi chahiye."
+    },
+    {
+     "en": "Free legal aid is a right for women, children and many others: call NALSA on 15100.",
+     "hi": "महिलाओं, बच्चों और कई दूसरे लोगों को मुफ़्त क़ानूनी सहायता का हक़ है: नालसा को 15100 पर कॉल करें।",
+     "hg": "Women, children aur kai doosre logon ko free legal aid ka haq hai: NALSA ko 15100 par call karo."
+    }
+   ]
+  },
+  "right": {
+   "title": {
+    "en": "Where it falls short",
+    "hi": "कहाँ कमी रह जाती है",
+    "hg": "Kahan kami reh jaati hai"
+   },
+   "tone": "bad",
+   "icon": "warning",
+   "points": [
+    {
+     "en": "The BNS rape definition protects only women, so adult male and transgender survivors have weaker protection.",
+     "hi": "बीएनएस में बलात्कार की परिभाषा सिर्फ़ महिलाओं को सुरक्षा देती है, इसलिए वयस्क पुरुष और ट्रांसजेंडर सर्वाइवर को कम सुरक्षा मिलती है।",
+     "hg": "BNS mein rape ki definition sirf women ko protect karti hai, isliye adult male aur transgender survivors ko kam protection milti hai."
+    },
+    {
+     "en": "The marital exception for forced sex is still under challenge.",
+     "hi": "ज़बरदस्ती के सेक्स पर वैवाहिक अपवाद को अब भी अदालत में चुनौती दी जा रही है।",
+     "hg": "Forced sex par marital exception ko abhi bhi court mein challenge kiya ja raha hai."
+    },
+    {
+     "en": "The POSH Act on workplace sexual harassment does not cover men.",
+     "hi": "कार्यस्थल पर यौन उत्पीड़न वाला पॉश अधिनियम पुरुषों को कवर नहीं करता।",
+     "hg": "Workplace sexual harassment wala POSH Act men ko cover nahi karta."
+    }
+   ]
+  }
+ }
+]

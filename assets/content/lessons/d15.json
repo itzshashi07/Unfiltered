@@ -1,0 +1,1092 @@
+[
+ {
+  "id": "d15-l01",
+  "domain": "d15",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "men",
+   "women"
+  ],
+  "body": [
+   "menstrual",
+   "penis_testicular",
+   "hormones_changes"
+  ],
+  "difficulty": 1,
+  "minutes": 5,
+  "unesco": [
+   2,
+   6
+  ],
+  "title": {
+   "en": "Growing-Up Myth Check",
+   "hi": "बड़े होने से जुड़े मिथक: सच क्या है",
+   "hg": "Growing-Up Myth Check: Sach Kya Hai"
+  },
+  "subtitle": {
+   "en": "Periods, wet dreams and why bodies grow on different timelines",
+   "hi": "पीरियड्स, स्वप्नदोष और हर शरीर के बढ़ने की अलग रफ़्तार",
+   "hg": "Periods, wet dreams aur har body ka apna alag timeline"
+  },
+  "hook": {
+   "en": "Some things you hear about growing bodies are family customs, some are guesses, and some are just wrong. Let us sort them out.",
+   "hi": "बढ़ते शरीर के बारे में जो बातें तुम सुनते हो, उनमें कुछ घर के रिवाज़ हैं, कुछ अंदाज़े हैं और कुछ बस ग़लत हैं। चलो इन्हें अलग-अलग करते हैं।",
+   "hg": "Badhti body ke baare mein jo baatein tum sunte ho, unme kuch ghar ke rivaaz hain, kuch guesses hain aur kuch bas galat hain. Chalo inhe sort karte hain."
+  },
+  "objectives": [
+   {
+    "en": "Explain why periods are not impure or dirty.",
+    "hi": "समझा पाना कि पीरियड्स अशुद्ध या गंदे क्यों नहीं हैं।",
+    "hg": "Samjha paana ki periods impure ya gande kyun nahi hain."
+   },
+   {
+    "en": "Know that exercise during periods is safe and that wet dreams are normal.",
+    "hi": "जानना कि पीरियड्स में कसरत करना सुरक्षित है और स्वप्नदोष (wet dream) सामान्य है।",
+    "hg": "Jaanna ki periods mein exercise safe hai aur wet dreams normal hain."
+   },
+   {
+    "en": "Understand that puberty starts at different ages for different people.",
+    "hi": "समझना कि प्यूबर्टी अलग-अलग लोगों में अलग-अलग उम्र में शुरू होती है।",
+    "hg": "Samajhna ki puberty alag-alag logon mein alag-alag age pe start hoti hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Periods are biology, not impurity",
+     "hi": "पीरियड्स जीव-विज्ञान हैं, अशुद्धि नहीं",
+     "hg": "Periods biology hain, impurity nahi"
+    },
+    "body": {
+     "en": "Every month the uterus builds a soft lining. If there is no pregnancy, that lining leaves the body through the vagina as blood and tissue. That is a period. Menstrual blood is ordinary blood mixed with tissue; it is not dirty or poisonous. A person who is menstruating does not spoil pickles, plants or food, and there is no medical reason to stay out of the kitchen, school or a place of worship. Many families follow such customs out of tradition. You can respect your family and still know that your body is clean.",
+     "hi": "हर महीने गर्भाशय (uterus) अपने अंदर एक नरम परत बनाता है। अगर गर्भ नहीं ठहरता, तो यह परत ख़ून और ऊतक के रूप में योनि (vagina) के रास्ते शरीर से बाहर आ जाती है। इसी को पीरियड या माहवारी कहते हैं। माहवारी का ख़ून आम ख़ून ही है जिसमें ऊतक मिला होता है; वह न गंदा है, न ज़हरीला। जिसे पीरियड आ रहा हो उसके छूने से अचार, पौधे या खाना ख़राब नहीं होता, और रसोई, स्कूल या पूजा की जगह से दूर रहने की कोई मेडिकल वजह नहीं है। बहुत से परिवार परंपरा की वजह से ऐसे रिवाज़ मानते हैं। तुम अपने परिवार का आदर करते हुए भी यह जान सकते हो कि तुम्हारा शरीर साफ़ है।",
+     "hg": "Har mahine uterus apne andar ek soft lining banata hai. Agar pregnancy nahi hoti, toh yeh lining blood aur tissue ke roop mein vagina ke raaste body se bahar aa jaati hai. Isi ko period bolte hain. Period ka blood normal blood hi hai jisme tissue mila hota hai; woh na ganda hai, na zehreela. Jisse period aa raha ho uske chhoone se achaar, plants ya khana kharab nahi hota, aur kitchen, school ya pooja ki jagah se door rehne ki koi medical wajah nahi hai. Bahut si families tradition ki wajah se aise rivaaz maanti hain. Tum apni family ki respect karte hue bhi yeh jaan sakte ho ki tumhari body saaf hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Yes, you can run, dance and play",
+     "hi": "हाँ, तुम दौड़, नाच और खेल सकते हो",
+     "hg": "Haan, tum daud, dance aur khel sakte ho"
+    },
+    "body": {
+     "en": "Exercise during a period is safe. Running, cycling, yoga, dancing and sports do not harm the uterus or make bleeding dangerous. Many people find that gentle movement actually eases cramps and lifts their mood. Bathing and washing hair are healthy too, and warm water can relax sore muscles. On days with strong pain or heavy flow, resting is also fine; the point is that you choose based on how you feel, not because of a rule. Tell a parent or a doctor if pain stops you from doing normal activities.",
+     "hi": "पीरियड के दौरान कसरत करना सुरक्षित है। दौड़ने, साइकिल चलाने, योग, नाचने और खेलने से गर्भाशय को कोई नुकसान नहीं होता और ब्लीडिंग ख़तरनाक नहीं बनती। बहुत से लोगों को हल्की-फुल्की हरकत से ऐंठन में आराम मिलता है और मन भी हल्का होता है। नहाना और बाल धोना भी सेहत के लिए अच्छा है, और गुनगुना पानी दुखती मांसपेशियों को आराम दे सकता है। जिस दिन दर्द तेज़ हो या बहाव ज़्यादा हो, उस दिन आराम करना भी ठीक है; बात बस इतनी है कि फ़ैसला इस पर हो कि तुम कैसा महसूस कर रहे हो, किसी नियम पर नहीं। अगर दर्द रोज़मर्रा के काम रोक दे, तो मम्मी-पापा या डॉक्टर को बताओ।",
+     "hg": "Period ke dauraan exercise karna safe hai. Running, cycling, yoga, dance aur sports se uterus ko koi nuksaan nahi hota aur bleeding dangerous nahi banti. Bahut logon ko halki movement se cramps mein aaraam milta hai aur mood bhi better hota hai. Nahana aur baal dhona bhi healthy hai, aur gunguna paani dukhti muscles ko relax kar sakta hai. Jis din dard tez ho ya flow heavy ho, us din rest karna bhi theek hai; point bas itna hai ki decision is pe ho ki tum kaisa feel kar rahe ho, kisi rule pe nahi. Agar dard normal activities rok de, toh parent ya doctor ko batao."
+    }
+   },
+   {
+    "h": {
+     "en": "Wet dreams: a normal body event",
+     "hi": "स्वप्नदोष: शरीर की एक सामान्य घटना",
+     "hg": "Wet dreams: body ka ek normal event"
+    },
+    "body": {
+     "en": "During puberty, people with a penis may sometimes wake up to find a wet, sticky patch on their clothes or sheet. This is a wet dream: semen has come out during sleep. It is not urine, not an illness and not a sign of weakness. It cannot be controlled, and it does not mean you did or thought anything wrong. The Hindi word 'swapnadosh' calls it a fault, but there is no fault here. Some people have many wet dreams, some have none, and both are normal. Just wash and change your clothes.",
+     "hi": "प्यूबर्टी के दौरान जिन लोगों के लिंग (penis) होता है, वे कभी-कभी सुबह उठकर अपने कपड़ों या चादर पर गीला, चिपचिपा धब्बा पा सकते हैं। यही स्वप्नदोष (wet dream) है: नींद में वीर्य (semen) बाहर आ गया है। यह पेशाब नहीं है, बीमारी नहीं है और कमज़ोरी की निशानी भी नहीं। इसे रोका नहीं जा सकता, और इसका यह मतलब नहीं कि तुमने कुछ ग़लत किया या सोचा। हिंदी का शब्द 'स्वप्नदोष' इसे दोष कहता है, पर इसमें कोई दोष है ही नहीं। कुछ लोगों को यह कई बार होता है, कुछ को कभी नहीं, और दोनों बातें सामान्य हैं। बस ख़ुद को धो लो और कपड़े बदल लो।",
+     "hg": "Puberty ke dauraan jin logon ke penis hota hai, woh kabhi-kabhi subah uthkar apne kapdon ya chaadar pe geela, chipchipa patch dekh sakte hain. Yahi wet dream hai: neend mein semen bahar aa gaya hai. Yeh peshaab nahi hai, bimari nahi hai aur kamzori ka sign bhi nahi. Isse control nahi kiya ja sakta, aur iska yeh matlab nahi ki tumne kuch galat kiya ya socha. Hindi ka word 'swapnadosh' isse dosh bolta hai, par isme koi dosh hai hi nahi. Kuch logon ko yeh kai baar hota hai, kuch ko kabhi nahi, aur dono normal hain. Bas khud ko wash kar lo aur kapde badal lo."
+    }
+   },
+   {
+    "h": {
+     "en": "Bodies do not follow one timetable",
+     "hi": "हर शरीर एक ही समय-सारणी पर नहीं चलता",
+     "hg": "Har body ek hi timetable pe nahi chalti"
+    },
+    "body": {
+     "en": "Puberty usually begins between 8 and 13 in girls and between 9 and 14 in boys. So in one classroom, some children will be tall with deeper voices or periods, while others still look much younger. Early, late and in-between are all normal, and timing says nothing about how healthy or grown-up a person will be. It is worth seeing a doctor if changes begin before 8 in girls or 9 in boys, if nothing has started by 13 in girls or 14 in boys, or if periods have not begun by 15.",
+     "hi": "प्यूबर्टी आम तौर पर लड़कियों में 8 से 13 साल के बीच और लड़कों में 9 से 14 साल के बीच शुरू होती है। इसलिए एक ही क्लास में कुछ बच्चे लंबे होंगे, किसी की आवाज़ भारी हो चुकी होगी या पीरियड शुरू हो गए होंगे, जबकि कुछ अब भी काफ़ी छोटे दिखेंगे। जल्दी, देर से या बीच में, तीनों सामान्य हैं, और समय से यह पता नहीं चलता कि कोई कितना स्वस्थ या बड़ा बनेगा। डॉक्टर को दिखाना तब ठीक रहता है जब बदलाव लड़कियों में 8 और लड़कों में 9 साल से पहले शुरू हो जाएँ, लड़कियों में 13 और लड़कों में 14 साल तक कुछ भी शुरू न हो, या 15 साल तक पीरियड न आएँ।",
+     "hg": "Puberty usually ladkiyon mein 8 se 13 saal ke beech aur ladkon mein 9 se 14 saal ke beech start hoti hai. Isliye ek hi class mein kuch bachche lambe honge, kisi ki awaaz bhaari ho chuki hogi ya periods start ho gaye honge, jabki kuch ab bhi kaafi chhote dikhenge. Jaldi, late ya beech mein, teeno normal hain, aur timing se yeh pata nahi chalta ki koi kitna healthy ya bada banega. Doctor ko dikhana tab theek rehta hai jab changes ladkiyon mein 8 aur ladkon mein 9 saal se pehle start ho jayein, ladkiyon mein 13 aur ladkon mein 14 saal tak kuch bhi start na ho, ya 15 saal tak periods na aayein."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Everyone's body should start changing at the same age, so if mine has not, something is wrong with me.",
+    "hi": "सबका शरीर एक ही उम्र में बदलना शुरू होना चाहिए, तो अगर मेरा नहीं बदला, तो मुझमें कुछ गड़बड़ है।",
+    "hg": "Sabki body same age pe change honi start honi chahiye, toh agar meri nahi hui, toh mujhme kuch gadbad hai."
+   },
+   "fact": {
+    "en": "Puberty has a wide normal range: 8 to 13 for girls and 9 to 14 for boys. Being earlier or later than your friends is common and usually healthy.",
+    "hi": "प्यूबर्टी का सामान्य दायरा काफ़ी चौड़ा है: लड़कियों के लिए 8 से 13 और लड़कों के लिए 9 से 14 साल। दोस्तों से पहले या बाद में होना आम है और ज़्यादातर बिल्कुल ठीक होता है।",
+    "hg": "Puberty ki normal range kaafi wide hai: ladkiyon ke liye 8 se 13 aur ladkon ke liye 9 se 14 saal. Doston se pehle ya baad mein hona common hai aur zyadatar bilkul healthy hota hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Menstrual blood is ordinary blood and tissue, and a period makes nobody impure.",
+    "hi": "माहवारी का ख़ून आम ख़ून और ऊतक है, और पीरियड किसी को अशुद्ध नहीं बनाता।",
+    "hg": "Period ka blood normal blood aur tissue hai, aur period kisi ko impure nahi banata."
+   },
+   {
+    "en": "Exercise and bathing during periods are safe, and wet dreams are a normal part of puberty.",
+    "hi": "पीरियड्स में कसरत करना और नहाना सुरक्षित है, और स्वप्नदोष प्यूबर्टी का सामान्य हिस्सा है।",
+    "hg": "Periods mein exercise aur nahana safe hai, aur wet dreams puberty ka normal part hain."
+   },
+   {
+    "en": "Puberty starts at different ages, and a doctor can check if it seems very early or very late.",
+    "hi": "प्यूबर्टी अलग-अलग उम्र में शुरू होती है, और बहुत जल्दी या बहुत देर लगे तो डॉक्टर जाँच कर सकते हैं।",
+    "hg": "Puberty alag-alag age pe start hoti hai, aur bahut jaldi ya bahut late lage toh doctor check kar sakte hain."
+   }
+  ],
+  "activity": {
+   "en": "Pick one rule about periods or growing up that you have heard at home or school. Write down who told you and what this lesson says about it. If you feel comfortable, ask a trusted adult where the rule came from.",
+   "hi": "पीरियड्स या बड़े होने से जुड़ा कोई एक नियम चुनो जो तुमने घर या स्कूल में सुना है। लिखो कि यह तुम्हें किसने बताया और यह पाठ उसके बारे में क्या कहता है। अगर ठीक लगे, तो किसी भरोसेमंद बड़े से पूछो कि यह नियम आया कहाँ से।",
+   "hg": "Periods ya growing up se juda koi ek rule choose karo jo tumne ghar ya school mein suna hai. Likho ki yeh tumhe kisne bataya aur yeh lesson uske baare mein kya bolta hai. Agar comfortable lage, toh kisi trusted adult se poochho ki yeh rule aaya kahan se."
+  },
+  "interactive": "myth_buster",
+  "quiz": [
+   {
+    "id": "d15-l01-q1",
+    "type": "mcq",
+    "q": {
+     "en": "What is menstrual blood?",
+     "hi": "माहवारी का ख़ून क्या होता है?",
+     "hg": "Period ka blood kya hota hai?"
+    },
+    "options": [
+     {
+      "en": "Dirty blood that the body needs to throw out",
+      "hi": "गंदा ख़ून जिसे शरीर को बाहर फेंकना होता है",
+      "hg": "Ganda blood jisse body ko bahar phenkna hota hai"
+     },
+     {
+      "en": "Ordinary blood and tissue from the lining of the uterus",
+      "hi": "गर्भाशय की परत से आया आम ख़ून और ऊतक",
+      "hg": "Uterus ki lining se aaya normal blood aur tissue"
+     },
+     {
+      "en": "Blood from a wound inside the body",
+      "hi": "शरीर के अंदर के किसी घाव का ख़ून",
+      "hg": "Body ke andar ke kisi ghaav ka blood"
+     },
+     {
+      "en": "Extra blood made from eating too much",
+      "hi": "ज़्यादा खाने से बना फ़ालतू ख़ून",
+      "hg": "Zyada khane se bana extra blood"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "A period is the uterus shedding its lining. The blood is ordinary blood with tissue, not waste or dirt.",
+     "hi": "पीरियड में गर्भाशय अपनी परत छोड़ता है। यह ख़ून ऊतक मिला आम ख़ून है, कोई गंदगी या कचरा नहीं।",
+     "hg": "Period mein uterus apni lining chhodta hai. Yeh blood tissue mila normal blood hai, koi gandagi ya waste nahi."
+    }
+   },
+   {
+    "id": "d15-l01-q2",
+    "type": "tf",
+    "q": {
+     "en": "It can be completely normal for a boy to start puberty at 13.",
+     "hi": "किसी लड़के में 13 साल की उम्र में प्यूबर्टी शुरू होना बिल्कुल सामान्य हो सकता है।",
+     "hg": "Kisi ladke mein 13 saal ki age pe puberty start hona bilkul normal ho sakta hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Puberty in boys usually begins anywhere between 9 and 14, so 13 is well within the normal range.",
+     "hi": "लड़कों में प्यूबर्टी आम तौर पर 9 से 14 साल के बीच कभी भी शुरू होती है, इसलिए 13 साल सामान्य दायरे के अंदर है।",
+     "hg": "Ladkon mein puberty usually 9 se 14 saal ke beech kabhi bhi start hoti hai, isliye 13 saal normal range ke andar hai."
+    }
+   }
+  ],
+  "refs": [
+   "nhs-periods",
+   "unesco-itgse",
+   "nhm-rksk"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d15-l02",
+  "domain": "d15",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone",
+   "men"
+  ],
+  "body": [
+   "penis_testicular"
+  ],
+  "difficulty": 2,
+  "minutes": 6,
+  "unesco": [
+   2,
+   7
+  ],
+  "title": {
+   "en": "Masturbation Myths: Weakness, Infertility and 'Dhat'",
+   "hi": "हस्तमैथुन के मिथक: कमज़ोरी, संतान न होना और 'धात'",
+   "hg": "Masturbation Myths: Kamzori, Infertility aur 'Dhat'"
+  },
+  "subtitle": {
+   "en": "What the science says, and why the fear is so common in India",
+   "hi": "विज्ञान क्या कहता है, और भारत में यह डर इतना आम क्यों है",
+   "hg": "Science kya bolti hai, aur India mein yeh darr itna common kyun hai"
+  },
+  "hook": {
+   "en": "Almost everyone has heard that it drains your strength. Almost nobody has been told that this is simply not how the body works.",
+   "hi": "लगभग सबने सुना है कि इससे ताक़त निचुड़ जाती है। लगभग किसी को नहीं बताया गया कि शरीर इस तरह काम ही नहीं करता।",
+   "hg": "Almost sabne suna hai ki isse taakat nichud jaati hai. Almost kisi ko nahi bataya gaya ki body is tarah kaam hi nahi karti."
+  },
+  "objectives": [
+   {
+    "en": "State what medical science says about masturbation and physical health.",
+    "hi": "बता पाना कि हस्तमैथुन (masturbation) और शरीर की सेहत के बारे में मेडिकल साइंस क्या कहती है।",
+    "hg": "Bata paana ki masturbation aur physical health ke baare mein medical science kya bolti hai."
+   },
+   {
+    "en": "Explain how semen is produced and why 'semen loss' does not drain strength.",
+    "hi": "समझाना कि वीर्य (semen) कैसे बनता है और 'वीर्य निकलने' से ताक़त क्यों नहीं घटती।",
+    "hg": "Explain karna ki semen kaise banta hai aur 'semen loss' se taakat kyun nahi ghatti."
+   },
+   {
+    "en": "Recognise when the worry itself needs support from a doctor or counsellor.",
+    "hi": "पहचानना कि कब ख़ुद यह फ़िक्र ही डॉक्टर या काउंसलर की मदद माँगती है।",
+    "hg": "Pehchaanna ki kab khud yeh tension hi doctor ya counsellor ki help maangti hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "The claims, checked",
+     "hi": "दावों की जाँच",
+     "hg": "Claims ka fact-check"
+    },
+    "body": {
+     "en": "The list of things blamed on masturbation is long: weakness, a thin body, poor memory, pimples, hair fall, weak eyesight, a shrinking penis, and infertility later in life. None of these is true. Masturbation means touching one's own genitals for sexual feeling; it is common in people of all genders and is not physically harmful. Acne comes from hormones and oil glands, height and build from genes and nutrition, and fertility from the health of the reproductive organs. Not masturbating is also completely normal. It is a private activity, and nobody is strange for doing it or for not doing it.",
+     "hi": "हस्तमैथुन (masturbation) के सिर मढ़ी जाने वाली चीज़ों की सूची लंबी है: कमज़ोरी, दुबला शरीर, कमज़ोर याददाश्त, मुँहासे, बाल झड़ना, नज़र कमज़ोर होना, लिंग का छोटा होना और आगे चलकर संतान न हो पाना। इनमें से कुछ भी सच नहीं है। हस्तमैथुन का मतलब है यौन एहसास के लिए अपने ही जननांगों को छूना; यह हर जेंडर के लोगों में आम है और शरीर को नुकसान नहीं पहुँचाता। मुँहासे हार्मोन और तेल ग्रंथियों से होते हैं, क़द-काठी जीन और पोषण से तय होती है, और प्रजनन क्षमता प्रजनन अंगों की सेहत पर निर्भर करती है। हस्तमैथुन न करना भी पूरी तरह सामान्य है। यह एक निजी क्रिया है, और करने या न करने से कोई अजीब नहीं हो जाता।",
+     "hg": "Masturbation pe jin cheezon ka blame daala jaata hai, unki list lambi hai: kamzori, dubli body, weak memory, pimples, hair fall, nazar kamzor hona, penis ka chhota hona aur aage chalkar infertility. Inme se kuch bhi sach nahi hai. Masturbation ka matlab hai sexual feeling ke liye apne hi genitals ko touch karna; yeh har gender ke logon mein common hai aur physically harmful nahi hai. Acne hormones aur oil glands se hota hai, height aur build genes aur nutrition se, aur fertility reproductive organs ki health se. Masturbation na karna bhi completely normal hai. Yeh ek private activity hai, aur karne ya na karne se koi ajeeb nahi ho jaata."
+    }
+   },
+   {
+    "h": {
+     "en": "How semen actually works",
+     "hi": "वीर्य असल में कैसे काम करता है",
+     "hg": "Semen actually kaise kaam karta hai"
+    },
+    "body": {
+     "en": "The idea behind the weakness myth is that semen is a stored-up 'vital fluid', and that many drops of blood go into making one drop of it. Biology shows something different. From puberty onwards the testicles make sperm continuously, and most of semen is fluid from glands such as the seminal vesicles and the prostate, with sperm forming only a small part. The body does not run out, and sperm that are not released are simply broken down and reabsorbed. Releasing semen, whether through masturbation or a wet dream, does not use up energy, blood, protein or 'manhood'.",
+     "hi": "कमज़ोरी वाले मिथक के पीछे यह सोच है कि वीर्य (semen) शरीर में जमा कोई 'जीवन-रस' है, और उसकी एक बूँद बनने में ख़ून की कई बूँदें लगती हैं। जीव-विज्ञान कुछ और दिखाता है। प्यूबर्टी के बाद से अंडकोष (testicles) लगातार शुक्राणु बनाते रहते हैं, और वीर्य का ज़्यादातर हिस्सा सेमिनल वेसिकल और प्रोस्टेट जैसी ग्रंथियों का तरल होता है; शुक्राणु उसका बस छोटा सा हिस्सा होते हैं। शरीर में इसकी कमी नहीं पड़ती, और जो शुक्राणु बाहर नहीं आते वे टूटकर शरीर में ही वापस सोख लिए जाते हैं। वीर्य का निकलना, चाहे हस्तमैथुन से हो या स्वप्नदोष से, ऊर्जा, ख़ून, प्रोटीन या 'मर्दानगी' को ख़र्च नहीं करता।",
+     "hg": "Kamzori wale myth ke peechhe yeh soch hai ki semen body mein jama koi 'vital fluid' hai, aur uski ek boond banne mein blood ki kai boondein lagti hain. Biology kuch aur dikhati hai. Puberty ke baad se testicles lagataar sperm banate rehte hain, aur semen ka zyadatar hissa seminal vesicles aur prostate jaisi glands ka fluid hota hai; sperm uska bas chhota sa part hote hain. Body mein iski kami nahi padti, aur jo sperm bahar nahi aate woh tootkar body mein hi wapas absorb ho jaate hain. Semen ka nikalna, chahe masturbation se ho ya wet dream se, energy, blood, protein ya 'mardangi' ko kharch nahi karta."
+    }
+   },
+   {
+    "h": {
+     "en": "Why so many people believe it",
+     "hi": "इतने लोग इसे सच क्यों मानते हैं",
+     "hg": "Itne log isse sach kyun maante hain"
+    },
+    "body": {
+     "en": "This belief did not come from nowhere. Older traditions of medicine described semen as a precious essence, and that idea has been passed down through families, hostels and friends. Wall advertisements and roadside 'clinics' promise to cure 'weakness' with expensive tonics, which keeps the fear profitable. And guilt has real effects: someone who feels ashamed may sleep badly, feel tired and anxious, and then blame those feelings on semen loss. Doctors call this worry Dhat syndrome. It is recognised, it is common in South Asia, and it improves when a person talks to a qualified doctor.",
+     "hi": "यह मान्यता हवा में पैदा नहीं हुई। चिकित्सा की पुरानी परंपराओं में वीर्य को एक अनमोल सार बताया गया, और यह सोच परिवारों, हॉस्टलों और दोस्तों के ज़रिए आगे बढ़ती रही। दीवारों पर लिखे इश्तिहार और सड़क किनारे के 'क्लिनिक' महँगे टॉनिक से 'कमज़ोरी' ठीक करने का वादा करते हैं, जिससे यह डर कमाई का ज़रिया बना रहता है। और अपराध-बोध के असर सचमुच होते हैं: जिसे शर्म महसूस होती है, उसकी नींद बिगड़ सकती है, थकान और घबराहट हो सकती है, और फिर वह इन एहसासों का दोष वीर्य निकलने को दे देता है। डॉक्टर इस फ़िक्र को धात सिंड्रोम (Dhat syndrome) कहते हैं। यह जानी-पहचानी स्थिति है, दक्षिण एशिया में आम है, और किसी योग्य डॉक्टर से बात करने पर इसमें सुधार होता है।",
+     "hg": "Yeh belief hawa mein paida nahi hui. Medicine ki purani traditions mein semen ko ek anmol essence bataya gaya, aur yeh soch families, hostels aur doston ke through aage badhti rahi. Deewaron pe likhe ads aur roadside 'clinics' mehenge tonics se 'kamzori' theek karne ka promise karte hain, jisse yeh darr ek business bana rehta hai. Aur guilt ke asar real hote hain: jisse sharam feel hoti hai, uski neend bigad sakti hai, thakaan aur anxiety ho sakti hai, aur phir woh in feelings ka blame semen loss pe daal deta hai. Doctors is worry ko Dhat syndrome bolte hain. Yeh recognised hai, South Asia mein common hai, aur kisi qualified doctor se baat karne pe isme improvement aata hai."
+    }
+   },
+   {
+    "h": {
+     "en": "When is it actually a concern?",
+     "hi": "यह असल में फ़िक्र की बात कब है?",
+     "hg": "Yeh actually concern kab hai?"
+    },
+    "body": {
+     "en": "Masturbation becomes a concern only in a few situations: if it causes pain or injury, if the urge feels out of control and gets in the way of studies, sleep or friendships, or if it leaves you very distressed. It must also always be private; doing it in front of others, on camera or on a video call, or involving anyone else is never acceptable. If constant guilt or fear about your body is bothering you, that worry deserves care in itself. A doctor, a school counsellor, an Adolescent Friendly Health Clinic or Tele-MANAS on 14416 can help without judging you.",
+     "hi": "हस्तमैथुन सिर्फ़ कुछ ही हालात में फ़िक्र की बात बनता है: अगर इससे दर्द या चोट हो, अगर इच्छा बेक़ाबू लगे और पढ़ाई, नींद या दोस्ती में रुकावट बने, या अगर इसके बाद तुम बहुत परेशान रहो। यह हमेशा निजी भी रहना चाहिए; दूसरों के सामने, कैमरे पर या वीडियो कॉल पर करना, या किसी और को इसमें शामिल करना कभी ठीक नहीं है। अगर अपने शरीर को लेकर लगातार अपराध-बोध या डर तुम्हें परेशान कर रहा है, तो वह फ़िक्र अपने आप में देखभाल की हक़दार है। डॉक्टर, स्कूल काउंसलर, किशोर मित्र स्वास्थ्य क्लिनिक (AFHC) या टेली-मानस 14416 बिना जज किए तुम्हारी मदद कर सकते हैं।",
+     "hg": "Masturbation sirf kuch hi situations mein concern banta hai: agar isse dard ya injury ho, agar urge out of control lage aur padhai, neend ya dosti mein rukawat bane, ya agar iske baad tum bahut distressed raho. Yeh hamesha private bhi rehna chahiye; doosron ke saamne, camera pe ya video call pe karna, ya kisi aur ko isme involve karna kabhi theek nahi hai. Agar apni body ko lekar constant guilt ya darr tumhe pareshan kar raha hai, toh woh worry apne aap mein care deserve karti hai. Doctor, school counsellor, Adolescent Friendly Health Clinic (AFHC) ya Tele-MANAS 14416 bina judge kiye tumhari help kar sakte hain."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "One drop of semen is made from many drops of blood, so losing it makes the body weak.",
+    "hi": "वीर्य की एक बूँद ख़ून की कई बूँदों से बनती है, इसलिए उसके निकलने से शरीर कमज़ोर हो जाता है।",
+    "hg": "Semen ki ek boond blood ki kai boondon se banti hai, isliye uske nikalne se body weak ho jaati hai."
+   },
+   "fact": {
+    "en": "Semen is mostly fluid from glands and is made continuously from puberty. It is not made from stored blood, and releasing it does not weaken the body.",
+    "hi": "वीर्य ज़्यादातर ग्रंथियों का तरल होता है और प्यूबर्टी के बाद से लगातार बनता रहता है। वह जमा किए हुए ख़ून से नहीं बनता, और उसके निकलने से शरीर कमज़ोर नहीं होता।",
+    "hg": "Semen zyadatar glands ka fluid hota hai aur puberty ke baad se lagataar banta rehta hai. Woh stored blood se nahi banta, aur uske nikalne se body weak nahi hoti."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Masturbation does not cause weakness, infertility, acne, hair loss or poor eyesight.",
+    "hi": "हस्तमैथुन से कमज़ोरी, संतान न हो पाना, मुँहासे, बाल झड़ना या नज़र कमज़ोर होना, कुछ भी नहीं होता।",
+    "hg": "Masturbation se kamzori, infertility, acne, hair fall ya weak eyesight, kuch bhi nahi hota."
+   },
+   {
+    "en": "Semen is produced continuously, so releasing it does not drain the body.",
+    "hi": "वीर्य लगातार बनता रहता है, इसलिए उसके निकलने से शरीर ख़ाली नहीं होता।",
+    "hg": "Semen lagataar banta rehta hai, isliye uske nikalne se body drain nahi hoti."
+   },
+   {
+    "en": "Doing it and not doing it are both normal; lasting guilt or distress is worth talking to a doctor about.",
+    "hi": "करना और न करना, दोनों सामान्य हैं; अगर अपराध-बोध या परेशानी बनी रहे तो डॉक्टर से बात करना ठीक है।",
+    "hg": "Karna aur na karna, dono normal hain; agar guilt ya distress bani rahe toh doctor se baat karna worth it hai."
+   }
+  ],
+  "activity": {
+   "en": "Notice one advertisement, reel or forward this week that promises to cure 'weakness' or 'night fall'. Ask yourself privately: who is selling something here, and what evidence do they give?",
+   "hi": "इस हफ़्ते कोई एक इश्तिहार, रील या फ़ॉरवर्ड देखो जो 'कमज़ोरी' या 'नाइट फ़ॉल' ठीक करने का वादा करता हो। मन ही मन पूछो: यहाँ कौन क्या बेच रहा है, और वे सबूत क्या दे रहे हैं?",
+   "hg": "Is hafte koi ek ad, reel ya forward notice karo jo 'kamzori' ya 'night fall' theek karne ka promise karta ho. Khud se privately poochho: yahan kaun kya bech raha hai, aur woh evidence kya de rahe hain?"
+  },
+  "interactive": "myth_buster",
+  "quiz": [
+   {
+    "id": "d15-l02-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Semen is mostly made up of:",
+     "hi": "वीर्य का ज़्यादातर हिस्सा किससे बना होता है?",
+     "hg": "Semen ka zyadatar hissa kisse bana hota hai?"
+    },
+    "options": [
+     {
+      "en": "Fluid from glands such as the seminal vesicles and prostate",
+      "hi": "सेमिनल वेसिकल और प्रोस्टेट जैसी ग्रंथियों के तरल से",
+      "hg": "Seminal vesicles aur prostate jaisi glands ke fluid se"
+     },
+     {
+      "en": "Concentrated blood",
+      "hi": "गाढ़े किए हुए ख़ून से",
+      "hg": "Concentrated blood se"
+     },
+     {
+      "en": "Protein taken from the muscles",
+      "hi": "मांसपेशियों से लिए गए प्रोटीन से",
+      "hg": "Muscles se liye gaye protein se"
+     },
+     {
+      "en": "Fluid from the spine",
+      "hi": "रीढ़ की हड्डी के तरल से",
+      "hg": "Spine ke fluid se"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Most of semen is gland fluid, and sperm are a small part of it. It is not made from blood, muscle or spinal fluid.",
+     "hi": "वीर्य का ज़्यादातर हिस्सा ग्रंथियों का तरल है, और शुक्राणु उसका छोटा सा हिस्सा हैं। वह ख़ून, मांसपेशी या रीढ़ के तरल से नहीं बनता।",
+     "hg": "Semen ka zyadatar hissa glands ka fluid hai, aur sperm uska chhota sa part hain. Woh blood, muscle ya spinal fluid se nahi banta."
+    }
+   },
+   {
+    "id": "d15-l02-q2",
+    "type": "scenario",
+    "q": {
+     "en": "A classmate says he feels tired all the time and is sure it is because he masturbated. Which reply is most accurate?",
+     "hi": "एक सहपाठी कहता है कि वह हर समय थका रहता है और उसे पक्का यक़ीन है कि इसकी वजह हस्तमैथुन है। कौन सा जवाब सबसे सही है?",
+     "hg": "Ek classmate bolta hai ki woh har time thaka rehta hai aur usse pakka yakeen hai ki iski wajah masturbation hai. Kaun sa reply sabse accurate hai?"
+    },
+    "options": [
+     {
+      "en": "'You should buy a strength tonic.'",
+      "hi": "'तुम्हें ताक़त का कोई टॉनिक ख़रीद लेना चाहिए।'",
+      "hg": "'Tumhe taakat ka koi tonic khareed lena chahiye.'"
+     },
+     {
+      "en": "'Tiredness has many causes, like sleep, food and stress. Masturbation does not drain the body, and a doctor can help if you are worried.'",
+      "hi": "'थकान की कई वजहें होती हैं, जैसे नींद, खाना और तनाव। हस्तमैथुन से शरीर ख़ाली नहीं होता, और फ़िक्र हो तो डॉक्टर मदद कर सकते हैं।'",
+      "hg": "'Thakaan ki kai wajah hoti hain, jaise neend, khana aur stress. Masturbation se body drain nahi hoti, aur tension ho toh doctor help kar sakte hain.'"
+     },
+     {
+      "en": "'You have damaged your body permanently.'",
+      "hi": "'तुमने अपने शरीर को हमेशा के लिए ख़राब कर लिया है।'",
+      "hg": "'Tumne apni body ko hamesha ke liye damage kar liya hai.'"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Ongoing tiredness deserves a proper check for causes such as poor sleep, diet or stress. Blaming masturbation delays real help.",
+     "hi": "लगातार थकान की ठीक से जाँच होनी चाहिए कि वजह कम नींद, खान-पान या तनाव तो नहीं। हस्तमैथुन को दोष देने से असली मदद में देर होती है।",
+     "hg": "Lagataar thakaan ka proper check hona chahiye ki wajah kam neend, diet ya stress toh nahi. Masturbation ko blame karne se real help mein der hoti hai."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-sexual-health",
+   "nhm-afhc"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d15-l03",
+  "domain": "d15",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "women",
+   "everyone"
+  ],
+  "body": [
+   "vulva_vaginal",
+   "pregnancy_repro"
+  ],
+  "difficulty": 2,
+  "minutes": 6,
+  "unesco": [
+   2,
+   6,
+   8
+  ],
+  "title": {
+   "en": "Body Myths: The Hymen, Looks and the First Time",
+   "hi": "शरीर के मिथक: हाइमन, रंग-रूप और 'पहली बार'",
+   "hg": "Body Myths: Hymen, Looks aur 'First Time'"
+  },
+  "subtitle": {
+   "en": "What a body can and cannot reveal, and when pregnancy is possible",
+   "hi": "शरीर क्या बता सकता है और क्या नहीं, और गर्भ कब ठहर सकता है",
+   "hg": "Body kya bata sakti hai aur kya nahi, aur pregnancy kab possible hai"
+  },
+  "hook": {
+   "en": "No body part keeps a record of a person's sexual history. Not the hymen, not the hips, not the walk.",
+   "hi": "शरीर का कोई भी हिस्सा किसी के यौन इतिहास का हिसाब नहीं रखता। न हाइमन, न कूल्हे, न चाल।",
+   "hg": "Body ka koi bhi part kisi ki sexual history ka record nahi rakhta. Na hymen, na hips, na chaal."
+  },
+  "objectives": [
+   {
+    "en": "Describe what the hymen is and why it cannot show sexual history.",
+    "hi": "बता पाना कि हाइमन क्या है और वह यौन इतिहास क्यों नहीं दिखा सकता।",
+    "hg": "Bata paana ki hymen kya hai aur woh sexual history kyun nahi dikha sakta."
+   },
+   {
+    "en": "Explain why appearance is not evidence of sexual experience.",
+    "hi": "समझाना कि रंग-रूप यौन अनुभव का सबूत क्यों नहीं है।",
+    "hg": "Explain karna ki appearance sexual experience ka proof kyun nahi hai."
+   },
+   {
+    "en": "Know that pregnancy is possible the first time sperm meets an egg.",
+    "hi": "जानना कि जब भी शुक्राणु अंडे से मिले, पहली बार में भी गर्भ ठहर सकता है।",
+    "hg": "Jaanna ki jab bhi sperm egg se mile, pehli baar mein bhi pregnancy ho sakti hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "The hymen: what it is",
+     "hi": "हाइमन: यह है क्या",
+     "hg": "Hymen: yeh hai kya"
+    },
+    "body": {
+     "en": "The hymen is a thin, stretchy rim of tissue around the opening of the vagina. It is not a seal or a wall; it normally has an opening, which is how menstrual blood leaves the body. Hymens vary naturally in shape and thickness, and some people are born with very little hymen tissue. It can stretch or wear down through growth, sport, cycling or tampon use, or it may stay much the same for years. It may or may not tear or bleed during first intercourse, and many people do not bleed at all.",
+     "hi": "हाइमन (योनिच्छद) योनि (vagina) के मुँह के चारों ओर ऊतक का एक पतला, लचीला घेरा है। यह कोई सील या दीवार नहीं है; इसमें आम तौर पर एक छेद होता है, जिससे माहवारी का ख़ून बाहर आता है। हाइमन की बनावट और मोटाई हर इंसान में क़ुदरती तौर पर अलग होती है, और कुछ लोग बहुत कम हाइमन ऊतक के साथ पैदा होते हैं। बढ़ती उम्र, खेल-कूद, साइकिल चलाने या टैम्पॉन के इस्तेमाल से यह खिंच सकता है या घिस सकता है, या बरसों तक लगभग वैसा ही रह सकता है। पहली बार संभोग के समय यह फट भी सकता है और नहीं भी, ख़ून आ भी सकता है और नहीं भी, और बहुत से लोगों को बिल्कुल ख़ून नहीं आता।",
+     "hg": "Hymen vagina ke opening ke around tissue ka ek patla, stretchy rim hai. Yeh koi seal ya deewar nahi hai; isme normally ek opening hoti hai, jisse period ka blood bahar aata hai. Hymen ki shape aur thickness har insaan mein naturally alag hoti hai, aur kuch log bahut kam hymen tissue ke saath paida hote hain. Growth, sports, cycling ya tampon use se yeh stretch ho sakta hai ya ghis sakta hai, ya saalon tak almost waisa hi reh sakta hai. First intercourse ke time yeh tear ho bhi sakta hai aur nahi bhi, blood aa bhi sakta hai aur nahi bhi, aur bahut logon ko bilkul bleeding nahi hoti."
+    }
+   },
+   {
+    "h": {
+     "en": "Why 'virginity tests' are not science",
+     "hi": "'वर्जिनिटी टेस्ट' विज्ञान क्यों नहीं हैं",
+     "hg": "'Virginity tests' science kyun nahi hain"
+    },
+    "body": {
+     "en": "Because hymens differ so much, no examination can show whether a person has had sex. A doctor cannot tell, a partner cannot tell, and a bedsheet cannot tell. So-called virginity tests, including the 'two-finger test', are unscientific. The World Health Organization has condemned them, and the Supreme Court of India has prohibited the two-finger test. The expectation of bleeding on a wedding night has caused fear, suspicion and violence in many families, all based on a test that the body simply does not provide. A person's worth is not stored in a piece of tissue.",
+     "hi": "हाइमन हर इंसान में इतना अलग होता है कि कोई भी जाँच यह नहीं दिखा सकती कि किसी ने सेक्स किया है या नहीं। न डॉक्टर बता सकता है, न पार्टनर, न चादर। तथाकथित वर्जिनिटी टेस्ट, जिनमें 'टू-फ़िंगर टेस्ट' भी शामिल है, अवैज्ञानिक हैं। विश्व स्वास्थ्य संगठन (WHO) ने इनकी निंदा की है, और भारत के सुप्रीम कोर्ट ने टू-फ़िंगर टेस्ट पर रोक लगाई है। शादी की रात ख़ून आने की उम्मीद ने बहुत से परिवारों में डर, शक और हिंसा पैदा की है, और यह सब एक ऐसे इम्तिहान के भरोसे जो शरीर देता ही नहीं। किसी इंसान की क़ीमत ऊतक के एक टुकड़े में नहीं रखी होती।",
+     "hg": "Hymen har insaan mein itna alag hota hai ki koi bhi examination yeh nahi dikha sakti ki kisi ne sex kiya hai ya nahi. Na doctor bata sakta hai, na partner, na bedsheet. So-called virginity tests, jinme 'two-finger test' bhi shamil hai, unscientific hain. World Health Organization (WHO) ne inhe condemn kiya hai, aur Supreme Court of India ne two-finger test ko prohibit kiya hai. Shaadi ki raat bleeding ki expectation ne bahut si families mein darr, shak aur violence paida kiya hai, aur yeh sab ek aise test ke bharose jo body deti hi nahi. Kisi insaan ki worth tissue ke ek tukde mein store nahi hoti."
+    }
+   },
+   {
+    "h": {
+     "en": "Looks tell you nothing",
+     "hi": "रंग-रूप से कुछ पता नहीं चलता",
+     "hg": "Looks se kuch pata nahi chalta"
+    },
+    "body": {
+     "en": "People also claim to 'spot' sexual experience from wider hips, larger breasts, a changed walk, glowing skin, acne, weight gain, or the shape of the genitals. None of this is real. These features come from genes, puberty hormones, nutrition, exercise and normal variation, and they change during the teenage years whether or not someone has ever had sex. The same is true for boys: build, voice and penis size reveal nothing. Guessing at someone's 'character' from their body is gossip dressed up as knowledge, and it is mostly used to shame girls.",
+     "hi": "लोग यह दावा भी करते हैं कि चौड़े कूल्हों, बड़े स्तनों, बदली हुई चाल, चमकती त्वचा, मुँहासों, बढ़े वज़न या जननांगों की बनावट से यौन अनुभव 'पहचाना' जा सकता है। इसमें से कुछ भी सच नहीं है। ये चीज़ें जीन, प्यूबर्टी के हार्मोन, पोषण, कसरत और क़ुदरती फ़र्क़ से आती हैं, और किशोर उम्र में बदलती ही हैं, चाहे किसी ने कभी सेक्स किया हो या नहीं। लड़कों पर भी यही लागू होता है: क़द-काठी, आवाज़ और लिंग के आकार से कुछ पता नहीं चलता। किसी के शरीर को देखकर उसके 'चरित्र' का अंदाज़ा लगाना जानकारी का भेस पहने गपशप है, और इसका इस्तेमाल ज़्यादातर लड़कियों को शर्मिंदा करने के लिए होता है।",
+     "hg": "Log yeh claim bhi karte hain ki wide hips, bade breasts, badli hui chaal, glowing skin, acne, weight gain ya genitals ki shape se sexual experience 'pehchaana' ja sakta hai. Isme se kuch bhi real nahi hai. Yeh features genes, puberty ke hormones, nutrition, exercise aur normal variation se aate hain, aur teenage mein change hote hi hain, chahe kisi ne kabhi sex kiya ho ya nahi. Ladkon pe bhi yahi lagu hota hai: build, awaaz aur penis size se kuch pata nahi chalta. Kisi ki body dekhkar uske 'character' ka guess lagana knowledge ka costume pehni gossip hai, aur iska use zyadatar ladkiyon ko shame karne ke liye hota hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Pregnancy can happen the first time",
+     "hi": "पहली बार में भी गर्भ ठहर सकता है",
+     "hg": "Pehli baar mein bhi pregnancy ho sakti hai"
+    },
+    "body": {
+     "en": "Another common belief is that pregnancy cannot happen the first time someone has sex. It can. Pregnancy depends on a sperm meeting an egg, and the body does not count how many times a person has had sex. Withdrawal is unreliable because fluid released before ejaculation can contain sperm, and 'safe days' calculations are not dependable. Washing, urinating or jumping afterwards does nothing. Remember that under Indian law a person below 18 cannot legally consent to sexual activity, and choosing to wait is always a valid choice.",
+     "hi": "एक और आम मान्यता यह है कि पहली बार सेक्स करने पर गर्भ नहीं ठहर सकता। ठहर सकता है। गर्भ इस पर निर्भर करता है कि शुक्राणु अंडे से मिला या नहीं, और शरीर यह नहीं गिनता कि किसी ने कितनी बार सेक्स किया है। स्खलन से पहले लिंग बाहर निकाल लेना यानी विदड्रॉअल भरोसेमंद नहीं है, क्योंकि स्खलन से पहले निकलने वाले तरल में भी शुक्राणु हो सकते हैं, और 'सेफ़ डेज़' का हिसाब भी भरोसे लायक नहीं है। बाद में धोने, पेशाब करने या कूदने से कुछ नहीं होता। याद रखो कि भारतीय क़ानून के तहत 18 से कम उम्र का इंसान यौन गतिविधि के लिए क़ानूनी तौर पर सहमति नहीं दे सकता, और इंतज़ार करने का फ़ैसला हमेशा एक सही विकल्प है।",
+     "hg": "Ek aur common belief yeh hai ki pehli baar sex karne pe pregnancy nahi ho sakti. Ho sakti hai. Pregnancy is pe depend karti hai ki sperm egg se mila ya nahi, aur body yeh count nahi karti ki kisi ne kitni baar sex kiya hai. Withdrawal yaani 'pull out' reliable nahi hai, kyunki ejaculation se pehle nikalne wale fluid mein bhi sperm ho sakte hain, aur 'safe days' ka hisaab bhi dependable nahi hai. Baad mein wash karne, peshaab karne ya jump karne se kuch nahi hota. Yaad rakho ki Indian law ke under 18 se kam age ka insaan sexual activity ke liye legally consent nahi de sakta, aur wait karne ka decision hamesha ek valid choice hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "You can tell from a girl's body or the way she walks whether she has had sex.",
+    "hi": "लड़की के शरीर या उसकी चाल से पता चल जाता है कि उसने सेक्स किया है या नहीं।",
+    "hg": "Ladki ki body ya uski chaal se pata chal jaata hai ki usne sex kiya hai ya nahi."
+   },
+   "fact": {
+    "en": "Body shape, walk, skin and genital appearance come from genes, hormones and growth. No visible feature, and no medical examination, can reveal anyone's sexual history.",
+    "hi": "शरीर की बनावट, चाल, त्वचा और जननांगों का रूप जीन, हार्मोन और बढ़त से तय होते हैं। कोई भी दिखने वाली चीज़, और कोई भी मेडिकल जाँच, किसी का यौन इतिहास नहीं बता सकती।",
+    "hg": "Body shape, chaal, skin aur genitals ka look genes, hormones aur growth se aate hain. Koi bhi visible feature, aur koi bhi medical examination, kisi ki sexual history nahi bata sakti."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "The hymen varies naturally and can never show whether someone has had sex.",
+    "hi": "हाइमन क़ुदरती तौर पर हर किसी में अलग होता है और यह कभी नहीं बता सकता कि किसी ने सेक्स किया है या नहीं।",
+    "hg": "Hymen naturally har kisi mein alag hota hai aur yeh kabhi nahi bata sakta ki kisi ne sex kiya hai ya nahi."
+   },
+   {
+    "en": "No feature of anyone's body or walk is evidence of sexual experience.",
+    "hi": "किसी के शरीर या चाल की कोई भी बात यौन अनुभव का सबूत नहीं है।",
+    "hg": "Kisi ki body ya chaal ka koi bhi feature sexual experience ka proof nahi hai."
+   },
+   {
+    "en": "Pregnancy is possible the very first time, and withdrawal and 'safe days' are unreliable.",
+    "hi": "गर्भ पहली ही बार में ठहर सकता है, और विदड्रॉअल और 'सेफ़ डेज़' भरोसेमंद नहीं हैं।",
+    "hg": "Pregnancy pehli hi baar mein ho sakti hai, aur withdrawal aur 'safe days' reliable nahi hain."
+   }
+  ],
+  "activity": {
+   "en": "Think of one film, serial or song where bleeding or 'purity' was used to judge a woman. Write two lines on what the story got wrong according to biology.",
+   "hi": "कोई एक फ़िल्म, सीरियल या गाना याद करो जिसमें ख़ून आने या 'पवित्रता' के आधार पर किसी औरत को परखा गया हो। दो लाइनों में लिखो कि जीव-विज्ञान के हिसाब से कहानी में क्या ग़लत था।",
+   "hg": "Koi ek film, serial ya gaana socho jisme bleeding ya 'purity' ke basis pe kisi woman ko judge kiya gaya ho. Do lines mein likho ki biology ke hisaab se story mein kya galat tha."
+  },
+  "interactive": "myth_buster",
+  "quiz": [
+   {
+    "id": "d15-l03-q1",
+    "type": "tf",
+    "q": {
+     "en": "Every person with a hymen bleeds the first time they have intercourse.",
+     "hi": "जिस किसी के हाइमन होता है, उसे पहली बार संभोग के समय ख़ून ज़रूर आता है।",
+     "hg": "Jis kisi ke hymen hota hai, usse first intercourse ke time bleeding zaroor hoti hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Hymens vary and often stretch rather than tear. Many people do not bleed at all, and that says nothing about their history.",
+     "hi": "हाइमन हर किसी में अलग होता है और अक्सर फटने की जगह खिंच जाता है। बहुत से लोगों को बिल्कुल ख़ून नहीं आता, और इससे उनके बीते कल के बारे में कुछ पता नहीं चलता।",
+     "hg": "Hymen har kisi mein alag hota hai aur aksar tear hone ki jagah stretch ho jaata hai. Bahut logon ko bilkul bleeding nahi hoti, aur isse unki history ke baare mein kuch pata nahi chalta."
+    }
+   },
+   {
+    "id": "d15-l03-q2",
+    "type": "mcq",
+    "q": {
+     "en": "Why is withdrawal ('pulling out') unreliable for preventing pregnancy?",
+     "hi": "गर्भ रोकने के लिए विदड्रॉअल (बाहर निकाल लेना) भरोसेमंद क्यों नहीं है?",
+     "hg": "Pregnancy rokne ke liye withdrawal ('pull out') reliable kyun nahi hai?"
+    },
+    "options": [
+     {
+      "en": "It fails only after the first time",
+      "hi": "यह सिर्फ़ पहली बार के बाद नाकाम होता है",
+      "hg": "Yeh sirf pehli baar ke baad fail hota hai"
+     },
+     {
+      "en": "It works only on 'safe days'",
+      "hi": "यह सिर्फ़ 'सेफ़ डेज़' में काम करता है",
+      "hg": "Yeh sirf 'safe days' mein kaam karta hai"
+     },
+     {
+      "en": "Fluid released before ejaculation can contain sperm",
+      "hi": "स्खलन से पहले निकलने वाले तरल में शुक्राणु हो सकते हैं",
+      "hg": "Ejaculation se pehle nikalne wale fluid mein sperm ho sakte hain"
+     },
+     {
+      "en": "Sperm die as soon as they enter the vagina",
+      "hi": "शुक्राणु योनि में पहुँचते ही मर जाते हैं",
+      "hg": "Sperm vagina mein pahunchte hi mar jaate hain"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "Pre-ejaculate can carry sperm, and withdrawal also depends on perfect timing, so it fails often in real life.",
+     "hi": "स्खलन से पहले का तरल शुक्राणु ले जा सकता है, और विदड्रॉअल एकदम सही समय पर भी निर्भर करता है, इसलिए असल ज़िंदगी में यह अक्सर नाकाम होता है।",
+     "hg": "Pre-ejaculate mein sperm ho sakte hain, aur withdrawal perfect timing pe bhi depend karta hai, isliye real life mein yeh aksar fail hota hai."
+    }
+   }
+  ],
+  "refs": [
+   "who-sexual-health",
+   "unesco-itgse",
+   "who-fp"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d15-l04",
+  "domain": "d15",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   2,
+   8
+  ],
+  "title": {
+   "en": "Infection and Pill Myths, Fact-Checked",
+   "hi": "संक्रमण और गोली से जुड़े मिथक: जाँच-परख",
+   "hg": "Infection aur Pill ke Myths: Fact-Check"
+  },
+  "subtitle": {
+   "en": "HIV and casual contact, silent STIs, the emergency pill and health reels",
+   "hi": "एचआईवी और आम मेल-जोल, बिना लक्षण वाले एसटीआई, इमरजेंसी गोली और हेल्थ रील",
+   "hg": "HIV aur casual contact, silent STIs, emergency pill aur health reels"
+  },
+  "hook": {
+   "en": "A handshake cannot give you HIV, a healthy-looking person can have an STI, and the emergency pill is not an abortion pill. Three sentences that undo a lot of fear.",
+   "hi": "हाथ मिलाने से एचआईवी नहीं होता, स्वस्थ दिखने वाले इंसान को भी एसटीआई हो सकता है, और इमरजेंसी गोली गर्भपात की गोली नहीं है। तीन वाक्य, जो बहुत सारा डर मिटा देते हैं।",
+   "hg": "Haath milane se HIV nahi hota, healthy dikhne wale insaan ko bhi STI ho sakta hai, aur emergency pill abortion pill nahi hai. Teen sentences, jo bahut saara darr hata dete hain."
+  },
+  "objectives": [
+   {
+    "en": "State how HIV is and is not transmitted.",
+    "hi": "बता पाना कि एचआईवी कैसे फैलता है और कैसे नहीं।",
+    "hg": "Bata paana ki HIV kaise phailta hai aur kaise nahi."
+   },
+   {
+    "en": "Explain why STIs cannot be ruled out by looking, and what emergency contraception does and does not do.",
+    "hi": "समझाना कि सिर्फ़ देखकर एसटीआई को नकारा क्यों नहीं जा सकता, और इमरजेंसी गर्भनिरोधक क्या करता है और क्या नहीं।",
+    "hg": "Explain karna ki sirf dekhkar STI rule out kyun nahi ho sakta, aur emergency contraception kya karta hai aur kya nahi."
+   },
+   {
+    "en": "Use four questions to judge health advice on social media.",
+    "hi": "सोशल मीडिया की सेहत वाली सलाह को परखने के लिए चार सवालों का इस्तेमाल करना।",
+    "hg": "Social media ki health advice ko judge karne ke liye chaar questions use karna."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "HIV does not spread through everyday contact",
+     "hi": "एचआईवी रोज़मर्रा के मेल-जोल से नहीं फैलता",
+     "hg": "HIV everyday contact se nahi phailta"
+    },
+    "body": {
+     "en": "HIV is carried in specific body fluids: blood, semen, vaginal and rectal fluids, and breast milk. It passes on through unprotected sex, shared needles or syringes, unscreened blood, and from a parent to a baby during pregnancy, birth or breastfeeding when there is no treatment. It does not spread through hugging, shaking hands, sharing food, plates or toilets, coughing, sweat, or mosquito bites. With regular treatment called ART, people with HIV live long, healthy lives, and a person whose viral load is undetectable does not pass on HIV through sex. Avoiding people who have HIV protects nobody; it only isolates them.",
+     "hi": "एचआईवी शरीर के कुछ ख़ास तरल पदार्थों में होता है: ख़ून, वीर्य, योनि और मलाशय के तरल, और माँ का दूध। यह असुरक्षित सेक्स, साझा सुई या सिरिंज, बिना जाँचे ख़ून, और इलाज न होने पर गर्भ, प्रसव या स्तनपान के दौरान माता-पिता से बच्चे में पहुँचता है। यह गले लगने, हाथ मिलाने, साथ खाना खाने, थाली या शौचालय साझा करने, खाँसी, पसीने या मच्छर के काटने से नहीं फैलता। एआरटी (ART) नाम के नियमित इलाज से एचआईवी के साथ जी रहे लोग लंबी और सेहतमंद ज़िंदगी जीते हैं, और जिस इंसान का वायरल लोड जाँच में पकड़ में न आने लायक हो, उससे सेक्स के ज़रिए एचआईवी नहीं फैलता। एचआईवी वाले लोगों से दूर रहने से किसी की हिफ़ाज़त नहीं होती; इससे बस वे अकेले पड़ जाते हैं।",
+     "hg": "HIV body ke kuch specific fluids mein hota hai: blood, semen, vaginal aur rectal fluids, aur breast milk. Yeh unprotected sex, shared needles ya syringes, unscreened blood, aur treatment na hone pe pregnancy, birth ya breastfeeding ke dauraan parent se baby mein pahunchta hai. Yeh hug karne, haath milane, saath khana khane, plate ya toilet share karne, khaansi, paseene ya machhar ke kaatne se nahi phailta. ART naam ke regular treatment se HIV ke saath jee rahe log lambi aur healthy life jeete hain, aur jis insaan ka viral load undetectable ho, usse sex ke through HIV nahi phailta. HIV wale logon se door rehne se kisi ki protection nahi hoti; isse bas woh akele pad jaate hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Most STIs do not announce themselves",
+     "hi": "ज़्यादातर एसटीआई अपने आने की ख़बर नहीं देते",
+     "hg": "Zyadatar STIs announce karke nahi aate"
+    },
+    "body": {
+     "en": "A common belief is that you would see or feel a sexually transmitted infection. In reality, many STIs cause no symptoms for months or years, in people of every gender. Someone can look healthy, feel fine and still pass an infection on. Only a test can tell. Left untreated, some infections can cause lasting problems such as infertility. The good news: chlamydia, gonorrhoea, syphilis and trichomoniasis are curable, HIV, herpes and hepatitis B can be managed, and vaccines exist for HPV and hepatitis B. Condoms greatly reduce the risk but do not remove it completely.",
+     "hi": "एक आम मान्यता है कि यौन संचारित संक्रमण (एसटीआई) हो तो वह दिख जाएगा या महसूस हो जाएगा। असल में बहुत से एसटीआई महीनों या बरसों तक कोई लक्षण नहीं देते, और यह हर जेंडर के लोगों पर लागू होता है। कोई स्वस्थ दिख सकता है, ठीक महसूस कर सकता है और फिर भी संक्रमण आगे पहुँचा सकता है। सिर्फ़ जाँच से ही पता चलता है। इलाज न हो तो कुछ संक्रमण स्थायी परेशानी दे सकते हैं, जैसे संतान न हो पाना। अच्छी ख़बर यह है: क्लैमाइडिया, गोनोरिया, सिफ़लिस और ट्राइकोमोनिएसिस पूरी तरह ठीक हो सकते हैं, एचआईवी, हर्पीज़ और हेपेटाइटिस बी को क़ाबू में रखा जा सकता है, और एचपीवी और हेपेटाइटिस बी के टीके मौजूद हैं। कंडोम ख़तरा बहुत घटा देते हैं पर पूरी तरह ख़त्म नहीं करते।",
+     "hg": "Ek common belief hai ki sexually transmitted infection (STI) ho toh woh dikh jayega ya feel ho jayega. Reality mein bahut se STIs mahino ya saalon tak koi symptom nahi dete, aur yeh har gender ke logon pe lagu hota hai. Koi healthy dikh sakta hai, fine feel kar sakta hai aur phir bhi infection aage pass kar sakta hai. Sirf test se hi pata chalta hai. Treatment na ho toh kuch infections lasting problems de sakte hain, jaise infertility. Good news yeh hai: chlamydia, gonorrhoea, syphilis aur trichomoniasis curable hain, HIV, herpes aur hepatitis B manage ho sakte hain, aur HPV aur hepatitis B ki vaccines available hain. Condoms risk bahut kam kar dete hain par completely khatam nahi karte."
+    }
+   },
+   {
+    "h": {
+     "en": "The emergency pill is not an abortion pill",
+     "hi": "इमरजेंसी गोली गर्भपात की गोली नहीं है",
+     "hg": "Emergency pill abortion pill nahi hai"
+    },
+    "body": {
+     "en": "Emergency contraception works mainly by delaying ovulation, so that no egg is released for sperm to meet. It can be used up to five days, or 120 hours, after unprotected sex, and the sooner it is taken the better it works. A copper IUD fitted by a health worker is the most effective emergency method. EC does not end an established pregnancy and is not abortion. It is a backup, not a regular method, and it gives no protection against STIs. A pharmacist or doctor can explain how to use it correctly.",
+     "hi": "इमरजेंसी गर्भनिरोधक मुख्य रूप से ओव्यूलेशन यानी अंडे के निकलने को टाल देता है, ताकि शुक्राणु से मिलने के लिए कोई अंडा निकले ही नहीं। इसे असुरक्षित सेक्स के बाद पाँच दिन यानी 120 घंटे तक इस्तेमाल किया जा सकता है, और जितनी जल्दी लिया जाए उतना बेहतर काम करता है। स्वास्थ्यकर्मी द्वारा लगाई गई कॉपर आईयूडी सबसे असरदार इमरजेंसी तरीका है। इमरजेंसी गर्भनिरोधक ठहर चुके गर्भ को ख़त्म नहीं करता और यह गर्भपात नहीं है। यह एक बैकअप है, नियमित तरीका नहीं, और यह एसटीआई से कोई बचाव नहीं देता। इसका सही इस्तेमाल फ़ार्मासिस्ट या डॉक्टर समझा सकते हैं।",
+     "hg": "Emergency contraception (EC) mainly ovulation ko delay karta hai, taaki sperm se milne ke liye koi egg release hi na ho. Isse unprotected sex ke baad paanch din yaani 120 ghante tak use kiya ja sakta hai, aur jitni jaldi liya jaye utna better kaam karta hai. Health worker ki lagayi hui copper IUD sabse effective emergency method hai. EC established pregnancy ko end nahi karta aur yeh abortion nahi hai. Yeh ek backup hai, regular method nahi, aur yeh STIs se koi protection nahi deta. Iska sahi use pharmacist ya doctor explain kar sakte hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Can a reel be your doctor?",
+     "hi": "क्या कोई रील तुम्हारी डॉक्टर बन सकती है?",
+     "hg": "Kya ek reel tumhari doctor ban sakti hai?"
+    },
+    "body": {
+     "en": "Health content online ranges from trained doctors explaining well to confident strangers selling powders. Before trusting a reel or forward, ask four questions. Who is speaking, and are they qualified? Are they selling something? Do they name a source you can check, such as WHO or a government health programme? Do they promise a miracle, a secret or an instant cure? Views and followers measure popularity, not accuracy. For a real concern, a doctor, an Adolescent Friendly Health Clinic, or the NACO helpline on 1097 for HIV questions is safer than a comment section.",
+     "hi": "ऑनलाइन सेहत की सामग्री में अच्छे से समझाने वाले प्रशिक्षित डॉक्टर भी हैं और पूरे भरोसे से पाउडर बेचने वाले अनजान लोग भी। किसी रील या फ़ॉरवर्ड पर यक़ीन करने से पहले चार सवाल पूछो। बोल कौन रहा है, और क्या वह योग्य है? क्या वह कुछ बेच रहा है? क्या वह कोई ऐसा स्रोत बताता है जिसे तुम जाँच सको, जैसे WHO या कोई सरकारी स्वास्थ्य कार्यक्रम? क्या वह चमत्कार, राज़ या फ़ौरन इलाज का वादा करता है? व्यूज़ और फ़ॉलोअर्स लोकप्रियता नापते हैं, सच्चाई नहीं। असली परेशानी के लिए डॉक्टर, किशोर मित्र स्वास्थ्य क्लिनिक (AFHC), या एचआईवी से जुड़े सवालों के लिए नाको हेल्पलाइन 1097, कमेंट सेक्शन से कहीं ज़्यादा सुरक्षित हैं।",
+     "hg": "Online health content mein achhe se explain karne wale trained doctors bhi hain aur full confidence se powder bechne wale strangers bhi. Kisi reel ya forward pe trust karne se pehle chaar questions poochho. Bol kaun raha hai, aur kya woh qualified hai? Kya woh kuch bech raha hai? Kya woh koi aisa source batata hai jisse tum check kar sako, jaise WHO ya koi government health programme? Kya woh miracle, secret ya instant cure ka promise karta hai? Views aur followers popularity naapte hain, accuracy nahi. Real concern ke liye doctor, Adolescent Friendly Health Clinic (AFHC), ya HIV ke questions ke liye NACO helpline 1097, comment section se kahin zyada safe hain."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "If a health video has millions of views, the advice in it must be correct.",
+    "hi": "अगर सेहत वाले किसी वीडियो पर लाखों व्यूज़ हैं, तो उसमें दी गई सलाह सही ही होगी।",
+    "hg": "Agar kisi health video pe millions of views hain, toh usme di gayi advice sahi hi hogi."
+   },
+   "fact": {
+    "en": "Views show that a video is popular, not that it is true. Check who is speaking, whether they are selling something, and whether a trustworthy source such as WHO or a government programme says the same.",
+    "hi": "व्यूज़ बताते हैं कि वीडियो लोकप्रिय है, यह नहीं कि वह सच है। देखो कि बोल कौन रहा है, वह कुछ बेच तो नहीं रहा, और क्या WHO या किसी सरकारी कार्यक्रम जैसा भरोसेमंद स्रोत भी यही कहता है।",
+    "hg": "Views batate hain ki video popular hai, yeh nahi ki woh sach hai. Check karo ki bol kaun raha hai, woh kuch bech toh nahi raha, aur kya WHO ya kisi government programme jaisa trustworthy source bhi yahi bolta hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "HIV does not spread through hugging, sharing food, toilets or mosquitoes.",
+    "hi": "एचआईवी गले लगने, साथ खाने, शौचालय साझा करने या मच्छरों से नहीं फैलता।",
+    "hg": "HIV hug karne, saath khane, toilet share karne ya machharon se nahi phailta."
+   },
+   {
+    "en": "Many STIs have no symptoms, so only a test can tell.",
+    "hi": "बहुत से एसटीआई के कोई लक्षण नहीं होते, इसलिए सिर्फ़ जाँच से ही पता चलता है।",
+    "hg": "Bahut se STIs ke koi symptoms nahi hote, isliye sirf test se hi pata chalta hai."
+   },
+   {
+    "en": "Emergency contraception delays ovulation and does not end an established pregnancy.",
+    "hi": "इमरजेंसी गर्भनिरोधक ओव्यूलेशन को टालता है और ठहर चुके गर्भ को ख़त्म नहीं करता।",
+    "hg": "Emergency contraception ovulation ko delay karta hai aur established pregnancy ko end nahi karta."
+   }
+  ],
+  "activity": {
+   "en": "Take one health claim you have seen on social media this month and run it through the four questions from this lesson. Note privately whether it passes.",
+   "hi": "इस महीने सोशल मीडिया पर देखा हुआ सेहत से जुड़ा कोई एक दावा लो और उसे इस पाठ के चार सवालों पर परखो। अपने लिए लिख लो कि वह पास हुआ या नहीं।",
+   "hg": "Is mahine social media pe dekha hua koi ek health claim lo aur usse is lesson ke chaar questions pe test karo. Apne liye note kar lo ki woh pass hua ya nahi."
+  },
+  "interactive": "myth_buster",
+  "quiz": [
+   {
+    "id": "d15-l04-q1",
+    "type": "mcq",
+    "q": {
+     "en": "How does emergency contraception mainly work?",
+     "hi": "इमरजेंसी गर्भनिरोधक मुख्य रूप से कैसे काम करता है?",
+     "hg": "Emergency contraception mainly kaise kaam karta hai?"
+    },
+    "options": [
+     {
+      "en": "By ending an established pregnancy",
+      "hi": "ठहर चुके गर्भ को ख़त्म करके",
+      "hg": "Established pregnancy ko end karke"
+     },
+     {
+      "en": "By washing sperm out of the body",
+      "hi": "शुक्राणुओं को शरीर से धोकर बाहर निकालकर",
+      "hg": "Sperm ko body se wash karke bahar nikaalkar"
+     },
+     {
+      "en": "By delaying ovulation",
+      "hi": "ओव्यूलेशन यानी अंडे के निकलने को टालकर",
+      "hg": "Ovulation ko delay karke"
+     },
+     {
+      "en": "By protecting against STIs",
+      "hi": "एसटीआई से बचाव देकर",
+      "hg": "STIs se protection dekar"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "EC delays the release of an egg. It does not end a pregnancy that has already begun and gives no STI protection.",
+     "hi": "इमरजेंसी गर्भनिरोधक अंडे के निकलने को टालता है। यह शुरू हो चुके गर्भ को ख़त्म नहीं करता और एसटीआई से कोई बचाव नहीं देता।",
+     "hg": "EC egg ke release ko delay karta hai. Yeh already shuru ho chuki pregnancy ko end nahi karta aur STI se koi protection nahi deta."
+    }
+   },
+   {
+    "id": "d15-l04-q2",
+    "type": "tf",
+    "q": {
+     "en": "A person living with HIV who is on treatment and whose viral load is undetectable does not transmit HIV through sex.",
+     "hi": "एचआईवी के साथ जी रहा जो इंसान इलाज पर है और जिसका वायरल लोड जाँच में पकड़ में नहीं आता, उससे सेक्स के ज़रिए एचआईवी नहीं फैलता।",
+     "hg": "HIV ke saath jee raha jo insaan treatment pe hai aur jiska viral load undetectable hai, usse sex ke through HIV nahi phailta."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "This is known as U=U: undetectable equals untransmittable. It depends on taking treatment regularly and getting viral load checked.",
+     "hi": "इसे U=U कहते हैं: जो पकड़ में नहीं आता, वह फैलता नहीं। यह इस पर निर्भर है कि इलाज नियमित लिया जाए और वायरल लोड की जाँच होती रहे।",
+     "hg": "Isse U=U bolte hain: undetectable equals untransmittable. Yeh is pe depend karta hai ki treatment regularly liya jaye aur viral load check hota rahe."
+    }
+   }
+  ],
+  "refs": [
+   "who-hiv",
+   "who-sti",
+   "who-ec",
+   "naco"
+  ],
+  "warning": {
+   "en": "Emergency contraception works best when taken early and within 5 days. After a possible HIV exposure, PEP must be started within 72 hours, so see a doctor urgently. If you are under 18, the law says you cannot legally consent to sexual activity, and waiting is always a valid choice. If you need care, get it without delay; a doctor will help you but cannot promise complete secrecy to someone under 18. This is general information, not personal medical advice.",
+   "hi": "इमरजेंसी गर्भनिरोधक जल्दी और 5 दिन के अंदर लेने पर सबसे अच्छा काम करता है। एचआईवी के संभावित संपर्क के बाद पीईपी (PEP) 72 घंटे के अंदर शुरू होनी चाहिए, इसलिए फ़ौरन डॉक्टर को दिखाएँ। अगर आपकी उम्र 18 से कम है, तो क़ानून के हिसाब से आप यौन गतिविधि के लिए क़ानूनी सहमति नहीं दे सकते, और इंतज़ार करना हमेशा सही विकल्प है। अगर इलाज की ज़रूरत हो, तो देर न करें; डॉक्टर आपकी मदद करेंगे, पर 18 से कम उम्र वाले से पूरी गोपनीयता का वादा नहीं कर सकते। यह आम जानकारी है, निजी मेडिकल सलाह नहीं।",
+   "hg": "Emergency contraception jaldi aur 5 din ke andar lene pe best kaam karta hai. Possible HIV exposure ke baad PEP 72 ghante ke andar start honi chahiye, isliye urgently doctor ko dikhao. Agar tum under 18 ho, toh law ke hisaab se tum sexual activity ke liye legally consent nahi de sakte, aur wait karna hamesha ek valid choice hai. Agar care chahiye, toh der mat karo; doctor tumhari help karenge, par under 18 wale se complete secrecy ka promise nahi kar sakte. Yeh general information hai, personal medical advice nahi."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d15-l05",
+  "domain": "d15",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 3,
+  "minutes": 7,
+  "unesco": [
+   1,
+   2,
+   4
+  ],
+  "title": {
+   "en": "Marriage, Consent and What Love Is Not",
+   "hi": "शादी, सहमति और वह जो प्यार नहीं है",
+   "hg": "Shaadi, Consent aur Woh Jo Pyaar Nahi Hai"
+  },
+  "subtitle": {
+   "en": "Two beliefs that cause real harm inside relationships",
+   "hi": "दो मान्यताएँ जो रिश्तों के अंदर सचमुच नुकसान करती हैं",
+   "hg": "Do beliefs jo relationships ke andar real harm karti hain"
+  },
+  "hook": {
+   "en": "A wedding changes your legal status. It does not hand over your body, and jealousy does not become love because someone calls it that.",
+   "hi": "शादी आपकी क़ानूनी हैसियत बदलती है। वह आपका शरीर किसी के हवाले नहीं करती, और जलन सिर्फ़ इसलिए प्यार नहीं बन जाती कि कोई उसे प्यार कह दे।",
+   "hg": "Shaadi aapka legal status badalti hai. Woh aapki body kisi ke hawale nahi karti, aur jealousy sirf isliye pyaar nahi ban jaati ki koi usse pyaar bol de."
+  },
+  "objectives": [
+   {
+    "en": "Explain why marriage does not create automatic sexual consent.",
+    "hi": "समझाना कि शादी से यौन सहमति अपने आप क्यों नहीं बन जाती।",
+    "hg": "Explain karna ki shaadi se sexual consent apne aap kyun nahi ban jaati."
+   },
+   {
+    "en": "Describe honestly what Indian law currently says and where it is contested.",
+    "hi": "ईमानदारी से बताना कि भारतीय क़ानून अभी क्या कहता है और किस बात पर विवाद है।",
+    "hg": "Honestly batana ki Indian law abhi kya bolta hai aur kis baat pe vivaad hai."
+   },
+   {
+    "en": "Tell care apart from control in a relationship and know where to get help.",
+    "hi": "रिश्ते में परवाह और कंट्रोल का फ़र्क़ पहचानना और जानना कि मदद कहाँ मिलती है।",
+    "hg": "Relationship mein care aur control ka farq pehchaanna aur jaanna ki help kahan milti hai."
+   }
+  ],
+  "prereqs": [
+   "d15-l04"
+  ],
+  "sections": [
+   {
+    "h": {
+     "en": "Marriage is not standing consent",
+     "hi": "शादी हमेशा के लिए दी गई सहमति नहीं है",
+     "hg": "Shaadi permanent consent nahi hai"
+    },
+    "body": {
+     "en": "Consent means a free, clear yes to a specific act at a specific time, and it can be withdrawn. Marriage does not change that. A spouse can be tired, unwell, in pain, grieving or simply not willing, and their no carries the same weight as before the wedding. Sex that happens because one partner feels unable to refuse harms trust, health and the relationship itself. Medically and ethically, a husband or wife has no 'right' to the other's body. Good intimacy in marriage is built the same way as anywhere else: by asking, listening and going at a pace that suits both.",
+     "hi": "सहमति का मतलब है किसी ख़ास समय पर किसी ख़ास बात के लिए खुलकर, साफ़ तौर पर कही गई हाँ, और इसे वापस भी लिया जा सकता है। शादी से यह नहीं बदलता। जीवनसाथी थका हो सकता है, बीमार हो सकता है, दर्द में हो सकता है, दुखी हो सकता है या बस उसका मन नहीं हो सकता, और उसकी 'ना' का वज़न उतना ही है जितना शादी से पहले था। जो सेक्स इसलिए होता है कि एक साथी को लगता है कि वह मना नहीं कर सकता, वह भरोसे, सेहत और ख़ुद रिश्ते को चोट पहुँचाता है। मेडिकल और नैतिक, दोनों नज़रियों से पति या पत्नी का एक-दूसरे के शरीर पर कोई 'हक़' नहीं है। शादी में अच्छी नज़दीकी वैसे ही बनती है जैसे कहीं और: पूछकर, सुनकर और उस रफ़्तार से चलकर जो दोनों को ठीक लगे।",
+     "hg": "Consent ka matlab hai kisi specific time pe kisi specific act ke liye free, clear haan, aur isse wapas bhi liya ja sakta hai. Shaadi se yeh nahi badalta. Spouse thaka ho sakta hai, bimaar ho sakta hai, dard mein ho sakta hai, dukhi ho sakta hai ya bas uska mann nahi ho sakta, aur uski 'na' ka weight utna hi hai jitna shaadi se pehle tha. Jo sex isliye hota hai ki ek partner ko lagta hai ki woh mana nahi kar sakta, woh trust, health aur khud relationship ko hurt karta hai. Medically aur ethically, husband ya wife ka ek-doosre ki body pe koi 'right' nahi hai. Shaadi mein achhi intimacy waise hi banti hai jaise kahin aur: poochhkar, sunkar aur us pace pe chalkar jo dono ko suit kare."
+    }
+   },
+   {
+    "h": {
+     "en": "What the law says, honestly",
+     "hi": "क़ानून क्या कहता है, साफ़-साफ़",
+     "hg": "Law kya bolta hai, honestly"
+    },
+    "body": {
+     "en": "Indian criminal law is in an uncomfortable place here. The Bharatiya Nyaya Sanhita defines rape but keeps an exception: intercourse by a man with his own wife, if she is not under 18, is not treated as rape under that section. This exception is widely contested and is under challenge in the courts. It does not make forced sex acceptable or free of legal consequence: sexual abuse within marriage can be addressed under the Protection of Women from Domestic Violence Act, 2005, and physical violence and cruelty are offences. Laws can change, and this is general information, not legal advice.",
+     "hi": "इस मामले में भारतीय आपराधिक क़ानून एक असहज जगह पर खड़ा है। भारतीय न्याय संहिता बलात्कार को परिभाषित करती है, पर एक अपवाद रखती है: कोई पुरुष अपनी पत्नी के साथ संभोग करे और पत्नी 18 साल से कम की न हो, तो उस धारा के तहत उसे बलात्कार नहीं माना जाता। इस अपवाद पर बड़े पैमाने पर सवाल उठे हैं और इसे अदालतों में चुनौती दी गई है। इससे ज़बरदस्ती किया गया सेक्स न तो ठीक हो जाता है, न क़ानूनी नतीजों से बाहर: शादी के अंदर यौन दुर्व्यवहार के ख़िलाफ़ घरेलू हिंसा से महिलाओं का संरक्षण अधिनियम, 2005 के तहत क़दम उठाया जा सकता है, और शारीरिक हिंसा व क्रूरता अपराध हैं। क़ानून बदल सकते हैं, और यह आम जानकारी है, क़ानूनी सलाह नहीं।",
+     "hg": "Is matter mein Indian criminal law ek uncomfortable jagah pe khada hai. Bharatiya Nyaya Sanhita rape ko define karti hai, par ek exception rakhti hai: koi aadmi apni wife ke saath intercourse kare aur wife 18 se kam ki na ho, toh us section ke under usse rape nahi maana jaata. Is exception pe bade level pe sawaal uthe hain aur isse courts mein challenge kiya gaya hai. Isse forced sex na toh acceptable ho jaata hai, na legal consequences se bahar: shaadi ke andar sexual abuse ke against Protection of Women from Domestic Violence Act, 2005 ke under action liya ja sakta hai, aur physical violence aur cruelty offences hain. Laws change ho sakte hain, aur yeh general information hai, legal advice nahi."
+    }
+   },
+   {
+    "h": {
+     "en": "Why the belief persists",
+     "hi": "यह मान्यता बनी क्यों रहती है",
+     "hg": "Yeh belief bani kyun rehti hai"
+    },
+    "body": {
+     "en": "Many people grow up hearing that sex is a wife's duty and a husband's right, and that a 'good' spouse does not refuse. Couples in arranged marriages may barely know each other on the wedding night, yet feel that families expect it to 'happen'. Films treat refusal as shyness. Almost nobody is taught how to talk about readiness, pain or desire. None of this makes anyone a bad person for having believed it; it means the script was handed down without questions. A couple can decide together to put that script aside and set their own pace.",
+     "hi": "बहुत से लोग यह सुनते हुए बड़े होते हैं कि सेक्स पत्नी का फ़र्ज़ और पति का हक़ है, और 'अच्छा' जीवनसाथी मना नहीं करता। अरेंज्ड मैरिज में जोड़े शादी की रात तक एक-दूसरे को मुश्किल से जानते हैं, फिर भी उन्हें लगता है कि परिवार को उम्मीद है कि 'वह' हो ही जाए। फ़िल्में इनकार को शर्माना बताती हैं। तैयार होने, दर्द या इच्छा के बारे में बात कैसे की जाए, यह लगभग किसी को नहीं सिखाया जाता। इस मान्यता को मानने से कोई बुरा इंसान नहीं हो जाता; इसका मतलब बस इतना है कि यह स्क्रिप्ट बिना सवालों के आगे थमा दी गई। कोई भी जोड़ा मिलकर तय कर सकता है कि वह इस स्क्रिप्ट को किनारे रखेगा और अपनी रफ़्तार ख़ुद चुनेगा।",
+     "hg": "Bahut log yeh sunte hue bade hote hain ki sex wife ka farz aur husband ka haq hai, aur 'achha' spouse mana nahi karta. Arranged marriage mein couples shaadi ki raat tak ek-doosre ko mushkil se jaante hain, phir bhi unhe lagta hai ki families expect karti hain ki 'woh' ho hi jaye. Films inkaar ko sharmaana dikhati hain. Readiness, pain ya desire ke baare mein baat kaise ki jaye, yeh almost kisi ko nahi sikhaya jaata. Is belief ko maanne se koi bura insaan nahi ho jaata; iska matlab bas itna hai ki yeh script bina sawaalon ke aage thama di gayi. Koi bhi couple milkar decide kar sakta hai ki woh is script ko side mein rakhega aur apna pace khud choose karega."
+    }
+   },
+   {
+    "h": {
+     "en": "Control dressed up as love",
+     "hi": "प्यार का भेस पहने कंट्रोल",
+     "hg": "Pyaar ke costume mein control"
+    },
+    "body": {
+     "en": "A second belief does similar damage: that jealousy, possessiveness and anger prove how much someone loves you. Checking a partner's phone, demanding passwords, deciding what they wear or whom they meet, tracking their location, sulking or threatening when they say no, and hitting 'out of love' are forms of control, not affection. Love leaves a person freer and safer, not smaller and more afraid. If this is happening to you, whatever your gender, help exists: 112 in an emergency, Tele-MANAS on 14416 for counselling, and for women the Women Helpline on 181 and One Stop Centres.",
+     "hi": "एक दूसरी मान्यता भी ऐसा ही नुकसान करती है: कि जलन, क़ब्ज़ा जमाना और ग़ुस्सा यह साबित करते हैं कि कोई आपसे कितना प्यार करता है। साथी का फ़ोन खँगालना, पासवर्ड माँगना, यह तय करना कि वह क्या पहने या किससे मिले, उसकी लोकेशन पर नज़र रखना, उसके मना करने पर रूठना या धमकाना, और 'प्यार में' हाथ उठाना, ये सब कंट्रोल के रूप हैं, लगाव के नहीं। प्यार इंसान को ज़्यादा आज़ाद और सुरक्षित बनाता है, छोटा और डरा हुआ नहीं। अगर आपके साथ ऐसा हो रहा है, तो आपका जेंडर कोई भी हो, मदद मौजूद है: इमरजेंसी में 112, काउंसलिंग के लिए टेली-मानस 14416, और महिलाओं के लिए महिला हेल्पलाइन 181 और वन स्टॉप सेंटर।",
+     "hg": "Ek doosri belief bhi aisa hi damage karti hai: ki jealousy, possessiveness aur gussa yeh prove karte hain ki koi aapse kitna pyaar karta hai. Partner ka phone check karna, passwords maangna, yeh decide karna ki woh kya pehne ya kisse mile, uski location track karna, uske mana karne pe roothna ya dhamkana, aur 'pyaar mein' haath uthana, yeh sab control ke forms hain, affection ke nahi. Pyaar insaan ko zyada free aur safe banata hai, chhota aur dara hua nahi. Agar aapke saath aisa ho raha hai, toh aapka gender koi bhi ho, help available hai: emergency mein 112, counselling ke liye Tele-MANAS 14416, aur women ke liye Women Helpline 181 aur One Stop Centres."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "After marriage, saying no to your spouse is a failure of duty.",
+    "hi": "शादी के बाद जीवनसाथी को मना करना अपने फ़र्ज़ से चूकना है।",
+    "hg": "Shaadi ke baad spouse ko mana karna apne farz mein fail hona hai."
+   },
+   "fact": {
+    "en": "Consent is needed every time, in every relationship. A spouse may refuse for any reason, and respecting that refusal is part of a healthy marriage, not a threat to it.",
+    "hi": "सहमति हर बार चाहिए, हर रिश्ते में। जीवनसाथी किसी भी वजह से मना कर सकता है, और उस इनकार का आदर करना सेहतमंद शादी का हिस्सा है, उसके लिए ख़तरा नहीं।",
+    "hg": "Consent har baar chahiye, har relationship mein. Spouse kisi bhi reason se mana kar sakta hai, aur us inkaar ki respect karna healthy shaadi ka hissa hai, uske liye threat nahi."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Marriage is not consent; a yes is needed each time and can be withdrawn.",
+    "hi": "शादी सहमति नहीं है; हर बार हाँ चाहिए और वह वापस भी ली जा सकती है।",
+    "hg": "Shaadi consent nahi hai; har baar haan chahiye aur woh wapas bhi li ja sakti hai."
+   },
+   {
+    "en": "The marital exception in Indian criminal law is contested, and other legal remedies exist.",
+    "hi": "भारतीय आपराधिक क़ानून में शादी वाला अपवाद विवाद में है, और दूसरे क़ानूनी रास्ते मौजूद हैं।",
+    "hg": "Indian criminal law ka marital exception contested hai, aur doosre legal remedies available hain."
+   },
+   {
+    "en": "Jealousy, monitoring and violence are control, not proof of love.",
+    "hi": "जलन, निगरानी और हिंसा कंट्रोल हैं, प्यार का सबूत नहीं।",
+    "hg": "Jealousy, monitoring aur violence control hain, pyaar ka proof nahi."
+   }
+  ],
+  "activity": {
+   "en": "Privately list three behaviours you would consider caring and three you would consider controlling in a relationship. Notice whether any behaviour you were taught to call romantic belongs in the second list.",
+   "hi": "अपने लिए तीन ऐसे बर्ताव लिखिए जिन्हें आप रिश्ते में परवाह मानेंगे और तीन ऐसे जिन्हें कंट्रोल मानेंगे। ग़ौर कीजिए कि जिस बर्ताव को आपको रोमांटिक कहना सिखाया गया था, वह कहीं दूसरी सूची में तो नहीं आता।",
+   "hg": "Apne liye teen aise behaviours likhiye jinhe aap relationship mein caring maanenge aur teen aise jinhe controlling maanenge. Notice kijiye ki jis behaviour ko aapko romantic bolna sikhaya gaya tha, woh kahin doosri list mein toh nahi aata."
+  },
+  "interactive": "relationship_radar",
+  "quiz": [
+   {
+    "id": "d15-l05-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Which statement about the marital exception in Indian criminal law is accurate?",
+     "hi": "भारतीय आपराधिक क़ानून में शादी वाले अपवाद के बारे में कौन सी बात सही है?",
+     "hg": "Indian criminal law ke marital exception ke baare mein kaun sa statement accurate hai?"
+    },
+    "options": [
+     {
+      "en": "It has been completely removed from the law",
+      "hi": "इसे क़ानून से पूरी तरह हटा दिया गया है",
+      "hg": "Isse law se completely hata diya gaya hai"
+     },
+     {
+      "en": "It exists in the BNS, is contested, and other remedies such as the domestic violence law still apply",
+      "hi": "यह BNS में मौजूद है, विवाद में है, और घरेलू हिंसा क़ानून जैसे दूसरे रास्ते फिर भी लागू होते हैं",
+      "hg": "Yeh BNS mein maujood hai, contested hai, aur domestic violence law jaise doosre remedies phir bhi apply hote hain"
+     },
+     {
+      "en": "It means a wife can never legally refuse her husband",
+      "hi": "इसका मतलब है कि पत्नी क़ानूनी तौर पर पति को कभी मना नहीं कर सकती",
+      "hg": "Iska matlab hai ki wife legally husband ko kabhi mana nahi kar sakti"
+     },
+     {
+      "en": "It applies to every couple, married or not",
+      "hi": "यह हर जोड़े पर लागू होता है, शादीशुदा हो या नहीं",
+      "hg": "Yeh har couple pe apply hota hai, married ho ya nahi"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "The exception limits one criminal provision; it does not remove a spouse's right to refuse or the protection of other laws.",
+     "hi": "यह अपवाद एक आपराधिक प्रावधान को सीमित करता है; यह जीवनसाथी के मना करने के हक़ को या दूसरे क़ानूनों की सुरक्षा को ख़त्म नहीं करता।",
+     "hg": "Yeh exception ek criminal provision ko limit karta hai; yeh spouse ke mana karne ke haq ko ya doosre laws ki protection ko khatam nahi karta."
+    }
+   },
+   {
+    "id": "d15-l05-q2",
+    "type": "scenario",
+    "q": {
+     "en": "A partner says, 'I check your phone because I love you so much.' The most accurate description is:",
+     "hi": "एक साथी कहता है, 'मैं तुम्हारा फ़ोन इसलिए देखता हूँ क्योंकि मैं तुमसे बहुत प्यार करता हूँ।' इसका सबसे सही वर्णन है:",
+     "hg": "Ek partner bolta hai, 'Main tumhara phone isliye check karta hoon kyunki main tumse bahut pyaar karta hoon.' Iska sabse accurate description hai:"
+    },
+    "options": [
+     {
+      "en": "Proof of deep love",
+      "hi": "गहरे प्यार का सबूत",
+      "hg": "Gehre pyaar ka proof"
+     },
+     {
+      "en": "A normal part of every relationship",
+      "hi": "हर रिश्ते का आम हिस्सा",
+      "hg": "Har relationship ka normal part"
+     },
+     {
+      "en": "A controlling behaviour, even though it is described as love",
+      "hi": "कंट्रोल करने वाला बर्ताव, भले ही उसे प्यार कहा जा रहा हो",
+      "hg": "Controlling behaviour, chahe usse pyaar bola ja raha ho"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "Monitoring removes privacy and trust. Calling it love does not change what it does to the other person.",
+     "hi": "निगरानी निजता और भरोसा छीन लेती है। उसे प्यार कह देने से यह नहीं बदलता कि वह सामने वाले पर क्या असर डालती है।",
+     "hg": "Monitoring privacy aur trust chheen leti hai. Usse pyaar bol dene se yeh nahi badalta ki woh saamne wale pe kya asar daalti hai."
+    }
+   }
+  ],
+  "refs": [
+   "bns-2023",
+   "who-vaw",
+   "wcd-mission-shakti",
+   "unesco-itgse"
+  ],
+  "warning": {
+   "en": "If you are being forced, threatened or hurt, call 112 in an emergency or the Women Helpline 181. Pain during intercourse is a medical issue that a doctor can help with; it is not something to endure.",
+   "hi": "अगर आपके साथ ज़बरदस्ती हो रही है, आपको धमकाया या चोट पहुँचाई जा रही है, तो इमरजेंसी में 112 या महिला हेल्पलाइन 181 पर कॉल कीजिए। संभोग के दौरान दर्द एक मेडिकल परेशानी है जिसमें डॉक्टर मदद कर सकते हैं; यह चुपचाप सहने की चीज़ नहीं है।",
+   "hg": "Agar aapke saath zabardasti ho rahi hai, aapko dhamkaya ya hurt kiya ja raha hai, toh emergency mein 112 ya Women Helpline 181 pe call kijiye. Intercourse ke dauraan pain ek medical issue hai jisme doctor help kar sakte hain; yeh chupchaap sehne ki cheez nahi hai."
+  },
+  "sensitive": true,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ }
+]

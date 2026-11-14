@@ -1,0 +1,695 @@
+[
+ {
+  "lesson": "d14-l01",
+  "type": "steps",
+  "title": {
+   "en": "Unsafe touch? No, Go, Tell",
+   "hi": "असुरक्षित स्पर्श? ना कहो, हट जाओ, बताओ",
+   "hg": "Unsafe touch? No, Go, Tell"
+  },
+  "items": [
+   {
+    "icon": "stop",
+    "label": {
+     "en": "Say NO",
+     "hi": "ना कहो",
+     "hg": "NO bolo"
+    },
+    "text": {
+     "en": "Say 'No!' or 'Stop!' in a big, strong voice.",
+     "hi": "ज़ोर से, बड़ी आवाज़ में बोलो 'नहीं!' या 'रुको!'",
+     "hg": "Zor se, badi awaaz mein bolo 'Nahi!' ya 'Stop!'"
+    }
+   },
+   {
+    "icon": "run",
+    "label": {
+     "en": "GO away",
+     "hi": "हट जाओ",
+     "hg": "GO: wahan se hato"
+    },
+    "text": {
+     "en": "Move away to where other people are.",
+     "hi": "वहाँ चले जाओ जहाँ और लोग हों।",
+     "hg": "Wahan chale jao jahan aur log hon."
+    }
+   },
+   {
+    "icon": "talk",
+    "label": {
+     "en": "TELL a grown-up",
+     "hi": "किसी बड़े को बताओ",
+     "hg": "TELL: kisi bade ko batao"
+    },
+    "text": {
+     "en": "Tell a grown-up you trust what happened.",
+     "hi": "किसी भरोसेमंद बड़े को बताओ कि क्या हुआ।",
+     "hg": "Kisi trusted bade ko batao ki kya hua."
+    }
+   },
+   {
+    "icon": "care",
+    "label": {
+     "en": "Never your fault",
+     "hi": "ग़लती कभी तुम्हारी नहीं",
+     "hg": "Galti kabhi tumhari nahi"
+    },
+    "text": {
+     "en": "Could not say no or run? That is okay. You can still tell.",
+     "hi": "ना नहीं कह पाए या भाग नहीं पाए? कोई बात नहीं। तुम तब भी बता सकते हो।",
+     "hg": "No nahi bol paaye ya bhaag nahi paaye? Koi baat nahi. Tum tab bhi bata sakte ho."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d14-l02",
+  "type": "compare",
+  "title": {
+   "en": "Safe secret or unsafe secret?",
+   "hi": "सुरक्षित राज़ या असुरक्षित राज़?",
+   "hg": "Safe secret ya unsafe secret?"
+  },
+  "left": {
+   "title": {
+    "en": "Safe secret",
+    "hi": "सुरक्षित राज़",
+    "hg": "Safe secret"
+   },
+   "tone": "good",
+   "icon": "gift",
+   "points": [
+    {
+     "en": "A happy surprise, like a birthday gift for Dadi.",
+     "hi": "ख़ुशी वाला सरप्राइज़, जैसे दादी के जन्मदिन का तोहफ़ा।",
+     "hg": "Happy surprise, jaise Dadi ke birthday ka gift."
+    },
+    {
+     "en": "Everyone finds out soon and feels happy.",
+     "hi": "जल्दी ही सबको पता चल जाता है और सब ख़ुश होते हैं।",
+     "hg": "Jaldi hi sabko pata chal jaata hai aur sab khush hote hain."
+    }
+   ]
+  },
+  "right": {
+   "title": {
+    "en": "Unsafe secret",
+    "hi": "असुरक्षित राज़",
+    "hg": "Unsafe secret"
+   },
+   "tone": "bad",
+   "icon": "warning",
+   "points": [
+    {
+     "en": "It makes you feel scared, sad or mixed up.",
+     "hi": "इससे डर, उदासी या उलझन महसूस होती है।",
+     "hg": "Isse darr, udaasi ya confusion feel hoti hai."
+    },
+    {
+     "en": "Someone says, 'Don't tell anyone, ever.'",
+     "hi": "कोई कहता है, 'किसी को कभी मत बताना।'",
+     "hg": "Koi bolta hai, 'Kisi ko kabhi mat batana.'"
+    },
+    {
+     "en": "Never keep it. Tell a grown-up you trust.",
+     "hi": "ऐसा राज़ कभी मत रखो। किसी भरोसेमंद बड़े को बता दो।",
+     "hg": "Aisa secret kabhi mat rakho. Kisi trusted bade ko bata do."
+    }
+   ]
+  }
+ },
+ {
+  "lesson": "d14-l03",
+  "type": "grid",
+  "title": {
+   "en": "Spot it early, speak up early",
+   "hi": "जल्दी पहचानो, जल्दी बोलो",
+   "hg": "Jaldi pehchaano, jaldi bolo"
+  },
+  "items": [
+   {
+    "icon": "angry",
+    "label": {
+     "en": "Bullying has four forms",
+     "hi": "बुलीइंग के चार रूप",
+     "hg": "Bullying ke chaar roop"
+    },
+    "text": {
+     "en": "Hurting someone on purpose, again and again: physical, verbal, social or online.",
+     "hi": "किसी को जान-बूझकर बार-बार तकलीफ़ देना: शारीरिक, शब्दों से, सामाजिक या ऑनलाइन।",
+     "hg": "Kisi ko jaan-boojhkar baar-baar hurt karna: physical, verbal, social ya online."
+    }
+   },
+   {
+    "icon": "stop",
+    "label": {
+     "en": "When teasing is harassment",
+     "hi": "जब मज़ाक़ उत्पीड़न बन जाए",
+     "hg": "Jab teasing harassment ban jaye"
+    },
+    "text": {
+     "en": "Unwanted comments or touching that keep going are harassment, not masti.",
+     "hi": "बार-बार होने वाली अनचाही टिप्पणी या छूना उत्पीड़न है, मस्ती नहीं।",
+     "hg": "Baar-baar hone wale unwanted comments ya touching harassment hai, masti nahi."
+    }
+   },
+   {
+    "icon": "gift",
+    "label": {
+     "en": "A grooming warning sign",
+     "hi": "ग्रूमिंग का चेतावनी संकेत",
+     "hg": "Grooming ka warning sign"
+    },
+    "text": {
+     "en": "Special favours plus secrecy plus time alone with an older person.",
+     "hi": "किसी बड़ी उम्र के इंसान की ख़ास मेहरबानी, राज़ और अकेले में समय, तीनों एक साथ।",
+     "hg": "Kisi badi umar wale ke special favours, secrecy aur akele mein time, teeno ek saath."
+    }
+   },
+   {
+    "icon": "talk",
+    "label": {
+     "en": "No proof needed",
+     "hi": "सबूत ज़रूरी नहीं",
+     "hg": "Proof ki zaroorat nahi"
+    },
+    "text": {
+     "en": "If something feels off, tell a trusted adult. If they brush it off, tell another.",
+     "hi": "कुछ ठीक न लगे तो किसी भरोसेमंद बड़े को बताओ। वे बात टाल दें, तो किसी और को बताओ।",
+     "hg": "Kuch theek na lage toh kisi trusted adult ko batao. Woh baat taal dein, toh kisi aur ko batao."
+    }
+   },
+   {
+    "icon": "call",
+    "label": {
+     "en": "Call 1098",
+     "hi": "1098 पर कॉल करो",
+     "hg": "1098 pe call karo"
+    },
+    "text": {
+     "en": "Child Helpline 1098 is free at any time of day. In an emergency, call 112.",
+     "hi": "चाइल्ड हेल्पलाइन 1098 मुफ़्त है, दिन-रात किसी भी समय। इमरजेंसी में 112 पर कॉल करो।",
+     "hg": "Child Helpline 1098 free hai, din-raat kabhi bhi. Emergency mein 112 pe call karo."
+    }
+   },
+   {
+    "icon": "friends",
+    "label": {
+     "en": "If you see bullying",
+     "hi": "अगर बुलीइंग होते देखो",
+     "hg": "Agar bullying hote dekho"
+    },
+    "text": {
+     "en": "Do not join in or film it. Sit with them and tell a teacher.",
+     "hi": "उसमें शामिल मत हो, वीडियो मत बनाओ। उनके पास बैठो और टीचर को बताओ।",
+     "hg": "Usme join mat karo, video mat banao. Unke paas baitho aur teacher ko batao."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d14-l04",
+  "type": "compare",
+  "title": {
+   "en": "Call it what it is",
+   "hi": "जो है, वही कहो",
+   "hg": "Jo hai, wahi bolo"
+  },
+  "left": {
+   "title": {
+    "en": "What people say",
+    "hi": "लोग क्या कहते हैं",
+    "hg": "Log kya kehte hain"
+   },
+   "tone": "bad",
+   "icon": "cross",
+   "points": [
+    {
+     "en": "'Eve-teasing' is just harmless mazaak.",
+     "hi": "'ईव-टीज़िंग' तो बस हल्का-फुल्का मज़ाक़ है।",
+     "hg": "'Eve-teasing' toh bas harmless mazaak hai."
+    },
+    {
+     "en": "Following someone after a no is romantic.",
+     "hi": "ना सुनने के बाद भी पीछा करना रोमांटिक है।",
+     "hg": "No sunne ke baad bhi peecha karna romantic hai."
+    },
+    {
+     "en": "Abusers are strangers in dark lanes.",
+     "hi": "शोषण करने वाले अँधेरी गलियों के अजनबी होते हैं।",
+     "hg": "Abuse karne wale andheri galiyon ke strangers hote hain."
+    },
+    {
+     "en": "If they froze or did not say no, they allowed it.",
+     "hi": "अगर वे सुन्न पड़ गए या ना नहीं कहा, तो उन्होंने इजाज़त दे दी।",
+     "hg": "Agar woh freeze ho gaye ya no nahi bola, toh unhone allow kar diya."
+    }
+   ]
+  },
+  "right": {
+   "title": {
+    "en": "What it really is",
+    "hi": "असल में यह क्या है",
+    "hg": "Asal mein yeh kya hai"
+   },
+   "tone": "good",
+   "icon": "check",
+   "points": [
+    {
+     "en": "It is sexual harassment, an offence. The test is whether it was unwanted.",
+     "hi": "यह यौन उत्पीड़न है, एक अपराध। कसौटी यह है कि बर्ताव अनचाहा था या नहीं।",
+     "hg": "Yeh sexual harassment hai, ek offence. Test yeh hai ki behaviour unwanted tha ya nahi."
+    },
+    {
+     "en": "It is stalking, a crime in India, online too.",
+     "hi": "यह स्टॉकिंग है, जो भारत में अपराध है, ऑनलाइन भी।",
+     "hg": "Yeh stalking hai, jo India mein crime hai, online bhi."
+    },
+    {
+     "en": "Most abuse of children is by someone the child already knows.",
+     "hi": "बच्चों का ज़्यादातर शोषण कोई जाना-पहचाना इंसान ही करता है।",
+     "hg": "Bachchon ka zyadatar abuse koi jaana-pehchaana insaan hi karta hai."
+    },
+    {
+     "en": "Freezing is not consent, and the law never counts a child's 'yes' to a sexual act.",
+     "hi": "सुन्न पड़ जाना सहमति नहीं है, और क़ानून यौन क्रिया के लिए बच्चे की 'हाँ' को कभी सहमति नहीं मानता।",
+     "hg": "Freeze ho jaana consent nahi hai, aur law sexual act ke liye bachche ki 'haan' ko kabhi consent nahi maanta."
+    }
+   ]
+  }
+ },
+ {
+  "lesson": "d14-l05",
+  "type": "grid",
+  "title": {
+   "en": "Abuse is a pattern of control",
+   "hi": "दुर्व्यवहार नियंत्रण का एक सिलसिला है",
+   "hg": "Abuse control ka ek pattern hai"
+  },
+  "items": [
+   {
+    "icon": "pain",
+    "label": {
+     "en": "Physical",
+     "hi": "शारीरिक",
+     "hg": "Physical"
+    },
+    "text": {
+     "en": "Hitting, choking or throwing things.",
+     "hi": "मारना, गला दबाना या चीज़ें फेंकना।",
+     "hg": "Maarna, gala dabana ya cheezein phenkna."
+    }
+   },
+   {
+    "icon": "sad",
+    "label": {
+     "en": "Emotional",
+     "hi": "भावनात्मक",
+     "hg": "Emotional"
+    },
+    "text": {
+     "en": "Insults, humiliation, constant blame, threats to leave or to hurt themselves.",
+     "hi": "अपमान, बेइज़्ज़ती, हर बात का दोष, छोड़ देने या ख़ुद को नुक़सान पहुँचाने की धमकी।",
+     "hg": "Insults, humiliation, har baat ka blame, chhod dene ya khud ko hurt karne ki dhamki."
+    }
+   },
+   {
+    "icon": "no",
+    "label": {
+     "en": "Sexual",
+     "hi": "यौन",
+     "hg": "Sexual"
+    },
+    "text": {
+     "en": "Pressure or force for any sexual act.",
+     "hi": "किसी भी यौन क्रिया के लिए दबाव या ज़बरदस्ती।",
+     "hg": "Kisi bhi sexual act ke liye pressure ya zabardasti."
+    }
+   },
+   {
+    "icon": "money",
+    "label": {
+     "en": "Financial",
+     "hi": "आर्थिक",
+     "hg": "Financial"
+    },
+    "text": {
+     "en": "Taking your money, or stopping you from studying or working.",
+     "hi": "तुम्हारे पैसे ले लेना, या पढ़ाई या काम करने से रोकना।",
+     "hg": "Tumhare paise le lena, ya padhai ya kaam karne se rokna."
+    }
+   },
+   {
+    "icon": "phone",
+    "label": {
+     "en": "Digital",
+     "hi": "डिजिटल",
+     "hg": "Digital"
+    },
+    "text": {
+     "en": "Demanding passwords, tracking your location, threatening to leak photos.",
+     "hi": "पासवर्ड माँगना, तुम्हारी लोकेशन ट्रैक करना, फ़ोटो लीक करने की धमकी देना।",
+     "hg": "Passwords maangna, tumhari location track karna, photos leak karne ki dhamki dena."
+    }
+   },
+   {
+    "icon": "repeat",
+    "label": {
+     "en": "The cycle",
+     "hi": "बार-बार का चक्र",
+     "hg": "Baar-baar ka cycle"
+    },
+    "text": {
+     "en": "Tension, an incident, then apologies and affection. This cycle is one reason leaving is hard.",
+     "hi": "तनाव, फिर कोई घटना, फिर माफ़ी और प्यार। यह चक्र एक वजह है कि छोड़ना मुश्किल होता है।",
+     "hg": "Tension, phir koi incident, phir sorry aur pyaar. Yeh cycle ek wajah hai ki chhodna mushkil hota hai."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d14-l06",
+  "type": "steps",
+  "title": {
+   "en": "When a friend tells you",
+   "hi": "जब कोई दोस्त तुम्हें बताए",
+   "hg": "Jab koi dost tumhe bataye"
+  },
+  "items": [
+   {
+    "icon": "listen",
+    "label": {
+     "en": "Listen first",
+     "hi": "पहले सुनो",
+     "hg": "Pehle suno"
+    },
+    "text": {
+     "en": "Listen without interrupting. Your reaction in the first minute matters.",
+     "hi": "बीच में टोके बिना सुनो। पहले मिनट में तुम्हारी प्रतिक्रिया बहुत मायने रखती है।",
+     "hg": "Beech mein toke bina suno. Pehle minute mein tumhara reaction bahut matter karta hai."
+    }
+   },
+   {
+    "icon": "heart",
+    "label": {
+     "en": "Believe them",
+     "hi": "यक़ीन करो",
+     "hg": "Yakeen karo"
+    },
+    "text": {
+     "en": "Say 'I believe you', 'It's not your fault' and 'Thank you for telling me'.",
+     "hi": "कहो, 'मुझे तुम पर यक़ीन है', 'यह तुम्हारी ग़लती नहीं है' और 'बताने के लिए शुक्रिया'।",
+     "hg": "Bolo, 'Mujhe tum par yakeen hai', 'Yeh tumhari galti nahi hai' aur 'Batane ke liye thank you'."
+    }
+   },
+   {
+    "icon": "no",
+    "label": {
+     "en": "Skip the blame questions",
+     "hi": "दोष वाले सवाल मत पूछो",
+     "hg": "Blame wale sawaal skip karo"
+    },
+    "text": {
+     "en": "Do not ask why they didn't run, what they wore or why they waited.",
+     "hi": "यह मत पूछो कि वे भागे क्यों नहीं, क्या पहना था या इतनी देर से क्यों बताया।",
+     "hg": "Yeh mat poochho ki woh bhaage kyun nahi, kya pehna tha ya itni der se kyun bataya."
+    }
+   },
+   {
+    "icon": "support",
+    "label": {
+     "en": "Ask what they want next",
+     "hi": "पूछो कि आगे वे क्या चाहते हैं",
+     "hg": "Poochho aage woh kya chahte hain"
+    },
+    "text": {
+     "en": "Help them reach a safe adult, or call 1098, 112 or 181.",
+     "hi": "उन्हें किसी सुरक्षित बड़े तक पहुँचने में मदद करो, या 1098, 112 या 181 पर कॉल करो।",
+     "hg": "Unhe kisi safe adult tak pahunchne mein help karo, ya 1098, 112 ya 181 pe call karo."
+    }
+   },
+   {
+    "icon": "info",
+    "label": {
+     "en": "Be honest about secrecy",
+     "hi": "गोपनीयता पर सच बताओ",
+     "hg": "Secrecy pe honest raho"
+    },
+    "text": {
+     "en": "If they are under 18, adults must report sexual abuse to the police and cannot promise total secrecy.",
+     "hi": "अगर वे 18 से कम उम्र के हैं, तो बड़ों को यौन शोषण की सूचना पुलिस को देनी ही होती है, इसलिए वे पूरी गोपनीयता का वादा नहीं कर सकते।",
+     "hg": "Agar woh under-18 hain, toh adults ko sexual abuse police ko report karna hi padta hai, isliye woh total secrecy ka promise nahi kar sakte."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d14-l07",
+  "type": "grid",
+  "title": {
+   "en": "Crimes, not customs",
+   "hi": "अपराध, रिवाज नहीं",
+   "hg": "Crimes, customs nahi"
+  },
+  "items": [
+   {
+    "icon": "money",
+    "label": {
+     "en": "Dowry",
+     "hi": "दहेज",
+     "hg": "Dahej"
+    },
+    "text": {
+     "en": "Giving, taking and demanding dowry are all illegal, and demands often continue after the wedding.",
+     "hi": "दहेज देना, लेना और माँगना, सब ग़ैरक़ानूनी है, और माँगें अक्सर शादी के बाद भी चलती रहती हैं।",
+     "hg": "Dahej dena, lena aur maangna, sab illegal hai, aur demands aksar shaadi ke baad bhi chalti rehti hain."
+    }
+   },
+   {
+    "icon": "warning",
+    "label": {
+     "en": "'Honour' violence",
+     "hi": "'इज़्ज़त' के नाम पर हिंसा",
+     "hg": "'Izzat' ke naam par violence"
+    },
+    "text": {
+     "en": "Harming someone for choosing a partner is a crime. Two adults need nobody's approval.",
+     "hi": "साथी चुनने पर किसी को नुक़सान पहुँचाना अपराध है। दो बालिग़ों को किसी की मंज़ूरी नहीं चाहिए।",
+     "hg": "Partner choose karne par kisi ko harm karna crime hai. Do adults ko kisi ki approval nahi chahiye."
+    }
+   },
+   {
+    "icon": "law",
+    "label": {
+     "en": "Acid attacks",
+     "hi": "तेज़ाब के हमले",
+     "hg": "Acid attacks"
+    },
+    "text": {
+     "en": "Often a punishment after a rejected proposal, and a specific, heavily punished offence.",
+     "hi": "अक्सर प्रस्ताव ठुकराने की 'सज़ा' के तौर पर किए जाते हैं; यह एक अलग अपराध है, जिसकी कड़ी सज़ा है।",
+     "hg": "Aksar proposal reject karne ki 'saza' ke taur par kiye jaate hain; yeh ek alag offence hai, jiski sakht saza hai."
+    }
+   },
+   {
+    "icon": "no",
+    "label": {
+     "en": "Forced marriage",
+     "hi": "जबरन शादी",
+     "hg": "Forced marriage"
+    },
+    "text": {
+     "en": "At least one person has not freely agreed. Force or fraud is a ground for cancelling it.",
+     "hi": "कम से कम एक इंसान ने अपनी मर्ज़ी से हाँ नहीं कही। ज़बरदस्ती या धोखा शादी रद्द कराने का आधार है।",
+     "hg": "Kam se kam ek insaan ne apni marzi se haan nahi kahi. Zabardasti ya dhoka shaadi cancel karwane ka ground hai."
+    }
+   },
+   {
+    "icon": "child",
+    "label": {
+     "en": "Child marriage",
+     "hi": "बाल विवाह",
+     "hg": "Child marriage"
+    },
+    "text": {
+     "en": "A bride under 18 or a groom under 21. Arranging or performing one is illegal.",
+     "hi": "18 से कम उम्र की दुल्हन या 21 से कम उम्र का दूल्हा। ऐसी शादी तय करना या करवाना ग़ैरक़ानूनी है।",
+     "hg": "18 se kam umar ki dulhan ya 21 se kam umar ka dulha. Aisi shaadi arrange karna ya karwana illegal hai."
+    }
+   },
+   {
+    "icon": "call",
+    "label": {
+     "en": "Help outside the family",
+     "hi": "परिवार के बाहर मदद",
+     "hg": "Family ke bahar help"
+    },
+    "text": {
+     "en": "112 in danger, 181 for women, 1098 if under 18, 15100 for free legal aid.",
+     "hi": "ख़तरे में 112, महिलाओं के लिए 181, 18 से कम उम्र हो तो 1098, मुफ़्त क़ानूनी सहायता के लिए 15100।",
+     "hg": "Khatre mein 112, women ke liye 181, under-18 ho toh 1098, free legal aid ke liye 15100."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d14-l08",
+  "type": "compare",
+  "title": {
+   "en": "Boys, men and assault: myth vs fact",
+   "hi": "लड़के, पुरुष और यौन हमला: मिथक बनाम सच",
+   "hg": "Ladke, men aur assault: myth vs fact"
+  },
+  "left": {
+   "title": {
+    "en": "Myth",
+    "hi": "मिथक",
+    "hg": "Myth"
+   },
+   "tone": "bad",
+   "icon": "cross",
+   "points": [
+    {
+     "en": "A real man can always fight off an attacker.",
+     "hi": "असली मर्द हमलावर से हमेशा ख़ुद को बचा सकता है।",
+     "hg": "Asli mard attacker se hamesha khud ko bacha sakta hai."
+    },
+    {
+     "en": "An erection means he wanted it.",
+     "hi": "इरेक्शन हुआ, मतलब वह यही चाहता था।",
+     "hg": "Erection hua, matlab woh yahi chahta tha."
+    },
+    {
+     "en": "Assault by a man changes or reveals your sexual orientation.",
+     "hi": "किसी पुरुष के हमले से यौन रुझान बदल जाता है या ज़ाहिर हो जाता है।",
+     "hg": "Kisi aadmi ke assault se sexual orientation badal jaata hai ya pata chal jaata hai."
+    },
+    {
+     "en": "A boy with an older woman is just 'lucky'.",
+     "hi": "बड़ी उम्र की महिला के साथ लड़का तो बस 'क़िस्मत वाला' है।",
+     "hg": "Badi umar ki aurat ke saath ladka toh bas 'lucky' hai."
+    }
+   ]
+  },
+  "right": {
+   "title": {
+    "en": "Fact",
+    "hi": "सच",
+    "hg": "Fact"
+   },
+   "tone": "good",
+   "icon": "check",
+   "points": [
+    {
+     "en": "Assault works through trust, threats, shock or being outnumbered, not strength. Freezing is normal.",
+     "hi": "हमला ताक़त से नहीं, भरोसे, धमकी, झटके या ज़्यादा लोगों के दम पर होता है। सुन्न पड़ जाना सामान्य है।",
+     "hg": "Assault strength se nahi, trust, threats, shock ya zyada logon ke dum par hota hai. Freeze ho jaana normal hai."
+    },
+    {
+     "en": "An erection is a reflex and says nothing about consent.",
+     "hi": "इरेक्शन एक रिफ़्लेक्स है, इससे सहमति के बारे में कुछ पता नहीं चलता।",
+     "hg": "Erection ek reflex hai, isse consent ke baare mein kuch pata nahi chalta."
+    },
+    {
+     "en": "Assault does not change or reveal anyone's sexual orientation.",
+     "hi": "हमला किसी का यौन रुझान न बदलता है, न ज़ाहिर करता है।",
+     "hg": "Assault kisi ka sexual orientation na badalta hai, na reveal karta hai."
+    },
+    {
+     "en": "Sexual contact between a woman and a boy under 18 is abuse.",
+     "hi": "किसी महिला और 18 से कम उम्र के लड़के के बीच यौन संपर्क शोषण है।",
+     "hg": "Kisi aurat aur under-18 ladke ke beech sexual contact abuse hai."
+    }
+   ]
+  }
+ },
+ {
+  "lesson": "d14-l09",
+  "type": "grid",
+  "title": {
+   "en": "Coercion without bruises",
+   "hi": "बिना चोट वाली ज़बरदस्ती",
+   "hg": "Bina chot wala coercion"
+  },
+  "items": [
+   {
+    "icon": "hourglass",
+    "label": {
+     "en": "A worn-down yes",
+     "hi": "थकाकर ली गई 'हाँ'",
+     "hg": "Thakakar li gayi 'haan'"
+    },
+    "text": {
+     "en": "A yes after hours of pressure, guilt or threats is not a free choice.",
+     "hi": "घंटों के दबाव, अपराध-बोध या धमकी के बाद मिली 'हाँ' अपनी मर्ज़ी नहीं है।",
+     "hg": "Ghanton ke pressure, guilt ya dhamki ke baad mili 'haan' free choice nahi hai."
+    }
+   },
+   {
+    "icon": "condom",
+    "label": {
+     "en": "Stealthing",
+     "hi": "स्टेल्थिंग",
+     "hg": "Stealthing"
+    },
+    "text": {
+     "en": "Removing or damaging a condom without agreement breaks consent and risks pregnancy and infection.",
+     "hi": "बिना सहमति के कंडोम हटाना या ख़राब करना सहमति तोड़ना है, और इससे गर्भ व संक्रमण का ख़तरा होता है।",
+     "hg": "Bina agreement ke condom hatana ya kharab karna consent todna hai, aur isse pregnancy aur infection ka risk hota hai."
+    }
+   },
+   {
+    "icon": "pill",
+    "label": {
+     "en": "Reproductive coercion",
+     "hi": "प्रजनन पर ज़बरदस्ती",
+     "hg": "Reproductive coercion"
+    },
+    "text": {
+     "en": "Hiding pills, lying about contraception or forcing pregnancy decisions is abuse.",
+     "hi": "गोलियाँ छिपाना, गर्भनिरोधक के बारे में झूठ बोलना या गर्भ से जुड़े फ़ैसले थोपना दुर्व्यवहार है।",
+     "hg": "Pills chhupana, contraception ke baare mein jhooth bolna ya pregnancy ke decisions thopna abuse hai."
+    }
+   },
+   {
+    "icon": "alcohol",
+    "label": {
+     "en": "Spiked drinks",
+     "hi": "ड्रिंक में नशा मिलाना",
+     "hg": "Spiked drinks"
+    },
+    "text": {
+     "en": "Secretly adding alcohol or a drug is a crime. Someone heavily intoxicated cannot consent.",
+     "hi": "चुपके से शराब या कोई ड्रग मिलाना अपराध है। बहुत ज़्यादा नशे में इंसान सहमति नहीं दे सकता।",
+     "hg": "Chupke se alcohol ya koi drug milana crime hai. Bahut zyada nashe mein insaan consent nahi de sakta."
+    }
+   },
+   {
+    "icon": "mask",
+    "label": {
+     "en": "Sex by deceit",
+     "hi": "धोखे से सेक्स",
+     "hg": "Dhoke se sex"
+    },
+    "text": {
+     "en": "Under the BNS, a man who gets sex from a woman through a false marriage or job promise commits an offence.",
+     "hi": "BNS के तहत, शादी या नौकरी का झूठा वादा करके किसी महिला से सेक्स हासिल करने वाला पुरुष अपराध करता है।",
+     "hg": "BNS ke under, shaadi ya job ka jhootha promise karke kisi woman se sex haasil karne wala aadmi offence karta hai."
+    }
+   },
+   {
+    "icon": "clock",
+    "label": {
+     "en": "Time matters afterwards",
+     "hi": "बाद में समय अहम है",
+     "hg": "Baad mein time matter karta hai"
+    },
+    "text": {
+     "en": "Emergency contraception works up to 5 days, the sooner the better; HIV prevention medicine (PEP) must start within 72 hours.",
+     "hi": "इमरजेंसी गर्भनिरोधक 5 दिन तक काम करता है, जितनी जल्दी उतना बेहतर; एचआईवी से बचाव की दवा (PEP) 72 घंटे के भीतर शुरू होनी चाहिए।",
+     "hg": "Emergency contraception 5 din tak kaam karta hai, jitni jaldi utna better; HIV se bachav ki dawa (PEP) 72 ghante ke andar start honi chahiye."
+    }
+   }
+  ]
+ }
+]

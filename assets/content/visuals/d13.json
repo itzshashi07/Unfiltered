@@ -1,0 +1,461 @@
+[
+ {
+  "lesson": "d13-l01",
+  "type": "grid",
+  "title": {
+   "en": "Ask first, then click",
+   "hi": "पहले पूछो, फिर क्लिक करो",
+   "hg": "Pehle poochho, phir click karo"
+  },
+  "items": [
+   {
+    "icon": "lock",
+    "label": {
+     "en": "Only for family",
+     "hi": "सिर्फ़ परिवार के लिए",
+     "hg": "Sirf family ke liye"
+    },
+    "text": {
+     "en": "Never give your name, school, address or photos to someone from a game or chat.",
+     "hi": "अपना नाम, स्कूल, पता या फ़ोटो गेम या चैट वाले किसी इंसान को कभी मत दो।",
+     "hg": "Apna naam, school, address ya photos game ya chat wale kisi insaan ko kabhi mat do."
+    }
+   },
+   {
+    "icon": "ask",
+    "label": {
+     "en": "Ask before you click",
+     "hi": "क्लिक से पहले पूछो",
+     "hg": "Click se pehle poochho"
+    },
+    "text": {
+     "en": "Ask a grown-up before you click a link, download a game or chat with someone new.",
+     "hi": "नया लिंक खोलने, गेम डाउनलोड करने या किसी नए इंसान से बात करने से पहले किसी बड़े से पूछो।",
+     "hg": "Naya link kholne, game download karne ya kisi naye insaan se baat karne se pehle kisi bade se poochho."
+    }
+   },
+   {
+    "icon": "gift",
+    "label": {
+     "en": "Prizes can be tricks",
+     "hi": "इनाम एक चाल हो सकता है",
+     "hg": "Prize ek trick ho sakta hai"
+    },
+    "text": {
+     "en": "Bright buttons saying 'You won!' or 'Free coins!' are often tricks.",
+     "hi": "'आप जीत गए!' या 'फ़्री कॉइन!' वाले चमकीले बटन अक्सर चाल होते हैं।",
+     "hg": "'You won!' ya 'Free coins!' wale chamkeele button aksar trick hote hain."
+    }
+   },
+   {
+    "icon": "stop",
+    "label": {
+     "en": "Yucky or scary? Stop",
+     "hi": "गंदा या डरावना लगे? रुको",
+     "hg": "Yucky ya darawna lage? Ruko"
+    },
+    "text": {
+     "en": "If something makes your tummy feel funny or scared, stop and put the phone down.",
+     "hi": "अगर कुछ देखकर पेट में अजीब-सा लगे या डर लगे, तो रुक जाओ और फ़ोन नीचे रख दो।",
+     "hg": "Agar kuch dekhkar pet mein ajeeb sa lage ya darr lage, toh ruk jao aur phone neeche rakh do."
+    }
+   },
+   {
+    "icon": "talk",
+    "label": {
+     "en": "Tell a grown-up",
+     "hi": "किसी बड़े को बताओ",
+     "hg": "Kisi bade ko batao"
+    },
+    "text": {
+     "en": "Tell Mummy, Papa, Dadi or your teacher. You will not be in trouble.",
+     "hi": "मम्मी, पापा, दादी या टीचर को बताओ। तुम्हें डाँट नहीं पड़ेगी।",
+     "hg": "Mummy, Papa, Dadi ya teacher ko batao. Tumhe daant nahi padegi."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d13-l02",
+  "type": "steps",
+  "title": {
+   "en": "Spot the grooming pattern",
+   "hi": "ग्रूमिंग का पैटर्न पहचानो",
+   "hg": "Grooming ka pattern pehchaano"
+  },
+  "items": [
+   {
+    "icon": "heart",
+    "label": {
+     "en": "Extra nice",
+     "hi": "ज़रूरत से ज़्यादा मीठा बर्ताव",
+     "hg": "Extra sweet behaviour"
+    },
+    "text": {
+     "en": "They are extra nice and agree with everything you say.",
+     "hi": "वे बहुत ज़्यादा अच्छे बनते हैं और तुम्हारी हर बात में हाँ में हाँ मिलाते हैं।",
+     "hg": "Woh extra nice bante hain aur tumhari har baat mein haan mein haan milate hain."
+    }
+   },
+   {
+    "icon": "gift",
+    "label": {
+     "en": "Gifts",
+     "hi": "तोहफ़े",
+     "hg": "Gifts"
+    },
+    "text": {
+     "en": "Game coins, skins or a mobile recharge start arriving.",
+     "hi": "गेम कॉइन, स्किन या मोबाइल रिचार्ज जैसे तोहफ़े आने लगते हैं।",
+     "hg": "Game coins, skins ya mobile recharge jaise gifts aane lagte hain."
+    }
+   },
+   {
+    "icon": "chat",
+    "label": {
+     "en": "A private chat",
+     "hi": "प्राइवेट चैट",
+     "hg": "Private chat"
+    },
+    "text": {
+     "en": "They ask you to move to a private chat or another app.",
+     "hi": "वे तुमसे प्राइवेट चैट या किसी दूसरे ऐप पर बात करने को कहते हैं।",
+     "hg": "Woh tumhe private chat ya kisi doosre app pe shift hone ko bolte hain."
+    }
+   },
+   {
+    "icon": "lock",
+    "label": {
+     "en": "Secrets, then wrong requests",
+     "hi": "राज़, फिर ग़लत माँगें",
+     "hg": "Secrets, phir galat demands"
+    },
+    "text": {
+     "en": "'Do not tell your parents.' Then come requests that feel wrong, like photos or meeting alone.",
+     "hi": "'मम्मी-पापा को मत बताना।' फिर ऐसी माँगें आती हैं जो ग़लत लगें, जैसे फ़ोटो या अकेले मिलना।",
+     "hg": "'Mummy-papa ko mat batana.' Phir aisi demands aati hain jo galat lagein, jaise photos ya akele milna."
+    }
+   },
+   {
+    "icon": "stop",
+    "label": {
+     "en": "Your move: stop and tell",
+     "hi": "तुम्हारा क़दम: रुको और बताओ",
+     "hg": "Tumhara move: ruko aur batao"
+    },
+    "text": {
+     "en": "At any step, stop replying, keep the chat and tell a trusted adult the same day.",
+     "hi": "किसी भी क़दम पर जवाब देना बंद करो, चैट रहने दो और उसी दिन किसी भरोसेमंद बड़े को बताओ।",
+     "hg": "Kisi bhi step pe reply band karo, chat rehne do aur usi din kisi trusted adult ko batao."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d13-l03",
+  "type": "compare",
+  "title": {
+   "en": "Once sent, it is out of your control",
+   "hi": "एक बार भेज दी, तो फ़ोटो तुम्हारे हाथ से निकल गई",
+   "hg": "Ek baar bhej di, toh photo tumhare haath se nikal gayi"
+  },
+  "left": {
+   "title": {
+    "en": "What people think",
+    "hi": "लोग क्या सोचते हैं",
+    "hg": "Log kya sochte hain"
+   },
+   "tone": "bad",
+   "icon": "cross",
+   "points": [
+    {
+     "en": "View-once photos delete themselves, so they are safe.",
+     "hi": "व्यू-वन्स फ़ोटो अपने आप डिलीट हो जाती है, इसलिए वह सुरक्षित है।",
+     "hg": "View-once photo apne aap delete ho jaati hai, isliye woh safe hai."
+    },
+    {
+     "en": "If I trust them, the photo will stay private.",
+     "hi": "अगर मुझे उन पर भरोसा है, तो फ़ोटो निजी ही रहेगी।",
+     "hg": "Agar mujhe un pe trust hai, toh photo private hi rahegi."
+    },
+    {
+     "en": "If I took the photo myself, it is legal.",
+     "hi": "अगर फ़ोटो मैंने ख़ुद ली है, तो यह क़ानूनी है।",
+     "hg": "Agar photo maine khud li hai, toh yeh legal hai."
+    },
+    {
+     "en": "If you loved me, you would send one.",
+     "hi": "अगर तुम मुझसे प्यार करते, तो एक फ़ोटो भेज देते।",
+     "hg": "Agar tum mujhse pyaar karte, toh ek photo bhej dete."
+    }
+   ]
+  },
+  "right": {
+   "title": {
+    "en": "What is true",
+    "hi": "सच क्या है",
+    "hg": "Sach kya hai"
+   },
+   "tone": "good",
+   "icon": "check",
+   "points": [
+    {
+     "en": "A screenshot, a second phone or a backup can keep a copy.",
+     "hi": "स्क्रीनशॉट, दूसरा फ़ोन या बैकअप उसकी कॉपी रख सकता है।",
+     "hg": "Screenshot, doosra phone ya backup uski copy rakh sakta hai."
+    },
+    {
+     "en": "Phones get lost or hacked, and relationships can end badly.",
+     "hi": "फ़ोन खो जाते हैं या हैक हो जाते हैं, और रिश्ते बुरी तरह टूट सकते हैं।",
+     "hg": "Phone kho jaate hain ya hack ho jaate hain, aur relationships bure tareeke se khatam ho sakte hain."
+    },
+    {
+     "en": "A sexual image of anyone under 18 is illegal in India, even if they took it.",
+     "hi": "भारत में 18 से कम उम्र के किसी की भी यौन तस्वीर ग़ैरक़ानूनी है, चाहे उसने ख़ुद ली हो।",
+     "hg": "India mein under-18 kisi ki bhi sexual image illegal hai, chahe usne khud li ho."
+    },
+    {
+     "en": "Affection has no test. A short 'No' is enough.",
+     "hi": "प्यार कोई इम्तिहान नहीं लेता। एक छोटा-सा 'ना' काफ़ी है।",
+     "hg": "Pyaar koi test nahi leta. Ek chhota sa 'No' kaafi hai."
+    }
+   ]
+  }
+ },
+ {
+  "lesson": "d13-l04",
+  "type": "steps",
+  "title": {
+   "en": "Sextortion: your first hour",
+   "hi": "सेक्सटॉर्शन: तुम्हारा पहला घंटा",
+   "hg": "Sextortion: tumhara pehla ghanta"
+  },
+  "items": [
+   {
+    "icon": "stop",
+    "label": {
+     "en": "Stop replying",
+     "hi": "जवाब देना बंद करो",
+     "hg": "Reply band karo"
+    },
+    "text": {
+     "en": "Every reply tells them the pressure is working.",
+     "hi": "हर जवाब उन्हें बताता है कि उनका दबाव काम कर रहा है।",
+     "hg": "Har reply unhe batata hai ki unka pressure kaam kar raha hai."
+    }
+   },
+   {
+    "icon": "money",
+    "label": {
+     "en": "Do not pay or send more",
+     "hi": "न पैसे दो, न कुछ और भेजो",
+     "hg": "Na pay karo, na kuch aur bhejo"
+    },
+    "text": {
+     "en": "Paying usually brings a bigger demand, not silence.",
+     "hi": "पैसे देने से आम तौर पर चुप्पी नहीं, और बड़ी माँग आती है।",
+     "hg": "Pay karne se usually chuppi nahi, aur badi demand aati hai."
+    }
+   },
+   {
+    "icon": "document",
+    "label": {
+     "en": "Keep the chat, note details",
+     "hi": "चैट रहने दो, ब्योरा लिखो",
+     "hg": "Chat rehne do, details note karo"
+    },
+    "text": {
+     "en": "Do not delete it. Note usernames, UPI or bank details and times, but never copy the sexual image.",
+     "hi": "चैट डिलीट मत करो। यूज़रनेम, UPI या बैंक का ब्योरा और समय लिख लो, पर यौन तस्वीर की कॉपी कभी मत बनाओ।",
+     "hg": "Chat delete mat karo. Usernames, UPI ya bank details aur time note karo, par sexual image ki copy kabhi mat banao."
+    }
+   },
+   {
+    "icon": "report",
+    "label": {
+     "en": "Block and report",
+     "hi": "ब्लॉक और रिपोर्ट करो",
+     "hg": "Block aur report karo"
+    },
+    "text": {
+     "en": "Report in the app and on cybercrime.gov.in. Money already sent? Call 1930 quickly.",
+     "hi": "ऐप में और cybercrime.gov.in पर रिपोर्ट करो। पैसे भेज चुके हो? तुरंत 1930 पर कॉल करो।",
+     "hg": "App mein aur cybercrime.gov.in pe report karo. Paise bhej chuke ho? Turant 1930 pe call karo."
+    }
+   },
+   {
+    "icon": "support",
+    "label": {
+     "en": "Tell a trusted adult",
+     "hi": "किसी भरोसेमंद बड़े को बताओ",
+     "hg": "Kisi trusted adult ko batao"
+    },
+    "text": {
+     "en": "The crime is theirs, not yours. If the fear feels unbearable, call 14416 or 112.",
+     "hi": "अपराध उनका है, तुम्हारा नहीं। अगर डर बर्दाश्त से बाहर लगे, तो 14416 या 112 पर कॉल करो।",
+     "hg": "Crime unka hai, tumhara nahi. Agar darr bardaasht se bahar lage, toh 14416 ya 112 pe call karo."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d13-l05",
+  "type": "compare",
+  "title": {
+   "en": "Leaks and fakes: myth vs fact",
+   "hi": "लीक और नकली तस्वीरें: मिथक बनाम सच",
+   "hg": "Leaks aur fakes: myth vs fact"
+  },
+  "left": {
+   "title": {
+    "en": "Myth",
+    "hi": "मिथक",
+    "hg": "Myth"
+   },
+   "tone": "bad",
+   "icon": "cross",
+   "points": [
+    {
+     "en": "If a private photo leaks, the person in it is to blame.",
+     "hi": "अगर कोई निजी फ़ोटो लीक हो जाए, तो ग़लती फ़ोटो वाले इंसान की है।",
+     "hg": "Agar koi private photo leak ho jaye, toh galti photo wale insaan ki hai."
+    },
+    {
+     "en": "A deepfake is fake, so it is harmless.",
+     "hi": "डीपफेक तो नकली है, इसलिए उससे कोई नुक़सान नहीं।",
+     "hg": "Deepfake toh fake hai, isliye usse koi harm nahi."
+    },
+    {
+     "en": "'Revenge porn' means the person deserved it.",
+     "hi": "'रिवेंज पॉर्न' का मतलब है कि वह इंसान इसी लायक़ था।",
+     "hg": "'Revenge porn' ka matlab hai ki woh insaan isi layak tha."
+    },
+    {
+     "en": "Sending a photo to one person lets them show others.",
+     "hi": "किसी एक को फ़ोटो भेजी, तो उसे दूसरों को दिखाने का हक़ मिल गया।",
+     "hg": "Kisi ek ko photo bheji, toh use doosron ko dikhane ka haq mil gaya."
+    }
+   ]
+  },
+  "right": {
+   "title": {
+    "en": "Fact",
+    "hi": "सच",
+    "hg": "Fact"
+   },
+   "tone": "good",
+   "icon": "check",
+   "points": [
+    {
+     "en": "The person who shares it without consent commits the offence.",
+     "hi": "अपराध उसका है जो बिना सहमति के इसे फैलाता है।",
+     "hg": "Offence uska hai jo bina consent ke ise share karta hai."
+    },
+    {
+     "en": "The image is fake, but the harm is real; report it on cybercrime.gov.in.",
+     "hi": "तस्वीर नकली है, पर नुक़सान असली है; cybercrime.gov.in पर इसकी रिपोर्ट करो।",
+     "hg": "Image fake hai, par harm real hai; cybercrime.gov.in pe iski report karo."
+    },
+    {
+     "en": "It is image-based sexual abuse, and nobody deserves it.",
+     "hi": "यह तस्वीरों के ज़रिए किया गया यौन शोषण है, और कोई इसके लायक़ नहीं होता।",
+     "hg": "Yeh image-based sexual abuse hai, aur koi iske layak nahi hota."
+    },
+    {
+     "en": "Consent to share with one person is never consent to show anyone else.",
+     "hi": "एक इंसान को भेजने की सहमति किसी और को दिखाने की सहमति कभी नहीं होती।",
+     "hg": "Ek insaan ko bhejne ka consent kisi aur ko dikhane ka consent kabhi nahi hota."
+    }
+   ]
+  }
+ },
+ {
+  "lesson": "d13-l06",
+  "type": "grid",
+  "title": {
+   "en": "Where to report in India",
+   "hi": "भारत में कहाँ रिपोर्ट करें",
+   "hg": "India mein kahan report karein"
+  },
+  "items": [
+   {
+    "icon": "phone",
+    "label": {
+     "en": "In the app",
+     "hi": "ऐप के अंदर",
+     "hg": "App ke andar"
+    },
+    "text": {
+     "en": "In-app reporting gets harmful content and accounts removed.",
+     "hi": "ऐप में रिपोर्ट करने से नुक़सान पहुँचाने वाली पोस्ट और अकाउंट हटाए जाते हैं।",
+     "hg": "App mein report karne se harmful content aur accounts hataye jaate hain."
+    }
+   },
+   {
+    "icon": "online",
+    "label": {
+     "en": "cybercrime.gov.in",
+     "hi": "cybercrime.gov.in पोर्टल",
+     "hg": "cybercrime.gov.in portal"
+    },
+    "text": {
+     "en": "Complaints about any online crime, with a section for crimes against women and children.",
+     "hi": "किसी भी ऑनलाइन अपराध की शिकायत, और महिलाओं व बच्चों के ख़िलाफ़ अपराधों के लिए अलग हिस्सा।",
+     "hg": "Kisi bhi online crime ki complaint, aur women aur bachchon ke khilaaf crimes ke liye alag section."
+    }
+   },
+   {
+    "icon": "money",
+    "label": {
+     "en": "Call 1930",
+     "hi": "1930 पर कॉल",
+     "hg": "1930 pe call"
+    },
+    "text": {
+     "en": "The cybercrime helpline, and the fastest route when money has been taken.",
+     "hi": "साइबर अपराध हेल्पलाइन; पैसे चले गए हों तो यही सबसे तेज़ रास्ता है।",
+     "hg": "Cybercrime helpline; paise chale gaye hon toh yahi sabse fast route hai."
+    }
+   },
+   {
+    "icon": "child",
+    "label": {
+     "en": "Call 1098",
+     "hi": "1098 पर कॉल",
+     "hg": "1098 pe call"
+    },
+    "text": {
+     "en": "Child Helpline for anyone under 18 who needs help or protection.",
+     "hi": "चाइल्ड हेल्पलाइन, 18 से कम उम्र के हर उस इंसान के लिए जिसे मदद या सुरक्षा चाहिए।",
+     "hg": "Child Helpline, under-18 har us insaan ke liye jise help ya protection chahiye."
+    }
+   },
+   {
+    "icon": "sos",
+    "label": {
+     "en": "Call 112 or 181",
+     "hi": "112 या 181 पर कॉल",
+     "hg": "112 ya 181 pe call"
+    },
+    "text": {
+     "en": "112 for emergencies and immediate danger. Women can also call 181.",
+     "hi": "इमरजेंसी और तुरंत ख़तरे में 112। महिलाएँ 181 पर भी कॉल कर सकती हैं।",
+     "hg": "Emergency aur turant khatre mein 112. Women 181 pe bhi call kar sakti hain."
+    }
+   },
+   {
+    "icon": "care",
+    "label": {
+     "en": "Call 14416",
+     "hi": "14416 पर कॉल",
+     "hg": "14416 pe call"
+    },
+    "text": {
+     "en": "Tele-MANAS offers free counselling for the emotional weight.",
+     "hi": "टेली-मानस पर मन के बोझ के लिए मुफ़्त काउंसलिंग मिलती है।",
+     "hg": "Tele-MANAS pe mann ke bojh ke liye free counselling milti hai."
+    }
+   }
+  ]
+ }
+]

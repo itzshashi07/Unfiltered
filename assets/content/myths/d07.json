@@ -1,0 +1,247 @@
+[
+ {
+  "id": "d07-m01",
+  "domain": "d07",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "claim": {
+   "en": "You can't get pregnant the first time you have sex.",
+   "hi": "पहली बार सेक्स करने पर गर्भ नहीं ठहरता।",
+   "hg": "Pehli baar sex karne par pregnancy nahi hoti."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "The body does not count. If ovulation is near and sperm reach the egg, pregnancy can happen the first time just as on any other occasion. It can even happen before a first period has ever been noticed, because an egg can sometimes be released before the first bleed. Being young, nervous or 'new' offers no protection.",
+   "hi": "शरीर गिनती नहीं रखता। अगर ओव्यूलेशन पास हो और शुक्राणु अंडे तक पहुँच जाएँ, तो गर्भ पहली बार में भी वैसे ही ठहर सकता है जैसे किसी और बार। ये पहला पीरियड आने से पहले भी हो सकता है, क्योंकि कभी-कभी पहली माहवारी से पहले ही अंडा निकल सकता है। कम उम्र होना, घबराहट होना या 'नया' होना कोई बचाव नहीं देता।",
+   "hg": "Body ginti nahi rakhti. Agar ovulation paas ho aur sperm egg tak pahunch jayein, toh pregnancy pehli baar mein bhi waise hi ho sakti hai jaise kisi aur baar. Yeh pehla period aane se pehle bhi ho sakta hai, kyunki kabhi-kabhi pehli bleeding se pehle hi egg release ho sakta hai. Young hona, nervous hona ya 'new' hona koi protection nahi deta."
+  },
+  "why": {
+   "en": "People assume the body needs 'practice' or that something so serious cannot happen on a first occasion, and friends who were lucky repeat the story as proof.",
+   "hi": "लोग मान लेते हैं कि शरीर को 'प्रैक्टिस' चाहिए या इतनी बड़ी बात पहली बार में नहीं हो सकती, और जिन दोस्तों की क़िस्मत अच्छी रही वो यही क़िस्सा सबूत की तरह दोहराते हैं।",
+   "hg": "Log maan lete hain ki body ko 'practice' chahiye ya itni serious cheez pehli baar mein nahi ho sakti, aur jin doston ki luck achhi rahi woh yahi story proof ki tarah repeat karte hain."
+  },
+  "refs": [
+   "who-fp"
+  ],
+  "lesson": "d07-l01"
+ },
+ {
+  "id": "d07-m02",
+  "domain": "d07",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "claim": {
+   "en": "If you count the 'safe days' in the cycle, you don't need any other protection.",
+   "hi": "अगर चक्र के 'सेफ़ डेज़' गिन लो, तो किसी और बचाव की ज़रूरत नहीं।",
+   "hg": "Agar cycle ke 'safe days' gin lo, toh kisi aur protection ki zaroorat nahi."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Calendar counting is not reliable contraception. Ovulation does not fall on the same day in every cycle, particularly in the first years after periods begin and during stress or illness, and sperm can survive for up to about five days. In typical use, fertility-awareness methods vary widely, roughly 2 to 23 pregnancies per 100 users a year, and apps that predict 'safe days' are only estimating.",
+   "hi": "कैलेंडर गिनना भरोसेमंद गर्भनिरोधक नहीं है। ओव्यूलेशन हर चक्र में एक ही दिन नहीं होता, ख़ासकर पीरियड शुरू होने के बाद के शुरुआती सालों में और तनाव या बीमारी के दौरान, और शुक्राणु लगभग पाँच दिन तक ज़िंदा रह सकते हैं। टिपिकल यूज़ में फ़र्टिलिटी अवेयरनेस तरीक़ों के आँकड़े बहुत अलग-अलग हैं, मोटे तौर पर साल भर में 100 इस्तेमाल करने वालों में 2 से 23 गर्भ, और 'सेफ़ डेज़' बताने वाले ऐप सिर्फ़ अंदाज़ा लगाते हैं।",
+   "hg": "Calendar counting reliable contraception nahi hai. Ovulation har cycle mein same din nahi hota, khaaskar periods shuru hone ke baad ke shuru ke saalon mein aur stress ya illness ke dauraan, aur sperm lagbhag paanch din tak zinda reh sakte hain. Typical use mein fertility-awareness methods ke figures bahut vary karte hain, roughly saal bhar mein 100 users mein 2 se 23 pregnancies, aur 'safe days' predict karne wale apps sirf estimate karte hain."
+  },
+  "why": {
+   "en": "The idea is passed down in families and among friends as a free, natural method, and period-tracking apps make the predicted dates look more exact than they are.",
+   "hi": "ये बात परिवारों और दोस्तों में एक मुफ़्त, प्राकृतिक तरीक़े के तौर पर चलती आई है, और पीरियड ट्रैक करने वाले ऐप अंदाज़े की तारीख़ों को असल से ज़्यादा पक्का दिखाते हैं।",
+   "hg": "Yeh baat families aur doston mein ek free, natural method ki tarah chalti aayi hai, aur period-tracking apps predicted dates ko asal se zyada exact dikhate hain."
+  },
+  "refs": [
+   "who-fp"
+  ],
+  "lesson": "d07-l01"
+ },
+ {
+  "id": "d07-m03",
+  "domain": "d07",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "claim": {
+   "en": "Wearing two condoms gives double protection.",
+   "hi": "दो कंडोम पहनने से दोगुना बचाव मिलता है।",
+   "hg": "Do condoms pehenne se double protection milti hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Two condoms rub against each other, and the friction makes both more likely to tear or slip. The same applies to using an external and an internal condom together. One condom, in date, put on before any genital contact and used with water-based or silicone-based lubricant gives the best protection a condom can offer.",
+   "hi": "दो कंडोम आपस में रगड़ खाते हैं, और इस रगड़ से दोनों के फटने या फिसलने की आशंका बढ़ जाती है। एक्सटर्नल और इंटरनल कंडोम साथ इस्तेमाल करने पर भी यही होता है। एक ही कंडोम, जो एक्सपायर न हुआ हो, जननांगों के किसी भी संपर्क से पहले पहना गया हो और पानी या सिलिकॉन वाले लुब्रिकेंट के साथ इस्तेमाल हो, वो सबसे अच्छा बचाव देता है जो कोई कंडोम दे सकता है।",
+   "hg": "Do condoms aapas mein ragad khate hain, aur is friction se dono ke phatne ya slip hone ke chances badh jate hain. External aur internal condom saath use karne par bhi yahi hota hai. Ek hi condom, jo expire na hua ho, kisi bhi genital contact se pehle pehna gaya ho aur water-based ya silicone-based lubricant ke saath use ho, woh best protection deta hai jo koi condom de sakta hai."
+  },
+  "why": {
+   "en": "'More layers means safer' sounds like common sense, and it is true for many things, such as warm clothing, so people apply the same logic here.",
+   "hi": "'जितनी ज़्यादा परतें, उतनी सुरक्षा' आम समझ की बात लगती है, और गरम कपड़ों जैसी कई चीज़ों में ये सच भी है, इसलिए लोग यही तर्क यहाँ भी लगा देते हैं।",
+   "hg": "'Jitni zyada layers, utni safety' common sense jaisa lagta hai, aur garam kapdon jaisi kai cheezon mein yeh sach bhi hai, isliye log yahi logic yahan bhi laga dete hain."
+  },
+  "refs": [
+   "who-fp"
+  ],
+  "lesson": "d07-l02"
+ },
+ {
+  "id": "d07-m04",
+  "domain": "d07",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "claim": {
+   "en": "The emergency pill is an abortion pill.",
+   "hi": "इमरजेंसी पिल गर्भपात की गोली है।",
+   "hg": "Emergency pill ek abortion pill hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Emergency contraceptive pills work mainly by delaying ovulation, so that no egg is available to be fertilised. They do not end an established pregnancy and will not work if implantation has already happened. Abortion is a different medical process, used after a pregnancy has begun, with different medicines or procedures, and in India it is legal only under conditions and through qualified providers.",
+   "hi": "इमरजेंसी गर्भनिरोधक गोलियाँ मुख्य रूप से ओव्यूलेशन को टालकर काम करती हैं, ताकि निषेचन के लिए कोई अंडा मौजूद ही न हो। ये ठहर चुके गर्भ को ख़त्म नहीं करतीं और अगर अंडा गर्भाशय में जम चुका है तो काम नहीं करेंगी। गर्भपात एक अलग चिकित्सा प्रक्रिया है, जो गर्भ ठहरने के बाद की जाती है, अलग दवाओं या तरीक़ों से, और भारत में ये सिर्फ़ कुछ शर्तों के साथ और योग्य डॉक्टरों के ज़रिए ही क़ानूनी है।",
+   "hg": "Emergency contraceptive pills mainly ovulation ko delay karke kaam karti hain, taaki fertilise hone ke liye koi egg available hi na ho. Yeh established pregnancy ko end nahi karti aur agar implantation ho chuka hai toh kaam nahi karengi. Abortion ek alag medical process hai, jo pregnancy shuru hone ke baad use hota hai, alag medicines ya procedures se, aur India mein yeh sirf kuch conditions ke saath aur qualified providers ke through hi legal hai."
+  },
+  "why": {
+   "en": "Both are taken after sex and both are linked with avoiding an unplanned pregnancy, and they are often discussed in the same hushed tone, so the two get merged in people's minds.",
+   "hi": "दोनों सेक्स के बाद ली जाती हैं और दोनों अनचाहे गर्भ से बचने से जुड़ी हैं, और दोनों की बात अक्सर एक जैसी दबी आवाज़ में होती है, इसलिए लोगों के मन में दोनों एक हो जाती हैं।",
+   "hg": "Dono sex ke baad li jati hain aur dono unplanned pregnancy se bachne se judi hain, aur dono ki baat aksar ek jaisi dabi awaaz mein hoti hai, isliye logon ke mind mein dono merge ho jati hain."
+  },
+  "refs": [
+   "who-ec",
+   "who-abortion",
+   "nhm-cac"
+  ],
+  "lesson": "d07-l03"
+ },
+ {
+  "id": "d07-m05",
+  "domain": "d07",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "claim": {
+   "en": "Using pills or an IUD for a long time makes you infertile.",
+   "hi": "लंबे समय तक गोलियाँ या IUD इस्तेमाल करने से बाँझपन हो जाता है।",
+   "hg": "Lambe time tak pills ya IUD use karne se infertility ho jati hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Reversible contraceptives do not cause permanent infertility. Fertility usually returns within weeks of stopping pills or removing an IUD or implant; after injectables it can take several months longer, but it does return. What can damage fertility is an untreated STI such as chlamydia or gonorrhoea, which is one more reason condoms matter.",
+   "hi": "अस्थायी गर्भनिरोधक स्थायी बाँझपन नहीं करते। गोलियाँ बंद करने या IUD या इम्प्लांट निकलवाने के कुछ हफ़्तों के अंदर प्रजनन क्षमता आमतौर पर लौट आती है; इंजेक्शन के बाद इसमें कई महीने ज़्यादा लग सकते हैं, पर ये लौटती ज़रूर है। प्रजनन क्षमता को असल नुक़सान बिना इलाज के छोड़े गए STI से हो सकता है, जैसे क्लैमाइडिया या गोनोरिया, और ये कंडोम के अहम होने की एक और वजह है।",
+   "hg": "Reversible contraceptives permanent infertility nahi karte. Pills band karne ya IUD ya implant nikalwane ke kuch hafton ke andar fertility usually wapas aa jati hai; injectables ke baad isme kai mahine zyada lag sakte hain, par yeh wapas zaroor aati hai. Fertility ko asli damage untreated STI se ho sakta hai, jaise chlamydia ya gonorrhoea, aur yeh condoms ke important hone ki ek aur wajah hai."
+  },
+  "why": {
+   "en": "Some people take a while to conceive after stopping a method, often for unrelated reasons such as age, and the contraceptive gets the blame. Changes in periods on hormonal methods also cause worry.",
+   "hi": "कुछ लोगों को तरीक़ा बंद करने के बाद गर्भ ठहरने में समय लगता है, अक्सर उम्र जैसी दूसरी वजहों से, और दोष गर्भनिरोधक पर आ जाता है। हार्मोनल तरीक़ों से माहवारी में आने वाले बदलाव भी चिंता पैदा करते हैं।",
+   "hg": "Kuch logon ko method band karne ke baad conceive karne mein time lagta hai, aksar age jaisi doosri wajahon se, aur blame contraceptive par aa jata hai. Hormonal methods se periods mein aane wale changes bhi worry create karte hain."
+  },
+  "refs": [
+   "who-fp",
+   "who-infertility"
+  ],
+  "lesson": "d07-l03"
+ },
+ {
+  "id": "d07-m06",
+  "domain": "d07",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "claim": {
+   "en": "Condoms protect you from all STIs.",
+   "hi": "कंडोम हर STI से बचाते हैं।",
+   "hg": "Condoms har STI se protect karte hain."
+  },
+  "verdict": "partly",
+  "fact": {
+   "en": "Partly. Used correctly every time, condoms greatly reduce the risk of infections carried in body fluids, such as HIV, gonorrhoea and chlamydia. They give less protection against infections spread by skin contact, such as herpes, HPV and syphilis, when the affected skin is not covered. So condoms are essential but not a guarantee; HPV and hepatitis B vaccines and regular testing add further protection.",
+   "hi": "कुछ हद तक। हर बार सही इस्तेमाल करने पर कंडोम शरीर के द्रवों से फैलने वाले संक्रमणों का ख़तरा बहुत घटा देते हैं, जैसे HIV, गोनोरिया और क्लैमाइडिया। त्वचा के संपर्क से फैलने वाले संक्रमणों, जैसे हर्पीज़, HPV और सिफ़लिस, से ये कम बचाव देते हैं, जब प्रभावित त्वचा कंडोम से ढकी न हो। इसलिए कंडोम ज़रूरी हैं पर गारंटी नहीं; HPV और हेपेटाइटिस बी के टीके और नियमित जाँच बचाव को और बढ़ाते हैं।",
+   "hg": "Partly. Har baar sahi use karne par condoms body fluids se failne wale infections ka risk bahut kam kar dete hain, jaise HIV, gonorrhoea aur chlamydia. Skin contact se failne wale infections, jaise herpes, HPV aur syphilis, se yeh kam protection dete hain, jab affected skin condom se cover na ho. Isliye condoms zaroori hain par guarantee nahi; HPV aur hepatitis B ke vaccines aur regular testing protection ko aur badhate hain."
+  },
+  "why": {
+   "en": "Health campaigns rightly promote condoms as the main protection against HIV, and that strong message is easily heard as 'condoms block everything'.",
+   "hi": "स्वास्थ्य अभियान कंडोम को HIV से बचाव का मुख्य तरीक़ा बताते हैं, जो सही भी है, और ये ज़ोरदार संदेश आसानी से 'कंडोम सब कुछ रोक देता है' की तरह सुन लिया जाता है।",
+   "hg": "Health campaigns condoms ko HIV se bachne ka main tareeka batate hain, jo sahi bhi hai, aur yeh strong message easily 'condom sab kuch rok deta hai' ki tarah sun liya jata hai."
+  },
+  "refs": [
+   "who-sti",
+   "who-fp"
+  ],
+  "lesson": "d07-l02"
+ },
+ {
+  "id": "d07-m07",
+  "domain": "d07",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "claim": {
+   "en": "Sperm can survive inside the body for several days after sex.",
+   "hi": "सेक्स के बाद शुक्राणु शरीर के अंदर कई दिन तक ज़िंदा रह सकते हैं।",
+   "hg": "Sex ke baad sperm body ke andar kai din tak zinda reh sakte hain."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. In the cervix, uterus and fallopian tubes, sperm can stay alive for up to about five days. This means sex that happens several days before ovulation can still lead to pregnancy, which is one reason 'safe day' calculations fail. Outside the body, on skin, cloth or in water, sperm die quickly.",
+   "hi": "सही। गर्भाशय ग्रीवा (cervix), गर्भाशय और फ़ैलोपियन ट्यूब में शुक्राणु लगभग पाँच दिन तक ज़िंदा रह सकते हैं। इसका मतलब है कि ओव्यूलेशन से कई दिन पहले हुए सेक्स से भी गर्भ ठहर सकता है, और 'सेफ़ डेज़' का हिसाब फ़ेल होने की एक वजह यही है। शरीर के बाहर, त्वचा, कपड़े या पानी में, शुक्राणु जल्दी मर जाते हैं।",
+   "hg": "Sahi. Cervix, uterus aur fallopian tubes mein sperm lagbhag paanch din tak zinda reh sakte hain. Iska matlab hai ki ovulation se kai din pehle hue sex se bhi pregnancy ho sakti hai, aur 'safe days' ka calculation fail hone ki ek wajah yahi hai. Body ke bahar, skin, kapde ya paani mein, sperm jaldi mar jate hain."
+  },
+  "why": {
+   "en": "Many people picture fertilisation as happening within minutes of sex, so the idea that it can happen days later is unexpected.",
+   "hi": "बहुत से लोग सोचते हैं कि निषेचन सेक्स के कुछ मिनटों के अंदर ही हो जाता है, इसलिए ये बात कि वो कई दिन बाद भी हो सकता है, चौंकाती है।",
+   "hg": "Bahut se log sochte hain ki fertilisation sex ke kuch minutes ke andar hi ho jata hai, isliye yeh baat ki woh kai din baad bhi ho sakta hai, unexpected lagti hai."
+  },
+  "refs": [
+   "who-fp"
+  ],
+  "lesson": "d07-l01"
+ }
+]

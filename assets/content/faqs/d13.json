@@ -1,0 +1,475 @@
+[
+ {
+  "id": "d13-f01",
+  "domain": "d13",
+  "tracks": [
+   "A"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "A pop-up says I won a prize. Can I click it?",
+   "hi": "एक पॉप-अप कह रहा है कि मैंने इनाम जीता है। क्या मैं उस पर क्लिक कर दूँ?",
+   "hg": "Ek pop-up bol raha hai ki maine prize jeeta hai. Kya main click kar doon?"
+  },
+  "a": {
+   "en": "No, do not click it. Prize pop-ups are often tricks. They want your name, or they can put bad things on the phone. Do not type anything. Call a grown-up and show them the screen. Asking first is always the smart move.",
+   "hi": "नहीं, उस पर क्लिक मत करो। इनाम वाले पॉप-अप अक्सर चाल होते हैं। उन्हें तुम्हारा नाम चाहिए होता है, या वे फ़ोन में ख़राब चीज़ें डाल सकते हैं। कुछ भी टाइप मत करो। किसी बड़े को बुलाओ और स्क्रीन दिखाओ। पहले पूछना हमेशा समझदारी है।",
+   "hg": "Nahi, us pe click mat karo. Prize wale pop-up aksar trick hote hain. Unhe tumhara naam chahiye hota hai, ya woh phone mein kharab cheezein daal sakte hain. Kuch bhi type mat karo. Kisi bade ko bulao aur screen dikhao. Pehle poochhna hamesha smart move hai."
+  },
+  "keywords": [
+   "pop up",
+   "prize",
+   "you won",
+   "free coins",
+   "inaam",
+   "इनाम",
+   "पॉप अप",
+   "click karu kya",
+   "game ad"
+  ],
+  "refs": [
+   "unesco-itgse"
+  ],
+  "urgent": false,
+  "lesson": "d13-l01"
+ },
+ {
+  "id": "d13-f02",
+  "domain": "d13",
+  "tracks": [
+   "A"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Someone in my game asked which school I go to. What do I say?",
+   "hi": "गेम में किसी ने पूछा कि मैं किस स्कूल में पढ़ता/पढ़ती हूँ। मैं क्या कहूँ?",
+   "hg": "Game mein kisi ne poochha ki main kis school mein padhta/padhti hoon. Main kya bolun?"
+  },
+  "a": {
+   "en": "Do not tell them. Your school's name is private. You do not have to reply at all. Stop the chat and tell a grown-up you trust. You did nothing wrong. The person who asked is the one breaking the rule.",
+   "hi": "उन्हें मत बताओ। तुम्हारे स्कूल का नाम निजी है। तुम्हें जवाब देने की कोई ज़रूरत नहीं। चैट बंद करो और किसी भरोसेमंद बड़े को बताओ। तुमने कुछ ग़लत नहीं किया। नियम तो उसने तोड़ा है जिसने पूछा।",
+   "hg": "Unhe mat batao. Tumhare school ka naam private hai. Tumhe reply karne ki koi zaroorat nahi. Chat band karo aur kisi bharosemand bade ko batao. Tumne kuch galat nahi kiya. Rule toh usne toda hai jisne poochha."
+  },
+  "keywords": [
+   "school name",
+   "game chat",
+   "stranger asked",
+   "anjaan",
+   "अनजान",
+   "स्कूल का नाम",
+   "game mein dost",
+   "kaun sa school",
+   "online stranger"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "wcd-childline"
+  ],
+  "urgent": false,
+  "lesson": "d13-l01"
+ },
+ {
+  "id": "d13-f03",
+  "domain": "d13",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My online friend says our chats are our secret. Is that okay?",
+   "hi": "मेरा ऑनलाइन दोस्त कहता है कि हमारी चैट हमारा राज़ है। क्या यह ठीक है?",
+   "hg": "Mera online dost bolta hai ki hamari chats hamara secret hain. Kya yeh theek hai?"
+  },
+  "a": {
+   "en": "No. A safe friend never asks you to hide a friendship from your family. Asking for secrecy is one of the clearest warning signs of grooming, which is when someone builds trust with a child in order to harm them. Stop replying and do not delete the chat. Show it to a parent, teacher or another adult you trust today, even if you have already shared things or taken gifts. You will not be the one in trouble. You can also call the Child Helpline on 1098.",
+   "hi": "नहीं। जो दोस्त सुरक्षित होता है, वह कभी नहीं कहता कि दोस्ती परिवार से छिपाओ। राज़ रखने को कहना ग्रूमिंग के सबसे साफ़ संकेतों में से एक है, यानी जब कोई किसी बच्चे को नुकसान पहुँचाने के लिए उसका भरोसा जीतता है। जवाब देना बंद करो और चैट डिलीट मत करो। आज ही उसे मम्मी-पापा, टीचर या किसी और भरोसेमंद बड़े को दिखाओ, चाहे तुमने पहले कुछ बातें बता दी हों या तोहफ़े ले लिए हों। मुश्किल में तुम नहीं पड़ोगे। तुम चाइल्ड हेल्पलाइन 1098 पर भी कॉल कर सकते हो।",
+   "hg": "Nahi. Jo dost safe hota hai, woh kabhi nahi bolta ki dosti family se chhupao. Secret rakhne ko bolna grooming ke sabse clear warning signs mein se ek hai, matlab jab koi kisi bachche ko harm karne ke liye uska trust jeetta hai. Reply karna band karo aur chat delete mat karo. Aaj hi usse Mummy-Papa, teacher ya kisi aur trusted adult ko dikhao, chahe tumne pehle kuch baatein share kar di hon ya gifts le liye hon. Trouble mein tum nahi padoge. Tum Child Helpline 1098 pe bhi call kar sakte ho."
+  },
+  "keywords": [
+   "online friend secret",
+   "secret chat",
+   "grooming",
+   "ग्रूमिंग",
+   "राज़",
+   "raaz rakhna",
+   "mummy ko mat batana",
+   "online dost",
+   "ऑनलाइन दोस्त",
+   "stranger gifts"
+  ],
+  "refs": [
+   "wcd-childline",
+   "pocso-2012",
+   "unesco-itgse"
+  ],
+  "urgent": true,
+  "lesson": "d13-l02"
+ },
+ {
+  "id": "d13-f04",
+  "domain": "d13",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Is it okay to share my password with my best friend?",
+   "hi": "क्या अपने बेस्ट फ़्रेंड को पासवर्ड बताना ठीक है?",
+   "hg": "Kya apne best friend ko password batana theek hai?"
+  },
+  "a": {
+   "en": "No, not even with a best friend. It is not about whether they are a good person. Friendships change, phones get borrowed and passwords get passed along by accident. Whoever has your password can read your chats, post as you and lock you out. The only people who should know it are you and a parent or guardian. If you have already shared it, change it today, and use a different password for each account. Sharing a password is not a test of friendship.",
+   "hi": "नहीं, बेस्ट फ़्रेंड को भी नहीं। बात यह नहीं है कि वह अच्छा इंसान है या नहीं। दोस्तियाँ बदलती हैं, फ़ोन उधार दिए जाते हैं और पासवर्ड अनजाने में आगे पहुँच जाते हैं। जिसके पास तुम्हारा पासवर्ड है, वह तुम्हारी चैट पढ़ सकता है, तुम बनकर पोस्ट कर सकता है और तुम्हें ही अकाउंट से बाहर कर सकता है। पासवर्ड सिर्फ़ तुम्हें और तुम्हारे माता-पिता या अभिभावक को पता होना चाहिए। अगर बता चुके हो, तो आज ही बदल दो, और हर अकाउंट के लिए अलग पासवर्ड रखो। पासवर्ड बताना दोस्ती का इम्तिहान नहीं है।",
+   "hg": "Nahi, best friend ko bhi nahi. Baat yeh nahi hai ki woh achha insaan hai ya nahi. Dostiyan badalti hain, phones udhaar diye jaate hain aur passwords galti se aage pahunch jaate hain. Jiske paas tumhara password hai, woh tumhari chats padh sakta hai, tum bankar post kar sakta hai aur tumhe hi account se lock out kar sakta hai. Password sirf tumhe aur tumhare parent ya guardian ko pata hona chahiye. Agar bata chuke ho, toh aaj hi change kar do, aur har account ke liye alag password rakho. Password share karna dosti ka test nahi hai."
+  },
+  "keywords": [
+   "password share",
+   "best friend password",
+   "पासवर्ड",
+   "password batana",
+   "account hack",
+   "otp share",
+   "dost ko password",
+   "insta password",
+   "अकाउंट हैक"
+  ],
+  "refs": [
+   "unesco-itgse"
+  ],
+  "urgent": false,
+  "lesson": "d13-l02"
+ },
+ {
+  "id": "d13-f05",
+  "domain": "d13",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "People are making fun of me in the class group chat. What should I do?",
+   "hi": "क्लास के ग्रुप चैट में लोग मेरा मज़ाक उड़ा रहे हैं। मुझे क्या करना चाहिए?",
+   "hg": "Class group chat mein log mera mazaak uda rahe hain. Mujhe kya karna chahiye?"
+  },
+  "a": {
+   "en": "What is happening is cyberbullying, and it is not your fault. Do not fight back in the group, because angry replies give bullies more to share. Take screenshots that show the messages, names and dates. Mute the group or leave it if you want to; your peace matters more than staying in it. Then show the screenshots to a parent, class teacher or school counsellor, since schools are expected to act on bullying between students. If it is making you feel hopeless or unsafe, tell an adult today or call 1098.",
+   "hi": "जो हो रहा है वह साइबरबुलिंग है, और इसमें तुम्हारी ग़लती नहीं है। ग्रुप में पलटकर लड़ो मत, क्योंकि ग़ुस्से वाले जवाब बुली करने वालों को फैलाने के लिए और मसाला देते हैं। ऐसे स्क्रीनशॉट ले लो जिनमें मैसेज, नाम और तारीख़ दिखें। चाहो तो ग्रुप म्यूट कर दो या छोड़ दो; उसमें बने रहने से ज़्यादा ज़रूरी तुम्हारा सुकून है। फिर स्क्रीनशॉट मम्मी-पापा, क्लास टीचर या स्कूल काउंसलर को दिखाओ, क्योंकि बच्चों के बीच की बुलिंग पर क़दम उठाना स्कूल की ज़िम्मेदारी मानी जाती है। अगर इससे तुम्हें नाउम्मीदी या असुरक्षा महसूस हो रही है, तो आज ही किसी बड़े को बताओ या 1098 पर कॉल करो।",
+   "hg": "Jo ho raha hai woh cyberbullying hai, aur isme tumhari galti nahi hai. Group mein palatkar lado mat, kyunki gusse wale replies bullies ko share karne ke liye aur masala dete hain. Aise screenshots le lo jinme messages, naam aur dates dikhein. Chaho toh group mute kar do ya chhod do; usme bane rehne se zyada zaroori tumhara sukoon hai. Phir screenshots Mummy-Papa, class teacher ya school counsellor ko dikhao, kyunki students ke beech ki bullying pe action lena school ki zimmedari maani jaati hai. Agar isse tum hopeless ya unsafe feel kar rahe ho, toh aaj hi kisi adult ko batao ya 1098 pe call karo."
+  },
+  "keywords": [
+   "cyberbullying",
+   "group chat bullying",
+   "mazaak udana",
+   "मज़ाक",
+   "साइबरबुलिंग",
+   "class group",
+   "troll",
+   "bully kar rahe",
+   "memes on me",
+   "whatsapp group"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "wcd-childline"
+  ],
+  "urgent": true,
+  "lesson": "d13-l06"
+ },
+ {
+  "id": "d13-f06",
+  "domain": "d13",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My boyfriend/girlfriend keeps asking for a private photo and says I do not trust them. What do I do?",
+   "hi": "मेरा बॉयफ़्रेंड/मेरी गर्लफ़्रेंड बार-बार निजी फ़ोटो माँगता/माँगती है और कहता/कहती है कि मुझे उस पर भरोसा नहीं। मैं क्या करूँ?",
+   "hg": "Mera boyfriend/meri girlfriend baar-baar private photo maangta/maangti hai aur bolta/bolti hai ki mujhe us pe trust nahi. Main kya karun?"
+  },
+  "a": {
+   "en": "Say no, and know that you are allowed to. Asking again and again after a no, and turning it into a test of trust, is pressure, not affection. You can say, 'I do not send photos like that, and I need you to stop asking.' There is also a legal reality: a sexual photo of anyone under 18 is illegal to make, send, ask for or keep in India, so the request itself is the problem. If the pressure continues or turns into threats, stop replying, keep the chat and talk to a trusted adult or call 1098.",
+   "hi": "मना करो, और जान लो कि मना करना तुम्हारा हक़ है। 'ना' सुनने के बाद भी बार-बार माँगना और उसे भरोसे का इम्तिहान बना देना दबाव है, प्यार नहीं। तुम कह सकते हो, 'मैं ऐसी फ़ोटो नहीं भेजता/भेजती, और मैं चाहता/चाहती हूँ कि तुम माँगना बंद करो।' एक क़ानूनी सच्चाई भी है: भारत में 18 से कम उम्र के किसी भी इंसान की यौन फ़ोटो बनाना, भेजना, माँगना या रखना ग़ैरक़ानूनी है, यानी गड़बड़ ख़ुद उस माँग में है। अगर दबाव जारी रहे या धमकी में बदल जाए, तो जवाब देना बंद करो, चैट रहने दो और किसी भरोसेमंद बड़े से बात करो या 1098 पर कॉल करो।",
+   "hg": "Mana karo, aur jaan lo ki mana karna tumhara haq hai. 'Na' sunne ke baad bhi baar-baar maangna aur usse trust ka test bana dena pressure hai, pyaar nahi. Tum bol sakte ho, 'Main aisi photos nahi bhejta/bhejti, aur main chahta/chahti hoon ki tum maangna band karo.' Ek legal reality bhi hai: India mein under-18 kisi bhi insaan ki sexual photo banana, bhejna, maangna ya rakhna illegal hai, matlab problem khud us request mein hai. Agar pressure chalta rahe ya dhamki mein badal jaye, toh reply band karo, chat rehne do aur kisi trusted adult se baat karo ya 1098 pe call karo."
+  },
+  "keywords": [
+   "send nudes",
+   "bf asking pics",
+   "private photo",
+   "nudes maang raha",
+   "निजी फ़ोटो",
+   "trust nahi",
+   "sexting pressure",
+   "gf pics",
+   "फ़ोटो भेजो",
+   "boyfriend pressure"
+  ],
+  "refs": [
+   "pocso-2012",
+   "unesco-itgse"
+  ],
+  "urgent": true,
+  "lesson": "d13-l03"
+ },
+ {
+  "id": "d13-f07",
+  "domain": "d13",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "I already sent a private photo and now I regret it. What can I do?",
+   "hi": "मैं पहले ही एक निजी फ़ोटो भेज चुका/चुकी हूँ और अब पछता रहा/रही हूँ। अब क्या कर सकता/सकती हूँ?",
+   "hg": "Main pehle hi ek private photo bhej chuka/chuki hoon aur ab regret ho raha hai. Ab kya kar sakta/sakti hoon?"
+  },
+  "a": {
+   "en": "You have options, and regret does not make you a bad person. Do not send anything more, whatever is said. If you trust the person, ask them once, calmly, to delete it; do not argue or bargain. Keep the chat instead of deleting it, and do not forward the photo to anyone. If it gets shared or you are threatened, report it in the app and on cybercrime.gov.in, or call 1930 or 1098. Telling a trusted adult early makes every later step easier. Because you are under 18, the adults who help you may be required to report it.",
+   "hi": "तुम्हारे पास रास्ते हैं, और पछतावा होने से तुम बुरे इंसान नहीं बन जाते। चाहे कुछ भी कहा जाए, आगे कुछ मत भेजो। अगर उस इंसान पर भरोसा है, तो एक बार शांति से कहो कि वह फ़ोटो डिलीट कर दे; बहस या मोल-भाव मत करो। चैट को डिलीट करने की जगह रहने दो, और वह फ़ोटो किसी को फ़ॉरवर्ड मत करो। अगर फ़ोटो फैलाई जाए या तुम्हें धमकी मिले, तो ऐप में और cybercrime.gov.in पर रिपोर्ट करो, या 1930 या 1098 पर कॉल करो। किसी भरोसेमंद बड़े को जल्दी बता देने से आगे का हर क़दम आसान हो जाता है। तुम 18 से कम उम्र के हो, इसलिए मदद करने वाले बड़ों को इसकी रिपोर्ट करनी पड़ सकती है।",
+   "hg": "Tumhare paas options hain, aur regret hone se tum bure insaan nahi ban jaate. Chahe kuch bhi bola jaye, aage kuch mat bhejo. Agar us insaan pe trust hai, toh ek baar calmly bolo ki woh photo delete kar de; bahas ya bargaining mat karo. Chat ko delete karne ki jagah rehne do, aur woh photo kisi ko forward mat karo. Agar photo share ho jaye ya tumhe dhamki mile, toh app mein aur cybercrime.gov.in pe report karo, ya 1930 ya 1098 pe call karo. Kisi trusted adult ko jaldi bata dene se aage ka har step easy ho jaata hai. Tum under 18 ho, isliye help karne wale adults ko isse report karna pad sakta hai."
+  },
+  "keywords": [
+   "sent nudes regret",
+   "photo bhej di",
+   "फ़ोटो भेज दी",
+   "delete my photo",
+   "leak hone ka darr",
+   "पछतावा",
+   "nude sent",
+   "galti se bhej diya",
+   "photo wapas",
+   "sexting regret"
+  ],
+  "refs": [
+   "cybercrime-portal",
+   "wcd-childline",
+   "pocso-2012"
+  ],
+  "urgent": true,
+  "lesson": "d13-l03"
+ },
+ {
+  "id": "d13-f08",
+  "domain": "d13",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Someone posted a classmate's nude photo in our group. What should I do?",
+   "hi": "किसी ने हमारे ग्रुप में एक सहपाठी की नग्न फ़ोटो डाल दी है। मुझे क्या करना चाहिए?",
+   "hg": "Kisi ne hamare group mein ek classmate ki nude photo daal di hai. Mujhe kya karna chahiye?"
+  },
+  "a": {
+   "en": "Do not open it again, save it, screenshot it or forward it, not even to warn the classmate or show a teacher. A sexual image of someone under 18 is child sexual abuse material, and passing it on is an offence and deepens the harm. Report the message in the app, leave the group if you can, and tell a trusted adult or a teacher what was posted, by whom and in which group. They can report it on cybercrime.gov.in or to 1098. If you know the classmate, a kind private message that you are on their side helps.",
+   "hi": "उसे दोबारा मत खोलो, सेव मत करो, स्क्रीनशॉट मत लो और फ़ॉरवर्ड मत करो, उस सहपाठी को आगाह करने या टीचर को दिखाने के लिए भी नहीं। 18 से कम उम्र के किसी इंसान की यौन तस्वीर बाल यौन शोषण सामग्री है, और उसे आगे भेजना अपराध है और नुकसान को और गहरा करता है। ऐप में उस मैसेज को रिपोर्ट करो, हो सके तो ग्रुप छोड़ दो, और किसी भरोसेमंद बड़े या टीचर को बताओ कि क्या डाला गया, किसने डाला और किस ग्रुप में। वे इसकी रिपोर्ट cybercrime.gov.in पर या 1098 पर कर सकते हैं। अगर तुम उस सहपाठी को जानते हो, तो अकेले में भेजा गया एक नरम मैसेज कि तुम उसके साथ हो, बहुत काम आता है।",
+   "hg": "Usse dobara mat kholo, save mat karo, screenshot mat lo aur forward mat karo, us classmate ko warn karne ya teacher ko dikhane ke liye bhi nahi. Under-18 kisi insaan ki sexual image child sexual abuse material hai, aur usse aage bhejna offence hai aur harm ko aur gehra karta hai. App mein us message ko report karo, ho sake toh group chhod do, aur kisi trusted adult ya teacher ko batao ki kya daala gaya, kisne daala aur kis group mein. Woh isse cybercrime.gov.in pe ya 1098 pe report kar sakte hain. Agar tum us classmate ko jaante ho, toh privately bheja gaya ek kind message ki tum uske saath ho, bahut kaam aata hai."
+  },
+  "keywords": [
+   "classmate nude leaked",
+   "group mein photo",
+   "leaked pic",
+   "forward karu",
+   "लीक फ़ोटो",
+   "नग्न फ़ोटो",
+   "whatsapp group nude",
+   "viral photo",
+   "csam",
+   "kya karu photo aayi"
+  ],
+  "refs": [
+   "pocso-2012",
+   "cybercrime-portal",
+   "wcd-childline"
+  ],
+  "urgent": true,
+  "lesson": "d13-l06"
+ },
+ {
+  "id": "d13-f09",
+  "domain": "d13",
+  "tracks": [
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Someone is threatening to send my video to my family unless I pay. Should I pay?",
+   "hi": "कोई धमकी दे रहा है कि पैसे नहीं दिए तो मेरा वीडियो मेरे परिवार को भेज देगा। क्या मुझे पैसे दे देने चाहिए?",
+   "hg": "Koi dhamki de raha hai ki paise nahi diye toh mera video meri family ko bhej dega. Kya mujhe pay kar dena chahiye?"
+  },
+  "a": {
+   "en": "No. Paying almost never ends it; it tells the blackmailer you can be made to pay again. Stop replying, do not send money or more images, and do not delete the chat. Note the username, profile link, phone number and any UPI or bank details, then block and report the account. Report on cybercrime.gov.in or call 1930, and tell a parent or another trusted adult now rather than later. This is sextortion, a crime against you. If you feel trapped or think of harming yourself, call 14416 or 112 immediately.",
+   "hi": "नहीं। पैसे देने से यह लगभग कभी ख़त्म नहीं होता; इससे ब्लैकमेलर को पता चल जाता है कि तुमसे दोबारा भी पैसे निकलवाए जा सकते हैं। जवाब देना बंद करो, पैसे या और तस्वीरें मत भेजो, और चैट डिलीट मत करो। यूज़रनेम, प्रोफ़ाइल लिंक, फ़ोन नंबर और UPI या बैंक का जो भी ब्योरा मिला हो, लिख लो, फिर अकाउंट को ब्लॉक और रिपोर्ट करो। cybercrime.gov.in पर रिपोर्ट करो या 1930 पर कॉल करो, और माँ-बाप या किसी और भरोसेमंद बड़े को बाद में नहीं, अभी बताओ। यह सेक्सटॉर्शन है, तुम्हारे ख़िलाफ़ किया गया अपराध। अगर तुम फँसा हुआ महसूस करो या ख़ुद को नुकसान पहुँचाने का ख़याल आए, तो तुरंत 14416 या 112 पर कॉल करो।",
+   "hg": "Nahi. Pay karne se yeh almost kabhi khatam nahi hota; isse blackmailer ko pata chal jaata hai ki tumse dobara bhi paise nikalwaye ja sakte hain. Reply band karo, paise ya aur images mat bhejo, aur chat delete mat karo. Username, profile link, phone number aur UPI ya bank ki jo bhi detail mili ho, note kar lo, phir account ko block aur report karo. cybercrime.gov.in pe report karo ya 1930 pe call karo, aur parent ya kisi aur trusted adult ko baad mein nahi, abhi batao. Yeh sextortion hai, tumhare against kiya gaya crime. Agar tum trapped feel karo ya khud ko hurt karne ka khayal aaye, toh turant 14416 ya 112 pe call karo."
+  },
+  "keywords": [
+   "sextortion",
+   "blackmail video",
+   "paise maang raha",
+   "video leak dhamki",
+   "ब्लैकमेल",
+   "सेक्सटॉर्शन",
+   "video call recorded",
+   "pay or leak",
+   "धमकी",
+   "1930"
+  ],
+  "refs": [
+   "cybercrime-portal",
+   "tele-manas",
+   "mha-erss"
+  ],
+  "urgent": true,
+  "lesson": "d13-l04"
+ },
+ {
+  "id": "d13-f10",
+  "domain": "d13",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "Someone made a fake nude of me with AI. It is fake, so can I even report it?",
+   "hi": "किसी ने AI से मेरी नकली नग्न तस्वीर बना दी है। वह तो नकली है, तो क्या मैं उसकी रिपोर्ट कर भी सकता/सकती हूँ?",
+   "hg": "Kisi ne AI se meri fake nude bana di hai. Woh toh fake hai, toh kya main report kar bhi sakta/sakti hoon?"
+  },
+  "a": {
+   "en": "Yes, you can and should. A sexual deepfake is a form of image-based sexual abuse; being fake does not make it legal or harmless. Note where it appears: links, group names, usernames and dates. Report it to the platform as a morphed or intimate image, and file a complaint on cybercrime.gov.in or at a police station. Do not forward it to prove it exists, and if you are under 18 do not save it at all, since it counts as child sexual abuse material. Tell someone you trust; you did nothing to cause this.",
+   "hi": "हाँ, कर सकते हो और करनी चाहिए। यौन डीपफेक तस्वीरों के ज़रिए यौन शोषण का ही एक रूप है; नकली होने से वह न क़ानूनी हो जाता है, न बेअसर। लिख लो कि वह कहाँ-कहाँ दिख रहा है: लिंक, ग्रुप के नाम, यूज़रनेम और तारीख़ें। प्लैटफ़ॉर्म पर उसे मॉर्फ़ की हुई या अंतरंग तस्वीर के तौर पर रिपोर्ट करो, और cybercrime.gov.in पर या पुलिस थाने में शिकायत दर्ज करो। यह साबित करने के लिए कि वह मौजूद है, उसे फ़ॉरवर्ड मत करो, और अगर तुम 18 से कम उम्र के हो तो उसे सेव बिल्कुल मत करो, क्योंकि वह बाल यौन शोषण सामग्री में गिनी जाती है। किसी भरोसेमंद इंसान को बताओ; इसकी वजह तुम नहीं हो।",
+   "hg": "Haan, kar sakte ho aur karna chahiye. Sexual deepfake image-based sexual abuse ka hi ek form hai; fake hone se woh na legal ho jaata hai, na harmless. Note karo ki woh kahan-kahan dikh raha hai: links, group names, usernames aur dates. Platform pe usse morphed ya intimate image ke taur pe report karo, aur cybercrime.gov.in pe ya police station mein complaint file karo. Yeh prove karne ke liye ki woh exist karta hai, usse forward mat karo, aur agar tum under 18 ho toh usse save bilkul mat karo, kyunki woh child sexual abuse material mein count hota hai. Kisi trusted insaan ko batao; iski wajah tum nahi ho."
+  },
+  "keywords": [
+   "deepfake",
+   "ai nude",
+   "fake nude",
+   "morphed photo",
+   "डीपफेक",
+   "नकली फ़ोटो",
+   "nudify app",
+   "photo morph kar di",
+   "ai se photo",
+   "edited photo viral"
+  ],
+  "refs": [
+   "cybercrime-portal",
+   "bns-2023"
+  ],
+  "urgent": true,
+  "lesson": "d13-l05"
+ },
+ {
+  "id": "d13-f11",
+  "domain": "d13",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "How do I actually report something on cybercrime.gov.in, and what should I keep ready?",
+   "hi": "cybercrime.gov.in पर रिपोर्ट असल में कैसे करते हैं, और मुझे क्या-क्या तैयार रखना चाहिए?",
+   "hg": "cybercrime.gov.in pe report actually kaise karte hain, aur mujhe kya-kya ready rakhna chahiye?"
+  },
+  "a": {
+   "en": "Open cybercrime.gov.in, choose the type of complaint, and describe what happened in plain words. Keep these ready: the profile links and usernames involved, phone numbers, dates and times, screenshots of threats or abusive messages, and any UPI or transaction IDs if money was demanded. Do not attach or upload a sexual image of anyone under 18; just say where it is. Note the complaint number you are given. If the site feels confusing, call 1930 or visit a police station, and if you are under 18, do it with a trusted adult.",
+   "hi": "cybercrime.gov.in खोलो, शिकायत का प्रकार चुनो और सीधे-सादे शब्दों में लिखो कि क्या हुआ। ये चीज़ें तैयार रखो: जुड़ी हुई प्रोफ़ाइल के लिंक और यूज़रनेम, फ़ोन नंबर, तारीख़ और समय, धमकियों या गाली वाले मैसेज के स्क्रीनशॉट, और अगर पैसे माँगे गए थे तो UPI या ट्रांज़ैक्शन ID। 18 से कम उम्र के किसी भी इंसान की यौन तस्वीर न अटैच करो, न अपलोड करो; बस बता दो कि वह कहाँ है। जो शिकायत नंबर मिले उसे लिख लो। अगर साइट उलझी हुई लगे, तो 1930 पर कॉल करो या पुलिस थाने जाओ, और अगर तुम 18 से कम उम्र के हो तो यह किसी भरोसेमंद बड़े के साथ करो।",
+   "hg": "cybercrime.gov.in kholo, complaint ka type choose karo aur simple words mein likho ki kya hua. Yeh cheezein ready rakho: involved profile links aur usernames, phone numbers, dates aur time, dhamkiyon ya abusive messages ke screenshots, aur agar paise maange gaye the toh UPI ya transaction ID. Under-18 kisi bhi insaan ki sexual image na attach karo, na upload karo; bas bata do ki woh kahan hai. Jo complaint number mile usse note kar lo. Agar site confusing lage, toh 1930 pe call karo ya police station jao, aur agar tum under 18 ho toh yeh kisi trusted adult ke saath karo."
+  },
+  "keywords": [
+   "cybercrime.gov.in",
+   "how to report",
+   "online complaint",
+   "report kaise kare",
+   "शिकायत",
+   "साइबर क्राइम",
+   "cyber cell",
+   "1930",
+   "complaint number",
+   "रिपोर्ट कैसे करें"
+  ],
+  "refs": [
+   "cybercrime-portal"
+  ],
+  "urgent": false,
+  "lesson": "d13-l06"
+ },
+ {
+  "id": "d13-f12",
+  "domain": "d13",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "My ex is threatening to post intimate photos I sent willingly when we were together. Do I have any rights?",
+   "hi": "एक्स की तरफ़ से धमकी मिल रही है कि मेरी वे अंतरंग फ़ोटो पोस्ट कर दी जाएँगी जो मैंने रिश्ते में रहते हुए अपनी मर्ज़ी से भेजी थीं। क्या मेरे कोई अधिकार हैं?",
+   "hg": "Ex ki taraf se dhamki mil rahi hai ki meri woh intimate photos post kar di jayengi jo maine relationship mein apni marzi se bheji thi. Kya mere koi rights hain?"
+  },
+  "a": {
+   "en": "Yes. Sending a photo to one person in private was never permission for them to publish it, and threatening to do so is itself an offence. Do not negotiate or pay. Screenshot the threats with the username and date, keep the chat, and do not delete your account. Report on cybercrime.gov.in or at a police station; women can also call 181. If anything is posted, report it to the platform as a non-consensual intimate image so that it can be taken down. Laws can change and this is not legal advice, so consider speaking to a lawyer or a legal aid service.",
+   "hi": "हाँ। किसी एक इंसान को निजी तौर पर फ़ोटो भेजना उसे सार्वजनिक करने की इजाज़त कभी नहीं थी, और ऐसा करने की धमकी देना अपने आप में अपराध है। मोल-भाव मत कीजिए और पैसे मत दीजिए। धमकियों के स्क्रीनशॉट यूज़रनेम और तारीख़ के साथ ले लीजिए, चैट रहने दीजिए और अपना अकाउंट डिलीट मत कीजिए। cybercrime.gov.in पर या पुलिस थाने में रिपोर्ट कीजिए; महिलाएँ 181 पर भी कॉल कर सकती हैं। अगर कुछ पोस्ट हो जाए, तो प्लैटफ़ॉर्म पर उसे बिना सहमति की अंतरंग तस्वीर के तौर पर रिपोर्ट कीजिए ताकि उसे हटाया जा सके। क़ानून बदल सकते हैं और यह क़ानूनी सलाह नहीं है, इसलिए किसी वकील या क़ानूनी सहायता सेवा से बात करने पर विचार कीजिए।",
+   "hg": "Haan. Kisi ek insaan ko privately photo bhejna usse publish karne ki permission kabhi nahi thi, aur aisa karne ki dhamki dena apne aap mein offence hai. Negotiate mat kijiye aur pay mat kijiye. Dhamkiyon ke screenshots username aur date ke saath le lijiye, chat rehne dijiye aur apna account delete mat kijiye. cybercrime.gov.in pe ya police station mein report kijiye; women 181 pe bhi call kar sakti hain. Agar kuch post ho jaye, toh platform pe usse non-consensual intimate image ke taur pe report kijiye taaki usse hataya ja sake. Laws change ho sakte hain aur yeh legal advice nahi hai, isliye kisi lawyer ya legal aid service se baat karne ka sochiye."
+  },
+  "keywords": [
+   "ex threatening photos",
+   "revenge porn",
+   "ex leak kar dega",
+   "intimate photos leak",
+   "एक्स धमकी",
+   "अंतरंग फ़ोटो",
+   "private pics ex",
+   "breakup ke baad dhamki",
+   "non consensual image",
+   "ex blackmail"
+  ],
+  "refs": [
+   "cybercrime-portal",
+   "bns-2023",
+   "wcd-mission-shakti"
+  ],
+  "urgent": true,
+  "lesson": "d13-l05"
+ }
+]

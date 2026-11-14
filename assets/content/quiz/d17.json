@@ -1,0 +1,253 @@
+[
+ {
+  "id": "d17-q01",
+  "domain": "d17",
+  "tracks": [
+   "A"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "Aman's tummy hurts every time he feels worried. What is his body doing?",
+   "hi": "जब भी अमन को चिंता होती है, उसके पेट में दर्द होता है। उसका शरीर क्या कर रहा है?",
+   "hg": "Jab bhi Aman ko tension hoti hai, uske pet mein dard hota hai. Uski body kya kar rahi hai?"
+  },
+  "options": [
+   {
+    "en": "Telling him that a big feeling is there",
+    "hi": "उसे बता रहा है कि अंदर कोई बड़ा एहसास है",
+    "hg": "Usse bata rahi hai ki andar koi badi feeling hai"
+   },
+   {
+    "en": "Being naughty",
+    "hi": "शरारत कर रहा है",
+    "hg": "Shararat kar rahi hai"
+   },
+   {
+    "en": "Showing that he is weak",
+    "hi": "दिखा रहा है कि वह कमज़ोर है",
+    "hg": "Dikha rahi hai ki woh weak hai"
+   }
+  ],
+  "answer": 0,
+  "explain": {
+   "en": "Feelings show up in the body. A tummy ache can be the body's way of saying 'I am worried'. Aman can tell a grown-up.",
+   "hi": "एहसास शरीर में दिखते हैं। पेट दर्द शरीर का यह कहने का तरीक़ा हो सकता है कि 'मुझे चिंता हो रही है।' अमन किसी बड़े को बता सकता है।",
+   "hg": "Feelings body mein dikhti hain. Pet dard body ka yeh kehne ka tareeka ho sakta hai ki 'mujhe tension ho rahi hai.' Aman kisi bade ko bata sakta hai."
+  }
+ },
+ {
+  "id": "d17-q02",
+  "domain": "d17",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "Which of these is bullying?",
+   "hi": "इनमें से कौन-सी बात बुलिंग है?",
+   "hg": "Inme se kaun-si cheez bullying hai?"
+  },
+  "options": [
+   {
+    "en": "Telling a friend you do not want to play today",
+    "hi": "दोस्त से कहना कि आज खेलने का मन नहीं है",
+    "hg": "Friend ko bolna ki aaj khelne ka mann nahi hai"
+   },
+   {
+    "en": "Disagreeing politely about a film",
+    "hi": "किसी फ़िल्म पर तमीज़ से असहमत होना",
+    "hg": "Kisi film par politely disagree karna"
+   },
+   {
+    "en": "Teasing a classmate about their weight every day and calling it a joke",
+    "hi": "किसी सहपाठी को रोज़ उसके वज़न पर चिढ़ाना और उसे मज़ाक़ कहना",
+    "hg": "Kisi classmate ko roz uske weight par chidhana aur usse joke bolna"
+   },
+   {
+    "en": "Asking someone to stop copying your homework",
+    "hi": "किसी से कहना कि मेरा होमवर्क कॉपी करना बंद करो",
+    "hg": "Kisi ko bolna ki mera homework copy karna band karo"
+   }
+  ],
+  "answer": 2,
+  "explain": {
+   "en": "Repeated teasing about someone's body hurts them on purpose. Calling it a joke does not make it okay.",
+   "hi": "किसी के शरीर को लेकर बार-बार चिढ़ाना उसे जान-बूझकर ठेस पहुँचाना है। उसे मज़ाक़ कह देने से वह ठीक नहीं हो जाता।",
+   "hg": "Kisi ki body ko lekar baar-baar chidhana usse jaan-boojhkar hurt karna hai. Usse joke bol dene se woh theek nahi ho jaata."
+  }
+ },
+ {
+  "id": "d17-q03",
+  "domain": "d17",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "Which is an example of helpful coping after a terrible day?",
+   "hi": "बहुत बुरे दिन के बाद संभलने का मदद करने वाला तरीक़ा कौन-सा है?",
+   "hg": "Bahut bure din ke baad helpful coping ka example kaun-sa hai?"
+  },
+  "options": [
+   {
+    "en": "Scrolling on the phone until 3 a.m.",
+    "hi": "रात के 3 बजे तक फ़ोन स्क्रोल करना",
+    "hg": "Raat ke 3 baje tak phone scroll karna"
+   },
+   {
+    "en": "Going for a walk and then talking to a friend",
+    "hi": "टहलने जाना और फिर किसी दोस्त से बात करना",
+    "hg": "Walk par jaana aur phir kisi friend se baat karna"
+   },
+   {
+    "en": "Skipping dinner",
+    "hi": "रात का खाना छोड़ देना",
+    "hg": "Dinner skip kar dena"
+   },
+   {
+    "en": "Starting a fight in the comments",
+    "hi": "कमेंट्स में झगड़ा शुरू कर देना",
+    "hg": "Comments mein jhagda shuru kar dena"
+   }
+  ],
+  "answer": 1,
+  "explain": {
+   "en": "Helpful coping lowers the feeling without creating a new problem. Movement and honest conversation both do that.",
+   "hi": "मदद करने वाला तरीक़ा एहसास को हल्का करता है और नई परेशानी खड़ी नहीं करता। चलना-फिरना और खुलकर बात करना, दोनों यही करते हैं।",
+   "hg": "Helpful coping feeling ko halka karti hai aur nayi problem khadi nahi karti. Movement aur honest baatcheet, dono yahi karte hain."
+  }
+ },
+ {
+  "id": "d17-q04",
+  "domain": "d17",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "tf",
+  "q": {
+   "en": "Tele-MANAS (14416) is a free mental health helpline in India that you can call at any hour.",
+   "hi": "टेली-मानस (14416) भारत की एक मुफ़्त मानसिक स्वास्थ्य हेल्पलाइन है जिस पर किसी भी समय कॉल किया जा सकता है।",
+   "hg": "Tele-MANAS (14416) India ki ek free mental health helpline hai jis par kisi bhi time call kar sakte ho."
+  },
+  "options": [
+   {
+    "en": "True",
+    "hi": "सही",
+    "hg": "Sahi"
+   },
+   {
+    "en": "False",
+    "hi": "ग़लत",
+    "hg": "Galat"
+   }
+  ],
+  "answer": 0,
+  "explain": {
+   "en": "Tele-MANAS is a government tele-mental-health service. Calls to 14416 are free and answered round the clock.",
+   "hi": "टेली-मानस सरकार की टेली-मानसिक स्वास्थ्य सेवा है। 14416 पर कॉल मुफ़्त है और चौबीसों घंटे उठाई जाती है।",
+   "hg": "Tele-MANAS government ki tele-mental-health service hai. 14416 par call free hai aur 24 ghante uthayi jaati hai."
+  }
+ },
+ {
+  "id": "d17-q05",
+  "domain": "d17",
+  "tracks": [
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "A partner keeps denying things you clearly remember, until you start doubting yourself. What is this called?",
+   "hi": "पार्टनर उन बातों से बार-बार मुकरता है जो तुम्हें साफ़ याद हैं, यहाँ तक कि तुम्हें ख़ुद पर शक होने लगता है। इसे क्या कहते हैं?",
+   "hg": "Partner un baaton se baar-baar mukarta hai jo tumhe clearly yaad hain, yahan tak ki tumhe khud par doubt hone lagta hai. Isse kya kehte hain?"
+  },
+  "options": [
+   {
+    "en": "Ghosting",
+    "hi": "घोस्टिंग",
+    "hg": "Ghosting"
+   },
+   {
+    "en": "Venting",
+    "hi": "भड़ास निकालना",
+    "hg": "Venting, yaani bhadaas nikaalna"
+   },
+   {
+    "en": "Gaslighting",
+    "hi": "गैसलाइटिंग",
+    "hg": "Gaslighting"
+   }
+  ],
+  "answer": 2,
+  "explain": {
+   "en": "Gaslighting is a form of emotional abuse that makes a person distrust their own memory and judgement.",
+   "hi": "गैसलाइटिंग भावनात्मक शोषण का एक रूप है जिसमें इंसान को अपनी ही याददाश्त और समझ पर भरोसा नहीं रहता।",
+   "hg": "Gaslighting emotional abuse ka ek form hai jisme insaan ko apni hi memory aur judgement par bharosa nahi rehta."
+  }
+ },
+ {
+  "id": "d17-q06",
+  "domain": "d17",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "Which mental health professional is a medical doctor who can prescribe medicines?",
+   "hi": "मानसिक स्वास्थ्य का कौन-सा पेशेवर मेडिकल डॉक्टर होता है और दवा लिख सकता है?",
+   "hg": "Kaun-sa mental health professional medical doctor hota hai aur medicines prescribe kar sakta hai?"
+  },
+  "options": [
+   {
+    "en": "Counsellor",
+    "hi": "काउंसलर",
+    "hg": "Counsellor"
+   },
+   {
+    "en": "Clinical psychologist",
+    "hi": "क्लिनिकल साइकोलॉजिस्ट",
+    "hg": "Clinical psychologist"
+   },
+   {
+    "en": "Life coach",
+    "hi": "लाइफ़ कोच",
+    "hg": "Life coach"
+   },
+   {
+    "en": "Psychiatrist",
+    "hi": "साइकियाट्रिस्ट (मनोचिकित्सक)",
+    "hg": "Psychiatrist"
+   }
+  ],
+  "answer": 3,
+  "explain": {
+   "en": "A psychiatrist has a medical degree and can prescribe medicines. Counsellors and psychologists work mainly through talking therapy.",
+   "hi": "साइकियाट्रिस्ट के पास मेडिकल डिग्री होती है और वे दवा लिख सकते हैं। काउंसलर और साइकोलॉजिस्ट मुख्य रूप से बातचीत वाली थेरेपी से काम करते हैं।",
+   "hg": "Psychiatrist ke paas medical degree hoti hai aur woh medicines prescribe kar sakte hain. Counsellors aur psychologists mainly talking therapy se kaam karte hain."
+  }
+ }
+]

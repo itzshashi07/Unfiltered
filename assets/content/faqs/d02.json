@@ -1,0 +1,505 @@
+[
+ {
+  "id": "d02-f01",
+  "domain": "d02",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "q": {
+   "en": "All my friends have started changing but I haven't. Is something wrong with me?",
+   "hi": "मेरे सारे दोस्तों का शरीर बदलने लगा है पर मेरा नहीं। क्या मुझमें कोई गड़बड़ है?",
+   "hg": "Mere saare friends ki body change hone lagi hai par meri nahi. Kya mujhme kuch gadbad hai?"
+  },
+  "a": {
+   "en": "Almost certainly not. Puberty can begin any time between 8 and 13 in girls and 9 and 14 in boys, so friends of the same age can be several years apart and all be healthy. Late starters go through exactly the same changes and usually reach the height their family's genes would predict. If you are a girl with no breast development by 13, or a boy with no growth of the testes by 14, ask a parent to take you for a check-up, mainly for reassurance. Until then, being last is a schedule, not a flaw.",
+   "hi": "लगभग पक्का है कि नहीं। प्यूबर्टी लड़कियों में 8 से 13 और लड़कों में 9 से 14 साल के बीच कभी भी शुरू हो सकती है, इसलिए एक ही उम्र के दोस्तों में कई साल का फ़र्क़ हो सकता है और फिर भी सब स्वस्थ होते हैं। देर से शुरू करने वालों में भी ठीक वही बदलाव आते हैं और वे आम तौर पर उतनी लंबाई पा लेते हैं जितनी उनके परिवार के जीन के हिसाब से होनी चाहिए। अगर तुम लड़की हो और 13 साल तक स्तनों का विकास शुरू नहीं हुआ, या लड़के हो और 14 साल तक वृषण नहीं बढ़े, तो मम्मी-पापा से कहो कि जाँच करवा दें, ख़ासकर तसल्ली के लिए। तब तक, सबसे आख़िर में होना बस एक टाइम-टेबल है, कोई कमी नहीं।",
+   "hg": "Almost pakka hai ki nahi. Puberty ladkiyon mein 8 se 13 aur ladkon mein 9 se 14 ke beech kabhi bhi start ho sakti hai, isliye same age ke friends mein kai saal ka gap ho sakta hai aur phir bhi sab healthy hote hain. Late start karne walon mein bhi exactly wahi changes aate hain aur woh usually utni height tak pahunchte hain jitni unki family ke genes ke hisaab se honi chahiye. Agar tum ladki ho aur 13 tak breast development start nahi hua, ya ladke ho aur 14 tak testes nahi badhe, toh mummy-papa se bolo ki check-up karwa dein, mainly tasalli ke liye. Tab tak, sabse last hona bas ek schedule hai, koi kami nahi."
+  },
+  "keywords": [
+   "late puberty",
+   "puberty kab aayegi",
+   "friends se peeche",
+   "body change nahi",
+   "देर से प्यूबर्टी",
+   "शरीर नहीं बदला",
+   "late bloomer",
+   "main chhota hoon",
+   "sab bade ho gaye",
+   "puberty late"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "nhm-rksk"
+  ],
+  "urgent": false,
+  "lesson": "d02-l01"
+ },
+ {
+  "id": "d02-f02",
+  "domain": "d02",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "men",
+   "women"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "q": {
+   "en": "There is a hard, sore lump under one of my nipples. Is it dangerous?",
+   "hi": "मेरे एक निप्पल के नीचे सख़्त, दुखने वाली गाँठ है। क्या यह ख़तरनाक है?",
+   "hg": "Mere ek nipple ke neeche hard, dukhne wali lump hai. Kya yeh dangerous hai?"
+  },
+  "a": {
+   "en": "In a girl between about 8 and 13 this is almost always a breast bud, the first stage of breast development. It feels like a small firm disc under the nipple, can be tender when pressed or bumped, and often shows up on one side months before the other. It is not an injury or a disease, and it should not be squeezed or massaged. Boys can get a similar tender lump for a while during puberty. Tell a parent and see a doctor if the area turns red, hot or very painful, leaks fluid, or appears before age 8.",
+   "hi": "क़रीब 8 से 13 साल की लड़की में यह लगभग हमेशा ब्रेस्ट बड होता है, यानी स्तनों के विकास की पहली स्टेज। यह निप्पल के नीचे एक छोटी सख़्त टिकिया जैसा महसूस होता है, दबाने या टकराने पर दुख सकता है, और अक्सर एक तरफ़ दूसरी से महीनों पहले आता है। यह न चोट है, न बीमारी, और इसे दबाना या मसलना नहीं चाहिए। प्यूबर्टी में लड़कों को भी कुछ समय के लिए ऐसी ही दुखने वाली गाँठ हो सकती है। अगर वह जगह लाल, गरम या बहुत दर्दनाक हो जाए, उसमें से तरल निकले, या यह 8 साल की उम्र से पहले दिखे, तो मम्मी-पापा को बताओ और डॉक्टर को दिखाओ।",
+   "hg": "Lagbhag 8 se 13 saal ki ladki mein yeh almost hamesha breast bud hota hai, yaani breast development ki pehli stage. Yeh nipple ke neeche ek chhoti firm disc jaisa feel hota hai, dabane ya takrane par dukh sakta hai, aur aksar ek side doosri se mahino pehle aata hai. Yeh na injury hai, na bimaari, aur ise dabana ya massage karna nahi chahiye. Puberty mein ladkon ko bhi kuch time ke liye aisi hi tender lump ho sakti hai. Agar woh jagah red, garam ya bahut painful ho jaye, usme se fluid nikle, ya yeh 8 saal ki age se pehle dikhe, toh mummy-papa ko batao aur doctor ko dikhao."
+  },
+  "keywords": [
+   "breast bud",
+   "nipple lump",
+   "nipple ke neeche gaanth",
+   "chhati mein dard",
+   "स्तन में गाँठ",
+   "निप्पल में दर्द",
+   "breast pain",
+   "chest lump girl",
+   "seene mein gaanth",
+   "breast growing"
+  ],
+  "refs": [
+   "nhm-rksk",
+   "unesco-itgse"
+  ],
+  "urgent": false,
+  "lesson": "d02-l03"
+ },
+ {
+  "id": "d02-f03",
+  "domain": "d02",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [
+   "penis_testicular"
+  ],
+  "q": {
+   "en": "I woke up with sticky, wet underwear. Did I pee in my sleep?",
+   "hi": "सुबह उठा तो अंडरवियर चिपचिपा और गीला था। क्या मैंने नींद में पेशाब कर दिया?",
+   "hg": "Subah utha toh underwear sticky aur geela tha. Kya maine neend mein pee kar diya?"
+  },
+  "a": {
+   "en": "Most likely not. If the patch is small, whitish and sticky rather than a large wet area smelling of urine, it was a wet dream: semen came out while you slept. It starts once the body begins making semen in puberty, may or may not come with a dream you remember, and cannot be controlled. It does not mean you are weak, ill or losing anything; the body keeps making semen. Wipe or wash, change your underwear and put the clothes in the laundry. Some people have wet dreams often, others rarely or never. If it was urine, that is no shame either: tell a parent, as doctors can help.",
+   "hi": "ज़्यादा संभावना है कि नहीं। अगर धब्बा छोटा, सफ़ेद-सा और चिपचिपा है, न कि पेशाब की गंध वाला बड़ा गीला हिस्सा, तो यह स्वप्नदोष था: सोते समय वीर्य निकल गया। प्यूबर्टी में जब शरीर वीर्य बनाना शुरू करता है, तब यह होने लगता है; इसके साथ कोई सपना याद रह भी सकता है और नहीं भी, और इस पर तुम्हारा बस नहीं चलता। इसका मतलब यह नहीं कि तुम कमज़ोर हो, बीमार हो या शरीर से कुछ घट रहा है; शरीर वीर्य बनाता रहता है। पोंछ लो या धो लो, अंडरवियर बदलो और कपड़े धुलने डाल दो। कुछ लोगों को स्वप्नदोष अक्सर होता है, कुछ को कभी-कभार या कभी नहीं। अगर वह पेशाब था, तो उसमें भी शर्म की कोई बात नहीं: मम्मी-पापा को बताओ, क्योंकि डॉक्टर मदद कर सकते हैं।",
+   "hg": "Most likely nahi. Agar patch chhota, whitish aur sticky hai, na ki urine ki smell wala bada geela area, toh yeh wet dream tha: sote time semen nikal gaya. Puberty mein jab body semen banana start karti hai, tab yeh hone lagta hai; iske saath koi dream yaad reh bhi sakta hai aur nahi bhi, aur is par tumhara control nahi hota. Iska matlab yeh nahi ki tum weak ho, bimaar ho ya body se kuch kam ho raha hai; body semen banati rehti hai. Wipe ya wash kar lo, underwear change karo aur kapde laundry mein daal do. Kuch logon ko wet dreams aksar hote hain, kuch ko kabhi-kabhar ya kabhi nahi. Agar woh urine tha, toh usme bhi sharam ki koi baat nahi: mummy-papa ko batao, kyunki doctor help kar sakte hain."
+  },
+  "keywords": [
+   "wet dream",
+   "nightfall",
+   "swapnadosh",
+   "स्वप्नदोष",
+   "raat ko nikal gaya",
+   "sticky underwear",
+   "neend mein semen",
+   "नाइटफ़ॉल",
+   "bed wet",
+   "subah geela"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "nhm-rksk"
+  ],
+  "urgent": false,
+  "lesson": "d02-l03"
+ },
+ {
+  "id": "d02-f04",
+  "domain": "d02",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [
+   "penis_testicular"
+  ],
+  "q": {
+   "en": "I get erections at random times, even in class. How do I make it stop?",
+   "hi": "मुझे कभी भी इरेक्शन हो जाता है, क्लास में भी। इसे कैसे रोकूँ?",
+   "hg": "Mujhe random time par erection ho jata hai, class mein bhi. Ise kaise rokun?"
+  },
+  "a": {
+   "en": "You cannot switch them off, and you do not need to. Random erections are caused by shifting hormone levels and blood flow, not necessarily by any thought, and they are most frequent in the first years of puberty. They fade in a few minutes. Meanwhile, stay seated, put a bag or book on your lap, untuck your shirt, or focus hard on something dull like a maths problem. Well-fitting underwear makes them less visible. They become less frequent with age. See a doctor urgently only if an erection is painful and does not go down for hours.",
+   "hi": "तुम इन्हें बंद नहीं कर सकते, और इसकी ज़रूरत भी नहीं है। बेवजह इरेक्शन बदलते हार्मोन और ख़ून के बहाव से होते हैं, ज़रूरी नहीं कि किसी ख़याल से, और प्यूबर्टी के शुरुआती सालों में ये सबसे ज़्यादा होते हैं। ये कुछ मिनट में अपने आप चले जाते हैं। तब तक बैठे रहो, गोद में बैग या किताब रख लो, शर्ट बाहर निकाल लो, या किसी उबाऊ चीज़ पर ध्यान लगाओ, जैसे गणित का कोई सवाल। ठीक नाप का अंडरवियर पहनने से ये कम दिखते हैं। उम्र के साथ ये कम होते जाते हैं। डॉक्टर को तुरंत तभी दिखाओ जब इरेक्शन में दर्द हो और वह घंटों तक न बैठे।",
+   "hg": "Tum inhe switch off nahi kar sakte, aur iski zaroorat bhi nahi hai. Random erections badalte hormones aur blood flow se hote hain, zaroori nahi ki kisi thought se, aur puberty ke shuru ke saalon mein yeh sabse zyada hote hain. Yeh kuch minute mein apne aap chale jaate hain. Tab tak baithe raho, lap par bag ya book rakh lo, shirt bahar nikal lo, ya kisi boring cheez par focus karo, jaise maths ka koi sawaal. Sahi fitting ka underwear pehenne se yeh kam dikhte hain. Age ke saath yeh kam hote jaate hain. Doctor ko urgently tabhi dikhao jab erection mein dard ho aur woh ghanton tak na jaye."
+  },
+  "keywords": [
+   "erection",
+   "random erection",
+   "class mein khada",
+   "ling khada hona",
+   "लिंग खड़ा होना",
+   "इरेक्शन",
+   "boner",
+   "erection kaise roke",
+   "subah erection",
+   "tanav"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "nhm-rksk"
+  ],
+  "urgent": false,
+  "lesson": "d02-l03"
+ },
+ {
+  "id": "d02-f05",
+  "domain": "d02",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "q": {
+   "en": "I bathe every day but my underarms still smell. What am I doing wrong?",
+   "hi": "मैं रोज़ नहाता/नहाती हूँ फिर भी बगल से बदबू आती है। मैं क्या ग़लत कर रहा/रही हूँ?",
+   "hg": "Main roz nahata/nahati hoon phir bhi underarms se smell aati hai. Main kya galat kar raha/rahi hoon?"
+  },
+  "a": {
+   "en": "Probably nothing major. Puberty sweat glands in the armpits make a thicker sweat that skin bacteria love, so water alone is not enough. Use soap on the armpits, groin and feet, rinse, and dry fully before dressing. Wear a fresh cotton vest or shirt daily; synthetic fabric and yesterday's uniform hold the smell even on a clean body. Apply deodorant or antiperspirant to dry skin after bathing. Trimming underarm hair can help some people because hair holds sweat. If the smell is very strong despite all this, or sweating soaks your clothes, mention it to a doctor.",
+   "hi": "शायद कुछ बड़ा ग़लत नहीं। प्यूबर्टी में बगल की पसीने की ग्रंथियाँ गाढ़ा पसीना बनाती हैं जो त्वचा के बैक्टीरिया को बहुत पसंद है, इसलिए सिर्फ़ पानी काफ़ी नहीं होता। बगल, जाँघों के जोड़ और पैरों पर साबुन लगाओ, धोओ, और कपड़े पहनने से पहले पूरी तरह सुखाओ। रोज़ धुली हुई सूती बनियान या शर्ट पहनो; सिंथेटिक कपड़ा और कल की यूनिफ़ॉर्म साफ़ शरीर पर भी गंध पकड़े रहते हैं। नहाने के बाद सूखी त्वचा पर डिओडरेंट या एंटीपर्सपिरेंट लगाओ। बगल के बाल छोटे करने से कुछ लोगों को फ़ायदा होता है क्योंकि बाल पसीना रोककर रखते हैं। अगर यह सब करने पर भी गंध बहुत तेज़ हो, या पसीने से कपड़े भीग जाते हों, तो डॉक्टर को बताओ।",
+   "hg": "Probably kuch bada galat nahi. Puberty mein armpits ke sweat glands thick paseena banate hain jo skin ke bacteria ko bahut pasand hai, isliye sirf paani kaafi nahi hota. Armpits, groin aur pairon par soap lagao, rinse karo, aur kapde pehenne se pehle poori tarah sukhao. Roz fresh cotton vest ya shirt pehno; synthetic fabric aur kal ki uniform clean body par bhi smell pakde rehte hain. Nahane ke baad dry skin par deodorant ya antiperspirant lagao. Underarm hair trim karne se kuch logon ko help milti hai kyunki baal paseena hold karte hain. Agar yeh sab karne par bhi smell bahut strong ho, ya paseene se kapde bheeg jaate hon, toh doctor ko batao."
+  },
+  "keywords": [
+   "body odour",
+   "underarm smell",
+   "bagal ki badbu",
+   "paseene ki smell",
+   "पसीने की बदबू",
+   "बगल से बदबू",
+   "deodorant",
+   "bo problem",
+   "smelly armpits",
+   "pasina zyada"
+  ],
+  "refs": [
+   "nhm-rksk",
+   "unesco-itgse"
+  ],
+  "urgent": false,
+  "lesson": "d02-l02"
+ },
+ {
+  "id": "d02-f06",
+  "domain": "d02",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "menstrual"
+  ],
+  "q": {
+   "en": "How will I know my first period is coming, and what do I do if it starts at school?",
+   "hi": "मुझे कैसे पता चलेगा कि पहला पीरियड आने वाला है, और अगर स्कूल में शुरू हो जाए तो क्या करूँ?",
+   "hg": "Mujhe kaise pata chalega ki pehla period aane wala hai, aur agar school mein start ho jaye toh kya karun?"
+  },
+  "a": {
+   "en": "Clues are breast development that began about two years ago, pubic and underarm hair, a growth spurt, and whitish discharge in your underwear for some months. You may feel a dull ache low in the belly. If it starts at school, it is not an emergency. Fold toilet paper or a clean handkerchief into your underwear, then ask a friend, a woman teacher or the school office for a pad; many schools keep them. Tie a sweater round your waist if there is a stain. Tell a parent at home. From now on, keep a pad and spare underwear in your bag.",
+   "hi": "संकेत ये हैं: क़रीब दो साल पहले शुरू हुआ स्तनों का विकास, जननांगों के पास और बगल में बाल, लंबाई का तेज़ी से बढ़ना, और कुछ महीनों से अंडरवियर में सफ़ेद-सा स्राव। पेट के निचले हिस्से में हल्का दर्द भी हो सकता है। अगर यह स्कूल में शुरू हो जाए, तो यह कोई इमरजेंसी नहीं है। टॉयलेट पेपर या साफ़ रूमाल मोड़कर अंडरवियर में रख लो, फिर किसी सहेली, मैडम या स्कूल ऑफ़िस से पैड माँग लो; बहुत-से स्कूलों में पैड रखे होते हैं। अगर दाग़ लग गया हो तो कमर पर स्वेटर बाँध लो। घर जाकर मम्मी या पापा को बताओ। अब से बैग में एक पैड और एक अतिरिक्त अंडरवियर रखो।",
+   "hg": "Clues yeh hain: lagbhag do saal pehle start hua breast development, pubic aur underarm hair, growth spurt, aur kuch mahino se underwear mein whitish discharge. Pet ke nichle hisse mein halka dard bhi ho sakta hai. Agar yeh school mein start ho jaye, toh yeh koi emergency nahi hai. Toilet paper ya clean rumaal fold karke underwear mein rakh lo, phir kisi friend, ma'am ya school office se pad maang lo; bahut schools mein pads rakhe hote hain. Agar stain lag gaya ho toh kamar par sweater baandh lo. Ghar jaakar mummy ya papa ko batao. Ab se bag mein ek pad aur ek spare underwear rakho."
+  },
+  "keywords": [
+   "first period",
+   "pehla period",
+   "पहला पीरियड",
+   "period at school",
+   "school mein period",
+   "menarche",
+   "period kab aayega",
+   "माहवारी कब",
+   "mahina kab shuru",
+   "period signs",
+   "stain on skirt"
+  ],
+  "refs": [
+   "nhs-periods",
+   "nhm-rksk"
+  ],
+  "urgent": false,
+  "lesson": "d02-l03"
+ },
+ {
+  "id": "d02-f07",
+  "domain": "d02",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "q": {
+   "en": "I have pimples everywhere. What actually works, and what makes them worse?",
+   "hi": "मेरे हर जगह मुँहासे हैं। असल में क्या काम करता है, और किससे ये बिगड़ते हैं?",
+   "hg": "Mere har jagah pimples hain. Actually kya kaam karta hai, aur kis cheez se yeh aur kharab hote hain?"
+  },
+  "a": {
+   "en": "What works: washing gently twice a day with a mild face wash, not scrubbing; washing hair regularly and keeping oily hair off the forehead; leaving pimples alone; and giving any treatment a few weeks. A pharmacist or doctor can suggest proven anti-acne creams or gels. What makes it worse: squeezing, harsh scrubs, toothpaste, lemon or other home remedies that irritate skin, heavy oily cosmetics, and steroid or fairness creams used without a prescription, which can seriously damage skin. Acne is not caused by dirt. See a doctor if pimples are large, painful, leaving scars or dark marks, or affecting your confidence.",
+   "hi": "क्या काम करता है: दिन में दो बार हल्के फ़ेस वॉश से नरमी से धोना, रगड़ना नहीं; बाल नियमित धोना और तैलीय बालों को माथे से दूर रखना; मुँहासों को हाथ न लगाना; और किसी भी इलाज को कुछ हफ़्ते का समय देना। फ़ार्मासिस्ट या डॉक्टर मुँहासों की आज़माई हुई क्रीम या जेल बता सकते हैं। किससे बिगड़ते हैं: फोड़ने से, सख़्त स्क्रब से, टूथपेस्ट, नींबू या ऐसे घरेलू नुस्ख़ों से जो त्वचा में जलन पैदा करते हैं, भारी तैलीय कॉस्मेटिक से, और बिना पर्चे के लगाई गई स्टेरॉइड या गोरेपन की क्रीम से, जो त्वचा को गंभीर नुक़सान पहुँचा सकती हैं। मुँहासे गंदगी से नहीं होते। अगर मुँहासे बड़े हों, दर्द करें, दाग़ या काले निशान छोड़ें, या तुम्हारे आत्मविश्वास पर असर डालें, तो डॉक्टर को दिखाओ।",
+   "hg": "Kya kaam karta hai: din mein do baar mild face wash se gently wash karna, scrub nahi; hair regularly wash karna aur oily hair ko forehead se door rakhna; pimples ko touch na karna; aur kisi bhi treatment ko kuch hafte ka time dena. Pharmacist ya doctor proven anti-acne creams ya gels bata sakte hain. Kis cheez se kharab hote hain: phodne se, harsh scrubs se, toothpaste, nimbu ya aise gharelu nuskhon se jo skin ko irritate karte hain, heavy oily cosmetics se, aur bina prescription ke lagayi gayi steroid ya fairness creams se, jo skin ko seriously damage kar sakti hain. Acne gandagi se nahi hota. Agar pimples bade hon, dard karein, scars ya dark marks chhodein, ya tumhare confidence par asar daalein, toh doctor ko dikhao."
+  },
+  "keywords": [
+   "pimples",
+   "acne",
+   "muhase",
+   "मुँहासे",
+   "pimple kaise hataye",
+   "daane",
+   "चेहरे पर दाने",
+   "pimple cream",
+   "acne treatment",
+   "pimple phodna",
+   "oily skin"
+  ],
+  "refs": [
+   "nhm-rksk",
+   "unesco-itgse"
+  ],
+  "urgent": false,
+  "lesson": "d02-l02"
+ },
+ {
+  "id": "d02-f08",
+  "domain": "d02",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "q": {
+   "en": "Why do I get angry or cry for no reason these days?",
+   "hi": "आजकल मुझे बिना बात के ग़ुस्सा या रोना क्यों आ जाता है?",
+   "hg": "Aajkal mujhe bina baat ke gussa ya rona kyun aa jata hai?"
+  },
+  "a": {
+   "en": "Because several things are changing in your brain at once. Hormone levels are rising and fluctuating, the emotional parts of the brain are more reactive than the part that calms them down, and most teenagers are short of sleep. So small triggers produce big reactions that are hard to explain afterwards. It is normal and it eases with age. Sleep, food at regular times, exercise and naming the feeling out loud all help. If low mood, anger or worry lasts most of the day for two weeks, or you have thoughts of harming yourself, talk to a trusted adult or call Tele-MANAS on 14416.",
+   "hi": "क्योंकि तुम्हारे दिमाग़ में एक साथ कई चीज़ें बदल रही हैं। हार्मोन का स्तर बढ़ रहा है और ऊपर-नीचे हो रहा है, दिमाग़ के भावनाओं वाले हिस्से उस हिस्से से ज़्यादा तेज़ चल रहे हैं जो उन्हें शांत करता है, और ज़्यादातर किशोरों की नींद पूरी नहीं होती। इसलिए छोटी-सी बात पर बड़ी प्रतिक्रिया आती है, जिसे बाद में समझाना मुश्किल होता है। यह सामान्य है और उम्र के साथ हल्का पड़ता जाता है। नींद, समय पर खाना, कसरत और अपनी भावना को ज़ोर से नाम देना, ये सब मदद करते हैं। अगर उदासी, ग़ुस्सा या चिंता दो हफ़्ते तक दिन के ज़्यादातर समय बनी रहे, या ख़ुद को नुक़सान पहुँचाने के ख़याल आएँ, तो किसी भरोसेमंद बड़े से बात करो या टेली-मानस को 14416 पर फ़ोन करो।",
+   "hg": "Kyunki tumhare brain mein ek saath kai cheezein change ho rahi hain. Hormone levels badh rahe hain aur upar-neeche ho rahe hain, brain ke emotional parts us part se zyada reactive hain jo unhe calm karta hai, aur zyadatar teenagers ki neend poori nahi hoti. Isliye chhote triggers par bade reactions aate hain, jinhe baad mein explain karna mushkil hota hai. Yeh normal hai aur age ke saath halka hota jata hai. Neend, time par khana, exercise aur feeling ko zor se naam dena, yeh sab help karte hain. Agar low mood, gussa ya tension do hafte tak din ke zyadatar time bana rahe, ya khud ko hurt karne ke thoughts aayein, toh kisi trusted adult se baat karo ya Tele-MANAS ko 14416 par call karo."
+  },
+  "keywords": [
+   "mood swings",
+   "gussa kyun aata hai",
+   "bina baat rona",
+   "मूड स्विंग",
+   "ग़ुस्सा आना",
+   "रोना आता है",
+   "irritation",
+   "chidchidapan",
+   "angry for no reason",
+   "emotional"
+  ],
+  "refs": [
+   "who-adolescent-mh",
+   "tele-manas"
+  ],
+  "urgent": false,
+  "lesson": "d02-l04"
+ },
+ {
+  "id": "d02-f09",
+  "domain": "d02",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "q": {
+   "en": "I have a crush on someone of the same gender. Is something wrong with me?",
+   "hi": "मुझे अपने ही जेंडर के किसी इंसान पर क्रश है। क्या मुझमें कुछ ग़लत है?",
+   "hg": "Mujhe same gender ke kisi insaan par crush hai. Kya mujhme kuch galat hai?"
+  },
+  "a": {
+   "en": "No, nothing is wrong with you. Attraction to the same gender, a different gender or more than one are all normal variations, and none is an illness or something to be cured. In the teen years feelings can also shift, so you do not have to pick a label now or ever tell anyone before you are ready. A crush does not need to be acted on. If you feel confused, alone or are being teased, talk to an adult you trust or a counsellor; Tele-MANAS on 14416 is free. Nobody has the right to bully you or try to treat you for whom you like.",
+   "hi": "नहीं, तुममें कुछ भी ग़लत नहीं है। अपने जेंडर, दूसरे जेंडर या एक से ज़्यादा जेंडर की तरफ़ आकर्षण, ये सब सामान्य रूप हैं, और इनमें से कोई भी न बीमारी है, न ऐसी चीज़ जिसका इलाज हो। किशोर उम्र में भावनाएँ बदल भी सकती हैं, इसलिए तुम्हें अभी कोई लेबल चुनने की ज़रूरत नहीं, और जब तक तुम तैयार न हो, किसी को बताने की भी नहीं। क्रश पर कुछ करना ज़रूरी नहीं होता। अगर उलझन हो, अकेलापन लगे या कोई चिढ़ा रहा हो, तो किसी भरोसेमंद बड़े या काउंसलर से बात करो; टेली-मानस 14416 मुफ़्त है। तुम्हें कौन पसंद है, इस बात पर तुम्हें तंग करने या तुम्हारा इलाज कराने की कोशिश का हक़ किसी को नहीं है।",
+   "hg": "Nahi, tumme kuch bhi galat nahi hai. Same gender, doosre gender ya ek se zyada gender ki taraf attraction, yeh sab normal variations hain, aur inme se koi bhi na bimaari hai, na aisi cheez jise cure karna ho. Teen years mein feelings shift bhi ho sakti hain, isliye tumhe abhi koi label choose karne ki zaroorat nahi, aur jab tak tum ready na ho, kisi ko batane ki bhi nahi. Crush par act karna zaroori nahi hota. Agar confused ho, akela feel ho ya koi tease kar raha ho, toh kisi trusted adult ya counsellor se baat karo; Tele-MANAS 14416 free hai. Tumhe kaun pasand hai, is baat par tumhe bully karne ya tumhara treatment karwane ki koshish ka haq kisi ko nahi hai."
+  },
+  "keywords": [
+   "same gender crush",
+   "ladke ko ladka pasand",
+   "ladki ko ladki pasand",
+   "gay hoon kya",
+   "समलैंगिक",
+   "क्रश",
+   "same sex attraction",
+   "am i gay",
+   "lesbian",
+   "crush normal hai kya"
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-cse",
+   "tele-manas"
+  ],
+  "urgent": false,
+  "lesson": "d02-l05"
+ },
+ {
+  "id": "d02-f10",
+  "domain": "d02",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "q": {
+   "en": "I am the shortest in my class. Will I still grow?",
+   "hi": "क्लास में मेरा क़द सबसे छोटा है। क्या मेरी लंबाई अब भी बढ़ेगी?",
+   "hg": "Class mein meri height sabse kam hai. Kya meri height ab bhi badhegi?"
+  },
+  "a": {
+   "en": "Very likely, yes. Height depends mainly on your parents' heights and on when your growth spurt arrives. Girls usually have theirs before their first period and grow more slowly for a couple of years after it. Boys usually have theirs later, often between 13 and 15, and many keep growing until 16 to 18. Late starters grow for longer. Sleep, enough protein and overall nutrition, and physical activity support growth; hanging from bars, height powders and tablets do not add height. If you have not grown at all in a year, or have no puberty signs by 13 (girls) or 14 (boys), see a doctor.",
+   "hi": "बहुत संभावना है कि हाँ। लंबाई ज़्यादातर इस पर निर्भर करती है कि तुम्हारे मम्मी-पापा कितने लंबे हैं और तुम्हारी तेज़ बढ़त कब आती है। लड़कियों में यह आम तौर पर पहले पीरियड से पहले आती है और उसके बाद एक-दो साल तक लंबाई धीरे-धीरे बढ़ती है। लड़कों में यह बाद में आती है, अक्सर 13 से 15 साल के बीच, और बहुत-से लड़के 16 से 18 साल तक बढ़ते रहते हैं। देर से शुरू करने वाले ज़्यादा समय तक बढ़ते हैं। नींद, पर्याप्त प्रोटीन और कुल मिलाकर अच्छा पोषण, और शारीरिक गतिविधि बढ़त में मदद करते हैं; रॉड पर लटकने, हाइट पाउडर या गोलियों से लंबाई नहीं बढ़ती। अगर एक साल में लंबाई बिल्कुल न बढ़ी हो, या 13 साल (लड़कियाँ) या 14 साल (लड़के) तक प्यूबर्टी का कोई लक्षण न हो, तो डॉक्टर को दिखाओ।",
+   "hg": "Bahut chances hain ki haan. Height mainly is par depend karti hai ki tumhare mummy-papa kitne lambe hain aur tumhara growth spurt kab aata hai. Ladkiyon mein yeh usually pehle period se pehle aata hai aur uske baad ek-do saal tak height slowly badhti hai. Ladkon mein yeh baad mein aata hai, aksar 13 se 15 ke beech, aur bahut se ladke 16 se 18 tak grow karte rehte hain. Late start karne wale zyada time tak grow karte hain. Neend, enough protein aur overall nutrition, aur physical activity growth ko support karte hain; rod par latakne, height powder ya tablets se height nahi badhti. Agar ek saal mein height bilkul na badhi ho, ya 13 saal (ladkiyan) ya 14 saal (ladke) tak puberty ka koi sign na ho, toh doctor ko dikhao."
+  },
+  "keywords": [
+   "height",
+   "height kaise badhaye",
+   "short height",
+   "लंबाई कैसे बढ़ाएँ",
+   "क़द छोटा",
+   "chhoti height",
+   "grow taller",
+   "height badhane ka tarika",
+   "height powder",
+   "latakne se height"
+  ],
+  "refs": [
+   "nhm-rksk",
+   "unesco-itgse"
+  ],
+  "urgent": false,
+  "lesson": "d02-l06"
+ },
+ {
+  "id": "d02-f11",
+  "domain": "d02",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "q": {
+   "en": "Which doctor do I see for a puberty problem, and will the check-up be embarrassing?",
+   "hi": "प्यूबर्टी की किसी समस्या के लिए किस डॉक्टर के पास जाऊँ, और क्या जाँच में शर्म आएगी?",
+   "hg": "Puberty ki kisi problem ke liye kis doctor ke paas jaun, aur kya check-up embarrassing hoga?"
+  },
+  "a": {
+   "en": "Start with a paediatrician, a general physician or the Adolescent Friendly Health Clinic at a government hospital; they may refer you to an endocrinologist (hormone specialist) or a gynaecologist. Expect questions, height and weight measurement, and sometimes blood tests and a hand X-ray. A brief examination of the chest or genitals may be needed to see the stage of development. You can ask what will be done and why, and have a parent or nurse present. If you are under 18, a doctor cannot promise total secrecy about sexual abuse or sexual activity, because the law requires these to be reported; ordinary puberty concerns are routine and handled privately.",
+   "hi": "शुरुआत बच्चों के डॉक्टर, जनरल फ़िज़िशियन या सरकारी अस्पताल के किशोर अनुकूल स्वास्थ्य क्लिनिक (AFHC) से करो; वे तुम्हें एंडोक्राइनोलॉजिस्ट (हार्मोन विशेषज्ञ) या स्त्री रोग विशेषज्ञ के पास भेज सकते हैं। वहाँ सवाल पूछे जाएँगे, लंबाई और वज़न नापा जाएगा, और कभी-कभी ख़ून की जाँच और हाथ का एक्स-रे होगा। विकास की स्टेज देखने के लिए छाती या जननांगों की थोड़ी देर की जाँच ज़रूरी हो सकती है। तुम पूछ सकते हो कि क्या किया जाएगा और क्यों, और मम्मी-पापा या नर्स को साथ रख सकते हो। अगर तुम्हारी उम्र 18 साल से कम है, तो डॉक्टर यौन शोषण या यौन गतिविधि के बारे में पूरी गोपनीयता का वादा नहीं कर सकते, क्योंकि क़ानून के मुताबिक़ इनकी सूचना देना ज़रूरी है; प्यूबर्टी की आम चिंताएँ रोज़ का काम हैं और निजी तौर पर ही देखी जाती हैं।",
+   "hg": "Start paediatrician, general physician ya government hospital ke Adolescent Friendly Health Clinic (AFHC) se karo; woh tumhe endocrinologist (hormone specialist) ya gynaecologist ke paas refer kar sakte hain. Wahan sawaal pooche jayenge, height aur weight measure hoga, aur kabhi-kabhi blood tests aur haath ka X-ray hoga. Development ki stage dekhne ke liye chest ya genitals ka chhota sa examination zaroori ho sakta hai. Tum pooch sakte ho ki kya kiya jayega aur kyun, aur mummy-papa ya nurse ko saath rakh sakte ho. Agar tumhari age 18 se kam hai, toh doctor sexual abuse ya sexual activity ke baare mein total secrecy ka promise nahi kar sakte, kyunki law ke hisaab se inki report karna zaroori hai; puberty ki normal concerns routine hain aur privately hi handle hoti hain."
+  },
+  "keywords": [
+   "which doctor",
+   "kaun sa doctor",
+   "endocrinologist",
+   "puberty doctor",
+   "किस डॉक्टर को दिखाएँ",
+   "हार्मोन डॉक्टर",
+   "afhc",
+   "check up sharam",
+   "doctor ke paas jaana",
+   "hormone test"
+  ],
+  "refs": [
+   "nhm-afhc",
+   "nhm-rksk",
+   "pocso-2012"
+  ],
+  "urgent": false,
+  "lesson": "d02-l06"
+ },
+ {
+  "id": "d02-f12",
+  "domain": "d02",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "q": {
+   "en": "I am 17 or 18. Is my puberty over, or can my body still change?",
+   "hi": "मैं 17-18 साल का/की हूँ। क्या मेरी प्यूबर्टी ख़त्म हो चुकी है, या शरीर अब भी बदल सकता है?",
+   "hg": "Main 17-18 saal ka/ki hoon. Kya meri puberty khatam ho chuki hai, ya body ab bhi change ho sakti hai?"
+  },
+  "a": {
+   "en": "It can still change. By 17 or 18 most people have had the main events, but the finishing touches run into the early twenties: beard and chest hair often fill in slowly, shoulders and muscles broaden, breasts and hips may still change shape, and cycles settle. How much facial or body hair you end up with is mostly genetic, and plenty of healthy adult men have sparse beards. What deserves a check is a lack of the basics: no testicular growth, no breast development, no periods, or no growth spurt at all. If those happened, your puberty worked; it is simply finishing at its own pace.",
+   "hi": "शरीर अब भी बदल सकता है। 17-18 साल तक ज़्यादातर लोगों में मुख्य बदलाव हो चुके होते हैं, पर आख़िरी निखार बीस-बाईस की उम्र तक चलता है: दाढ़ी और छाती के बाल अक्सर धीरे-धीरे भरते हैं, कंधे और मांसपेशियाँ चौड़ी होती हैं, स्तनों और कूल्हों का आकार अब भी बदल सकता है, और चक्र नियमित होते जाते हैं। चेहरे या शरीर पर कितने बाल आएँगे, यह ज़्यादातर जीन से तय होता है, और बहुत-से स्वस्थ वयस्क पुरुषों की दाढ़ी हल्की होती है। जाँच की ज़रूरत तब है जब बुनियादी बदलाव ही न हुए हों: वृषण न बढ़े हों, स्तनों का विकास न हुआ हो, पीरियड न आए हों, या लंबाई तेज़ी से बढ़ी ही न हो। अगर ये सब हो चुका है, तो तुम्हारी प्यूबर्टी ठीक रही; वह बस अपनी रफ़्तार से पूरी हो रही है।",
+   "hg": "Body ab bhi change ho sakti hai. 17-18 tak zyadatar logon mein main events ho chuke hote hain, par finishing touches early twenties tak chalte hain: beard aur chest hair aksar slowly fill hote hain, shoulders aur muscles chaude hote hain, breasts aur hips ki shape ab bhi badal sakti hai, aur cycles settle hote jaate hain. Face ya body par kitne baal aayenge, yeh mostly genetic hai, aur bahut se healthy adult men ki beard halki hoti hai. Check ki zaroorat tab hai jab basics hi na hue hon: testes na badhe hon, breast development na hua ho, periods na aaye hon, ya growth spurt aaya hi na ho. Agar yeh sab ho chuka hai, toh tumhari puberty sahi chali; woh bas apni pace par finish ho rahi hai."
+  },
+  "keywords": [
+   "puberty over",
+   "puberty kab khatam",
+   "beard nahi aa rahi",
+   "दाढ़ी नहीं आ रही",
+   "17 saal height",
+   "प्यूबर्टी कब ख़त्म",
+   "late changes",
+   "daadhi kam",
+   "body still growing",
+   "18 ke baad height"
+  ],
+  "refs": [
+   "nhm-rksk",
+   "unesco-itgse"
+  ],
+  "urgent": false,
+  "lesson": "d02-l06"
+ }
+]

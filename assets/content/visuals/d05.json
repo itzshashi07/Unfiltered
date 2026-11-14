@@ -1,0 +1,456 @@
+[
+ {
+  "lesson": "d05-l01",
+  "type": "grid",
+  "title": {
+   "en": "My body belongs to me",
+   "hi": "मेरा शरीर मेरा अपना है",
+   "hg": "Meri body meri apni hai"
+  },
+  "items": [
+   {
+    "icon": "person",
+    "label": {
+     "en": "My body is mine",
+     "hi": "मेरा शरीर मेरा है",
+     "hg": "Meri body meri hai"
+    },
+    "text": {
+     "en": "My hands, my hair, my tummy. All of me belongs to me.",
+     "hi": "मेरे हाथ, मेरे बाल, मेरा पेट। मेरा सब कुछ मेरा अपना है।",
+     "hg": "Mere haath, mere baal, mera pet. Mera sab kuch mera apna hai."
+    }
+   },
+   {
+    "icon": "no",
+    "label": {
+     "en": "Saying no is okay",
+     "hi": "'ना' कहना ठीक है",
+     "hg": "'No' bolna okay hai"
+    },
+    "text": {
+     "en": "You can say 'No, thank you' to a hug, a kiss or a tickle, even to grown-ups.",
+     "hi": "गले लगने, पप्पी या गुदगुदी के लिए तुम 'नहीं, धन्यवाद' कह सकते हो, बड़ों से भी।",
+     "hg": "Hug, pappi ya gudgudi ke liye tum 'Nahi, thank you' bol sakte ho, badon se bhi."
+    }
+   },
+   {
+    "icon": "ask",
+    "label": {
+     "en": "Ask first",
+     "hi": "पहले पूछो",
+     "hg": "Pehle poocho"
+    },
+    "text": {
+     "en": "Ask, 'Can I hug you?' If your friend says no, stop.",
+     "hi": "पूछो, 'क्या मैं तुम्हें गले लगा लूँ?' दोस्त 'ना' कहे, तो रुक जाओ।",
+     "hg": "Poocho, 'Kya main tumhe hug kar loon?' Dost 'no' bole, toh ruk jao."
+    }
+   },
+   {
+    "icon": "lock",
+    "label": {
+     "en": "Private parts stay private",
+     "hi": "निजी अंग निजी रहते हैं",
+     "hg": "Private parts private rehte hain"
+    },
+    "text": {
+     "en": "Parts under your underwear are private. Nobody should touch them or ask to see them.",
+     "hi": "चड्डी से ढके अंग निजी हैं। कोई उन्हें न छुए, न देखने को कहे।",
+     "hg": "Underwear se dhake parts private hain. Koi unhe touch na kare, na dekhne ko bole."
+    }
+   },
+   {
+    "icon": "talk",
+    "label": {
+     "en": "Tell a grown-up",
+     "hi": "किसी बड़े को बताओ",
+     "hg": "Kisi bade ko batao"
+    },
+    "text": {
+     "en": "Does a secret feel scary or yucky? Tell a grown-up you trust. It is never your fault.",
+     "hi": "कोई राज़ डरावना या गंदा-सा लगे? किसी भरोसेमंद बड़े को बताओ। इसमें तुम्हारी ग़लती कभी नहीं होती।",
+     "hg": "Koi secret darawna ya ganda-sa lage? Kisi bharosemand bade ko batao. Isme tumhari galti kabhi nahi hoti."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d05-l02",
+  "type": "steps",
+  "title": {
+   "en": "Ask, listen and respect a no",
+   "hi": "पूछो, सुनो और 'ना' का सम्मान करो",
+   "hg": "Poocho, suno aur 'no' ki respect karo"
+  },
+  "items": [
+   {
+    "icon": "ask",
+    "label": {
+     "en": "Ask first",
+     "hi": "पहले पूछो",
+     "hg": "Pehle poocho"
+    },
+    "text": {
+     "en": "Before doing something that affects someone, ask: 'Can I borrow your pen?' 'Can I post this photo?'",
+     "hi": "किसी पर असर डालने वाला काम करने से पहले पूछो: 'क्या मैं तुम्हारा पेन ले लूँ?' 'क्या मैं यह फ़ोटो पोस्ट करूँ?'",
+     "hg": "Kisi par asar daalne wala kaam karne se pehle poocho: 'Kya main tumhara pen le loon?' 'Kya main yeh photo post karoon?'"
+    }
+   },
+   {
+    "icon": "listen",
+    "label": {
+     "en": "Wait for a real yes",
+     "hi": "सच्ची 'हाँ' का इंतज़ार करो",
+     "hg": "Real yes ka wait karo"
+    },
+    "text": {
+     "en": "A real yes is free and happy. A shrug, silence or 'umm, okay' after begging is not.",
+     "hi": "सच्ची 'हाँ' अपनी मर्ज़ी और ख़ुशी से आती है। कंधे उचकाना, चुप्पी या बहुत मनाने के बाद 'अम्म, ठीक है' सच्ची 'हाँ' नहीं है।",
+     "hg": "Real yes apni marzi aur khushi se aati hai. Shrug, chuppi ya bahut manane ke baad 'umm, okay' real yes nahi hai."
+    }
+   },
+   {
+    "icon": "stop",
+    "label": {
+     "en": "Stop when they say stop",
+     "hi": "'रुको' सुनते ही रुको",
+     "hg": "'Stop' sunte hi ruko"
+    },
+    "text": {
+     "en": "A yes can change. If someone says stop in the middle, the game ends right there.",
+     "hi": "'हाँ' बदल सकती है। कोई बीच में 'रुको' कहे, तो खेल वहीं ख़त्म।",
+     "hg": "Yes badal sakti hai. Koi beech mein 'stop' bole, toh game wahin khatam."
+    }
+   },
+   {
+    "icon": "calm",
+    "label": {
+     "en": "Take a no calmly",
+     "hi": "'ना' को शांति से लो",
+     "hg": "'No' ko calmly lo"
+    },
+    "text": {
+     "en": "Say 'okay' and move on. No sulking, teasing or asking again.",
+     "hi": "'ठीक है' कहो और आगे बढ़ो। न मुँह फुलाना, न चिढ़ाना, न बार-बार पूछना।",
+     "hg": "'Okay' bolo aur aage badho. Na muh phulana, na tease karna, na baar-baar poochna."
+    }
+   },
+   {
+    "icon": "shield",
+    "label": {
+     "en": "Say your own no clearly",
+     "hi": "अपनी 'ना' साफ़ कहो",
+     "hg": "Apna 'no' clearly bolo"
+    },
+    "text": {
+     "en": "'No. Stop. I don't like it.' Tricks, gifts or secrets? Tell a trusted adult or call 1098.",
+     "hi": "'नहीं। रुको। मुझे यह पसंद नहीं।' चालाकी, तोहफ़े या राज़? किसी भरोसेमंद बड़े को बताओ या 1098 पर कॉल करो।",
+     "hg": "'Nahi. Ruko. Mujhe yeh pasand nahi.' Tricks, gifts ya secrets? Kisi trusted adult ko batao ya 1098 pe call karo."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d05-l03",
+  "type": "grid",
+  "title": {
+   "en": "What makes consent real",
+   "hi": "सहमति कब असली होती है",
+   "hg": "Consent real kab hota hai"
+  },
+  "items": [
+   {
+    "icon": "yes",
+    "label": {
+     "en": "Freely given",
+     "hi": "अपनी मर्ज़ी से",
+     "hg": "Apni marzi se"
+    },
+    "text": {
+     "en": "No pressure, threats or guilt. A yes squeezed out by pressure does not count.",
+     "hi": "न दबाव, न धमकी, न अपराध-बोध। दबाव से निकलवाई गई 'हाँ' नहीं गिनी जाती।",
+     "hg": "Na pressure, na dhamki, na guilt. Pressure se nikalwayi gayi yes count nahi hoti."
+    }
+   },
+   {
+    "icon": "info",
+    "label": {
+     "en": "Informed",
+     "hi": "जानकारी के साथ",
+     "hg": "Informed"
+    },
+    "text": {
+     "en": "You know exactly what you are agreeing to.",
+     "hi": "तुम्हें ठीक-ठीक पता है कि तुम किस बात के लिए 'हाँ' कह रहे हो।",
+     "hg": "Tumhe exactly pata hai ki tum kis baat ke liye yes bol rahe ho."
+    }
+   },
+   {
+    "icon": "target",
+    "label": {
+     "en": "Specific",
+     "hi": "किसी एक बात के लिए",
+     "hg": "Specific"
+    },
+    "text": {
+     "en": "Yes to one thing is not yes to everything.",
+     "hi": "एक चीज़ के लिए 'हाँ' हर चीज़ के लिए 'हाँ' नहीं है।",
+     "hg": "Ek cheez ke liye yes har cheez ke liye yes nahi hai."
+    }
+   },
+   {
+    "icon": "check",
+    "label": {
+     "en": "Clearly willing",
+     "hi": "साफ़ रज़ामंदी",
+     "hg": "Clearly willing"
+    },
+    "text": {
+     "en": "Silence, 'maybe', a nervous laugh or freezing is not a yes.",
+     "hi": "चुप्पी, 'शायद', घबराई हुई हँसी या सुन्न पड़ जाना 'हाँ' नहीं है।",
+     "hg": "Chuppi, 'maybe', nervous hansi ya freeze ho jaana yes nahi hai."
+    }
+   },
+   {
+    "icon": "stop",
+    "label": {
+     "en": "Reversible",
+     "hi": "कभी भी वापस ली जा सकती है",
+     "hg": "Reversible"
+    },
+    "text": {
+     "en": "Anyone can change their mind at any moment, and then the other person must stop.",
+     "hi": "कोई भी किसी भी पल अपना मन बदल सकता है, और तब सामने वाले को रुकना ही होगा।",
+     "hg": "Koi bhi kisi bhi pal apna mann badal sakta hai, aur tab saamne wale ko rukna hi hoga."
+    }
+   },
+   {
+    "icon": "law",
+    "label": {
+     "en": "Under 18 in India",
+     "hi": "भारत में 18 से कम उम्र",
+     "hg": "India mein 18 se kam umar"
+    },
+    "text": {
+     "en": "Under POCSO, a person under 18 cannot legally consent to sexual activity. Waiting is always valid.",
+     "hi": "पॉक्सो के तहत 18 से कम उम्र का व्यक्ति यौन गतिविधि के लिए क़ानूनी सहमति नहीं दे सकता। इंतज़ार करना हमेशा सही है।",
+     "hg": "POCSO ke under 18 se kam umar ka person sexual activity ke liye legally consent nahi de sakta. Wait karna hamesha valid hai."
+    }
+   }
+  ]
+ },
+ {
+  "lesson": "d05-l04",
+  "type": "compare",
+  "title": {
+   "en": "Is the yes really free?",
+   "hi": "क्या यह 'हाँ' सच में आज़ाद है?",
+   "hg": "Kya yeh yes sach mein free hai?"
+  },
+  "left": {
+   "title": {
+    "en": "A free yes",
+    "hi": "आज़ाद 'हाँ'",
+    "hg": "Free yes"
+   },
+   "tone": "good",
+   "icon": "check",
+   "points": [
+    {
+     "en": "Both people can refuse without losing marks, money or safety",
+     "hi": "दोनों बिना नंबर, पैसा या सुरक्षा खोए मना कर सकते हैं",
+     "hg": "Dono bina marks, paisa ya safety khoye mana kar sakte hain"
+    },
+    {
+     "en": "Both are sober enough to understand and choose",
+     "hi": "दोनों इतने होश में हैं कि समझ सकें और चुन सकें",
+     "hg": "Dono itne hosh mein hain ki samajh sakein aur choose kar sakein"
+    },
+    {
+     "en": "Each new step gets its own free yes",
+     "hi": "हर नए क़दम के लिए अलग से आज़ाद 'हाँ'",
+     "hg": "Har naye step ke liye alag se free yes"
+    }
+   ]
+  },
+  "right": {
+   "title": {
+    "en": "Not a free yes",
+    "hi": "आज़ाद 'हाँ' नहीं",
+    "hg": "Free yes nahi"
+   },
+   "tone": "bad",
+   "icon": "cross",
+   "points": [
+    {
+     "en": "Refusing a teacher, coach or boss could cost you",
+     "hi": "टीचर, कोच या बॉस को मना करना महँगा पड़ सकता है",
+     "hg": "Teacher, coach ya boss ko mana karna mehenga pad sakta hai"
+    },
+    {
+     "en": "Gifts, flirting or a visit treated as 'you owe me'",
+     "hi": "तोहफ़े, फ़्लर्टिंग या घर आने को 'अब तुम पर उधार है' मान लेना",
+     "hg": "Gifts, flirting ya ghar aane ko 'ab tum par udhaar hai' maan lena"
+    },
+    {
+     "en": "Someone heavily drunk, drugged or unable to speak clearly",
+     "hi": "बहुत ज़्यादा नशे में डूबा या साफ़ बोल न पाने वाला व्यक्ति",
+     "hg": "Bahut zyada nashe mein ya saaf bol na paane wala insaan"
+    },
+    {
+     "en": "Under 18: no legal consent under POCSO; their sexual images are illegal to keep or forward",
+     "hi": "18 से कम: पॉक्सो के तहत क़ानूनी सहमति नहीं; उनकी यौन तस्वीरें रखना या आगे भेजना ग़ैर-क़ानूनी है",
+     "hg": "18 se kam: POCSO ke under legal consent nahi; unki sexual images rakhna ya forward karna illegal hai"
+    }
+   ]
+  }
+ },
+ {
+  "lesson": "d05-l05",
+  "type": "compare",
+  "title": {
+   "en": "Consent between adults, every time",
+   "hi": "वयस्कों के बीच सहमति, हर बार",
+   "hg": "Adults ke beech consent, har baar"
+  },
+  "left": {
+   "title": {
+    "en": "Consent is",
+    "hi": "सहमति है",
+    "hg": "Consent hai"
+   },
+   "tone": "good",
+   "icon": "check",
+   "points": [
+    {
+     "en": "A clear yes each time, for each activity",
+     "hi": "हर बार, हर गतिविधि के लिए साफ़ 'हाँ'",
+     "hg": "Har baar, har activity ke liye clear yes"
+    },
+    {
+     "en": "Checking in with 'Is this okay?' and watching body language",
+     "hi": "बीच-बीच में 'क्या यह ठीक है?' पूछना और हाव-भाव पर ध्यान देना",
+     "hg": "Beech-beech mein 'Yeh okay hai?' poochna aur body language pe dhyaan dena"
+    },
+    {
+     "en": "Given by someone sober enough to understand and choose",
+     "hi": "ऐसे व्यक्ति की 'हाँ' जो समझने और चुनने लायक़ होश में हो",
+     "hg": "Aise insaan ki yes jo samajhne aur choose karne layak hosh mein ho"
+    },
+    {
+     "en": "Stopping at once when a partner says stop",
+     "hi": "पार्टनर के 'रुको' कहते ही फ़ौरन रुक जाना",
+     "hg": "Partner ke 'stop' bolte hi turant ruk jaana"
+    }
+   ]
+  },
+  "right": {
+   "title": {
+    "en": "Not consent",
+    "hi": "सहमति नहीं",
+    "hg": "Consent nahi"
+   },
+   "tone": "bad",
+   "icon": "cross",
+   "points": [
+    {
+     "en": "'We're married' or 'you said yes last night'",
+     "hi": "'हमारी शादी हुई है' या 'कल रात तो हाँ कहा था'",
+     "hg": "'Hum married hain' ya 'kal raat toh yes bola tha'"
+    },
+    {
+     "en": "Removing a condom without your partner knowing",
+     "hi": "पार्टनर को बताए बिना कंडोम हटा देना",
+     "hg": "Partner ko bataye bina condom hata dena"
+    },
+    {
+     "en": "A yes from someone slurring, stumbling or drifting off",
+     "hi": "लड़खड़ाती ज़बान, डगमगाते क़दम या नींद में ढुलकते व्यक्ति की 'हाँ'",
+     "hg": "Ladkhadaati zubaan, dagmagaate kadam ya neend mein dhulakte insaan ki yes"
+    },
+    {
+     "en": "Sulking or bargaining after 'not today'",
+     "hi": "'आज नहीं' के बाद मुँह फुलाना या मोलभाव करना",
+     "hg": "'Aaj nahi' ke baad muh phulana ya bargain karna"
+    }
+   ]
+  }
+ },
+ {
+  "lesson": "d05-l06",
+  "type": "steps",
+  "title": {
+   "en": "If someone tells you they were harmed",
+   "hi": "जब कोई बताए कि उसके साथ ग़लत हुआ",
+   "hg": "Jab koi bataye ki uske saath galat hua"
+  },
+  "items": [
+   {
+    "icon": "listen",
+    "label": {
+     "en": "Listen and believe",
+     "hi": "सुनिए और यक़ीन कीजिए",
+     "hg": "Suno aur yakeen karo"
+    },
+    "text": {
+     "en": "Stay calm. Say: 'I believe you. It's not your fault. Thank you for telling me.'",
+     "hi": "शांत रहिए। कहिए: 'मुझे तुम्हारी बात पर यक़ीन है। यह तुम्हारी ग़लती नहीं है। बताने के लिए शुक्रिया।'",
+     "hg": "Calm raho. Bolo: 'Mujhe tumhari baat pe yakeen hai. Yeh tumhari galti nahi hai. Batane ke liye thank you.'"
+    }
+   },
+   {
+    "icon": "cross",
+    "label": {
+     "en": "No blame, no pushing",
+     "hi": "न दोष, न कुरेदना",
+     "hg": "Na blame, na kuredna"
+    },
+    "text": {
+     "en": "Skip 'why' questions, do not push for details, and do not confront the person who did it.",
+     "hi": "'क्यों' वाले सवाल मत पूछिए, ब्योरे के लिए ज़ोर मत डालिए, और जिसने यह किया उससे ख़ुद मत भिड़िए।",
+     "hg": "'Kyun' wale sawaal mat poocho, details ke liye force mat karo, aur jisne yeh kiya usse khud confront mat karo."
+    }
+   },
+   {
+    "icon": "support",
+    "label": {
+     "en": "Be honest about secrecy",
+     "hi": "राज़ के बारे में सच बोलिए",
+     "hg": "Secrecy pe honest raho"
+    },
+    "text": {
+     "en": "If they are under 18 or in danger, do not promise secrecy. Stay with them while you tell someone who can help.",
+     "hi": "अगर वे 18 से कम हैं या ख़तरे में हैं, तो राज़ रखने का वादा मत कीजिए। मदद कर सकने वाले किसी व्यक्ति को बताते समय उनके साथ रहिए।",
+     "hg": "Agar woh 18 se kam hain ya danger mein hain, toh secret rakhne ka promise mat karo. Help kar sakne wale kisi insaan ko batate waqt unke saath raho."
+    }
+   },
+   {
+    "icon": "call",
+    "label": {
+     "en": "Call for help",
+     "hi": "मदद के लिए कॉल कीजिए",
+     "hg": "Help ke liye call karo"
+    },
+    "text": {
+     "en": "In danger: 112. Under 18: 1098. Women: 181. Online abuse: 1930 or cybercrime.gov.in.",
+     "hi": "ख़तरे में: 112। 18 से कम: 1098। महिलाएँ: 181। ऑनलाइन दुर्व्यवहार: 1930 या cybercrime.gov.in।",
+     "hg": "Danger mein: 112. 18 se kam: 1098. Women: 181. Online abuse: 1930 ya cybercrime.gov.in."
+    }
+   },
+   {
+    "icon": "hospital",
+    "label": {
+     "en": "See a doctor quickly",
+     "hi": "जल्दी डॉक्टर के पास जाइए",
+     "hg": "Jaldi doctor ke paas jao"
+    },
+    "text": {
+     "en": "Go even with no visible injury. HIV-prevention medicine must start within 72 hours; emergency contraception works up to 5 days.",
+     "hi": "चोट न दिखे तब भी जाइए। एचआईवी से बचाव की दवा 72 घंटे के अंदर शुरू होनी चाहिए; इमरजेंसी गर्भनिरोधक 5 दिन तक काम करता है।",
+     "hg": "Chot na dikhe tab bhi jao. HIV-prevention medicine 72 ghante ke andar shuru honi chahiye; emergency contraception 5 din tak kaam karta hai."
+    }
+   }
+  ]
+ }
+]

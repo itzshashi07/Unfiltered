@@ -1,0 +1,257 @@
+[
+ {
+  "id": "d03-m01",
+  "domain": "d03",
+  "tracks": [
+   "B",
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women",
+   "everyone"
+  ],
+  "body": [
+   "menstrual"
+  ],
+  "claim": {
+   "en": "Period blood is dirty, impure blood that the body is throwing out.",
+   "hi": "पीरियड का खून गंदा, अशुद्ध खून होता है जिसे शरीर बाहर फेंकता है।",
+   "hg": "Period ka blood ganda, impure blood hota hai jo body bahar phenkti hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Menstrual blood is ordinary blood mixed with tissue from the uterus lining and normal vaginal fluid. It is not toxic, not waste the body needed to purge, and it carries no special germs. It does not make a person, food, water or a place impure. The slight smell comes from blood meeting air and skin bacteria, the same as any blood.",
+   "hi": "माहवारी का खून साधारण खून ही है, जिसमें गर्भाशय की परत का ऊतक और योनि का सामान्य तरल मिला होता है। यह ज़हरीला नहीं है, शरीर का कोई ऐसा कचरा नहीं जिसे निकालना ज़रूरी हो, और इसमें कोई ख़ास कीटाणु नहीं होते। इससे कोई इंसान, खाना, पानी या जगह अपवित्र नहीं होती। हल्की गंध खून के हवा और त्वचा के बैक्टीरिया से मिलने पर आती है, जैसा किसी भी खून के साथ होता है।",
+   "hg": "Period blood ordinary blood hi hai, jisme uterus ki lining ka tissue aur vagina ka normal fluid mila hota hai. Yeh toxic nahi hai, body ka koi aisa waste nahi jise nikaalna zaroori ho, aur isme koi special germs nahi hote. Isse koi insaan, khana, paani ya jagah impure nahi hoti. Halki smell blood ke hawa aur skin bacteria se milne par aati hai, jaisa kisi bhi blood ke saath hota hai."
+  },
+  "why": {
+   "en": "For centuries nobody could see what happened inside the uterus, so bleeding without a wound seemed mysterious, and many cultures around the world explained it as cleansing. The belief was passed down as care and habit.",
+   "hi": "सदियों तक कोई नहीं देख सकता था कि गर्भाशय के अंदर क्या होता है, इसलिए बिना घाव के खून आना रहस्य जैसा लगता था, और दुनिया भर की कई संस्कृतियों ने इसे शरीर की सफ़ाई मान लिया। यह मान्यता फ़िक्र और आदत के तौर पर पीढ़ी-दर-पीढ़ी चलती रही।",
+   "hg": "Sadiyon tak koi nahi dekh sakta tha ki uterus ke andar kya hota hai, isliye bina ghaav ke bleeding ek mystery lagti thi, aur duniya bhar ke kai cultures ne ise body ki safai maan liya. Yeh belief care aur aadat ke roop mein generation-dar-generation chalta raha."
+  },
+  "refs": [
+   "nhs-periods",
+   "unesco-itgse"
+  ],
+  "lesson": "d03-l01"
+ },
+ {
+  "id": "d03-m02",
+  "domain": "d03",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "women",
+   "everyone"
+  ],
+  "body": [
+   "menstrual"
+  ],
+  "claim": {
+   "en": "If someone on her period touches pickle, it will spoil.",
+   "hi": "पीरियड में कोई अचार छू ले तो अचार ख़राब हो जाता है।",
+   "hg": "Period mein koi achaar chhoo le toh achaar kharab ho jaata hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Pickle spoils when moisture, unclean spoons or air let microbes grow. A menstruating person's hands carry nothing different from anyone else's hands, and periods do not release anything through the skin. Clean, dry hands and a dry spoon keep pickle safe on every day of the month, no matter who touches the jar.",
+   "hi": "अचार तब ख़राब होता है जब नमी, गंदे चम्मच या हवा की वजह से उसमें सूक्ष्म जीव पनपने लगते हैं। पीरियड वाले व्यक्ति के हाथों में ऐसा कुछ नहीं होता जो किसी और के हाथों में न हो, और पीरियड में त्वचा से कुछ नहीं निकलता। साफ़, सूखे हाथ और सूखा चम्मच अचार को महीने के हर दिन सुरक्षित रखते हैं, मर्तबान चाहे कोई भी छुए।",
+   "hg": "Achaar tab kharab hota hai jab nami, gande chammach ya hawa ki wajah se usme microbes panapne lagte hain. Period wale insaan ke haathon mein aisa kuch nahi hota jo kisi aur ke haathon mein na ho, aur period mein skin se kuch nahi nikalta. Clean, sookhe haath aur sookha chammach achaar ko mahine ke har din safe rakhte hain, jar chahe koi bhi chhue."
+  },
+  "why": {
+   "en": "Pickles were precious and spoiled easily before refrigerators, and periods were poorly understood, so the two got linked. Elders usually repeat the rule because it was taught to them, not to hurt anyone.",
+   "hi": "फ़्रिज आने से पहले अचार क़ीमती होता था और जल्दी ख़राब हो जाता था, और पीरियड के बारे में समझ कम थी, इसलिए दोनों को जोड़ दिया गया। बड़े-बुज़ुर्ग यह नियम अक्सर इसलिए दोहराते हैं कि उन्हें यही सिखाया गया था, किसी को दुख देने के लिए नहीं।",
+   "hg": "Fridge aane se pehle achaar precious hota tha aur jaldi kharab ho jaata tha, aur periods ke baare mein samajh kam thi, isliye dono ko jod diya gaya. Bade-buzurg yeh rule aksar isliye repeat karte hain ki unhe yahi sikhaya gaya tha, kisi ko hurt karne ke liye nahi."
+  },
+  "refs": [
+   "unesco-itgse",
+   "nhm-rksk"
+  ],
+  "lesson": "d03-l02"
+ },
+ {
+  "id": "d03-m03",
+  "domain": "d03",
+  "tracks": [
+   "B",
+   "C",
+   "D"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "menstrual"
+  ],
+  "claim": {
+   "en": "You should not exercise, bathe or wash your hair during periods.",
+   "hi": "पीरियड में कसरत नहीं करनी चाहिए, नहाना नहीं चाहिए और बाल नहीं धोने चाहिए।",
+   "hg": "Period mein exercise nahi karni chahiye, nahana nahi chahiye aur baal nahi dhone chahiye."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Bathing keeps the body clean, and warm water relaxes cramping muscles. Washing hair does not stop or increase bleeding. Exercise is safe and often reduces pain and lifts mood by releasing the body's natural pain-relieving chemicals. The only limit is how you feel: resting on a painful day is fine, and so is playing a full match.",
+   "hi": "नहाने से शरीर साफ़ रहता है, और गुनगुना पानी ऐंठती मांसपेशियों को ढीला करता है। बाल धोने से खून न रुकता है, न बढ़ता है। कसरत सुरक्षित है और अक्सर दर्द घटाती और मूड बेहतर करती है, क्योंकि इससे शरीर के अपने दर्द कम करने वाले रसायन निकलते हैं। सीमा बस यही है कि आपको कैसा लग रहा है: दर्द वाले दिन आराम करना ठीक है, और पूरा मैच खेलना भी।",
+   "hg": "Nahane se body clean rehti hai, aur gungune paani se cramp karti muscles relax hoti hain. Baal dhone se bleeding na rukti hai, na badhti hai. Exercise safe hai aur aksar pain kam karti aur mood better karti hai, kyunki isse body ke apne pain-relieving chemicals release hote hain. Limit bas yahi hai ki aapko kaisa feel ho raha hai: dard wale din rest karna theek hai, aur poora match khelna bhi."
+  },
+  "why": {
+   "en": "When homes had no private bathrooms or pads, resting and avoiding water were practical ways to manage bleeding. The practical advice slowly hardened into a rule about what girls must not do.",
+   "hi": "जब घरों में न निजी स्नानघर थे, न पैड, तब आराम करना और पानी से दूर रहना खून संभालने के व्यावहारिक तरीक़े थे। वही व्यावहारिक सलाह धीरे-धीरे इस नियम में बदल गई कि लड़कियों को क्या-क्या नहीं करना चाहिए।",
+   "hg": "Jab gharon mein na private bathroom the, na pads, tab rest karna aur paani se door rehna bleeding manage karne ke practical tareeke the. Wahi practical advice dheere-dheere is rule mein badal gayi ki ladkiyon ko kya-kya nahi karna chahiye."
+  },
+  "refs": [
+   "nhs-periods",
+   "nhm-rksk"
+  ],
+  "lesson": "d03-l02"
+ },
+ {
+  "id": "d03-m04",
+  "domain": "d03",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "menstrual",
+   "vulva_vaginal"
+  ],
+  "claim": {
+   "en": "Tampons and menstrual cups are only for married women because they affect virginity.",
+   "hi": "टैम्पोन और मेंस्ट्रुअल कप सिर्फ़ शादीशुदा औरतों के लिए हैं, क्योंकि इनसे वर्जिनिटी पर असर पड़ता है।",
+   "hg": "Tampons aur menstrual cups sirf married women ke liye hain, kyunki inse virginity pe asar padta hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Anyone who menstruates can use a tampon or cup once they are comfortable inserting one. The hymen is stretchy tissue with a natural opening; it varies widely and cannot prove anything about sexual history. Virginity is not a medical state, so no product can change it. The real safety rules are clean hands and changing on time.",
+   "hi": "जिसे भी पीरियड आते हैं, वह टैम्पोन या कप इस्तेमाल कर सकता है, बस उसे लगाने में सहज होना चाहिए। हाइमन खिंचने वाला ऊतक है जिसमें क़ुदरती तौर पर रास्ता होता है; यह हर किसी में बहुत अलग होता है और यौन इतिहास के बारे में कुछ भी साबित नहीं कर सकता। वर्जिनिटी कोई डॉक्टरी अवस्था नहीं है, इसलिए कोई प्रोडक्ट इसे बदल नहीं सकता। सुरक्षा के असली नियम हैं साफ़ हाथ और समय पर बदलना।",
+   "hg": "Jise bhi periods aate hain, woh tampon ya cup use kar sakta hai, bas use lagane mein comfortable hona chahiye. Hymen stretchy tissue hai jisme naturally ek opening hoti hai; yeh har kisi mein bahut alag hota hai aur sexual history ke baare mein kuch bhi prove nahi kar sakta. Virginity koi medical state nahi hai, isliye koi product ise change nahi kar sakta. Safety ke real rules hain clean haath aur time pe change karna."
+  },
+  "why": {
+   "en": "Many families treat the hymen as proof of a girl's character, so anything placed in the vagina causes worry. The fear comes from concern about reputation, not from anatomy.",
+   "hi": "बहुत से परिवार हाइमन को लड़की के चरित्र का सबूत मानते हैं, इसलिए योनि में रखी जाने वाली हर चीज़ चिंता पैदा करती है। यह डर इज़्ज़त की फ़िक्र से आता है, शरीर की बनावट की जानकारी से नहीं।",
+   "hg": "Bahut si families hymen ko ladki ke character ka proof maanti hain, isliye vagina mein rakhi jaane wali har cheez tension deti hai. Yeh darr izzat ki fikar se aata hai, anatomy ki jaankari se nahi."
+  },
+  "refs": [
+   "who-sexual-health",
+   "nhs-periods"
+  ],
+  "lesson": "d03-l05"
+ },
+ {
+  "id": "d03-m05",
+  "domain": "d03",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "menstrual",
+   "pregnancy_repro"
+  ],
+  "claim": {
+   "en": "Pregnancy cannot happen from sex during a period.",
+   "hi": "पीरियड के दौरान सेक्स से गर्भ नहीं ठहर सकता।",
+   "hg": "Period ke dauraan sex se pregnancy nahi ho sakti."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Pregnancy is less likely then, but it is possible. Sperm can live inside the body for several days, and in a short or irregular cycle ovulation may follow soon after bleeding ends. Bleeding around ovulation can also be mistaken for a period. No day of the cycle is guaranteed safe, so calendar counting is not reliable contraception.",
+   "hi": "उन दिनों गर्भ ठहरने की संभावना कम होती है, पर होती ज़रूर है। शुक्राणु शरीर के अंदर कई दिन ज़िंदा रह सकते हैं, और छोटे या अनियमित चक्र में खून रुकने के कुछ ही समय बाद ओव्यूलेशन हो सकता है। ओव्यूलेशन के आसपास आने वाले खून को भी ग़लती से पीरियड समझ लिया जाता है। चक्र का कोई भी दिन पक्का 'सेफ़' नहीं है, इसलिए कैलेंडर गिनना भरोसेमंद गर्भनिरोध नहीं है।",
+   "hg": "Un dino pregnancy ke chances kam hote hain, par hote zaroor hain. Sperm body ke andar kai din zinda reh sakte hain, aur short ya irregular cycle mein bleeding rukne ke kuch hi time baad ovulation ho sakta hai. Ovulation ke aas-paas hone wali bleeding ko bhi galti se period samajh liya jaata hai. Cycle ka koi bhi din guaranteed 'safe' nahi hai, isliye calendar ginna reliable contraception nahi hai."
+  },
+  "why": {
+   "en": "Textbook diagrams show ovulation neatly on day 14 of a 28-day cycle, which makes the bleeding days look far from the fertile time. Real bodies rarely follow that tidy diagram.",
+   "hi": "किताबों के चित्र 28 दिन के चक्र में ओव्यूलेशन को ठीक 14वें दिन दिखाते हैं, जिससे खून आने के दिन गर्भ ठहरने वाले समय से बहुत दूर लगते हैं। असली शरीर शायद ही कभी उस साफ़-सुथरे चित्र के हिसाब से चलते हैं।",
+   "hg": "Textbook diagrams 28 din ke cycle mein ovulation ko neatly day 14 pe dikhate hain, jisse bleeding ke din fertile time se bahut door lagte hain. Real bodies shayad hi kabhi us tidy diagram ke hisaab se chalti hain."
+  },
+  "refs": [
+   "who-fp",
+   "nhs-periods"
+  ],
+  "lesson": "d03-l03"
+ },
+ {
+  "id": "d03-m06",
+  "domain": "d03",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "menstrual"
+  ],
+  "claim": {
+   "en": "Exam stress can make a period come late.",
+   "hi": "परीक्षा के तनाव से पीरियड देर से आ सकता है।",
+   "hg": "Exam stress se period late aa sakta hai."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. The brain region that controls the cycle, the hypothalamus, also responds to stress. Strong physical or emotional stress, poor sleep, illness, sudden weight change or very hard training can delay the hormone signal for ovulation, and a later ovulation means a later period. The cycle usually returns once things settle. Stress is not the only cause: after sex or genital contact, take a pregnancy test first. A gap of three months or more needs a doctor.",
+   "hi": "सही है। दिमाग़ का जो हिस्सा चक्र को चलाता है, यानी हाइपोथैलेमस, वही तनाव पर भी प्रतिक्रिया करता है। तेज़ शारीरिक या मानसिक तनाव, कम नींद, बीमारी, अचानक वज़न बदलना या बहुत कड़ी ट्रेनिंग ओव्यूलेशन के हार्मोन संकेत को देर से भेज सकती है, और ओव्यूलेशन देर से हो तो पीरियड भी देर से आता है। हालात सँभलने पर चक्र आम तौर पर लौट आता है। पर तनाव अकेली वजह नहीं है: अगर सेक्स या जननांगों का संपर्क हुआ है, तो पहले प्रेगनेंसी टेस्ट कीजिए। तीन महीने या उससे ज़्यादा का अंतर हो तो डॉक्टर को दिखाना ज़रूरी है।",
+   "hg": "Sahi hai. Brain ka jo part cycle control karta hai, yaani hypothalamus, wahi stress pe bhi react karta hai. Strong physical ya emotional stress, kam neend, bimari, achanak weight change ya bahut hard training ovulation ke hormone signal ko delay kar sakti hai, aur ovulation late ho toh period bhi late aata hai. Cheezein settle hone par cycle usually wapas aa jaata hai. Par stress akela reason nahi hai: agar sex ya genital contact hua hai, toh pehle pregnancy test karo. Teen mahine ya usse zyada ka gap ho toh doctor ko dikhana zaroori hai."
+  },
+  "why": {
+   "en": "People often notice it during board exams, hostel shifts or family crises and wonder whether it is coincidence. It is a real mind-body link, though it gets blamed for every late period.",
+   "hi": "लोग अक्सर बोर्ड परीक्षा, हॉस्टल में जाने या परिवार की किसी मुश्किल के समय यह देखते हैं और सोचते हैं कि कहीं यह संयोग तो नहीं। यह दिमाग़ और शरीर का असली रिश्ता है, हालाँकि हर लेट पीरियड का दोष इसी पर डाल दिया जाता है।",
+   "hg": "Log aksar board exams, hostel shift ya family crisis ke time yeh notice karte hain aur sochte hain ki kahin coincidence toh nahi. Yeh mind aur body ka real link hai, halaanki har late period ka blame isi pe daal diya jaata hai."
+  },
+  "refs": [
+   "nhs-periods",
+   "who-adolescent-mh"
+  ],
+  "lesson": "d03-l06"
+ },
+ {
+  "id": "d03-m07",
+  "domain": "d03",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "menstrual"
+  ],
+  "claim": {
+   "en": "Period pain is normal, so you just have to bear it.",
+   "hi": "पीरियड का दर्द तो सामान्य है, बस सहना पड़ता है।",
+   "hg": "Period pain toh normal hai, bas sehna padta hai."
+  },
+  "verdict": "partly",
+  "fact": {
+   "en": "Partly true. Mild to moderate cramps in the first one or two days are common and caused by prostaglandins. But pain that makes you miss school or work, causes vomiting or fainting, or keeps worsening is not something to accept as normal. It can signal conditions such as endometriosis and should be evaluated by a doctor.",
+   "hi": "आधा सच। पहले एक-दो दिन हल्की से मध्यम ऐंठन आम है और प्रोस्टाग्लैंडिन की वजह से होती है। पर जो दर्द स्कूल या काम छुड़वा दे, जिससे उल्टी या बेहोशी हो, या जो बढ़ता ही जाए, उसे सामान्य मानकर नहीं सहना चाहिए। यह एंडोमेट्रियोसिस जैसी समस्याओं का संकेत हो सकता है और इसकी डॉक्टर से जाँच होनी चाहिए।",
+   "hg": "Aadha sach. Pehle ek-do din mild se moderate cramps common hain aur prostaglandins ki wajah se hote hain. Par jo pain school ya kaam miss karwa de, jisse ulti ya behoshi ho, ya jo badhta hi jaye, use normal maankar nahi sehna chahiye. Yeh endometriosis jaisi conditions ka sign ho sakta hai aur iska doctor se check-up hona chahiye."
+  },
+  "why": {
+   "en": "Because most people who menstruate have some cramps, families and even some health workers assume all period pain is the same and tell girls to tolerate it, as earlier generations were told.",
+   "hi": "चूँकि पीरियड वाले ज़्यादातर लोगों को थोड़ी-बहुत ऐंठन होती है, इसलिए परिवार और कभी-कभी स्वास्थ्यकर्मी भी मान लेते हैं कि हर दर्द एक जैसा है, और लड़कियों से सहने को कहते हैं, जैसा पिछली पीढ़ियों से कहा गया था।",
+   "hg": "Kyunki periods wale zyadatar logon ko thode-bahut cramps hote hain, isliye families aur kabhi-kabhi health workers bhi maan lete hain ki har pain same hai, aur ladkiyon ko sehne ko bolte hain, jaisa pichhli generations ko bola gaya tha."
+  },
+  "refs": [
+   "nhs-periods",
+   "who-endometriosis"
+  ],
+  "lesson": "d03-l04"
+ }
+]

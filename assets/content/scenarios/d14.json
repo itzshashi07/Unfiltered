@@ -1,0 +1,539 @@
+[
+ {
+  "id": "d14-s1",
+  "domain": "d14",
+  "module": "consent",
+  "tracks": [
+   "A"
+  ],
+  "title": {
+   "en": "The Secret Terrace Game",
+   "hi": "छत वाला सीक्रेट गेम",
+   "hg": "Terrace wala Secret Game"
+  },
+  "intro": {
+   "en": "Pihu is six. She is playing downstairs when an older boy from her building comes to talk to her.",
+   "hi": "पीहू छह साल की है। वह नीचे खेल रही है, तभी बिल्डिंग का एक बड़ा लड़का उससे बात करने आता है।",
+   "hg": "Pihu chhe saal ki hai. Woh neeche khel rahi hai, tabhi building ka ek bada ladka usse baat karne aata hai."
+  },
+  "sensitive": true,
+  "start": "n1",
+  "nodes": {
+   "n1": {
+    "text": {
+     "en": "Monty bhaiya says, 'Come to the terrace with me. I will show you a new game. But it is our secret. Don't tell anyone.' What should Pihu do?",
+     "hi": "मॉन्टी भैया कहते हैं, 'मेरे साथ छत पर चलो। मैं तुम्हें एक नया गेम दिखाऊँगा। पर यह हमारा सीक्रेट है। किसी को मत बताना।' पीहू को क्या करना चाहिए?",
+     "hg": "Monty bhaiya bolte hain, 'Mere saath terrace par chalo. Main tumhe ek naya game dikhaunga. Par yeh hamara secret hai. Kisi ko mat batana.' Pihu ko kya karna chahiye?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Say 'No' and go to Mummy",
+       "hi": "'नहीं' कहे और मम्मी के पास जाए",
+       "hg": "'No' bole aur Mummy ke paas jaye"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Great choice. A game that has to be kept secret from Mummy is not a safe game. Saying no and going to a trusted grown-up keeps Pihu safe.",
+       "hi": "बहुत बढ़िया। जिस गेम को मम्मी से छिपाना पड़े, वह सुरक्षित गेम नहीं है। ना कहना और भरोसेमंद बड़े के पास जाना पीहू को सुरक्षित रखता है।",
+       "hg": "Bahut badhiya. Jis game ko Mummy se chhupana pade, woh safe game nahi hai. No bolna aur trusted bade ke paas jaana Pihu ko safe rakhta hai."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Say 'No' and keep playing downstairs",
+       "hi": "'नहीं' कहे और नीचे खेलती रहे",
+       "hg": "'No' bole aur neeche khelti rahe"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Saying no was brave and right. But Mummy still does not know. Telling a trusted grown-up is the step that gets Pihu help.",
+       "hi": "ना कहना बहादुरी थी और सही भी। पर मम्मी को अब भी पता नहीं है। भरोसेमंद बड़े को बताने से ही पीहू को मदद मिलेगी।",
+       "hg": "No bolna brave tha aur sahi bhi. Par Mummy ko ab bhi pata nahi hai. Trusted bade ko batane se hi Pihu ko help milegi."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Go with him, it is only a game",
+       "hi": "उसके साथ चली जाए, गेम ही तो है",
+       "hg": "Uske saath chali jaye, game hi toh hai"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Pihu has not done anything bad. But going alone with someone who asks for a secret is not safe. It is safer to say no and go to a grown-up she trusts.",
+       "hi": "पीहू ने कुछ बुरा नहीं किया। लेकिन जो राज़ रखने को कहे, उसके साथ अकेले जाना सुरक्षित नहीं है। ना कहना और किसी भरोसेमंद बड़े के पास जाना ज़्यादा सुरक्षित है।",
+       "hg": "Pihu ne kuch bura nahi kiya. Lekin jo secret rakhne ko bole, uske saath akele jaana safe nahi hai. No bolna aur kisi trusted bade ke paas jaana zyada safe hai."
+      },
+      "next": "n2"
+     }
+    ]
+   },
+   "n2": {
+    "text": {
+     "en": "Monty bhaiya looks angry. He says, 'If you tell your Mummy, she will scold you.' Pihu feels scared. What should she do?",
+     "hi": "मॉन्टी भैया ग़ुस्से में दिखते हैं। वे कहते हैं, 'मम्मी को बताया तो वे तुम्हें डाँटेंगी।' पीहू को डर लगता है। उसे क्या करना चाहिए?",
+     "hg": "Monty bhaiya gusse mein dikhte hain. Woh bolte hain, 'Mummy ko bataya toh woh tumhe daantengi.' Pihu ko darr lagta hai. Use kya karna chahiye?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Tell Mummy anyway",
+       "hi": "फिर भी मम्मी को बताए",
+       "hg": "Phir bhi Mummy ko bataye"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Yes. 'You will get scolded' is a trick to keep children quiet. Pihu will not be in trouble. Telling is brave.",
+       "hi": "हाँ। 'तुम्हें डाँट पड़ेगी' बच्चों को चुप रखने की एक चाल है। पीहू को डाँट नहीं पड़ेगी। बताना बहादुरी है।",
+       "hg": "Haan. 'Tumhe daant padegi' bachchon ko chup rakhne ki ek trick hai. Pihu ko daant nahi padegi. Batana bahaduri hai."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Stay quiet so that Mummy does not scold her",
+       "hi": "चुप रहे ताकि मम्मी न डाँटें",
+       "hg": "Chup rahe taaki Mummy na daantein"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Feeling scared is okay. But a scary secret is an unsafe secret, and it feels heavier when it is kept. Mummy will not scold Pihu for telling.",
+       "hi": "डर लगना ठीक है। लेकिन डराने वाला राज़ असुरक्षित राज़ है, और उसे रखने से वह और भारी लगता है। बताने पर मम्मी पीहू को नहीं डाँटेंगी।",
+       "hg": "Darr lagna okay hai. Lekin darane wala secret unsafe secret hai, aur use rakhne se woh aur heavy lagta hai. Batane par Mummy Pihu ko nahi daantengi."
+      },
+      "next": "n3"
+     }
+    ]
+   },
+   "n3": {
+    "text": {
+     "en": "Pihu goes to Mummy. But Mummy is on a phone call and says, 'Later, beta.' What should Pihu do now?",
+     "hi": "पीहू मम्मी के पास जाती है। लेकिन मम्मी फ़ोन पर हैं और कहती हैं, 'बाद में, बेटा।' अब पीहू को क्या करना चाहिए?",
+     "hg": "Pihu Mummy ke paas jaati hai. Lekin Mummy phone par hain aur bolti hain, 'Baad mein, beta.' Ab Pihu ko kya karna chahiye?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Wait, then tell Mummy again, or tell Dadi",
+       "hi": "रुके, फिर मम्मी को दोबारा बताए, या दादी को बताए",
+       "hg": "Wait kare, phir Mummy ko dobara bataye, ya Dadi ko bataye"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Exactly. When one grown-up is busy, try again or go to the next trusted grown-up. Keep telling until someone listens.",
+       "hi": "बिलकुल सही। जब एक बड़ा व्यस्त हो, तो फिर कोशिश करो या अगले भरोसेमंद बड़े के पास जाओ। तब तक बताते रहो जब तक कोई सुन न ले।",
+       "hg": "Bilkul sahi. Jab ek bada busy ho, toh phir try karo ya agle trusted bade ke paas jao. Tab tak batate raho jab tak koi sun na le."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Give up and tell nobody",
+       "hi": "हार मान ले और किसी को न बताए",
+       "hg": "Give up kar de aur kisi ko na bataye"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "It is hard when a grown-up is busy. But what Pihu has to say is important. She can try again soon, or tell Dadi or her teacher.",
+       "hi": "जब बड़े व्यस्त हों तो मुश्किल लगता है। लेकिन पीहू की बात ज़रूरी है। वह थोड़ी देर में फिर कोशिश कर सकती है, या दादी या टीचर को बता सकती है।",
+       "hg": "Jab bade busy hon toh mushkil lagta hai. Lekin Pihu ki baat important hai. Woh thodi der mein phir try kar sakti hai, ya Dadi ya teacher ko bata sakti hai."
+      },
+      "next": null
+     }
+    ]
+   }
+  },
+  "debrief": {
+   "en": "A game or gift that comes with 'don't tell anyone' is a warning sign. Say no, go to a safe place and tell a trusted grown-up. If they are busy, tell again. You will never be in trouble for telling.",
+   "hi": "जिस गेम या तोहफ़े के साथ 'किसी को मत बताना' जुड़ा हो, वह चेतावनी का संकेत है। ना कहो, सुरक्षित जगह जाओ और किसी भरोसेमंद बड़े को बताओ। अगर वे व्यस्त हों, तो फिर बताओ। बताने पर तुम्हें कभी डाँट नहीं पड़ेगी।",
+   "hg": "Jis game ya gift ke saath 'kisi ko mat batana' juda ho, woh warning sign hai. No bolo, safe jagah jao aur kisi trusted bade ko batao. Agar woh busy hon, toh phir batao. Batane par tumhe kabhi daant nahi padegi."
+  },
+  "refs": [
+   "unesco-itgse",
+   "wcd-childline"
+  ]
+ },
+ {
+  "id": "d14-s2",
+  "domain": "d14",
+  "module": "consent",
+  "tracks": [
+   "B"
+  ],
+  "title": {
+   "en": "Coach Sir's Special Favours",
+   "hi": "कोच सर की ख़ास मेहरबानी",
+   "hg": "Coach Sir ke Special Favours"
+  },
+  "intro": {
+   "en": "Aarav is 11 and loves football. His new coach has started treating him differently from the rest of the team.",
+   "hi": "आरव 11 साल का है और उसे फ़ुटबॉल बहुत पसंद है। उसके नए कोच उसके साथ बाक़ी टीम से अलग बर्ताव करने लगे हैं।",
+   "hg": "Aarav 11 saal ka hai aur use football bahut pasand hai. Uske naye coach uske saath baaki team se alag behave karne lage hain."
+  },
+  "sensitive": true,
+  "start": "n1",
+  "nodes": {
+   "n1": {
+    "text": {
+     "en": "After practice, Coach Vikram hands Aarav expensive goalkeeper gloves. 'Only for you, champ. Don't tell the other boys or your parents, they won't understand.' What does Aarav do?",
+     "hi": "प्रैक्टिस के बाद कोच विक्रम आरव को महँगे गोलकीपर ग्लव्स देते हैं। 'सिर्फ़ तुम्हारे लिए, चैंप। बाक़ी लड़कों को या मम्मी-पापा को मत बताना, वे नहीं समझेंगे।' आरव क्या करे?",
+     "hg": "Practice ke baad Coach Vikram Aarav ko mehenge goalkeeper gloves dete hain. 'Sirf tumhare liye, champ. Baaki ladkon ko ya parents ko mat batana, woh nahi samjhenge.' Aarav kya kare?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Thank him, and tell Papa about the gloves that evening",
+       "hi": "धन्यवाद कहे, और शाम को पापा को ग्लव्स के बारे में बताए",
+       "hg": "Thank you bole, aur shaam ko Papa ko gloves ke baare mein bataye"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Good call. The gift is not the problem; the secrecy is. When parents know, a safe adult has nothing to worry about and a tricky one loses his hold.",
+       "hi": "सही फ़ैसला। दिक़्क़त तोहफ़े में नहीं, उसे छिपाने में है। जब माता-पिता को पता होता है, तो सुरक्षित बड़े को कोई परेशानी नहीं होती और चालाक व्यक्ति की पकड़ ढीली पड़ जाती है।",
+       "hg": "Sahi decision. Problem gift mein nahi, secrecy mein hai. Jab parents ko pata hota hai, toh safe adult ko koi tension nahi hoti aur tricky insaan ki pakad dheeli pad jaati hai."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Refuse the gloves, but say nothing at home",
+       "hi": "ग्लव्स लेने से मना करे, पर घर पर कुछ न कहे",
+       "hg": "Gloves lene se mana kare, par ghar par kuch na bole"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Refusing took courage. Still, Aarav's parents do not know that an adult asked him to keep secrets from them, and that is the part they need to hear.",
+       "hi": "मना करने में हिम्मत लगी। फिर भी आरव के माता-पिता को नहीं पता कि एक बड़े ने उससे उन्हीं से बात छिपाने को कहा, और यही बात उन्हें जाननी चाहिए।",
+       "hg": "Mana karne mein himmat lagi. Phir bhi Aarav ke parents ko nahi pata ki ek adult ne usse unhi se baat chhupane ko bola, aur yahi baat unhe pata honi chahiye."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Take the gloves and keep it secret",
+       "hi": "ग्लव्स ले ले और बात छिपा ले",
+       "hg": "Gloves le le aur baat secret rakhe"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Wanting the gloves is natural, and Aarav has done nothing wrong. But a secret gift creates a feeling of owing something. Telling a parent now breaks that hold early.",
+       "hi": "ग्लव्स की चाह होना स्वाभाविक है, और आरव ने कुछ ग़लत नहीं किया। लेकिन छिपाकर दिया गया तोहफ़ा एहसान का बोझ बना देता है। अभी माता-पिता को बता देने से यह पकड़ शुरू में ही टूट जाती है।",
+       "hg": "Gloves chahna natural hai, aur Aarav ne kuch galat nahi kiya. Lekin secret gift ehsaan wali feeling bana deta hai. Abhi parents ko bata dene se yeh pakad shuru mein hi toot jaati hai."
+      },
+      "next": "n2"
+     }
+    ]
+   },
+   "n2": {
+    "text": {
+     "en": "A week later the coach starts messaging Aarav at night: 'You are my favourite. Delete these chats after reading.' He also asks Aarav to stay back alone after Saturday's practice.",
+     "hi": "एक हफ़्ते बाद कोच रात में आरव को मैसेज करने लगते हैं: 'तुम मेरे फ़ेवरेट हो। पढ़ने के बाद ये चैट डिलीट कर देना।' वे आरव से शनिवार की प्रैक्टिस के बाद अकेले रुकने को भी कहते हैं।",
+     "hg": "Ek hafte baad coach raat mein Aarav ko message karne lagte hain: 'Tum mere favourite ho. Padhne ke baad yeh chats delete kar dena.' Woh Aarav se Saturday ki practice ke baad akele rukne ko bhi bolte hain."
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Show the messages to Mummy or Papa without deleting them",
+       "hi": "मैसेज डिलीट किए बिना मम्मी या पापा को दिखाए",
+       "hg": "Messages delete kiye bina Mummy ya Papa ko dikhaye"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Exactly right. 'Delete the chats' and 'come alone' together are warning signs. Keeping the messages and showing a parent lets adults handle it.",
+       "hi": "बिलकुल सही। 'चैट डिलीट कर दो' और 'अकेले आना', दोनों साथ हों तो ये चेतावनी के संकेत हैं। मैसेज सँभालकर रखने और माता-पिता को दिखाने से मामला बड़ों के हाथ में आ जाता है।",
+       "hg": "Bilkul sahi. 'Chats delete kar do' aur 'akele aana', dono saath hon toh yeh warning signs hain. Messages rakhne aur parents ko dikhane se matter adults ke haath mein aa jaata hai."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Stop replying and mute the chat",
+       "hi": "जवाब देना बंद करे और चैट म्यूट कर दे",
+       "hg": "Reply karna band kare aur chat mute kar de"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Muting protects Aarav for now, and it is an understandable step. But the coach can still corner him at practice. An adult needs to know about the messages and the plan to meet alone.",
+       "hi": "म्यूट करने से आरव फ़िलहाल बचा रहता है, और यह क़दम समझ में आता है। लेकिन कोच उसे प्रैक्टिस में फिर भी घेर सकते हैं। किसी बड़े को इन मैसेज और अकेले मिलने की बात का पता होना ज़रूरी है।",
+       "hg": "Mute karne se Aarav abhi ke liye protected hai, aur yeh step samajh mein aata hai. Lekin coach use practice mein phir bhi gher sakte hain. Kisi adult ko in messages aur akele milne ke plan ka pata hona zaroori hai."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Delete the chats and agree to stay back",
+       "hi": "चैट डिलीट कर दे और रुकने के लिए हाँ कह दे",
+       "hg": "Chats delete kar de aur rukne ke liye haan bol de"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Aarav is not to blame for trusting his coach. But deleting chats hides what the adult is doing, and being alone with him is unsafe. Telling a parent before Saturday is the safer path.",
+       "hi": "अपने कोच पर भरोसा करने में आरव का कोई दोष नहीं। लेकिन चैट डिलीट करने से उस बड़े की हरकतें छिप जाती हैं, और उसके साथ अकेले रहना सुरक्षित नहीं है। शनिवार से पहले माता-पिता को बता देना ज़्यादा सुरक्षित रास्ता है।",
+       "hg": "Apne coach par trust karne mein Aarav ka koi blame nahi. Lekin chats delete karne se us adult ki harkatein chhup jaati hain, aur uske saath akele rehna safe nahi hai. Saturday se pehle parents ko bata dena zyada safe raasta hai."
+      },
+      "next": "n3"
+     }
+    ]
+   },
+   "n3": {
+    "text": {
+     "en": "Aarav is worried: 'If I tell, he will drop me from the team, and everyone likes him.' What is the best way forward?",
+     "hi": "आरव परेशान है: 'अगर मैंने बताया, तो वे मुझे टीम से निकाल देंगे, और सब उन्हें पसंद करते हैं।' आगे का सबसे अच्छा रास्ता क्या है?",
+     "hg": "Aarav pareshaan hai: 'Agar maine bataya, toh woh mujhe team se nikaal denge, aur sab unhe pasand karte hain.' Aage ka best raasta kya hai?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Tell a parent everything, including the worry about the team",
+       "hi": "माता-पिता को सब कुछ बताए, टीम वाली चिंता भी",
+       "hg": "Parents ko sab kuch bataye, team wali tension bhi"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Yes. His place in the team is for the adults to sort out with the school or academy; it is not a price Aarav has to pay. If home feels hard, he can call 1098.",
+       "hi": "हाँ। टीम में उसकी जगह का मसला बड़े लोग स्कूल या अकादमी से सुलझाएँगे; यह कोई क़ीमत नहीं जो आरव को चुकानी पड़े। अगर घर पर बताना मुश्किल लगे, तो वह 1098 पर कॉल कर सकता है।",
+       "hg": "Haan. Team mein uski jagah ka issue adults school ya academy ke saath solve karenge; yeh koi price nahi jo Aarav ko pay karni pade. Agar ghar par batana mushkil lage, toh woh 1098 par call kar sakta hai."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Say nothing, to protect his place in the team",
+       "hi": "कुछ न कहे, ताकि टीम में जगह बची रहे",
+       "hg": "Kuch na bole, taaki team mein jagah bachi rahe"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "That fear is exactly what tricky adults count on. No team spot is worth feeling unsafe. A parent, a teacher or 1098 can help without Aarav having to face the coach alone.",
+       "hi": "चालाक बड़े ठीक इसी डर पर भरोसा करते हैं। टीम की कोई भी जगह असुरक्षित महसूस करने लायक़ नहीं है। माता-पिता, टीचर या 1098 मदद कर सकते हैं, और आरव को अकेले कोच का सामना नहीं करना पड़ेगा।",
+       "hg": "Tricky adults exactly isi darr par depend karte hain. Team ki koi bhi jagah unsafe feel karne layak nahi hai. Parents, teacher ya 1098 help kar sakte hain, aur Aarav ko akele coach ko face nahi karna padega."
+      },
+      "next": null
+     }
+    ]
+   }
+  },
+  "debrief": {
+   "en": "Special gifts, secret chats and time alone are three classic steps of grooming. None of them is the child's fault, even if the gift was accepted. The safe move at any stage is the same: keep the messages, do not go alone, and tell a trusted adult or call 1098.",
+   "hi": "ख़ास तोहफ़े, छिपी हुई चैट और अकेले में समय, ये ग्रूमिंग के तीन जाने-पहचाने क़दम हैं। इनमें से कुछ भी बच्चे की ग़लती नहीं है, भले ही तोहफ़ा ले लिया गया हो। हर मोड़ पर सुरक्षित क़दम एक ही है: मैसेज सँभालकर रखो, अकेले मत जाओ, और किसी भरोसेमंद बड़े को बताओ या 1098 पर कॉल करो।",
+   "hg": "Special gifts, secret chats aur akele mein time, yeh grooming ke teen classic steps hain. Inme se kuch bhi bachche ki galti nahi hai, chahe gift le liya gaya ho. Har stage par safe move ek hi hai: messages rakho, akele mat jao, aur kisi trusted adult ko batao ya 1098 par call karo."
+  },
+  "refs": [
+   "unesco-itgse",
+   "wcd-childline",
+   "pocso-2012"
+  ]
+ },
+ {
+  "id": "d14-s3",
+  "domain": "d14",
+  "module": "consent",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "When Meher Tells You",
+   "hi": "जब मेहर तुम्हें बताती है",
+   "hg": "Jab Meher Tumhe Batati Hai"
+  },
+  "intro": {
+   "en": "During the lunch break your close friend Meher, who is 14, asks to talk to you alone. She looks as if she has not slept.",
+   "hi": "लंच ब्रेक में तुम्हारी क़रीबी दोस्त मेहर, जो 14 साल की है, तुमसे अकेले में बात करना चाहती है। लगता है जैसे वह सोई नहीं है।",
+   "hg": "Lunch break mein tumhari close friend Meher, jo 14 saal ki hai, tumse akele mein baat karna chahti hai. Lagta hai jaise woh soyi nahi hai."
+  },
+  "sensitive": true,
+  "start": "n1",
+  "nodes": {
+   "n1": {
+    "text": {
+     "en": "Meher says quietly, 'My tuition teacher keeps touching me when the others have left. I hate it. I didn't know who else to tell.' What do you say first?",
+     "hi": "मेहर धीमे से कहती है, 'जब बाक़ी सब चले जाते हैं तो मेरे ट्यूशन टीचर मुझे छूते रहते हैं। मुझे बहुत बुरा लगता है। समझ नहीं आया किसे बताऊँ।' तुम सबसे पहले क्या कहोगे?",
+     "hg": "Meher dheere se bolti hai, 'Jab baaki sab chale jaate hain toh mere tuition teacher mujhe touch karte rehte hain. Mujhe bahut bura lagta hai. Samajh nahi aaya kisko bataun.' Tum sabse pehle kya bologe?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "I believe you. It's not your fault. Thank you for telling me.",
+       "hi": "मुझे तुम पर यक़ीन है। यह तुम्हारी ग़लती नहीं है। मुझे बताने के लिए शुक्रिया।",
+       "hg": "Mujhe tum par yakeen hai. Yeh tumhari galti nahi hai. Mujhe batane ke liye thank you."
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "This is what a person most needs to hear. Being believed makes it far more likely that she will accept help and stop blaming herself.",
+       "hi": "ऐसे समय में इंसान को सबसे ज़्यादा यही सुनने की ज़रूरत होती है। जब उस पर यक़ीन किया जाता है, तो उसके मदद लेने और ख़ुद को दोष देना छोड़ने की संभावना कहीं बढ़ जाती है।",
+       "hg": "Aise time par insaan ko sabse zyada yahi sunne ki zaroorat hoti hai. Jab us par yakeen kiya jaata hai, toh uske help lene aur khud ko blame karna chhodne ke chances kaafi badh jaate hain."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "That's horrible! Let's tell the whole class so everyone avoids him.",
+       "hi": "यह तो बहुत बुरा है! चलो पूरी क्लास को बता दें ताकि सब उससे दूर रहें।",
+       "hg": "Yeh toh bahut bura hai! Chalo poori class ko bata dein taaki sab usse door rahein."
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Your anger on her behalf is understandable. But spreading it takes control away from Meher and can expose her to gossip. Let her decide who knows, and focus on reaching a safe adult.",
+       "hi": "उसके लिए तुम्हारा ग़ुस्सा समझ में आता है। लेकिन बात फैलाने से फ़ैसला मेहर के हाथ से निकल जाता है और वह गपशप का निशाना बन सकती है। किसे पता चले, यह उसे तय करने दो, और किसी सुरक्षित बड़े तक पहुँचने पर ध्यान दो।",
+       "hg": "Uske liye tumhara gussa samajh mein aata hai. Lekin baat failane se control Meher ke haath se nikal jaata hai aur woh gossip ka target ban sakti hai. Kisko pata chale, yeh use decide karne do, aur kisi safe adult tak pahunchne par focus karo."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Are you sure? He's always so nice to everyone.",
+       "hi": "पक्का? वे तो सबके साथ इतने अच्छे हैं।",
+       "hg": "Pakka? Woh toh sabke saath itne achhe hain."
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Many people react this way, because people who abuse are often well liked. But doubt can make a friend go silent for years. 'I believe you' keeps the door open.",
+       "hi": "बहुत से लोग ऐसी ही प्रतिक्रिया देते हैं, क्योंकि शोषण करने वाले अक्सर सबके चहेते होते हैं। लेकिन शक जताने से दोस्त बरसों के लिए चुप हो सकता है। 'मुझे तुम पर यक़ीन है' कहने से बात का रास्ता खुला रहता है।",
+       "hg": "Bahut se log aise hi react karte hain, kyunki abuse karne wale aksar sabke favourite hote hain. Lekin doubt dikhane se dost saalon ke liye chup ho sakta hai. 'Mujhe tum par yakeen hai' bolne se darwaza khula rehta hai."
+      },
+      "next": "n2"
+     }
+    ]
+   },
+   "n2": {
+    "text": {
+     "en": "Meher grabs your hand. 'Promise you won't tell anyone. Not my parents, not a teacher. Promise.'",
+     "hi": "मेहर तुम्हारा हाथ पकड़ लेती है। 'वादा करो कि किसी को नहीं बताओगे। न मेरे मम्मी-पापा को, न किसी टीचर को। वादा करो।'",
+     "hg": "Meher tumhara haath pakad leti hai. 'Promise karo kisi ko nahi bataoge. Na mere parents ko, na kisi teacher ko. Promise.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "I won't tell classmates. But I can't hide this from every adult, because you're not safe. Let's choose who to tell, together.",
+       "hi": "क्लास वालों तक यह बात नहीं पहुँचेगी। पर हर बड़े से यह मुझसे छिपाया नहीं जाएगा, क्योंकि तुम सुरक्षित नहीं हो। चलो मिलकर तय करें कि किसे बताना है।",
+       "hg": "Classmates tak yeh baat nahi pahunchegi. Par har adult se yeh mujhse chhupaya nahi jayega, kyunki tum safe nahi ho. Chalo milkar decide karein kisko batana hai."
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Honest and kind. You protect her privacy from gossip without promising a secrecy that would leave her alone with the danger. Choosing the adult together gives her back some control.",
+       "hi": "ईमानदार भी और नरम भी। तुम उसकी बात को गपशप से बचाते हो, पर ऐसी गोपनीयता का वादा नहीं करते जो उसे ख़तरे के साथ अकेला छोड़ दे। बड़े को मिलकर चुनने से कुछ फ़ैसला वापस उसके हाथ में आता है।",
+       "hg": "Honest bhi aur kind bhi. Tum uski privacy ko gossip se protect karte ho, par aisi secrecy ka promise nahi karte jo use danger ke saath akela chhod de. Adult ko milkar choose karne se thoda control wapas uske haath mein aata hai."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Okay, I promise. I won't tell a soul.",
+       "hi": "ठीक है, वादा। यह बात किसी और तक नहीं पहुँचेगी।",
+       "hg": "Okay, promise. Yeh baat kisi aur tak nahi pahunchegi."
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "You want to keep her trust, which is caring. But this promise leaves Meher facing an adult alone, and leaves you carrying it by yourself. It is fair to say you cannot keep a secret about someone's safety.",
+       "hi": "तुम उसका भरोसा बनाए रखना चाहते हो, और यह परवाह की निशानी है। लेकिन यह वादा मेहर को एक बड़े के सामने अकेला छोड़ देता है, और तुम्हें यह बोझ अकेले ढोना पड़ता है। यह कहना बिलकुल जायज़ है कि किसी की सुरक्षा से जुड़ा राज़ तुम नहीं रख सकते।",
+       "hg": "Tum uska trust banaye rakhna chahte ho, jo caring hai. Lekin yeh promise Meher ko ek adult ke saamne akela chhod deta hai, aur tumhe yeh bojh akele carry karna padta hai. Yeh bolna bilkul fair hai ki kisi ki safety wala secret tum nahi rakh sakte."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "I'll message him tonight and tell him to back off.",
+       "hi": "आज रात ही उसे मैसेज करके कहना है कि दूर रहे।",
+       "hg": "Aaj raat hi use message karke bolna hai ki door rahe."
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Wanting to protect her is natural. But confronting him can lead to threats, deleted evidence or more risk for Meher. Trusted adults and 1098 are equipped to act; a classmate is not.",
+       "hi": "उसे बचाने की चाह स्वाभाविक है। लेकिन उससे भिड़ने पर धमकियाँ मिल सकती हैं, सबूत मिटाए जा सकते हैं या मेहर के लिए ख़तरा बढ़ सकता है। भरोसेमंद बड़े और 1098 क़दम उठाने में सक्षम हैं; एक सहपाठी नहीं।",
+       "hg": "Use protect karna chahna natural hai. Lekin use confront karne se dhamkiyan mil sakti hain, evidence delete ho sakta hai ya Meher ke liye risk badh sakta hai. Trusted adults aur 1098 action lene ke liye equipped hain; ek classmate nahi."
+      },
+      "next": "n3"
+     }
+    ]
+   },
+   "n3": {
+    "text": {
+     "en": "Meher is quiet, then says, 'Maybe the school counsellor. But will she tell the police?' How do you answer?",
+     "hi": "मेहर कुछ देर चुप रहती है, फिर कहती है, 'शायद स्कूल काउंसलर को। पर क्या वे पुलिस को बता देंगी?' तुम क्या जवाब दोगे?",
+     "hg": "Meher thodi der chup rehti hai, phir bolti hai, 'Shayad school counsellor ko. Par kya woh police ko bata dengi?' Tum kya jawab doge?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "She may have to. For under-18s, the law requires adults to report sexual abuse. But she'll explain what happens, and I'll come with you.",
+       "hi": "शायद उन्हें बताना पड़े। 18 से कम उम्र वालों के मामले में क़ानूनन बड़ों को यौन शोषण की सूचना देनी होती है। पर वे समझाएँगी कि आगे क्या होगा, और हम साथ चलेंगे।",
+       "hg": "Shayad unhe batana pade. 18 se kam umar walon ke case mein law ke hisaab se adults ko sexual abuse report karna hota hai. Par woh samjhayengi ki aage kya hoga, aur hum saath chalenge."
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "This is the truth, and Meher deserves it before she decides. Mandatory reporting exists to stop the abuse, and her identity stays protected from the public. Offering to go with her makes the step less frightening.",
+       "hi": "यही सच है, और फ़ैसला करने से पहले मेहर को यह जानने का हक़ है। अनिवार्य सूचना का नियम शोषण रोकने के लिए है, और उसकी पहचान सार्वजनिक नहीं होती। साथ चलने की बात कहने से यह क़दम कम डरावना लगता है।",
+       "hg": "Yahi sach hai, aur decide karne se pehle Meher ko yeh jaanne ka haq hai. Mandatory reporting abuse rokne ke liye hai, aur uski identity public se protected rehti hai. Saath chalne ka offer is step ko kam scary bana deta hai."
+      },
+      "next": "n4"
+     },
+     {
+      "label": {
+       "en": "No, counsellors keep everything secret. Just tell her.",
+       "hi": "नहीं, काउंसलर सब कुछ गुप्त रखते हैं। बस बता दो।",
+       "hg": "Nahi, counsellors sab kuch secret rakhte hain. Bas bata do."
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "It sounds reassuring, but it is not accurate, and Meher could feel betrayed later. Honest information, even when it is uncomfortable, is what builds trust in getting help.",
+       "hi": "यह सुनने में तसल्ली देता है, पर सही नहीं है, और बाद में मेहर को लग सकता है कि उसके साथ धोखा हुआ। सच्ची जानकारी, असहज होने पर भी, मदद लेने पर भरोसा बनाती है।",
+       "hg": "Yeh sunne mein reassuring lagta hai, par accurate nahi hai, aur baad mein Meher ko betrayed feel ho sakta hai. Honest information, uncomfortable ho tab bhi, help lene par trust banati hai."
+      },
+      "next": "n4"
+     }
+    ]
+   },
+   "n4": {
+    "text": {
+     "en": "Meher talks to the counsellor while you wait outside. A week later she seems distant and says she does not want to discuss it. What do you do?",
+     "hi": "मेहर काउंसलर से बात करती है और तुम बाहर इंतज़ार करते हो। एक हफ़्ते बाद वह कुछ कटी-कटी लगती है और कहती है कि इस बारे में बात नहीं करना चाहती। तुम क्या करोगे?",
+     "hg": "Meher counsellor se baat karti hai aur tum bahar wait karte ho. Ek hafte baad woh thodi distant lagti hai aur bolti hai ki is baare mein baat nahi karna chahti. Tum kya karoge?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Stay her friend: sit with her, include her as usual, and say 'I'm here whenever you want to talk.'",
+       "hi": "दोस्त बने रहो: उसके साथ बैठो, पहले की तरह शामिल करो, और कहो 'जब भी बात करना चाहो, मैं हूँ।'",
+       "hg": "Dost bane raho: uske saath baitho, pehle ki tarah include karo, aur bolo 'Jab bhi baat karna chaho, main hoon.'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Healing does not run on a schedule. Steady, ordinary friendship without pressure is real support. Look after yourself too, and talk to an adult if this feels heavy.",
+       "hi": "उबरने का कोई तय समय नहीं होता। बिना दबाव की सीधी-सादी, टिकाऊ दोस्ती ही असली सहारा है। अपना भी ख़याल रखो, और अगर यह सब भारी लगे तो किसी बड़े से बात करो।",
+       "hg": "Healing kisi schedule par nahi chalti. Bina pressure ki steady, normal dosti hi real support hai. Apna bhi khayal rakho, aur agar yeh sab heavy lage toh kisi adult se baat karo."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Keep asking her for updates so she knows you care",
+       "hi": "बार-बार पूछते रहो कि क्या हुआ, ताकि उसे लगे तुम्हें परवाह है",
+       "hg": "Baar-baar updates poochte raho taaki use lage tumhe parwah hai"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "You mean well, but repeated questions can feel like pressure to relive it. Letting her set the pace while you stay close usually helps more.",
+       "hi": "तुम्हारी नीयत अच्छी है, पर बार-बार के सवाल उसे वही सब दोबारा जीने का दबाव लग सकते हैं। रफ़्तार उसे तय करने दो और पास बने रहो, इससे आम तौर पर ज़्यादा मदद मिलती है।",
+       "hg": "Tumhari intention achhi hai, par baar-baar ke questions use wahi sab dobara jeene ka pressure lag sakte hain. Pace use set karne do aur paas bane raho, isse usually zyada help milti hai."
+      },
+      "next": null
+     }
+    ]
+   }
+  },
+  "debrief": {
+   "en": "When a friend tells you about abuse: believe them, do not blame, do not spread it and do not promise total secrecy. Help them reach a safe adult or 1098, and be honest that adults must report sexual abuse of anyone under 18. Then stay a steady friend. The responsibility always lies with the person who abused.",
+   "hi": "जब कोई दोस्त शोषण के बारे में बताए: उस पर यक़ीन करो, दोष मत दो, बात मत फैलाओ और पूरी गोपनीयता का वादा मत करो। उसे किसी सुरक्षित बड़े या 1098 तक पहुँचने में मदद करो, और ईमानदारी से बताओ कि 18 से कम उम्र वालों के यौन शोषण की सूचना देना बड़ों के लिए ज़रूरी है। फिर एक टिकाऊ दोस्त बने रहो। ज़िम्मेदारी हमेशा उसी की है जिसने शोषण किया।",
+   "hg": "Jab koi dost abuse ke baare mein bataye: us par yakeen karo, blame mat karo, baat mat failao aur total secrecy ka promise mat karo. Use kisi safe adult ya 1098 tak pahunchne mein help karo, aur honestly batao ki 18 se kam umar walon ke sexual abuse ko report karna adults ke liye zaroori hai. Phir ek steady dost bane raho. Responsibility hamesha usi ki hai jisne abuse kiya."
+  },
+  "refs": [
+   "unesco-itgse",
+   "pocso-2012",
+   "wcd-childline"
+  ]
+ }
+]

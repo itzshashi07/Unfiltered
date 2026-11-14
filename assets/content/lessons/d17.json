@@ -1,0 +1,1283 @@
+[
+ {
+  "id": "d17-l01",
+  "domain": "d17",
+  "tracks": [
+   "A"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 1,
+  "minutes": 3,
+  "unesco": [
+   5
+  ],
+  "title": {
+   "en": "All Feelings Are Okay",
+   "hi": "हर एहसास ठीक है",
+   "hg": "Har Feeling Theek Hai"
+  },
+  "subtitle": {
+   "en": "Naming your feelings and calming down",
+   "hi": "अपने एहसासों को नाम देना और शांत होना",
+   "hg": "Feelings ko naam dena aur shaant hona"
+  },
+  "hook": {
+   "en": "Happy, sad, angry, scared. Everyone has feelings, even grown-ups.",
+   "hi": "ख़ुश, उदास, गुस्सा, डर। एहसास सबके अंदर होते हैं, बड़ों के भी।",
+   "hg": "Khush, udaas, gussa, darr. Feelings sabke andar hoti hain, bade logon ke bhi."
+  },
+  "objectives": [
+   {
+    "en": "Name five different feelings.",
+    "hi": "पाँच अलग-अलग एहसासों के नाम बता सको।",
+    "hg": "Paanch alag-alag feelings ke naam bata sako."
+   },
+   {
+    "en": "Use slow breathing to calm down.",
+    "hi": "धीमी साँस लेकर ख़ुद को शांत कर सको।",
+    "hg": "Dheemi saans lekar khud ko shaant kar sako."
+   },
+   {
+    "en": "Tell a trusted grown-up when a feeling is too big.",
+    "hi": "जब कोई एहसास बहुत बड़ा लगे, तो भरोसे वाले बड़े को बता सको।",
+    "hg": "Jab koi feeling bahut badi lage, toh bharose wale bade ko bata sako."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Feelings have names",
+     "hi": "एहसासों के नाम होते हैं",
+     "hg": "Feelings ke naam hote hain"
+    },
+    "body": {
+     "en": "Feelings are what you feel inside. Happy, sad, angry, scared, shy and excited are all feelings. Everyone has them. Children have them. Grown-ups have them too. When you say the name of a feeling, like 'I am sad', it gets a little easier to handle.",
+     "hi": "एहसास वह है जो तुम अपने अंदर महसूस करते हो। ख़ुशी, उदासी, गुस्सा, डर, शर्माना और जोश, ये सब एहसास हैं। ये सबके अंदर होते हैं। बच्चों के अंदर भी, बड़ों के अंदर भी। जब तुम एहसास का नाम बोलते हो, जैसे 'मैं उदास हूँ', तो उसे संभालना थोड़ा आसान हो जाता है।",
+     "hg": "Feeling woh hai jo tum apne andar mehsoos karte ho. Khushi, udaasi, gussa, darr, sharmana aur excitement, yeh sab feelings hain. Yeh sabke andar hoti hain. Bachchon ke andar bhi, bade logon ke andar bhi. Jab tum feeling ka naam bolte ho, jaise 'main udaas hoon', toh usse sambhalna thoda aasaan ho jaata hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Your body tells you",
+     "hi": "तुम्हारा शरीर बताता है",
+     "hg": "Tumhari body batati hai"
+    },
+    "body": {
+     "en": "Feelings show up in your body. When you are angry, your face may feel hot. When you are scared, your heart may beat fast. When you are worried, your tummy may hurt. These signs are your body saying, 'Something is going on. Please notice me.'",
+     "hi": "एहसास शरीर में भी दिखते हैं। गुस्सा आने पर चेहरा गरम लग सकता है। डर लगने पर दिल तेज़ धड़क सकता है। चिंता होने पर पेट में दर्द हो सकता है। ये इशारे हैं। तुम्हारा शरीर कह रहा है, 'कुछ हो रहा है। मेरी तरफ़ ध्यान दो।'",
+     "hg": "Feelings body mein bhi dikhti hain. Gussa aane par chehra garam lag sakta hai. Darr lagne par dil tez dhadak sakta hai. Chinta hone par pet mein dard ho sakta hai. Yeh ishaare hain. Tumhari body keh rahi hai, 'Kuch ho raha hai. Meri taraf dhyaan do.'"
+    }
+   },
+   {
+    "h": {
+     "en": "No feeling is bad",
+     "hi": "कोई एहसास बुरा नहीं होता",
+     "hg": "Koi feeling buri nahi hoti"
+    },
+    "body": {
+     "en": "No feeling is bad. It is okay to cry. It is okay to feel angry. Boys can cry. Girls can feel angry. But hitting someone, saying mean words or breaking things is not okay. You can feel angry and still keep your hands and your words kind.",
+     "hi": "कोई भी एहसास बुरा नहीं होता। रोना ठीक है। गुस्सा आना भी ठीक है। लड़के रो सकते हैं। लड़कियों को गुस्सा आ सकता है। लेकिन किसी को मारना, बुरी बातें कहना या चीज़ें तोड़ना ठीक नहीं है। गुस्सा आए, तब भी तुम अपने हाथ और अपनी बातें प्यार भरी रख सकते हो।",
+     "hg": "Koi bhi feeling buri nahi hoti. Rona theek hai. Gussa aana bhi theek hai. Ladke ro sakte hain. Ladkiyon ko gussa aa sakta hai. Lekin kisi ko maarna, buri baatein kehna ya cheezein todna theek nahi hai. Gussa aaye, tab bhi tum apne haath aur apni baatein pyaar bhari rakh sakte ho."
+    }
+   },
+   {
+    "h": {
+     "en": "Calm down, then tell",
+     "hi": "पहले शांत हो, फिर बताओ",
+     "hg": "Pehle shaant ho, phir batao"
+    },
+    "body": {
+     "en": "When a feeling gets too big, stop. Put a hand on your tummy. Breathe in slowly, then breathe out slowly, five times. Drink some water. Then tell a grown-up you trust, like Mummy, Papa, Dadi or your teacher. Telling is brave. Grown-ups can help you.",
+     "hi": "जब कोई एहसास बहुत बड़ा हो जाए, तो रुक जाओ। पेट पर हाथ रखो। धीरे-धीरे साँस अंदर लो, फिर धीरे-धीरे बाहर छोड़ो, पाँच बार। थोड़ा पानी पियो। फिर किसी भरोसे वाले बड़े को बताओ, जैसे मम्मी, पापा, दादी या टीचर। बताना बहादुरी है। बड़े तुम्हारी मदद कर सकते हैं।",
+     "hg": "Jab koi feeling bahut badi ho jaaye, toh ruk jao. Pet par haath rakho. Dheere-dheere saans andar lo, phir dheere-dheere bahar chhodo, paanch baar. Thoda paani piyo. Phir kisi bharose wale bade ko batao, jaise Mummy, Papa, Dadi ya teacher. Batana bahaduri hai. Bade tumhari help kar sakte hain."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Good children never feel angry.",
+    "hi": "अच्छे बच्चों को कभी गुस्सा नहीं आता।",
+    "hg": "Achche bachchon ko kabhi gussa nahi aata."
+   },
+   "fact": {
+    "en": "Every child feels angry sometimes. Feeling angry is okay. Hurting someone is not okay.",
+    "hi": "हर बच्चे को कभी-कभी गुस्सा आता है। गुस्सा आना ठीक है। किसी को चोट पहुँचाना ठीक नहीं है।",
+    "hg": "Har bachche ko kabhi-kabhi gussa aata hai. Gussa aana theek hai. Kisi ko chot pahunchana theek nahi hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "All feelings are okay, and they all have names.",
+    "hi": "सारे एहसास ठीक हैं, और सबके नाम होते हैं।",
+    "hg": "Saari feelings theek hain, aur sabke naam hote hain."
+   },
+   {
+    "en": "Slow breaths make a big feeling smaller.",
+    "hi": "धीमी साँसें बड़े एहसास को छोटा कर देती हैं।",
+    "hg": "Dheemi saansein badi feeling ko chhoti kar deti hain."
+   },
+   {
+    "en": "Tell a trusted grown-up when a feeling is too big.",
+    "hi": "जब एहसास बहुत बड़ा लगे, तो भरोसे वाले बड़े को बताओ।",
+    "hg": "Jab feeling bahut badi lage, toh bharose wale bade ko batao."
+   }
+  ],
+  "activity": {
+   "en": "Draw four faces: happy, sad, angry and scared. Show them to a grown-up at home and tell them when you last felt each one.",
+   "hi": "चार चेहरे बनाओ: ख़ुश, उदास, गुस्से वाला और डरा हुआ। घर के किसी बड़े को दिखाओ और बताओ कि तुम्हें हर एहसास पिछली बार कब हुआ था।",
+   "hg": "Chaar chehre banao: khush, udaas, gusse wala aur dara hua. Ghar ke kisi bade ko dikhao aur batao ki tumhe har feeling pichhli baar kab hui thi."
+  },
+  "interactive": "support_circle",
+  "quiz": [
+   {
+    "id": "d17-l01-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Riya is very angry because her brother took her toy. What is a good thing to do?",
+     "hi": "रिया को बहुत गुस्सा आ रहा है क्योंकि भाई ने उसका खिलौना ले लिया। क्या करना अच्छा रहेगा?",
+     "hg": "Riya ko bahut gussa aa raha hai kyunki bhai ne uska khilona le liya. Kya karna achha rahega?"
+    },
+    "options": [
+     {
+      "en": "Hit her brother",
+      "hi": "भाई को मार दे",
+      "hg": "Bhai ko maar de"
+     },
+     {
+      "en": "Take slow breaths and tell a grown-up",
+      "hi": "धीमी साँसें ले और किसी बड़े को बताए",
+      "hg": "Dheemi saansein le aur kisi bade ko bataye"
+     },
+     {
+      "en": "Break the toy",
+      "hi": "खिलौना तोड़ दे",
+      "hg": "Khilona tod de"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Feeling angry is okay. Slow breaths calm the body, and a grown-up can help fix the problem.",
+     "hi": "गुस्सा आना ठीक है। धीमी साँसें शरीर को शांत करती हैं, और कोई बड़ा परेशानी सुलझाने में मदद कर सकता है।",
+     "hg": "Gussa aana theek hai. Dheemi saansein body ko shaant karti hain, aur koi bada problem solve karne mein help kar sakta hai."
+    }
+   },
+   {
+    "id": "d17-l01-q2",
+    "type": "tf",
+    "q": {
+     "en": "It is okay for a boy to cry when he feels sad.",
+     "hi": "उदास होने पर लड़के का रोना ठीक है।",
+     "hg": "Udaas hone par ladke ka rona theek hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Crying is how the body lets sadness out. It is okay for everyone, boys and girls.",
+     "hi": "रोकर शरीर उदासी को बाहर निकालता है। यह सबके लिए ठीक है, लड़कों के लिए भी और लड़कियों के लिए भी।",
+     "hg": "Rokar body udaasi ko bahar nikaalti hai. Yeh sabke liye theek hai, ladkon ke liye bhi aur ladkiyon ke liye bhi."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-adolescent-mh"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d17-l02",
+  "domain": "d17",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 1,
+  "minutes": 6,
+  "unesco": [
+   5,
+   6
+  ],
+  "title": {
+   "en": "Growing Up Without the Comparison Trap",
+   "hi": "तुलना के जाल में फँसे बिना बड़ा होना",
+   "hg": "Comparison Trap Se Bachke Bade Hona"
+  },
+  "subtitle": {
+   "en": "Puberty worries, body image and self-esteem",
+   "hi": "प्यूबर्टी की चिंता, बॉडी इमेज और आत्म-सम्मान",
+   "hg": "Puberty ki tension, body image aur self-esteem"
+  },
+  "hook": {
+   "en": "Someone in class is taller. Someone has clearer skin. Someone already looks grown up. Your brain keeps score, and the scoreboard is rigged.",
+   "hi": "क्लास में कोई ज़्यादा लंबा है। किसी की स्किन ज़्यादा साफ़ है। कोई अभी से बड़ा दिखने लगा है। तुम्हारा दिमाग़ स्कोर गिनता रहता है, और यह स्कोरबोर्ड ही ग़लत है।",
+   "hg": "Class mein koi zyada lamba hai. Kisi ki skin zyada clear hai. Koi abhi se bada dikhne laga hai. Tumhara dimaag score ginta rehta hai, aur yeh scoreboard hi rigged hai."
+  },
+  "objectives": [
+   {
+    "en": "Explain why bodies in the same class change at different times.",
+    "hi": "समझा सको कि एक ही क्लास के बच्चों के शरीर अलग-अलग समय पर क्यों बदलते हैं।",
+    "hg": "Samjha sako ki ek hi class ke bachchon ki bodies alag-alag time par kyun badalti hain."
+   },
+   {
+    "en": "Spot how filters and advertisements distort what looks normal.",
+    "hi": "पहचान सको कि फ़िल्टर और विज्ञापन 'नॉर्मल' की तस्वीर को कैसे बिगाड़ते हैं।",
+    "hg": "Pehchaan sako ki filters aur ads 'normal' ki picture ko kaise bigaadte hain."
+   },
+   {
+    "en": "Name what builds self-esteem and whom to ask for help.",
+    "hi": "बता सको कि आत्म-सम्मान किन चीज़ों से बनता है और मदद किससे माँगनी है।",
+    "hg": "Bata sako ki self-esteem kin cheezon se banta hai aur help kisse maangni hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Puberty worries are normal",
+     "hi": "प्यूबर्टी की चिंता आम है",
+     "hg": "Puberty ki tension normal hai"
+    },
+    "body": {
+     "en": "Puberty usually begins between 8 and 13 in girls and between 9 and 14 in boys, so in one classroom some bodies have changed a lot and some have not started. Both are normal. Almost everyone worries about something: being too short, too tall, too hairy, not hairy enough, breasts, voice, pimples, sweat. The worry feels private, but most classmates carry their own version of it. Starting early or late does not decide how you will finally look. If nothing has started by 13 for girls or 14 for boys, a doctor can check, and usually everything is fine.",
+     "hi": "प्यूबर्टी आम तौर पर लड़कियों में 8 से 13 साल और लड़कों में 9 से 14 साल के बीच शुरू होती है। इसलिए एक ही क्लास में कुछ बच्चों का शरीर काफ़ी बदल चुका होता है और कुछ का बदलना शुरू भी नहीं हुआ होता। दोनों नॉर्मल हैं। लगभग हर किसी को कोई न कोई चिंता रहती है: क़द छोटा है, बहुत लंबा है, बाल ज़्यादा हैं, बाल कम हैं, स्तन, आवाज़, मुँहासे, पसीना। यह चिंता सिर्फ़ अपनी लगती है, पर क्लास के ज़्यादातर बच्चे अपनी-अपनी ऐसी ही चिंता लिए घूम रहे होते हैं। जल्दी या देर से शुरू होना यह तय नहीं करता कि तुम आख़िर में कैसे दिखोगे। अगर लड़कियों में 13 और लड़कों में 14 साल तक कुछ भी शुरू न हो, तो डॉक्टर जाँच कर सकते हैं, और ज़्यादातर सब ठीक ही निकलता है।",
+     "hg": "Puberty aam taur par ladkiyon mein 8 se 13 saal aur ladkon mein 9 se 14 saal ke beech shuru hoti hai. Isliye ek hi class mein kuch bachchon ki body kaafi badal chuki hoti hai aur kuch ki shuru bhi nahi hui hoti. Dono normal hain. Lagbhag har kisi ko koi na koi tension rehti hai: height kam hai, height bahut zyada hai, baal zyada hain, baal kam hain, breasts, awaaz, pimples, paseena. Yeh tension sirf apni lagti hai, par class ke zyadatar bachche apna-apna version lekar ghoom rahe hote hain. Jaldi ya late shuru hona yeh decide nahi karta ki tum finally kaise dikhoge. Agar ladkiyon mein 13 aur ladkon mein 14 saal tak kuch bhi shuru na ho, toh doctor check kar sakte hain, aur zyadatar sab theek hi nikalta hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Why comparing hurts",
+     "hi": "तुलना क्यों चुभती है",
+     "hg": "Comparison kyun chubhta hai"
+    },
+    "body": {
+     "en": "Your brain compares automatically; it is how humans work out where they stand. The trouble is that the comparison is unfair. You see your own body in the bathroom mirror on a bad day, and other people at their best angle. Online it is worse: filters smooth skin, change face shape and lighten skin tone, and people post one photo out of fifty. Advertisements for fairness creams, height powders and weight-loss products earn money by making you feel something is wrong with you. When the 'I look worse' thought arrives, name it: 'That is the comparison trap.'",
+     "hi": "दिमाग़ अपने आप तुलना करता है; इंसान इसी तरह समझता है कि वह कहाँ खड़ा है। दिक़्क़त यह है कि यह तुलना बराबरी की नहीं होती। तुम अपना शरीर बुरे दिन पर बाथरूम के शीशे में देखते हो, और दूसरों को उनके सबसे अच्छे एंगल से। ऑनलाइन हाल और बुरा है: फ़िल्टर स्किन को चिकना कर देते हैं, चेहरे का आकार बदल देते हैं और रंग गोरा कर देते हैं, और लोग पचास में से एक फ़ोटो ही डालते हैं। गोरेपन की क्रीम, क़द बढ़ाने वाले पाउडर और वज़न घटाने वाले प्रोडक्ट के विज्ञापन इसी से कमाते हैं कि तुम्हें लगे तुममें कोई कमी है। जब 'बाक़ी सब मुझसे अच्छे दिखते हैं' वाला ख़याल आए, तो उसे नाम दो: 'यह तुलना का जाल है।'",
+     "hg": "Dimaag apne aap compare karta hai; insaan isi tarah samajhta hai ki woh kahan khada hai. Problem yeh hai ki yeh comparison fair nahi hota. Tum apni body bure din par bathroom ke mirror mein dekhte ho, aur doosron ko unke best angle se. Online haal aur bura hai: filters skin smooth kar dete hain, face ka shape badal dete hain aur rang gora kar dete hain, aur log pachaas mein se ek photo hi daalte hain. Fairness cream, height powder aur weight-loss products ke ads isi se kamaate hain ki tumhe lage tum mein koi kami hai. Jab 'baaki sab mujhse achhe dikhte hain' wala thought aaye, toh usse naam do: 'Yeh comparison trap hai.'"
+    }
+   },
+   {
+    "h": {
+     "en": "What self-esteem is really made of",
+     "hi": "आत्म-सम्मान असल में किससे बनता है",
+     "hg": "Self-esteem actually kis cheez se banta hai"
+    },
+    "body": {
+     "en": "Self-esteem means feeling that you are worth something even on a bad day. It does not come from looking a certain way. It grows from things you do: learning a skill, keeping a promise, helping someone, finishing something hard. Rules like 'boys do not cry' or 'girls must be thin and fair' are stereotypes, not facts, and they leave everyone feeling they are failing. Teasing someone about weight, height, skin colour, body hair or a changing voice is bullying, even when it is called a joke. You can refuse to join in, and you can say 'that is not funny'.",
+     "hi": "आत्म-सम्मान का मतलब है यह महसूस करना कि बुरे दिन पर भी तुम्हारी क़ीमत है। यह किसी ख़ास तरह दिखने से नहीं आता। यह उन कामों से बढ़ता है जो तुम करते हो: कोई हुनर सीखना, वादा निभाना, किसी की मदद करना, कोई मुश्किल काम पूरा करना। 'लड़के रोते नहीं' या 'लड़कियों को पतला और गोरा होना चाहिए' जैसी बातें स्टीरियोटाइप हैं, सच नहीं, और इनकी वजह से हर किसी को लगता है कि वह फ़ेल हो रहा है। किसी के वज़न, क़द, रंग, शरीर के बालों या बदलती आवाज़ का मज़ाक़ उड़ाना बुलिंग है, चाहे उसे 'मज़ाक़' ही क्यों न कहा जाए। तुम उसमें शामिल होने से मना कर सकते हो, और कह सकते हो 'यह मज़ाक़ नहीं है।'",
+     "hg": "Self-esteem ka matlab hai yeh feel karna ki bure din par bhi tumhari value hai. Yeh kisi khaas tarah dikhne se nahi aata. Yeh un kaamon se badhta hai jo tum karte ho: koi skill seekhna, promise nibhana, kisi ki help karna, koi mushkil kaam poora karna. 'Ladke rote nahi' ya 'ladkiyon ko patla aur gora hona chahiye' jaisi baatein stereotypes hain, facts nahi, aur inki wajah se har kisi ko lagta hai ki woh fail ho raha hai. Kisi ke weight, height, rang, body hair ya badalti awaaz ka mazaak udana bullying hai, chahe usse 'joke' hi kyun na bola jaaye. Tum usme shaamil hone se mana kar sakte ho, aur bol sakte ho 'yeh funny nahi hai.'"
+    }
+   },
+   {
+    "h": {
+     "en": "When worry gets heavy",
+     "hi": "जब चिंता भारी लगने लगे",
+     "hg": "Jab tension heavy lagne lage"
+    },
+    "body": {
+     "en": "Stress shows up in the body: headaches, stomach aches, trouble sleeping, snapping at people, not wanting to go to school. The things that help are simple and real: enough sleep, moving your body, time away from the screen, doing something you enjoy, and saying the worry aloud to someone you trust. If worry about your body or anything else stays for many days, or teasing does not stop, tell a parent, teacher or school counsellor. You can also call Tele-MANAS on 14416, a free mental health helpline, or the Child Helpline on 1098. Asking for help is a skill, not a weakness.",
+     "hi": "तनाव शरीर में दिखता है: सिरदर्द, पेट दर्द, नींद न आना, छोटी बात पर चिढ़ जाना, स्कूल जाने का मन न करना। जो चीज़ें मदद करती हैं वे सीधी-सादी और असली हैं: पूरी नींद, शरीर को हिलाना-डुलाना, स्क्रीन से दूर थोड़ा समय, कोई पसंद का काम, और अपनी चिंता किसी भरोसे वाले इंसान को बोलकर बताना। अगर अपने शरीर या किसी और बात की चिंता कई दिनों तक बनी रहे, या चिढ़ाना बंद न हो, तो माता-पिता, टीचर या स्कूल काउंसलर को बताओ। तुम टेली-मानस 14416 पर भी कॉल कर सकते हो, यह मुफ़्त मानसिक स्वास्थ्य हेल्पलाइन है, या चाइल्ड हेल्पलाइन 1098 पर। मदद माँगना एक हुनर है, कमज़ोरी नहीं।",
+     "hg": "Stress body mein dikhta hai: sirdard, pet dard, neend na aana, chhoti baat par chidh jaana, school jaane ka mann na karna. Jo cheezein help karti hain woh simple aur real hain: poori neend, body ko move karna, screen se door thoda time, koi pasand ka kaam, aur apni tension kisi bharose wale insaan ko bolkar batana. Agar apni body ya kisi aur baat ki tension kai dinon tak bani rahe, ya chidhana band na ho, toh parents, teacher ya school counsellor ko batao. Tum Tele-MANAS 14416 par bhi call kar sakte ho, yeh free mental health helpline hai, ya Child Helpline 1098 par. Help maangna ek skill hai, kamzori nahi."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "If my puberty started late or early, my body will never turn out normal.",
+    "hi": "अगर मेरी प्यूबर्टी देर से या जल्दी शुरू हुई, तो मेरा शरीर कभी नॉर्मल नहीं बनेगा।",
+    "hg": "Agar meri puberty late ya jaldi shuru hui, toh meri body kabhi normal nahi banegi."
+   },
+   "fact": {
+    "en": "Timing varies widely and does not decide the final result. Bodies that start early and bodies that start late both grow into normal adult bodies.",
+    "hi": "शुरू होने का समय हर किसी का अलग होता है और इससे आख़िरी नतीजा तय नहीं होता। जल्दी शुरू होने वाले और देर से शुरू होने वाले, दोनों शरीर नॉर्मल वयस्क शरीर बनते हैं।",
+    "hg": "Timing sabki alag hoti hai aur isse final result decide nahi hota. Jaldi shuru hone wali aur late shuru hone wali, dono bodies normal adult bodies banti hain."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Puberty has a wide normal timetable, so comparing bodies in class means comparing different stages.",
+    "hi": "प्यूबर्टी का नॉर्मल टाइमटेबल बहुत चौड़ा है, इसलिए क्लास में शरीरों की तुलना असल में अलग-अलग पड़ावों की तुलना है।",
+    "hg": "Puberty ka normal timetable bahut wide hai, isliye class mein bodies compare karna actually alag-alag stages compare karna hai."
+   },
+   {
+    "en": "Photos online are chosen, edited and filtered, so they are not a fair mirror.",
+    "hi": "ऑनलाइन फ़ोटो चुनी हुई, एडिट की हुई और फ़िल्टर लगी होती हैं, इसलिए वे सही आईना नहीं हैं।",
+    "hg": "Online photos chuni hui, edited aur filtered hoti hain, isliye woh fair mirror nahi hain."
+   },
+   {
+    "en": "Self-esteem grows from what you do and how you treat people, and help is there when worry feels heavy.",
+    "hi": "आत्म-सम्मान इससे बढ़ता है कि तुम क्या करते हो और लोगों से कैसे पेश आते हो, और जब चिंता भारी लगे तो मदद मौजूद है।",
+    "hg": "Self-esteem isse badhta hai ki tum kya karte ho aur logon se kaise pesh aate ho, aur jab tension heavy lage toh help available hai."
+   }
+  ],
+  "activity": {
+   "en": "Write down three things your body lets you do (run, draw, dance, hug, cycle) and one thing you are getting better at. Keep the list where you can see it on a bad day.",
+   "hi": "तीन ऐसी चीज़ें लिखो जो तुम्हारा शरीर तुम्हें करने देता है (दौड़ना, चित्र बनाना, नाचना, गले लगाना, साइकिल चलाना) और एक चीज़ जिसमें तुम बेहतर हो रहे हो। यह लिस्ट ऐसी जगह रखो जहाँ बुरे दिन पर दिख जाए।",
+   "hg": "Teen aisi cheezein likho jo tumhari body tumhe karne deti hai (daudna, drawing, dance, hug karna, cycle chalana) aur ek cheez jisme tum better ho rahe ho. Yeh list aisi jagah rakho jahan bure din par dikh jaaye."
+  },
+  "interactive": "puberty_lab",
+  "quiz": [
+   {
+    "id": "d17-l02-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Two classmates are both 12. One has started puberty and the other has not. What does this mean?",
+     "hi": "दो सहपाठी 12 साल के हैं। एक की प्यूबर्टी शुरू हो चुकी है और दूसरे की नहीं। इसका क्या मतलब है?",
+     "hg": "Do classmates 12 saal ke hain. Ek ki puberty shuru ho chuki hai aur doosre ki nahi. Iska kya matlab hai?"
+    },
+    "options": [
+     {
+      "en": "The one who has not started has a health problem",
+      "hi": "जिसकी शुरू नहीं हुई, उसे कोई बीमारी है",
+      "hg": "Jiski shuru nahi hui, usse koi health problem hai"
+     },
+     {
+      "en": "The one who started early will stay ahead forever",
+      "hi": "जिसकी जल्दी शुरू हुई, वह हमेशा आगे रहेगा",
+      "hg": "Jiski jaldi shuru hui, woh hamesha aage rahega"
+     },
+     {
+      "en": "Both are within the normal range",
+      "hi": "दोनों नॉर्मल दायरे में हैं",
+      "hg": "Dono normal range mein hain"
+     },
+     {
+      "en": "Both should see a doctor urgently",
+      "hi": "दोनों को तुरंत डॉक्टर के पास जाना चाहिए",
+      "hg": "Dono ko turant doctor ke paas jaana chahiye"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "Puberty can begin anywhere in a range of several years, so both classmates are developing normally.",
+     "hi": "प्यूबर्टी कई सालों के दायरे में कभी भी शुरू हो सकती है, इसलिए दोनों सहपाठियों का विकास नॉर्मल है।",
+     "hg": "Puberty kai saalon ki range mein kabhi bhi shuru ho sakti hai, isliye dono classmates ka development normal hai."
+    }
+   },
+   {
+    "id": "d17-l02-q2",
+    "type": "tf",
+    "q": {
+     "en": "A filtered photo on social media is a reliable way to judge how someone really looks.",
+     "hi": "सोशल मीडिया पर फ़िल्टर लगी फ़ोटो से भरोसे के साथ पता चलता है कि कोई असल में कैसा दिखता है।",
+     "hg": "Social media par filter lagi photo se reliably pata chalta hai ki koi actually kaisa dikhta hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Filters change skin, face shape and colour, and people post only their best pictures, so the photo is not real life.",
+     "hi": "फ़िल्टर स्किन, चेहरे का आकार और रंग बदल देते हैं, और लोग सिर्फ़ अपनी सबसे अच्छी फ़ोटो डालते हैं, इसलिए वह फ़ोटो असल ज़िंदगी नहीं है।",
+     "hg": "Filters skin, face shape aur rang badal dete hain, aur log sirf apni best photos daalte hain, isliye woh photo real life nahi hai."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "nhm-rksk",
+   "tele-manas"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d17-l03",
+  "domain": "d17",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   5,
+   7
+  ],
+  "title": {
+   "en": "Pressure, Rejection and Shame: A Survival Guide",
+   "hi": "दबाव, रिजेक्शन और शर्म: संभलने की गाइड",
+   "hg": "Pressure, Rejection aur Sharam: Survival Guide"
+  },
+  "subtitle": {
+   "en": "What to do with the feelings nobody talks about",
+   "hi": "उन एहसासों का क्या करें जिनकी कोई बात नहीं करता",
+   "hg": "Un feelings ka kya karein jinki koi baat nahi karta"
+  },
+  "hook": {
+   "en": "Left on seen. Left out of the plan. Laughed at for not having 'done anything' yet. These hurt for real, and there are better moves than pretending you are fine.",
+   "hi": "मैसेज सीन करके छोड़ दिया गया। प्लान से बाहर रखा गया। 'अब तक कुछ किया नहीं' कहकर हँसी उड़ाई गई। ये बातें सच में चुभती हैं, और 'मैं ठीक हूँ' का नाटक करने से बेहतर रास्ते मौजूद हैं।",
+   "hg": "Seen karke chhod diya. Plan se bahar rakha. 'Abhi tak kuch kiya nahi' bolkar hansi udayi. Yeh sab sach mein chubhta hai, aur 'main theek hoon' ka natak karne se better moves available hain."
+  },
+  "objectives": [
+   {
+    "en": "Tell the difference between guilt and shame.",
+    "hi": "अपराध-बोध (guilt) और शर्म (shame) का फ़र्क़ बता सको।",
+    "hg": "Guilt aur shame ka fark bata sako."
+   },
+   {
+    "en": "Respond to pressure to date or be sexually active.",
+    "hi": "डेट करने या यौन रूप से सक्रिय होने के दबाव का जवाब दे सको।",
+    "hg": "Date karne ya sexually active hone ke pressure ka jawab de sako."
+   },
+   {
+    "en": "Choose coping that helps over coping that harms.",
+    "hi": "नुक़सान करने वाले तरीक़ों की जगह मदद करने वाले तरीक़े चुन सको।",
+    "hg": "Nuksaan karne wali coping ki jagah help karne wali coping chun sako."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Why rejection and loneliness hurt so much",
+     "hi": "रिजेक्शन और अकेलापन इतना क्यों दुखता है",
+     "hg": "Rejection aur akelapan itna kyun dukhta hai"
+    },
+    "body": {
+     "en": "Being rejected by a crush, dropped by a friend group or left out of a plan can hurt like a physical injury, and between 13 and 15 the brain is especially tuned to what peers think. That is why one unanswered message can ruin a whole day. Rejection tells you about the fit between two people at one moment; it is not a score of your worth. Loneliness is also common, even among people who look popular online. It is a signal, like hunger, that you need connection, and it eases with small real contact: one honest conversation, one shared activity, one person.",
+     "hi": "क्रश का मना कर देना, दोस्तों के ग्रुप से निकाल दिया जाना या किसी प्लान से बाहर रखा जाना शरीर की चोट जैसा दर्द दे सकता है, और 13 से 15 साल की उम्र में दिमाग़ इस बात पर ख़ास तौर से ध्यान देता है कि हमउम्र लोग क्या सोचते हैं। इसीलिए एक मैसेज का जवाब न आना पूरा दिन ख़राब कर सकता है। रिजेक्शन बस यह बताता है कि उस पल में दो लोगों का मेल नहीं बैठा; यह तुम्हारी क़ीमत का स्कोर नहीं है। अकेलापन भी बहुत आम है, उन लोगों में भी जो ऑनलाइन बहुत पॉपुलर दिखते हैं। यह भूख की तरह एक इशारा है कि तुम्हें जुड़ाव चाहिए, और यह छोटे-छोटे असली संपर्क से हल्का होता है: एक सच्ची बातचीत, साथ में किया गया एक काम, एक इंसान।",
+     "hg": "Crush ka mana kar dena, friend group se nikaal diya jaana ya kisi plan se bahar rakha jaana physical chot jaisa dard de sakta hai, aur 13 se 15 ki age mein dimaag is baat par khaas dhyaan deta hai ki peers kya sochte hain. Isiliye ek message ka reply na aana poora din kharab kar sakta hai. Rejection bas yeh batata hai ki us moment mein do logon ka fit nahi baitha; yeh tumhari worth ka score nahi hai. Akelapan bhi bahut common hai, un logon mein bhi jo online bahut popular dikhte hain. Yeh bhookh ki tarah ek signal hai ki tumhe connection chahiye, aur yeh chhote-chhote real contact se halka hota hai: ek honest baatcheet, saath mein kiya ek kaam, ek insaan."
+    }
+   },
+   {
+    "h": {
+     "en": "Guilt versus shame",
+     "hi": "अपराध-बोध बनाम शर्म",
+     "hg": "Guilt versus shame"
+    },
+    "body": {
+     "en": "Guilt says 'I did something wrong'. Shame says 'I am something wrong'. Guilt can be useful: it pushes you to apologise or repair. Shame mostly makes people hide. Many teenagers carry shame about things that are simply normal: sexual thoughts, masturbation, body changes, attraction, including to the same gender, or not feeling attraction at all. None of these makes you dirty or bad. Shame grows in silence and shrinks when you get accurate information or tell one safe person. If the shame comes from something another person did to you or pushed you into, the wrong is theirs, never yours; tell a trusted adult or call Child Helpline 1098.",
+     "hi": "अपराध-बोध (guilt) कहता है 'मैंने कुछ ग़लत किया।' शर्म (shame) कहती है 'मैं ही ग़लत हूँ।' अपराध-बोध काम का हो सकता है: वह तुम्हें माफ़ी माँगने या ग़लती सुधारने की तरफ़ धकेलता है। शर्म ज़्यादातर इंसान को छिपने पर मजबूर करती है। बहुत से किशोर ऐसी बातों की शर्म ढोते हैं जो बिल्कुल नॉर्मल हैं: यौन ख़याल, हस्तमैथुन (masturbation), शरीर में बदलाव, आकर्षण, जिसमें अपने ही जेंडर की तरफ़ आकर्षण भी शामिल है, या आकर्षण महसूस ही न होना। इनमें से कोई भी बात तुम्हें गंदा या बुरा नहीं बनाती। शर्म चुप्पी में बढ़ती है और सही जानकारी मिलने या किसी एक सुरक्षित इंसान को बताने से घटती है। अगर शर्म किसी ऐसी बात से आ रही है जो किसी और ने तुम्हारे साथ की या तुमसे दबाव डालकर करवाई, तो ग़लती उसकी है, तुम्हारी कभी नहीं; किसी भरोसे वाले बड़े को बताओ या चाइल्ड हेल्पलाइन 1098 पर कॉल करो।",
+     "hg": "Guilt kehta hai 'maine kuch galat kiya.' Shame kehti hai 'main hi galat hoon.' Guilt useful ho sakta hai: woh tumhe sorry bolne ya galti theek karne ki taraf push karta hai. Shame zyadatar insaan ko chhupne par majboor karti hai. Bahut se teenagers aisi cheezon ki shame dhote hain jo bilkul normal hain: sexual thoughts, masturbation, body changes, attraction, jisme same gender ki taraf attraction bhi shaamil hai, ya attraction feel hi na hona. Inme se koi bhi cheez tumhe ganda ya bura nahi banati. Shame chuppi mein badhti hai aur sahi information milne ya kisi ek safe insaan ko batane se ghatti hai. Agar shame kisi aisi cheez se aa rahi hai jo kisi aur ne tumhare saath ki ya tumse pressure daalkar karwayi, toh galti uski hai, tumhari kabhi nahi; kisi trusted adult ko batao ya Child Helpline 1098 par call karo."
+    }
+   },
+   {
+    "h": {
+     "en": "Pressure to date or be sexual",
+     "hi": "डेट करने या सेक्सुअल होने का दबाव",
+     "hg": "Date karne ya sexual hone ka pressure"
+    },
+    "body": {
+     "en": "Friends, films and reels can make it seem that everyone your age is in a relationship or sexually active. Most of that is exaggeration; loud stories travel further than true ones. Not being interested, not being ready, or deciding to wait is a complete and respectable choice, and nobody is owed an explanation. Anyone who teases, dares or says 'if you loved me you would' is using pressure, and pressure is the opposite of consent. In India, the POCSO Act treats any sexual act with a person under 18 as an offence even if they agreed. Respect other people's 'no' and 'not yet' as firmly as your own.",
+     "hi": "दोस्तों, फ़िल्मों और रील्स से ऐसा लग सकता है कि तुम्हारी उम्र का हर कोई रिलेशनशिप में है या यौन रूप से सक्रिय है। इसमें ज़्यादातर बढ़ा-चढ़ाकर कही गई बातें होती हैं; शोर वाली कहानियाँ सच्ची कहानियों से ज़्यादा दूर तक पहुँचती हैं। दिलचस्पी न होना, तैयार न होना या रुकने का फ़ैसला करना एक पूरा और इज़्ज़त के लायक़ चुनाव है, और इसकी सफ़ाई तुम्हें किसी को नहीं देनी। जो चिढ़ाता है, चैलेंज देता है या कहता है 'प्यार करते तो मान जाते', वह दबाव डाल रहा है, और दबाव सहमति का उल्टा है। भारत में पॉक्सो क़ानून के तहत 18 साल से कम उम्र के व्यक्ति के साथ कोई भी यौन काम अपराध है, चाहे उसने हाँ ही क्यों न कही हो। दूसरों की 'ना' और 'अभी नहीं' की उतनी ही इज़्ज़त करो जितनी अपनी।",
+     "hg": "Friends, films aur reels se aisa lag sakta hai ki tumhari age ka har koi relationship mein hai ya sexually active hai. Isme zyadatar exaggeration hota hai; shor wali stories sachchi stories se zyada door tak pahunchti hain. Interest na hona, ready na hona ya wait karne ka decision lena ek complete aur respectable choice hai, aur iski safai tumhe kisi ko nahi deni. Jo chidhata hai, dare deta hai ya kehta hai 'pyaar karte toh maan jaate', woh pressure daal raha hai, aur pressure consent ka opposite hai. India mein POCSO Act ke under 18 saal se kam umar ke person ke saath koi bhi sexual act offence hai, chahe usne haan hi kyun na boli ho. Doosron ki 'no' aur 'abhi nahi' ki utni hi respect karo jitni apni."
+    }
+   },
+   {
+    "h": {
+     "en": "Coping that helps, coping that harms",
+     "hi": "संभलने के अच्छे और बुरे तरीक़े",
+     "hg": "Coping jo help kare, coping jo harm kare"
+    },
+    "body": {
+     "en": "Coping is whatever you do to get through a hard feeling. Helpful coping lowers the feeling without creating a new problem: sleep, sport or a walk, music, writing it down, slow breathing, talking to a friend or an adult, taking a break from an app. Harmful coping gives quick relief and a bigger bill later: scrolling all night, skipping meals, alcohol, smoking or vaping, picking fights, hurting yourself. If low mood, worry or anger stays on most days for two weeks or more, or you think about harming yourself, tell a trusted adult and call Tele-MANAS on 14416. If you are in immediate danger, call 112.",
+     "hi": "मुश्किल एहसास से निकलने के लिए तुम जो भी करते हो, वह कोपिंग है। मदद करने वाले तरीक़े एहसास को हल्का करते हैं और कोई नई परेशानी खड़ी नहीं करते: नींद, खेल या टहलना, संगीत, लिख डालना, धीमी साँसें, किसी दोस्त या बड़े से बात करना, किसी ऐप से कुछ दिन की छुट्टी। नुक़सान करने वाले तरीक़े तुरंत राहत देते हैं और बाद में बड़ा बिल थमाते हैं: रात भर स्क्रोल करना, खाना छोड़ देना, शराब, सिगरेट या वेप, झगड़े मोल लेना, ख़ुद को चोट पहुँचाना। अगर उदासी, चिंता या गुस्सा दो हफ़्ते या उससे ज़्यादा समय तक लगभग हर दिन बना रहे, या ख़ुद को नुक़सान पहुँचाने के ख़याल आएँ, तो किसी भरोसे वाले बड़े को बताओ और टेली-मानस 14416 पर कॉल करो। अगर तुरंत ख़तरा हो, तो 112 पर कॉल करो।",
+     "hg": "Mushkil feeling se nikalne ke liye tum jo bhi karte ho, woh coping hai. Helpful coping feeling ko halka karti hai aur koi nayi problem khadi nahi karti: neend, sport ya walk, music, likh daalna, dheemi saansein, kisi friend ya adult se baat karna, kisi app se kuch din ka break. Harmful coping turant relief deti hai aur baad mein bada bill thamati hai: raat bhar scroll karna, khana skip karna, alcohol, smoking ya vaping, jhagde mol lena, khud ko hurt karna. Agar low mood, tension ya gussa do hafte ya usse zyada time tak lagbhag har din bana rahe, ya khud ko nuksaan pahunchane ke thoughts aayein, toh kisi trusted adult ko batao aur Tele-MANAS 14416 par call karo. Agar turant khatra ho, toh 112 par call karo."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Strong people handle their problems alone.",
+    "hi": "मज़बूत लोग अपनी परेशानियाँ अकेले संभालते हैं।",
+    "hg": "Strong log apni problems akele handle karte hain."
+   },
+   "fact": {
+    "en": "Asking for help is a coping skill, not a failure. Talking to someone you trust makes hard feelings easier to carry and problems easier to solve; hiding them usually makes them heavier.",
+    "hi": "मदद माँगना संभलने का एक हुनर है, हार नहीं। किसी भरोसे वाले से बात करने पर मुश्किल एहसास हल्के लगते हैं और परेशानियाँ सुलझाना आसान होता है; छिपाने से वे अक्सर और भारी हो जाती हैं।",
+    "hg": "Help maangna ek coping skill hai, failure nahi. Kisi bharose wale se baat karne par mushkil feelings halki lagti hain aur problems solve karna aasaan hota hai; chhupane se woh aksar aur heavy ho jaati hain."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Rejection is about fit at one moment, not a verdict on your worth.",
+    "hi": "रिजेक्शन उस पल के मेल की बात है, तुम्हारी क़ीमत पर कोई फ़ैसला नहीं।",
+    "hg": "Rejection us moment ke fit ki baat hai, tumhari worth par koi verdict nahi."
+   },
+   {
+    "en": "Guilt is about an action you can repair; shame about normal thoughts and bodies is not deserved.",
+    "hi": "अपराध-बोध किसी ऐसे काम का होता है जिसे सुधारा जा सकता है; नॉर्मल ख़यालों और शरीर को लेकर शर्म के तुम हक़दार नहीं हो।",
+    "hg": "Guilt kisi aise action ka hota hai jo repair ho sakta hai; normal thoughts aur body ko lekar shame tum deserve nahi karte."
+   },
+   {
+    "en": "Waiting is a valid choice, and Tele-MANAS 14416 or a trusted adult is there when feelings do not lift.",
+    "hi": "रुकना एक सही चुनाव है, और जब एहसास हल्के न हों तो टेली-मानस 14416 या कोई भरोसे वाला बड़ा मौजूद है।",
+    "hg": "Wait karna ek valid choice hai, aur jab feelings halki na hon toh Tele-MANAS 14416 ya koi trusted adult available hai."
+   }
+  ],
+  "activity": {
+   "en": "Make a private 'bad day plan': three things that calm you, two people you could message, and one helpline number (14416). Save it in your notes.",
+   "hi": "अपना एक निजी 'बुरे दिन का प्लान' बनाओ: तीन चीज़ें जो तुम्हें शांत करती हैं, दो लोग जिन्हें तुम मैसेज कर सकते हो, और एक हेल्पलाइन नंबर (14416)। इसे अपने नोट्स में सेव कर लो।",
+   "hg": "Apna ek private 'bad day plan' banao: teen cheezein jo tumhe calm karti hain, do log jinhe tum message kar sakte ho, aur ek helpline number (14416). Isse apne notes mein save kar lo."
+  },
+  "interactive": "communication",
+  "quiz": [
+   {
+    "id": "d17-l03-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Which of these thoughts is shame rather than guilt?",
+     "hi": "इनमें से कौन-सा ख़याल अपराध-बोध नहीं, शर्म है?",
+     "hg": "Inme se kaun-sa thought guilt nahi, shame hai?"
+    },
+    "options": [
+     {
+      "en": "'I should not have shouted at my sister.'",
+      "hi": "'मुझे बहन पर चिल्लाना नहीं चाहिए था।'",
+      "hg": "'Mujhe behen par chillana nahi chahiye tha.'"
+     },
+     {
+      "en": "'I am a disgusting person.'",
+      "hi": "'मैं एक घटिया इंसान हूँ।'",
+      "hg": "'Main ek ghatiya insaan hoon.'"
+     },
+     {
+      "en": "'I need to say sorry for lying.'",
+      "hi": "'मुझे झूठ बोलने के लिए माफ़ी माँगनी है।'",
+      "hg": "'Mujhe jhooth bolne ke liye sorry bolna hai.'"
+     },
+     {
+      "en": "'I broke my promise and should fix it.'",
+      "hi": "'मैंने वादा तोड़ा और मुझे इसे ठीक करना चाहिए।'",
+      "hg": "'Maine promise toda aur mujhe isse theek karna chahiye.'"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Shame attacks who you are; guilt is about a specific action that you can apologise for or repair.",
+     "hi": "शर्म इस पर वार करती है कि तुम कौन हो; अपराध-बोध किसी ख़ास काम के बारे में होता है जिसके लिए माफ़ी माँगी या जिसे सुधारा जा सकता है।",
+     "hg": "Shame is par attack karti hai ki tum kaun ho; guilt kisi specific action ke baare mein hota hai jiske liye sorry bol sakte ho ya jisse repair kar sakte ho."
+    }
+   },
+   {
+    "id": "d17-l03-q2",
+    "type": "scenario",
+    "q": {
+     "en": "Kabir's friends call him 'still a kid' because he has never had a girlfriend. What is the most accurate thing for Kabir to remember?",
+     "hi": "कबीर के दोस्त उसे 'अभी बच्चा है' कहते हैं क्योंकि उसकी कभी कोई गर्लफ़्रेंड नहीं रही। कबीर के लिए सबसे सही बात क्या याद रखना है?",
+     "hg": "Kabir ke friends usse 'abhi bachcha hai' bolte hain kyunki uski kabhi girlfriend nahi rahi. Kabir ke liye sabse sahi baat kya yaad rakhna hai?"
+    },
+    "options": [
+     {
+      "en": "Something is wrong with his development",
+      "hi": "उसके विकास में कोई गड़बड़ है",
+      "hg": "Uske development mein kuch gadbad hai"
+     },
+     {
+      "en": "He should find a girlfriend quickly to fit in",
+      "hi": "ग्रुप में फ़िट होने के लिए उसे जल्दी गर्लफ़्रेंड बना लेनी चाहिए",
+      "hg": "Group mein fit hone ke liye usse jaldi girlfriend bana leni chahiye"
+     },
+     {
+      "en": "Not being interested or choosing to wait is a normal, valid choice",
+      "hi": "दिलचस्पी न होना या रुकने का फ़ैसला करना नॉर्मल और सही चुनाव है",
+      "hg": "Interest na hona ya wait karna choose karna normal aur valid choice hai"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "There is no deadline for relationships. Teasing is pressure, and peers often exaggerate their own experience.",
+     "hi": "रिलेशनशिप की कोई डेडलाइन नहीं होती। चिढ़ाना दबाव डालना है, और हमउम्र लोग अक्सर अपने अनुभव बढ़ा-चढ़ाकर बताते हैं।",
+     "hg": "Relationship ki koi deadline nahi hoti. Chidhana pressure hai, aur peers aksar apna experience badha-chadhakar batate hain."
+    }
+   }
+  ],
+  "refs": [
+   "who-adolescent-mh",
+   "unesco-itgse",
+   "tele-manas",
+   "pocso-2012"
+  ],
+  "warning": {
+   "en": "If you are thinking about harming yourself, you deserve help right now: tell a trusted adult, call Tele-MANAS on 14416, or call 112 in an emergency.",
+   "hi": "अगर ख़ुद को नुक़सान पहुँचाने के ख़याल आ रहे हैं, तो तुम्हें अभी मदद मिलनी चाहिए: किसी भरोसे वाले बड़े को बताओ, टेली-मानस 14416 पर कॉल करो, या इमरजेंसी में 112 पर कॉल करो।",
+   "hg": "Agar khud ko nuksaan pahunchane ke thoughts aa rahe hain, toh tumhe abhi help milni chahiye: kisi trusted adult ko batao, Tele-MANAS 14416 par call karo, ya emergency mein 112 par call karo."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d17-l04",
+  "domain": "d17",
+  "tracks": [
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 8,
+  "unesco": [
+   1,
+   4,
+   5
+  ],
+  "title": {
+   "en": "Anxious, Heartbroken or Being Controlled? Know the Difference",
+   "hi": "बेचैनी, टूटा दिल या कंट्रोल? फ़र्क़ पहचानो",
+   "hg": "Anxiety, Heartbreak ya Control? Fark Pehchano"
+  },
+  "subtitle": {
+   "en": "Relationship anxiety, breakups and emotional abuse",
+   "hi": "रिश्ते की बेचैनी, ब्रेकअप और भावनात्मक शोषण",
+   "hg": "Relationship anxiety, breakup aur emotional abuse"
+  },
+  "hook": {
+   "en": "Checking if they are online. Rereading one message twenty times. Feeling scared to say no. Some of this is ordinary anxiety. Some of it is a warning.",
+   "hi": "बार-बार देखना कि वह ऑनलाइन है या नहीं। एक ही मैसेज बीस बार पढ़ना। 'ना' कहने में डर लगना। इसमें से कुछ आम बेचैनी है। कुछ चेतावनी है।",
+   "hg": "Baar-baar check karna ki woh online hai ya nahi. Ek hi message bees baar padhna. 'No' bolne mein darr lagna. Isme se kuch normal anxiety hai. Kuch warning hai."
+  },
+  "objectives": [
+   {
+    "en": "Describe relationship anxiety and ways to steady it.",
+    "hi": "रिश्ते की बेचैनी को पहचान सको और उसे संभालने के तरीक़े बता सको।",
+    "hg": "Relationship anxiety ko pehchaan sako aur usse steady karne ke tareeke bata sako."
+   },
+   {
+    "en": "Get through a breakup without harming yourself or the other person.",
+    "hi": "ख़ुद को या सामने वाले को नुक़सान पहुँचाए बिना ब्रेकअप से गुज़र सको।",
+    "hg": "Khud ko ya saamne wale ko harm kiye bina breakup se guzar sako."
+   },
+   {
+    "en": "Recognise the pattern of emotional abuse and know where to get help.",
+    "hi": "भावनात्मक शोषण का पैटर्न पहचान सको और जान सको कि मदद कहाँ मिलेगी।",
+    "hg": "Emotional abuse ka pattern pehchaan sako aur jaan sako ki help kahan milegi."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Relationship anxiety",
+     "hi": "रिश्ते की बेचैनी",
+     "hg": "Relationship anxiety"
+    },
+    "body": {
+     "en": "Relationship anxiety is the constant worry that the other person will leave, lose interest or is hiding something. It shows up as checking their last-seen, needing instant replies, testing them, or agreeing to things just to avoid a fight. Some worry is normal when you care about someone. It becomes a problem when it runs your day or pushes you to cross your own boundaries. What steadies it: saying the worry plainly instead of testing, keeping your own friends, sleep and studies, and asking whether the anxiety comes from your thoughts or from how you are actually being treated. A relationship that keeps you permanently on edge deserves a harder look.",
+     "hi": "रिश्ते की बेचैनी का मतलब है लगातार यह डर कि सामने वाला छोड़ देगा, उसकी दिलचस्पी ख़त्म हो जाएगी या वह कुछ छिपा रहा है। यह ऐसे दिखती है: बार-बार लास्ट-सीन देखना, तुरंत जवाब की ज़रूरत महसूस होना, सामने वाले को परखना, या झगड़े से बचने के लिए हर बात मान लेना। जब किसी की परवाह होती है तो थोड़ी चिंता नॉर्मल है। परेशानी तब है जब यही चिंता तुम्हारा पूरा दिन चलाने लगे या तुमसे अपनी ही सीमाएँ तुड़वाने लगे। इसे क्या संभालता है: परखने की जगह अपनी चिंता सीधे शब्दों में कहना, अपने दोस्त, नींद और पढ़ाई बनाए रखना, और ख़ुद से पूछना कि यह बेचैनी मेरे ख़यालों से आ रही है या इस बात से कि मेरे साथ असल में कैसा बर्ताव हो रहा है। जो रिश्ता तुम्हें हर वक़्त तनाव में रखे, उसे ध्यान से देखने की ज़रूरत है।",
+     "hg": "Relationship anxiety ka matlab hai lagataar yeh darr ki saamne wala chhod dega, uska interest khatam ho jaayega ya woh kuch chhupa raha hai. Yeh aise dikhti hai: baar-baar last-seen check karna, turant reply ki zaroorat feel hona, saamne wale ko test karna, ya jhagde se bachne ke liye har baat maan lena. Jab kisi ki parwah hoti hai toh thodi tension normal hai. Problem tab hai jab yahi tension tumhara poora din chalane lage ya tumse apni hi boundaries tudwane lage. Isse kya steady karta hai: test karne ki jagah apni tension seedhe shabdon mein bolna, apne friends, neend aur padhai banaye rakhna, aur khud se poochhna ki yeh anxiety mere thoughts se aa rahi hai ya is baat se ki mere saath actually kaisa behave ho raha hai. Jo relationship tumhe har waqt edge par rakhe, usse dhyaan se dekhne ki zaroorat hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Breakup distress",
+     "hi": "ब्रेकअप का दर्द",
+     "hg": "Breakup ka dard"
+    },
+    "body": {
+     "en": "A breakup can bring crying, anger, poor sleep, no appetite, trouble concentrating and a strong urge to check the other person's profile. This is grief, a normal reaction to losing something that mattered. It usually comes in waves and gets lighter over weeks, not in a straight line. What helps: telling one or two people the truth, keeping your routine, moving your body, muting or unfollowing for a while, and not making big decisions at 2 a.m. What makes it worse: begging, threats and revenge posts. Sharing someone's private photos without consent is also a crime. Accepting the other person's decision to end it is part of respecting consent.",
+     "hi": "ब्रेकअप के बाद रोना, गुस्सा, नींद ख़राब होना, भूख न लगना, ध्यान न लगना और सामने वाले की प्रोफ़ाइल बार-बार देखने की तेज़ इच्छा हो सकती है। यह शोक है, यानी किसी ऐसी चीज़ को खोने पर होने वाली नॉर्मल प्रतिक्रिया जो तुम्हारे लिए मायने रखती थी। यह आम तौर पर लहरों में आता है और हफ़्तों में हल्का होता है, सीधी लाइन में नहीं। क्या मदद करता है: एक-दो लोगों को सच बताना, अपना रूटीन बनाए रखना, शरीर को चलाना-फिराना, कुछ समय के लिए म्यूट या अनफ़ॉलो करना, और रात के 2 बजे बड़े फ़ैसले न लेना। क्या हाल बिगाड़ता है: गिड़गिड़ाना, धमकियाँ और बदले वाली पोस्ट। किसी की निजी फ़ोटो उसकी सहमति के बिना शेयर करना अपराध भी है। सामने वाले के रिश्ता ख़त्म करने के फ़ैसले को मानना सहमति की इज़्ज़त करने का ही हिस्सा है।",
+     "hg": "Breakup ke baad rona, gussa, neend kharab hona, bhookh na lagna, focus na hona aur saamne wale ki profile baar-baar check karne ki strong urge ho sakti hai. Yeh grief hai, yaani kisi aisi cheez ko khone ka normal reaction jo tumhare liye matter karti thi. Yeh aam taur par waves mein aata hai aur hafton mein halka hota hai, seedhi line mein nahi. Kya help karta hai: ek-do logon ko sach batana, apna routine banaye rakhna, body ko move karna, kuch time ke liye mute ya unfollow karna, aur raat ke 2 baje bade decisions na lena. Kya haal bigaadta hai: gidgidana, dhamkiyan aur revenge posts. Kisi ki private photos uski consent ke bina share karna crime bhi hai. Saamne wale ke relationship khatam karne ke decision ko accept karna consent ki respect karne ka hi hissa hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Recognising emotional abuse",
+     "hi": "भावनात्मक शोषण को पहचानना",
+     "hg": "Emotional abuse ko pehchanna"
+    },
+    "body": {
+     "en": "Emotional abuse is a repeated pattern of behaviour used to control, frighten or shrink another person, without necessarily touching them. Signs include constant insults or 'jokes' about your body or intelligence, demanding passwords and live location, deciding what you wear or whom you meet, cutting you off from friends and family, silent treatment as punishment, threatening to leave, to leak photos or to hurt themselves if you do not obey, and gaslighting, which means denying things that happened until you doubt your own memory. One bad argument is not abuse. A pattern that leaves you scared, guilty and smaller is. It can happen to any gender, and it is never caused by the person on the receiving end.",
+     "hi": "भावनात्मक शोषण (emotional abuse) बार-बार दोहराया जाने वाला ऐसा बर्ताव है जिससे किसी को कंट्रोल किया जाता है, डराया जाता है या छोटा महसूस कराया जाता है, भले ही उसे हाथ न लगाया जाए। इसके संकेत हैं: तुम्हारे शरीर या समझ को लेकर लगातार बेइज़्ज़ती या 'मज़ाक़', पासवर्ड और लाइव लोकेशन की माँग, यह तय करना कि तुम क्या पहनोगे या किससे मिलोगे, तुम्हें दोस्तों और परिवार से काट देना, सज़ा के तौर पर बात बंद कर देना, बात न मानने पर छोड़ देने, फ़ोटो लीक करने या ख़ुद को नुक़सान पहुँचाने की धमकी देना, और गैसलाइटिंग, यानी जो हुआ उससे इतना मुकरना कि तुम्हें अपनी ही याददाश्त पर शक होने लगे। एक बुरा झगड़ा शोषण नहीं है। ऐसा पैटर्न जो तुम्हें डरा हुआ, दोषी और छोटा महसूस कराए, वह शोषण है। यह किसी भी जेंडर के साथ हो सकता है, और इसकी वजह कभी भी वह इंसान नहीं होता जो इसे झेल रहा है।",
+     "hg": "Emotional abuse baar-baar repeat hone wala aisa behaviour hai jisse kisi ko control kiya jaata hai, daraya jaata hai ya chhota feel karaya jaata hai, bhale hi usse touch na kiya jaaye. Iske signs hain: tumhari body ya intelligence ko lekar lagataar insult ya 'jokes', passwords aur live location ki demand, yeh decide karna ki tum kya pehnoge ya kisse miloge, tumhe friends aur family se kaat dena, punishment ke taur par silent treatment, baat na maanne par chhod dene, photos leak karne ya khud ko hurt karne ki dhamki, aur gaslighting, yaani jo hua usse itna mukarna ki tumhe apni hi memory par shak hone lage. Ek bura jhagda abuse nahi hai. Aisa pattern jo tumhe dara hua, guilty aur chhota feel karaye, woh abuse hai. Yeh kisi bhi gender ke saath ho sakta hai, aur iski wajah kabhi bhi woh insaan nahi hota jo isse jhel raha hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Getting out of the fog, and helping a friend",
+     "hi": "धुंध से बाहर निकलना, और दोस्त की मदद करना",
+     "hg": "Fog se bahar nikalna, aur friend ki help karna"
+    },
+    "body": {
+     "en": "If this pattern sounds familiar, tell someone outside the relationship: a parent, older sibling, teacher or counsellor, or call Tele-MANAS on 14416. Girls and women can also call 181, and anyone under 18 can call 1098. If a partner threatens self-harm, take it seriously by informing an adult or calling 112, but do not let it hold you in the relationship; you cannot be someone's only safety plan. To support a friend: listen without 'I told you so', say 'this is not your fault', avoid ordering them to leave, stay in touch, and involve a trusted adult if they are in danger or talk about harming themselves.",
+     "hi": "अगर यह पैटर्न जाना-पहचाना लगे, तो रिश्ते से बाहर के किसी इंसान को बताओ: माता-पिता, बड़े भाई-बहन, टीचर या काउंसलर, या टेली-मानस 14416 पर कॉल करो। लड़कियाँ और महिलाएँ 181 पर भी कॉल कर सकती हैं, और 18 साल से कम उम्र का कोई भी 1098 पर कॉल कर सकता है। अगर पार्टनर ख़ुद को नुक़सान पहुँचाने की धमकी दे, तो उसे गंभीरता से लो और किसी बड़े को बताओ या 112 पर कॉल करो, लेकिन इस धमकी की वजह से रिश्ते में बँधे मत रहो; तुम किसी की अकेली सुरक्षा-योजना नहीं बन सकते। दोस्त का साथ देने के लिए: 'मैंने पहले ही कहा था' बोले बिना सुनो, कहो 'इसमें तुम्हारी ग़लती नहीं है', उसे छोड़ देने का हुक्म मत दो, संपर्क बनाए रखो, और अगर वह ख़तरे में हो या ख़ुद को नुक़सान पहुँचाने की बात करे तो किसी भरोसे वाले बड़े को शामिल करो।",
+     "hg": "Agar yeh pattern jaana-pehchana lage, toh relationship ke bahar ke kisi insaan ko batao: parent, bade bhai-behen, teacher ya counsellor, ya Tele-MANAS 14416 par call karo. Ladkiyan aur women 181 par bhi call kar sakti hain, aur 18 se kam umar ka koi bhi 1098 par call kar sakta hai. Agar partner self-harm ki dhamki de, toh usse seriously lo aur kisi adult ko batao ya 112 par call karo, lekin is dhamki ki wajah se relationship mein bandhe mat raho; tum kisi ka akela safety plan nahi ban sakte. Friend ko support karne ke liye: 'maine pehle hi bola tha' bole bina suno, bolo 'isme tumhari galti nahi hai', usse chhod dene ka order mat do, touch mein raho, aur agar woh danger mein ho ya khud ko hurt karne ki baat kare toh kisi trusted adult ko involve karo."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "If there is no hitting, it is not abuse.",
+    "hi": "अगर मार-पीट नहीं है, तो वह शोषण नहीं है।",
+    "hg": "Agar maar-peet nahi hai, toh woh abuse nahi hai."
+   },
+   "fact": {
+    "en": "Abuse is about control, not only bruises. Constant humiliation, threats, isolation and monitoring are emotional abuse, and they can harm a person's mental health deeply.",
+    "hi": "शोषण का मतलब कंट्रोल है, सिर्फ़ चोट के निशान नहीं। लगातार बेइज़्ज़ती, धमकियाँ, सबसे अलग कर देना और निगरानी रखना भावनात्मक शोषण है, और इससे इंसान की मानसिक सेहत को गहरा नुक़सान हो सकता है।",
+    "hg": "Abuse ka matlab control hai, sirf chot ke nishaan nahi. Lagataar humiliation, dhamkiyan, sabse alag kar dena aur monitoring emotional abuse hai, aur isse insaan ki mental health ko gehra nuksaan ho sakta hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Some relationship worry is normal; worry that makes you cross your own boundaries needs attention.",
+    "hi": "रिश्ते में थोड़ी चिंता नॉर्मल है; जो चिंता तुमसे अपनी ही सीमाएँ तुड़वाए, उस पर ध्यान देना ज़रूरी है।",
+    "hg": "Relationship mein thodi tension normal hai; jo tension tumse apni hi boundaries tudwaye, us par dhyaan dena zaroori hai."
+   },
+   {
+    "en": "Breakup pain is grief that eases in waves, and the other person's decision to leave has to be respected.",
+    "hi": "ब्रेकअप का दर्द एक शोक है जो लहरों में हल्का होता है, और सामने वाले के जाने के फ़ैसले की इज़्ज़त करनी होती है।",
+    "hg": "Breakup ka dard grief hai jo waves mein halka hota hai, aur saamne wale ke jaane ke decision ki respect karni hoti hai."
+   },
+   {
+    "en": "A repeated pattern of control, insults, isolation or threats is emotional abuse, and it is never the target's fault.",
+    "hi": "कंट्रोल, बेइज़्ज़ती, अलग-थलग करने या धमकियों का बार-बार दोहराया जाने वाला पैटर्न भावनात्मक शोषण है, और यह कभी झेलने वाले की ग़लती नहीं होती।",
+    "hg": "Control, insult, isolation ya dhamkiyon ka baar-baar repeat hone wala pattern emotional abuse hai, aur yeh kabhi jhelne wale ki galti nahi hoti."
+   }
+  ],
+  "activity": {
+   "en": "Privately list five things you need to feel safe and respected with a friend or partner (for example: I can say no, I can see my friends). Use it as your own checklist; you do not have to show anyone.",
+   "hi": "अकेले में पाँच ऐसी चीज़ें लिखो जो किसी दोस्त या पार्टनर के साथ सुरक्षित और इज़्ज़तदार महसूस करने के लिए तुम्हें चाहिए (जैसे: मैं ना कह सकूँ, मैं अपने दोस्तों से मिल सकूँ)। इसे अपनी चेकलिस्ट की तरह इस्तेमाल करो; किसी को दिखाना ज़रूरी नहीं।",
+   "hg": "Privately paanch aisi cheezein likho jo kisi friend ya partner ke saath safe aur respected feel karne ke liye tumhe chahiye (jaise: main no bol sakoon, main apne friends se mil sakoon). Isse apni checklist ki tarah use karo; kisi ko dikhana zaroori nahi."
+  },
+  "interactive": "relationship_radar",
+  "quiz": [
+   {
+    "id": "d17-l04-q1",
+    "type": "scenario",
+    "q": {
+     "en": "Tanvi's boyfriend says, 'If you go on the school trip without me, I will hurt myself.' What is this?",
+     "hi": "तन्वी का बॉयफ़्रेंड कहता है, 'अगर तुम मेरे बिना स्कूल ट्रिप पर गई, तो मैं ख़ुद को कुछ कर लूँगा।' यह क्या है?",
+     "hg": "Tanvi ka boyfriend kehta hai, 'Agar tum mere bina school trip par gayi, toh main khud ko kuch kar loonga.' Yeh kya hai?"
+    },
+    "options": [
+     {
+      "en": "A sign of how deeply he loves her",
+      "hi": "इस बात का सबूत कि वह उससे कितना प्यार करता है",
+      "hg": "Is baat ka proof ki woh usse kitna pyaar karta hai"
+     },
+     {
+      "en": "Something Tanvi must keep secret to protect him",
+      "hi": "ऐसी बात जो तन्वी को उसे बचाने के लिए छिपाकर रखनी चाहिए",
+      "hg": "Aisi baat jo Tanvi ko usse protect karne ke liye secret rakhni chahiye"
+     },
+     {
+      "en": "A normal reaction that Tanvi caused",
+      "hi": "एक नॉर्मल प्रतिक्रिया जिसकी वजह तन्वी है",
+      "hg": "Ek normal reaction jiski wajah Tanvi hai"
+     },
+     {
+      "en": "A threat used to control her; she should tell a trusted adult",
+      "hi": "उसे कंट्रोल करने के लिए दी गई धमकी; उसे किसी भरोसे वाले बड़े को बताना चाहिए",
+      "hg": "Usse control karne ke liye di gayi dhamki; usse kisi trusted adult ko batana chahiye"
+     }
+    ],
+    "answer": 3,
+    "explain": {
+     "en": "Threatening self-harm to stop someone's choices is emotional control. The threat still needs an adult's attention, but Tanvi is not responsible for it.",
+     "hi": "किसी के फ़ैसले रोकने के लिए ख़ुद को नुक़सान पहुँचाने की धमकी देना भावनात्मक कंट्रोल है। धमकी पर किसी बड़े का ध्यान जाना फिर भी ज़रूरी है, पर इसकी ज़िम्मेदार तन्वी नहीं है।",
+     "hg": "Kisi ki choices rokne ke liye self-harm ki dhamki dena emotional control hai. Dhamki par kisi adult ka dhyaan jaana phir bhi zaroori hai, par iski zimmedar Tanvi nahi hai."
+    }
+   },
+   {
+    "id": "d17-l04-q2",
+    "type": "tf",
+    "q": {
+     "en": "Posting an ex's private photos after a breakup can be a legal offence.",
+     "hi": "ब्रेकअप के बाद एक्स की निजी फ़ोटो पोस्ट करना क़ानूनी अपराध हो सकता है।",
+     "hg": "Breakup ke baad ex ki private photos post karna legal offence ho sakta hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Sharing someone's private images without their consent is an offence under Indian law, whatever the reason for the breakup.",
+     "hi": "किसी की निजी तस्वीरें उसकी सहमति के बिना शेयर करना भारतीय क़ानून में अपराध है, ब्रेकअप की वजह चाहे जो भी हो।",
+     "hg": "Kisi ki private images uski consent ke bina share karna Indian law mein offence hai, breakup ki wajah chahe jo bhi ho."
+    }
+   }
+  ],
+  "refs": [
+   "who-vaw",
+   "who-adolescent-mh",
+   "tele-manas",
+   "unesco-itgse"
+  ],
+  "warning": {
+   "en": "If you or someone you know is thinking about self-harm or suicide, do not handle it alone: tell a trusted adult now, call Tele-MANAS on 14416, or call 112 if there is immediate danger.",
+   "hi": "अगर तुम या तुम्हारा कोई जानने वाला ख़ुद को नुक़सान पहुँचाने या आत्महत्या के बारे में सोच रहा है, तो इसे अकेले मत संभालो: अभी किसी भरोसे वाले बड़े को बताओ, टेली-मानस 14416 पर कॉल करो, या तुरंत ख़तरा हो तो 112 पर कॉल करो।",
+   "hg": "Agar tum ya tumhara koi jaanne wala self-harm ya suicide ke baare mein soch raha hai, toh isse akele handle mat karo: abhi kisi trusted adult ko batao, Tele-MANAS 14416 par call karo, ya turant khatra ho toh 112 par call karo."
+  },
+  "sensitive": true,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d17-l05",
+  "domain": "d17",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 8,
+  "unesco": [
+   5,
+   7
+  ],
+  "title": {
+   "en": "Adulting Is Heavy: Stress, Sex Pressure and Real Help",
+   "hi": "बड़ों की ज़िंदगी भारी है: तनाव, सेक्स का दबाव और असली मदद",
+   "hg": "Adulting Heavy Hai: Stress, Sex Pressure aur Asli Help"
+  },
+  "subtitle": {
+   "en": "Loneliness, timelines, shame and how professional support works",
+   "hi": "अकेलापन, समाज की टाइमलाइन, शर्म और पेशेवर मदद कैसे काम करती है",
+   "hg": "Akelapan, timelines, shame aur professional support kaise kaam karta hai"
+  },
+  "hook": {
+   "en": "Job, rent, shaadi questions, a body you are told to fix and a sex life everyone assumes you have. Nobody hands you a manual. This is the closest thing.",
+   "hi": "नौकरी, किराया, शादी के सवाल, एक शरीर जिसे 'ठीक' करने को कहा जाता है और एक सेक्स लाइफ़ जो सब मान लेते हैं कि आपकी है ही। कोई मैनुअल नहीं थमाता। यह उसके सबसे क़रीब की चीज़ है।",
+   "hg": "Job, rent, shaadi ke sawaal, ek body jisse 'fix' karne ko bola jaata hai aur ek sex life jo sab assume kar lete hain ki tumhari hai hi. Koi manual nahi deta. Yeh uske sabse close cheez hai."
+  },
+  "objectives": [
+   {
+    "en": "Identify common adult stressors and the basics that protect mental health.",
+    "hi": "वयस्क जीवन के आम तनाव और मानसिक सेहत को बचाने वाली बुनियादी चीज़ें पहचान सकें।",
+    "hg": "Adult life ke common stressors aur mental health ko protect karne wale basics pehchaan sako."
+   },
+   {
+    "en": "Respect your own and others' decisions about being or not being sexually active.",
+    "hi": "यौन रूप से सक्रिय होने या न होने के अपने और दूसरों के फ़ैसलों की इज़्ज़त कर सकें।",
+    "hg": "Sexually active hone ya na hone ke apne aur doosron ke decisions ki respect kar sako."
+   },
+   {
+    "en": "Explain who the different mental health professionals are and how to reach them.",
+    "hi": "समझा सकें कि मानसिक स्वास्थ्य के अलग-अलग पेशेवर कौन हैं और उन तक कैसे पहुँचा जाए।",
+    "hg": "Samjha sako ki alag-alag mental health professionals kaun hain aur un tak kaise pahunchein."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "The adult pressure stack",
+     "hi": "वयस्क जीवन के दबावों का ढेर",
+     "hg": "Adult pressure ka stack"
+    },
+    "body": {
+     "en": "After 18 the pressures change shape. There is exam and job stress, money, moving to a new city where you know nobody, and a family timeline: settle down, marry by a certain age, have a child soon after. Loneliness is common in hostels, PGs and first jobs, and scrolling through other people's engagements and promotions makes it louder. Chronic stress shows in the body as poor sleep, headaches, acidity, irritability and loss of interest. The basics genuinely matter: regular sleep, food, movement, sunlight, and at least one person you speak to honestly each week. Alcohol, nicotine and endless scrolling numb stress for an hour and deepen it over months.",
+     "hi": "18 के बाद दबावों की शक्ल बदल जाती है। परीक्षा और नौकरी का तनाव, पैसा, ऐसे नए शहर में जाना जहाँ आप किसी को नहीं जानते, और परिवार की टाइमलाइन: सेटल हो जाओ, फ़लाँ उम्र तक शादी कर लो, उसके तुरंत बाद बच्चा। हॉस्टल, पीजी और पहली नौकरी में अकेलापन आम है, और दूसरों की सगाई और प्रमोशन स्क्रोल करते रहने से वह और तेज़ हो जाता है। लंबे समय का तनाव शरीर में दिखता है: ख़राब नींद, सिरदर्द, एसिडिटी, चिड़चिड़ापन और किसी चीज़ में मन न लगना। बुनियादी चीज़ें सच में मायने रखती हैं: नियमित नींद, खाना, चलना-फिरना, धूप, और कम से कम एक इंसान जिससे आप हर हफ़्ते खुलकर बात करें। शराब, निकोटिन और अंतहीन स्क्रोलिंग तनाव को एक घंटे के लिए सुन्न करते हैं और महीनों में उसे और गहरा कर देते हैं।",
+     "hg": "18 ke baad pressures ki shape badal jaati hai. Exam aur job ka stress, paisa, aise naye sheher mein jaana jahan tum kisi ko nahi jaante, aur family ki timeline: settle ho jao, falaan age tak shaadi kar lo, uske turant baad bachcha. Hostel, PG aur pehli job mein akelapan common hai, aur doosron ki engagements aur promotions scroll karte rehne se woh aur loud ho jaata hai. Chronic stress body mein dikhta hai: kharab neend, sirdard, acidity, chidchidapan aur kisi cheez mein mann na lagna. Basics sach mein matter karte hain: regular neend, khana, movement, dhoop, aur kam se kam ek insaan jisse tum har hafte honestly baat karo. Alcohol, nicotine aur endless scrolling stress ko ek ghante ke liye numb karte hain aur mahinon mein usse aur gehra kar dete hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Sex, pressure and the right not to",
+     "hi": "सेक्स, दबाव और 'ना' का हक़",
+     "hg": "Sex, pressure aur 'nahi' ka haq"
+    },
+    "body": {
+     "en": "Adults face pressure in both directions: to be sexually experienced by a certain age, and to be 'pure' until marriage. Both treat your body as a public scoreboard. Being sexually active, waiting, stopping for a while or never wanting sex are all legitimate adult choices. Some people feel little or no sexual attraction, which is called asexuality and is not a disorder. A partner's desire does not create a duty, in dating or in marriage; consent is needed every time. If you say no and get sulking, insults, threats or 'everyone else does it', that is coercion. Respect works both ways: never mock or pressure someone for their choice or their inexperience.",
+     "hi": "वयस्कों पर दबाव दोनों तरफ़ से आता है: एक तरफ़ यह कि फ़लाँ उम्र तक यौन अनुभव हो जाना चाहिए, और दूसरी तरफ़ यह कि शादी तक 'पवित्र' रहो। दोनों आपके शरीर को सबके सामने टँगा स्कोरबोर्ड बना देते हैं। यौन रूप से सक्रिय होना, इंतज़ार करना, कुछ समय के लिए रुक जाना या सेक्स कभी न चाहना, ये सब वयस्कों के जायज़ चुनाव हैं। कुछ लोगों को यौन आकर्षण बहुत कम या बिल्कुल महसूस नहीं होता; इसे अलैंगिकता (asexuality) कहते हैं और यह कोई बीमारी नहीं है। पार्टनर की इच्छा से आप पर कोई फ़र्ज़ नहीं बन जाता, न डेटिंग में, न शादी में; सहमति हर बार ज़रूरी है। अगर 'ना' कहने पर रूठना, बेइज़्ज़ती, धमकी या 'बाक़ी सब तो करते हैं' सुनने को मिले, तो यह ज़बरदस्ती (coercion) है। इज़्ज़त दोनों तरफ़ चलती है: किसी के चुनाव या अनुभव न होने पर न उसका मज़ाक़ उड़ाएँ, न उस पर दबाव डालें।",
+     "hg": "Adults par pressure dono taraf se aata hai: ek taraf yeh ki falaan age tak sexually experienced ho jao, aur doosri taraf yeh ki shaadi tak 'pure' raho. Dono tumhari body ko public scoreboard bana dete hain. Sexually active hona, wait karna, kuch time ke liye ruk jaana ya sex kabhi na chahna, yeh sab legitimate adult choices hain. Kuch logon ko sexual attraction bahut kam ya bilkul feel nahi hoti; isse asexuality kehte hain aur yeh koi disorder nahi hai. Partner ki desire se tum par koi duty nahi ban jaati, na dating mein, na shaadi mein; consent har baar zaroori hai. Agar 'no' bolne par roothna, insult, dhamki ya 'baaki sab toh karte hain' sunne ko mile, toh yeh coercion hai. Respect dono taraf chalti hai: kisi ki choice ya inexperience par na uska mazaak udao, na us par pressure daalo."
+    }
+   },
+   {
+    "h": {
+     "en": "Shame, guilt and body image in adult life",
+     "hi": "वयस्क जीवन में शर्म, अपराध-बोध और बॉडी इमेज",
+     "hg": "Adult life mein shame, guilt aur body image"
+    },
+    "body": {
+     "en": "Many adults carry shame learned in childhood: about desire, masturbation, past relationships, sexual orientation, or a body that does not match film standards, whether that is penis or breast size, skin colour, weight, stretch marks or scars. Shame keeps people away from doctors, honest conversations and contraception, so it costs health as well as happiness. Two useful questions are: who taught me this was shameful, and is it actually true? Guilt about really hurting someone deserves action: apologise and change. Shame about being an ordinary human deserves accurate information and kinder company. If thoughts about your body or eating are taking over your day, that is a good reason to speak to a professional.",
+     "hi": "बहुत से वयस्क बचपन में सीखी हुई शर्म ढोते हैं: इच्छा को लेकर, हस्तमैथुन, पुराने रिश्तों, यौन रुझान को लेकर, या ऐसे शरीर को लेकर जो फ़िल्मों के पैमाने पर फ़िट नहीं बैठता, चाहे वह लिंग या स्तनों का आकार हो, रंग, वज़न, स्ट्रेच मार्क्स या निशान। शर्म लोगों को डॉक्टर, खुली बातचीत और गर्भनिरोधक से दूर रखती है, इसलिए इसकी क़ीमत ख़ुशी के साथ सेहत भी चुकाती है। दो काम के सवाल हैं: मुझे किसने सिखाया कि यह शर्म की बात है, और क्या यह सच है? किसी को सच में ठेस पहुँचाने का अपराध-बोध हो, तो क़दम उठाइए: माफ़ी माँगिए और बदलिए। एक आम इंसान होने की शर्म हो, तो उसे सही जानकारी और नरम संगत चाहिए। अगर शरीर या खाने को लेकर ख़याल पूरा दिन घेरे रहते हैं, तो यह किसी पेशेवर से बात करने की अच्छी वजह है।",
+     "hg": "Bahut se adults bachpan mein seekhi hui shame dhote hain: desire ko lekar, masturbation, past relationships, sexual orientation ko lekar, ya aisi body ko lekar jo film standards par fit nahi baithti, chahe woh penis ya breast size ho, skin colour, weight, stretch marks ya scars. Shame logon ko doctor, honest conversations aur contraception se door rakhti hai, isliye iski keemat khushi ke saath health bhi chukati hai. Do useful sawaal hain: mujhe kisne sikhaya ki yeh sharam ki baat hai, aur kya yeh actually sach hai? Kisi ko sach mein hurt karne ka guilt ho, toh action lo: sorry bolo aur badlo. Ek ordinary insaan hone ki shame ho, toh usse sahi information aur kinder company chahiye. Agar body ya khaane ko lekar thoughts poora din ghere rehte hain, toh yeh kisi professional se baat karne ki achhi wajah hai."
+    }
+   },
+   {
+    "h": {
+     "en": "How professional help works",
+     "hi": "पेशेवर मदद कैसे काम करती है",
+     "hg": "Professional help kaise kaam karti hai"
+    },
+    "body": {
+     "en": "A counsellor or clinical psychologist helps through talking therapy: understanding patterns and building skills. A psychiatrist is a medical doctor who can also assess whether medicines are needed; only a doctor should prescribe them. You do not need to be in crisis to go. Good reasons include low mood or anxiety lasting more than two weeks, panic, sleep problems, grief, a breakup, abuse, or simply feeling stuck. A first session is mostly questions about what is happening and what you want. Tele-MANAS on 14416 is free, runs round the clock and offers support in many Indian languages; government hospitals also have psychiatry departments. For thoughts of suicide or immediate danger, call 112 or 14416 and stay with someone you trust.",
+     "hi": "काउंसलर या क्लिनिकल साइकोलॉजिस्ट बातचीत वाली थेरेपी से मदद करते हैं: अपने पैटर्न समझना और नए हुनर बनाना। साइकियाट्रिस्ट एक मेडिकल डॉक्टर होते हैं जो यह भी जाँच सकते हैं कि दवा की ज़रूरत है या नहीं; दवा सिर्फ़ डॉक्टर को ही लिखनी चाहिए। जाने के लिए संकट में होना ज़रूरी नहीं है। अच्छी वजहें हैं: दो हफ़्ते से ज़्यादा चलने वाली उदासी या घबराहट, पैनिक, नींद की दिक़्क़त, शोक, ब्रेकअप, शोषण, या बस यह लगना कि आप अटक गए हैं। पहले सेशन में ज़्यादातर यही पूछा जाता है कि क्या चल रहा है और आप क्या चाहते हैं। टेली-मानस 14416 मुफ़्त है, चौबीसों घंटे चलता है और कई भारतीय भाषाओं में मदद देता है; सरकारी अस्पतालों में मनोरोग विभाग भी होते हैं। आत्महत्या के ख़याल आएँ या तुरंत ख़तरा हो, तो 112 या 14416 पर कॉल करें और किसी भरोसे वाले इंसान के साथ रहें।",
+     "hg": "Counsellor ya clinical psychologist talking therapy se help karte hain: apne patterns samajhna aur nayi skills banana. Psychiatrist ek medical doctor hote hain jo yeh bhi assess kar sakte hain ki medicines ki zaroorat hai ya nahi; dawa sirf doctor ko hi prescribe karni chahiye. Jaane ke liye crisis mein hona zaroori nahi hai. Achhi wajahein hain: do hafte se zyada chalne wala low mood ya anxiety, panic, neend ki problem, grief, breakup, abuse, ya bas yeh feel hona ki tum stuck ho. Pehle session mein zyadatar yahi poochha jaata hai ki kya chal raha hai aur tum kya chahte ho. Tele-MANAS 14416 free hai, 24 ghante chalta hai aur kai Indian languages mein support deta hai; government hospitals mein psychiatry departments bhi hote hain. Suicide ke thoughts aayein ya turant khatra ho, toh 112 ya 14416 par call karo aur kisi bharose wale insaan ke saath raho."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Therapy is only for people who are 'pagal' or weak.",
+    "hi": "थेरेपी सिर्फ़ 'पागल' या कमज़ोर लोगों के लिए होती है।",
+    "hg": "Therapy sirf 'pagal' ya weak logon ke liye hoti hai."
+   },
+   "fact": {
+    "en": "People see mental health professionals for stress, grief, relationships, sleep and decisions, not only for severe illness. Getting help early is practical self-care, like seeing a doctor for a fever that will not go.",
+    "hi": "लोग मानसिक स्वास्थ्य के पेशेवरों के पास तनाव, शोक, रिश्तों, नींद और फ़ैसलों के लिए जाते हैं, सिर्फ़ गंभीर बीमारी के लिए नहीं। जल्दी मदद लेना अपनी देखभाल का समझदार तरीक़ा है, जैसे न उतरने वाले बुख़ार के लिए डॉक्टर के पास जाना।",
+    "hg": "Log mental health professionals ke paas stress, grief, relationships, neend aur decisions ke liye jaate hain, sirf severe illness ke liye nahi. Jaldi help lena practical self-care hai, jaise na utarne wale bukhaar ke liye doctor ke paas jaana."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Sleep, food, movement and one honest conversation a week are real protection against chronic stress.",
+    "hi": "नींद, खाना, चलना-फिरना और हफ़्ते में एक खुली बातचीत लंबे तनाव से असली बचाव हैं।",
+    "hg": "Neend, khana, movement aur hafte mein ek honest conversation chronic stress se real protection hain."
+   },
+   {
+    "en": "Being sexually active, waiting or never wanting sex are all valid adult choices, and nobody owes anyone sex.",
+    "hi": "यौन रूप से सक्रिय होना, इंतज़ार करना या सेक्स कभी न चाहना, सब जायज़ चुनाव हैं, और सेक्स किसी का किसी पर क़र्ज़ नहीं है।",
+    "hg": "Sexually active hona, wait karna ya sex kabhi na chahna, sab valid adult choices hain, aur sex kisi ka kisi par udhaar nahi hai."
+   },
+   {
+    "en": "You can see a counsellor, psychologist or psychiatrist before things become a crisis, and 14416 is free.",
+    "hi": "हालात संकट बनने से पहले भी काउंसलर, साइकोलॉजिस्ट या साइकियाट्रिस्ट से मिला जा सकता है, और 14416 मुफ़्त है।",
+    "hg": "Crisis banne se pehle bhi counsellor, psychologist ya psychiatrist se mil sakte ho, aur 14416 free hai."
+   }
+  ],
+  "activity": {
+   "en": "Do a five-minute stress audit: write the three biggest pressures on you right now, mark which are your own goals and which are someone else's timeline, and note one small step for the heaviest one.",
+   "hi": "पाँच मिनट का स्ट्रेस ऑडिट कीजिए: इस समय के अपने तीन सबसे बड़े दबाव लिखिए, निशान लगाइए कि कौन-से आपके अपने लक्ष्य हैं और कौन-सी किसी और की टाइमलाइन है, और सबसे भारी वाले के लिए एक छोटा क़दम लिखिए।",
+   "hg": "Paanch minute ka stress audit karo: is waqt ke apne teen sabse bade pressures likho, mark karo ki kaun-se tumhare apne goals hain aur kaun-si kisi aur ki timeline hai, aur sabse heavy wale ke liye ek chhota step likho."
+  },
+  "interactive": "support_circle",
+  "quiz": [
+   {
+    "id": "d17-l05-q1",
+    "type": "mcq",
+    "q": {
+     "en": "After you say no to sex, a partner keeps sulking and insulting you until you give in. What is this?",
+     "hi": "आपके सेक्स से मना करने के बाद पार्टनर तब तक रूठता और बेइज़्ज़ती करता रहता है जब तक आप मान न जाएँ। यह क्या है?",
+     "hg": "Tumhare sex se mana karne ke baad partner tab tak roothta aur insult karta rehta hai jab tak tum maan na jao. Yeh kya hai?"
+    },
+    "options": [
+     {
+      "en": "Proof of strong attraction",
+      "hi": "गहरे आकर्षण का सबूत",
+      "hg": "Strong attraction ka proof"
+     },
+     {
+      "en": "A normal reaction that you should fix by agreeing",
+      "hi": "एक नॉर्मल प्रतिक्रिया जिसे आपको मानकर ठीक कर देना चाहिए",
+      "hg": "Ek normal reaction jisse tumhe maankar theek kar dena chahiye"
+     },
+     {
+      "en": "Coercion",
+      "hi": "ज़बरदस्ती (coercion)",
+      "hg": "Coercion, yaani zabardasti"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "Wearing someone down with sulking, insults or threats is coercion. A yes given to end the pressure is not free consent.",
+     "hi": "रूठकर, बेइज़्ज़ती करके या धमकाकर किसी को थका देना ज़बरदस्ती है। दबाव ख़त्म करने के लिए कही गई 'हाँ' आज़ाद सहमति नहीं है।",
+     "hg": "Roothkar, insult karke ya dhamkakar kisi ko thaka dena coercion hai. Pressure khatam karne ke liye boli gayi 'haan' free consent nahi hai."
+    }
+   },
+   {
+    "id": "d17-l05-q2",
+    "type": "tf",
+    "q": {
+     "en": "You should see a counsellor or psychologist only when you are in a severe crisis.",
+     "hi": "काउंसलर या साइकोलॉजिस्ट के पास तभी जाना चाहिए जब आप गंभीर संकट में हों।",
+     "hg": "Counsellor ya psychologist ke paas tabhi jaana chahiye jab tum severe crisis mein ho."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Support works best early. Stress, grief, sleep trouble or feeling stuck are all good enough reasons to go.",
+     "hi": "मदद जल्दी लेने पर सबसे अच्छा काम करती है। तनाव, शोक, नींद की दिक़्क़त या अटका हुआ महसूस करना, ये सब जाने की काफ़ी अच्छी वजहें हैं।",
+     "hg": "Support jaldi lene par best kaam karta hai. Stress, grief, neend ki problem ya stuck feel karna, yeh sab jaane ki kaafi achhi wajahein hain."
+    }
+   }
+  ],
+  "refs": [
+   "tele-manas",
+   "who-adolescent-mh",
+   "who-sexual-health",
+   "unesco-itgse"
+  ],
+  "warning": {
+   "en": "If you are having thoughts of suicide or self-harm, please reach out now: call Tele-MANAS on 14416 or 112, and stay with someone you trust until help arrives.",
+   "hi": "अगर आत्महत्या या ख़ुद को नुक़सान पहुँचाने के ख़याल आ रहे हैं, तो कृपया अभी संपर्क करें: टेली-मानस 14416 या 112 पर कॉल करें, और मदद मिलने तक किसी भरोसे वाले इंसान के साथ रहें।",
+   "hg": "Agar suicide ya self-harm ke thoughts aa rahe hain, toh please abhi reach out karo: Tele-MANAS 14416 ya 112 par call karo, aur help milne tak kisi bharose wale insaan ke saath raho."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d17-l06",
+  "domain": "d17",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone",
+   "men",
+   "women"
+  ],
+  "body": [],
+  "difficulty": 3,
+  "minutes": 9,
+  "unesco": [
+   3,
+   4,
+   5
+  ],
+  "title": {
+   "en": "What Silence Costs: Bodies, Minds and Asking for Help",
+   "hi": "चुप्पी की क़ीमत: शरीर, मन और मदद माँगना",
+   "hg": "Chuppi ki Keemat: Body, Mind aur Help Maangna"
+  },
+  "subtitle": {
+   "en": "Eating disorders, body dysmorphia, men's mental health, depression after childbirth, shame after abuse and suicide warning signs",
+   "hi": "ईटिंग डिसऑर्डर, बॉडी डिस्मॉर्फ़िया, पुरुषों की मानसिक सेहत, प्रसव के बाद डिप्रेशन, शोषण के बाद शर्म और आत्महत्या के चेतावनी संकेत",
+   "hg": "Eating disorders, body dysmorphia, men ki mental health, delivery ke baad depression, abuse ke baad shame aur suicide ke warning signs"
+  },
+  "hook": {
+   "en": "'I'm fine' is the most common lie in mental health. This lesson is about what it can hide, in every gender, and what to do when you suspect it.",
+   "hi": "'मैं ठीक हूँ' मानसिक सेहत का सबसे आम झूठ है। यह लेसन इस बारे में है कि इसके पीछे क्या-क्या छिपा हो सकता है, हर जेंडर में, और जब तुम्हें शक हो तो क्या करना है।",
+   "hg": "'Main theek hoon' mental health ka sabse common jhooth hai. Yeh lesson is baare mein hai ki iske peeche kya-kya chhupa ho sakta hai, har gender mein, aur jab tumhe shak ho toh kya karna hai."
+  },
+  "objectives": [
+   {
+    "en": "Recognise signs of eating disorders and body dysmorphia, including muscle dysmorphia, in people of any gender.",
+    "hi": "किसी भी जेंडर के लोगों में ईटिंग डिसऑर्डर और बॉडी डिस्मॉर्फ़िया, जिसमें मसल डिस्मॉर्फ़िया भी शामिल है, के संकेत पहचान सको।",
+    "hg": "Kisi bhi gender ke logon mein eating disorders aur body dysmorphia, jisme muscle dysmorphia bhi shaamil hai, ke signs pehchaan sako."
+   },
+   {
+    "en": "Explain why men seek help less, how depression can follow childbirth in mothers and fathers, and why shame after abuse belongs to the abuser.",
+    "hi": "समझा सको कि पुरुष मदद कम क्यों माँगते हैं, प्रसव के बाद माँ और पिता दोनों को डिप्रेशन कैसे हो सकता है, और शोषण के बाद की शर्म असल में शोषण करने वाले की क्यों है।",
+    "hg": "Samjha sako ki men help kam kyun maangte hain, delivery ke baad mothers aur fathers dono ko depression kaise ho sakta hai, aur abuse ke baad ki shame asal mein abuser ki kyun hai."
+   },
+   {
+    "en": "Name suicide warning signs and the three steps for responding: ask directly, stay, connect to help.",
+    "hi": "आत्महत्या के चेतावनी संकेत और जवाब देने के तीन क़दम बता सको: सीधे पूछो, साथ रहो, मदद से जोड़ो।",
+    "hg": "Suicide ke warning signs aur respond karne ke teen steps bata sako: seedha poocho, saath raho, help se connect karo."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "When food, the mirror or muscle takes over",
+     "hi": "जब खाना, आईना या मसल्स दिमाग़ पर हावी हो जाएँ",
+     "hg": "Jab khana, mirror ya muscles dimaag pe haavi ho jaayein"
+    },
+    "body": {
+     "en": "Eating disorders are serious illnesses, not diets or vanity. Anorexia means severe restriction and intense fear of weight gain. Bulimia and binge eating disorder involve binges, eating large amounts while feeling out of control, often in secret; bulimia adds getting rid of the food or over-exercising. They affect every gender and body size; looks do not tell. Body dysmorphic disorder means hours lost worrying about a 'flaw' others barely notice. In muscle dysmorphia, more common in men, a person feels small however muscular they are, and may turn to extreme training, diets or anabolic steroids, which can harm the heart, mood and fertility. All are treatable. Start with a doctor.",
+     "hi": "ईटिंग डिसऑर्डर गंभीर बीमारियाँ हैं, डाइटिंग या दिखावा नहीं। एनोरेक्सिया में इंसान खाना बहुत ज़्यादा कम कर देता है और उसे वज़न बढ़ने का गहरा डर रहता है। बुलिमिया और बिंज ईटिंग डिसऑर्डर में बिंज होते हैं, यानी बेक़ाबू होकर बहुत ज़्यादा खा लेना, अक्सर छिपकर; बुलिमिया में इसके बाद इंसान खाने को शरीर से निकालने की कोशिश करता है या हद से ज़्यादा कसरत करता है। ये हर जेंडर और हर तरह के शरीर वाले लोगों को होते हैं; देखकर पता नहीं चलता। बॉडी डिस्मॉर्फ़िक डिसऑर्डर एक अलग जाल है: किसी ऐसी 'कमी' की चिंता में घंटों निकल जाना जो दूसरों को मुश्किल से दिखती है। मसल डिस्मॉर्फ़िया में, जो पुरुषों में ज़्यादा देखा जाता है, इंसान कितना भी गठीला हो, ख़ुद को छोटा ही महसूस करता है, और हद से ज़्यादा ट्रेनिंग, सख़्त डाइट या एनाबॉलिक स्टेरॉयड की तरफ़ जा सकता है, जो दिल, मूड और फ़र्टिलिटी को नुक़सान पहुँचा सकते हैं। इन सबका इलाज मुमकिन है। शुरुआत डॉक्टर से करो।",
+     "hg": "Eating disorders serious illnesses hain, dieting ya show-off nahi. Anorexia mein insaan khana bahut zyada kam kar deta hai aur use weight badhne ka gehra darr rehta hai. Bulimia aur binge eating disorder mein binges hote hain, yaani out of control hokar bahut zyada kha lena, aksar chhupke; bulimia mein iske baad insaan khane ko body se nikalne ki koshish karta hai ya hadd se zyada exercise karta hai. Yeh har gender aur har body size ke logon ko hote hain; dekhkar pata nahi chalta. Body dysmorphic disorder ek alag trap hai: kisi aisi 'kami' ki chinta mein ghanton nikal jaana jo doosron ko mushkil se dikhti hai. Muscle dysmorphia mein, jo men mein zyada dekha jata hai, insaan kitna bhi muscular ho, khud ko chhota hi feel karta hai, aur extreme training, rigid diet ya anabolic steroids ki taraf ja sakta hai, jo heart, mood aur fertility ko harm kar sakte hain. In sabka treatment possible hai. Shuruaat doctor se karo."
+    }
+   },
+   {
+    "h": {
+     "en": "Depression in disguise: men, new mothers, new fathers",
+     "hi": "भेस बदले डिप्रेशन: पुरुष, नई माँएँ, नए पिता",
+     "hg": "Bhes badle depression: men, nayi mothers, naye fathers"
+    },
+    "body": {
+     "en": "Boys hear 'mard ko dard nahi hota' so early that many men cannot put sadness into words. Their depression often shows as irritability, anger, drinking, overwork or silence, and they visit doctors less. The cost is brutal: in India, as in most countries, more men than women die by suicide. Depression can follow childbirth. Low mood, anxiety, guilt or feeling nothing for the baby lasting beyond two weeks may be postnatal depression, not bad mothering. Fathers get it too, especially with money stress and no sleep. It is common and treatable. Thoughts of harming yourself or the baby, or seeing or hearing things that are not there, need emergency care.",
+     "hi": "लड़के 'मर्द को दर्द नहीं होता' इतनी जल्दी सुन लेते हैं कि बहुत से पुरुष अपनी उदासी को शब्द ही नहीं दे पाते। उनका डिप्रेशन अक्सर चिड़चिड़ेपन, ग़ुस्से, शराब, हद से ज़्यादा काम या चुप्पी के रूप में दिखता है, और वे डॉक्टर के पास कम जाते हैं। इसकी क़ीमत बहुत भारी है: भारत में, ज़्यादातर देशों की तरह, आत्महत्या से महिलाओं के मुक़ाबले ज़्यादा पुरुषों की मौत होती है। डिप्रेशन बच्चे के जन्म के बाद भी आता है। दो हफ़्ते से ज़्यादा चलने वाली उदासी, घबराहट, अपराधबोध या बच्चे के लिए कुछ महसूस न होना प्रसव के बाद का डिप्रेशन (postnatal depression) हो सकता है, यह बुरी माँ होना नहीं है। पिता को भी यह हो सकता है, ख़ासकर पैसों की चिंता और नींद की कमी के साथ। यह आम है और इसका इलाज होता है। ख़ुद को या बच्चे को नुक़सान पहुँचाने के ख़याल आएँ, या ऐसी चीज़ें दिखें या सुनाई दें जो हैं ही नहीं, तो तुरंत इमरजेंसी मदद चाहिए।",
+     "hg": "Ladke 'mard ko dard nahi hota' itni jaldi sun lete hain ki bahut se men apni udaasi ko words hi nahi de paate. Unka depression aksar chidchidepan, gusse, drinking, overwork ya chuppi ke roop mein dikhta hai, aur woh doctor ke paas kam jaate hain. Iski keemat brutal hai: India mein, zyadatar countries ki tarah, suicide se women ke comparison mein zyada men ki maut hoti hai. Depression bacche ke janm ke baad bhi aata hai. Do hafte se zyada chalne wala low mood, anxiety, guilt ya bacche ke liye kuch feel na hona postnatal depression ho sakta hai, yeh buri maa hona nahi hai. Fathers ko bhi yeh ho sakta hai, khaaskar paise ki tension aur neend ki kami ke saath. Yeh common hai aur treatable hai. Khud ko ya bacche ko harm karne ke thoughts aayein, ya aisi cheezein dikhein ya sunai dein jo hain hi nahi, toh turant emergency care chahiye."
+    }
+   },
+   {
+    "h": {
+     "en": "Shame after abuse",
+     "hi": "शोषण के बाद की शर्म",
+     "hg": "Abuse ke baad ki shame"
+    },
+    "body": {
+     "en": "After sexual, physical or emotional abuse, many survivors of every gender feel dirty, guilty or to blame: 'I did not shout', 'I went there myself', 'my body reacted'. None of that makes it your fault. Freezing is an automatic survival response, and a physical reaction is a reflex, not consent. Shame keeps people silent for years, and that silence protects only the abuser. Nightmares, numbness, anger, flashbacks and trouble trusting are common trauma reactions, not weakness, and they ease with support. You choose whom to tell and when. For under-18s, doctors and counsellors must report sexual abuse, so they cannot promise complete secrecy, but they can help keep you safe.",
+     "hi": "यौन, शारीरिक या भावनात्मक शोषण के बाद हर जेंडर के बहुत से सर्वाइवर ख़ुद को गंदा, दोषी या ज़िम्मेदार महसूस करते हैं: 'मैं चिल्लाई नहीं', 'मैं ख़ुद वहाँ गया था', 'मेरे शरीर ने प्रतिक्रिया दी'। इनमें से किसी बात से यह तुम्हारी ग़लती नहीं बन जाती। सुन्न पड़ जाना ख़ुद को बचाने की अपने आप होने वाली प्रतिक्रिया है, और शरीर की प्रतिक्रिया एक रिफ़्लेक्स है, सहमति नहीं। शर्म लोगों को बरसों चुप रखती है, और यह चुप्पी सिर्फ़ उसी को बचाती है जिसने नुक़सान पहुँचाया। बुरे सपने, सुन्नपन, ग़ुस्सा, फ़्लैशबैक और लोगों पर भरोसा न कर पाना सदमे की आम प्रतिक्रियाएँ हैं, कमज़ोरी नहीं, और साथ मिलने पर ये हल्की पड़ती हैं। किसे बताना है और कब, यह तुम तय करते हो। अगर तुम 18 से कम उम्र के हो, तो डॉक्टरों और काउंसलरों को यौन शोषण की सूचना देनी होती है, इसलिए वे पूरी गोपनीयता का वादा नहीं कर सकते, पर वे तुम्हें सुरक्षित रखने में मदद कर सकते हैं।",
+     "hg": "Sexual, physical ya emotional abuse ke baad har gender ke bahut se survivors khud ko ganda, guilty ya zimmedaar feel karte hain: 'main chillayi nahi', 'main khud wahan gaya tha', 'meri body ne react kiya'. Inme se kisi baat se yeh tumhari galti nahi ban jaati. Freeze ho jaana ek automatic survival response hai, aur physical reaction ek reflex hai, consent nahi. Shame logon ko saalon chup rakhti hai, aur yeh chuppi sirf usi ko protect karti hai jisne harm kiya. Nightmares, numbness, gussa, flashbacks aur logon pe trust na kar paana trauma ke common reactions hain, weakness nahi, aur support milne pe yeh halke padte hain. Kise batana hai aur kab, yeh tum decide karte ho. Agar tum 18 se kam ho, toh doctors aur counsellors ko sexual abuse report karna hota hai, isliye woh complete secrecy ka promise nahi kar sakte, par woh tumhe safe rakhne mein help kar sakte hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Suicide warning signs and how to respond",
+     "hi": "आत्महत्या के चेतावनी संकेत और जवाब कैसे दें",
+     "hg": "Suicide ke warning signs aur respond kaise karein"
+    },
+    "body": {
+     "en": "Take these signs seriously: talking about wanting to die, being a burden or having no way out; saying goodbye or giving away valued things; withdrawing from everyone; sudden calm after a long low; heavier drinking or drug use. Then do three things. Ask directly: 'Are you thinking about suicide?' Asking does not plant the idea. Listen without arguing, lecturing or promising secrecy. Stay with them; never leave a person in crisis alone. Connect them to help: Tele-MANAS on 14416 at any hour, a doctor or a trusted adult, and 112 if danger is immediate. Check in again the next day. You need not fix their life, only stay and connect.",
+     "hi": "इन संकेतों को गंभीरता से लो: मरने की इच्छा, बोझ होने या कोई रास्ता न बचने की बातें करना; अलविदा कहना या अपनी प्यारी चीज़ें बाँट देना; सबसे कट जाना; लंबी उदासी के बाद अचानक शांत हो जाना; शराब या नशे का बढ़ जाना। फिर तीन काम करो। सीधे पूछो: 'क्या तुम आत्महत्या के बारे में सोच रहे हो?' पूछने से यह ख़याल दिमाग़ में नहीं बैठता। बहस किए बिना, भाषण दिए बिना और राज़ रखने का वादा किए बिना सुनो। उनके साथ रहो; संकट में घिरे इंसान को अकेला नहीं छोड़ना चाहिए। उन्हें मदद से जोड़ो: टेली-मानस 14416, जो हर समय खुला है, कोई डॉक्टर या भरोसेमंद बड़ा, और ख़तरा तुरंत का हो तो 112। अगले दिन फिर हाल पूछो। तुम्हें उनकी ज़िंदगी ठीक नहीं करनी, बस साथ रहना है और मदद से जोड़ना है।",
+     "hg": "In signs ko seriously lo: marne ki ichha, burden hone ya koi raasta na bachne ki baatein karna; goodbye bolna ya apni pyaari cheezein baant dena; sabse cut-off ho jaana; lambe low ke baad achanak calm ho jaana; drinking ya drugs ka badh jaana. Phir teen kaam karo. Seedha poocho: 'Kya tum suicide ke baare mein soch rahe ho?' Poochne se yeh idea dimaag mein nahi baithta. Argue kiye bina, lecture diye bina aur secret rakhne ka promise kiye bina suno. Unke saath raho; crisis mein phanse insaan ko akela nahi chhodna chahiye. Unhe help se connect karo: Tele-MANAS 14416, jo har time open hai, koi doctor ya trusted adult, aur danger turant ka ho toh 112. Agle din phir haal poocho. Tumhe unki life fix nahi karni, bas saath rehna hai aur connect karna hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "People who talk about suicide are only seeking attention and will not actually do it.",
+    "hi": "जो लोग आत्महत्या की बात करते हैं वे सिर्फ़ ध्यान खींचना चाहते हैं और असल में ऐसा करेंगे नहीं।",
+    "hg": "Jo log suicide ki baat karte hain woh sirf attention chahte hain aur actually karenge nahi."
+   },
+   "fact": {
+    "en": "Many people who die by suicide had talked about it or shown signs beforehand. Talk of dying is a call for help and should always be taken seriously: ask directly, stay with the person and connect them to Tele-MANAS 14416, or 112 in an emergency.",
+    "hi": "आत्महत्या से मरने वाले बहुत से लोगों ने पहले इसकी बात की थी या संकेत दिए थे। मरने की बात मदद की पुकार है और इसे हमेशा गंभीरता से लेना चाहिए: सीधे पूछो, उस इंसान के साथ रहो और उसे टेली-मानस 14416 से, या इमरजेंसी में 112 से जोड़ो।",
+    "hg": "Suicide se marne wale bahut se logon ne pehle iski baat ki thi ya signs diye the. Marne ki baat help ki pukaar hai aur isse hamesha seriously lena chahiye: seedha poocho, us insaan ke saath raho aur use Tele-MANAS 14416 se, ya emergency mein 112 se connect karo."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Eating disorders and body dysmorphia affect all genders and body sizes, and they are illnesses that respond to treatment.",
+    "hi": "ईटिंग डिसऑर्डर और बॉडी डिस्मॉर्फ़िया हर जेंडर और हर तरह के शरीर वाले लोगों को हो सकते हैं, और ये ऐसी बीमारियाँ हैं जो इलाज से ठीक होती हैं।",
+    "hg": "Eating disorders aur body dysmorphia har gender aur har body size ke logon ko ho sakte hain, aur yeh aisi illnesses hain jo treatment se theek hoti hain."
+   },
+   {
+    "en": "Depression in men and in new mothers and fathers, and shame after abuse, are common, hidden and treatable; none of them is weakness or guilt.",
+    "hi": "पुरुषों में और नई माँओं व नए पिताओं में डिप्रेशन, और शोषण के बाद की शर्म, आम हैं, छिपी रहती हैं और इनका इलाज होता है; इनमें से कुछ भी कमज़ोरी या क़सूर नहीं है।",
+    "hg": "Men mein aur nayi mothers aur naye fathers mein depression, aur abuse ke baad ki shame, common hain, chhupi rehti hain aur treatable hain; inme se kuch bhi weakness ya kasoor nahi hai."
+   },
+   {
+    "en": "If you see suicide warning signs, ask directly, stay with the person and connect them to Tele-MANAS 14416 or 112.",
+    "hi": "अगर आत्महत्या के चेतावनी संकेत दिखें, तो सीधे पूछो, उस इंसान के साथ रहो और उसे टेली-मानस 14416 या 112 से जोड़ो।",
+    "hg": "Agar suicide ke warning signs dikhein, toh seedha poocho, us insaan ke saath raho aur use Tele-MANAS 14416 ya 112 se connect karo."
+   }
+  ],
+  "activity": {
+   "en": "Prepare your three sentences. Privately write the exact words you would use to ask a friend directly whether they are thinking about suicide, to tell them you are staying, and to suggest calling 14416 together. Then save 14416 and 112 in your phone.",
+   "hi": "अपने तीन वाक्य तैयार रखो। अकेले में ठीक वे शब्द लिखो जिनसे तुम किसी दोस्त से सीधे पूछोगे कि क्या वह आत्महत्या के बारे में सोच रहा है, उसे बताओगे कि तुम उसके साथ रुक रहे हो, और साथ मिलकर 14416 पर कॉल करने का सुझाव दोगे। फिर 14416 और 112 अपने फ़ोन में सेव कर लो।",
+   "hg": "Apne teen sentences ready rakho. Privately exactly woh words likho jinse tum kisi dost se seedha poochoge ki kya woh suicide ke baare mein soch raha hai, use bataoge ki tum uske saath ruk rahe ho, aur saath milke 14416 pe call karne ka suggestion doge. Phir 14416 aur 112 apne phone mein save kar lo."
+  },
+  "interactive": "support_circle",
+  "quiz": [
+   {
+    "id": "d17-l06-q1",
+    "type": "scenario",
+    "q": {
+     "en": "Your friend Kabir has been withdrawn for weeks. Tonight he messages, 'Everyone will be better off without me', and gives you his favourite headphones to keep. What should you do?",
+     "hi": "तुम्हारा दोस्त कबीर कई हफ़्तों से सबसे कटा-कटा है। आज रात वह मैसेज करता है, 'मेरे बिना सब बेहतर रहेंगे', और अपने पसंदीदा हेडफ़ोन तुम्हें रखने के लिए दे देता है। तुम्हें क्या करना चाहिए?",
+     "hg": "Tumhara dost Kabir kai hafton se sabse cut-off hai. Aaj raat woh message karta hai, 'Mere bina sab better rahenge', aur apne favourite headphones tumhe rakhne ke liye de deta hai. Tumhe kya karna chahiye?"
+    },
+    "options": [
+     {
+      "en": "Send a joke to lighten his mood and check on him next week",
+      "hi": "उसका मूड हल्का करने के लिए कोई जोक भेजना और अगले हफ़्ते हाल पूछना",
+      "hg": "Uska mood halka karne ke liye koi joke bhejna aur agle hafte haal poochna"
+     },
+     {
+      "en": "Keep it to yourself, because he trusted you with it",
+      "hi": "यह बात अपने तक रखना, क्योंकि उसने तुम पर भरोसा किया है",
+      "hg": "Yeh baat apne tak rakhna, kyunki usne tum pe trust kiya hai"
+     },
+     {
+      "en": "Ask him directly if he is thinking about suicide, make sure he is not alone, and connect him to 14416 or 112",
+      "hi": "उससे सीधे पूछना कि क्या वह आत्महत्या के बारे में सोच रहा है, पक्का करना कि वह अकेला न रहे, और उसे 14416 या 112 से जोड़ना",
+      "hg": "Usse seedha poochna ki kya woh suicide ke baare mein soch raha hai, pakka karna ki woh akela na rahe, aur use 14416 ya 112 se connect karna"
+     },
+     {
+      "en": "Tell him other people have bigger problems, so he gets some perspective",
+      "hi": "उसे बताना कि दूसरों की परेशानियाँ इससे बड़ी हैं, ताकि उसे चीज़ें सही नज़र से दिखें",
+      "hg": "Use batana ki doosron ki problems isse badi hain, taaki use perspective mile"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "Talking about being a burden and giving away valued things are warning signs. Asking directly, staying with the person and connecting them to help is the response that protects; jokes, secrecy and comparisons leave them alone with it.",
+     "hi": "बोझ होने की बातें करना और अपनी प्यारी चीज़ें दे देना चेतावनी संकेत हैं। सीधे पूछना, साथ रहना और मदद से जोड़ना ही वह जवाब है जो बचाता है; मज़ाक़, राज़ रखना और तुलना करना उसे इसके साथ अकेला छोड़ देते हैं।",
+     "hg": "Burden hone ki baatein karna aur apni pyaari cheezein de dena warning signs hain. Seedha poochna, saath rehna aur help se connect karna hi woh response hai jo protect karta hai; jokes, secrecy aur comparison use iske saath akela chhod dete hain."
+    }
+   },
+   {
+    "id": "d17-l06-q2",
+    "type": "tf",
+    "q": {
+     "en": "Depression after a baby is born can affect fathers as well as mothers.",
+     "hi": "बच्चे के जन्म के बाद का डिप्रेशन माँओं के साथ-साथ पिताओं को भी हो सकता है।",
+     "hg": "Bacche ke janm ke baad ka depression mothers ke saath-saath fathers ko bhi ho sakta hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Postnatal depression is best known in mothers, but new fathers can develop it too, often showing as irritability or withdrawal. It is treatable in both parents.",
+     "hi": "प्रसव के बाद का डिप्रेशन माँओं में ज़्यादा जाना जाता है, पर नए पिताओं को भी हो सकता है, और अक्सर चिड़चिड़ेपन या सबसे कट जाने के रूप में दिखता है। दोनों में इसका इलाज होता है।",
+     "hg": "Postnatal depression mothers mein zyada jaana jata hai, par naye fathers ko bhi ho sakta hai, aur aksar chidchidepan ya withdrawal ke roop mein dikhta hai. Dono parents mein yeh treatable hai."
+    }
+   }
+  ],
+  "refs": [
+   "nhs-eating-disorders",
+   "who-suicide",
+   "who-maternal-mh",
+   "who-child-maltreatment",
+   "who-adolescent-mh",
+   "tele-manas",
+   "mha-erss"
+  ],
+  "warning": {
+   "en": "If you or someone else may act on thoughts of suicide, call 112 now and do not leave the person alone. Tele-MANAS on 14416 is free and open at all hours. Fainting, chest pain or a racing heart alongside an eating problem, or thoughts of harming a baby, also need urgent medical care. If abuse is still happening or you are not safe, call 112. Under 18, you can also call Child Helpline 1098 for abuse or any crisis, and women and girls can call Women Helpline 181.",
+   "hi": "अगर तुम या कोई और आत्महत्या के ख़यालों पर अमल कर सकता है, तो अभी 112 पर कॉल करो और उस इंसान को अकेला मत छोड़ो। टेली-मानस 14416 मुफ़्त है और हर समय खुला है। खाने से जुड़ी समस्या के साथ बेहोशी, सीने में दर्द या दिल की तेज़ धड़कन हो, या बच्चे को नुक़सान पहुँचाने के ख़याल आएँ, तो भी तुरंत डॉक्टरी मदद चाहिए। अगर शोषण अब भी हो रहा है या तुम सुरक्षित नहीं हो, तो 112 पर कॉल करो। 18 से कम उम्र हो तो शोषण या किसी भी संकट में चाइल्ड हेल्पलाइन 1098 पर भी कॉल कर सकते हो, और महिलाएँ व लड़कियाँ महिला हेल्पलाइन 181 पर कॉल कर सकती हैं।",
+   "hg": "Agar tum ya koi aur suicide ke thoughts pe act kar sakta hai, toh abhi 112 pe call karo aur us insaan ko akela mat chhodo. Tele-MANAS 14416 free hai aur har time open hai. Eating problem ke saath behoshi, chest pain ya dil ki tez dhadkan ho, ya bacche ko harm karne ke thoughts aayein, toh bhi turant medical care chahiye. Agar abuse abhi bhi ho raha hai ya tum safe nahi ho, toh 112 pe call karo. 18 se kam ho toh abuse ya kisi bhi crisis mein Child Helpline 1098 pe bhi call kar sakte ho, aur women aur ladkiyan Women Helpline 181 pe call kar sakti hain."
+  },
+  "sensitive": true,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ }
+]

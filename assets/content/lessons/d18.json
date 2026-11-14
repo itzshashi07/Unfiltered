@@ -1,0 +1,1060 @@
+[
+ {
+  "id": "d18-l01",
+  "domain": "d18",
+  "tracks": [
+   "A"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 1,
+  "minutes": 3,
+  "unesco": [
+   5,
+   4
+  ],
+  "title": {
+   "en": "My Voice Is Strong",
+   "hi": "मेरी आवाज़ में दम है",
+   "hg": "Meri Awaaz Mein Dum Hai"
+  },
+  "subtitle": {
+   "en": "Saying no, listening to no and asking for help",
+   "hi": "'ना' कहना, 'ना' सुनना और मदद माँगना",
+   "hg": "'No' bolna, 'no' sunna aur help maangna"
+  },
+  "hook": {
+   "en": "Your voice is a tool. You can use it to say no, to ask a question and to get help.",
+   "hi": "तुम्हारी आवाज़ एक औज़ार है। इससे तुम 'ना' कह सकते हो, सवाल पूछ सकते हो और मदद माँग सकते हो।",
+   "hg": "Tumhari awaaz ek tool hai. Isse tum 'no' bol sakte ho, sawaal pooch sakte ho aur help maang sakte ho."
+  },
+  "objectives": [
+   {
+    "en": "Say no in a clear voice when something feels wrong.",
+    "hi": "जब कुछ ग़लत लगे तो साफ़ आवाज़ में 'ना' कह सको।",
+    "hg": "Jab kuch galat lage toh clear awaaz mein 'no' bol sako."
+   },
+   {
+    "en": "Stop when another person says no.",
+    "hi": "जब कोई दूसरा 'ना' कहे तो रुक सको।",
+    "hg": "Jab koi doosra 'no' bole toh ruk sako."
+   },
+   {
+    "en": "Ask questions and tell a grown-up you trust when you need help.",
+    "hi": "सवाल पूछ सको और मदद चाहिए हो तो किसी भरोसे वाले बड़े को बता सको।",
+    "hg": "Sawaal pooch sako aur help chahiye ho toh kisi bharose wale bade ko bata sako."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "You can say no",
+     "hi": "तुम 'ना' कह सकते हो",
+     "hg": "Tum 'no' bol sakte ho"
+    },
+    "body": {
+     "en": "Your body belongs to you. If a touch, a game or a dare feels bad or scary, you can say no. Look at the person and say, 'No. I don't like that.' Then move away to a grown-up you trust. You can say no to a child or to a grown-up. Saying no to something unsafe is not rude.",
+     "hi": "तुम्हारा शरीर तुम्हारा अपना है। अगर कोई छूना, कोई खेल या कोई चुनौती बुरी या डरावनी लगे, तो तुम 'ना' कह सकते हो। उस इंसान की ओर देखो और कहो, 'नहीं। मुझे यह पसंद नहीं।' फिर वहाँ से हटकर किसी भरोसे वाले बड़े के पास जाओ। तुम 'ना' किसी बच्चे से भी कह सकते हो और किसी बड़े से भी। किसी असुरक्षित बात को 'ना' कहना बदतमीज़ी नहीं है।",
+     "hg": "Tumhari body tumhari apni hai. Agar koi touch, koi game ya koi dare bura ya scary lage, toh tum 'no' bol sakte ho. Us insaan ki taraf dekho aur bolo, 'Nahi. Mujhe yeh pasand nahi.' Phir wahan se hat ke kisi bharose wale bade ke paas jao. Tum 'no' kisi bacche ko bhi bol sakte ho aur kisi bade ko bhi. Kisi unsafe cheez ko 'no' bolna rude nahi hai."
+    }
+   },
+   {
+    "h": {
+     "en": "When someone says no, we stop",
+     "hi": "जब कोई 'ना' कहे, तो हम रुक जाते हैं",
+     "hg": "Jab koi 'no' bole, toh hum ruk jaate hain"
+    },
+    "body": {
+     "en": "Other children have a voice too. If your friend says 'Stop' or 'I don't want to play', you stop right away. You do not push, tease or ask again and again. You can say, 'Okay.' Listening to someone's no shows that you are a good friend.",
+     "hi": "दूसरे बच्चों की भी अपनी आवाज़ है। अगर तुम्हारा दोस्त कहे 'रुको' या 'मुझे नहीं खेलना', तो तुम तुरंत रुक जाते हो। तुम ज़ोर नहीं डालते, चिढ़ाते नहीं और बार-बार नहीं पूछते। तुम कह सकते हो, 'ठीक है।' किसी की 'ना' सुनना दिखाता है कि तुम अच्छे दोस्त हो।",
+     "hg": "Doosre bacchon ki bhi apni awaaz hai. Agar tumhara dost bole 'Ruko' ya 'Mujhe nahi khelna', toh tum turant ruk jaate ho. Tum zor nahi daalte, chidhate nahi aur baar-baar nahi poochte. Tum bol sakte ho, 'Okay.' Kisi ki 'no' sunna dikhata hai ki tum achhe dost ho."
+    }
+   },
+   {
+    "h": {
+     "en": "Questions are good",
+     "hi": "सवाल पूछना अच्छी बात है",
+     "hg": "Sawaal poochna achhi baat hai"
+    },
+    "body": {
+     "en": "Nobody knows everything. Asking is how we learn. You can ask, 'What does this word mean?' or 'Why is my body like this?' No question about your body or your feelings is silly or dirty. If one grown-up does not know the answer, you can ask another one.",
+     "hi": "सब कुछ किसी को नहीं पता होता। पूछकर ही हम सीखते हैं। तुम पूछ सकते हो, 'इस शब्द का क्या मतलब है?' या 'मेरा शरीर ऐसा क्यों है?' अपने शरीर या अपनी भावनाओं के बारे में कोई भी सवाल बेवक़ूफ़ी भरा या गंदा नहीं होता। अगर एक बड़े को जवाब न पता हो, तो तुम किसी दूसरे बड़े से पूछ सकते हो।",
+     "hg": "Sab kuch kisi ko nahi pata hota. Poochkar hi hum seekhte hain. Tum pooch sakte ho, 'Is word ka kya matlab hai?' ya 'Meri body aisi kyun hai?' Apni body ya apni feelings ke baare mein koi bhi sawaal silly ya ganda nahi hota. Agar ek bade ko answer na pata ho, toh tum kisi doosre bade se pooch sakte ho."
+    }
+   },
+   {
+    "h": {
+     "en": "Tell a grown-up you trust",
+     "hi": "किसी भरोसे वाले बड़े को बताओ",
+     "hg": "Kisi bharose wale bade ko batao"
+    },
+    "body": {
+     "en": "If something makes you feel scared, sad or mixed up, tell a grown-up you trust, like mummy, papa, dadi or a teacher. Say, 'I need help. Something happened.' If they do not listen, tell another grown-up. Keep telling until someone helps. If you could not say no, it is not your fault. You will not be in trouble for telling.",
+     "hi": "अगर किसी बात से तुम्हें डर लगे, दुख हो या उलझन हो, तो किसी भरोसे वाले बड़े को बताओ, जैसे मम्मी, पापा, दादी या टीचर। कहो, 'मुझे मदद चाहिए। कुछ हुआ है।' अगर वे न सुनें, तो किसी दूसरे बड़े को बताओ। तब तक बताते रहो जब तक कोई मदद न करे। अगर तुम 'ना' नहीं कह पाए, तब भी यह तुम्हारी ग़लती नहीं है। बताने पर तुम्हें डाँट नहीं पड़ेगी।",
+     "hg": "Agar kisi baat se tumhe darr lage, dukh ho ya confusion ho, toh kisi bharose wale bade ko batao, jaise mummy, papa, dadi ya teacher. Bolo, 'Mujhe help chahiye. Kuch hua hai.' Agar woh na sunein, toh kisi doosre bade ko batao. Tab tak batate raho jab tak koi help na kare. Agar tum 'no' nahi bol paaye, tab bhi yeh tumhari galti nahi hai. Batane pe tumhe daant nahi padegi."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Good children always say yes to grown-ups.",
+    "hi": "अच्छे बच्चे बड़ों की हर बात पर हमेशा 'हाँ' कहते हैं।",
+    "hg": "Achhe bacche badon ki har baat pe hamesha 'haan' bolte hain."
+   },
+   "fact": {
+    "en": "Good children listen and are polite, but they can still say no to anything that feels unsafe, hurts them or must be kept secret. Then they tell a trusted adult.",
+    "hi": "अच्छे बच्चे बात सुनते हैं और तमीज़ से पेश आते हैं, पर वे ऐसी हर बात को 'ना' कह सकते हैं जो असुरक्षित लगे, जिससे चोट पहुँचे या जिसे छिपाकर रखने को कहा जाए। फिर वे किसी भरोसे वाले बड़े को बताते हैं।",
+    "hg": "Achhe bacche baat sunte hain aur polite rehte hain, par woh aisi har cheez ko 'no' bol sakte hain jo unsafe lage, jisse hurt ho ya jise secret rakhne ko bola jaye. Phir woh kisi trusted bade ko batate hain."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "You can say no to anything that feels wrong or unsafe.",
+    "hi": "जो भी बात ग़लत या असुरक्षित लगे, उसे तुम 'ना' कह सकते हो।",
+    "hg": "Jo bhi cheez galat ya unsafe lage, use tum 'no' bol sakte ho."
+   },
+   {
+    "en": "When someone else says no or stop, you stop.",
+    "hi": "जब कोई दूसरा 'ना' या 'रुको' कहे, तो तुम रुक जाते हो।",
+    "hg": "Jab koi doosra 'no' ya 'ruko' bole, toh tum ruk jaate ho."
+   },
+   {
+    "en": "Keep telling trusted grown-ups until one of them helps you.",
+    "hi": "भरोसे वाले बड़ों को तब तक बताते रहो जब तक उनमें से कोई तुम्हारी मदद न करे।",
+    "hg": "Bharose wale badon ko tab tak batate raho jab tak unme se koi tumhari help na kare."
+   }
+  ],
+  "activity": {
+   "en": "Practise with a parent or in front of a mirror. Say 'No, I don't like that' and 'I need help' in a loud, clear voice three times each. Then name three grown-ups you can tell.",
+   "hi": "मम्मी-पापा के साथ या शीशे के सामने अभ्यास करो। 'नहीं, मुझे यह पसंद नहीं' और 'मुझे मदद चाहिए' को ऊँची, साफ़ आवाज़ में तीन-तीन बार बोलो। फिर ऐसे तीन बड़ों के नाम बताओ जिन्हें तुम बता सकते हो।",
+   "hg": "Parents ke saath ya mirror ke saamne practice karo. 'Nahi, mujhe yeh pasand nahi' aur 'Mujhe help chahiye' ko loud, clear awaaz mein teen-teen baar bolo. Phir aise teen badon ke naam batao jinhe tum bata sakte ho."
+  },
+  "interactive": "communication",
+  "quiz": [
+   {
+    "id": "d18-l01-q1",
+    "type": "scenario",
+    "q": {
+     "en": "An uncle you know wants a hug, but you do not feel like it. What can you do?",
+     "hi": "एक जान-पहचान के अंकल तुम्हें गले लगाना चाहते हैं, पर तुम्हारा मन नहीं है। तुम क्या कर सकते हो?",
+     "hg": "Ek jaan-pehchaan ke uncle tumhe hug karna chahte hain, par tumhara mann nahi hai. Tum kya kar sakte ho?"
+    },
+    "options": [
+     {
+      "en": "Hug him anyway so that he is not upset",
+      "hi": "फिर भी गले लग जाओ ताकि उन्हें बुरा न लगे",
+      "hg": "Phir bhi hug kar lo taaki unhe bura na lage"
+     },
+     {
+      "en": "Run and hide without telling anyone",
+      "hi": "किसी को बताए बिना भागकर छिप जाओ",
+      "hg": "Kisi ko bataye bina bhaag ke chhup jao"
+     },
+     {
+      "en": "Say 'No, thank you' and do namaste or wave instead",
+      "hi": "कहो 'नहीं, धन्यवाद' और उसकी जगह नमस्ते करो या हाथ हिलाओ",
+      "hg": "Bolo 'No, thank you' aur uski jagah namaste karo ya haath hilao"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "You decide who hugs you. A polite no with a namaste or a wave is respectful and keeps you comfortable.",
+     "hi": "तुम्हें कौन गले लगाए, यह तुम तय करते हो। नमस्ते या हाथ हिलाने के साथ तमीज़ से कही गई 'ना' में इज़्ज़त भी है और तुम्हारा आराम भी।",
+     "hg": "Tumhe kaun hug kare, yeh tum decide karte ho. Namaste ya wave ke saath polite 'no' respectful bhi hai aur tum comfortable bhi rehte ho."
+    }
+   },
+   {
+    "id": "d18-l01-q2",
+    "type": "tf",
+    "q": {
+     "en": "If the first grown-up does not listen, you should stop asking for help.",
+     "hi": "अगर पहला बड़ा तुम्हारी बात न सुने, तो तुम्हें मदद माँगना बंद कर देना चाहिए।",
+     "hg": "Agar pehla bada tumhari baat na sune, toh tumhe help maangna band kar dena chahiye."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Tell another trusted grown-up, and keep telling until someone helps you.",
+     "hi": "किसी दूसरे भरोसे वाले बड़े को बताओ, और तब तक बताते रहो जब तक कोई तुम्हारी मदद न करे।",
+     "hg": "Kisi doosre bharose wale bade ko batao, aur tab tak batate raho jab tak koi tumhari help na kare."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "wcd-childline"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d18-l02",
+  "domain": "d18",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 1,
+  "minutes": 6,
+  "unesco": [
+   1,
+   5
+  ],
+  "title": {
+   "en": "Say It Clearly: Feelings, Fights and Awkward Talks",
+   "hi": "साफ़ बोलो: भावनाएँ, झगड़े और झिझक वाली बातें",
+   "hg": "Seedha Bolo: Feelings, Fights aur Awkward Baatein"
+  },
+  "subtitle": {
+   "en": "'I' sentences, saying no to friends, talking to parents and teachers, and fixing a fight",
+   "hi": "'मैं' वाले वाक्य, दोस्तों को 'ना' कहना, माता-पिता और टीचर से बात करना, और झगड़ा सुलझाना",
+   "hg": "'Main' wale sentences, doston ko 'no' bolna, parents aur teachers se baat karna, aur fight sort karna"
+  },
+  "hook": {
+   "en": "Most fights are not really about the pencil box. They happen because nobody says what they actually feel.",
+   "hi": "ज़्यादातर झगड़े असल में पेंसिल बॉक्स के बारे में नहीं होते। वे इसलिए होते हैं क्योंकि कोई यह नहीं कहता कि उसे सच में क्या महसूस हो रहा है।",
+   "hg": "Zyadatar fights asal mein pencil box ke baare mein nahi hoti. Woh isliye hoti hain kyunki koi yeh nahi bolta ki use sach mein kya feel ho raha hai."
+  },
+  "objectives": [
+   {
+    "en": "Use an 'I' sentence to say what bothers you without blaming.",
+    "hi": "'मैं' वाले वाक्य से बिना इल्ज़ाम लगाए बता सको कि तुम्हें क्या परेशान कर रहा है।",
+    "hg": "'Main' wale sentence se bina blame kiye bata sako ki tumhe kya pareshaan kar raha hai."
+   },
+   {
+    "en": "Say no to a friend, and accept a friend's no.",
+    "hi": "दोस्त को 'ना' कह सको, और दोस्त की 'ना' मान सको।",
+    "hg": "Dost ko 'no' bol sako, aur dost ki 'no' accept kar sako."
+   },
+   {
+    "en": "Start an awkward conversation with a parent or teacher, and repair a fight.",
+    "hi": "माता-पिता या टीचर से झिझक वाली बात शुरू कर सको, और झगड़ा सुलझा सको।",
+    "hg": "Parent ya teacher se awkward baat shuru kar sako, aur fight repair kar sako."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "The 'I' sentence",
+     "hi": "'मैं' वाला वाक्य",
+     "hg": "'Main' wala sentence"
+    },
+    "body": {
+     "en": "When something bothers you, blaming usually starts a fight: 'You always make fun of me!' An 'I' sentence works better because it talks about your feeling, not the other person's character. Use three parts: I feel, when, I need. 'I feel bad when you call me that name. I need you to use my real name.' Or: 'I feel left out when you two whisper. Can I join?' Say it in a normal voice, face to face, when both of you are calm. It will feel strange the first few times. It still works.",
+     "hi": "जब कोई बात तुम्हें परेशान करती है, तो इल्ज़ाम लगाने से आम तौर पर झगड़ा शुरू हो जाता है: 'तू हमेशा मेरा मज़ाक़ उड़ाता है!' 'मैं' वाला वाक्य बेहतर काम करता है क्योंकि वह तुम्हारी भावना की बात करता है, सामने वाले के स्वभाव की नहीं। इसके तीन हिस्से हैं: मुझे महसूस होता है, जब, मुझे चाहिए। 'जब तुम मुझे उस नाम से बुलाते हो तो मुझे बुरा लगता है। मुझे चाहिए कि तुम मेरा असली नाम लो।' या: 'जब तुम दोनों कानाफूसी करते हो तो मुझे अकेलापन महसूस होता है। क्या मैं भी आ जाऊँ?' इसे सामान्य आवाज़ में, आमने-सामने, तब कहो जब दोनों शांत हों। पहली कुछ बार अजीब लगेगा। फिर भी यह काम करता है।",
+     "hg": "Jab koi baat tumhe pareshaan karti hai, toh blame karne se usually fight shuru ho jaati hai: 'Tu hamesha mera mazaak udata hai!' 'Main' wala sentence better kaam karta hai kyunki woh tumhari feeling ki baat karta hai, saamne wale ke character ki nahi. Iske teen parts hain: mujhe feel hota hai, jab, mujhe chahiye. 'Jab tum mujhe us naam se bulate ho toh mujhe bura lagta hai. Mujhe chahiye ki tum mera asli naam lo.' Ya: 'Jab tum dono kaana-phoosi karte ho toh mujhe left out feel hota hai. Main bhi aa jaun?' Isse normal awaaz mein, face to face, tab bolo jab dono calm hon. Pehli kuch baar ajeeb lagega. Phir bhi yeh kaam karta hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Saying no to friends",
+     "hi": "दोस्तों को 'ना' कहना",
+     "hg": "Doston ko 'no' bolna"
+    },
+    "body": {
+     "en": "Friends sometimes push: copy my homework, skip class, take this dare, tell me her secret. A real no is short, clear and repeated. 'No, I'm not doing that.' You do not need a long excuse. If they push again, say the same line again and offer something else: 'No. Let's play football instead.' If they call you boring or a baby, that is pressure, not friendship. Walk away if you need to. And when a friend says no to you, treat it exactly the way you want yours treated: accept it the first time.",
+     "hi": "दोस्त कभी-कभी ज़ोर डालते हैं: मेरा होमवर्क कॉपी कर लो, क्लास छोड़ दो, यह चुनौती पूरी करो, उसका राज़ मुझे बता दो। असली 'ना' छोटी, साफ़ और दोहराई हुई होती है। 'नहीं, मुझे यह नहीं करना।' लंबे बहाने की ज़रूरत नहीं। अगर वे फिर ज़ोर डालें, तो वही लाइन फिर से कहो और कुछ और सुझाओ: 'नहीं। चलो इसकी जगह फ़ुटबॉल खेलते हैं।' अगर वे तुम्हें बोरिंग या बच्चा कहें, तो वह दबाव है, दोस्ती नहीं। ज़रूरत पड़े तो वहाँ से चले जाओ। और जब कोई दोस्त तुम्हें 'ना' कहे, तो उसके साथ वैसा ही बर्ताव करो जैसा तुम अपनी 'ना' के साथ चाहते हो: पहली बार में ही मान लो।",
+     "hg": "Dost kabhi-kabhi push karte hain: mera homework copy kar lo, class bunk karo, yeh dare lo, uska secret mujhe bata do. Asli 'no' short, clear aur repeated hoti hai. 'Nahi, mujhe yeh nahi karna.' Lambe excuse ki zaroorat nahi. Agar woh phir push karein, toh wahi line phir se bolo aur kuch aur offer karo: 'Nahi. Chalo iski jagah football khelte hain.' Agar woh tumhe boring ya baccha bolein, toh woh pressure hai, dosti nahi. Zaroorat pade toh wahan se chale jao. Aur jab koi dost tumhe 'no' bole, toh uske saath waisa hi karo jaisa tum apni 'no' ke saath chahte ho: pehli baar mein hi maan lo."
+    }
+   },
+   {
+    "h": {
+     "en": "Awkward talks with parents and teachers",
+     "hi": "माता-पिता और टीचर से झिझक वाली बातें",
+     "hg": "Parents aur teachers se awkward baatein"
+    },
+    "body": {
+     "en": "Adults were your age once, and most would rather be asked than kept in the dark. Choose a quiet moment, not when they are rushing to work or angry. Start with a line that prepares them: 'Mumma, I want to ask something and I feel a bit shy.' or 'Sir, can I talk to you after class? Something is bothering me.' If speaking is hard, write a note or a message. Say what happened, how you feel and what you need. If the first adult scolds or brushes it off, try another: a grandparent, an aunt, a teacher or the school counsellor.",
+     "hi": "बड़े भी कभी तुम्हारी उम्र के थे, और ज़्यादातर यही चाहेंगे कि उनसे पूछा जाए, न कि बात छिपाई जाए। कोई शांत समय चुनो, तब नहीं जब वे काम के लिए भाग रहे हों या ग़ुस्से में हों। ऐसी लाइन से शुरू करो जो उन्हें तैयार कर दे: 'मम्मा, मुझे कुछ पूछना है और थोड़ी झिझक हो रही है।' या 'सर, क्या क्लास के बाद आपसे बात हो सकती है? एक बात मुझे परेशान कर रही है।' अगर बोलना मुश्किल लगे, तो एक पर्ची या मैसेज लिख दो। बताओ कि क्या हुआ, तुम्हें कैसा लग रहा है और तुम्हें क्या चाहिए। अगर पहला बड़ा डाँट दे या बात टाल दे, तो किसी और से कहो: दादा-दादी, मौसी, कोई टीचर या स्कूल काउंसलर।",
+     "hg": "Bade bhi kabhi tumhari age ke the, aur zyadatar yahi chahenge ki unse poocha jaye, na ki baat chhupayi jaye. Koi quiet moment choose karo, tab nahi jab woh kaam ke liye bhaag rahe hon ya gusse mein hon. Aisi line se start karo jo unhe ready kar de: 'Mumma, mujhe kuch poochna hai aur thodi sharam aa rahi hai.' ya 'Sir, kya class ke baad aapse baat ho sakti hai? Ek cheez mujhe pareshaan kar rahi hai.' Agar bolna mushkil lage, toh ek note ya message likh do. Batao ki kya hua, tumhe kaisa lag raha hai aur tumhe kya chahiye. Agar pehla adult daant de ya baat taal de, toh kisi aur ko try karo: dada-dadi, mausi, koi teacher ya school counsellor."
+    }
+   },
+   {
+    "h": {
+     "en": "How to fix a fight",
+     "hi": "झगड़ा कैसे सुलझाएँ",
+     "hg": "Fight kaise fix karein"
+    },
+    "body": {
+     "en": "Disagreements are normal, even between best friends. First, cool down: breathe slowly, drink water, wait until your body feels calm. Second, listen to their side without interrupting and repeat it back: 'So you felt I ignored you.' Third, say your side with an 'I' sentence. Fourth, own your part: a real sorry names what you did, like 'Sorry I shared your secret', without adding 'but'. Fifth, agree on what will change. If someone is hitting, threatening or bullying, that is not an ordinary fight, and you should bring in an adult.",
+     "hi": "मतभेद होना आम बात है, पक्के दोस्तों के बीच भी। पहला क़दम, शांत हो जाओ: धीरे-धीरे साँस लो, पानी पियो, तब तक रुको जब तक शरीर शांत न लगे। दूसरा, बीच में टोके बिना उसकी बात सुनो और उसे दोहराकर बताओ: 'तो तुम्हें लगा कि मैंने तुम्हें अनदेखा किया।' तीसरा, अपनी बात 'मैं' वाले वाक्य से कहो। चौथा, अपने हिस्से की ग़लती मानो: सच्ची माफ़ी में वह बात कही जाती है जो तुमने की, जैसे 'सॉरी, मैंने तुम्हारा राज़ बता दिया', और उसके बाद 'लेकिन' नहीं जोड़ा जाता। पाँचवाँ, तय करो कि आगे क्या बदलेगा। अगर कोई मार रहा है, धमका रहा है या बुली कर रहा है, तो वह आम झगड़ा नहीं है, और तुम्हें किसी बड़े को बीच में लाना चाहिए।",
+     "hg": "Disagreements normal hain, best friends ke beech bhi. Pehla step, cool down: dheere saans lo, paani piyo, tab tak ruko jab tak body calm na lage. Doosra, beech mein toke bina unki side suno aur use repeat karke batao: 'Toh tumhe laga maine tumhe ignore kiya.' Teesra, apni side 'main' wale sentence se bolo. Chautha, apna part own karo: asli sorry mein woh cheez boli jaati hai jo tumne ki, jaise 'Sorry, maine tumhara secret bata diya', aur uske baad 'but' nahi lagaya jata. Paanchva, decide karo ki aage kya change hoga. Agar koi maar raha hai, dhamka raha hai ya bully kar raha hai, toh woh ordinary fight nahi hai, aur tumhe kisi adult ko beech mein lana chahiye."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "If I tell my parents about a problem, I will only get scolded, so it is better to hide it.",
+    "hi": "अगर मैं मम्मी-पापा को अपनी परेशानी बताऊँ तो बस डाँट पड़ेगी, इसलिए छिपाना ही बेहतर है।",
+    "hg": "Agar main parents ko apni problem bataun toh bas daant padegi, isliye chhupana hi better hai."
+   },
+   "fact": {
+    "en": "Some parents do react with worry or anger at first, but hidden problems usually grow. Most adults calm down and help. If one adult does not, another trusted adult can.",
+    "hi": "कुछ माता-पिता पहले चिंता या ग़ुस्से से जवाब देते हैं, पर छिपाई हुई परेशानियाँ आम तौर पर बढ़ती ही हैं। ज़्यादातर बड़े शांत होकर मदद करते हैं। अगर एक बड़ा मदद न करे, तो कोई दूसरा भरोसेमंद बड़ा कर सकता है।",
+    "hg": "Kuch parents pehle worry ya gusse se react karte hain, par chhupayi hui problems usually badhti hi hain. Zyadatar adults calm hokar help karte hain. Agar ek adult help na kare, toh koi doosra trusted adult kar sakta hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "'I feel... when... I need...' says what hurts without starting a fight.",
+    "hi": "'मुझे महसूस होता है... जब... मुझे चाहिए...' बिना झगड़ा शुरू किए बता देता है कि क्या चुभ रहा है।",
+    "hg": "'Mujhe feel hota hai... jab... mujhe chahiye...' bina fight shuru kiye bata deta hai ki kya hurt kar raha hai."
+   },
+   {
+    "en": "A good no is short and repeated, and a friend's no is accepted the first time.",
+    "hi": "अच्छी 'ना' छोटी और दोहराई हुई होती है, और दोस्त की 'ना' पहली बार में मान ली जाती है।",
+    "hg": "Achhi 'no' short aur repeated hoti hai, aur dost ki 'no' pehli baar mein accept ki jaati hai."
+   },
+   {
+    "en": "Cool down, listen, speak, apologise for your part and agree on a change.",
+    "hi": "शांत हो, सुनो, अपनी बात कहो, अपने हिस्से की माफ़ी माँगो और बदलाव पर सहमत हो।",
+    "hg": "Cool down karo, suno, apni baat bolo, apne part ke liye sorry bolo aur change pe agree karo."
+   }
+  ],
+  "activity": {
+   "en": "Write three 'I' sentences for real situations from this week, using 'I feel... when... I need...'. Pick the easiest one and say it to the person tomorrow.",
+   "hi": "इस हफ़्ते की असली स्थितियों के लिए तीन 'मैं' वाले वाक्य लिखो, 'मुझे महसूस होता है... जब... मुझे चाहिए...' का इस्तेमाल करके। सबसे आसान वाला चुनो और कल उस इंसान से कह दो।",
+   "hg": "Is week ki real situations ke liye teen 'main' wale sentences likho, 'Mujhe feel hota hai... jab... mujhe chahiye...' use karke. Sabse easy wala choose karo aur kal us insaan ko bol do."
+  },
+  "interactive": "communication",
+  "quiz": [
+   {
+    "id": "d18-l02-q1",
+    "type": "mcq",
+    "q": {
+     "en": "You are furious with a friend. What is the best first step?",
+     "hi": "तुम्हें एक दोस्त पर बहुत ग़ुस्सा आ रहा है। सबसे अच्छा पहला क़दम क्या है?",
+     "hg": "Tumhe ek dost pe bahut gussa aa raha hai. Best first step kya hai?"
+    },
+    "options": [
+     {
+      "en": "Take time to calm down before you talk",
+      "hi": "बात करने से पहले शांत होने के लिए समय लो",
+      "hg": "Baat karne se pehle calm hone ke liye time lo"
+     },
+     {
+      "en": "Tell everyone in class what they did",
+      "hi": "क्लास में सबको बता दो कि उसने क्या किया",
+      "hg": "Class mein sabko bata do ki usne kya kiya"
+     },
+     {
+      "en": "Send an angry message right now",
+      "hi": "अभी एक ग़ुस्से वाला मैसेज भेज दो",
+      "hg": "Abhi ek angry message bhej do"
+     },
+     {
+      "en": "Stop talking to them for good",
+      "hi": "उससे हमेशा के लिए बात करना बंद कर दो",
+      "hg": "Usse hamesha ke liye baat karna band kar do"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Angry words are hard to take back. Calming down first lets you say what you really mean.",
+     "hi": "ग़ुस्से में कहे शब्द वापस लेना मुश्किल होता है। पहले शांत होने से तुम वह कह पाते हो जो सच में कहना चाहते हो।",
+     "hg": "Gusse mein bole words wapas lena mushkil hota hai. Pehle calm hone se tum woh bol paate ho jo sach mein bolna chahte ho."
+    }
+   },
+   {
+    "id": "d18-l02-q2",
+    "type": "scenario",
+    "q": {
+     "en": "Tara wants to ask her mother about a change in her body but feels shy. Which opening is most likely to work?",
+     "hi": "तारा अपने शरीर में आए एक बदलाव के बारे में मम्मी से पूछना चाहती है, पर उसे झिझक हो रही है। कौन-सी शुरुआत सबसे ज़्यादा काम आएगी?",
+     "hg": "Tara apni body mein aaye ek change ke baare mein mummy se poochna chahti hai, par use sharam aa rahi hai. Kaun-sa opening sabse zyada kaam karega?"
+    },
+    "options": [
+     {
+      "en": "Say 'Nothing, forget it' when her mother asks",
+      "hi": "जब मम्मी पूछें तो कह दे 'कुछ नहीं, छोड़ो'",
+      "hg": "Jab mummy poochein toh bol de 'Kuch nahi, chhodo'"
+     },
+     {
+      "en": "'Mumma, I have a question and I feel a bit shy. Can we talk tonight?'",
+      "hi": "'मम्मा, मुझे एक सवाल पूछना है और थोड़ी झिझक हो रही है। क्या हम आज रात बात कर सकते हैं?'",
+      "hg": "'Mumma, mujhe ek sawaal poochna hai aur thodi sharam aa rahi hai. Aaj raat baat kar sakte hain?'"
+     },
+     {
+      "en": "Wait for her mother to guess what is wrong",
+      "hi": "इंतज़ार करे कि मम्मी ख़ुद अंदाज़ा लगा लें कि क्या बात है",
+      "hg": "Wait kare ki mummy khud guess kar lein ki kya baat hai"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Naming the shyness and asking for a time prepares her mother to listen. Adults cannot help with what they have to guess.",
+     "hi": "अपनी झिझक बता देने और समय माँगने से मम्मी सुनने के लिए तैयार हो जाती हैं। जिस बात का बड़ों को अंदाज़ा लगाना पड़े, उसमें वे मदद नहीं कर पाते।",
+     "hg": "Apni sharam bata dene aur time maangne se mummy sunne ke liye ready ho jaati hain. Jis cheez ka adults ko guess karna pade, usme woh help nahi kar paate."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-cse"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d18-l03",
+  "domain": "d18",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   5,
+   1
+  ],
+  "title": {
+   "en": "Your Call: Decisions, Pressure and Manipulation",
+   "hi": "फ़ैसला तुम्हारा: निर्णय, दबाव और बहलाने-फुसलाने के तरीक़े",
+   "hg": "Faisla Tumhara: Decisions, Pressure aur Manipulation"
+  },
+  "subtitle": {
+   "en": "A method for decisions, the tricks people use to bend your no, and how to hold it",
+   "hi": "फ़ैसले लेने का एक तरीक़ा, तुम्हारी 'ना' को मोड़ने के लिए इस्तेमाल होने वाली चालें, और उस पर टिके रहने का ढंग",
+   "hg": "Decisions lene ka ek method, tumhari 'no' ko modne ke liye use hone wali tricks, aur uspe tike rehne ka tareeka"
+  },
+  "hook": {
+   "en": "If someone needs guilt, speed or secrecy to get your yes, it was never really your yes.",
+   "hi": "अगर किसी को तुम्हारी 'हाँ' पाने के लिए अपराध-बोध, जल्दबाज़ी या राज़दारी का सहारा लेना पड़े, तो वह कभी तुम्हारी 'हाँ' थी ही नहीं।",
+   "hg": "Agar kisi ko tumhari 'yes' paane ke liye guilt, jaldbaazi ya secrecy ka sahara lena pade, toh woh kabhi tumhari 'yes' thi hi nahi."
+  },
+  "objectives": [
+   {
+    "en": "Use a step-by-step method for decisions that matter.",
+    "hi": "अहम फ़ैसलों के लिए क़दम-दर-क़दम तरीक़ा इस्तेमाल कर सको।",
+    "hg": "Important decisions ke liye step-by-step method use kar sako."
+   },
+   {
+    "en": "Name common manipulation tactics when you hear them.",
+    "hi": "बहलाने-फुसलाने की आम चालों को सुनते ही पहचान सको।",
+    "hg": "Common manipulation tactics ko sunte hi pehchaan sako."
+   },
+   {
+    "en": "Say an assertive no, and respect another person's no.",
+    "hi": "मज़बूती से 'ना' कह सको, और दूसरे की 'ना' का सम्मान कर सको।",
+    "hg": "Assertive 'no' bol sako, aur doosre ki 'no' ko respect kar sako."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "A method for decisions that matter",
+     "hi": "अहम फ़ैसलों का एक तरीक़ा",
+     "hg": "Important decisions ka ek method"
+    },
+    "body": {
+     "en": "Quick choices like which snack to buy need no method. Bigger ones do: going to a party, sharing a photo, keeping a secret, getting into a relationship. Use five steps. Stop: do not answer while you are excited, scared or being rushed. Options: list at least three, including 'not now'. Outcomes: for each one, ask what could happen tomorrow, next month and next year. Values: which option fits the person you want to be, and the law? Decide, then review later. A useful test is to ask whether you would be comfortable if a person you respect knew about it.",
+     "hi": "कौन-सा स्नैक ख़रीदें जैसे छोटे फ़ैसलों के लिए किसी तरीक़े की ज़रूरत नहीं। बड़े फ़ैसलों के लिए है: किसी पार्टी में जाना, फ़ोटो शेयर करना, कोई राज़ रखना, रिश्ते में आना। पाँच क़दम अपनाओ। रुको: जब तुम बहुत उत्साहित हो, डरे हुए हो या तुमसे जल्दी कराई जा रही हो, तब जवाब मत दो। विकल्प: कम से कम तीन लिखो, जिनमें 'अभी नहीं' भी हो। नतीजे: हर विकल्प के लिए सोचो कि कल, अगले महीने और अगले साल क्या हो सकता है। मूल्य: कौन-सा विकल्प उस इंसान से मेल खाता है जो तुम बनना चाहते हो, और क़ानून से? फ़ैसला करो, फिर बाद में उसे परखो। एक काम की कसौटी यह पूछना है कि अगर किसी ऐसे इंसान को पता चले जिसकी तुम इज़्ज़त करते हो, तो क्या तुम सहज रहोगे।",
+     "hg": "Kaun-sa snack lena hai jaise quick choices ke liye kisi method ki zaroorat nahi. Bade decisions ke liye hai: party mein jaana, photo share karna, koi secret rakhna, relationship mein aana. Paanch steps use karo. Stop: jab tum excited ho, dare hue ho ya tumse jaldi karayi ja rahi ho, tab answer mat do. Options: kam se kam teen likho, jisme 'abhi nahi' bhi ho. Outcomes: har option ke liye socho ki kal, agle mahine aur agle saal kya ho sakta hai. Values: kaun-sa option us insaan se match karta hai jo tum banna chahte ho, aur law se? Decide karo, phir baad mein review karo. Ek kaam ka test yeh poochna hai ki agar kisi aise insaan ko pata chale jiski tum respect karte ho, toh kya tum comfortable rahoge."
+    }
+   },
+   {
+    "h": {
+     "en": "How manipulation works",
+     "hi": "बहलाना-फुसलाना कैसे काम करता है",
+     "hg": "Manipulation kaise kaam karta hai"
+    },
+    "body": {
+     "en": "Manipulation is getting someone to do something by pressure or tricks instead of honest asking. Learn the common moves. Guilt: 'If you really cared, you would.' Bandwagon: 'Everyone does it.' Flattery with a hook: 'You're so mature, not like the others.' Rushing: 'Decide now or forget it.' Secrecy: 'Don't tell anyone, they won't understand.' Threats: 'I'll leave you', 'I'll tell people'. Gaslighting: 'That never happened, you're overreacting,' said to make you doubt your own memory. Persistent asking: the same request until you are too tired to refuse. One sign is common to all of them: your discomfort is treated as a problem to be removed, not a reason to stop.",
+     "hi": "मैनिपुलेशन (manipulation) का मतलब है किसी से ईमानदारी से पूछने की जगह दबाव या चालाकी से कोई काम करवाना। इसकी आम चालें पहचान लो। अपराध-बोध: 'अगर तुम्हें सच में परवाह होती, तो तुम कर देते।' भीड़ का हवाला: 'सब करते हैं।' मतलब वाली तारीफ़: 'तुम कितने समझदार हो, बाक़ियों जैसे नहीं।' जल्दबाज़ी: 'अभी तय करो वरना भूल जाओ।' राज़दारी: 'किसी को मत बताना, वे नहीं समझेंगे।' धमकी: 'मैं तुम्हें छोड़ दूँगा', 'मैं सबको बता दूँगा'। गैसलाइटिंग: 'ऐसा कभी हुआ ही नहीं, तुम बात बढ़ा रहे हो,' जो इसलिए कहा जाता है कि तुम अपनी ही याददाश्त पर शक करने लगो। बार-बार पूछना: वही माँग तब तक, जब तक तुम मना करते-करते थक न जाओ। इन सबमें एक निशानी साझा है: तुम्हारी असहजता को रुकने की वजह नहीं, बल्कि हटाने लायक़ अड़चन माना जाता है।",
+     "hg": "Manipulation matlab kisi se honestly poochne ki jagah pressure ya tricks se koi kaam karwana. Iske common moves pehchaan lo. Guilt: 'Agar tumhe sach mein parwah hoti, toh tum kar dete.' Bandwagon: 'Sab karte hain.' Hook wali tareef: 'Tum kitne mature ho, baakiyon jaise nahi.' Rushing: 'Abhi decide karo warna bhool jao.' Secrecy: 'Kisi ko mat batana, woh nahi samjhenge.' Threats: 'Main tumhe chhod dunga', 'Main sabko bata dunga'. Gaslighting: 'Aisa kabhi hua hi nahi, tum overreact kar rahe ho,' jo isliye bola jata hai ki tum apni hi memory pe doubt karne lago. Persistent asking: wahi request tab tak, jab tak tum mana karte-karte thak na jao. In sabme ek sign common hai: tumhari discomfort ko rukne ki wajah nahi, balki hatane layak problem maana jata hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Holding your no",
+     "hi": "अपनी 'ना' पर टिके रहना",
+     "hg": "Apni 'no' pe tike rehna"
+    },
+    "body": {
+     "en": "An assertive no is calm, short and firm. It is not aggressive and it is not apologetic. Useful lines: 'No, I'm not comfortable with that.' 'I've decided, please stop asking.' 'I need time; if you need an answer now, it's no.' You do not owe an explanation, and explaining too much gives the other person points to argue with. If they continue, repeat the same sentence like a broken record, then leave or end the chat. You may change a yes to a no at any point. If a no is met with threats or blackmail, that is the moment to involve a trusted adult.",
+     "hi": "मज़बूत 'ना' शांत, छोटी और पक्की होती है। उसमें न आक्रामकता होती है, न माफ़ी माँगने वाला लहजा। काम की लाइनें: 'नहीं, मैं इसमें सहज नहीं हूँ।' 'मैंने तय कर लिया है, अब मत पूछो।' 'मुझे समय चाहिए; अगर जवाब अभी चाहिए, तो जवाब ना है।' सफ़ाई देना तुम्हारी ज़िम्मेदारी नहीं है, और ज़्यादा सफ़ाई देने से सामने वाले को बहस के मुद्दे मिल जाते हैं। अगर वे जारी रखें, तो वही वाक्य अटके हुए रिकॉर्ड की तरह दोहराओ, फिर वहाँ से चले जाओ या चैट बंद कर दो। तुम किसी भी समय अपनी 'हाँ' को 'ना' में बदल सकते हो। अगर 'ना' के जवाब में धमकी या ब्लैकमेल मिले, तो वही समय है किसी भरोसेमंद बड़े को शामिल करने का।",
+     "hg": "Assertive 'no' calm, short aur firm hoti hai. Usme na aggression hota hai, na sorry wala tone. Kaam ki lines: 'Nahi, main isme comfortable nahi hoon.' 'Maine decide kar liya hai, please ab mat poocho.' 'Mujhe time chahiye; agar answer abhi chahiye, toh answer no hai.' Explanation dena tumhari zimmedari nahi hai, aur zyada explain karne se saamne wale ko argue karne ke points mil jaate hain. Agar woh continue karein, toh wahi sentence broken record ki tarah repeat karo, phir wahan se nikal jao ya chat band kar do. Tum kisi bhi point pe apni 'yes' ko 'no' mein badal sakte ho. Agar 'no' ke jawab mein dhamki ya blackmail mile, toh wahi moment hai kisi trusted adult ko involve karne ka."
+    }
+   },
+   {
+    "h": {
+     "en": "Respecting someone else's no",
+     "hi": "दूसरे की 'ना' का सम्मान",
+     "hg": "Doosre ki 'no' ko respect karna"
+    },
+    "body": {
+     "en": "The skill has a second half. When someone tells you no, to a date, a hug, a photo, a plan or a favour, the respectful reply is 'Okay, thanks for telling me.' Do not ask again in a different way, sulk, joke about it to others or go silent to punish them. Hesitation, 'maybe', 'I guess' and silence are not yes. A yes given after nagging is not a real yes either. Feeling hurt by a no is human. Handle that feeling with a friend, a walk or a journal, not by making the other person pay for it.",
+     "hi": "इस हुनर का एक दूसरा आधा हिस्सा भी है। जब कोई तुम्हें 'ना' कहे, चाहे डेट के लिए, गले लगने के लिए, फ़ोटो के लिए, किसी प्लान के लिए या किसी एहसान के लिए, तो इज़्ज़त भरा जवाब है 'ठीक है, बताने के लिए शुक्रिया।' घुमा-फिराकर दोबारा मत पूछो, मुँह मत फुलाओ, दूसरों के सामने उसका मज़ाक़ मत बनाओ और सज़ा देने के लिए बात करना बंद मत करो। हिचकिचाहट, 'शायद', 'देखते हैं' और चुप्पी का मतलब 'हाँ' नहीं होता। ज़िद करके निकलवाई गई 'हाँ' भी असली 'हाँ' नहीं है। 'ना' सुनकर दुख होना इंसानी बात है। उस एहसास को किसी दोस्त के साथ, टहलकर या डायरी लिखकर सँभालो, सामने वाले से उसकी क़ीमत वसूलकर नहीं।",
+     "hg": "Is skill ka ek second half bhi hai. Jab koi tumhe 'no' bole, chahe date ke liye, hug ke liye, photo ke liye, kisi plan ke liye ya kisi favour ke liye, toh respectful reply hai 'Okay, batane ke liye thanks.' Ghuma-phira ke dobara mat poocho, sulk mat karo, doosron ke saamne uska joke mat banao aur punish karne ke liye silent mat ho jao. Hesitation, 'maybe', 'dekhte hain' aur chuppi ka matlab 'yes' nahi hota. Zid karke nikalwayi gayi 'yes' bhi asli 'yes' nahi hai. 'No' sunke hurt hona human hai. Us feeling ko kisi dost ke saath, walk pe ya journal likhkar handle karo, saamne wale se uski keemat wasool karke nahi."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Saying no makes you rude, and a good friend or partner never refuses.",
+    "hi": "'ना' कहना बदतमीज़ी है, और अच्छा दोस्त या साथी कभी मना नहीं करता।",
+    "hg": "'No' bolna rude hai, aur achha dost ya partner kabhi mana nahi karta."
+   },
+   "fact": {
+    "en": "A clear no is honest, and honesty is what healthy friendships and relationships run on. People who respect you accept your no. Someone who punishes you for refusing is showing you a warning sign about themselves.",
+    "hi": "साफ़ 'ना' ईमानदारी है, और अच्छी दोस्ती और अच्छे रिश्ते ईमानदारी पर ही चलते हैं। जो लोग तुम्हारी इज़्ज़त करते हैं, वे तुम्हारी 'ना' मान लेते हैं। जो मना करने पर तुम्हें सज़ा देता है, वह अपने बारे में एक चेतावनी का संकेत दे रहा है।",
+    "hg": "Clear 'no' honesty hai, aur healthy dosti aur relationships honesty pe hi chalte hain. Jo log tumhari respect karte hain, woh tumhari 'no' accept kar lete hain. Jo mana karne pe tumhe punish karta hai, woh apne baare mein ek warning sign de raha hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "For big decisions: stop, list options, think through outcomes, check your values, decide and review.",
+    "hi": "बड़े फ़ैसलों के लिए: रुको, विकल्प लिखो, नतीजे सोचो, अपने मूल्य परखो, फ़ैसला करो और बाद में जाँचो।",
+    "hg": "Bade decisions ke liye: ruko, options likho, outcomes socho, apni values check karo, decide karo aur review karo."
+   },
+   {
+    "en": "Guilt, rushing, secrecy, threats and repeated asking are manipulation, not persuasion.",
+    "hi": "अपराध-बोध, जल्दबाज़ी, राज़दारी, धमकी और बार-बार पूछना मैनिपुलेशन है, समझाना नहीं।",
+    "hg": "Guilt, rushing, secrecy, threats aur baar-baar poochna manipulation hai, persuasion nahi."
+   },
+   {
+    "en": "Your no needs no explanation, and other people's no deserves the same respect.",
+    "hi": "तुम्हारी 'ना' को किसी सफ़ाई की ज़रूरत नहीं, और दूसरों की 'ना' भी उतने ही सम्मान की हक़दार है।",
+    "hg": "Tumhari 'no' ko kisi explanation ki zaroorat nahi, aur doosron ki 'no' bhi utni hi respect deserve karti hai."
+   }
+  ],
+  "activity": {
+   "en": "Write your personal 'no script': three sentences you could actually say when pressured, in the language you really speak. Practise them aloud once. Then write one sentence you will say when somebody else tells you no.",
+   "hi": "अपनी निजी 'ना की स्क्रिप्ट' लिखो: तीन ऐसे वाक्य जो तुम दबाव पड़ने पर सच में बोल सको, उसी भाषा में जो तुम असल में बोलते हो। उन्हें एक बार ज़ोर से बोलकर अभ्यास करो। फिर एक ऐसा वाक्य लिखो जो तुम तब कहोगे जब कोई और तुम्हें 'ना' कहेगा।",
+   "hg": "Apni personal 'no script' likho: teen aise sentences jo tum pressure mein sach mein bol sako, usi language mein jo tum actually bolte ho. Unhe ek baar zor se bolkar practice karo. Phir ek aisa sentence likho jo tum tab bologe jab koi aur tumhe 'no' bolega."
+  },
+  "interactive": "communication",
+  "quiz": [
+   {
+    "id": "d18-l03-q1",
+    "type": "mcq",
+    "q": {
+     "en": "'If you were really my friend, you would do this for me.' Which tactic is this?",
+     "hi": "'अगर तू सच में मेरा दोस्त होता, तो मेरे लिए यह कर देता।' यह कौन-सी चाल है?",
+     "hg": "'Agar tu sach mein mera dost hota, toh mere liye yeh kar deta.' Yeh kaun-si tactic hai?"
+    },
+    "options": [
+     {
+      "en": "Flattery",
+      "hi": "चापलूसी",
+      "hg": "Flattery (chaaplusi)"
+     },
+     {
+      "en": "Guilt-tripping",
+      "hi": "अपराध-बोध कराना",
+      "hg": "Guilt-tripping"
+     },
+     {
+      "en": "Honest disagreement",
+      "hi": "ईमानदार असहमति",
+      "hg": "Honest disagreement"
+     },
+     {
+      "en": "Gaslighting",
+      "hi": "गैसलाइटिंग",
+      "hg": "Gaslighting"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "It turns your refusal into proof that you do not care, so that guilt does the persuading. Friendship is not measured by obedience.",
+     "hi": "यह तुम्हारे मना करने को इस बात का सबूत बना देती है कि तुम्हें परवाह नहीं, ताकि अपराध-बोध तुमसे काम करवा ले। दोस्ती कहना मानने से नहीं नापी जाती।",
+     "hg": "Yeh tumhare mana karne ko is baat ka proof bana deti hai ki tumhe parwah nahi, taaki guilt tumse kaam karwa le. Dosti obedience se measure nahi hoti."
+    }
+   },
+   {
+    "id": "d18-l03-q2",
+    "type": "tf",
+    "q": {
+     "en": "After saying yes to a plan, you are allowed to change your mind and say no.",
+     "hi": "किसी प्लान को 'हाँ' कहने के बाद भी तुम अपना मन बदलकर 'ना' कह सकते हो।",
+     "hg": "Kisi plan ko 'yes' bolne ke baad bhi tum apna mann badalkar 'no' bol sakte ho."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "A yes is not a contract. New information or a change in how you feel is reason enough to say no.",
+     "hi": "'हाँ' कोई अनुबंध नहीं है। नई जानकारी मिलना या तुम्हारे एहसास का बदल जाना 'ना' कहने के लिए काफ़ी वजह है।",
+     "hg": "'Yes' koi contract nahi hai. Nayi information milna ya tumhari feeling ka badal jana 'no' bolne ke liye kaafi reason hai."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-cse"
+  ],
+  "warning": {
+   "en": "If someone threatens you, blackmails you or pushes you for photos, meetings or secrecy, tell a trusted adult. You can also call 1098 (Child Helpline). For online threats or blackmail, call 1930 or report at cybercrime.gov.in.",
+   "hi": "अगर कोई तुम्हें धमकी दे, ब्लैकमेल करे या फ़ोटो, मिलने या राज़ रखने के लिए दबाव डाले, तो किसी भरोसेमंद बड़े को बताओ। तुम 1098 (चाइल्ड हेल्पलाइन) पर भी कॉल कर सकते हो। ऑनलाइन धमकी या ब्लैकमेल के लिए 1930 पर कॉल करो या cybercrime.gov.in पर रिपोर्ट करो।",
+   "hg": "Agar koi tumhe dhamki de, blackmail kare ya photos, milne ya secret rakhne ke liye pressure daale, toh kisi trusted adult ko batao. Tum 1098 (Child Helpline) pe bhi call kar sakte ho. Online dhamki ya blackmail ke liye 1930 pe call karo ya cybercrime.gov.in pe report karo."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d18-l04",
+  "domain": "d18",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 8,
+  "unesco": [
+   5,
+   8
+  ],
+  "title": {
+   "en": "Hard Conversations: Doctors, Parents and Friends in Trouble",
+   "hi": "मुश्किल बातचीत: डॉक्टर, माता-पिता और मुसीबत में पड़े दोस्त",
+   "hg": "Mushkil Conversations: Doctor, Parents aur Mushkil Mein Dost"
+  },
+  "subtitle": {
+   "en": "What to say, what to ask and what you can expect",
+   "hi": "क्या कहें, क्या पूछें और क्या उम्मीद रखें",
+   "hg": "Kya bolein, kya poochein aur kya expect karein"
+  },
+  "hook": {
+   "en": "A doctor can only treat what you tell them. Half-truths get half-treatment.",
+   "hi": "डॉक्टर सिर्फ़ उसी का इलाज कर सकते हैं जो तुम उन्हें बताते हो। आधा सच बताओगे तो इलाज भी आधा मिलेगा।",
+   "hg": "Doctor sirf usi ka ilaaj kar sakte hain jo tum unhe batate ho. Aadha sach bataoge toh treatment bhi aadha milega."
+  },
+  "objectives": [
+   {
+    "en": "Prepare for a medical appointment and ask the questions that matter.",
+    "hi": "डॉक्टर के पास जाने की तैयारी कर सको और ज़रूरी सवाल पूछ सको।",
+    "hg": "Doctor ke appointment ki taiyaari kar sako aur zaroori sawaal pooch sako."
+   },
+   {
+    "en": "Explain what confidentiality means and where its limits are, especially under 18.",
+    "hi": "समझा सको कि गोपनीयता का क्या मतलब है और उसकी सीमाएँ कहाँ हैं, ख़ासकर 18 साल से कम उम्र में।",
+    "hg": "Samjha sako ki confidentiality ka kya matlab hai aur uski limits kahan hain, khaaskar 18 se kam age mein."
+   },
+   {
+    "en": "Open a difficult conversation with a parent and respond well when a friend confides in you.",
+    "hi": "माता-पिता से मुश्किल बात शुरू कर सको और जब कोई दोस्त अपनी बात बताए तो सही ढंग से साथ दे सको।",
+    "hg": "Parent se mushkil baat shuru kar sako aur jab koi dost apni baat share kare toh sahi tareeke se saath de sako."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Getting ready for a doctor",
+     "hi": "डॉक्टर के पास जाने की तैयारी",
+     "hg": "Doctor ke paas jaane ki taiyaari"
+    },
+    "body": {
+     "en": "Embarrassment makes people go blank in the clinic, so prepare. Before you go, write down what the problem is, when it started, what makes it better or worse, any medicines you take, and the date of your last period if you have periods. Use plain body words: penis, vulva, vagina, anus, breast. Doctors hear them all day. You can open with, 'This is awkward for me, but I need to ask about...' Where available, you may ask for a doctor of a particular gender, and for a family member or nurse to be present during an examination. Adolescent Friendly Health Clinics in government facilities are meant for young people's questions.",
+     "hi": "शर्म की वजह से क्लिनिक में लोगों का दिमाग़ ख़ाली हो जाता है, इसलिए तैयारी करके जाओ। जाने से पहले लिख लो कि परेशानी क्या है, कब शुरू हुई, किससे बढ़ती या घटती है, तुम कौन-सी दवाइयाँ लेते हो, और अगर तुम्हें पीरियड आते हैं तो पिछले पीरियड की तारीख़। शरीर के सीधे शब्द इस्तेमाल करो: लिंग (penis), योनिमुख (vulva), योनि (vagina), गुदा (anus), स्तन। डॉक्टर ये शब्द दिन भर सुनते हैं। तुम ऐसे शुरू कर सकते हो, 'मुझे यह कहने में झिझक हो रही है, पर मुझे इस बारे में पूछना है...' जहाँ सुविधा हो, तुम किसी ख़ास जेंडर के डॉक्टर के लिए कह सकते हो, और जाँच के दौरान परिवार के किसी सदस्य या नर्स के मौजूद रहने के लिए भी। सरकारी स्वास्थ्य केंद्रों में किशोर मित्र स्वास्थ्य क्लिनिक (AFHC) युवाओं के सवालों के लिए ही बने हैं।",
+     "hg": "Sharam ki wajah se clinic mein logon ka dimaag blank ho jata hai, isliye prepare karke jao. Jaane se pehle likh lo ki problem kya hai, kab shuru hui, kisse better ya worse hoti hai, tum kaun-si medicines lete ho, aur agar tumhe periods aate hain toh last period ki date. Body ke seedhe words use karo: penis, vulva, vagina, anus, breast. Doctors ye words din bhar sunte hain. Tum aise start kar sakte ho, 'Mujhe yeh bolne mein awkward lag raha hai, par mujhe is baare mein poochna hai...' Jahan available ho, tum kisi particular gender ke doctor ke liye bol sakte ho, aur examination ke time family member ya nurse ke present rehne ke liye bhi. Government facilities mein Adolescent Friendly Health Clinics (AFHC) young logon ke sawaalon ke liye hi bane hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Questions you have a right to ask",
+     "hi": "वे सवाल जो पूछना तुम्हारा हक़ है",
+     "hg": "Woh sawaal jo poochna tumhara right hai"
+    },
+    "body": {
+     "en": "Good care is a conversation, not a lecture. Ask until you understand: What do you think this is? What is this test or medicine for? How, and for how long, do I take it? What side effects should I watch for? What if it does not get better, and when should I come back? Is there another option? Repeat the plan in your own words to check it. Before any examination, the doctor should tell you what they are going to do and why, and you can ask them to pause or stop. Your responsibility is honesty: give the full history, including the parts you would rather skip.",
+     "hi": "अच्छा इलाज बातचीत है, भाषण नहीं। जब तक समझ न आए, पूछते रहो: आपको क्या लगता है, यह क्या है? यह जाँच या दवा किसलिए है? इसे कैसे और कितने दिन लेना है? किन साइड इफ़ेक्ट पर नज़र रखूँ? अगर आराम न आए तो क्या करूँ, और दोबारा कब आऊँ? क्या कोई और विकल्प है? पूरी योजना अपने शब्दों में दोहराकर जाँच लो कि तुमने सही समझा है। किसी भी जाँच से पहले डॉक्टर को तुम्हें बताना चाहिए कि वे क्या करने वाले हैं और क्यों, और तुम उन्हें रुकने या बंद करने के लिए कह सकते हो। तुम्हारी ज़िम्मेदारी ईमानदारी है: पूरी जानकारी दो, वे हिस्से भी जिन्हें तुम छोड़ देना चाहते हो।",
+     "hg": "Achhi care ek conversation hai, lecture nahi. Jab tak samajh na aaye, poochte raho: Aapko kya lagta hai, yeh kya hai? Yeh test ya medicine kis liye hai? Isse kaise aur kitne din lena hai? Kin side effects pe nazar rakhun? Agar better na ho toh kya karun, aur dobara kab aaun? Kya koi aur option hai? Poora plan apne words mein repeat karke check kar lo ki tumne sahi samjha hai. Kisi bhi examination se pehle doctor ko tumhe batana chahiye ki woh kya karne wale hain aur kyun, aur tum unhe pause ya stop karne ke liye bol sakte ho. Tumhari responsibility honesty hai: poori history do, woh parts bhi jinhe tum skip karna chahte ho."
+    }
+   },
+   {
+    "h": {
+     "en": "Confidentiality and its limits",
+     "hi": "गोपनीयता और उसकी सीमाएँ",
+     "hg": "Confidentiality aur uski limits"
+    },
+    "body": {
+     "en": "Doctors and counsellors are expected to keep what you tell them private, and you can ask first, 'Who will this be shared with?' There are honest limits. If you are under 18, the law (POCSO) requires anyone who learns of sexual abuse or sexual activity involving a minor to report it, so no doctor, teacher or counsellor can promise total secrecy about that. They may also involve others if your life is at risk. For those under 18, a parent or guardian is usually needed to consent to treatment. This is not a reason to avoid care. It is a reason to ask how your information will be handled.",
+     "hi": "डॉक्टरों और काउंसलरों से उम्मीद की जाती है कि तुम जो बताओ उसे वे निजी रखें, और तुम शुरू में ही पूछ सकते हो, 'यह बात किस-किस को बताई जाएगी?' इसकी कुछ सच्ची सीमाएँ हैं। अगर तुम 18 साल से कम के हो, तो क़ानून (POCSO) के मुताबिक़ जिसे भी किसी नाबालिग़ के साथ यौन शोषण या यौन गतिविधि का पता चले, उसे इसकी रिपोर्ट करनी होती है, इसलिए कोई भी डॉक्टर, टीचर या काउंसलर इस बारे में पूरी तरह राज़ रखने का वादा नहीं कर सकता। अगर तुम्हारी जान को ख़तरा हो, तब भी वे दूसरों को शामिल कर सकते हैं। 18 से कम उम्र वालों के इलाज की सहमति के लिए आम तौर पर माता-पिता या अभिभावक की ज़रूरत होती है। यह इलाज से बचने की वजह नहीं है। यह इस बात की वजह है कि तुम पूछो कि तुम्हारी जानकारी कैसे सँभाली जाएगी।",
+     "hg": "Doctors aur counsellors se expect kiya jata hai ki tum jo batao use woh private rakhein, aur tum shuru mein hi pooch sakte ho, 'Yeh baat kis-kis ke saath share hogi?' Iski kuch honest limits hain. Agar tum 18 se kam ho, toh law (POCSO) ke hisaab se jise bhi kisi minor ke saath sexual abuse ya sexual activity ka pata chale, use report karna hota hai, isliye koi bhi doctor, teacher ya counsellor is baare mein total secrecy ka promise nahi kar sakta. Agar tumhari life ko risk ho, tab bhi woh doosron ko involve kar sakte hain. 18 se kam walon ke treatment ke consent ke liye usually parent ya guardian ki zaroorat hoti hai. Yeh care avoid karne ka reason nahi hai. Yeh is baat ka reason hai ki tum poocho ki tumhari information kaise handle hogi."
+    }
+   },
+   {
+    "h": {
+     "en": "Parents, and a friend in trouble",
+     "hi": "माता-पिता, और मुसीबत में पड़ा दोस्त",
+     "hg": "Parents, aur mushkil mein pada dost"
+    },
+    "body": {
+     "en": "For a hard talk at home, pick a calm time and say what you need: 'Papa, please listen for five minutes before you react.' State the facts, your feeling and the help you want. A first reaction often passes; try again tomorrow. If you fear being hurt or thrown out, start with another trusted adult, a counsellor or a helpline. When a friend confides, listen, believe them and say, 'Thank you for telling me. It's not your fault. What would help?' Do not investigate or spread it. If they are being harmed or thinking of self-harm, do not promise secrecy; help them reach an adult or 1098, 181 or 14416.",
+     "hi": "घर पर किसी मुश्किल बात के लिए शांत समय चुनो और शुरुआत इस बात से करो कि तुम्हें क्या चाहिए: 'पापा, प्लीज़ कुछ कहने से पहले पाँच मिनट मेरी बात सुनिए।' तथ्य बताओ, अपना एहसास बताओ और वह मदद बताओ जो तुम चाहते हो। पहली प्रतिक्रिया अक्सर गुज़र जाती है; अगले दिन फिर कोशिश करो। अगर तुम्हें डर है कि बात छेड़ने पर तुम्हें चोट पहुँचाई जाएगी या घर से निकाल दिया जाएगा, तो शुरुआत किसी दूसरे भरोसेमंद बड़े, काउंसलर या हेल्पलाइन से करो। जब कोई दोस्त तुम्हारे सामने खुलकर बात करे, तो पूरी बात सुनो, उस पर यक़ीन करो और कहो, 'मुझे बताने के लिए शुक्रिया। इसमें तुम्हारी ग़लती नहीं है। किस चीज़ से मदद मिलेगी?' जाँच-पड़ताल मत करो और बात फैलाओ मत। अगर उसे नुक़सान पहुँचाया जा रहा है या वह ख़ुद को चोट पहुँचाने की सोच रहा है, तो राज़ रखने का वादा मत करो; उसे किसी बड़े तक या 1098, 181 या 14416 तक पहुँचने में मदद करो।",
+     "hg": "Ghar pe kisi mushkil baat ke liye calm time choose karo aur shuruaat is baat se karo ki tumhe kya chahiye: 'Papa, please react karne se pehle paanch minute meri baat suniye.' Facts batao, apni feeling batao aur woh help batao jo tum chahte ho. Pehla reaction aksar guzar jata hai; agle din phir try karo. Agar tumhe darr hai ki baat chhedne pe tumhe hurt kiya jayega ya ghar se nikaal diya jayega, toh shuruaat kisi doosre trusted adult, counsellor ya helpline se karo. Jab koi dost tumhare saamne open up kare, toh poori baat suno, uspe believe karo aur bolo, 'Mujhe batane ke liye thank you. Isme tumhari galti nahi hai. Kis cheez se help milegi?' Investigate mat karo aur baat phailao mat. Agar use harm kiya ja raha hai ya woh self-harm ka soch raha hai, toh secret rakhne ka promise mat karo; use kisi adult tak ya 1098, 181 ya 14416 tak pahunchne mein help karo."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "If I tell the doctor the whole truth about my body or habits, they will judge me or refuse to treat me.",
+    "hi": "अगर मैं डॉक्टर को अपने शरीर या आदतों के बारे में पूरा सच बता दूँ, तो वे मुझे ग़लत समझेंगे या इलाज से मना कर देंगे।",
+    "hg": "Agar main doctor ko apni body ya habits ke baare mein poora sach bata dun, toh woh mujhe judge karenge ya treat karne se mana kar denge."
+   },
+   "fact": {
+    "en": "A doctor's job is to treat, not to judge, and accurate information is what makes the treatment right. If a doctor shames you, that is poor practice, and you are entitled to see a different one.",
+    "hi": "डॉक्टर का काम इलाज करना है, तुम्हें अच्छा-बुरा ठहराना नहीं, और सही जानकारी से ही इलाज सही होता है। अगर कोई डॉक्टर तुम्हें शर्मिंदा करे, तो वह ख़राब बर्ताव है, और तुम्हें किसी दूसरे डॉक्टर को दिखाने का पूरा हक़ है।",
+    "hg": "Doctor ka kaam treat karna hai, judge karna nahi, aur accurate information se hi treatment sahi hota hai. Agar koi doctor tumhe shame kare, toh woh poor practice hai, aur tumhe kisi doosre doctor ko dikhane ka poora haq hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Write down your symptoms, dates and questions before an appointment, and use plain body words.",
+    "hi": "डॉक्टर के पास जाने से पहले अपने लक्षण, तारीख़ें और सवाल लिख लो, और शरीर के सीधे शब्द इस्तेमाल करो।",
+    "hg": "Appointment se pehle apne symptoms, dates aur sawaal likh lo, aur body ke seedhe words use karo."
+   },
+   {
+    "en": "Confidentiality is the rule but has limits, and nobody can promise a person under 18 total secrecy about sexual abuse or sexual activity.",
+    "hi": "गोपनीयता नियम है पर उसकी सीमाएँ हैं, और 18 से कम उम्र के इंसान को यौन शोषण या यौन गतिविधि के बारे में पूरी राज़दारी का वादा कोई नहीं कर सकता।",
+    "hg": "Confidentiality rule hai par uski limits hain, aur 18 se kam age ke insaan ko sexual abuse ya sexual activity ke baare mein total secrecy ka promise koi nahi kar sakta."
+   },
+   {
+    "en": "With a friend in trouble: listen, believe, ask what helps, and connect them to an adult or helpline when there is harm.",
+    "hi": "मुसीबत में पड़े दोस्त के साथ: सुनो, यक़ीन करो, पूछो कि किससे मदद मिलेगी, और नुक़सान की बात हो तो उसे किसी बड़े या हेल्पलाइन से जोड़ो।",
+    "hg": "Mushkil mein pade dost ke saath: suno, believe karo, poocho kisse help milegi, aur harm ki baat ho toh use kisi adult ya helpline se connect karo."
+   }
+  ],
+  "activity": {
+   "en": "Fill in a 'visit card' for yourself, even if you are not ill: your known allergies, regular medicines, past illnesses, and three questions you would ask at your next appointment. Keep it in your phone notes.",
+   "hi": "अपने लिए एक 'विज़िट कार्ड' भरो, भले ही तुम बीमार न हो: तुम्हारी जानी-पहचानी एलर्जी, नियमित दवाइयाँ, पुरानी बीमारियाँ, और तीन सवाल जो तुम अगली बार डॉक्टर से पूछोगे। इसे अपने फ़ोन के नोट्स में रखो।",
+   "hg": "Apne liye ek 'visit card' bharo, bhale hi tum bimaar na ho: tumhari known allergies, regular medicines, purani illnesses, aur teen sawaal jo tum next appointment pe poochoge. Isse apne phone ke notes mein rakho."
+  },
+  "interactive": "support_circle",
+  "quiz": [
+   {
+    "id": "d18-l04-q1",
+    "type": "mcq",
+    "q": {
+     "en": "A friend tells you about a serious problem at home. What is the most helpful first response?",
+     "hi": "एक दोस्त तुम्हें घर की एक गंभीर परेशानी के बारे में बताता है। सबसे मददगार पहला जवाब क्या होगा?",
+     "hg": "Ek dost tumhe ghar ki ek serious problem ke baare mein batata hai. Sabse helpful first response kya hoga?"
+    },
+    "options": [
+     {
+      "en": "'Are you sure? That doesn't sound like your family.'",
+      "hi": "'पक्का? तुम्हारे घरवाले तो ऐसे नहीं लगते।'",
+      "hg": "'Pakka? Tumhari family toh aisi nahi lagti.'"
+     },
+     {
+      "en": "Share it with two close friends to get advice",
+      "hi": "सलाह लेने के लिए दो क़रीबी दोस्तों को बता दो",
+      "hg": "Advice lene ke liye do close friends ko bata do"
+     },
+     {
+      "en": "Tell them exactly what they must do",
+      "hi": "उसे ठीक-ठीक बता दो कि उसे क्या करना ही है",
+      "hg": "Use exactly bata do ki use kya karna hi hai"
+     },
+     {
+      "en": "'Thank you for telling me. I believe you. What would help right now?'",
+      "hi": "'मुझे बताने के लिए शुक्रिया। मुझे तुम पर यक़ीन है। अभी किस चीज़ से मदद मिलेगी?'",
+      "hg": "'Mujhe batane ke liye thank you. Mujhe tumpe believe hai. Abhi kis cheez se help milegi?'"
+     }
+    ],
+    "answer": 3,
+    "explain": {
+     "en": "Being believed and asked what they need keeps a friend talking. Doubt, gossip and instructions tend to shut them down.",
+     "hi": "जब दोस्त की बात पर यक़ीन किया जाता है और पूछा जाता है कि उसे क्या चाहिए, तो वह बात करता रहता है। शक, बातें फैलाना और हुक्म देना उसे चुप करा देते हैं।",
+     "hg": "Jab dost pe believe kiya jata hai aur poocha jata hai ki use kya chahiye, toh woh baat karta rehta hai. Doubt, gossip aur instructions use chup kara dete hain."
+    }
+   },
+   {
+    "id": "d18-l04-q2",
+    "type": "tf",
+    "q": {
+     "en": "A school counsellor can promise a 16-year-old complete secrecy about sexual abuse.",
+     "hi": "स्कूल काउंसलर 16 साल के किसी किशोर को यौन शोषण के बारे में पूरी तरह राज़ रखने का वादा कर सकता है।",
+     "hg": "School counsellor 16 saal ke kisi teen ko sexual abuse ke baare mein complete secrecy ka promise kar sakta hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Under POCSO, anyone who learns of a sexual offence against a person under 18 must report it, so total secrecy cannot be promised.",
+     "hi": "POCSO के तहत, जिसे भी 18 साल से कम उम्र के किसी इंसान के ख़िलाफ़ यौन अपराध का पता चले, उसे रिपोर्ट करनी होती है, इसलिए पूरी राज़दारी का वादा नहीं किया जा सकता।",
+     "hg": "POCSO ke under, jise bhi 18 se kam age ke kisi insaan ke against sexual offence ka pata chale, use report karna hota hai, isliye total secrecy ka promise nahi kiya ja sakta."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "nhm-afhc",
+   "pocso-2012"
+  ],
+  "warning": {
+   "en": "This lesson does not replace medical advice. Severe pain, heavy bleeding, difficulty breathing, fainting or thoughts of self-harm need urgent care: call 112 or go to the nearest hospital.",
+   "hi": "यह पाठ डॉक्टर की सलाह की जगह नहीं ले सकता। तेज़ दर्द, बहुत ज़्यादा ख़ून बहना, साँस लेने में तकलीफ़, बेहोशी या ख़ुद को नुक़सान पहुँचाने के ख़याल हों तो तुरंत मदद लो: 112 पर कॉल करो या सबसे नज़दीकी अस्पताल जाओ।",
+   "hg": "Yeh lesson medical advice ki jagah nahi le sakta. Severe pain, heavy bleeding, saans lene mein takleef, behoshi ya self-harm ke thoughts hon toh turant care lo: 112 pe call karo ya sabse nazdeeki hospital jao."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d18-l05",
+  "domain": "d18",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   5
+  ],
+  "title": {
+   "en": "Fact-Check Mode: Health Info You Can Trust",
+   "hi": "फ़ैक्ट-चेक मोड: सेहत की भरोसेमंद जानकारी",
+   "hg": "Fact-Check Mode: Bharosemand Health Info"
+  },
+  "subtitle": {
+   "en": "Critical thinking, spotting fake health claims and behaving responsibly online",
+   "hi": "परखकर सोचना, सेहत के झूठे दावे पहचानना और ऑनलाइन ज़िम्मेदारी से पेश आना",
+   "hg": "Critical thinking, fake health claims pakadna aur online responsibly behave karna"
+  },
+  "hook": {
+   "en": "A reel with ten million views can still be wrong. Popular and true are two different things.",
+   "hi": "एक करोड़ व्यूज़ वाली रील भी ग़लत हो सकती है। मशहूर होना और सच होना दो अलग बातें हैं।",
+   "hg": "Ek crore views wali reel bhi galat ho sakti hai. Popular hona aur sach hona do alag cheezein hain."
+  },
+  "objectives": [
+   {
+    "en": "Explain why health misinformation spreads easily.",
+    "hi": "समझा सको कि सेहत से जुड़ी ग़लत जानकारी इतनी आसानी से क्यों फैलती है।",
+    "hg": "Samjha sako ki health misinformation itni easily kyun phailti hai."
+   },
+   {
+    "en": "Apply five checks to any health claim and recognise the red flags of quackery.",
+    "hi": "सेहत के किसी भी दावे पर पाँच जाँचें लगा सको और नीम-हकीमी के ख़तरे के संकेत पहचान सको।",
+    "hg": "Kisi bhi health claim pe paanch checks laga sako aur quackery ke red flags pehchaan sako."
+   },
+   {
+    "en": "Post, forward and comment responsibly.",
+    "hi": "ज़िम्मेदारी से पोस्ट, फ़ॉरवर्ड और कमेंट कर सको।",
+    "hg": "Responsibly post, forward aur comment kar sako."
+   }
+  ],
+  "prereqs": [
+   "d18-l03"
+  ],
+  "sections": [
+   {
+    "h": {
+     "en": "Why wrong information spreads faster",
+     "hi": "ग़लत जानकारी ज़्यादा तेज़ क्यों फैलती है",
+     "hg": "Galat information zyada fast kyun phailti hai"
+    },
+    "body": {
+     "en": "Platforms reward whatever people watch and share, not whatever is correct. Shocking, scary or 'secret' claims get more clicks than a careful explanation, so they travel further. Health topics that people feel shy about, such as periods, masturbation, body size, pregnancy and infections, are an easy market, because embarrassed people search privately instead of asking a doctor. Add family WhatsApp forwards, confident influencers and paid promotions that look like advice, and it becomes hard to tell knowledge from marketing. Critical thinking does not mean distrusting everything. It means asking for evidence before you believe, act or forward.",
+     "hi": "प्लेटफ़ॉर्म उसी चीज़ को आगे बढ़ाते हैं जिसे लोग देखते और शेयर करते हैं, उसे नहीं जो सही है। चौंकाने वाले, डराने वाले या 'राज़' वाले दावों पर किसी सधी हुई व्याख्या से ज़्यादा क्लिक आते हैं, इसलिए वे ज़्यादा दूर तक पहुँचते हैं। सेहत के वे विषय जिन पर लोगों को झिझक होती है, जैसे पीरियड, हस्तमैथुन, शरीर का आकार, गर्भ और संक्रमण, एक आसान बाज़ार हैं, क्योंकि शर्माए हुए लोग डॉक्टर से पूछने की जगह अकेले में सर्च करते हैं। इसमें परिवार के व्हाट्सऐप फ़ॉरवर्ड, आत्मविश्वास से भरे इन्फ़्लुएंसर और सलाह जैसे दिखने वाले पैसे लेकर किए गए प्रचार जोड़ दो, तो ज्ञान और मार्केटिंग में फ़र्क़ करना मुश्किल हो जाता है। परखकर सोचने का मतलब हर चीज़ पर अविश्वास करना नहीं है। इसका मतलब है यक़ीन करने, अमल करने या फ़ॉरवर्ड करने से पहले सबूत माँगना।",
+     "hg": "Platforms usi cheez ko push karte hain jo log dekhte aur share karte hain, usko nahi jo correct hai. Shocking, scary ya 'secret' claims pe kisi careful explanation se zyada clicks aate hain, isliye woh zyada door tak pahunchte hain. Health ke woh topics jinpe logon ko sharam aati hai, jaise periods, masturbation, body size, pregnancy aur infections, ek easy market hain, kyunki embarrassed log doctor se poochne ki jagah privately search karte hain. Isme family WhatsApp forwards, confident influencers aur advice jaise dikhne wale paid promotions add kar do, toh knowledge aur marketing mein farak karna mushkil ho jata hai. Critical thinking ka matlab har cheez pe distrust karna nahi hai. Iska matlab hai believe karne, act karne ya forward karne se pehle evidence maangna."
+    }
+   },
+   {
+    "h": {
+     "en": "Five checks for any health claim",
+     "hi": "सेहत के किसी भी दावे के लिए पाँच जाँचें",
+     "hg": "Kisi bhi health claim ke liye paanch checks"
+    },
+    "body": {
+     "en": "Who is saying it? Look for a named, qualified source: a registered doctor, a hospital, a government health programme or the World Health Organization. What is the evidence? Good sources explain how they know and admit what is uncertain. Why was it made? If it ends with 'buy this' or 'DM for the course', treat it as an advertisement. When was it written? Medical advice is updated, so check the date. Does anyone else agree? Compare with at least two independent, reliable sources. An answer from a search engine or an AI chatbot is a starting point for a question to a professional. It is not a diagnosis.",
+     "hi": "कौन कह रहा है? नाम वाला, योग्य स्रोत ढूँढो: कोई रजिस्टर्ड डॉक्टर, अस्पताल, सरकारी स्वास्थ्य कार्यक्रम या विश्व स्वास्थ्य संगठन (WHO)। सबूत क्या है? अच्छे स्रोत बताते हैं कि उन्हें यह कैसे पता है, और यह भी मानते हैं कि क्या अभी पक्का नहीं है। यह क्यों बनाया गया? अगर अंत में 'यह ख़रीदो' या 'कोर्स के लिए DM करो' आता है, तो इसे विज्ञापन समझो। यह कब लिखा गया? मेडिकल सलाह बदलती रहती है, इसलिए तारीख़ देखो। क्या कोई और भी यही कहता है? कम से कम दो अलग-अलग, भरोसेमंद स्रोतों से मिलाकर देखो। सर्च इंजन या AI चैटबॉट का जवाब किसी पेशेवर से सवाल पूछने की शुरुआत भर है। वह कोई निदान (diagnosis) नहीं है।",
+     "hg": "Kaun bol raha hai? Naam wala, qualified source dhoondo: koi registered doctor, hospital, government health programme ya World Health Organization. Evidence kya hai? Achhe sources batate hain ki unhe yeh kaise pata hai, aur yeh bhi maante hain ki kya abhi uncertain hai. Yeh kyun banaya gaya? Agar end mein 'yeh kharido' ya 'course ke liye DM karo' aata hai, toh isse ad samjho. Yeh kab likha gaya? Medical advice update hoti rehti hai, isliye date check karo. Kya koi aur bhi yahi bolta hai? Kam se kam do independent, reliable sources se compare karo. Search engine ya AI chatbot ka answer kisi professional se sawaal poochne ka starting point bhar hai. Woh diagnosis nahi hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Red flags of quackery",
+     "hi": "नीम-हकीमी के ख़तरे के संकेत",
+     "hg": "Quackery ke red flags"
+    },
+    "body": {
+     "en": "Be suspicious of 'guaranteed', '100 percent cure' or 'results in seven days'; of one product that claims to fix many unrelated problems; of 'doctors don't want you to know this'; of before-and-after photos and testimonials offered instead of studies; and of wall posters or online ads promising to cure 'sexual weakness', increase height or body-part size, or 'tighten' or 'whiten' anything. 'Natural', 'herbal' and 'ayurvedic' do not automatically mean safe; any product strong enough to act can also have side effects, and a label does not always list everything inside. Never take prescription medicines, hormones or leftover antibiotics on a friend's or a video's advice.",
+     "hi": "इन बातों पर शक करो: 'गारंटी', '100 प्रतिशत इलाज' या 'सात दिन में नतीजा'; एक ही प्रोडक्ट जो कई बेमेल परेशानियाँ ठीक करने का दावा करे; 'डॉक्टर नहीं चाहते कि तुम्हें यह पता चले'; शोध की जगह पहले-बाद की तस्वीरें और लोगों की गवाहियाँ; और दीवारों के पोस्टर या ऑनलाइन विज्ञापन जो 'गुप्त रोग' या 'कमज़ोरी' ठीक करने, लंबाई या शरीर के किसी अंग का आकार बढ़ाने, या कुछ भी 'टाइट' या 'गोरा' करने का वादा करें। 'नैचुरल', 'हर्बल' और 'आयुर्वेदिक' का मतलब अपने आप सुरक्षित नहीं होता; जो चीज़ असर करने जितनी तेज़ है उसके साइड इफ़ेक्ट भी हो सकते हैं, और लेबल पर हमेशा अंदर की हर चीज़ नहीं लिखी होती। किसी दोस्त या वीडियो के कहने पर कभी भी पर्चे वाली दवाइयाँ, हार्मोन या बची हुई एंटीबायोटिक मत लो।",
+     "hg": "In cheezon pe shak karo: 'guaranteed', '100 percent cure' ya 'saat din mein result'; ek hi product jo kai unrelated problems fix karne ka claim kare; 'doctors nahi chahte ki tumhe yeh pata chale'; studies ki jagah before-after photos aur testimonials; aur deewar ke posters ya online ads jo 'gupt rog' ya 'kamzori' theek karne, height ya kisi body part ka size badhane, ya kuch bhi 'tight' ya 'gora' karne ka promise karein. 'Natural', 'herbal' aur 'ayurvedic' ka matlab automatically safe nahi hota; jo cheez asar karne jitni strong hai uske side effects bhi ho sakte hain, aur label pe hamesha andar ki har cheez likhi nahi hoti. Kisi dost ya video ke kehne pe kabhi bhi prescription medicines, hormones ya bachi hui antibiotics mat lo."
+    }
+   },
+   {
+    "h": {
+     "en": "Responsible digital behaviour",
+     "hi": "ऑनलाइन ज़िम्मेदार बर्ताव",
+     "hg": "Responsible digital behaviour"
+    },
+    "body": {
+     "en": "You are also a source. Before you post or forward, pause on three questions: Is it true? Is it mine to share? Could it hurt someone? Do not forward unverified health tips, rumours about a classmate or screenshots of private chats. Ask before posting a photo that has someone else in it. Disagree with ideas without attacking the person, and do not pile on when a comment section turns on somebody. Remember that messages can be saved and shared long after you delete them. If you shared something false, correct it in the same group. That takes thirty seconds, and more courage than most people show online.",
+     "hi": "तुम ख़ुद भी एक स्रोत हो। पोस्ट या फ़ॉरवर्ड करने से पहले तीन सवालों पर रुको: क्या यह सच है? क्या इसे शेयर करना मेरा हक़ है? क्या इससे किसी को चोट पहुँच सकती है? बिना जाँचे सेहत के नुस्ख़े, किसी सहपाठी के बारे में अफ़वाहें या निजी चैट के स्क्रीनशॉट आगे मत भेजो। जिस फ़ोटो में कोई और भी हो, उसे पोस्ट करने से पहले पूछ लो। विचारों से असहमत हो, पर इंसान पर हमला मत करो, और जब कमेंट सेक्शन किसी एक के पीछे पड़ जाए तो भीड़ में शामिल मत हो। याद रखो कि तुम्हारे डिलीट करने के बहुत बाद तक भी मैसेज सेव और शेयर किए जा सकते हैं। अगर तुमने कुछ ग़लत शेयर कर दिया, तो उसी ग्रुप में उसे सुधारो। इसमें तीस सेकंड लगते हैं, और उससे ज़्यादा हिम्मत जितनी ज़्यादातर लोग ऑनलाइन दिखाते हैं।",
+     "hg": "Tum khud bhi ek source ho. Post ya forward karne se pehle teen sawaalon pe ruko: Kya yeh sach hai? Kya isse share karna mera haq hai? Kya isse kisi ko hurt ho sakta hai? Bina verify kiye health tips, kisi classmate ke baare mein rumours ya private chats ke screenshots forward mat karo. Jis photo mein koi aur bhi ho, use post karne se pehle pooch lo. Ideas se disagree karo, par insaan pe attack mat karo, aur jab comment section kisi ek ke peeche pad jaye toh bheed mein shaamil mat ho. Yaad rakho ki tumhare delete karne ke bahut baad tak bhi messages save aur share kiye ja sakte hain. Agar tumne kuch galat share kar diya, toh usi group mein use correct karo. Isme tees second lagte hain, aur usse zyada himmat jitni zyadatar log online dikhate hain."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "If a remedy is natural or herbal, it cannot harm you.",
+    "hi": "अगर कोई नुस्ख़ा नैचुरल या हर्बल है, तो उससे नुक़सान नहीं हो सकता।",
+    "hg": "Agar koi remedy natural ya herbal hai, toh usse nuksaan nahi ho sakta."
+   },
+   "fact": {
+    "en": "Natural products can cause side effects, allergies and interactions with other medicines, and the dose matters. 'Natural' describes where something comes from, not how safe it is. Ask a qualified doctor or pharmacist before using any remedy for a health problem.",
+    "hi": "नैचुरल चीज़ों से भी साइड इफ़ेक्ट, एलर्जी और दूसरी दवाइयों के साथ टकराव हो सकता है, और मात्रा भी मायने रखती है। 'नैचुरल' यह बताता है कि चीज़ कहाँ से आई है, यह नहीं कि वह कितनी सुरक्षित है। सेहत की किसी परेशानी के लिए कोई भी नुस्ख़ा इस्तेमाल करने से पहले किसी योग्य डॉक्टर या फ़ार्मासिस्ट से पूछो।",
+    "hg": "Natural products se bhi side effects, allergies aur doosri medicines ke saath interactions ho sakte hain, aur dose bhi matter karti hai. 'Natural' yeh batata hai ki cheez kahan se aayi hai, yeh nahi ki woh kitni safe hai. Health ki kisi problem ke liye koi bhi remedy use karne se pehle kisi qualified doctor ya pharmacist se poocho."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Views and forwards measure attention, not accuracy.",
+    "hi": "व्यूज़ और फ़ॉरवर्ड ध्यान नापते हैं, सच्चाई नहीं।",
+    "hg": "Views aur forwards attention measure karte hain, accuracy nahi."
+   },
+   {
+    "en": "Check who, what evidence, why, when, and whether reliable sources agree.",
+    "hi": "जाँचो कि कौन कह रहा है, सबूत क्या है, क्यों कहा गया, कब कहा गया, और क्या भरोसेमंद स्रोत सहमत हैं।",
+    "hg": "Check karo kaun bol raha hai, evidence kya hai, kyun, kab, aur kya reliable sources agree karte hain."
+   },
+   {
+    "en": "Before you post or forward, ask whether it is true, yours to share and harmless.",
+    "hi": "पोस्ट या फ़ॉरवर्ड करने से पहले पूछो कि क्या यह सच है, क्या इसे शेयर करना तुम्हारा हक़ है, और क्या इससे किसी को नुक़सान नहीं होगा।",
+    "hg": "Post ya forward karne se pehle poocho ki kya yeh sach hai, kya isse share karna tumhara haq hai, aur kya isse kisi ko harm nahi hoga."
+   }
+  ],
+  "activity": {
+   "en": "Pick one health claim from your feed or a family group this week. Run the five checks on it and write a one-line verdict: trustworthy, unproven or false. Do not forward it while you are checking.",
+   "hi": "इस हफ़्ते अपनी फ़ीड या परिवार के ग्रुप से सेहत का कोई एक दावा चुनो। उस पर पाँचों जाँचें लगाओ और एक लाइन का फ़ैसला लिखो: भरोसेमंद, बिना सबूत का, या ग़लत। जब तक जाँच रहे हो, उसे फ़ॉरवर्ड मत करो।",
+   "hg": "Is week apni feed ya family group se ek health claim choose karo. Uspe paanchon checks lagao aur ek line ka verdict likho: trustworthy, unproven ya false. Jab tak check kar rahe ho, use forward mat karo."
+  },
+  "interactive": "myth_buster",
+  "quiz": [
+   {
+    "id": "d18-l05-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Which of these is the strongest warning sign in a health advertisement?",
+     "hi": "सेहत के किसी विज्ञापन में इनमें से सबसे बड़ा ख़तरे का संकेत कौन-सा है?",
+     "hg": "Kisi health ad mein inme se sabse bada warning sign kaun-sa hai?"
+    },
+    "options": [
+     {
+      "en": "It names the doctor and the hospital",
+      "hi": "उसमें डॉक्टर और अस्पताल का नाम दिया है",
+      "hg": "Usme doctor aur hospital ka naam diya hai"
+     },
+     {
+      "en": "It says results vary from person to person",
+      "hi": "उसमें लिखा है कि नतीजे हर इंसान में अलग हो सकते हैं",
+      "hg": "Usme likha hai ki results har insaan mein alag ho sakte hain"
+     },
+     {
+      "en": "It promises a guaranteed cure in seven days",
+      "hi": "वह सात दिन में गारंटी के साथ इलाज का वादा करता है",
+      "hg": "Woh saat din mein guaranteed cure ka promise karta hai"
+     },
+     {
+      "en": "It advises you to consult your own doctor",
+      "hi": "वह तुम्हें अपने डॉक्टर से सलाह लेने को कहता है",
+      "hg": "Woh tumhe apne doctor se consult karne ko bolta hai"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "Honest medicine does not guarantee outcomes or fixed timelines. The other three are signs of a more careful source.",
+     "hi": "ईमानदार इलाज नतीजों या तय समय की गारंटी नहीं देता। बाक़ी तीनों ज़्यादा सावधान स्रोत की निशानियाँ हैं।",
+     "hg": "Honest medicine results ya fixed timeline ki guarantee nahi deti. Baaki teeno zyada careful source ke signs hain."
+    }
+   },
+   {
+    "id": "d18-l05-q2",
+    "type": "tf",
+    "q": {
+     "en": "The date on a health article matters because medical advice gets updated.",
+     "hi": "सेहत से जुड़े लेख की तारीख़ मायने रखती है क्योंकि मेडिकल सलाह बदलती रहती है।",
+     "hg": "Health article ki date matter karti hai kyunki medical advice update hoti rehti hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Recommendations change as new evidence comes in, so an old article may no longer reflect current guidance.",
+     "hi": "नए सबूत आने पर सिफ़ारिशें बदलती हैं, इसलिए हो सकता है कि पुराना लेख आज की सलाह से मेल न खाए।",
+     "hg": "Naye evidence aane pe recommendations badalti hain, isliye ho sakta hai purana article aaj ki guidance se match na kare."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-cse"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ }
+]

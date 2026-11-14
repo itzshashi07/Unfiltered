@@ -1,0 +1,433 @@
+[
+ {
+  "id": "d14-m01",
+  "domain": "d14",
+  "tracks": [
+   "A"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "If someone touches me in an unsafe way, it is my fault.",
+   "hi": "अगर कोई मुझे असुरक्षित तरीक़े से छूता है, तो ग़लती मेरी है।",
+   "hg": "Agar koi mujhe unsafe tareeke se touch karta hai, toh galti meri hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "It is never your fault. The person who did the unsafe touch did the wrong thing. It does not matter what you wore, said or did. You can always tell a grown-up you trust.",
+   "hi": "यह कभी तुम्हारी ग़लती नहीं होती। ग़लत काम उसने किया जिसने असुरक्षित स्पर्श किया। तुमने क्या पहना, क्या कहा या क्या किया, इससे कोई फ़र्क़ नहीं पड़ता। तुम हमेशा किसी भरोसेमंद बड़े को बता सकते हो।",
+   "hg": "Yeh kabhi tumhari galti nahi hoti. Galat kaam usne kiya jisne unsafe touch kiya. Tumne kya pehna, kya bola ya kya kiya, isse koi farak nahi padta. Tum hamesha kisi trusted bade ko bata sakte ho."
+  },
+  "why": {
+   "en": "Children often feel guilty or fear a scolding, especially when the person who touched them says it was their fault.",
+   "hi": "बच्चों को अक्सर लगता है कि ग़लती उनकी है या उन्हें डाँट पड़ेगी, ख़ासकर जब वह व्यक्ति ख़ुद उनसे कहे कि दोष उन्हीं का है।",
+   "hg": "Bachchon ko aksar guilt feel hota hai ya daant ka darr lagta hai, khaaskar jab woh insaan khud unse bole ki fault unhi ka hai."
+  },
+  "refs": [
+   "unesco-itgse",
+   "wcd-childline"
+  ],
+  "lesson": "d14-l01"
+ },
+ {
+  "id": "d14-m02",
+  "domain": "d14",
+  "tracks": [
+   "A",
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "I am allowed to say NO to a grown-up if their touch feels unsafe.",
+   "hi": "अगर किसी बड़े का स्पर्श असुरक्षित लगे, तो उन्हें ना कहने की मुझे इजाज़त है।",
+   "hg": "Agar kisi bade ka touch unsafe lage, toh unhe NO bolne ki mujhe permission hai."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. Respecting elders does not mean letting them touch you in a way that feels unsafe. You can say no, move away and tell a trusted grown-up, even if the person is a relative or a teacher.",
+   "hi": "सही। बड़ों का आदर करने का मतलब यह नहीं कि वे तुम्हें ऐसे छुएँ जो असुरक्षित लगे। तुम ना कह सकते हो, वहाँ से हट सकते हो और किसी भरोसेमंद बड़े को बता सकते हो, भले ही वह व्यक्ति रिश्तेदार या टीचर हो।",
+   "hg": "Sahi. Bado ki respect karne ka matlab yeh nahi ki woh tumhe aise touch karein jo unsafe lage. Tum no bol sakte ho, wahan se hat sakte ho aur kisi trusted bade ko bata sakte ho, chahe woh insaan rishtedaar ya teacher ho."
+  },
+  "why": {
+   "en": "Many children are taught to always obey elders, so saying no to an adult can feel like being naughty or disrespectful.",
+   "hi": "बहुत से बच्चों को सिखाया जाता है कि बड़ों की हर बात माननी चाहिए, इसलिए किसी बड़े को ना कहना शरारत या बदतमीज़ी जैसा लग सकता है।",
+   "hg": "Bahut se bachchon ko sikhaya jaata hai ki bado ki har baat maanni chahiye, isliye kisi bade ko no bolna shararat ya badtameezi jaisa lag sakta hai."
+  },
+  "refs": [
+   "unesco-itgse"
+  ],
+  "lesson": "d14-l01"
+ },
+ {
+  "id": "d14-m03",
+  "domain": "d14",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Only girls get sexually abused. It doesn't happen to boys.",
+   "hi": "यौन शोषण सिर्फ़ लड़कियों का होता है। लड़कों के साथ ऐसा नहीं होता।",
+   "hg": "Sexual abuse sirf ladkiyon ka hota hai. Ladkon ke saath aisa nahi hota."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Children of every gender can be sexually abused, and boys are harmed too. Many boys stay silent because they fear being teased or not believed. The POCSO Act protects every child under 18 equally, and Child Helpline 1098 is for all children.",
+   "hi": "हर जेंडर के बच्चों का यौन शोषण हो सकता है, और लड़कों को भी नुक़सान पहुँचाया जाता है। बहुत से लड़के इस डर से चुप रहते हैं कि उनका मज़ाक़ उड़ेगा या कोई यक़ीन नहीं करेगा। POCSO क़ानून 18 से कम उम्र के हर बच्चे की बराबर रक्षा करता है, और चाइल्ड हेल्पलाइन 1098 सभी बच्चों के लिए है।",
+   "hg": "Har gender ke bachchon ka sexual abuse ho sakta hai, aur ladkon ko bhi harm kiya jaata hai. Bahut se ladke is darr se chup rehte hain ki unka mazaak udega ya koi yakeen nahi karega. POCSO Act 18 se kam umar ke har bachche ko equally protect karta hai, aur Child Helpline 1098 sabhi bachchon ke liye hai."
+  },
+  "why": {
+   "en": "Safety advice is mostly aimed at girls, and boys are told to be tough, so abuse of boys is rarely talked about.",
+   "hi": "सुरक्षा की ज़्यादातर सीख लड़कियों को दी जाती है और लड़कों से कहा जाता है कि मज़बूत बनो, इसलिए लड़कों के शोषण पर शायद ही कभी बात होती है।",
+   "hg": "Safety ki zyada-tar advice ladkiyon ko di jaati hai aur ladkon ko bola jaata hai tough bano, isliye ladkon ke abuse par shayad hi kabhi baat hoti hai."
+  },
+  "refs": [
+   "pocso-2012",
+   "wcd-childline"
+  ],
+  "lesson": "d14-l03"
+ },
+ {
+  "id": "d14-m04",
+  "domain": "d14",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "If someone didn't scream or fight back, it wasn't really assault.",
+   "hi": "अगर कोई चिल्लाया नहीं या उसने विरोध नहीं किया, तो वह असल में हमला नहीं था।",
+   "hg": "Agar koi chillaya nahi ya usne fight back nahi kiya, toh woh actually assault nahi tha."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Many people freeze, go quiet or comply during an assault because the brain's survival response takes over. That is a recognised reaction to threat, not agreement. Consent has to be a clear, voluntary yes; silence, fear or a lack of resistance is not consent.",
+   "hi": "हमले के दौरान बहुत से लोग सुन्न पड़ जाते हैं, चुप हो जाते हैं या बात मान लेते हैं, क्योंकि दिमाग़ की जान बचाने वाली प्रतिक्रिया हावी हो जाती है। यह ख़तरे के सामने एक जानी-मानी प्रतिक्रिया है, रज़ामंदी नहीं। सहमति का मतलब है साफ़ और अपनी मर्ज़ी से कही गई 'हाँ'; चुप्पी, डर या विरोध न करना सहमति नहीं है।",
+   "hg": "Assault ke dauraan bahut se log freeze ho jaate hain, chup ho jaate hain ya comply kar lete hain, kyunki dimaag ka survival response take over kar leta hai. Yeh threat ke saamne ek recognised reaction hai, agreement nahi. Consent ka matlab hai clear aur apni marzi se boli gayi 'haan'; silence, darr ya resist na karna consent nahi hai."
+  },
+  "why": {
+   "en": "Films and news reports usually show violent struggles, so people expect every survivor to react in the same way, by shouting or fighting.",
+   "hi": "फ़िल्मों और ख़बरों में आम तौर पर ज़ोरदार संघर्ष दिखाया जाता है, इसलिए लोग मान लेते हैं कि हर सर्वाइवर एक ही तरह से प्रतिक्रिया करेगा: चिल्लाकर या लड़कर।",
+   "hg": "Filmon aur news mein usually violent struggle dikhaya jaata hai, isliye log expect karte hain ki har survivor ek hi tarah react karega: chillakar ya ladkar."
+  },
+  "refs": [
+   "who-vaw",
+   "bns-2023"
+  ],
+  "lesson": "d14-l06"
+ },
+ {
+  "id": "d14-m05",
+  "domain": "d14",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Girls who wear short clothes or stay out late invite harassment.",
+   "hi": "जो लड़कियाँ छोटे कपड़े पहनती हैं या देर रात बाहर रहती हैं, वे उत्पीड़न को न्योता देती हैं।",
+   "hg": "Jo ladkiyan chhote kapde pehenti hain ya late night bahar rehti hain, woh harassment ko invite karti hain."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Harassment is caused by the person who chooses to harass. People are harassed in school uniforms, salwar kameez, burqas and sarees, in daylight and inside homes. Clothes and timings do not create offenders; blaming them moves responsibility from the harasser to the person harmed.",
+   "hi": "उत्पीड़न की वजह वह व्यक्ति है जो उत्पीड़न करना चुनता है। लोगों को स्कूल यूनिफ़ॉर्म, सलवार-क़मीज़, बुर्क़े और साड़ी में, दिन के उजाले में और घरों के भीतर भी परेशान किया जाता है। कपड़े और समय अपराधी पैदा नहीं करते; इन पर दोष डालने से ज़िम्मेदारी उत्पीड़क से हटकर उस पर आ जाती है जिसे नुक़सान पहुँचा।",
+   "hg": "Harassment ki wajah woh insaan hai jo harass karna choose karta hai. Logon ko school uniform, salwar kameez, burqa aur saree mein, din ke ujaale mein aur gharon ke andar bhi harass kiya jaata hai. Kapde aur timing offenders paida nahi karte; in par blame daalne se responsibility harasser se hatkar us par aa jaati hai jise harm hua."
+  },
+  "why": {
+   "en": "Families often give this advice out of fear, hoping that rules will keep girls safe, and over time the advice turns into blame.",
+   "hi": "परिवार अक्सर डर की वजह से यह सलाह देते हैं, इस उम्मीद में कि नियम लड़कियों को सुरक्षित रखेंगे, और धीरे-धीरे यही सलाह दोष बन जाती है।",
+   "hg": "Families aksar darr ki wajah se yeh advice deti hain, is hope mein ki rules ladkiyon ko safe rakhenge, aur dheere-dheere yahi advice blame ban jaati hai."
+  },
+  "refs": [
+   "who-vaw",
+   "unesco-itgse"
+  ],
+  "lesson": "d14-l04"
+ },
+ {
+  "id": "d14-m06",
+  "domain": "d14",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Children are more often sexually abused by someone they know than by a stranger.",
+   "hi": "बच्चों का यौन शोषण अजनबियों की तुलना में जान-पहचान वाले लोग ज़्यादा करते हैं।",
+   "hg": "Bachchon ka sexual abuse strangers se zyada jaan-pehchaan wale log karte hain."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. In most cases the person is a relative, neighbour, family friend, teacher or someone else the child trusts. That is why body-safety rules focus on behaviour, such as secrecy, unwanted touch and isolation, and not only on avoiding strangers.",
+   "hi": "सही। ज़्यादातर मामलों में वह व्यक्ति कोई रिश्तेदार, पड़ोसी, पारिवारिक मित्र, टीचर या कोई और होता है जिस पर बच्चा भरोसा करता है। इसीलिए शरीर की सुरक्षा के नियम बर्ताव पर ध्यान देते हैं, जैसे राज़ रखवाना, अनचाहा स्पर्श और अकेले में ले जाना, सिर्फ़ अजनबियों से बचने पर नहीं।",
+   "hg": "Sahi. Zyada-tar cases mein woh insaan koi rishtedaar, padosi, family friend, teacher ya koi aur hota hai jis par bachcha trust karta hai. Isiliye body-safety rules behaviour par focus karte hain, jaise secrecy, unwanted touch aur isolation, sirf strangers se bachne par nahi."
+  },
+  "why": {
+   "en": "It is more comfortable to imagine danger as an outsider than to accept that it can come from inside the family or community.",
+   "hi": "ख़तरे को किसी बाहरी के रूप में सोचना आसान लगता है, बजाय यह मानने के कि वह परिवार या समुदाय के भीतर से भी आ सकता है।",
+   "hg": "Danger ko kisi outsider ke roop mein imagine karna comfortable lagta hai, bajaye yeh accept karne ke ki woh family ya community ke andar se bhi aa sakta hai."
+  },
+  "refs": [
+   "who-vaw",
+   "unesco-itgse"
+  ],
+  "lesson": "d14-l04"
+ },
+ {
+  "id": "d14-m07",
+  "domain": "d14",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Human trafficking always begins with a stranger kidnapping someone.",
+   "hi": "मानव तस्करी हमेशा किसी अजनबी द्वारा अपहरण से शुरू होती है।",
+   "hg": "Human trafficking hamesha kisi stranger ki kidnapping se start hoti hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Trafficking far more often begins with deception than abduction: a promised job, a marriage proposal, a modelling offer or help with travel, sometimes from an acquaintance or relative. Control then comes through debt, confiscated documents, threats and isolation. Checking offers independently and keeping your own ID are real protections.",
+   "hi": "तस्करी अपहरण की तुलना में कहीं ज़्यादा बार धोखे से शुरू होती है: नौकरी का वादा, शादी का रिश्ता, मॉडलिंग की पेशकश या सफ़र में मदद, कभी-कभी किसी परिचित या रिश्तेदार की ओर से। फिर क़र्ज़, ज़ब्त किए गए दस्तावेज़, धमकियों और अकेला कर देने के ज़रिए क़ाबू किया जाता है। हर पेशकश की ख़ुद जाँच करना और अपना पहचान-पत्र अपने पास रखना असली बचाव हैं।",
+   "hg": "Trafficking kidnapping se kahin zyada baar dhoke se start hoti hai: job ka promise, shaadi ka rishta, modelling offer ya travel mein help, kabhi-kabhi kisi jaan-pehchaan wale ya rishtedaar ki taraf se. Phir karz, zabt kiye gaye documents, dhamkiyon aur isolation ke through control kiya jaata hai. Har offer ko khud verify karna aur apna ID apne paas rakhna real protection hai."
+  },
+  "why": {
+   "en": "Kidnapping stories are dramatic and memorable, while quiet deception by familiar people rarely makes the headlines, so the more common pattern stays invisible.",
+   "hi": "अपहरण की कहानियाँ सनसनीखेज़ होती हैं और याद रह जाती हैं, जबकि जान-पहचान वालों का चुपचाप किया गया धोखा शायद ही सुर्ख़ियों में आता है, इसलिए ज़्यादा आम तरीक़ा नज़र से ओझल रहता है।",
+   "hg": "Kidnapping ki stories dramatic hoti hain aur yaad reh jaati hain, jabki jaan-pehchaan walon ka chupchaap kiya gaya dhoka shayad hi headlines mein aata hai, isliye zyada common pattern invisible reh jaata hai."
+  },
+  "refs": [
+   "bns-2023",
+   "who-vaw"
+  ],
+  "lesson": "d14-l05"
+ },
+ {
+  "id": "d14-m08",
+  "domain": "d14",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Getting a girl married early keeps her safe and settled.",
+   "hi": "लड़की की शादी जल्दी कर देने से वह सुरक्षित और 'सेटल' हो जाती है।",
+   "hg": "Ladki ki shaadi jaldi kar dene se woh safe aur 'settled' ho jaati hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Early marriage usually does the opposite. Girls married before 18 are more likely to leave school, to become pregnant before their bodies are ready, which is riskier for mother and baby, and to face violence with little power to leave. This is why Indian law sets 18 for women and 21 for men, and why a planned child marriage can be reported on 1098.",
+   "hi": "कम उम्र की शादी आम तौर पर इसका उल्टा करती है। जिन लड़कियों की शादी 18 से पहले हो जाती है, उनके स्कूल छोड़ने, शरीर के तैयार होने से पहले गर्भवती होने (जो माँ और बच्चे दोनों के लिए ज़्यादा जोखिम भरा है) और हिंसा झेलने की आशंका ज़्यादा होती है, और उनके पास निकलने की ताक़त कम होती है। इसीलिए भारतीय क़ानून महिलाओं के लिए 18 और पुरुषों के लिए 21 की उम्र तय करता है, और तय हो रहे बाल विवाह की सूचना 1098 पर दी जा सकती है।",
+   "hg": "Kam umar ki shaadi usually iska ulta karti hai. Jin ladkiyon ki shaadi 18 se pehle ho jaati hai, unke school chhodne, body ke ready hone se pehle pregnant hone (jo maa aur baby dono ke liye zyada risky hai) aur violence face karne ke chances zyada hote hain, aur unke paas nikalne ki power kam hoti hai. Isiliye Indian law women ke liye 18 aur men ke liye 21 ki age set karta hai, aur plan ho rahi child marriage ko 1098 par report kiya ja sakta hai."
+  },
+  "why": {
+   "en": "Parents often fear harassment, gossip about a daughter's 'reputation', or rising dowry as she gets older, and marriage can look like protection when money is short and safety feels uncertain.",
+   "hi": "माता-पिता को अक्सर उत्पीड़न का, बेटी की 'इज़्ज़त' पर होने वाली बातों का, या उम्र के साथ बढ़ते दहेज का डर होता है, और जब पैसा कम हो और माहौल असुरक्षित लगे तो शादी सुरक्षा जैसी दिखती है।",
+   "hg": "Parents ko aksar harassment ka, beti ki 'reputation' par hone wali gossip ka, ya umar ke saath badhte dahej ka darr hota hai, aur jab paisa kam ho aur mahaul unsafe lage toh shaadi protection jaisi dikhti hai."
+  },
+  "refs": [
+   "unicef-child-marriage",
+   "wcd-childline"
+  ],
+  "lesson": "d14-l07"
+ },
+ {
+  "id": "d14-m09",
+  "domain": "d14",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "A child marriage can be stopped by a court before it happens, and cancelled later by the person who was married as a child.",
+   "hi": "बाल विवाह को होने से पहले अदालत रुकवा सकती है, और बाद में वह व्यक्ति उसे रद्द करवा सकता है जिसकी शादी बचपन में हुई थी।",
+   "hg": "Child marriage ko hone se pehle court rukwa sakti hai, aur baad mein woh insaan use cancel karwa sakta hai jiski shaadi bachpan mein hui thi."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. Under the Prohibition of Child Marriage Act, a court can order that a planned child marriage must not take place, and calling 1098 or the police can set that in motion. If the marriage has already happened, the person who was a child at the time can ask a court to annul it, though only within a time limit after becoming an adult. A lawyer or free legal aid on 15100 can confirm the details.",
+   "hi": "सही। बाल विवाह प्रतिषेध अधिनियम के तहत अदालत आदेश दे सकती है कि तय किया गया बाल विवाह न हो, और 1098 या पुलिस को फ़ोन करने से यह प्रक्रिया शुरू हो सकती है। अगर शादी हो चुकी है, तो जो व्यक्ति उस समय बच्चा था वह अदालत से उसे रद्द करने की माँग कर सकता है, हालाँकि यह वयस्क होने के बाद एक तय समय-सीमा के भीतर ही हो सकता है। बारीकियाँ कोई वकील या 15100 पर मुफ़्त क़ानूनी सहायता बता सकती है।",
+   "hg": "Sahi. Prohibition of Child Marriage Act ke under court order de sakti hai ki plan ki gayi child marriage na ho, aur 1098 ya police ko call karne se yeh process start ho sakta hai. Agar shaadi ho chuki hai, toh jo insaan us time child tha woh court se use annul karne ki maang kar sakta hai, lekin yeh adult hone ke baad ek time limit ke andar hi ho sakta hai. Details koi lawyer ya 15100 par free legal aid confirm kar sakti hai."
+  },
+  "why": {
+   "en": "Once the wedding rituals are over, most people assume nothing can be undone, and families rarely tell a young person that the law gives them a way out.",
+   "hi": "रस्में पूरी हो जाने के बाद ज़्यादातर लोग मान लेते हैं कि अब कुछ बदला नहीं जा सकता, और परिवार शायद ही कभी किसी युवा को बताते हैं कि क़ानून उसे बाहर निकलने का रास्ता देता है।",
+   "hg": "Rasmein poori ho jaane ke baad zyada-tar log maan lete hain ki ab kuch undo nahi ho sakta, aur families shayad hi kabhi kisi young insaan ko batati hain ki law use bahar nikalne ka raasta deta hai."
+  },
+  "refs": [
+   "unicef-child-marriage",
+   "wcd-childline",
+   "nalsa"
+  ],
+  "lesson": "d14-l07"
+ },
+ {
+  "id": "d14-m10",
+  "domain": "d14",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [
+   "penis_testicular"
+  ],
+  "claim": {
+   "en": "If a man got an erection or ejaculated, he must have wanted it.",
+   "hi": "अगर किसी पुरुष को इरेक्शन हुआ या वीर्य निकला, तो वह ज़रूर यही चाहता होगा।",
+   "hg": "Agar kisi man ko erection hua ya ejaculation hua, toh woh zaroor yahi chahta hoga."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Erection and ejaculation are reflexes of nerves and blood vessels. They can occur with physical contact, fear or extreme stress, without desire and without consent. The same is true for survivors of every gender, whose bodies may respond physically during an assault. A reflex is not an agreement, and it does not shift responsibility onto the person who was harmed.",
+   "hi": "इरेक्शन और वीर्य निकलना नसों और ख़ून की नलियों के रिफ़्लेक्स हैं। ये शारीरिक छुअन, डर या बहुत ज़्यादा तनाव में, बिना इच्छा और बिना सहमति के हो सकते हैं। यही बात हर जेंडर के सर्वाइवर पर लागू होती है, जिनका शरीर हमले के दौरान शारीरिक प्रतिक्रिया दे सकता है। रिफ़्लेक्स कोई हामी नहीं है, और इससे ज़िम्मेदारी उस व्यक्ति पर नहीं आ जाती जिसे नुक़सान पहुँचाया गया।",
+   "hg": "Erection aur ejaculation nerves aur blood vessels ke reflexes hain. Yeh physical contact, darr ya extreme stress mein, bina desire aur bina consent ke ho sakte hain. Yahi baat har gender ke survivors par apply hoti hai, jinki body assault ke dauraan physically respond kar sakti hai. Reflex koi agreement nahi hai, aur isse responsibility us insaan par nahi aa jaati jise harm kiya gaya."
+  },
+  "why": {
+   "en": "Most people are taught that arousal is always a sign of wanting something, and school biology never explains that the body can react on its own under fear or pressure.",
+   "hi": "ज़्यादातर लोगों को यही सिखाया जाता है कि उत्तेजना हमेशा चाहत की निशानी है, और स्कूल की बायोलॉजी कभी नहीं बताती कि डर या दबाव में शरीर अपने आप प्रतिक्रिया दे सकता है।",
+   "hg": "Zyada-tar logon ko yahi sikhaya jaata hai ki arousal hamesha chahat ka sign hai, aur school ki biology kabhi nahi batati ki darr ya pressure mein body apne aap react kar sakti hai."
+  },
+  "refs": [
+   "who-sexual-health",
+   "who-child-maltreatment"
+  ],
+  "lesson": "d14-l08"
+ },
+ {
+  "id": "d14-m11",
+  "domain": "d14",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [],
+  "claim": {
+   "en": "If an adult woman has sexual contact with a 16-year-old boy, it is a crime under Indian law.",
+   "hi": "अगर कोई वयस्क महिला 16 साल के लड़के के साथ यौन संपर्क करती है, तो यह भारतीय क़ानून में अपराध है।",
+   "hg": "Agar koi adult woman 16 saal ke ladke ke saath sexual contact karti hai, toh yeh Indian law mein crime hai."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. POCSO treats anyone under 18 as a child and applies whatever the gender of the child or of the adult. A boy's 'agreement' does not make it legal, just as a girl's would not. Adults who know about it are required to report it. The harm is also real: boys abused by women describe the same confusion, shame and difficulty with trust as other survivors.",
+   "hi": "सही। पॉक्सो 18 से कम उम्र के हर व्यक्ति को बच्चा मानता है और बच्चे या वयस्क का जेंडर चाहे जो हो, लागू होता है। लड़के की 'हाँ' इसे क़ानूनी नहीं बनाती, ठीक वैसे ही जैसे लड़की की 'हाँ' नहीं बनाती। जिन वयस्कों को इसका पता हो, उनके लिए इसकी सूचना देना ज़रूरी है। नुक़सान भी असली है: जिन लड़कों का शोषण महिलाओं ने किया, वे भी वैसी ही उलझन, शर्म और भरोसे की मुश्किलें बताते हैं जैसी दूसरे सर्वाइवर।",
+   "hg": "Sahi. POCSO 18 se kam umar ke har insaan ko child maanta hai aur child ya adult ka gender chahe jo ho, apply hota hai. Ladke ka 'haan' ise legal nahi banata, bilkul waise hi jaise ladki ka 'haan' nahi banata. Jin adults ko iska pata ho, unke liye ise report karna zaroori hai. Harm bhi real hai: jin ladkon ko women ne abuse kiya, woh bhi waisi hi confusion, sharam aur trust ki problems batate hain jaisi doosre survivors."
+  },
+  "why": {
+   "en": "Films and jokes present an older woman's attention as a teenage boy's fantasy, so many people have never thought of it as abuse or imagined that the law covers it.",
+   "hi": "फ़िल्में और चुटकुले बड़ी उम्र की महिला के ध्यान को किशोर लड़के का सपना बनाकर दिखाते हैं, इसलिए बहुत-से लोगों ने इसे कभी शोषण के रूप में सोचा ही नहीं, न यह कि क़ानून इसे कवर करता है।",
+   "hg": "Films aur jokes older woman ki attention ko teenage ladke ki fantasy banakar dikhate hain, isliye bahut se logon ne ise kabhi abuse ke roop mein socha hi nahi, na yeh ki law ise cover karta hai."
+  },
+  "refs": [
+   "pocso-2012",
+   "who-child-maltreatment"
+  ],
+  "lesson": "d14-l08"
+ },
+ {
+  "id": "d14-m12",
+  "domain": "d14",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "If you agreed to sex, you agreed to everything that happens during it.",
+   "hi": "अगर आपने सेक्स के लिए हाँ कही, तो उस दौरान जो कुछ भी हो उस सबके लिए हाँ कह दी।",
+   "hg": "Agar tumne sex ke liye haan kaha, toh us dauraan jo kuch bhi ho us sabke liye haan keh diya."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Consent is specific and can be withdrawn at any point. Saying yes to one act, or to sex with a condom, is not a yes to a different act or to sex without protection. A partner who changes the terms without asking, for example by removing a condom, is acting without consent, and the health risks of pregnancy and infection fall on the other person.",
+   "hi": "सहमति किसी ख़ास बात के लिए होती है और किसी भी पल वापस ली जा सकती है। एक कृत्य के लिए, या कंडोम के साथ सेक्स के लिए हाँ कहना, किसी दूसरे कृत्य या बिना बचाव के सेक्स के लिए हाँ नहीं है। जो पार्टनर बिना पूछे शर्तें बदल देता है, जैसे कंडोम हटाकर, वह बिना सहमति के काम कर रहा है, और गर्भ व संक्रमण का जोखिम दूसरे व्यक्ति पर आ पड़ता है।",
+   "hg": "Consent specific hoti hai aur kisi bhi point par wapas li ja sakti hai. Ek act ke liye, ya condom ke saath sex ke liye haan kehna, kisi doosre act ya bina protection ke sex ke liye haan nahi hai. Jo partner bina pooche terms badal deta hai, jaise condom hatakar, woh bina consent ke act kar raha hai, aur pregnancy aur infection ka risk doosre insaan par aa jaata hai."
+  },
+  "why": {
+   "en": "Films and everyday talk treat sex as a single event that one either agrees to or refuses, and few people are ever taught that consent has conditions and continues throughout.",
+   "hi": "फ़िल्में और रोज़मर्रा की बातचीत सेक्स को एक ही घटना की तरह दिखाती हैं जिसके लिए या तो हाँ होती है या ना, और बहुत कम लोगों को कभी सिखाया जाता है कि सहमति की शर्तें होती हैं और वह पूरे समय जारी रहती है।",
+   "hg": "Films aur roz ki baatein sex ko ek single event ki tarah dikhati hain jiske liye ya toh haan hoti hai ya na, aur bahut kam logon ko kabhi sikhaya jaata hai ki consent ki conditions hoti hain aur woh poore time chalti rehti hai."
+  },
+  "refs": [
+   "unesco-itgse",
+   "who-sexual-health"
+  ],
+  "lesson": "d14-l09"
+ },
+ {
+  "id": "d14-m13",
+  "domain": "d14",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "If someone promises marriage, has sex and then backs out, it is always a crime.",
+   "hi": "अगर कोई शादी का वादा करके सेक्स करे और फिर मुकर जाए, तो यह हमेशा अपराध है।",
+   "hg": "Agar koi shaadi ka promise karke sex kare aur phir mukar jaye, toh yeh hamesha crime hai."
+  },
+  "verdict": "partly",
+  "fact": {
+   "en": "Partly. The Bharatiya Nyaya Sanhita makes it an offence for a man to obtain sex from a woman by deceit, including a promise of marriage he never meant to keep. But a relationship that ends, or a promise honestly made that later fails, is not automatically a crime; courts look at what was intended at the time. The provision protects women only. This is general information, not legal advice.",
+   "hi": "आंशिक रूप से सही। भारतीय न्याय संहिता में यह अपराध है कि कोई पुरुष किसी महिला से धोखे से सेक्स हासिल करे, जिसमें शादी का ऐसा वादा शामिल है जिसे निभाने का उसका इरादा कभी था ही नहीं। लेकिन जो रिश्ता टूट जाए, या जो वादा ईमानदारी से किया गया हो और बाद में पूरा न हो पाए, वह अपने आप अपराध नहीं बन जाता; अदालतें देखती हैं कि उस समय इरादा क्या था। यह प्रावधान सिर्फ़ महिलाओं की रक्षा करता है। यह सामान्य जानकारी है, क़ानूनी सलाह नहीं।",
+   "hg": "Partly sahi. Bharatiya Nyaya Sanhita mein yeh offence hai ki koi man kisi woman se dhoke se sex haasil kare, jisme shaadi ka aisa promise shaamil hai jise nibhane ka uska intention kabhi tha hi nahi. Lekin jo relationship khatam ho jaye, ya jo promise honestly kiya gaya ho aur baad mein poora na ho paye, woh automatically crime nahi ban jaata; courts dekhti hain ki us time intention kya tha. Yeh provision sirf women ko protect karta hai. Yeh general information hai, legal advice nahi."
+  },
+  "why": {
+   "en": "News reports of such cases rarely explain the difference between a promise that was false from the start and a relationship that broke down, so both extremes get repeated as the rule.",
+   "hi": "ऐसे मामलों की ख़बरों में शायद ही कभी समझाया जाता है कि शुरू से झूठे वादे और टूट गए रिश्ते में क्या फ़र्क़ है, इसलिए दोनों तरह की अति को ही नियम मानकर दोहराया जाता है।",
+   "hg": "Aise cases ki news mein shayad hi kabhi explain hota hai ki shuru se jhoothe promise aur toot gaye relationship mein kya farq hai, isliye dono extremes ko hi rule maankar repeat kiya jaata hai."
+  },
+  "refs": [
+   "bns-2023",
+   "nalsa"
+  ],
+  "lesson": "d14-l09"
+ }
+]

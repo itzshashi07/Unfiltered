@@ -1,0 +1,358 @@
+[
+ {
+  "id": "d17-s1",
+  "domain": "d17",
+  "module": "communication",
+  "tracks": [
+   "C"
+  ],
+  "title": {
+   "en": "A Friend Who Is Not Okay",
+   "hi": "एक दोस्त जो ठीक नहीं है",
+   "hg": "Ek Friend Jo Theek Nahi Hai"
+  },
+  "intro": {
+   "en": "Your classmate Aarav has stopped coming to football and barely talks in the group chat. Tonight he messages you.",
+   "hi": "तुम्हारे सहपाठी आरव ने फ़ुटबॉल आना बंद कर दिया है और ग्रुप चैट में भी मुश्किल से कुछ बोलता है। आज रात वह तुम्हें मैसेज करता है।",
+   "hg": "Tumhare classmate Aarav ne football aana band kar diya hai aur group chat mein bhi mushkil se kuch bolta hai. Aaj raat woh tumhe message karta hai."
+  },
+  "sensitive": true,
+  "start": "n1",
+  "nodes": {
+   "n1": {
+    "text": {
+     "en": "Aarav texts: 'Honestly, I don't think anyone would even notice if I disappeared.' What do you reply?",
+     "hi": "आरव लिखता है: 'सच कहूँ तो मुझे नहीं लगता कि मैं ग़ायब हो जाऊँ तो किसी को पता भी चलेगा।' तुम क्या जवाब देते हो?",
+     "hg": "Aarav likhta hai: 'Sach bolun toh mujhe nahi lagta ki main gayab ho jaun toh kisi ko pata bhi chalega.' Tum kya reply karte ho?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "'That sounds really heavy. I would notice. Want to tell me what is going on?'",
+       "hi": "'यह बहुत भारी लग रहा है। मुझे पता चलेगा। बताना चाहोगे कि क्या चल रहा है?'",
+       "hg": "'Yeh bahut heavy lag raha hai. Mujhe pata chalega. Batana chahoge ki kya chal raha hai?'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "You took his words seriously and showed you care without panicking. An open question gives him room to talk, which is often the first relief a person in pain gets.",
+       "hi": "तुमने उसकी बात को गंभीरता से लिया और बिना घबराए दिखाया कि तुम्हें परवाह है। खुला सवाल उसे बोलने की जगह देता है, और दर्द में डूबे इंसान को अक्सर पहली राहत यहीं से मिलती है।",
+       "hg": "Tumne uski baat ko seriously liya aur bina panic kiye dikhaya ki tumhe parwah hai. Open question usse bolne ki space deta hai, aur dard mein doobe insaan ko aksar pehla relief yahin se milta hai."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "'Don't say such things, you'll be fine.'",
+       "hi": "'ऐसी बातें मत करो, सब ठीक हो जाएगा।'",
+       "hg": "'Aisi baatein mat karo, sab theek ho jaayega.'"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "You meant to comfort him, but 'you'll be fine' can sound like 'stop talking about it'. Acknowledging the feeling first, then asking what is happening, keeps the conversation open.",
+       "hi": "तुम उसे तसल्ली देना चाहते थे, पर 'सब ठीक हो जाएगा' ऐसा सुनाई दे सकता है जैसे 'इस बारे में बात बंद करो'। पहले उसके एहसास को मानना और फिर पूछना कि क्या हो रहा है, बातचीत को खुला रखता है।",
+       "hg": "Tum usse comfort karna chahte the, par 'sab theek ho jaayega' aisa sunai de sakta hai jaise 'is baare mein baat band karo'. Pehle uski feeling ko acknowledge karna aur phir poochhna ki kya ho raha hai, conversation ko open rakhta hai."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Send a laughing emoji and change the topic",
+       "hi": "हँसने वाला इमोजी भेजकर बात बदल देना",
+       "hg": "Laughing emoji bhejkar topic change kar dena"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "It is tempting to treat it as a joke because the topic is scary. But a hint like this may be a real call for help, and brushing it off can leave someone feeling more alone. Asking directly is safer.",
+       "hi": "विषय डरावना है, इसलिए इसे मज़ाक़ मान लेने का मन करता है। लेकिन ऐसा इशारा मदद की सच्ची पुकार हो सकता है, और टाल देने से वह इंसान और अकेला महसूस कर सकता है। सीधे पूछना ज़्यादा सुरक्षित है।",
+       "hg": "Topic scary hai, isliye isse joke maan lene ka mann karta hai. Lekin aisa hint help ki real call ho sakta hai, aur taal dene se woh insaan aur akela feel kar sakta hai. Directly poochhna zyada safe hai."
+      },
+      "next": "n2"
+     }
+    ]
+   },
+   "n2": {
+    "text": {
+     "en": "Aarav says he has felt low for weeks, cannot sleep, and sometimes thinks about hurting himself. Then he adds: 'Promise you won't tell anyone.'",
+     "hi": "आरव बताता है कि वह हफ़्तों से उदास है, सो नहीं पाता, और कभी-कभी ख़ुद को चोट पहुँचाने के बारे में सोचता है। फिर कहता है: 'वादा करो किसी को नहीं बताओगे।'",
+     "hg": "Aarav batata hai ki woh hafton se low feel kar raha hai, so nahi paata, aur kabhi-kabhi khud ko hurt karne ke baare mein sochta hai. Phir kehta hai: 'Promise karo kisi ko nahi bataoge.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "'I can't promise that, because I care about your safety. Let's tell an adult together.'",
+       "hi": "'यह वादा मुझसे नहीं हो पाएगा, क्योंकि मुझे तुम्हारी सुरक्षा की परवाह है। चलो साथ मिलकर किसी बड़े को बताते हैं।'",
+       "hg": "'Yeh promise mujhse nahi ho payega, kyunki mujhe tumhari safety ki parwah hai. Chalo saath milkar kisi adult ko batate hain.'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "This is honest and loving. Secrets about someone's safety are too heavy for a friend to hold alone, and saying 'together' shows him you are not abandoning him.",
+       "hi": "यह ईमानदार भी है और प्यार भरा भी। किसी की सुरक्षा से जुड़ा राज़ एक दोस्त के अकेले उठाने के लिए बहुत भारी होता है, और 'साथ मिलकर' कहना उसे दिखाता है कि तुम उसे छोड़ नहीं रहे।",
+       "hg": "Yeh honest bhi hai aur loving bhi. Kisi ki safety se juda secret ek friend ke akele uthane ke liye bahut heavy hota hai, aur 'saath milkar' bolna usse dikhata hai ki tum usse chhod nahi rahe."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "'Okay, I promise. But talk to me whenever you feel bad.'",
+       "hi": "'ठीक है, वादा। पर जब भी बुरा लगे, मुझसे बात करना।'",
+       "hg": "'Theek hai, promise. Par jab bhi bura lage, mujhse baat karna.'"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Wanting to keep his trust is understandable, but a secret about someone's safety is not one to keep. This promise leaves you as his only support, and you are not trained for that. Go back and tell him you need to involve an adult.",
+       "hi": "उसका भरोसा बनाए रखना चाहना समझ में आता है, लेकिन किसी की सुरक्षा से जुड़ा राज़ रखने लायक़ नहीं होता। इस वादे से तुम उसका अकेला सहारा बन जाते हो, और इसके लिए तुम्हें कोई ट्रेनिंग नहीं मिली है। लौटकर उससे कहो कि किसी बड़े को शामिल करना ज़रूरी है।",
+       "hg": "Uska trust banaye rakhna chahna samajh mein aata hai, lekin kisi ki safety se juda secret rakhne layak nahi hota. Is promise se tum uska akela support ban jaate ho, aur iske liye tum trained nahi ho. Wapas jaakar usse bolo ki kisi adult ko involve karna zaroori hai."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Screenshot the chat and post it in the class group so people help",
+       "hi": "चैट का स्क्रीनशॉट क्लास ग्रुप में डाल देना ताकि लोग मदद करें",
+       "hg": "Chat ka screenshot class group mein daal dena taaki log help karein"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Sharing his private words widely can cause shame and gossip, and may make him hide more. Tell one trusted adult instead of a group; that protects both his safety and his dignity.",
+       "hi": "उसकी निजी बातें सबमें फैलाने से शर्मिंदगी और गपशप हो सकती है, और वह और ज़्यादा छिपाने लग सकता है। पूरे ग्रुप की जगह एक भरोसे वाले बड़े को बताओ; इससे उसकी सुरक्षा और इज़्ज़त, दोनों बची रहती हैं।",
+       "hg": "Uski private baatein sabme phailane se sharmindagi aur gossip ho sakti hai, aur woh aur zyada chhupane lag sakta hai. Poore group ki jagah ek trusted adult ko batao; isse uski safety aur dignity, dono bachi rehti hain."
+      },
+      "next": "n3"
+     }
+    ]
+   },
+   "n3": {
+    "text": {
+     "en": "It is late at night. Whom do you involve, and when?",
+     "hi": "रात काफ़ी हो चुकी है। तुम किसे शामिल करते हो, और कब?",
+     "hg": "Raat kaafi ho chuki hai. Tum kise involve karte ho, aur kab?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Tell your parent now, ask them to contact Aarav's family, and share Tele-MANAS 14416 with him",
+       "hi": "अभी अपने माता-पिता को बताना, उनसे आरव के परिवार से संपर्क करने को कहना, और आरव को टेली-मानस 14416 बताना",
+       "hg": "Abhi apne parent ko batana, unse Aarav ki family se contact karne ko bolna, aur Aarav ko Tele-MANAS 14416 batana"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Involving a trusted adult right away means Aarav gets real help tonight. Sharing 14416 gives him someone to talk to at any hour. If he seemed in immediate danger, calling 112 would be the right step.",
+       "hi": "तुरंत किसी भरोसे वाले बड़े को शामिल करने का मतलब है कि आरव को आज रात ही असली मदद मिलेगी। 14416 बताने से उसके पास किसी भी समय बात करने के लिए कोई होगा। अगर वह तुरंत ख़तरे में लगे, तो 112 पर कॉल करना सही क़दम है।",
+       "hg": "Turant kisi trusted adult ko involve karne ka matlab hai ki Aarav ko aaj raat hi real help milegi. 14416 share karne se uske paas kisi bhi time baat karne ke liye koi hoga. Agar woh turant danger mein lage, toh 112 par call karna sahi step hai."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Wait until morning and tell the class teacher",
+       "hi": "सुबह तक रुकना और क्लास टीचर को बताना",
+       "hg": "Subah tak wait karna aur class teacher ko batana"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Telling a teacher is a good step, but waiting may leave Aarav alone on a hard night. When someone talks about hurting themselves, it is safer to tell an adult at home immediately.",
+       "hi": "टीचर को बताना अच्छा क़दम है, पर इंतज़ार करने से आरव एक मुश्किल रात में अकेला रह सकता है। जब कोई ख़ुद को चोट पहुँचाने की बात करे, तो घर के किसी बड़े को तुरंत बताना ज़्यादा सुरक्षित है।",
+       "hg": "Teacher ko batana achha step hai, par wait karne se Aarav ek mushkil raat mein akela reh sakta hai. Jab koi khud ko hurt karne ki baat kare, toh ghar ke kisi adult ko turant batana zyada safe hai."
+      },
+      "next": null
+     }
+    ]
+   }
+  },
+  "debrief": {
+   "en": "When a friend hints at self-harm, listen, take it seriously and do not keep it secret. You are not expected to fix it; your job is to connect them to a trusted adult, Tele-MANAS on 14416, or 112 in an emergency. Telling is not betrayal. It is care.",
+   "hi": "जब कोई दोस्त ख़ुद को नुक़सान पहुँचाने का इशारा करे, तो सुनो, उसे गंभीरता से लो और इसे राज़ मत रखो। इसे ठीक करना तुम्हारी ज़िम्मेदारी नहीं है; तुम्हारा काम उसे किसी भरोसे वाले बड़े, टेली-मानस 14416, या इमरजेंसी में 112 से जोड़ना है। बताना धोखा नहीं है। यह परवाह है।",
+   "hg": "Jab koi friend self-harm ka hint de, toh suno, usse seriously lo aur isse secret mat rakho. Isse fix karna tumhari zimmedari nahi hai; tumhara kaam usse kisi trusted adult, Tele-MANAS 14416, ya emergency mein 112 se connect karna hai. Batana betrayal nahi hai. Yeh care hai."
+  },
+  "refs": [
+   "who-adolescent-mh",
+   "tele-manas"
+  ]
+ },
+ {
+  "id": "d17-s2",
+  "domain": "d17",
+  "module": "communication",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "Everyone Has Done It, Apparently",
+   "hi": "सुना है, सब कर चुके हैं",
+   "hg": "Suna Hai, Sab Kar Chuke Hain"
+  },
+  "intro": {
+   "en": "Meher is at a friend's birthday. The conversation turns to who has 'done it', and all eyes land on her.",
+   "hi": "मेहर एक दोस्त के जन्मदिन पर है। बात इस पर आ जाती है कि किसने 'कर लिया' है, और सबकी नज़रें उस पर टिक जाती हैं।",
+   "hg": "Meher ek friend ke birthday par hai. Baat is par aa jaati hai ki kisne 'kar liya' hai, aur sabki nazrein us par tik jaati hain."
+  },
+  "sensitive": true,
+  "start": "n1",
+  "nodes": {
+   "n1": {
+    "text": {
+     "en": "Riya laughs: 'Wait, Meher, you still haven't? What are you waiting for, shaadi?' Everyone is looking. What does Meher say?",
+     "hi": "रिया हँसती है: 'रुको, मेहर, तुमने अब तक नहीं? किसका इंतज़ार है, शादी का?' सब देख रहे हैं। मेहर क्या कहती है?",
+     "hg": "Riya hansti hai: 'Wait, Meher, tumne abhi tak nahi? Kiska wait kar rahi ho, shaadi ka?' Sab dekh rahe hain. Meher kya bolti hai?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "'I'm fine with where I am. Not everything is a race.'",
+       "hi": "'मैं जहाँ हूँ, वहाँ ठीक हूँ। हर चीज़ रेस नहीं होती।'",
+       "hg": "'Main jahan hoon, wahan theek hoon. Har cheez race nahi hoti.'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Calm, short and without apology. Meher does not owe anyone an explanation for her choices, and a steady answer usually ends teasing faster than a debate does.",
+       "hi": "शांत, छोटा और बिना माफ़ी वाला जवाब। मेहर को अपने चुनावों की सफ़ाई किसी को नहीं देनी, और ठहरा हुआ जवाब अक्सर बहस से ज़्यादा जल्दी चिढ़ाना बंद करा देता है।",
+       "hg": "Calm, short aur bina sorry wala jawab. Meher ko apni choices ki safai kisi ko nahi deni, aur steady jawab aksar debate se zyada jaldi teasing band kara deta hai."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Laugh along and say nothing",
+       "hi": "साथ में हँस देना और कुछ न कहना",
+       "hg": "Saath mein hans dena aur kuch na bolna"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Staying quiet avoids a scene, which is understandable. But the teasing may continue and the sting stays with you. A one-line boundary, said lightly, often protects you better.",
+       "hi": "चुप रहने से तमाशा नहीं बनता, और यह समझ में आता है। लेकिन चिढ़ाना चलता रह सकता है और चुभन अंदर रह जाती है। हल्के अंदाज़ में कही गई एक लाइन की सीमा अक्सर ज़्यादा अच्छी ढाल बनती है।",
+       "hg": "Chup rehne se scene nahi banta, aur yeh samajh mein aata hai. Lekin teasing chalti reh sakti hai aur chubhan andar reh jaati hai. Halke andaaz mein boli gayi ek line ki boundary aksar zyada achhi protection deti hai."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Make up a story so that they stop",
+       "hi": "कोई कहानी गढ़ देना ताकि वे चुप हो जाएँ",
+       "hg": "Koi story bana dena taaki woh chup ho jaayein"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Inventing a story feels like the quickest exit, but it feeds the false idea that everyone is doing it and can trap you in more lies. Your real answer is nothing to hide.",
+       "hi": "कहानी गढ़ना सबसे तेज़ निकलने का रास्ता लगता है, पर इससे यह झूठी धारणा और मज़बूत होती है कि सब यही कर रहे हैं, और तुम और झूठों में फँस सकती हो। तुम्हारा असली जवाब छिपाने वाली चीज़ नहीं है।",
+       "hg": "Story banana sabse quick exit lagta hai, par isse yeh false idea aur strong hota hai ki sab yahi kar rahe hain, aur tum aur jhoothon mein phans sakti ho. Tumhara real jawab chhupane wali cheez nahi hai."
+      },
+      "next": "n2"
+     }
+    ]
+   },
+   "n2": {
+    "text": {
+     "en": "Later her boyfriend Ishaan, who heard about it, messages: 'See, even your friends think it's weird. If you really loved me, you wouldn't make me wait.'",
+     "hi": "बाद में उसका बॉयफ़्रेंड ईशान, जिसे यह बात पता चल गई, मैसेज करता है: 'देखा, तुम्हारे दोस्तों को भी यह अजीब लगता है। अगर तुम सच में मुझसे प्यार करतीं, तो मुझे इंतज़ार नहीं करातीं।'",
+     "hg": "Baad mein uska boyfriend Ishaan, jisse yeh baat pata chal gayi, message karta hai: 'Dekha, tumhare friends ko bhi yeh weird lagta hai. Agar tum sach mein mujhse pyaar karti, toh mujhe wait nahi karati.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "'I care about you, and my answer is still no. Pressure will not change it.'",
+       "hi": "'मुझे तुम्हारी परवाह है, और मेरा जवाब अब भी ना है। दबाव से यह नहीं बदलेगा।'",
+       "hg": "'Mujhe tumhari parwah hai, aur mera jawab abhi bhi no hai. Pressure se yeh nahi badlega.'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "This separates love from compliance. 'If you loved me' is pressure, and a yes given under pressure is not consent. A partner who respects you accepts a no without bargaining.",
+       "hi": "यह जवाब प्यार को बात मान लेने से अलग करता है। 'अगर प्यार करतीं तो' दबाव है, और दबाव में कही गई हाँ सहमति नहीं है। जो पार्टनर तुम्हारी इज़्ज़त करता है, वह मोल-भाव किए बिना 'ना' को मान लेता है।",
+       "hg": "Yeh jawab pyaar ko baat maan lene se alag karta hai. 'Agar pyaar karti toh' pressure hai, aur pressure mein boli gayi haan consent nahi hai. Jo partner tumhari respect karta hai, woh bargaining kiye bina 'no' accept kar leta hai."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "'Can we not talk about this right now?'",
+       "hi": "'क्या हम अभी इस बारे में बात न करें?'",
+       "hg": "'Kya hum abhi is baare mein baat na karein?'"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Postponing gives you breathing space, which is fair. But the pressure is likely to return. When you feel ready, a clear statement of your decision is harder to argue with.",
+       "hi": "बात टालने से साँस लेने की जगह मिलती है, और यह जायज़ है। लेकिन दबाव शायद फिर लौटेगा। जब तैयार महसूस करो, तो अपने फ़ैसले को साफ़ शब्दों में कह देना ऐसा जवाब है जिस पर बहस करना मुश्किल होता है।",
+       "hg": "Baat postpone karne se breathing space milti hai, aur yeh fair hai. Lekin pressure shayad phir lautega. Jab ready feel karo, toh apne decision ko clear shabdon mein bol dena aisa jawab hai jis par argue karna mushkil hota hai."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Agree, just so that he stops being upset",
+       "hi": "मान जाना, बस इसलिए कि वह नाराज़ होना बंद कर दे",
+       "hg": "Maan jaana, bas isliye ki woh upset hona band kar de"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Wanting to keep the peace is human, but agreeing out of guilt or fear is not free consent, and it usually leaves people feeling worse. You are allowed to say no and stay at no.",
+       "hi": "शांति बनाए रखना चाहना इंसानी बात है, लेकिन अपराध-बोध या डर से मान जाना आज़ाद सहमति नहीं है, और इसके बाद लोग अक्सर और बुरा महसूस करते हैं। तुम्हें 'ना' कहने और 'ना' पर टिके रहने का पूरा हक़ है।",
+       "hg": "Peace banaye rakhna chahna human hai, lekin guilt ya darr se maan jaana free consent nahi hai, aur iske baad log aksar aur bura feel karte hain. Tumhe 'no' bolne aur 'no' par tike rehne ka poora haq hai."
+      },
+      "next": "n3"
+     }
+    ]
+   },
+   "n3": {
+    "text": {
+     "en": "Ishaan goes silent for two days. Meher feels anxious and guilty, and wonders whether she is the problem. What helps most?",
+     "hi": "ईशान दो दिन तक बात नहीं करता। मेहर बेचैन और दोषी महसूस करती है, और सोचती है कि कहीं ग़लती उसी की तो नहीं। सबसे ज़्यादा मदद किससे मिलेगी?",
+     "hg": "Ishaan do din tak baat nahi karta. Meher anxious aur guilty feel karti hai, aur sochti hai ki kahin problem wahi toh nahi. Sabse zyada help kisse milegi?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Talk it through with a trusted friend, sibling or counsellor",
+       "hi": "किसी भरोसे वाले दोस्त, भाई-बहन या काउंसलर से खुलकर बात करना",
+       "hg": "Kisi trusted friend, sibling ya counsellor se khulkar baat karna"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Saying it aloud to someone outside the relationship helps you see the pattern clearly: the guilt was put there by pressure, not by anything you did wrong. Support makes it easier to hold your decision.",
+       "hi": "रिश्ते से बाहर के किसी इंसान के सामने बोल देने से पैटर्न साफ़ दिखता है: यह अपराध-बोध दबाव ने डाला है, तुम्हारी किसी ग़लती ने नहीं। सहारा मिलने पर अपने फ़ैसले पर टिके रहना आसान हो जाता है।",
+       "hg": "Relationship ke bahar ke kisi insaan ke saamne bol dene se pattern clear dikhta hai: yeh guilt pressure ne daala hai, tumhari kisi galti ne nahi. Support milne par apne decision par tike rehna aasaan ho jaata hai."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Distract herself and wait for him to message",
+       "hi": "अपना ध्यान बँटाना और उसके मैसेज का इंतज़ार करना",
+       "hg": "Apna dhyaan divert karna aur uske message ka wait karna"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "A break from the phone can calm you, but waiting alone lets the guilt grow. Silence used as punishment is a pressure tactic; talking to someone you trust helps you judge it clearly.",
+       "hi": "फ़ोन से थोड़ी दूरी मन को शांत कर सकती है, पर अकेले इंतज़ार करने से अपराध-बोध बढ़ता जाता है। सज़ा की तरह इस्तेमाल की गई चुप्पी दबाव डालने का तरीक़ा है; किसी भरोसे वाले से बात करने पर इसे साफ़ देख पाना आसान होता है।",
+       "hg": "Phone se thoda break mann ko calm kar sakta hai, par akele wait karne se guilt badhta jaata hai. Punishment ki tarah use ki gayi silence ek pressure tactic hai; kisi bharose wale se baat karne par isse clearly judge karna aasaan hota hai."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Apologise and promise to change her mind",
+       "hi": "माफ़ी माँगना और अपना फ़ैसला बदलने का वादा करना",
+       "hg": "Sorry bolna aur apna decision badalne ka promise karna"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Apologising for a boundary teaches both of you that sulking works. You did nothing that needs an apology. If the anxiety stays heavy, Tele-MANAS on 14416 is free to call.",
+       "hi": "अपनी सीमा के लिए माफ़ी माँगना दोनों को यही सिखाता है कि रूठना काम करता है। तुमने ऐसा कुछ नहीं किया जिसके लिए माफ़ी माँगनी पड़े। अगर बेचैनी भारी बनी रहे, तो टेली-मानस 14416 पर मुफ़्त में कॉल किया जा सकता है।",
+       "hg": "Apni boundary ke liye sorry bolna dono ko yahi sikhata hai ki roothna kaam karta hai. Tumne aisa kuch nahi kiya jiske liye sorry bolna pade. Agar anxiety heavy bani rahe, toh Tele-MANAS 14416 par free mein call kar sakte ho."
+      },
+      "next": null
+     }
+    ]
+   }
+  },
+  "debrief": {
+   "en": "Choosing not to be sexually active is a complete answer, whether the pressure comes from friends or a partner. 'Everyone does it' and 'if you loved me' are pressure, not reasons. Consent given to stop sulking or teasing is not consent, and for anyone under 18 the law does not recognise it at all. Guilt after saying no deserves support, not surrender.",
+   "hi": "यौन रूप से सक्रिय न होने का चुनाव अपने आप में पूरा जवाब है, चाहे दबाव दोस्तों की तरफ़ से आए या पार्टनर की तरफ़ से। 'सब करते हैं' और 'अगर प्यार करतीं तो' दबाव हैं, वजहें नहीं। रूठना या चिढ़ाना बंद कराने के लिए दी गई सहमति, सहमति नहीं है, और 18 साल से कम उम्र के किसी भी व्यक्ति के मामले में क़ानून इसे बिल्कुल नहीं मानता। 'ना' कहने के बाद आने वाले अपराध-बोध को सहारा चाहिए, हार मान लेना नहीं।",
+   "hg": "Sexually active na hone ki choice apne aap mein complete jawab hai, chahe pressure friends ki taraf se aaye ya partner ki taraf se. 'Sab karte hain' aur 'agar pyaar karti toh' pressure hain, reasons nahi. Roothna ya teasing band karane ke liye di gayi consent, consent nahi hai, aur 18 se kam umar ke kisi bhi person ke case mein law isse bilkul nahi maanta. 'No' bolne ke baad aane wale guilt ko support chahiye, surrender nahi."
+  },
+  "refs": [
+   "unesco-itgse",
+   "who-cse",
+   "pocso-2012"
+  ]
+ }
+]

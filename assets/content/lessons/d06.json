@@ -1,0 +1,1524 @@
+[
+ {
+  "id": "d06-l01",
+  "domain": "d06",
+  "tracks": [
+   "A"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 1,
+  "minutes": 3,
+  "unesco": [
+   1
+  ],
+  "title": {
+   "en": "How to Be a Good Friend",
+   "hi": "अच्छा दोस्त कैसे बनें",
+   "hg": "Achha Dost Kaise Banein"
+  },
+  "subtitle": {
+   "en": "Kind words, sharing, saying sorry and personal space",
+   "hi": "प्यार से बोलना, बाँटना, सॉरी कहना और अपनी जगह",
+   "hg": "Pyaar se bolna, sharing, sorry bolna aur personal space"
+  },
+  "hook": {
+   "en": "A good friend makes you feel happy and safe. You can be that friend too!",
+   "hi": "अच्छा दोस्त वो है जिसके साथ तुम खुश और सुरक्षित महसूस करो। तुम भी ऐसे दोस्त बन सकते हो!",
+   "hg": "Achha dost woh hai jiske saath tum khush aur safe feel karo. Tum bhi aise dost ban sakte ho!"
+  },
+  "objectives": [
+   {
+    "en": "Say what a kind friend does.",
+    "hi": "बता सको कि अच्छा दोस्त क्या-क्या करता है।",
+    "hg": "Bata sako ki ek achha dost kya-kya karta hai."
+   },
+   {
+    "en": "Know how to say sorry when you hurt someone.",
+    "hi": "जान सको कि किसी को दुख पहुँचे तो सॉरी कैसे कहते हैं।",
+    "hg": "Jaan sako ki kisi ko hurt ho jaye toh sorry kaise bolte hain."
+   },
+   {
+    "en": "Know that everyone has personal space.",
+    "hi": "समझ सको कि हर किसी की अपनी जगह (personal space) होती है।",
+    "hg": "Samajh sako ki har kisi ka apna personal space hota hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Friends are kind",
+     "hi": "दोस्त प्यार से पेश आते हैं",
+     "hg": "Dost kind hote hain"
+    },
+    "body": {
+     "en": "A friend is someone you like to play and talk with. A good friend uses kind words. A good friend listens to you. A good friend does not hit, push or call you bad names. You can have one friend or many friends. Both are okay.",
+     "hi": "दोस्त वो होता है जिसके साथ खेलना और बातें करना तुम्हें अच्छा लगता है। अच्छा दोस्त प्यार से बोलता है। अच्छा दोस्त तुम्हारी बात सुनता है। अच्छा दोस्त मारता नहीं, धक्का नहीं देता और गंदे नाम से नहीं बुलाता। तुम्हारा एक दोस्त हो या बहुत सारे, दोनों ठीक हैं।",
+     "hg": "Dost woh hota hai jiske saath khelna aur baatein karna tumhe achha lagta hai. Achha dost pyaar se bolta hai. Achha dost tumhari baat sunta hai. Achha dost maarta nahi, dhakka nahi deta aur gande naam se nahi bulata. Tumhara ek dost ho ya bahut saare, dono theek hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Sharing and taking turns",
+     "hi": "बाँटना और बारी लेना",
+     "hg": "Sharing aur turn lena"
+    },
+    "body": {
+     "en": "Sharing means letting a friend use your things for some time. Taking turns means first you, then me. Waiting can feel hard. Everyone feels that. You can ask, 'Can I have a turn after you?' Some things are very special to you. Then you can say kindly, 'This one I want to keep with me.'",
+     "hi": "बाँटने का मतलब है अपनी चीज़ थोड़ी देर के लिए दोस्त को देना। बारी लेने का मतलब है पहले तुम, फिर मैं। इंतज़ार करना मुश्किल लग सकता है। ऐसा सबको लगता है। तुम पूछ सकते हो, 'तुम्हारे बाद मेरी बारी?' कुछ चीज़ें तुम्हें बहुत प्यारी होती हैं। तब प्यार से कह दो, 'ये वाली मुझे अपने पास रखनी है।'",
+     "hg": "Sharing ka matlab hai apni cheez thodi der ke liye dost ko dena. Turn lene ka matlab hai pehle tum, phir main. Wait karna mushkil lag sakta hai. Aisa sabko lagta hai. Tum pooch sakte ho, 'Tumhare baad meri turn?' Kuch cheezein tumhe bahut pyaari hoti hain. Tab pyaar se keh do, 'Yeh wali mujhe apne paas rakhni hai.'"
+    }
+   },
+   {
+    "h": {
+     "en": "Saying sorry",
+     "hi": "सॉरी कहना",
+     "hg": "Sorry bolna"
+    },
+    "body": {
+     "en": "Everyone makes mistakes. Sometimes we hurt a friend. When that happens, say what you did: 'I am sorry I pushed you.' Then ask, 'Are you okay?' Try not to do it again. If a friend says sorry to you, you can say, 'Thank you for saying sorry.' Then you can play together again.",
+     "hi": "गलती सबसे होती है। कभी-कभी हमसे दोस्त को चोट या दुख पहुँच जाता है। तब बताओ कि तुमने क्या किया: 'सॉरी, मैंने तुम्हें धक्का दिया।' फिर पूछो, 'तुम ठीक हो?' कोशिश करो कि दोबारा ऐसा न हो। अगर दोस्त तुमसे सॉरी कहे, तो कह सकते हो, 'सॉरी कहने के लिए थैंक यू।' फिर दोबारा साथ में खेलो।",
+     "hg": "Galti sabse hoti hai. Kabhi-kabhi humse dost ko chot ya dukh pahunch jata hai. Tab batao ki tumne kya kiya: 'Sorry, maine tumhe dhakka diya.' Phir poocho, 'Tum theek ho?' Koshish karo ki dobara aisa na ho. Agar dost tumse sorry bole, toh keh sakte ho, 'Sorry bolne ke liye thank you.' Phir dobara saath mein khelo."
+    }
+   },
+   {
+    "h": {
+     "en": "Your space bubble",
+     "hi": "तुम्हारा अपना बुलबुला",
+     "hg": "Tumhara space bubble"
+    },
+    "body": {
+     "en": "Imagine a bubble around your body. That is your personal space. Some friends like hugs. Some do not. So ask first: 'Can I hug you?' If your friend says no, stop. If someone comes too close to you, you can say, 'Please give me space.' If they do not stop, tell a grown-up you trust.",
+     "hi": "सोचो कि तुम्हारे शरीर के चारों तरफ़ एक बुलबुला है। यही तुम्हारी अपनी जगह (personal space) है। कुछ दोस्तों को गले लगना पसंद है, कुछ को नहीं। इसलिए पहले पूछो: 'क्या मैं तुम्हें गले लगा लूँ?' दोस्त मना करे तो रुक जाओ। अगर कोई तुम्हारे बहुत पास आए, तो कह सकते हो, 'प्लीज़ थोड़ी जगह दो।' वो न रुके तो किसी भरोसेमंद बड़े को बताओ।",
+     "hg": "Socho ki tumhari body ke charon taraf ek bubble hai. Yahi tumhara personal space hai. Kuch doston ko hug pasand hai, kuch ko nahi. Isliye pehle poocho: 'Kya main tumhe hug kar loon?' Dost mana kare toh ruk jao. Agar koi tumhare bahut paas aaye, toh bol sakte ho, 'Please thodi jagah do.' Woh na ruke toh kisi bharosemand bade ko batao."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "If my friend plays with someone else, they are not my friend any more.",
+    "hi": "अगर मेरा दोस्त किसी और के साथ खेले, तो वो अब मेरा दोस्त नहीं रहा।",
+    "hg": "Agar mera dost kisi aur ke saath khele, toh woh ab mera dost nahi raha."
+   },
+   "fact": {
+    "en": "Friends can have many friends. Your friend can play with others and still like you just as much. You can play with others too.",
+    "hi": "दोस्तों के और भी दोस्त हो सकते हैं। तुम्हारा दोस्त दूसरों के साथ खेलकर भी तुम्हें उतना ही पसंद करता है। तुम भी दूसरों के साथ खेल सकते हो।",
+    "hg": "Doston ke aur bhi dost ho sakte hain. Tumhara dost doosron ke saath khel kar bhi tumhe utna hi pasand karta hai. Tum bhi doosron ke saath khel sakte ho."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Good friends use kind words and gentle hands.",
+    "hi": "अच्छे दोस्त प्यार से बोलते हैं और किसी को चोट नहीं पहुँचाते।",
+    "hg": "Achhe dost pyaar se bolte hain aur kisi ko chot nahi pahunchate."
+   },
+   {
+    "en": "Saying sorry helps fix a hurt.",
+    "hi": "सॉरी कहने से दुख ठीक होने में मदद मिलती है।",
+    "hg": "Sorry bolne se hurt theek hone mein help milti hai."
+   },
+   {
+    "en": "Ask before you hug, and stop if your friend says no.",
+    "hi": "गले लगाने से पहले पूछो, और दोस्त मना करे तो रुक जाओ।",
+    "hg": "Hug karne se pehle poocho, aur dost mana kare toh ruk jao."
+   }
+  ],
+  "activity": {
+   "en": "Draw a picture of you and a friend doing something kind together. Show it to a grown-up at home and tell them what is happening in it.",
+   "hi": "एक चित्र बनाओ जिसमें तुम और तुम्हारा दोस्त मिलकर कोई अच्छा काम कर रहे हो। घर में किसी बड़े को दिखाओ और बताओ कि चित्र में क्या हो रहा है।",
+   "hg": "Ek drawing banao jisme tum aur tumhara dost milkar koi achha kaam kar rahe ho. Ghar mein kisi bade ko dikhao aur batao ki drawing mein kya ho raha hai."
+  },
+  "interactive": null,
+  "quiz": [
+   {
+    "id": "d06-l01-q1",
+    "type": "mcq",
+    "q": {
+     "en": "You bumped into your friend by mistake and she fell down. What is the best thing to do?",
+     "hi": "गलती से तुम अपनी दोस्त से टकरा गए और वो गिर गई। सबसे अच्छा क्या करना होगा?",
+     "hg": "Galti se tum apni dost se takra gaye aur woh gir gayi. Sabse achha kya karna hoga?"
+    },
+    "options": [
+     {
+      "en": "Say it was her fault",
+      "hi": "कह दो कि गलती उसी की थी",
+      "hg": "Bol do ki galti usi ki thi"
+     },
+     {
+      "en": "Say sorry and ask if she is okay",
+      "hi": "सॉरी कहो और पूछो कि वो ठीक है या नहीं",
+      "hg": "Sorry bolo aur poocho ki woh theek hai ya nahi"
+     },
+     {
+      "en": "Walk away and say nothing",
+      "hi": "बिना कुछ कहे वहाँ से चले जाओ",
+      "hg": "Bina kuch bole wahan se chale jao"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Saying sorry and checking on your friend shows you care, even when it was a mistake.",
+     "hi": "सॉरी कहना और दोस्त का हाल पूछना दिखाता है कि तुम्हें उसकी परवाह है, भले ही गलती से हुआ हो।",
+     "hg": "Sorry bolna aur dost ka haal poochna dikhata hai ki tumhe uski care hai, chahe galti se hi hua ho."
+    }
+   },
+   {
+    "id": "d06-l01-q2",
+    "type": "tf",
+    "q": {
+     "en": "You should ask before you hug a friend.",
+     "hi": "दोस्त को गले लगाने से पहले पूछना चाहिए।",
+     "hg": "Dost ko hug karne se pehle poochna chahiye."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Everyone has personal space. Asking first shows respect, and some friends do not like hugs.",
+     "hi": "हर किसी की अपनी जगह होती है। पहले पूछना सम्मान दिखाता है, और कुछ दोस्तों को गले लगना पसंद नहीं होता।",
+     "hg": "Har kisi ka personal space hota hai. Pehle poochna respect dikhata hai, aur kuch doston ko hug pasand nahi hota."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d06-l02",
+  "domain": "d06",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 1,
+  "minutes": 6,
+  "unesco": [
+   1,
+   5
+  ],
+  "title": {
+   "en": "Friends, Crushes and Saying No",
+   "hi": "दोस्त, क्रश और ना कहना",
+   "hg": "Dost, Crush aur No Bolna"
+  },
+  "subtitle": {
+   "en": "Healthy friendships, new feelings and peer pressure",
+   "hi": "अच्छी दोस्ती, नई भावनाएँ और दोस्तों का दबाव",
+   "hg": "Healthy dosti, nayi feelings aur peer pressure"
+  },
+  "hook": {
+   "en": "Friend groups shift, someone gives you butterflies, and suddenly everyone has an opinion. Here is how to handle it without losing yourself.",
+   "hi": "दोस्तों के ग्रुप बदलते हैं, कोई अचानक अच्छा लगने लगता है, और सबके पास अपनी-अपनी राय होती है। जानो कि ख़ुद को खोए बिना ये सब कैसे सँभालें।",
+   "hg": "Friend groups badalte hain, kisi ko dekh kar butterflies aati hain, aur achanak sabke paas opinion hota hai. Jaano ki khud ko khoye bina yeh sab kaise handle karein."
+  },
+  "objectives": [
+   {
+    "en": "Tell the difference between a friendship that feels good and one that keeps hurting.",
+    "hi": "फ़र्क़ पहचान सको कि कौन-सी दोस्ती अच्छा महसूस कराती है और कौन-सी बार-बार दुख देती है।",
+    "hg": "Farq pehchaan sako ki kaunsi dosti achha feel karati hai aur kaunsi baar-baar hurt karti hai."
+   },
+   {
+    "en": "Understand that a crush is a normal feeling, not a problem to fix.",
+    "hi": "समझ सको कि क्रश एक सामान्य भावना है, कोई समस्या नहीं जिसे ठीक करना पड़े।",
+    "hg": "Samajh sako ki crush ek normal feeling hai, koi problem nahi jise fix karna pade."
+   },
+   {
+    "en": "Use at least one clear way to say no to peer pressure.",
+    "hi": "दोस्तों के दबाव को ना कहने का कम से कम एक साफ़ तरीक़ा इस्तेमाल कर सको।",
+    "hg": "Peer pressure ko no bolne ka kam se kam ek clear tareeka use kar sako."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "What a healthy friendship feels like",
+     "hi": "अच्छी दोस्ती कैसी महसूस होती है",
+     "hg": "Healthy dosti kaisi feel hoti hai"
+    },
+    "body": {
+     "en": "A healthy friendship is mostly easy. You can be yourself, you both get a turn to talk and decide, and you feel better after spending time together, not smaller. Good friends keep your private things private, say sorry when they mess up and are happy when you do well. Every friendship has bad days, so look at the usual pattern. If a friend often mocks you, leaves you out on purpose, spreads your secrets or stays friendly only when you obey, that friendship is hurting you. You are allowed to step back and spend time with others.",
+     "hi": "अच्छी दोस्ती ज़्यादातर आसान लगती है। तुम जैसे हो वैसे रह सकते हो, बोलने और फ़ैसला करने की बारी दोनों को मिलती है, और साथ समय बिताकर तुम अच्छा महसूस करते हो, छोटा नहीं। अच्छे दोस्त तुम्हारी निजी बातें अपने तक रखते हैं, गलती होने पर सॉरी कहते हैं और तुम्हारी कामयाबी पर खुश होते हैं। हर दोस्ती में बुरे दिन आते हैं, इसलिए रोज़ का पैटर्न देखो। अगर कोई दोस्त अक्सर मज़ाक उड़ाए, जानबूझकर अलग कर दे, तुम्हारे राज़ फैलाए या तभी अच्छा रहे जब तुम उसकी मानो, तो वो दोस्ती तुम्हें चोट पहुँचा रही है। तुम पीछे हट सकते हो और दूसरों के साथ समय बिता सकते हो।",
+     "hg": "Healthy dosti zyadatar easy lagti hai. Tum jaise ho waise reh sakte ho, bolne aur decide karne ki turn dono ko milti hai, aur saath time bita kar tum achha feel karte ho, chhota nahi. Achhe dost tumhari private baatein apne tak rakhte hain, galti hone par sorry bolte hain aur tumhari success par khush hote hain. Har dosti mein bure din aate hain, isliye roz ka pattern dekho. Agar koi dost aksar mazaak udaye, jaan-boojh kar left out kare, tumhare secrets failaye ya tabhi achha rahe jab tum uski maano, toh woh dosti tumhe hurt kar rahi hai. Tum peeche hat sakte ho aur doosron ke saath time bita sakte ho."
+    }
+   },
+   {
+    "h": {
+     "en": "Crushes are feelings, not instructions",
+     "hi": "क्रश एक भावना है, कोई आदेश नहीं",
+     "hg": "Crush ek feeling hai, order nahi"
+    },
+    "body": {
+     "en": "A crush is a strong liking for someone: you think about them a lot, feel shy or excited near them, or want them to notice you. Crushes usually begin around puberty and are normal. Not having one is just as normal. A crush can be on anyone, and it often fades in weeks or months. You do not have to tell the person, date them or do anything at all. If you find out about someone's crush, do not tease them or announce it. And if someone does not like you back, that is their right; leave them in peace.",
+     "hi": "क्रश का मतलब है किसी को बहुत ज़्यादा पसंद करना: उसके बारे में बार-बार सोचना, उसके पास शर्म या उत्साह महसूस करना, या चाहना कि वो तुम्हें नोटिस करे। क्रश अक्सर प्यूबर्टी के आसपास शुरू होते हैं और ये सामान्य है। क्रश न होना भी उतना ही सामान्य है। क्रश किसी पर भी हो सकता है और अक्सर कुछ हफ़्तों या महीनों में हल्का पड़ जाता है। तुम्हें उस इंसान को बताना, डेट करना या कुछ भी करना ज़रूरी नहीं है। अगर तुम्हें किसी के क्रश का पता चल जाए, तो उसे चिढ़ाओ मत और सबको मत बताओ। और अगर कोई तुम्हें वापस पसंद न करे, तो ये उसका हक़ है; उसे परेशान मत करो।",
+     "hg": "Crush ka matlab hai kisi ko bahut zyada pasand karna: uske baare mein baar-baar sochna, uske paas shy ya excited feel karna, ya chahna ki woh tumhe notice kare. Crush aksar puberty ke aas-paas shuru hote hain aur yeh normal hai. Crush na hona bhi utna hi normal hai. Crush kisi par bhi ho sakta hai aur aksar kuch hafton ya mahinon mein halka pad jata hai. Tumhe us insaan ko batana, date karna ya kuch bhi karna zaroori nahi hai. Agar tumhe kisi ke crush ka pata chal jaye, toh use chidhao mat aur sabko announce mat karo. Aur agar koi tumhe wapas pasand na kare, toh yeh uska haq hai; use pareshan mat karo."
+    }
+   },
+   {
+    "h": {
+     "en": "Peer pressure: when the group pushes",
+     "hi": "पीयर प्रेशर: जब ग्रुप दबाव डाले",
+     "hg": "Peer pressure: jab group push kare"
+    },
+    "body": {
+     "en": "Peer pressure is when people your age push you to do something so that you fit in: a dare, skipping class, mocking a classmate, trying a cigarette, sending a photo. It works because nobody likes to be left out. Try a short, firm line: 'No, I'm not doing that.' You do not owe a long explanation. You can suggest something else, walk towards another group or blame a rule at home if that feels easier. Pressure can also be good, like friends pushing you to practise or study. Ask yourself: would I still want to do this if nobody was watching?",
+     "hi": "पीयर प्रेशर यानी जब तुम्हारी उम्र के लोग तुम पर कुछ करने का दबाव डालें ताकि तुम ग्रुप में फिट हो सको: कोई डेयर, क्लास बंक करना, किसी क्लासमेट का मज़ाक उड़ाना, सिगरेट आज़माना, फ़ोटो भेजना। ये इसलिए काम करता है क्योंकि अकेला छूटना किसी को अच्छा नहीं लगता। एक छोटी, पक्की लाइन बोलो: 'नहीं, मुझे ये नहीं करना।' लंबी सफ़ाई देना ज़रूरी नहीं। तुम कुछ और करने का सुझाव दे सकते हो, दूसरे ग्रुप की तरफ़ जा सकते हो, या आसान लगे तो घर के नियम का बहाना बना सकते हो। दबाव अच्छा भी हो सकता है, जैसे दोस्त प्रैक्टिस या पढ़ाई के लिए धकेलें। ख़ुद से पूछो: अगर कोई देख नहीं रहा होता, तो क्या तब भी मेरा मन ये करने का होता?",
+     "hg": "Peer pressure matlab jab tumhari age ke log tum par kuch karne ka pressure daalein taaki tum group mein fit ho sako: koi dare, class bunk karna, kisi classmate ka mazaak udana, cigarette try karna, photo bhejna. Yeh isliye kaam karta hai kyunki left out hona kisi ko achha nahi lagta. Ek chhoti, firm line bolo: 'Nahi, mujhe yeh nahi karna.' Lambi explanation dena zaroori nahi. Tum kuch aur karne ka idea de sakte ho, doosre group ki taraf ja sakte ho, ya easy lage toh ghar ke rule ka bahana bana sakte ho. Pressure achha bhi ho sakta hai, jaise dost practice ya padhai ke liye push karein. Khud se poocho: agar koi dekh nahi raha hota, toh kya tab bhi mera mann yeh karne ka hota?"
+    }
+   },
+   {
+    "h": {
+     "en": "Privacy between friends, online too",
+     "hi": "दोस्तों के बीच प्राइवेसी, ऑनलाइन भी",
+     "hg": "Doston ke beech privacy, online bhi"
+    },
+    "body": {
+     "en": "Trust grows when private things stay private. Do not forward a friend's messages, photos or secrets, even as a joke, and ask before you post a picture that has someone else in it. Do not share passwords, even with a best friend; friendships change and accounts get misused. One kind of secret must never be kept: if a friend tells you someone is hurting them, touching them in an unsafe way or scaring them online, tell a trusted adult. That is not betrayal. It is how friends keep each other safe. You can also call Child Helpline 1098.",
+     "hi": "भरोसा तब बढ़ता है जब निजी बातें निजी रहती हैं। दोस्त के मैसेज, फ़ोटो या राज़ आगे मत भेजो, मज़ाक में भी नहीं, और जिस फ़ोटो में कोई और हो उसे पोस्ट करने से पहले पूछ लो। पासवर्ड किसी से शेयर मत करो, बेस्ट फ़्रेंड से भी नहीं; दोस्तियाँ बदलती हैं और अकाउंट का ग़लत इस्तेमाल हो सकता है। एक तरह का राज़ कभी नहीं रखना चाहिए: अगर दोस्त बताए कि कोई उसे चोट पहुँचा रहा है, ग़लत तरीक़े से छू रहा है या ऑनलाइन डरा रहा है, तो किसी भरोसेमंद बड़े को बताओ। ये धोखा नहीं है। दोस्त ऐसे ही एक-दूसरे को सुरक्षित रखते हैं। तुम चाइल्ड हेल्पलाइन 1098 पर भी कॉल कर सकते हो।",
+     "hg": "Trust tab badhta hai jab private baatein private rehti hain. Dost ke messages, photos ya secrets forward mat karo, mazaak mein bhi nahi, aur jis photo mein koi aur ho use post karne se pehle pooch lo. Password kisi se share mat karo, best friend se bhi nahi; dostiyan badalti hain aur account ka misuse ho sakta hai. Ek tarah ka secret kabhi nahi rakhna chahiye: agar dost bataye ki koi use hurt kar raha hai, galat tareeke se chhoo raha hai ya online dara raha hai, toh kisi trusted adult ko batao. Yeh dhokha nahi hai. Dost aise hi ek-doosre ko safe rakhte hain. Tum Child Helpline 1098 par bhi call kar sakte ho."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "If you say no to your friends, you will end up with no friends.",
+    "hi": "अगर दोस्तों को ना कहोगे, तो कोई दोस्त नहीं बचेगा।",
+    "hg": "Agar doston ko no bologe, toh koi dost nahi bachega."
+   },
+   "fact": {
+    "en": "Real friends may be annoyed for a while, but they stay. A group that drops you for refusing a dare was offering membership, not friendship. A calm, clear no usually earns more respect than people admit.",
+    "hi": "सच्चे दोस्त थोड़ी देर नाराज़ हो सकते हैं, पर साथ नहीं छोड़ते। जो ग्रुप एक डेयर से मना करने पर तुम्हें छोड़ दे, वो दोस्ती नहीं, बस ग्रुप की मेंबरशिप दे रहा था। शांत और साफ़ 'ना' की इज़्ज़त लोग जितना मानते हैं उससे ज़्यादा करते हैं।",
+    "hg": "Asli dost thodi der irritate ho sakte hain, par saath nahi chhodte. Jo group ek dare se mana karne par tumhe drop kar de, woh dosti nahi, bas membership de raha tha. Calm aur clear 'no' ki respect log jitna maante hain usse zyada karte hain."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "A good friendship lets you be yourself and leaves you feeling better most of the time.",
+    "hi": "अच्छी दोस्ती में तुम जैसे हो वैसे रह सकते हो और ज़्यादातर समय अच्छा महसूस करते हो।",
+    "hg": "Achhi dosti mein tum jaise ho waise reh sakte ho aur zyadatar time achha feel karte ho."
+   },
+   {
+    "en": "A crush is a normal feeling that you do not have to act on, and not having one is normal too.",
+    "hi": "क्रश एक सामान्य भावना है जिस पर कुछ करना ज़रूरी नहीं, और क्रश न होना भी सामान्य है।",
+    "hg": "Crush ek normal feeling hai jis par kuch karna zaroori nahi, aur crush na hona bhi normal hai."
+   },
+   {
+    "en": "A short, calm no is enough; you do not owe the group an explanation.",
+    "hi": "छोटा और शांत 'ना' काफ़ी है; ग्रुप को सफ़ाई देना तुम्हारी ज़िम्मेदारी नहीं।",
+    "hg": "Chhota, calm 'no' kaafi hai; group ko explanation dena tumhari zimmedari nahi."
+   }
+  ],
+  "activity": {
+   "en": "Write down three things you value in a friend. Then honestly tick the ones you do for your own friends, and pick one to do better this week.",
+   "hi": "तीन बातें लिखो जो तुम्हें एक दोस्त में अच्छी लगती हैं। फिर ईमानदारी से उन पर निशान लगाओ जो तुम ख़ुद अपने दोस्तों के लिए करते हो, और एक चुनो जिसे इस हफ़्ते बेहतर करोगे।",
+   "hg": "Teen cheezein likho jo tumhe ek dost mein achhi lagti hain. Phir honestly unpar tick karo jo tum khud apne doston ke liye karte ho, aur ek choose karo jise is hafte better karoge."
+  },
+  "interactive": "communication",
+  "quiz": [
+   {
+    "id": "d06-l02-q1",
+    "type": "scenario",
+    "q": {
+     "en": "Your group dares you to hide a classmate's school bag as a joke. You do not want to. What is the strongest response?",
+     "hi": "तुम्हारा ग्रुप मज़ाक में एक क्लासमेट का बैग छुपाने का डेयर देता है। तुम्हारा मन नहीं है। सबसे मज़बूत जवाब क्या होगा?",
+     "hg": "Tumhara group mazaak mein ek classmate ka bag chhupane ka dare deta hai. Tumhara mann nahi hai. Sabse strong response kya hoga?"
+    },
+    "options": [
+     {
+      "en": "Do it once so they stop asking",
+      "hi": "एक बार कर दो ताकि वो पीछे पड़ना छोड़ दें",
+      "hg": "Ek baar kar do taaki woh peeche padna chhod dein"
+     },
+     {
+      "en": "Laugh along and let someone else do it",
+      "hi": "साथ में हँस लो और किसी और को करने दो",
+      "hg": "Saath mein hans lo aur kisi aur ko karne do"
+     },
+     {
+      "en": "Say 'No, I'm not doing that' and suggest something else",
+      "hi": "कहो 'नहीं, मुझे ये नहीं करना' और कुछ और करने का सुझाव दो",
+      "hg": "Bolo 'Nahi, mujhe yeh nahi karna' aur kuch aur karne ka idea do"
+     },
+     {
+      "en": "Stop talking to the whole group for good",
+      "hi": "पूरे ग्रुप से हमेशा के लिए बात बंद कर दो",
+      "hg": "Poore group se hamesha ke liye baat band kar do"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "A short, firm no plus another idea protects the classmate and keeps you in control, without needing to cut everyone off.",
+     "hi": "छोटा, पक्का 'ना' और साथ में दूसरा सुझाव क्लासमेट को भी बचाता है और फ़ैसला तुम्हारे हाथ में रखता है, सबसे रिश्ता तोड़े बिना।",
+     "hg": "Chhota, firm 'no' aur saath mein doosra idea classmate ko bhi bachata hai aur control tumhare haath mein rakhta hai, sabse rishta tode bina."
+    }
+   },
+   {
+    "id": "d06-l02-q2",
+    "type": "tf",
+    "q": {
+     "en": "If you have a crush on someone, you have to tell them.",
+     "hi": "अगर किसी पर क्रश है, तो उसे बताना ज़रूरी है।",
+     "hg": "Agar kisi par crush hai, toh use batana zaroori hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "A crush is a feeling you can simply notice. Telling, dating or doing anything about it is optional, and many crushes fade on their own.",
+     "hi": "क्रश एक भावना है जिसे तुम बस महसूस कर सकते हो। बताना, डेट करना या कुछ भी करना तुम्हारी मर्ज़ी है, और कई क्रश अपने आप हल्के पड़ जाते हैं।",
+     "hg": "Crush ek feeling hai jise tum bas notice kar sakte ho. Batana, date karna ya kuch bhi karna optional hai, aur kaafi crush apne aap fade ho jate hain."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-cse",
+   "wcd-childline"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d06-l03",
+  "domain": "d06",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   1,
+   7
+  ],
+  "title": {
+   "en": "Attraction, Respect and Boundaries",
+   "hi": "आकर्षण, सम्मान और बाउंड्री",
+   "hg": "Attraction, Respect aur Boundaries"
+  },
+  "subtitle": {
+   "en": "What a healthy relationship is actually made of",
+   "hi": "अच्छा रिश्ता असल में किन चीज़ों से बनता है",
+   "hg": "Healthy relationship asal mein kin cheezon se banta hai"
+  },
+  "hook": {
+   "en": "Films sell you drama as love. Real healthy relationships are calmer, kinder and far less controlling than that.",
+   "hi": "फ़िल्में ड्रामे को प्यार बताकर बेचती हैं। असली अच्छे रिश्ते उससे कहीं ज़्यादा शांत, नरम और बिना कंट्रोल वाले होते हैं।",
+   "hg": "Filmein drama ko pyaar bol kar bechti hain. Asli healthy relationships usse kahin zyada calm, kind aur bina control wale hote hain."
+  },
+  "objectives": [
+   {
+    "en": "Describe attraction as a normal part of growing up that does not have to be acted on.",
+    "hi": "समझा सको कि आकर्षण बड़े होने का सामान्य हिस्सा है और उस पर कुछ करना ज़रूरी नहीं।",
+    "hg": "Samjha sako ki attraction bade hone ka normal hissa hai aur us par kuch karna zaroori nahi."
+   },
+   {
+    "en": "Name the core ingredients of a healthy relationship: respect, trust, honest communication and equality.",
+    "hi": "अच्छे रिश्ते की बुनियादी चीज़ें गिना सको: सम्मान, भरोसा, ईमानदार बातचीत और बराबरी।",
+    "hg": "Healthy relationship ke core ingredients gina sako: respect, trust, honest communication aur equality."
+   },
+   {
+    "en": "Set and respect boundaries, including digital ones.",
+    "hi": "बाउंड्री तय कर सको और दूसरों की बाउंड्री का सम्मान कर सको, डिजिटल बाउंड्री भी।",
+    "hg": "Boundaries set kar sako aur doosron ki boundaries respect kar sako, digital wali bhi."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Attraction is normal, and so is waiting",
+     "hi": "आकर्षण सामान्य है, और रुकना भी",
+     "hg": "Attraction normal hai, aur wait karna bhi"
+    },
+    "body": {
+     "en": "In your teens, hormones and brain development make romantic and sexual attraction stronger. You may be drawn to people of a different gender, the same gender, more than one gender, or feel little attraction right now. All of that is within normal human variety. Feeling attracted does not mean you must date, and many teenagers do not. If you do like someone, the feeling is yours to manage; the other person owes you nothing. Under Indian law (POCSO), any sexual activity with a person under 18 is an offence, even if both agreed and even if both are teenagers. So waiting is not old-fashioned; it protects you both.",
+     "hi": "किशोर उम्र में हार्मोन और दिमाग़ के विकास की वजह से रोमांटिक और यौन आकर्षण ज़्यादा महसूस होने लगता है। तुम्हें अलग जेंडर के, अपने ही जेंडर के या एक से ज़्यादा जेंडर के लोग अच्छे लग सकते हैं, या अभी ख़ास आकर्षण महसूस न हो। ये सब इंसानी विविधता का सामान्य हिस्सा है। आकर्षण महसूस होने का मतलब ये नहीं कि डेट करना ज़रूरी है; बहुत से टीनएजर नहीं करते। अगर कोई पसंद है, तो उस भावना को सँभालना तुम्हारा काम है; सामने वाले पर तुम्हारा कुछ बकाया नहीं। भारतीय क़ानून (POCSO) के तहत 18 से कम उम्र के किसी भी व्यक्ति के साथ कोई भी यौन गतिविधि अपराध है, चाहे दोनों राज़ी हों और चाहे दोनों टीनएजर हों। इसलिए इंतज़ार करना पुराने ख़यालों की बात नहीं; ये तुम दोनों की हिफ़ाज़त करता है।",
+     "hg": "Teenage mein hormones aur brain development ki wajah se romantic aur sexual attraction zyada feel hone lagta hai. Tumhe alag gender ke, apne hi gender ke ya ek se zyada gender ke log achhe lag sakte hain, ya abhi khaas attraction feel na ho. Yeh sab human variety ka normal hissa hai. Attraction feel hone ka matlab yeh nahi ki date karna zaroori hai; bahut se teenagers nahi karte. Agar koi pasand hai, toh us feeling ko handle karna tumhara kaam hai; saamne wale par tumhara kuch udhaar nahi. Indian law (POCSO) ke under 18 se kam umar ke kisi bhi insaan ke saath koi bhi sexual activity offence hai, chahe dono raazi hon aur chahe dono teenagers hon. Isliye wait karna old-fashioned nahi; yeh tum dono ko protect karta hai."
+    }
+   },
+   {
+    "h": {
+     "en": "The four ingredients",
+     "hi": "चार बुनियादी चीज़ें",
+     "hg": "Chaar core ingredients"
+    },
+    "body": {
+     "en": "Healthy relationships, romantic or not, run on four things. Respect: your opinions, body, time, studies and friendships are treated as important. Trust: you do not need to check on each other because you both keep your word. Honest communication: you can say what you feel and hear a different view without fear. Equality: decisions are shared and nobody is the boss. Notice how you feel on most days. Relaxed, free to be yourself and able to say no is a good sign. Anxious, watched or often guilty is a sign that something needs to change.",
+     "hi": "अच्छे रिश्ते, चाहे रोमांटिक हों या नहीं, चार चीज़ों पर चलते हैं। सम्मान: तुम्हारी राय, शरीर, समय, पढ़ाई और दोस्तियों को अहमियत दी जाती है। भरोसा: एक-दूसरे की जाँच-पड़ताल की ज़रूरत नहीं पड़ती क्योंकि दोनों अपनी बात निभाते हैं। ईमानदार बातचीत: तुम बिना डर के अपनी बात कह सकते हो और अलग राय सुन सकते हो। बराबरी: फ़ैसले मिलकर होते हैं और कोई किसी का बॉस नहीं होता। ग़ौर करो कि ज़्यादातर दिन तुम कैसा महसूस करते हो। सुकून, ख़ुद जैसे रहने की आज़ादी और ना कह पाना अच्छा संकेत है। घबराहट, हर वक़्त निगरानी का एहसास या बार-बार अपराध-बोध बताता है कि कुछ बदलने की ज़रूरत है।",
+     "hg": "Healthy relationships, romantic hon ya nahi, chaar cheezon par chalte hain. Respect: tumhari opinion, body, time, padhai aur dostiyon ko importance di jati hai. Trust: ek-doosre ko check karne ki zaroorat nahi padti kyunki dono apni baat nibhate hain. Honest communication: tum bina darr ke apni baat keh sakte ho aur alag opinion sun sakte ho. Equality: decisions milkar hote hain aur koi kisi ka boss nahi hota. Notice karo ki zyadatar din tum kaisa feel karte ho. Relaxed, khud jaise rehne ki freedom aur no bol paana green flag hai. Anxious, har waqt watched ya baar-baar guilty feel karna batata hai ki kuch badalne ki zaroorat hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Boundaries: your personal rules",
+     "hi": "बाउंड्री: तुम्हारे अपने नियम",
+     "hg": "Boundaries: tumhare apne rules"
+    },
+    "body": {
+     "en": "A boundary is a limit you set about what is okay for you: how much you text, what you share, how you are touched, how you are spoken to. Say it plainly: 'I'm not comfortable with that', 'I need time with my friends too'. You do not have to justify it or apologise for it. A person who cares may feel disappointed but will accept it. Sulking, repeating the request, guilt-tripping or going silent until you give in is pressure, not love. Boundaries work both ways: when someone tells you theirs, you respect it the first time.",
+     "hi": "बाउंड्री वो सीमा है जो तुम तय करते हो कि तुम्हारे लिए क्या ठीक है: कितना टेक्स्ट करना है, क्या शेयर करना है, तुम्हें कैसे छुआ जाए, तुमसे कैसे बात की जाए। इसे सीधे कहो: 'मैं इसमें कम्फ़र्टेबल नहीं हूँ', 'मुझे अपने दोस्तों के साथ भी समय चाहिए'। इसकी सफ़ाई देना या माफ़ी माँगना ज़रूरी नहीं। जिसे तुम्हारी परवाह है वो निराश हो सकता है, पर मान लेगा। मुँह फुलाना, बार-बार वही माँगना, अपराध-बोध कराना या तब तक चुप हो जाना जब तक तुम मान न जाओ, ये दबाव है, प्यार नहीं। बाउंड्री दोनों तरफ़ चलती है: जब कोई अपनी सीमा बताए, तो पहली बार में ही उसका सम्मान करो।",
+     "hg": "Boundary woh limit hai jo tum set karte ho ki tumhare liye kya okay hai: kitna text karna hai, kya share karna hai, tumhe kaise touch kiya jaye, tumse kaise baat ki jaye. Ise seedha bolo: 'Main isme comfortable nahi hoon', 'Mujhe apne doston ke saath bhi time chahiye'. Iski safai dena ya sorry bolna zaroori nahi. Jise tumhari care hai woh disappoint ho sakta hai, par maan lega. Muh phulana, baar-baar wahi maangna, guilt-trip karna ya tab tak chup ho jana jab tak tum maan na jao, yeh pressure hai, pyaar nahi. Boundary dono taraf chalti hai: jab koi apni limit bataye, toh pehli baar mein hi respect karo."
+    }
+   },
+   {
+    "h": {
+     "en": "Phones, passwords and privacy",
+     "hi": "फ़ोन, पासवर्ड और प्राइवेसी",
+     "hg": "Phones, passwords aur privacy"
+    },
+    "body": {
+     "en": "Being close does not mean being on call all day. Healthy digital boundaries include keeping your own passwords, not being made to share live location, replying when you can instead of instantly, and never being pushed to send photos. Reading someone's chats secretly or demanding screenshots is surveillance. Feeling jealous now and then is human; the healthy move is to say 'I felt insecure when…' and talk. When jealousy turns into rules about who you can talk to or what you can wear, it has become possessiveness. That is a warning pattern worth discussing with someone you trust.",
+     "hi": "क़रीब होने का मतलब चौबीस घंटे हाज़िर रहना नहीं है। अच्छी डिजिटल बाउंड्री में शामिल है: अपने पासवर्ड अपने पास रखना, लाइव लोकेशन शेयर करने के लिए मजबूर न किया जाना, तुरंत के बजाय फ़ुर्सत में जवाब दे पाना, और फ़ोटो भेजने का दबाव कभी न होना। चुपके से किसी की चैट पढ़ना या स्क्रीनशॉट माँगना निगरानी है। कभी-कभी जलन होना इंसानी बात है; सही तरीक़ा है कहना 'मुझे असुरक्षित लगा जब…' और बात करना। जब जलन इस बात के नियम बन जाए कि तुम किससे बात करोगे या क्या पहनोगे, तो वो पज़ेसिवनेस बन चुकी है। ये चेतावनी वाला पैटर्न है जिस पर किसी भरोसेमंद इंसान से बात करनी चाहिए।",
+     "hg": "Close hone ka matlab 24 ghante available rehna nahi hai. Healthy digital boundaries mein aata hai: apne passwords apne paas rakhna, live location share karne ke liye majboor na kiya jana, turant ke bajaye jab time mile tab reply kar paana, aur photos bhejne ka pressure kabhi na hona. Chupke se kisi ki chats padhna ya screenshots maangna surveillance hai. Kabhi-kabhi jealous feel karna insaani baat hai; healthy move hai bolna 'Mujhe insecure laga jab…' aur baat karna. Jab jealousy is baat ke rules ban jaye ki tum kisse baat karoge ya kya pehnoge, toh woh possessiveness ban chuki hai. Yeh warning pattern hai jis par kisi trusted insaan se baat karni chahiye."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "If someone really loves you, they will share all their passwords with you.",
+    "hi": "जो सच में प्यार करता है, वो अपने सारे पासवर्ड तुम्हें दे देगा।",
+    "hg": "Jo sach mein pyaar karta hai, woh apne saare passwords tumhe de dega."
+   },
+   "fact": {
+    "en": "Privacy and trust go together. Wanting your own password, chats and space is not hiding something; demanding access as 'proof of love' is a form of control.",
+    "hi": "प्राइवेसी और भरोसा साथ-साथ चलते हैं। अपना पासवर्ड, चैट और अपनी जगह चाहना कुछ छुपाना नहीं है; 'प्यार का सबूत' कहकर एक्सेस माँगना कंट्रोल का एक रूप है।",
+    "hg": "Privacy aur trust saath-saath chalte hain. Apna password, chats aur space chahna kuch chhupana nahi hai; 'pyaar ka proof' bol kar access maangna control ka ek form hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Attraction is a normal feeling that you can notice without acting on it.",
+    "hi": "आकर्षण एक सामान्य भावना है जिसे महसूस करना काफ़ी है, उस पर कुछ करना ज़रूरी नहीं।",
+    "hg": "Attraction ek normal feeling hai jise notice karna kaafi hai, us par kuch karna zaroori nahi."
+   },
+   {
+    "en": "Respect, trust, honest communication and equality are the base of every healthy relationship.",
+    "hi": "सम्मान, भरोसा, ईमानदार बातचीत और बराबरी हर अच्छे रिश्ते की नींव हैं।",
+    "hg": "Respect, trust, honest communication aur equality har healthy relationship ki neenv hain."
+   },
+   {
+    "en": "A boundary needs no justification, and pressure after a no is not love.",
+    "hi": "बाउंड्री के लिए सफ़ाई देने की ज़रूरत नहीं, और 'ना' के बाद दबाव डालना प्यार नहीं है।",
+    "hg": "Boundary ke liye justification ki zaroorat nahi, aur 'no' ke baad pressure daalna pyaar nahi hai."
+   }
+  ],
+  "activity": {
+   "en": "Privately list two boundaries that matter to you, for example about your phone, your time or how people speak to you. Write one sentence you could use to state each one calmly.",
+   "hi": "अपने लिए दो बाउंड्री लिखो जो तुम्हारे लिए मायने रखती हैं, जैसे अपने फ़ोन, अपने समय या लोगों के तुमसे बात करने के तरीक़े को लेकर। हर एक के लिए एक वाक्य लिखो जिसे तुम शांति से कह सको।",
+   "hg": "Privately do boundaries likho jo tumhare liye matter karti hain, jaise apne phone, apne time ya log tumse kaise baat karte hain uske baare mein. Har ek ke liye ek sentence likho jo tum calmly bol sako."
+  },
+  "interactive": "relationship_radar",
+  "quiz": [
+   {
+    "id": "d06-l03-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Which of these is a sign of a healthy relationship?",
+     "hi": "इनमें से कौन-सा अच्छे रिश्ते का संकेत है?",
+     "hg": "Inme se kaunsa healthy relationship ka sign hai?"
+    },
+    "options": [
+     {
+      "en": "You can disagree without being afraid of the reaction",
+      "hi": "तुम बिना डरे असहमति जता सकते हो",
+      "hg": "Tum reaction se dare bina disagree kar sakte ho"
+     },
+     {
+      "en": "You always know each other's live location",
+      "hi": "तुम दोनों को हमेशा एक-दूसरे की लाइव लोकेशन पता रहती है",
+      "hg": "Tum dono ko hamesha ek-doosre ki live location pata rehti hai"
+     },
+     {
+      "en": "You have stopped meeting friends so that nobody gets jealous",
+      "hi": "तुमने दोस्तों से मिलना छोड़ दिया है ताकि किसी को जलन न हो",
+      "hg": "Tumne doston se milna chhod diya hai taaki kisi ko jealousy na ho"
+     },
+     {
+      "en": "Neither of you ever says no to the other",
+      "hi": "तुम दोनों एक-दूसरे को कभी ना नहीं कहते",
+      "hg": "Tum dono ek-doosre ko kabhi no nahi bolte"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Feeling safe to disagree shows respect and equality. Tracking, isolation and never saying no point towards control, not closeness.",
+     "hi": "बिना डर असहमत हो पाना सम्मान और बराबरी दिखाता है। ट्रैकिंग, दोस्तों से कटना और कभी ना न कहना क़रीबी नहीं, कंट्रोल की तरफ़ इशारा करते हैं।",
+     "hg": "Bina darr ke disagree kar paana respect aur equality dikhata hai. Tracking, isolation aur kabhi no na bolna closeness nahi, control ki taraf ishara karte hain."
+    }
+   },
+   {
+    "id": "d06-l03-q2",
+    "type": "scenario",
+    "q": {
+     "en": "Dev tells Sana, 'I don't want to share my Instagram password.' Sana keeps asking for three days and then stops talking to him. What is Sana doing?",
+     "hi": "देव सना से कहता है, 'मैं अपना इंस्टाग्राम पासवर्ड शेयर नहीं करना चाहता।' सना तीन दिन तक माँगती रहती है और फिर उससे बात करना बंद कर देती है। सना क्या कर रही है?",
+     "hg": "Dev Sana se bolta hai, 'Main apna Instagram password share nahi karna chahta.' Sana teen din tak maangti rehti hai aur phir usse baat karna band kar deti hai. Sana kya kar rahi hai?"
+    },
+    "options": [
+     {
+      "en": "Showing how much she cares",
+      "hi": "दिखा रही है कि उसे कितनी परवाह है",
+      "hg": "Dikha rahi hai ki use kitni care hai"
+     },
+     {
+      "en": "Setting a boundary of her own",
+      "hi": "अपनी ख़ुद की बाउंड्री तय कर रही है",
+      "hg": "Apni khud ki boundary set kar rahi hai"
+     },
+     {
+      "en": "Pressuring him to give up his boundary",
+      "hi": "उस पर अपनी बाउंड्री छोड़ने का दबाव डाल रही है",
+      "hg": "Us par apni boundary chhodne ka pressure daal rahi hai"
+     },
+     {
+      "en": "Resolving the disagreement fairly",
+      "hi": "असहमति को सही तरीक़े से सुलझा रही है",
+      "hg": "Disagreement ko fair tareeke se solve kar rahi hai"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "Repeating a request after a clear no and using silence as punishment are pressure tactics. A boundary is about your own limits, not about access to someone else's account.",
+     "hi": "साफ़ 'ना' के बाद बार-बार माँगना और सज़ा के तौर पर चुप हो जाना दबाव के तरीक़े हैं। बाउंड्री अपनी सीमाओं के बारे में होती है, किसी और के अकाउंट तक पहुँच के बारे में नहीं।",
+     "hg": "Clear 'no' ke baad baar-baar maangna aur punishment ki tarah silent ho jana pressure tactics hain. Boundary apni limits ke baare mein hoti hai, kisi aur ke account ke access ke baare mein nahi."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-cse",
+   "pocso-2012"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d06-l04",
+  "domain": "d06",
+  "tracks": [
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 8,
+  "unesco": [
+   1,
+   4
+  ],
+  "title": {
+   "en": "Red Flags: Spotting Unhealthy Patterns",
+   "hi": "रेड फ़्लैग: ग़लत पैटर्न पहचानना",
+   "hg": "Red Flags: Unhealthy Patterns Pehchanna"
+  },
+  "subtitle": {
+   "en": "Love bombing, gaslighting, control and abuse",
+   "hi": "लव बॉम्बिंग, गैसलाइटिंग, कंट्रोल और दुर्व्यवहार",
+   "hg": "Love bombing, gaslighting, control aur abuse"
+  },
+  "hook": {
+   "en": "Unhealthy relationships rarely begin badly. Many begin feeling like the best thing that ever happened to you. Learn the patterns, not just the labels.",
+   "hi": "ग़लत रिश्ते शुरू में बुरे नहीं लगते। कई तो ऐसे शुरू होते हैं जैसे ज़िंदगी की सबसे अच्छी चीज़ मिल गई हो। सिर्फ़ नाम नहीं, पैटर्न पहचानना सीखो।",
+   "hg": "Unhealthy relationships shuru mein bure nahi lagte. Kaafi toh aise start hote hain jaise life ki best cheez mil gayi ho. Sirf labels nahi, patterns pehchanna seekho."
+  },
+  "objectives": [
+   {
+    "en": "Recognise love bombing, gaslighting, possessiveness and control as patterns that build over time.",
+    "hi": "लव बॉम्बिंग, गैसलाइटिंग, पज़ेसिवनेस और कंट्रोल को समय के साथ बनने वाले पैटर्न के रूप में पहचान सको।",
+    "hg": "Love bombing, gaslighting, possessiveness aur control ko time ke saath banne wale patterns ki tarah pehchaan sako."
+   },
+   {
+    "en": "Distinguish emotional abuse, physical abuse and sexual coercion, and understand that none of them is the fault of the person targeted.",
+    "hi": "भावनात्मक दुर्व्यवहार, शारीरिक हिंसा और यौन दबाव में फ़र्क़ कर सको, और समझ सको कि इनमें से किसी में भी झेलने वाले की गलती नहीं होती।",
+    "hg": "Emotional abuse, physical abuse aur sexual coercion mein farq kar sako, aur samajh sako ki inme se kisi mein bhi jhelne wale ki galti nahi hoti."
+   },
+   {
+    "en": "Know safe first steps for yourself or a friend.",
+    "hi": "अपने लिए या किसी दोस्त के लिए सुरक्षित शुरुआती क़दम जान सको।",
+    "hg": "Apne liye ya kisi dost ke liye safe first steps jaan sako."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Patterns matter more than single moments",
+     "hi": "एक पल नहीं, पैटर्न मायने रखता है",
+     "hg": "Ek moment nahi, pattern matter karta hai"
+    },
+    "body": {
+     "en": "Anyone can be jealous, snappy or selfish on a bad day. One such moment does not make a person abusive, and this lesson cannot diagnose anybody. What matters is the pattern: does the behaviour repeat, does it get worse, does the person take responsibility when told, and is the effect that you feel smaller, more afraid or more cut off than before? A useful check is direction. In a healthy relationship your world slowly gets bigger. In a controlling one it shrinks: fewer friends, fewer choices, less confidence.",
+     "hi": "बुरे दिन में कोई भी जलन महसूस कर सकता है, चिड़चिड़ा या मतलबी हो सकता है। ऐसा एक पल किसी को दुर्व्यवहार करने वाला नहीं बना देता, और ये लेसन किसी के बारे में फ़ैसला नहीं सुना सकता। असली बात पैटर्न है: क्या वो बर्ताव बार-बार होता है, क्या बढ़ता जा रहा है, बताने पर क्या वो इंसान ज़िम्मेदारी लेता है, और क्या इसका असर ये है कि तुम पहले से छोटा, ज़्यादा डरा हुआ या ज़्यादा अकेला महसूस करते हो? एक काम की जाँच है दिशा। अच्छे रिश्ते में तुम्हारी दुनिया धीरे-धीरे बड़ी होती है। कंट्रोल वाले रिश्ते में सिकुड़ती है: कम दोस्त, कम विकल्प, कम आत्मविश्वास।",
+     "hg": "Bure din mein koi bhi jealous, chidchida ya selfish ho sakta hai. Aisa ek moment kisi ko abusive nahi bana deta, aur yeh lesson kisi ko diagnose nahi kar sakta. Asli baat pattern hai: kya woh behaviour baar-baar hota hai, kya badhta ja raha hai, batane par kya woh insaan responsibility leta hai, aur kya iska asar yeh hai ki tum pehle se chhota, zyada dara hua ya zyada cut off feel karte ho? Ek kaam ka check hai direction. Healthy relationship mein tumhari duniya dheere-dheere badi hoti hai. Controlling relationship mein sikudti hai: kam dost, kam choices, kam confidence."
+    }
+   },
+   {
+    "h": {
+     "en": "Love bombing and possessiveness",
+     "hi": "लव बॉम्बिंग और पज़ेसिवनेस",
+     "hg": "Love bombing aur possessiveness"
+    },
+    "body": {
+     "en": "Love bombing is overwhelming attention very early: constant messages, big gifts, 'you are my everything' within days, pressure to commit fast. Warmth early on is not a problem in itself. It becomes a warning pattern when the intensity is used to rush you, and when affection is withdrawn the moment you want space. Possessiveness often follows: checking your phone, deciding your clothes, objecting to your friends, demanding instant replies, turning up uninvited. It is usually explained as care or protection. The test is simple: care respects your no, control punishes it.",
+     "hi": "लव बॉम्बिंग यानी बहुत जल्दी, बहुत ज़्यादा ध्यान: लगातार मैसेज, बड़े तोहफ़े, कुछ ही दिनों में 'तुम ही मेरा सब कुछ हो', जल्दी कमिट करने का दबाव। शुरुआत में गर्मजोशी अपने आप में कोई समस्या नहीं है। ये चेतावनी वाला पैटर्न तब बनता है जब इस तेज़ी का इस्तेमाल तुम्हें जल्दबाज़ी में धकेलने के लिए हो, और जैसे ही तुम थोड़ी जगह माँगो, प्यार वापस खींच लिया जाए। इसके बाद अक्सर पज़ेसिवनेस आती है: फ़ोन चेक करना, कपड़े तय करना, दोस्तों पर एतराज़, तुरंत जवाब की माँग, बिना बुलाए पहुँच जाना। इसे अक्सर परवाह या हिफ़ाज़त कहा जाता है। जाँच सीधी है: परवाह तुम्हारी 'ना' मानती है, कंट्रोल उसकी सज़ा देता है।",
+     "hg": "Love bombing matlab bahut jaldi, bahut zyada attention: non-stop messages, bade gifts, kuch hi dinon mein 'tum hi mera sab kuch ho', jaldi commit karne ka pressure. Shuru mein warmth apne aap mein koi problem nahi hai. Yeh warning pattern tab banta hai jab is intensity ka use tumhe rush karne ke liye ho, aur jaise hi tum thoda space maango, affection wapas kheench liya jaye. Iske baad aksar possessiveness aati hai: phone check karna, kapde decide karna, doston par objection, instant reply ki demand, bina bulaye pahunch jana. Ise aksar care ya protection bola jata hai. Test simple hai: care tumhari 'no' maanti hai, control uski saza deta hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Gaslighting and emotional manipulation",
+     "hi": "गैसलाइटिंग और भावनात्मक चालाकी",
+     "hg": "Gaslighting aur emotional manipulation"
+    },
+    "body": {
+     "en": "Gaslighting is repeatedly making someone doubt their own memory and judgement: 'That never happened', 'You're too sensitive', even when you clearly remember. Over time you stop trusting yourself and rely on their version. Other manipulation tactics include guilt-tripping, the silent treatment as punishment, threatening to leave or to self-harm unless you obey, and blaming you for their anger. Always take a self-harm threat seriously: tell their family or a trusted adult, call Tele-MANAS 14416, or 112 in danger; you still do not have to obey or stay. Memories also differ honestly, so look for a repeated pattern. Private notes, kept where nobody else can read them, can help.",
+     "hi": "गैसलाइटिंग यानी किसी को बार-बार उसकी अपनी याददाश्त और समझ पर शक कराना: 'ऐसा कभी हुआ ही नहीं', 'तुम बहुत सेंसिटिव हो', जबकि तुम्हें साफ़ याद है। धीरे-धीरे तुम ख़ुद पर भरोसा करना छोड़ देते हो और उसी की बात को सच मानने लगते हो। चालाकी के और तरीक़े हैं: अपराध-बोध कराना, सज़ा के तौर पर चुप्पी, बात न मानने पर छोड़ देने या ख़ुद को नुक़सान पहुँचाने की धमकी, और अपने ग़ुस्से का दोष तुम पर डालना। ख़ुद को नुक़सान पहुँचाने की धमकी को हमेशा गंभीरता से लो: उसके परिवार या किसी भरोसेमंद बड़े को बताओ, टेली-मानस 14416 पर कॉल करो, या ख़तरा हो तो 112 पर; फिर भी तुम्हें बात मानने या रिश्ते में रुकने की ज़रूरत नहीं। यादें ईमानदारी से भी अलग होती हैं, इसलिए बार-बार दोहराया जाने वाला पैटर्न देखो। ऐसी जगह रखे निजी नोट्स, जहाँ कोई और उन्हें पढ़ न सके, मदद कर सकते हैं।",
+     "hg": "Gaslighting matlab kisi ko baar-baar uski apni memory aur judgement par doubt karana: 'Aisa kabhi hua hi nahi', 'Tum bahut sensitive ho', jabki tumhe clearly yaad hai. Dheere-dheere tum khud par trust karna chhod dete ho aur usi ke version ko sach maanne lagte ho. Manipulation ke aur tareeke hain: guilt-trip karna, punishment ki tarah silent treatment, baat na maanne par chhod dene ya khud ko harm karne ki dhamki, aur apne gusse ka blame tum par daalna. Self-harm ki dhamki ko hamesha seriously lo: uski family ya kisi trusted adult ko batao, Tele-MANAS 14416 par call karo, ya danger ho toh 112 par; phir bhi tumhe baat maanne ya relationship mein rukne ki zaroorat nahi. Memories honestly bhi alag hoti hain, isliye repeated pattern dekho. Aisi jagah rakhe private notes, jahan koi aur unhe padh na sake, help kar sakte hain."
+    }
+   },
+   {
+    "h": {
+     "en": "When it is abuse, and what to do",
+     "hi": "जब ये दुर्व्यवहार हो, तब क्या करें",
+     "hg": "Jab yeh abuse ho, tab kya karein"
+    },
+    "body": {
+     "en": "Emotional abuse is ongoing insults, humiliation, threats or control. Physical abuse includes hitting, slapping, pushing, grabbing or throwing things. Sexual coercion is pressuring, guilt-tripping, threatening or wearing someone down into sexual activity or into sending images; with anyone under 18 it is an offence under POCSO whatever was 'agreed'. None of this is caused by the person on the receiving end. Tell someone you trust: a parent, teacher, counsellor or friend. Call 1098 if you are under 18, 181 for women, or 112 in danger. If a friend confides in you, believe them, do not push, and help them reach an adult.",
+     "hi": "भावनात्मक दुर्व्यवहार यानी लगातार अपमान, नीचा दिखाना, धमकियाँ या कंट्रोल। शारीरिक हिंसा में मारना, थप्पड़, धक्का देना, ज़ोर से पकड़ना या चीज़ें फेंकना शामिल है। यौन दबाव (sexual coercion) यानी किसी पर दबाव डालकर, अपराध-बोध कराकर, धमकाकर या थकाकर यौन गतिविधि या तस्वीरें भेजने के लिए मनवाना; 18 से कम उम्र के किसी भी व्यक्ति के साथ ये POCSO के तहत अपराध है, चाहे 'हाँ' कही गई हो। इनमें से कुछ भी झेलने वाले की वजह से नहीं होता। किसी भरोसेमंद इंसान को बताओ: माता-पिता, टीचर, काउंसलर या दोस्त। 18 से कम हो तो 1098, महिलाओं के लिए 181, और ख़तरे में 112 पर कॉल करो। अगर कोई दोस्त तुम्हें बताए, तो उस पर यक़ीन करो, ज़ोर मत डालो, और किसी बड़े तक पहुँचने में उसकी मदद करो।",
+     "hg": "Emotional abuse matlab lagataar insults, humiliation, dhamkiyan ya control. Physical abuse mein maarna, thappad, dhakka dena, zor se pakadna ya cheezein phenkna aata hai. Sexual coercion matlab kisi par pressure daal kar, guilt-trip karke, dhamka kar ya thaka kar sexual activity ya images bhejne ke liye manwana; 18 se kam umar ke kisi bhi insaan ke saath yeh POCSO ke under offence hai, chahe 'haan' boli gayi ho. Inme se kuch bhi jhelne wale ki wajah se nahi hota. Kisi trusted insaan ko batao: parent, teacher, counsellor ya dost. 18 se kam ho toh 1098, women ke liye 181, aur danger mein 112 par call karo. Agar koi dost tumhe bataye, toh us par believe karo, push mat karo, aur kisi adult tak pahunchne mein uski help karo."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "If it was really that bad, they would just leave.",
+    "hi": "अगर सच में इतना बुरा होता, तो वो छोड़कर चले जाते।",
+    "hg": "Agar sach mein itna bura hota, toh woh chhod kar chale jate."
+   },
+   "fact": {
+    "en": "Leaving is hard for real reasons: fear, hope that the person will change, shame, family pressure, threats and shrinking confidence. Many people need several attempts and outside support. Asking 'why don't you just leave?' adds blame; asking 'how can I help?' opens a door.",
+    "hi": "छोड़ना असली वजहों से मुश्किल होता है: डर, उम्मीद कि वो बदल जाएगा, शर्म, परिवार का दबाव, धमकियाँ और घटता आत्मविश्वास। कई लोगों को कई कोशिशें और बाहर की मदद लगती है। 'छोड़ क्यों नहीं देते?' पूछना दोष बढ़ाता है; 'मैं कैसे मदद करूँ?' पूछना रास्ता खोलता है।",
+    "hg": "Chhodna real reasons se mushkil hota hai: darr, hope ki woh badal jayega, sharam, family pressure, dhamkiyan aur girta confidence. Kaafi logon ko kai attempts aur bahar ka support lagta hai. 'Chhod kyun nahi dete?' poochna blame badhata hai; 'Main kaise help karoon?' poochna darwaza kholta hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "One bad moment is not abuse; a repeated pattern that leaves you smaller, scared or isolated is a serious warning.",
+    "hi": "एक बुरा पल दुर्व्यवहार नहीं है; बार-बार का पैटर्न जो तुम्हें छोटा, डरा हुआ या अकेला कर दे, गंभीर चेतावनी है।",
+    "hg": "Ek bura moment abuse nahi hai; baar-baar ka pattern jo tumhe chhota, dara hua ya isolated kar de, serious warning hai."
+   },
+   {
+    "en": "Love bombing, possessiveness and gaslighting are ways of gaining control that are often presented as love or care.",
+    "hi": "लव बॉम्बिंग, पज़ेसिवनेस और गैसलाइटिंग कंट्रोल पाने के तरीक़े हैं जिन्हें अक्सर प्यार या परवाह बताया जाता है।",
+    "hg": "Love bombing, possessiveness aur gaslighting control paane ke tareeke hain jinhe aksar pyaar ya care bol kar dikhaya jata hai."
+   },
+   {
+    "en": "Abuse is never the fault of the person experiencing it, and help is available on 1098, 181 and 112.",
+    "hi": "दुर्व्यवहार में झेलने वाले की कभी गलती नहीं होती, और 1098, 181 और 112 पर मदद मिलती है।",
+    "hg": "Abuse mein jhelne wale ki kabhi galti nahi hoti, aur 1098, 181 aur 112 par help milti hai."
+   }
+  ],
+  "activity": {
+   "en": "Think of a couple from a film or series you know. Privately note two behaviours shown as 'romantic' that would be controlling in real life, and what a respectful version would look like.",
+   "hi": "किसी फ़िल्म या सीरीज़ के एक जोड़े के बारे में सोचो। अपने लिए दो ऐसे बर्ताव लिखो जिन्हें 'रोमांटिक' दिखाया गया पर असल ज़िंदगी में वो कंट्रोल होते, और लिखो कि उनका सम्मान वाला रूप कैसा दिखता।",
+   "hg": "Kisi film ya series ke ek couple ke baare mein socho. Privately do aise behaviours note karo jinhe 'romantic' dikhaya gaya par real life mein woh controlling hote, aur likho ki unka respectful version kaisa dikhta."
+  },
+  "interactive": "relationship_radar",
+  "quiz": [
+   {
+    "id": "d06-l04-q1",
+    "type": "mcq",
+    "q": {
+     "en": "What best separates a rough patch from an abusive pattern?",
+     "hi": "मुश्किल दौर और दुर्व्यवहार के पैटर्न में सबसे बड़ा फ़र्क़ क्या है?",
+     "hg": "Rough patch aur abusive pattern mein sabse bada farq kya hai?"
+    },
+    "options": [
+     {
+      "en": "Whether the couple ever argues",
+      "hi": "दोनों में कभी बहस होती है या नहीं",
+      "hg": "Couple mein kabhi argument hota hai ya nahi"
+     },
+     {
+      "en": "Whether the behaviour repeats, escalates and leaves one person afraid or isolated",
+      "hi": "बर्ताव बार-बार होता है, बढ़ता है और एक इंसान को डरा हुआ या अकेला छोड़ देता है या नहीं",
+      "hg": "Behaviour baar-baar hota hai, badhta hai aur ek insaan ko dara hua ya isolated chhod deta hai ya nahi"
+     },
+     {
+      "en": "How long the two have been together",
+      "hi": "दोनों कितने समय से साथ हैं",
+      "hg": "Dono kitne time se saath hain"
+     },
+     {
+      "en": "Whether other people have noticed anything",
+      "hi": "दूसरों ने कुछ नोटिस किया है या नहीं",
+      "hg": "Doosron ne kuch notice kiya hai ya nahi"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Arguments happen in healthy relationships too. Repetition, escalation and the effect of fear or isolation are what mark a harmful pattern.",
+     "hi": "बहस अच्छे रिश्तों में भी होती है। बार-बार होना, बढ़ते जाना और डर या अकेलेपन का असर ही नुक़सानदेह पैटर्न की पहचान है।",
+     "hg": "Arguments healthy relationships mein bhi hote hain. Baar-baar hona, escalate hona aur darr ya isolation ka asar hi harmful pattern ki pehchaan hai."
+    }
+   },
+   {
+    "id": "d06-l04-q2",
+    "type": "scenario",
+    "q": {
+     "en": "Your friend Riya says her boyfriend checks her phone every day and she is 'not allowed' to meet you any more. What is the most helpful first response?",
+     "hi": "तुम्हारी दोस्त रिया बताती है कि उसका बॉयफ़्रेंड रोज़ उसका फ़ोन चेक करता है और अब उसे तुमसे मिलने की 'इजाज़त नहीं' है। सबसे मददगार पहला जवाब क्या होगा?",
+     "hg": "Tumhari dost Riya batati hai ki uska boyfriend roz uska phone check karta hai aur ab use tumse milne ki 'permission nahi' hai. Sabse helpful first response kya hoga?"
+    },
+    "options": [
+     {
+      "en": "Tell her he is abusive and she must break up today",
+      "hi": "उसे कहो कि वो अब्यूसिव है और आज ही ब्रेकअप करना होगा",
+      "hg": "Use bolo ki woh abusive hai aur aaj hi breakup karna hoga"
+     },
+     {
+      "en": "Confront the boyfriend yourself",
+      "hi": "ख़ुद जाकर बॉयफ़्रेंड से भिड़ जाओ",
+      "hg": "Khud jaa kar boyfriend ko confront karo"
+     },
+     {
+      "en": "Keep your distance until she sorts it out",
+      "hi": "जब तक वो ख़ुद सुलझा न ले, दूरी बना लो",
+      "hg": "Jab tak woh khud sort na kar le, distance bana lo"
+     },
+     {
+      "en": "Listen, say you are worried and there for her, and suggest talking to a trusted adult",
+      "hi": "उसकी बात सुनो, कहो कि तुम्हें चिंता है और तुम साथ हो, और किसी भरोसेमंद बड़े से बात करने का सुझाव दो",
+      "hg": "Uski baat suno, bolo ki tumhe chinta hai aur tum saath ho, aur kisi trusted adult se baat karne ka suggestion do"
+     }
+    ],
+    "answer": 3,
+    "explain": {
+     "en": "Labelling and ultimatums often make a person defend the partner and pull away. Staying connected, naming your concern and pointing to adult help keeps her safer.",
+     "hi": "ठप्पा लगाने और अल्टीमेटम देने से इंसान अक्सर पार्टनर का बचाव करने लगता है और दूर हो जाता है। जुड़े रहना, अपनी चिंता बताना और बड़ों की मदद की तरफ़ इशारा करना उसे ज़्यादा सुरक्षित रखता है।",
+     "hg": "Label lagane aur ultimatum dene se insaan aksar partner ko defend karne lagta hai aur door ho jata hai. Connected rehna, apni concern batana aur adult help ki taraf point karna use zyada safe rakhta hai."
+    }
+   }
+  ],
+  "refs": [
+   "who-vaw",
+   "unesco-itgse",
+   "pocso-2012",
+   "wcd-childline"
+  ],
+  "warning": {
+   "en": "If you or someone you know is being hurt or threatened, call 112 in an emergency, Child Helpline 1098 (under 18) or Women Helpline 181. This lesson explains patterns; it cannot judge any one person or relationship.",
+   "hi": "अगर तुम्हें या तुम्हारे किसी जानने वाले को चोट पहुँचाई जा रही है या धमकाया जा रहा है, तो इमरजेंसी में 112, चाइल्ड हेल्पलाइन 1098 (18 से कम उम्र) या महिला हेल्पलाइन 181 पर कॉल करो। ये लेसन पैटर्न समझाता है; किसी एक इंसान या रिश्ते पर फ़ैसला नहीं दे सकता।",
+   "hg": "Agar tumhe ya tumhare kisi jaanne wale ko hurt kiya ja raha hai ya dhamkaya ja raha hai, toh emergency mein 112, Child Helpline 1098 (18 se kam) ya Women Helpline 181 par call karo. Yeh lesson patterns samjhata hai; kisi ek insaan ya relationship ko judge nahi kar sakta."
+  },
+  "sensitive": true,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d06-l05",
+  "domain": "d06",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 3,
+  "minutes": 8,
+  "unesco": [
+   1,
+   2,
+   4
+  ],
+  "title": {
+   "en": "Adult Relationships: Closeness, Conflict and Commitment",
+   "hi": "वयस्क रिश्ते: नज़दीकी, टकराव और कमिटमेंट",
+   "hg": "Adult Relationships: Closeness, Conflict aur Commitment"
+  },
+  "subtitle": {
+   "en": "Emotional intimacy, fair fights, distance and consent in marriage",
+   "hi": "भावनात्मक नज़दीकी, सही तरीक़े से झगड़ना, दूरी और शादी में सहमति",
+   "hg": "Emotional intimacy, fair fights, long-distance aur shaadi mein consent"
+  },
+  "hook": {
+   "en": "Chemistry gets a relationship started. What keeps it healthy is duller and far more useful: honest talk, fair fights and consent that never expires.",
+   "hi": "केमिस्ट्री रिश्ता शुरू करवाती है। उसे अच्छा बनाए रखती हैं कम चमकदार पर कहीं ज़्यादा काम की चीज़ें: ईमानदार बातचीत, सही तरीक़े से झगड़ना और ऐसी सहमति जो कभी एक्सपायर नहीं होती।",
+   "hg": "Chemistry relationship start karwati hai. Use healthy rakhti hain thodi boring par kahin zyada kaam ki cheezein: honest baat, fair fights aur aisa consent jo kabhi expire nahi hota."
+  },
+  "objectives": [
+   {
+    "en": "Explain what emotional intimacy is and how it is built.",
+    "hi": "समझा सको कि भावनात्मक नज़दीकी क्या है और कैसे बनती है।",
+    "hg": "Samjha sako ki emotional intimacy kya hai aur kaise banti hai."
+   },
+   {
+    "en": "Use basic conflict-resolution tools without contempt, threats or stonewalling.",
+    "hi": "तिरस्कार, धमकी या चुप्पी की दीवार के बिना टकराव सुलझाने के बुनियादी तरीक़े इस्तेमाल कर सको।",
+    "hg": "Contempt, dhamki ya stonewalling ke bina conflict resolve karne ke basic tools use kar sako."
+   },
+   {
+    "en": "Understand that consent stays necessary inside marriage and know where to seek help.",
+    "hi": "समझ सको कि शादी के अंदर भी सहमति ज़रूरी रहती है और जान सको कि मदद कहाँ मिलेगी।",
+    "hg": "Samajh sako ki shaadi ke andar bhi consent zaroori rehta hai aur jaan sako ki help kahan milegi."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Emotional intimacy and expectations",
+     "hi": "भावनात्मक नज़दीकी और उम्मीदें",
+     "hg": "Emotional intimacy aur expectations"
+    },
+    "body": {
+     "en": "Emotional intimacy is feeling safe enough to be known: sharing fears, failures, money worries and hopes without being mocked or having them used against you later. It is built slowly, through small disclosures that are met with care. It also needs clear expectations. Before a serious commitment or marriage, talk plainly about money, careers, where you will live, the role of families, children or no children, household work, faith and sexual health. In arranged and love matches alike, unspoken assumptions such as 'obviously you'll quit your job' become later fights. Differing is fine; discovering the difference after the wedding is costly.",
+     "hi": "भावनात्मक नज़दीकी (emotional intimacy) यानी इतना सुरक्षित महसूस करना कि सामने वाला तुम्हें सच में जान सके: अपने डर, नाकामियाँ, पैसों की चिंता और उम्मीदें बता पाना, बिना इस डर के कि मज़ाक उड़ेगा या बाद में यही बातें तुम्हारे ख़िलाफ़ इस्तेमाल होंगी। ये धीरे-धीरे बनती है, छोटी-छोटी बातें बताने से जिन्हें परवाह के साथ सुना जाए। इसके लिए साफ़ उम्मीदें भी ज़रूरी हैं। किसी गंभीर कमिटमेंट या शादी से पहले खुलकर बात करो: पैसा, करियर, कहाँ रहेंगे, परिवारों की भूमिका, बच्चे चाहिए या नहीं, घर का काम, आस्था और यौन स्वास्थ्य। अरेंज्ड हो या लव मैरिज, 'ज़ाहिर है तुम नौकरी छोड़ दोगी' जैसी अनकही धारणाएँ आगे चलकर झगड़े बनती हैं। अलग सोच होना ठीक है; ये फ़र्क़ शादी के बाद पता चलना महँगा पड़ता है।",
+     "hg": "Emotional intimacy matlab itna safe feel karna ki saamne wala tumhe sach mein jaan sake: apne darr, failures, paison ki tension aur hopes share kar paana, bina is darr ke ki mazaak udega ya baad mein yahi baatein tumhare against use hongi. Yeh dheere-dheere banti hai, chhoti-chhoti baatein share karne se jinhe care ke saath suna jaye. Iske liye clear expectations bhi zaroori hain. Kisi serious commitment ya shaadi se pehle khul kar baat karo: paisa, career, kahan rahenge, families ka role, bachche chahiye ya nahi, ghar ka kaam, faith aur sexual health. Arranged ho ya love marriage, 'obviously tum job chhod dogi' jaisi unspoken assumptions aage chal kar jhagde banti hain. Alag sochna theek hai; yeh farq shaadi ke baad pata chalna mehenga padta hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Fighting fair",
+     "hi": "सही तरीक़े से झगड़ना",
+     "hg": "Fair tareeke se ladna"
+    },
+    "body": {
+     "en": "Conflict is normal between two people with different histories. What predicts trouble is how you fight. Helpful habits: raise one issue at a time, describe the behaviour instead of attacking character ('I felt ignored when plans changed', not 'you're selfish'), listen and repeat back what you heard, and take a break when voices rise, with a promise to return. Avoid contempt, name-calling, dragging in old mistakes, threats to leave used as a weapon and long punishing silences. Aim for a solution both can live with, not a winner. Fear of your partner's reaction, though, is not a communication problem; it is a safety problem.",
+     "hi": "अलग-अलग पृष्ठभूमि वाले दो लोगों में टकराव होना सामान्य है। मुश्किल का अंदाज़ा इससे लगता है कि तुम झगड़ते कैसे हो। काम की आदतें: एक बार में एक ही मुद्दा उठाओ, इंसान के चरित्र पर हमला करने के बजाय बर्ताव बताओ ('प्लान बदलने पर मुझे अनदेखा महसूस हुआ', न कि 'तुम मतलबी हो'), सुनो और जो सुना उसे दोहराओ, और आवाज़ें ऊँची होने लगें तो ब्रेक लो, इस वादे के साथ कि बात पर लौटोगे। तिरस्कार, गाली-गलौज, पुरानी गलतियाँ घसीटना, छोड़ने की धमकी को हथियार बनाना और सज़ा वाली लंबी चुप्पी से बचो। मक़सद ऐसा हल हो जिसके साथ दोनों रह सकें, जीत-हार नहीं। लेकिन पार्टनर की प्रतिक्रिया से डर लगना बातचीत की समस्या नहीं है; वो सुरक्षा की समस्या है।",
+     "hg": "Alag-alag background wale do logon mein conflict hona normal hai. Trouble ka andaza isse lagta hai ki tum ladte kaise ho. Kaam ki aadatein: ek baar mein ek hi issue uthao, insaan ke character par attack karne ke bajaye behaviour batao ('Plan badalne par mujhe ignored feel hua', na ki 'tum selfish ho'), suno aur jo suna use repeat karo, aur awaazein oonchi hone lagein toh break lo, is promise ke saath ki baat par wapas aaoge. Contempt, name-calling, purani galtiyan ghaseetna, chhodne ki dhamki ko weapon banana aur punishment wali lambi silence se bacho. Goal aisa solution ho jiske saath dono reh sakein, jeet-haar nahi. Lekin partner ke reaction se darr lagna communication problem nahi hai; woh safety problem hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Long-distance and digital closeness",
+     "hi": "लॉन्ग-डिस्टेंस और डिजिटल नज़दीकी",
+     "hg": "Long-distance aur digital closeness"
+    },
+    "body": {
+     "en": "Jobs, studies and migration keep many Indian couples in different cities or countries. Distance works better when both agree on the basics: how often you will talk, what 'exclusive' means, how visits and costs are shared, and whether there is a plan to live in the same place eventually. Regular calls help, but constant tracking does not build trust. Demanding live location, instant replies or video proof of where someone is counts as surveillance. Keep your own friends and routine. If intimate images are ever shared, that needs free consent each time, and passing them on without consent is a crime.",
+     "hi": "नौकरी, पढ़ाई और पलायन की वजह से बहुत से भारतीय जोड़े अलग शहरों या देशों में रहते हैं। दूरी तब बेहतर चलती है जब दोनों बुनियादी बातों पर सहमत हों: कितनी बार बात होगी, 'एक्सक्लूसिव' का मतलब क्या है, मिलने का समय और ख़र्च कैसे बँटेगा, और क्या आगे चलकर एक जगह रहने की कोई योजना है। नियमित कॉल मदद करते हैं, पर लगातार ट्रैकिंग से भरोसा नहीं बनता। लाइव लोकेशन, तुरंत जवाब या 'कहाँ हो' का वीडियो सबूत माँगना निगरानी है। अपने दोस्त और अपनी दिनचर्या बनाए रखो। अगर कभी निजी तस्वीरें शेयर हों, तो हर बार बिना दबाव की सहमति ज़रूरी है, और बिना सहमति उन्हें आगे भेजना अपराध है।",
+     "hg": "Job, padhai aur migration ki wajah se bahut se Indian couples alag cities ya countries mein rehte hain. Distance tab better chalti hai jab dono basics par agree hon: kitni baar baat hogi, 'exclusive' ka matlab kya hai, visits ka time aur kharcha kaise share hoga, aur kya aage chal kar ek jagah rehne ka koi plan hai. Regular calls help karte hain, par constant tracking se trust nahi banta. Live location, instant reply ya 'kahan ho' ka video proof maangna surveillance hai. Apne dost aur apna routine banaye rakho. Agar kabhi intimate images share hon, toh har baar bina pressure ka consent zaroori hai, aur bina consent unhe aage bhejna crime hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Marriage is not consent",
+     "hi": "शादी सहमति नहीं है",
+     "hg": "Shaadi consent nahi hai"
+    },
+    "body": {
+     "en": "A wedding does not create a permanent yes. Each partner keeps the right to refuse sexual activity on any day, for any reason, and pressure, threats or force inside a marriage cause real harm. Indian criminal law currently keeps an exception under which intercourse by a man with his adult wife is not classed as rape; this is contested and before the courts. Other remedies exist: the Protection of Women from Domestic Violence Act, 2005 covers physical, sexual, verbal, emotional and economic abuse and allows protection orders. Women Helpline 181 and 112 can guide you. Laws change, and this is not legal advice.",
+     "hi": "शादी से हमेशा के लिए 'हाँ' नहीं बन जाती। हर पार्टनर को किसी भी दिन, किसी भी वजह से यौन गतिविधि से मना करने का हक़ रहता है, और शादी के अंदर दबाव, धमकी या ज़बरदस्ती से असली नुक़सान होता है। भारतीय आपराधिक क़ानून में फ़िलहाल एक अपवाद बना हुआ है, जिसके तहत पति का अपनी बालिग़ पत्नी के साथ संभोग 'बलात्कार' की श्रेणी में नहीं आता; इस पर विवाद है और मामला अदालतों में है। दूसरे क़ानूनी रास्ते मौजूद हैं: घरेलू हिंसा से महिलाओं का संरक्षण अधिनियम, 2005 शारीरिक, यौन, मौखिक, भावनात्मक और आर्थिक दुर्व्यवहार को कवर करता है और संरक्षण आदेश की सुविधा देता है। महिला हेल्पलाइन 181 और 112 रास्ता बता सकती हैं। क़ानून बदलते रहते हैं, और ये क़ानूनी सलाह नहीं है।",
+     "hg": "Shaadi se permanent 'yes' nahi ban jati. Har partner ko kisi bhi din, kisi bhi reason se sexual activity ko mana karne ka haq rehta hai, aur shaadi ke andar pressure, dhamki ya zabardasti se real harm hota hai. Indian criminal law mein filhaal ek exception bana hua hai, jiske under pati ka apni adult patni ke saath intercourse 'rape' ki category mein nahi aata; is par vivaad hai aur maamla courts mein hai. Doosre legal raaste maujood hain: Protection of Women from Domestic Violence Act, 2005 physical, sexual, verbal, emotional aur economic abuse ko cover karta hai aur protection orders ki suvidha deta hai. Women Helpline 181 aur 112 guide kar sakti hain. Laws badalte rehte hain, aur yeh legal advice nahi hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Couples who truly love each other never need to talk about boundaries; they just know.",
+    "hi": "जो जोड़े सच में प्यार करते हैं, उन्हें बाउंड्री पर बात करने की ज़रूरत नहीं पड़ती; उन्हें बस पता होता है।",
+    "hg": "Jo couples sach mein pyaar karte hain, unhe boundaries par baat karne ki zaroorat nahi padti; unhe bas pata hota hai."
+   },
+   "fact": {
+    "en": "Nobody can read minds. Saying needs and limits out loud prevents misunderstandings; it does not kill romance. Guessing breeds resentment, while asking gives you real information.",
+    "hi": "कोई किसी का मन नहीं पढ़ सकता। अपनी ज़रूरतें और सीमाएँ बोलकर बताने से ग़लतफ़हमियाँ रुकती हैं; इससे रोमांस ख़त्म नहीं होता। अंदाज़े लगाने से मन में कड़वाहट पलती है, जबकि पूछने से असली जानकारी मिलती है।",
+    "hg": "Koi kisi ka mind nahi padh sakta. Apni needs aur limits bol kar batane se misunderstandings rukti hain; isse romance khatam nahi hota. Guess karne se resentment palta hai, jabki poochne se real information milti hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Emotional intimacy grows when honesty is met with care, not mockery.",
+    "hi": "भावनात्मक नज़दीकी तब बढ़ती है जब ईमानदारी का जवाब परवाह से मिले, मज़ाक से नहीं।",
+    "hg": "Emotional intimacy tab badhti hai jab honesty ka jawab care se mile, mazaak se nahi."
+   },
+   {
+    "en": "Fair conflict targets the problem, not the person, and never relies on fear.",
+    "hi": "सही झगड़ा समस्या पर होता है, इंसान पर नहीं, और कभी डर पर नहीं टिकता।",
+    "hg": "Fair conflict problem par hota hai, insaan par nahi, aur kabhi darr par nahi tikta."
+   },
+   {
+    "en": "Marriage does not replace consent, and legal and helpline support exists when a partner uses force or pressure.",
+    "hi": "शादी सहमति की जगह नहीं ले सकती, और पार्टनर ज़बरदस्ती या दबाव डाले तो क़ानूनी और हेल्पलाइन मदद मौजूद है।",
+    "hg": "Shaadi consent ko replace nahi karti, aur partner force ya pressure use kare toh legal aur helpline support maujood hai."
+   }
+  ],
+  "activity": {
+   "en": "Write down five topics you would want to discuss before a long-term commitment, for example money, careers and family roles. Note your own honest position on each before imagining a partner's.",
+   "hi": "पाँच विषय लिखो जिन पर तुम किसी लंबे कमिटमेंट से पहले बात करना चाहोगे, जैसे पैसा, करियर और परिवार की भूमिकाएँ। पार्टनर की राय सोचने से पहले हर विषय पर अपनी ईमानदार राय लिखो।",
+   "hg": "Paanch topics likho jin par tum kisi long-term commitment se pehle baat karna chahoge, jaise paisa, career aur family roles. Partner ki opinion imagine karne se pehle har topic par apni honest position note karo."
+  },
+  "interactive": "communication",
+  "quiz": [
+   {
+    "id": "d06-l05-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Which sentence follows the fair-fighting approach?",
+     "hi": "कौन-सा वाक्य सही तरीक़े से झगड़ने के नियम पर चलता है?",
+     "hg": "Kaunsa sentence fair-fighting approach follow karta hai?"
+    },
+    "options": [
+     {
+      "en": "You always ruin everything.",
+      "hi": "तुम हमेशा सब कुछ बिगाड़ देते हो।",
+      "hg": "Tum hamesha sab kuch bigaad dete ho."
+     },
+     {
+      "en": "Fine, do whatever you want. I'm done talking.",
+      "hi": "ठीक है, जो मन करे करो। मुझे अब बात नहीं करनी।",
+      "hg": "Theek hai, jo mann kare karo. Mujhe ab baat nahi karni."
+     },
+     {
+      "en": "I felt hurt when the plan changed without telling me. Can we talk about it?",
+      "hi": "बिना बताए प्लान बदला तो मुझे बुरा लगा। क्या हम इस पर बात कर सकते हैं?",
+      "hg": "Bina bataye plan badla toh mujhe hurt hua. Kya hum is par baat kar sakte hain?"
+     },
+     {
+      "en": "My family was right about you.",
+      "hi": "मेरे घरवाले तुम्हारे बारे में सही कहते थे।",
+      "hg": "Mere gharwale tumhare baare mein sahi kehte the."
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "It names one specific behaviour and your feeling, and invites a conversation. The others attack character, shut the talk down or bring in outsiders as weapons.",
+     "hi": "ये एक ख़ास बर्ताव और अपनी भावना बताता है और बातचीत का न्योता देता है। बाक़ी वाक्य चरित्र पर हमला करते हैं, बात बंद कर देते हैं या बाहर वालों को हथियार बनाते हैं।",
+     "hg": "Yeh ek specific behaviour aur apni feeling batata hai aur conversation invite karta hai. Baaki sentences character par attack karte hain, baat band kar dete hain ya bahar walon ko weapon banate hain."
+    }
+   },
+   {
+    "id": "d06-l05-q2",
+    "type": "tf",
+    "q": {
+     "en": "After marriage, a spouse no longer has the right to refuse sexual activity.",
+     "hi": "शादी के बाद पति या पत्नी को यौन गतिविधि से मना करने का हक़ नहीं रहता।",
+     "hg": "Shaadi ke baad spouse ko sexual activity se mana karne ka haq nahi rehta."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Marriage is not consent. Every person keeps the right to say no at any time, and force or pressure within marriage is harmful whatever the current criminal-law exception says.",
+     "hi": "शादी सहमति नहीं है। हर इंसान को किसी भी समय ना कहने का हक़ रहता है, और शादी के अंदर ज़बरदस्ती या दबाव नुक़सानदेह है, चाहे आपराधिक क़ानून का मौजूदा अपवाद कुछ भी कहे।",
+     "hg": "Shaadi consent nahi hai. Har insaan ko kisi bhi time no bolne ka haq rehta hai, aur shaadi ke andar force ya pressure harmful hai, chahe criminal law ka current exception kuch bhi bole."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-vaw",
+   "bns-2023",
+   "who-sexual-health"
+  ],
+  "warning": {
+   "en": "If a partner or spouse uses force, threats or pressure, you can call Women Helpline 181 or Emergency 112. This lesson is general education, not legal advice, and laws can change.",
+   "hi": "अगर पार्टनर या पति/पत्नी ज़बरदस्ती, धमकी या दबाव का इस्तेमाल करे, तो महिला हेल्पलाइन 181 या इमरजेंसी 112 पर कॉल कर सकते हो। ये लेसन सामान्य शिक्षा है, क़ानूनी सलाह नहीं, और क़ानून बदल सकते हैं।",
+   "hg": "Agar partner ya spouse force, dhamki ya pressure use kare, toh Women Helpline 181 ya Emergency 112 par call kar sakte ho. Yeh lesson general education hai, legal advice nahi, aur laws badal sakte hain."
+  },
+  "sensitive": true,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d06-l06",
+  "domain": "d06",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   1,
+   5
+  ],
+  "title": {
+   "en": "Rejection, Breakups and Self-Worth",
+   "hi": "रिजेक्शन, ब्रेकअप और आत्म-सम्मान",
+   "hg": "Rejection, Breakups aur Self-Worth"
+  },
+  "subtitle": {
+   "en": "How to hear no, end things decently and get back up",
+   "hi": "'ना' कैसे सुनें, रिश्ता शालीनता से कैसे ख़त्म करें और फिर कैसे सँभलें",
+   "hg": "'No' kaise sunein, cheezein decently kaise end karein aur wapas kaise uthein"
+  },
+  "hook": {
+   "en": "A no hurts. A breakup hurts more. Neither one is a verdict on what you are worth.",
+   "hi": "'ना' सुनना चुभता है। ब्रेकअप उससे ज़्यादा चुभता है। पर दोनों में से कोई भी तुम्हारी क़ीमत का फ़ैसला नहीं है।",
+   "hg": "'No' sunna chubhta hai. Breakup usse zyada chubhta hai. Par dono mein se koi bhi tumhari worth ka verdict nahi hai."
+  },
+  "objectives": [
+   {
+    "en": "Respond to rejection respectfully, whether you are giving it or receiving it.",
+    "hi": "रिजेक्शन को सम्मान के साथ सँभाल सको, चाहे तुम मना कर रहे हो या तुम्हें मना किया गया हो।",
+    "hg": "Rejection ko respect ke saath handle kar sako, chahe tum mana kar rahe ho ya tumhe mana kiya gaya ho."
+   },
+   {
+    "en": "Describe healthy ways to cope with a breakup.",
+    "hi": "ब्रेकअप से उबरने के सही तरीक़े बता सको।",
+    "hg": "Breakup se cope karne ke healthy tareeke bata sako."
+   },
+   {
+    "en": "Recognise when low mood needs support and where to find it.",
+    "hi": "पहचान सको कि उदासी को कब मदद की ज़रूरत है और वो मदद कहाँ मिलेगी।",
+    "hg": "Pehchaan sako ki low mood ko kab support chahiye aur woh kahan milega."
+   }
+  ],
+  "prereqs": [
+   "d06-l03"
+  ],
+  "sections": [
+   {
+    "h": {
+     "en": "Hearing no, and saying it",
+     "hi": "'ना' सुनना, और 'ना' कहना",
+     "hg": "'No' sunna, aur 'no' bolna"
+    },
+    "body": {
+     "en": "When someone says they are not interested, the respectful reply is short: 'Okay, thanks for being honest.' Then give them space. Asking again and again, following them, messaging from new accounts or getting friends to plead is harassment. It can be a crime too: stalking when a man does it to a woman, and POCSO sexual harassment when the target is under 18. Films show persistence as romance; in real life it frightens people. If you are saying no, be clear and kind: 'I don't feel the same way.' You owe no reason, second chance or friendship. If the person will not stop, tell a trusted adult.",
+     "hi": "जब कोई कहे कि उसे दिलचस्पी नहीं है, तो सम्मान वाला जवाब छोटा होता है: 'ठीक है, सच बताने के लिए शुक्रिया।' फिर उसे उसकी जगह दो। बार-बार पूछना, पीछा करना, नए अकाउंट से मैसेज करना या दोस्तों से सिफ़ारिश करवाना उत्पीड़न है। ये अपराध भी हो सकता है: जब कोई आदमी किसी महिला के साथ ऐसा करे तो स्टॉकिंग, और जब सामने वाला 18 से कम उम्र का हो तो POCSO के तहत यौन उत्पीड़न। फ़िल्में पीछे पड़े रहने को रोमांस दिखाती हैं; असल ज़िंदगी में इससे लोग डर जाते हैं। अगर 'ना' तुम कह रहे हो, तो साफ़ और नरमी से कहो: 'मेरे मन में वैसी भावना नहीं है।' वजह बताना, दूसरा मौक़ा देना या दोस्ती रखना तुम्हारी ज़िम्मेदारी नहीं। अगर वो इंसान न रुके, तो किसी भरोसेमंद बड़े को बताओ।",
+     "hg": "Jab koi bole ki use interest nahi hai, toh respectful reply chhota hota hai: 'Okay, honest hone ke liye thanks.' Phir use space do. Baar-baar poochna, peecha karna, naye accounts se message karna ya doston se sifarish karwana harassment hai. Yeh crime bhi ho sakta hai: jab koi aadmi kisi woman ke saath aisa kare toh stalking, aur jab saamne wala 18 se kam umar ka ho toh POCSO ke under sexual harassment. Filmein peeche pade rehne ko romance dikhati hain; real life mein isse log darr jate hain. Agar 'no' tum bol rahe ho, toh clear aur kind raho: 'Mere mann mein waisi feeling nahi hai.' Reason dena, second chance dena ya dosti rakhna tumhari zimmedari nahi. Agar woh insaan na ruke, toh kisi trusted adult ko batao."
+    }
+   },
+   {
+    "h": {
+     "en": "Why breakups hurt so much",
+     "hi": "ब्रेकअप इतना दर्द क्यों देता है",
+     "hg": "Breakup itna hurt kyun karta hai"
+    },
+    "body": {
+     "en": "A breakup is a real loss. You lose a person, a routine and plans you had imagined, and the mind reacts much as it does to other grief: poor sleep, low appetite, replaying conversations, sudden tears. This is not weakness or drama. It usually eases over weeks, in waves, not in a straight line. What helps: telling one or two people you trust, keeping meals, sleep and study going, moving your body, and taking a break from their social media. What makes it worse: checking their profile late at night, using alcohol or other substances to numb it, or rushing into something new.",
+     "hi": "ब्रेकअप एक असली नुक़सान है। तुम एक इंसान, एक दिनचर्या और सोची हुई योजनाएँ खोते हो, और मन वैसे ही प्रतिक्रिया देता है जैसे किसी और ग़म में: नींद ख़राब, भूख कम, बातचीत का बार-बार दिमाग़ में चलना, अचानक रोना आ जाना। ये कमज़ोरी या नाटक नहीं है। ये आमतौर पर कुछ हफ़्तों में हल्का होता है, लहरों की तरह, सीधी लाइन में नहीं। क्या मदद करता है: एक-दो भरोसेमंद लोगों को बताना, खाना, नींद और पढ़ाई चालू रखना, शरीर को हिलाना-डुलाना, और उनके सोशल मीडिया से कुछ समय की दूरी। क्या हालत बिगाड़ता है: देर रात उनकी प्रोफ़ाइल देखना, दर्द दबाने के लिए शराब या दूसरे नशे का सहारा लेना, या जल्दबाज़ी में किसी नए रिश्ते में कूद जाना।",
+     "hg": "Breakup ek real loss hai. Tum ek insaan, ek routine aur imagine kiye hue plans khote ho, aur mind waise hi react karta hai jaise kisi aur grief mein: neend kharab, bhookh kam, conversations ka baar-baar dimaag mein replay, achanak rona aa jana. Yeh weakness ya drama nahi hai. Yeh usually kuch hafton mein halka hota hai, waves ki tarah, straight line mein nahi. Kya help karta hai: ek-do trusted logon ko batana, khana, neend aur padhai chalu rakhna, body ko move karna, aur unke social media se kuch time ka break. Kya haalat bigadta hai: late night unki profile check karna, dard dabane ke liye alcohol ya doosre nashe ka sahara lena, ya jaldbaazi mein kisi naye relationship mein kood jana."
+    }
+   },
+   {
+    "h": {
+     "en": "Ending things decently",
+     "hi": "रिश्ता शालीनता से ख़त्म करना",
+     "hg": "Cheezein decently end karna"
+    },
+    "body": {
+     "en": "If you are ending it, do it directly and privately, not through a friend, a status update or silence. State the decision clearly without listing their faults. Afterwards, respect their privacy: do not share their chats, photos or secrets, and do not run them down in class or online. Threatening to leak private pictures or messages is a crime, not revenge. If someone threatens you this way, do not negotiate or pay; keep the chat, do not forward the images, and report with a trusted adult to 1930 or cybercrime.gov.in, or call 1098 if you are under 18.",
+     "hi": "अगर रिश्ता तुम ख़त्म कर रहे हो, तो सीधे और अकेले में कहो, किसी दोस्त, स्टेटस अपडेट या चुप्पी के ज़रिए नहीं। फ़ैसला साफ़ बताओ, उनकी कमियाँ गिनाए बिना। उसके बाद उनकी प्राइवेसी का सम्मान करो: उनकी चैट, फ़ोटो या राज़ किसी से शेयर मत करो, और क्लास में या ऑनलाइन उनकी बुराई मत करो। निजी तस्वीरें या मैसेज लीक करने की धमकी देना अपराध है, बदला नहीं। अगर कोई तुम्हें ऐसी धमकी दे, तो सौदेबाज़ी मत करो और पैसे मत दो; चैट सँभालकर रखो, तस्वीरें आगे मत भेजो, और किसी भरोसेमंद बड़े के साथ 1930 या cybercrime.gov.in पर रिपोर्ट करो, या 18 से कम हो तो 1098 पर कॉल करो।",
+     "hg": "Agar relationship tum end kar rahe ho, toh seedha aur privately bolo, kisi dost, status update ya silence ke through nahi. Decision clearly batao, unki kamiyan ginaye bina. Uske baad unki privacy respect karo: unki chats, photos ya secrets kisi se share mat karo, aur class mein ya online unki burai mat karo. Private pictures ya messages leak karne ki dhamki dena crime hai, revenge nahi. Agar koi tumhe aisi dhamki de, toh negotiate mat karo aur paise mat do; chat sambhal kar rakho, images forward mat karo, aur kisi trusted adult ke saath 1930 ya cybercrime.gov.in par report karo, ya 18 se kam ho toh 1098 par call karo."
+    }
+   },
+   {
+    "h": {
+     "en": "Your worth is not a relationship status",
+     "hi": "तुम्हारी क़ीमत रिलेशनशिप स्टेटस से तय नहीं होती",
+     "hg": "Tumhari worth relationship status nahi hai"
+    },
+    "body": {
+     "en": "Self-worth is the steady sense that you matter whether or not someone chooses you. Being single, rejected or dumped says something about the fit between two people, not about your value. Build it from things you control: skills you practise, promises you keep to yourself, friends who are honest with you, and how you treat people. Watch out for the thought 'I am nothing without them'. If sadness lasts more than two weeks, stops you eating, sleeping or studying, or brings thoughts of harming yourself, talk to an adult you trust or call Tele-MANAS on 14416. Asking for help is a strength.",
+     "hi": "आत्म-सम्मान (self-worth) वो पक्का एहसास है कि तुम्हारी अहमियत है, चाहे कोई तुम्हें चुने या नहीं। सिंगल होना, रिजेक्ट होना या ब्रेकअप होना दो लोगों के मेल के बारे में कुछ बताता है, तुम्हारी क़ीमत के बारे में नहीं। इसे उन चीज़ों से बनाओ जो तुम्हारे हाथ में हैं: जिन हुनरों की तुम प्रैक्टिस करते हो, ख़ुद से किए वादे जो तुम निभाते हो, वो दोस्त जो तुमसे सच बोलते हैं, और तुम लोगों से कैसे पेश आते हो। 'उसके बिना मैं कुछ नहीं' वाली सोच से सावधान रहो। अगर उदासी दो हफ़्ते से ज़्यादा रहे, खाना, नींद या पढ़ाई रोक दे, या ख़ुद को नुक़सान पहुँचाने के ख़याल आएँ, तो किसी भरोसेमंद बड़े से बात करो या टेली-मानस 14416 पर कॉल करो। मदद माँगना ताक़त है।",
+     "hg": "Self-worth woh steady feeling hai ki tum matter karte ho, chahe koi tumhe choose kare ya nahi. Single hona, reject hona ya dump hona do logon ke fit ke baare mein kuch batata hai, tumhari value ke baare mein nahi. Ise un cheezon se banao jo tumhare control mein hain: jo skills tum practise karte ho, khud se kiye promises jo tum nibhate ho, woh dost jo tumse sach bolte hain, aur tum logon se kaise pesh aate ho. 'Uske bina main kuch nahi' wali soch se saavdhan raho. Agar sadness do hafte se zyada rahe, khana, neend ya padhai rok de, ya khud ko harm karne ke khayal aayein, toh kisi trusted adult se baat karo ya Tele-MANAS 14416 par call karo. Help maangna strength hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Getting over someone quickly means you never really cared.",
+    "hi": "किसी को जल्दी भूल जाना मतलब तुम्हें कभी सच में परवाह थी ही नहीं।",
+    "hg": "Kisi se jaldi move on kar lena matlab tumhe kabhi sach mein care thi hi nahi."
+   },
+   "fact": {
+    "en": "People heal at different speeds. Some feel better in weeks, others take months, and both are normal. How long you hurt is not a measure of how real the feelings were.",
+    "hi": "हर इंसान अलग रफ़्तार से सँभलता है। कुछ लोग हफ़्तों में बेहतर महसूस करते हैं, कुछ को महीने लगते हैं, और दोनों सामान्य हैं। दर्द कितने दिन रहा, इससे ये नहीं नापा जा सकता कि भावनाएँ कितनी सच्ची थीं।",
+    "hg": "Har insaan alag speed se heal hota hai. Kuch log hafton mein better feel karte hain, kuch ko mahine lagte hain, aur dono normal hain. Dard kitne din raha, isse yeh nahi naapa ja sakta ki feelings kitni real thi."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "A no deserves a calm okay, and continuing to chase after a clear no is harassment.",
+    "hi": "'ना' का जवाब शांत 'ठीक है' होना चाहिए, और साफ़ 'ना' के बाद भी पीछे पड़े रहना उत्पीड़न है।",
+    "hg": "'No' ka jawab calm 'okay' hona chahiye, aur clear 'no' ke baad bhi peeche pade rehna harassment hai."
+   },
+   {
+    "en": "Breakup pain is real grief that eases with time, routine and support.",
+    "hi": "ब्रेकअप का दर्द असली ग़म है जो समय, दिनचर्या और अपनों के साथ से हल्का होता है।",
+    "hg": "Breakup ka dard real grief hai jo time, routine aur support se halka hota hai."
+   },
+   {
+    "en": "Your worth does not depend on being chosen, and low mood that lasts deserves help.",
+    "hi": "तुम्हारी क़ीमत इस पर नहीं टिकी कि किसी ने तुम्हें चुना या नहीं, और देर तक रहने वाली उदासी के लिए मदद लेनी चाहिए।",
+    "hg": "Tumhari worth is par depend nahi karti ki kisi ne tumhe choose kiya ya nahi, aur lambi chalne wali low mood ke liye help leni chahiye."
+   }
+  ],
+  "activity": {
+   "en": "Write a short note to yourself listing five things that are true about you and have nothing to do with any relationship: skills, values, things you have done for others. Keep it somewhere private for hard days.",
+   "hi": "अपने नाम एक छोटा नोट लिखो जिसमें पाँच ऐसी बातें हों जो तुम्हारे बारे में सच हैं और जिनका किसी रिश्ते से लेना-देना नहीं: हुनर, उसूल, दूसरों के लिए किए गए काम। मुश्किल दिनों के लिए इसे किसी निजी जगह सँभालकर रखो।",
+   "hg": "Apne naam ek chhota note likho jisme paanch aisi baatein hon jo tumhare baare mein sach hain aur jinka kisi relationship se lena-dena nahi: skills, values, doosron ke liye kiye gaye kaam. Mushkil dinon ke liye ise kisi private jagah sambhal kar rakho."
+  },
+  "interactive": "support_circle",
+  "quiz": [
+   {
+    "id": "d06-l06-q1",
+    "type": "scenario",
+    "q": {
+     "en": "Arjun tells Nisha he likes her. She says, 'I'm sorry, I don't feel that way.' What should Arjun do?",
+     "hi": "अर्जुन निशा को बताता है कि वो उसे पसंद करता है। निशा कहती है, 'सॉरी, मेरे मन में ऐसा कुछ नहीं है।' अर्जुन को क्या करना चाहिए?",
+     "hg": "Arjun Nisha ko batata hai ki woh use pasand karta hai. Nisha bolti hai, 'Sorry, mere mann mein aisa kuch nahi hai.' Arjun ko kya karna chahiye?"
+    },
+    "options": [
+     {
+      "en": "Ask her friends to convince her",
+      "hi": "उसकी सहेलियों से कहे कि उसे मनाएँ",
+      "hg": "Uske friends se bole ki use convince karein"
+     },
+     {
+      "en": "Keep messaging so she sees he is serious",
+      "hi": "मैसेज करता रहे ताकि उसे लगे कि वो सीरियस है",
+      "hg": "Message karta rahe taaki use lage ki woh serious hai"
+     },
+     {
+      "en": "Tell classmates that she led him on",
+      "hi": "क्लास में कह दे कि निशा ने ही उसे उम्मीद दी थी",
+      "hg": "Class mein bol de ki Nisha ne hi use hope di thi"
+     },
+     {
+      "en": "Say okay, thank her for being honest and give her space",
+      "hi": "'ठीक है' कहे, सच बताने के लिए शुक्रिया कहे और उसे उसकी जगह दे",
+      "hg": "'Okay' bole, honest hone ke liye thanks bole aur use space de"
+     }
+    ],
+    "answer": 3,
+    "explain": {
+     "en": "Her answer is complete. Accepting it calmly respects her and protects his own dignity; pushing, recruiting friends or spreading stories is harassment.",
+     "hi": "निशा का जवाब पूरा है। उसे शांति से मान लेना निशा का सम्मान है और अर्जुन की अपनी गरिमा भी बचाता है; दबाव डालना, दोस्तों को लगाना या बातें फैलाना उत्पीड़न है।",
+     "hg": "Nisha ka jawab complete hai. Use calmly accept karna Nisha ki respect hai aur Arjun ki apni dignity bhi bachata hai; push karna, doston ko lagana ya stories failana harassment hai."
+    }
+   },
+   {
+    "id": "d06-l06-q2",
+    "type": "mcq",
+    "q": {
+     "en": "Which of these suggests that sadness after a breakup needs extra support?",
+     "hi": "इनमें से क्या बताता है कि ब्रेकअप के बाद की उदासी को अतिरिक्त मदद की ज़रूरत है?",
+     "hg": "Inme se kya batata hai ki breakup ke baad ki sadness ko extra support chahiye?"
+    },
+    "options": [
+     {
+      "en": "Crying when a song reminds you of them",
+      "hi": "कोई गाना सुनकर उनकी याद में रोना आ जाना",
+      "hg": "Koi gaana sun kar unki yaad mein rona aa jana"
+     },
+     {
+      "en": "Missing them on weekends",
+      "hi": "वीकेंड पर उनकी कमी महसूस होना",
+      "hg": "Weekend par unki kami feel hona"
+     },
+     {
+      "en": "Low mood for more than two weeks that stops you eating, sleeping or studying",
+      "hi": "दो हफ़्ते से ज़्यादा की उदासी जो खाना, नींद या पढ़ाई रोक दे",
+      "hg": "Do hafte se zyada ki low mood jo khana, neend ya padhai rok de"
+     },
+     {
+      "en": "Not wanting to look at their photos",
+      "hi": "उनकी फ़ोटो देखने का मन न होना",
+      "hg": "Unki photos dekhne ka mann na hona"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "Tears, missing someone and avoiding reminders are ordinary grief. When low mood lasts and disrupts daily life, talking to a trusted adult or Tele-MANAS 14416 is the right step.",
+     "hi": "रोना, किसी की कमी महसूस होना और यादों से बचना आम ग़म है। जब उदासी लंबी चले और रोज़ की ज़िंदगी बिगाड़ने लगे, तब किसी भरोसेमंद बड़े या टेली-मानस 14416 से बात करना सही क़दम है।",
+     "hg": "Rona, kisi ko miss karna aur reminders avoid karna normal grief hai. Jab low mood lambi chale aur daily life disturb karne lage, tab kisi trusted adult ya Tele-MANAS 14416 se baat karna sahi step hai."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-adolescent-mh",
+   "tele-manas",
+   "cybercrime-portal",
+   "bns-2023",
+   "pocso-2012"
+  ],
+  "warning": {
+   "en": "If you have thoughts of harming yourself, or someone threatens to leak your private images, tell a trusted adult now. Tele-MANAS 14416, Child Helpline 1098, Cybercrime helpline 1930, Emergency 112.",
+   "hi": "अगर ख़ुद को नुक़सान पहुँचाने के ख़याल आएँ, या कोई तुम्हारी निजी तस्वीरें लीक करने की धमकी दे, तो अभी किसी भरोसेमंद बड़े को बताओ। टेली-मानस 14416, चाइल्ड हेल्पलाइन 1098, साइबर क्राइम हेल्पलाइन 1930, इमरजेंसी 112।",
+   "hg": "Agar khud ko harm karne ke khayal aayein, ya koi tumhari private images leak karne ki dhamki de, toh abhi kisi trusted adult ko batao. Tele-MANAS 14416, Child Helpline 1098, Cybercrime helpline 1930, Emergency 112."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d06-l07",
+  "domain": "d06",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 3,
+  "minutes": 8,
+  "unesco": [
+   1,
+   4,
+   8
+  ],
+  "title": {
+   "en": "Dating Apps, Hookups and Honesty",
+   "hi": "डेटिंग ऐप, हुकअप और ईमानदारी",
+   "hg": "Dating Apps, Hookups aur Honesty"
+  },
+  "subtitle": {
+   "en": "Meeting safely, consent every time, and telling the truth about what you want",
+   "hi": "सुरक्षित मिलना, हर बार सहमति, और जो चाहते हैं उसके बारे में सच बोलना",
+   "hg": "Safely milna, har baar consent, aur jo chahte ho uske baare mein sach bolna"
+  },
+  "hook": {
+   "en": "A match is not a background check, and a date is not a promise of sex. Whether you want something casual or something serious, safety and honesty are not optional extras.",
+   "hi": "मैच हो जाना किसी की जाँच-पड़ताल नहीं है, और डेट सेक्स का वादा नहीं है। आप कुछ कैज़ुअल चाहते हों या गंभीर, सुरक्षा और ईमानदारी ऐसी चीज़ें नहीं हैं जिन्हें छोड़ा जा सके।",
+   "hg": "Match ho jaana koi background check nahi hai, aur date sex ka promise nahi hai. Tum kuch casual chahte ho ya serious, safety aur honesty optional extras nahi hain."
+  },
+  "objectives": [
+   {
+    "en": "Plan a first meeting with someone from an app in a way that keeps you safe.",
+    "hi": "ऐप पर मिले किसी व्यक्ति से पहली मुलाक़ात ऐसे तय कर सकें कि आप सुरक्षित रहें।",
+    "hg": "App pe mile kisi insaan se first meeting aise plan kar sako ki tum safe raho."
+   },
+   {
+    "en": "Spot catfishing and romance scams before they cost you money or safety.",
+    "hi": "कैटफ़िशिंग और रोमांस स्कैम को पैसे या सुरक्षा गँवाने से पहले पहचान सकें।",
+    "hg": "Catfishing aur romance scams ko paise ya safety khone se pehle pehchaan sako."
+   },
+   {
+    "en": "Explain the consent, STI and pregnancy realities of casual sex, and why honesty matters in casual, committed and live-in relationships.",
+    "hi": "कैज़ुअल सेक्स में सहमति, एसटीआई और गर्भ की सच्चाइयाँ समझा सकें, और यह भी कि कैज़ुअल, पक्के और लिव-इन रिश्तों में ईमानदारी क्यों ज़रूरी है।",
+    "hg": "Casual sex mein consent, STI aur pregnancy ki realities samjha sako, aur yeh bhi ki casual, committed aur live-in relationships mein honesty kyun zaroori hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Before you meet",
+     "hi": "मिलने से पहले",
+     "hg": "Milne se pehle"
+    },
+    "body": {
+     "en": "Dating apps are for adults, and people of every gender use them for friendship, casual sex, relationships or marriage. Before meeting, have a video call to confirm the person matches their photos. Meet in a busy public place, arrange your own transport both ways, and tell a friend who you are meeting and where, and share your live location. Keep your phone charged and carry your own money. Get your own drink, keep it in sight, and never leave it unattended. Do not share your home address early. If something feels off, leave; you owe nobody an explanation. These steps matter for men and queer people as much as women.",
+     "hi": "डेटिंग ऐप वयस्कों के लिए हैं, और हर जेंडर के लोग इन्हें दोस्ती, कैज़ुअल सेक्स, रिश्ते या शादी के लिए इस्तेमाल करते हैं। मिलने से पहले वीडियो कॉल कीजिए ताकि पक्का हो कि व्यक्ति अपनी तस्वीरों जैसा ही है। किसी भीड़-भाड़ वाली सार्वजनिक जगह पर मिलिए, आने-जाने का इंतज़ाम ख़ुद कीजिए, और किसी दोस्त को बताइए कि आप किससे और कहाँ मिल रहे हैं, और अपनी लाइव लोकेशन शेयर कीजिए। फ़ोन चार्ज रखिए और अपने पैसे साथ रखिए। अपना ड्रिंक ख़ुद लीजिए, उसे नज़र के सामने रखिए और कभी बिना निगरानी के मत छोड़िए। शुरू में घर का पता मत बताइए। कुछ अटपटा लगे तो चले जाइए; आपको किसी को सफ़ाई देने की ज़रूरत नहीं है। ये क़दम मर्दों और क्वीयर लोगों के लिए भी उतने ही ज़रूरी हैं जितने औरतों के लिए।",
+     "hg": "Dating apps adults ke liye hain, aur har gender ke log inhe dosti, casual sex, relationship ya shaadi ke liye use karte hain. Milne se pehle video call karo taaki confirm ho ki insaan apni photos jaisa hi hai. Kisi busy public place pe milo, aane-jaane ka transport khud arrange karo, aur kisi friend ko batao ki tum kisse aur kahan mil rahe ho, aur apni live location share karo. Phone charged rakho aur apne paise saath rakho. Apni drink khud lo, use nazar ke saamne rakho aur kabhi unattended mat chhodo. Shuru mein ghar ka address mat batao. Kuch off lage toh nikal jao; tumhe kisi ko explanation dene ki zaroorat nahi hai. Yeh steps men aur queer logon ke liye bhi utne hi zaroori hain jitne women ke liye."
+    }
+   },
+   {
+    "h": {
+     "en": "Fake profiles and romance scams",
+     "hi": "नक़ली प्रोफ़ाइल और रोमांस स्कैम",
+     "hg": "Fake profiles aur romance scams"
+    },
+    "body": {
+     "en": "Catfishing means using a fake identity: stolen photos, a false name, job or marital status. Romance scammers go further. They build affection fast, avoid video calls and meetings, then need money: a medical emergency, a parcel stuck at customs, a 'sure' investment. Sometimes a match insists on one particular bar or café, where a hugely inflated bill arrives. Some record intimate video calls and blackmail; queer users are often threatened with being outed. Never send money, OTPs or intimate images to someone you have not met and verified. Being fooled is not stupidity; these are practised criminals. Report fast at 1930 or cybercrime.gov.in; quick reporting can sometimes freeze a payment.",
+     "hi": "कैटफ़िशिंग का मतलब है नक़ली पहचान इस्तेमाल करना: चुराई हुई तस्वीरें, झूठा नाम, नौकरी या वैवाहिक स्थिति। रोमांस स्कैम करने वाले इससे आगे जाते हैं। वे तेज़ी से लगाव बनाते हैं, वीडियो कॉल और मिलने से बचते हैं, फिर उन्हें पैसे चाहिए होते हैं: कोई मेडिकल इमरजेंसी, कस्टम में अटका पार्सल या कोई 'पक्का' निवेश। एक और तरीक़े में मैच किसी ख़ास बार या कैफ़े पर ही मिलने की ज़िद करता है, जहाँ बहुत बढ़ा-चढ़ाकर बनाया गया बिल थमा दिया जाता है। कुछ लोग अंतरंग वीडियो कॉल रिकॉर्ड करके ब्लैकमेल करते हैं; क्वीयर यूज़र्स को अक्सर उनकी पहचान उजागर करने की धमकी दी जाती है। जिससे आप मिले नहीं और जिसकी पहचान पक्की नहीं की, उसे कभी पैसे, ओटीपी या अंतरंग तस्वीरें मत भेजिए। धोखा खा जाना बेवक़ूफ़ी नहीं है; ये मँजे हुए अपराधी हैं। 1930 या cybercrime.gov.in पर जल्दी रिपोर्ट कीजिए, क्योंकि जल्दी रिपोर्ट करने पर कभी-कभी भुगतान रोका जा सकता है।",
+     "hg": "Catfishing ka matlab hai fake identity use karna: chori ki hui photos, jhootha naam, job ya marital status. Romance scammers isse aage jaate hain. Woh fast affection build karte hain, video call aur milne se bachte hain, phir unhe paise chahiye hote hain: koi medical emergency, customs mein atka parcel ya koi 'pakka' investment. Ek aur pattern mein match kisi ek particular bar ya cafe pe hi milne ki zid karta hai, jahan bahut inflated bill aa jaata hai. Kuch log intimate video calls record karke blackmail karte hain; queer users ko aksar out karne ki dhamki di jaati hai. Jisse tum mile nahi aur jise verify nahi kiya, use kabhi paise, OTP ya intimate images mat bhejo. Dhokha kha jaana bewakoofi nahi hai; yeh practised criminals hain. 1930 ya cybercrime.gov.in pe jaldi report karo, kyunki fast reporting se kabhi-kabhi payment freeze ho sakti hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Consent every time, and what casual sex carries",
+     "hi": "हर बार सहमति, और कैज़ुअल सेक्स के साथ क्या आता है",
+     "hg": "Har baar consent, aur casual sex ke saath kya aata hai"
+    },
+    "body": {
+     "en": "Matching, flirting, sexting, going home with someone or earlier sex is not consent to sex now. Consent is a clear, willing yes to each act, and can be withdrawn at any point. A person who is very drunk, drugged, asleep or frightened cannot consent, and removing a condom without agreement is a violation. Many STIs cause no symptoms, so a healthy-looking partner tells you nothing. Condoms greatly reduce risk but do not remove it; oral sex can pass on infections too. Pregnancy can follow a single encounter. Know the time limits: emergency contraception within five days, HIV PEP started within 72 hours. Regular testing is routine care, not a confession.",
+     "hi": "मैच होना, फ़्लर्ट करना, सेक्सटिंग, किसी के साथ घर जाना या पहले सेक्स कर चुके होना, अभी के सेक्स की सहमति नहीं है। सहमति हर क्रिया के लिए एक साफ़, मन से दी गई 'हाँ' है, और इसे किसी भी पल वापस लिया जा सकता है। जो व्यक्ति बहुत नशे में हो, जिसे नशीली चीज़ दी गई हो, जो सोया हो या डरा हुआ हो, वह सहमति नहीं दे सकता; और बिना रज़ामंदी के कंडोम हटाना एक उल्लंघन है। कई यौन संचारित संक्रमणों (एसटीआई) के कोई लक्षण नहीं होते, इसलिए साथी का स्वस्थ दिखना कुछ नहीं बताता। कंडोम जोखिम बहुत घटाते हैं पर ख़त्म नहीं करते, और मुख मैथुन (oral sex) से भी संक्रमण फैल सकते हैं। एक ही बार के संबंध से भी गर्भ ठहर सकता है। समय-सीमाएँ जान लीजिए: आपातकालीन गर्भनिरोधक पाँच दिन के भीतर, और एचआईवी पीईपी 72 घंटे के भीतर शुरू। नियमित जाँच सेहत की आम देखभाल है, किसी ग़लती का इक़रार नहीं।",
+     "hg": "Match hona, flirt karna, sexting, kisi ke saath ghar jaana ya pehle sex kar chuke hona, abhi ke sex ka consent nahi hai. Consent har act ke liye ek clear, willing 'haan' hai, aur ise kisi bhi point pe wapas liya ja sakta hai. Jo insaan bahut drunk ho, drugged ho, soya ho ya dara hua ho, woh consent nahi de sakta; aur bina agreement ke condom hatana ek violation hai. Kai STIs ke koi symptoms nahi hote, isliye partner ka healthy dikhna kuch nahi batata. Condoms risk bahut kam karte hain par khatam nahi karte, aur oral sex se bhi infections pass ho sakte hain. Ek hi baar ke encounter se bhi pregnancy ho sakti hai. Time limits jaan lo: emergency contraception paanch din ke andar, aur HIV PEP 72 ghante ke andar start. Regular testing routine care hai, koi confession nahi."
+    }
+   },
+   {
+    "h": {
+     "en": "Honesty, cheating, ghosting and living in",
+     "hi": "ईमानदारी, बेवफ़ाई, घोस्टिंग और लिव-इन",
+     "hg": "Honesty, cheating, ghosting aur live-in"
+    },
+    "body": {
+     "en": "Say what you want: casual, exclusive, marriage or unsure. Wanting only casual sex is not shameful; pretending to want commitment to get sex is deceit, and Indian law can treat it as an offence when someone has sex with a woman after a marriage promise they never meant to keep. Hiding a spouse or other partners takes away the other person's choice. Infidelity is a health issue too: an unknowing partner can catch STIs, so test and tell. Ghosting leaves people doubting themselves; a short honest message is kinder. Unmarried adults may live together in India; families often judge it, and Uttarakhand requires live-in registration, so check locally.",
+     "hi": "जो चाहते हैं वह साफ़ कहिए: कैज़ुअल, एक-दूसरे तक सीमित रिश्ता, शादी, या अभी पक्का नहीं। सिर्फ़ कैज़ुअल सेक्स चाहना शर्म की बात नहीं है; पर सेक्स पाने के लिए प्रतिबद्धता चाहने का नाटक करना धोखा है, और जब कोई शादी का ऐसा वादा करके, जिसे निभाने का उसका कभी इरादा नहीं था, किसी महिला से सेक्स करे, तो भारतीय क़ानून इसे अपराध मान सकता है। पति या पत्नी या दूसरे साथियों की बात छिपाना सामने वाले से फ़ैसला करने का हक़ छीन लेता है। बेवफ़ाई सेहत का मसला भी है: अनजान साथी को एसटीआई हो सकता है, इसलिए जाँच कराइए और बताइए। घोस्टिंग लोगों को ख़ुद पर शक करने पर मजबूर कर देती है; एक छोटा, ईमानदार संदेश ज़्यादा भला है। अविवाहित वयस्क भारत में साथ रह सकते हैं; परिवार अक्सर इसे बुरी नज़र से देखते हैं, और उत्तराखंड में लिव-इन का पंजीकरण ज़रूरी है, इसलिए अपने राज्य के नियम जाँच लीजिए।",
+     "hg": "Jo chahte ho woh clearly bolo: casual, exclusive, shaadi, ya abhi sure nahi. Sirf casual sex chahna sharam ki baat nahi hai; par sex paane ke liye commitment chahne ka natak karna dhokha hai, aur jab koi shaadi ka aisa promise karke, jise nibhane ka uska kabhi irada nahi tha, kisi woman ke saath sex kare, toh Indian law ise offence maan sakta hai. Spouse ya doosre partners ki baat chhupana saamne wale se decide karne ka haq chheen leta hai. Infidelity health ka issue bhi hai: anjaan partner ko STI ho sakta hai, isliye test karao aur batao. Ghosting logon ko khud par doubt karne par majboor kar deti hai; ek chhota honest message zyada kind hai. Unmarried adults India mein saath reh sakte hain; families aksar ise judge karti hain, aur Uttarakhand mein live-in registration zaroori hai, isliye apne state ke rules check kar lo."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Only women need to think about safety on dating apps.",
+    "hi": "डेटिंग ऐप पर सुरक्षा के बारे में सिर्फ़ औरतों को सोचना पड़ता है।",
+    "hg": "Dating apps pe safety ke baare mein sirf women ko sochna padta hai."
+   },
+   "fact": {
+    "en": "Women face a great deal of harassment and assault, but men are commonly targeted by money scams, inflated-bill set-ups, robbery and blackmail, and queer and transgender users by threats of outing. The safety steps are for everyone.",
+    "hi": "औरतों को बहुत ज़्यादा उत्पीड़न और हमलों का सामना करना पड़ता है, पर मर्द भी अक्सर पैसों की ठगी, बढ़े हुए बिल वाले जाल, लूट और ब्लैकमेल का निशाना बनते हैं, और क्वीयर तथा ट्रांसजेंडर यूज़र्स को पहचान उजागर करने की धमकियाँ मिलती हैं। सुरक्षा के क़दम सबके लिए हैं।",
+    "hg": "Women ko bahut zyada harassment aur assault face karna padta hai, par men bhi aksar money scams, inflated bill wale set-ups, loot aur blackmail ka target bante hain, aur queer aur transgender users ko out karne ki dhamkiyan milti hain. Safety steps sabke liye hain."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Verify the person, meet in public, tell a friend, and stay in control of your own transport and drink.",
+    "hi": "व्यक्ति की पहचान पक्की कीजिए, सार्वजनिक जगह पर मिलिए, किसी दोस्त को बताइए, और अपने आने-जाने और अपने ड्रिंक पर अपना क़ाबू रखिए।",
+    "hg": "Insaan ko verify karo, public mein milo, friend ko batao, aur apne transport aur apni drink ka control apne paas rakho."
+   },
+   {
+    "en": "Consent is needed every time; STI and pregnancy risks are real in casual and committed sex alike, and new or multiple partners raise STI risk, so use condoms and test regularly.",
+    "hi": "सहमति हर बार ज़रूरी है; एसटीआई और गर्भ का जोखिम कैज़ुअल और पक्के, दोनों तरह के रिश्तों में असली है, और नए या कई साथी होने से एसटीआई का जोखिम बढ़ता है, इसलिए कंडोम इस्तेमाल कीजिए और नियमित जाँच कराइए।",
+    "hg": "Consent har baar zaroori hai; STI aur pregnancy ka risk casual aur committed dono mein real hai, aur naye ya multiple partners se STI risk badhta hai, isliye condoms use karo aur regularly test karao."
+   },
+   {
+    "en": "Honesty about what you want, who else is involved and your sexual health is what makes any arrangement fair.",
+    "hi": "आप क्या चाहते हैं, और कौन शामिल है, और आपकी यौन सेहत कैसी है, इन सबके बारे में ईमानदारी ही किसी भी रिश्ते को न्यायपूर्ण बनाती है।",
+    "hg": "Tum kya chahte ho, aur kaun involved hai, aur tumhari sexual health kaisi hai, in sabke baare mein honesty hi kisi bhi arrangement ko fair banati hai."
+   }
+  ],
+  "activity": {
+   "en": "Write your own first-meeting safety plan: where you would meet, which friend you would tell, how you would get home, and one sentence you could use to leave early. Keep it where you can find it.",
+   "hi": "पहली मुलाक़ात के लिए अपनी सुरक्षा-योजना लिखिए: आप कहाँ मिलेंगे, किस दोस्त को बताएँगे, घर कैसे लौटेंगे, और एक वाक्य जो जल्दी निकलने के लिए बोल सकते हैं। इसे ऐसी जगह रखिए जहाँ आसानी से मिल जाए।",
+   "hg": "First meeting ke liye apna safety plan likho: kahan miloge, kis friend ko bataoge, ghar kaise jaoge, aur ek sentence jo jaldi nikalne ke liye bol sakte ho. Ise aisi jagah rakho jahan easily mil jaaye."
+  },
+  "interactive": "relationship_radar",
+  "quiz": [
+   {
+    "id": "d06-l07-q1",
+    "type": "scenario",
+    "q": {
+     "en": "Kabir, 27, has chatted for three weeks with a match who always cancels video calls. She now says her mother is in hospital and asks for ₹20,000 by UPI. What is the safest response?",
+     "hi": "27 साल का कबीर तीन हफ़्ते से एक मैच से चैट कर रहा है, जो हर बार वीडियो कॉल टाल देती है। अब वह कहती है कि उसकी माँ अस्पताल में है और यूपीआई से ₹20,000 माँगती है। सबसे सुरक्षित जवाब क्या है?",
+     "hg": "27 saal ka Kabir teen hafte se ek match se chat kar raha hai, jo har baar video call cancel kar deti hai. Ab woh kehti hai ki uski maa hospital mein hai aur UPI se ₹20,000 maangti hai. Sabse safe response kya hai?"
+    },
+    "options": [
+     {
+      "en": "Send half the amount to show he cares but is being careful",
+      "hi": "आधी रक़म भेज दे, ताकि दिखे कि उसे परवाह है पर वह सावधान भी है",
+      "hg": "Aadha amount bhej de, taaki dikhe ki use care hai par woh careful bhi hai"
+     },
+     {
+      "en": "Send nothing, stop replying, keep the chats and report at 1930 or cybercrime.gov.in",
+      "hi": "कुछ न भेजे, जवाब देना बंद करे, चैट सँभालकर रखे और 1930 या cybercrime.gov.in पर रिपोर्ट करे",
+      "hg": "Kuch na bheje, reply karna band kare, chats rakhe aur 1930 ya cybercrime.gov.in pe report kare"
+     },
+     {
+      "en": "Send it only after she promises in writing to return it",
+      "hi": "तभी भेजे जब वह लिखकर वादा करे कि लौटा देगी",
+      "hg": "Tabhi bheje jab woh likhkar promise kare ki wapas kar degi"
+     },
+     {
+      "en": "Send it, because refusing would be cruel if the story is true",
+      "hi": "भेज दे, क्योंकि अगर बात सच हुई तो मना करना बेरहमी होगी",
+      "hg": "Bhej de, kyunki agar baat sach hui toh mana karna cruel hoga"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Avoiding video calls and then asking for urgent money is the classic romance-scam pattern. Paying any amount usually brings more demands; keeping the evidence and reporting is the safe step.",
+     "hi": "वीडियो कॉल से बचना और फिर फ़ौरन पैसे माँगना रोमांस स्कैम का जाना-पहचाना तरीक़ा है। थोड़ी भी रक़म देने पर आम तौर पर और माँगें आती हैं; सबूत सँभालकर रखना और रिपोर्ट करना ही सुरक्षित क़दम है।",
+     "hg": "Video call se bachna aur phir urgent paise maangna romance scam ka classic pattern hai. Thoda bhi amount dene par usually aur demands aati hain; evidence rakhna aur report karna hi safe step hai."
+    }
+   },
+   {
+    "id": "d06-l07-q2",
+    "type": "tf",
+    "q": {
+     "en": "A person who looks healthy and has no symptoms can still pass on an STI.",
+     "hi": "जो व्यक्ति स्वस्थ दिखता है और जिसमें कोई लक्षण नहीं हैं, उससे भी एसटीआई फैल सकता है।",
+     "hg": "Jo insaan healthy dikhta hai aur jisme koi symptoms nahi hain, usse bhi STI pass ho sakta hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Many STIs cause no symptoms for months or years, so only testing can tell. That is why condoms and regular testing matter with new or multiple partners.",
+     "hi": "कई एसटीआई महीनों या सालों तक कोई लक्षण नहीं दिखाते, इसलिए सिर्फ़ जाँच से ही पता चलता है। इसीलिए नए या एक से ज़्यादा साथियों के साथ कंडोम और नियमित जाँच ज़रूरी हैं।",
+     "hg": "Kai STIs mahino ya saalon tak koi symptoms nahi dikhate, isliye sirf testing se hi pata chalta hai. Isiliye naye ya multiple partners ke saath condoms aur regular testing zaroori hain."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-sti",
+   "who-ec",
+   "who-pep",
+   "cybercrime-portal",
+   "bns-2023"
+  ],
+  "warning": {
+   "en": "If you were assaulted, or think your drink was spiked, go to a hospital or call 112: HIV PEP must start within 72 hours and emergency contraception works for up to 5 days. It is not your fault, whatever you agreed to earlier. Women Helpline 181, Cybercrime 1930, Tele-MANAS 14416, free legal aid 15100. Legal points here are general information, not legal advice, and laws change.",
+   "hi": "अगर आप पर हमला हुआ है, या आपको लगता है कि आपके ड्रिंक में कुछ मिलाया गया था, तो अस्पताल जाइए या 112 पर कॉल कीजिए: एचआईवी पीईपी 72 घंटे के भीतर शुरू होनी चाहिए और आपातकालीन गर्भनिरोधक 5 दिन तक काम करता है। आपने पहले जो भी हामी भरी हो, यह आपकी ग़लती नहीं है। महिला हेल्पलाइन 181, साइबर अपराध 1930, टेली-मानस 14416, मुफ़्त क़ानूनी सहायता 15100। यहाँ दी गई क़ानूनी बातें आम जानकारी हैं, क़ानूनी सलाह नहीं, और क़ानून बदलते रहते हैं।",
+   "hg": "Agar tum par assault hua hai, ya lagta hai ki tumhari drink spike ki gayi thi, toh hospital jao ya 112 pe call karo: HIV PEP 72 ghante ke andar start honi chahiye aur emergency contraception 5 din tak kaam karta hai. Tumne pehle jo bhi haan boli ho, yeh tumhari galti nahi hai. Women Helpline 181, Cybercrime 1930, Tele-MANAS 14416, free legal aid 15100. Yahan ki legal baatein general information hain, legal advice nahi, aur laws badalte rehte hain."
+  },
+  "sensitive": true,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ }
+]

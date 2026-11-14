@@ -1,0 +1,271 @@
+[
+ {
+  "id": "d02-q01",
+  "domain": "d02",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "type": "tf",
+  "q": {
+   "en": "A voice cracks during puberty because the voice box is growing and the vocal cords are getting longer and thicker.",
+   "hi": "प्यूबर्टी में आवाज़ इसलिए फटती है क्योंकि स्वरयंत्र बढ़ रहा होता है और स्वर-तंतु लंबे और मोटे हो रहे होते हैं।",
+   "hg": "Puberty mein voice isliye crack hoti hai kyunki voice box grow kar raha hota hai aur vocal cords lambe aur mote ho rahe hote hain."
+  },
+  "options": [
+   {
+    "en": "True",
+    "hi": "सही",
+    "hg": "Sahi"
+   },
+   {
+    "en": "False",
+    "hi": "ग़लत",
+    "hg": "Galat"
+   }
+  ],
+  "answer": 0,
+  "explain": {
+   "en": "The larynx grows and the vocal cords lengthen and thicken. Until the muscles adjust to the new size, the voice can jump or crack.",
+   "hi": "स्वरयंत्र बढ़ता है और स्वर-तंतु लंबे और मोटे होते हैं। जब तक मांसपेशियाँ नए आकार की आदी नहीं हो जातीं, आवाज़ अचानक बदल सकती है या फट सकती है।",
+   "hg": "Larynx grow karta hai aur vocal cords lambe aur mote hote hain. Jab tak muscles naye size ke saath adjust nahi hoti, voice jump ya crack ho sakti hai."
+  }
+ },
+ {
+  "id": "d02-q02",
+  "domain": "d02",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "type": "mcq",
+  "q": {
+   "en": "What is the best thing to do with a pimple?",
+   "hi": "मुँहासे के साथ सबसे अच्छा क्या करना है?",
+   "hg": "Pimple ke saath sabse best kya karna hai?"
+  },
+  "options": [
+   {
+    "en": "Squeeze it so that the pus comes out",
+    "hi": "उसे दबाकर मवाद निकाल देना",
+    "hg": "Use dabakar pus nikal dena"
+   },
+   {
+    "en": "Scrub it hard with soap several times a day",
+    "hi": "दिन में कई बार साबुन से ज़ोर से रगड़ना",
+    "hg": "Din mein kai baar soap se zor se scrub karna"
+   },
+   {
+    "en": "Leave it alone and wash the face gently twice a day",
+    "hi": "उसे हाथ न लगाना और दिन में दो बार चेहरा नरमी से धोना",
+    "hg": "Use touch na karna aur din mein do baar face gently wash karna"
+   },
+   {
+    "en": "Apply toothpaste on it overnight",
+    "hi": "रात भर उस पर टूथपेस्ट लगाकर रखना",
+    "hg": "Raat bhar us par toothpaste lagakar rakhna"
+   }
+  ],
+  "answer": 2,
+  "explain": {
+   "en": "Squeezing and scrubbing push the inflammation deeper and cause scars. Gentle washing and leaving pimples alone lets them heal.",
+   "hi": "दबाने और रगड़ने से सूजन और गहरी चली जाती है और दाग़ पड़ जाते हैं। नरमी से धोने और हाथ न लगाने से मुँहासे ठीक हो पाते हैं।",
+   "hg": "Dabane aur scrub karne se inflammation aur deep chali jaati hai aur scars padte hain. Gently wash karne aur touch na karne se pimples heal ho paate hain."
+  }
+ },
+ {
+  "id": "d02-q03",
+  "domain": "d02",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "type": "mcq",
+  "q": {
+   "en": "How long does puberty usually take from the first sign to the end?",
+   "hi": "पहले लक्षण से लेकर पूरा होने तक प्यूबर्टी में आम तौर पर कितना समय लगता है?",
+   "hg": "Pehle sign se lekar end tak puberty mein usually kitna time lagta hai?"
+  },
+  "options": [
+   {
+    "en": "About six months",
+    "hi": "क़रीब छह महीने",
+    "hg": "Lagbhag chhe mahine"
+   },
+   {
+    "en": "About two to five years",
+    "hi": "क़रीब दो से पाँच साल",
+    "hg": "Lagbhag do se paanch saal"
+   },
+   {
+    "en": "Exactly one year",
+    "hi": "ठीक एक साल",
+    "hg": "Exactly ek saal"
+   },
+   {
+    "en": "More than ten years",
+    "hi": "दस साल से ज़्यादा",
+    "hg": "Das saal se zyada"
+   }
+  ],
+  "answer": 1,
+  "explain": {
+   "en": "Puberty is a gradual process that usually takes two to five years, and the pace differs from person to person.",
+   "hi": "प्यूबर्टी एक धीमी प्रक्रिया है जिसमें आम तौर पर दो से पाँच साल लगते हैं, और इसकी रफ़्तार हर इंसान में अलग होती है।",
+   "hg": "Puberty ek gradual process hai jisme usually do se paanch saal lagte hain, aur iski pace har insaan mein alag hoti hai."
+  }
+ },
+ {
+  "id": "d02-q04",
+  "domain": "d02",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "About how much sleep do most teenagers need each night?",
+   "hi": "ज़्यादातर किशोरों को हर रात लगभग कितनी नींद चाहिए?",
+   "hg": "Zyadatar teenagers ko har raat lagbhag kitni neend chahiye?"
+  },
+  "options": [
+   {
+    "en": "About 5 hours",
+    "hi": "क़रीब 5 घंटे",
+    "hg": "Lagbhag 5 ghante"
+   },
+   {
+    "en": "About 6 hours",
+    "hi": "क़रीब 6 घंटे",
+    "hg": "Lagbhag 6 ghante"
+   },
+   {
+    "en": "About 7 hours",
+    "hi": "क़रीब 7 घंटे",
+    "hg": "Lagbhag 7 ghante"
+   },
+   {
+    "en": "About 8 to 10 hours",
+    "hi": "क़रीब 8 से 10 घंटे",
+    "hg": "Lagbhag 8 se 10 ghante"
+   }
+  ],
+  "answer": 3,
+  "explain": {
+   "en": "Teenagers need around eight to ten hours. Because their body clock shifts later while school starts early, most get less than they need.",
+   "hi": "किशोरों को क़रीब आठ से दस घंटे की नींद चाहिए। उनकी शरीर की घड़ी देर की तरफ़ खिसक जाती है जबकि स्कूल जल्दी लगता है, इसलिए ज़्यादातर को ज़रूरत से कम नींद मिलती है।",
+   "hg": "Teenagers ko lagbhag aath se das ghante chahiye. Unki body clock late shift ho jaati hai jabki school jaldi lagta hai, isliye zyadatar ko zaroorat se kam neend milti hai."
+  }
+ },
+ {
+  "id": "d02-q05",
+  "domain": "d02",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "type": "scenario",
+  "q": {
+   "en": "Aman, 15, is teased by teammates for having less body hair and muscle than them. A senior at the gym offers him hormone booster capsules. What is the best choice?",
+   "hi": "15 साल के अमन को टीम के लड़के चिढ़ाते हैं क्योंकि उसके शरीर पर उनसे कम बाल और मांसपेशियाँ हैं। जिम का एक सीनियर उसे हार्मोन बूस्टर कैप्सूल देता है। सबसे अच्छा फ़ैसला क्या है?",
+   "hg": "Aman, 15, ko teammates tease karte hain kyunki uski body par unse kam baal aur muscles hain. Gym ka ek senior use hormone booster capsules offer karta hai. Best choice kya hai?"
+  },
+  "options": [
+   {
+    "en": "Refuse them; development timing varies, and unprescribed boosters can harm hormones and growth",
+    "hi": "मना कर देना; विकास का समय सबका अलग होता है, और बिना पर्चे के बूस्टर हार्मोन और बढ़त को नुक़सान पहुँचा सकते हैं",
+    "hg": "Mana kar dena; development ki timing sabki alag hoti hai, aur bina prescription ke boosters hormones aur growth ko harm kar sakte hain"
+   },
+   {
+    "en": "Take them for one month to see whether they work",
+    "hi": "एक महीना लेकर देखना कि असर होता है या नहीं",
+    "hg": "Ek mahina lekar dekhna ki kaam karte hain ya nahi"
+   },
+   {
+    "en": "Take a double dose to catch up faster",
+    "hi": "जल्दी बराबरी करने के लिए दोगुनी मात्रा लेना",
+    "hg": "Jaldi catch up karne ke liye double dose lena"
+   }
+  ],
+  "answer": 0,
+  "explain": {
+   "en": "At 15, puberty is still in progress and bodies are at different stages. Hormone products taken without a doctor can disrupt the body's own hormones and growth.",
+   "hi": "15 साल की उम्र में प्यूबर्टी अभी चल रही होती है और सबके शरीर अलग-अलग स्टेज पर होते हैं। डॉक्टर के बिना लिए गए हार्मोन वाले प्रोडक्ट शरीर के अपने हार्मोन और बढ़त को बिगाड़ सकते हैं।",
+   "hg": "15 ki age mein puberty abhi chal rahi hoti hai aur sabki bodies alag stages par hoti hain. Doctor ke bina liye gaye hormone products body ke apne hormones aur growth ko disturb kar sakte hain."
+  }
+ },
+ {
+  "id": "d02-q06",
+  "domain": "d02",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "hormones_changes"
+  ],
+  "type": "mcq",
+  "q": {
+   "en": "Which test is commonly used to estimate bone age when a doctor assesses puberty timing?",
+   "hi": "प्यूबर्टी के समय की जाँच करते हुए डॉक्टर हड्डियों की उम्र का अंदाज़ा लगाने के लिए आम तौर पर कौन-सी जाँच करवाते हैं?",
+   "hg": "Puberty timing assess karte time doctor bone age estimate karne ke liye commonly kaun sa test karwate hain?"
+  },
+  "options": [
+   {
+    "en": "An ECG of the heart",
+    "hi": "दिल का ईसीजी",
+    "hg": "Heart ka ECG"
+   },
+   {
+    "en": "An X-ray of the left hand and wrist",
+    "hi": "बाएँ हाथ और कलाई का एक्स-रे",
+    "hg": "Left haath aur wrist ka X-ray"
+   },
+   {
+    "en": "An ultrasound of the kidneys",
+    "hi": "किडनी का अल्ट्रासाउंड",
+    "hg": "Kidneys ka ultrasound"
+   },
+   {
+    "en": "An eye examination",
+    "hi": "आँखों की जाँच",
+    "hg": "Aankhon ka check-up"
+   }
+  ],
+  "answer": 1,
+  "explain": {
+   "en": "The growth plates visible in a hand and wrist X-ray show how mature the skeleton is and roughly how much growth remains.",
+   "hi": "हाथ और कलाई के एक्स-रे में दिखने वाली ग्रोथ प्लेट बताती हैं कि कंकाल कितना परिपक्व है और मोटे तौर पर कितनी बढ़त बाकी है।",
+   "hg": "Haath aur wrist ke X-ray mein dikhne wali growth plates batati hain ki skeleton kitna mature hai aur roughly kitni growth baaki hai."
+  }
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": "clinic-visit",
+  "file": "clinic-visit.jpg",
+  "tracks": ["B", "C", "D", "E"],
+  "generated": true,
+  "caption": {
+   "en": "A check-up is a conversation. You can bring a trusted adult, ask what the doctor will do, and say if anything feels uncomfortable.",
+   "hi": "जाँच एक बातचीत है। तुम किसी भरोसेमंद बड़े को साथ ला सकते हो, पूछ सकते हो कि डॉक्टर क्या करेंगे, और कुछ असहज लगे तो बता सकते हो।",
+   "hg": "Check-up ek baatcheet hai. Tum kisi bharosemand bade ko saath la sakte ho, pooch sakte ho ki doctor kya karenge, aur kuch ajeeb lage to bata sakte ho."
+  },
+  "alt": {
+   "en": "A woman doctor in a clinic talks with a schoolgirl and her mother, who sit across the desk listening.",
+   "hi": "क्लिनिक में एक महिला डॉक्टर एक स्कूली लड़की और उसकी माँ से बात कर रही हैं, जो मेज़ के सामने बैठकर सुन रही हैं।",
+   "hg": "Clinic mein ek lady doctor ek school girl aur uski maa se baat kar rahi hain, jo table ke saamne baithkar sun rahi hain."
+  },
+  "lessons": ["d02-l06", "d03-l06", "d10-l01", "d10-l02", "d10-l07", "d18-l04"],
+  "domains": [],
+  "labs": [],
+  "screens": []
+ },
+ {
+  "id": "family-talk",
+  "file": "family-talk.jpg",
+  "tracks": ["A", "B", "C", "D", "E"],
+  "generated": true,
+  "caption": {
+   "en": "Hard questions get easier at home when anyone can ask without being scolded. Listening first is half the answer.",
+   "hi": "जब घर में कोई भी बिना डाँट खाए सवाल पूछ सके, तो मुश्किल बातें आसान हो जाती हैं। पहले सुनना आधा जवाब है।",
+   "hg": "Jab ghar mein koi bhi bina daant khaaye sawaal pooch sake, to mushkil baatein aasaan ho jaati hain. Pehle sunna aadha jawaab hai."
+  },
+  "alt": {
+   "en": "A father and his young son talk on a sofa at home while the mother smiles from the kitchen doorway.",
+   "hi": "घर में सोफ़े पर एक पिता और उनका बेटा बात कर रहे हैं, और माँ रसोई के दरवाज़े से मुस्कुरा रही हैं।",
+   "hg": "Ghar mein sofa par ek papa aur unka beta baat kar rahe hain, aur mummy kitchen ke darwaaze se muskura rahi hain."
+  },
+  "lessons": ["d18-l02"],
+  "domains": [],
+  "labs": ["communication"],
+  "screens": ["parents"]
+ },
+ {
+  "id": "health-class",
+  "file": "health-class.jpg",
+  "tracks": ["A", "B", "C", "D", "E"],
+  "generated": true,
+  "caption": {
+   "en": "In a good health class every question is allowed, boys and girls learn the same facts, and nobody is laughed at for asking.",
+   "hi": "अच्छी हेल्थ क्लास में हर सवाल पूछा जा सकता है, लड़के और लड़कियाँ एक जैसे तथ्य सीखते हैं, और पूछने पर किसी का मज़ाक नहीं उड़ता।",
+   "hg": "Achhi health class mein har sawaal poocha ja sakta hai, ladke aur ladkiyan ek jaise facts seekhte hain, aur poochne par kisi ka mazaak nahi udta."
+  },
+  "alt": {
+   "en": "A teacher in a saree points to chalk drawings of a plant and a heart while boys and girls in uniform raise their hands.",
+   "hi": "साड़ी पहने एक टीचर ब्लैकबोर्ड पर बने पौधे और दिल के चित्र दिखा रही हैं, और यूनिफ़ॉर्म में लड़के-लड़कियाँ हाथ उठा रहे हैं।",
+   "hg": "Saree pehne ek teacher blackboard par bane paudhe aur dil ke chitra dikha rahi hain, aur uniform mein ladke-ladkiyan haath utha rahe hain."
+  },
+  "lessons": ["d01-l02", "d02-l01", "d11-l02"],
+  "domains": [],
+  "labs": ["body_lab"],
+  "screens": ["teacher"]
+ },
+ {
+  "id": "kids-stop",
+  "file": "kids-stop.jpg",
+  "tracks": ["A", "B", "C", "D", "E"],
+  "generated": true,
+  "caption": {
+   "en": "Hand up means stop. Every child can say no to a touch that feels wrong, then tell a grown-up they trust.",
+   "hi": "हाथ ऊपर मतलब रुको। हर बच्चा गलत लगने वाले स्पर्श को ना कह सकता है, और फिर किसी भरोसेमंद बड़े को बता सकता है।",
+   "hg": "Haath upar matlab ruko. Har bachcha galat lagne wale touch ko na keh sakta hai, aur phir kisi bharosemand bade ko bata sakta hai."
+  },
+  "alt": {
+   "en": "A smiling teacher sits on a rug with six young children who hold up their palms in a stop sign.",
+   "hi": "एक मुस्कुराती टीचर दरी पर छह छोटे बच्चों के साथ बैठी हैं, जो हथेली उठाकर रुकने का इशारा कर रहे हैं।",
+   "hg": "Ek muskurati teacher dari par chhe chhote bachchon ke saath baithi hain, jo hatheli uthakar rukne ka ishaara kar rahe hain."
+  },
+  "lessons": ["d05-l01", "d05-l02", "d14-l01", "d14-l02", "d18-l01"],
+  "domains": [],
+  "labs": [],
+  "screens": []
+ },
+ {
+  "id": "period-kit",
+  "file": "period-kit.jpg",
+  "tracks": ["B", "C", "D", "E"],
+  "generated": true,
+  "caption": {
+   "en": "Pads, cloth pads and cups all work. Pick what suits your body and budget, change on time, and keep heat handy for cramps.",
+   "hi": "पैड, कपड़े के पैड और कप, सब काम करते हैं। जो तुम्हारे शरीर और बजट के लिए ठीक हो वह चुनो, समय पर बदलो, और ऐंठन के लिए सेंक पास रखो।",
+   "hg": "Pad, kapde ke pad aur cup, sab kaam karte hain. Jo tumhare body aur budget ke liye theek ho woh chuno, time par badlo, aur cramps ke liye garam sek paas rakho."
+  },
+  "alt": {
+   "en": "Wrapped pads, a cloth pad, a menstrual cup, a hot water bottle, soap, tissues and a calendar with circled dates.",
+   "hi": "पैक किए हुए पैड, एक कपड़े का पैड, मेंस्ट्रुअल कप, गरम पानी की बोतल, साबुन, टिश्यू और गोल घेरे वाली तारीख़ों वाला कैलेंडर।",
+   "hg": "Pack kiye hue pad, ek kapde ka pad, menstrual cup, garam paani ki bottle, sabun, tissue aur gol ghere wali dates wala calendar."
+  },
+  "lessons": [],
+  "domains": ["d03"],
+  "labs": ["period_lab"],
+  "screens": []
+ }
+]

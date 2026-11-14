@@ -1,0 +1,272 @@
+[
+ {
+  "id": "d18-q01",
+  "domain": "d18",
+  "tracks": [
+   "A"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "scenario",
+  "q": {
+   "en": "You are tickling your friend. She says, 'Stop, I don't like it.' What do you do?",
+   "hi": "तुम अपनी दोस्त को गुदगुदी कर रहे हो। वह कहती है, 'रुको, मुझे यह पसंद नहीं।' तुम क्या करोगे?",
+   "hg": "Tum apni friend ko gudgudi kar rahe ho. Woh bolti hai, 'Ruko, mujhe yeh pasand nahi.' Tum kya karoge?"
+  },
+  "options": [
+   {
+    "en": "Stop right away",
+    "hi": "तुरंत रुक जाओगे",
+    "hg": "Turant ruk jaoge"
+   },
+   {
+    "en": "Tickle a little more because she is laughing",
+    "hi": "थोड़ी और गुदगुदी करोगे क्योंकि वह हँस रही है",
+    "hg": "Thodi aur gudgudi karoge kyunki woh hans rahi hai"
+   },
+   {
+    "en": "Tell her not to be a spoilsport",
+    "hi": "उससे कहोगे कि खेल ख़राब मत करो",
+    "hg": "Use bologe ki game kharab mat karo"
+   }
+  ],
+  "answer": 0,
+  "explain": {
+   "en": "Stop means stop, even if someone is laughing. Listening to her no makes you a good friend.",
+   "hi": "रुको का मतलब रुको है, चाहे कोई हँस ही क्यों न रहा हो। उसकी 'ना' सुनना तुम्हें अच्छा दोस्त बनाता है।",
+   "hg": "Ruko ka matlab ruko hai, chahe koi hans hi kyun na raha ho. Uski 'no' sunna tumhe achha dost banata hai."
+  }
+ },
+ {
+  "id": "d18-q02",
+  "domain": "d18",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "Which of these is an 'I' sentence?",
+   "hi": "इनमें से 'मैं' वाला वाक्य कौन-सा है?",
+   "hg": "Inme se 'main' wala sentence kaun-sa hai?"
+  },
+  "options": [
+   {
+    "en": "'You are so selfish.'",
+    "hi": "'तू कितना मतलबी है।'",
+    "hg": "'Tu kitna selfish hai.'"
+   },
+   {
+    "en": "'You never wait for me.'",
+    "hi": "'तू कभी मेरा इंतज़ार नहीं करता।'",
+    "hg": "'Tu kabhi mera wait nahi karta.'"
+   },
+   {
+    "en": "'Everyone thinks you are rude.'",
+    "hi": "'सबको लगता है कि तू बदतमीज़ है।'",
+    "hg": "'Sabko lagta hai tu rude hai.'"
+   },
+   {
+    "en": "'I feel left out when you go without me. Please wait for me.'",
+    "hi": "'जब तुम मेरे बिना चले जाते हो तो मुझे अकेला लगता है। प्लीज़ मेरा इंतज़ार करना।'",
+    "hg": "'Jab tum mere bina chale jaate ho toh mujhe left out feel hota hai. Please mera wait karna.'"
+   }
+  ],
+  "answer": 3,
+  "explain": {
+   "en": "It names your feeling, the situation and what you need, without attacking the other person.",
+   "hi": "इसमें तुम्हारी भावना, स्थिति और तुम्हारी ज़रूरत बताई गई है, और सामने वाले पर कोई हमला नहीं है।",
+   "hg": "Isme tumhari feeling, situation aur tumhari need batayi gayi hai, aur saamne wale pe koi attack nahi hai."
+  }
+ },
+ {
+  "id": "d18-q03",
+  "domain": "d18",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "A message says, 'Decide right now, this offer disappears in ten minutes, and don't tell anyone.' Which two tactics are being used?",
+   "hi": "एक मैसेज में लिखा है, 'अभी तय करो, यह ऑफ़र दस मिनट में ख़त्म हो जाएगा, और किसी को मत बताना।' इसमें कौन-सी दो चालें इस्तेमाल हो रही हैं?",
+   "hg": "Ek message mein likha hai, 'Abhi decide karo, yeh offer das minute mein khatam ho jayega, aur kisi ko mat batana.' Isme kaun-si do tactics use ho rahi hain?"
+  },
+  "options": [
+   {
+    "en": "Flattery and guilt",
+    "hi": "चापलूसी और अपराध-बोध",
+    "hg": "Flattery aur guilt"
+   },
+   {
+    "en": "Rushing and secrecy",
+    "hi": "जल्दबाज़ी और राज़दारी",
+    "hg": "Rushing aur secrecy"
+   },
+   {
+    "en": "Honest asking and patience",
+    "hi": "ईमानदारी से पूछना और सब्र",
+    "hg": "Honest asking aur patience"
+   },
+   {
+    "en": "Gaslighting and bandwagon",
+    "hi": "गैसलाइटिंग और भीड़ का हवाला",
+    "hg": "Gaslighting aur bandwagon"
+   }
+  ],
+  "answer": 1,
+  "explain": {
+   "en": "A deadline stops you from thinking, and secrecy stops you from asking anyone. Honest offers survive both time and a second opinion.",
+   "hi": "समय की पाबंदी तुम्हें सोचने से रोकती है, और राज़दारी किसी से पूछने से। ईमानदार प्रस्ताव समय और दूसरी राय, दोनों के सामने टिके रहते हैं।",
+   "hg": "Deadline tumhe sochne se rokti hai, aur secrecy kisi se poochne se. Honest offers time aur second opinion, dono ke saamne tike rehte hain."
+  }
+ },
+ {
+  "id": "d18-q04",
+  "domain": "d18",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "You type your symptoms into a search engine or an AI chatbot and it suggests a serious disease. What is the most sensible next step?",
+   "hi": "तुम अपने लक्षण सर्च इंजन या AI चैटबॉट में लिखते हो और वह कोई गंभीर बीमारी बता देता है। अगला सबसे समझदारी भरा क़दम क्या है?",
+   "hg": "Tum apne symptoms search engine ya AI chatbot mein type karte ho aur woh koi serious disease suggest kar deta hai. Sabse sensible next step kya hai?"
+  },
+  "options": [
+   {
+    "en": "Accept it as your diagnosis and order medicines online",
+    "hi": "इसे अपना निदान मान लो और ऑनलाइन दवाइयाँ मँगवा लो",
+    "hg": "Isse apna diagnosis maan lo aur online medicines order kar lo"
+   },
+   {
+    "en": "Ignore your symptoms completely because the internet is always wrong",
+    "hi": "अपने लक्षणों को पूरी तरह अनदेखा कर दो क्योंकि इंटरनेट हमेशा ग़लत होता है",
+    "hg": "Apne symptoms ko completely ignore kar do kyunki internet hamesha galat hota hai"
+   },
+   {
+    "en": "Treat it as a starting point, note your symptoms and ask a doctor",
+    "hi": "इसे बस शुरुआत समझो, अपने लक्षण लिख लो और डॉक्टर से पूछो",
+    "hg": "Isse bas starting point samjho, apne symptoms note kar lo aur doctor se poocho"
+   },
+   {
+    "en": "Ask a friend which tablets worked for them",
+    "hi": "किसी दोस्त से पूछो कि उसे कौन-सी गोलियों से आराम मिला था",
+    "hg": "Kisi dost se poocho ki use kaun-si tablets se aaram mila tha"
+   }
+  ],
+  "answer": 2,
+  "explain": {
+   "en": "Online tools cannot examine you, and the same symptoms can have many causes. They are useful for preparing questions, not for diagnosis or treatment.",
+   "hi": "ऑनलाइन टूल तुम्हारी जाँच नहीं कर सकते, और एक जैसे लक्षणों की कई वजहें हो सकती हैं। वे सवाल तैयार करने के काम आते हैं, निदान या इलाज के नहीं।",
+   "hg": "Online tools tumhe examine nahi kar sakte, aur same symptoms ke kai causes ho sakte hain. Woh sawaal ready karne ke kaam aate hain, diagnosis ya treatment ke nahi."
+  }
+ },
+ {
+  "id": "d18-q05",
+  "domain": "d18",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "Which preparation helps a doctor's appointment the most?",
+   "hi": "डॉक्टर के पास जाने से पहले कौन-सी तैयारी सबसे ज़्यादा काम आती है?",
+   "hg": "Doctor ke appointment se pehle kaun-si taiyaari sabse zyada kaam aati hai?"
+  },
+  "options": [
+   {
+    "en": "Writing down your symptoms, when they started, your medicines and your questions",
+    "hi": "अपने लक्षण, वे कब शुरू हुए, अपनी दवाइयाँ और अपने सवाल लिख लेना",
+    "hg": "Apne symptoms, woh kab shuru hue, apni medicines aur apne sawaal likh lena"
+   },
+   {
+    "en": "Deciding in advance which medicine you want prescribed",
+    "hi": "पहले से तय कर लेना कि तुम्हें कौन-सी दवा लिखवानी है",
+    "hg": "Pehle se decide kar lena ki tumhe kaun-si medicine likhwani hai"
+   },
+   {
+    "en": "Leaving out the embarrassing details to save time",
+    "hi": "समय बचाने के लिए झिझक वाली बातें छोड़ देना",
+    "hg": "Time bachane ke liye embarrassing details chhod dena"
+   },
+   {
+    "en": "Stopping all your regular medicines the day before",
+    "hi": "एक दिन पहले अपनी सारी नियमित दवाइयाँ बंद कर देना",
+    "hg": "Ek din pehle apni saari regular medicines band kar dena"
+   }
+  ],
+  "answer": 0,
+  "explain": {
+   "en": "A clear, complete history is what leads to the right tests and treatment. Never stop or change regular medicines without medical advice.",
+   "hi": "साफ़ और पूरी जानकारी से ही सही जाँच और सही इलाज तक पहुँचा जाता है। डॉक्टर की सलाह के बिना नियमित दवाइयाँ कभी बंद या बदलो मत।",
+   "hg": "Clear aur complete history se hi sahi tests aur sahi treatment tak pahuncha jata hai. Medical advice ke bina regular medicines kabhi band ya change mat karo."
+  }
+ },
+ {
+  "id": "d18-q06",
+  "domain": "d18",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "scenario",
+  "q": {
+   "en": "Someone posts in your class group: 'Heard Neha has some disease, stay away from her.' There is no proof. What is the responsible thing to do?",
+   "hi": "कोई तुम्हारी क्लास के ग्रुप में लिखता है: 'सुना है नेहा को कोई बीमारी है, उससे दूर रहो।' कोई सबूत नहीं है। ज़िम्मेदारी भरा क़दम क्या होगा?",
+   "hg": "Koi tumhari class ke group mein post karta hai: 'Suna hai Neha ko koi bimaari hai, usse door raho.' Koi proof nahi hai. Responsible cheez kya hogi?"
+  },
+  "options": [
+   {
+    "en": "Forward it to other groups so that everyone can be careful",
+    "hi": "इसे दूसरे ग्रुपों में भेज दो ताकि सब सावधान रहें",
+    "hg": "Isse doosre groups mein forward kar do taaki sab careful rahein"
+   },
+   {
+    "en": "React with a laughing emoji and stay out of it",
+    "hi": "हँसने वाला इमोजी भेजो और इससे दूर रहो",
+    "hg": "Laughing emoji bhejo aur isse door raho"
+   },
+   {
+    "en": "Ask Neha in the group whether it is true",
+    "hi": "ग्रुप में ही नेहा से पूछो कि क्या यह सच है",
+    "hg": "Group mein hi Neha se poocho ki kya yeh sach hai"
+   },
+   {
+    "en": "Not forward it, say in the group that an unverified rumour about someone's health is not okay, and check on Neha privately",
+    "hi": "इसे आगे मत भेजो, ग्रुप में कहो कि किसी की सेहत के बारे में बिना जाँची अफ़वाह ठीक नहीं है, और नेहा से अकेले में हाल पूछो",
+    "hg": "Isse forward mat karo, group mein bolo ki kisi ki health ke baare mein unverified rumour theek nahi hai, aur Neha se privately haal poocho"
+   }
+  ],
+  "answer": 3,
+  "explain": {
+   "en": "A rumour needs people to pass it on, so not forwarding it, calling it out and supporting Neha privately stops the harm without exposing her further. Even if it were true, a person's health is private and is no reason to avoid them.",
+   "hi": "अफ़वाह को आगे बढ़ाने वाले लोग चाहिए होते हैं, इसलिए उसे आगे न भेजना, उस पर टोकना और नेहा का अकेले में साथ देना, उसे और उजागर किए बिना नुक़सान रोकता है। अगर बात सच भी हो, तो किसी की सेहत उसकी निजी बात है और उससे दूर रहने की कोई वजह नहीं है।",
+   "hg": "Rumour ko aage badhane wale log chahiye hote hain, isliye use forward na karna, use call out karna aur Neha ko privately support karna, use aur expose kiye bina harm rokta hai. Agar baat sach bhi ho, toh kisi ki health uski private baat hai aur usse door rehne ki koi wajah nahi hai."
+  }
+ }
+]

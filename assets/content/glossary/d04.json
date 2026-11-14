@@ -1,0 +1,62 @@
+[
+  {
+    "id": "d04-g1", "domain": "d04", "tracks": ["B", "C", "D", "E"],
+    "title": {"en": "Feelings and Growing Up", "hi": "भावनाएँ और बड़ा होना", "hg": "Feelings aur Growing Up"},
+    "terms": [
+      {
+        "term": {"en": "Crush", "hi": "क्रश", "hg": "Crush"},
+        "def": {"en": "A strong liking for someone that makes them feel extra special; common while growing up and usually temporary.", "hi": "किसी को इतना पसंद करना कि वह सबसे ख़ास लगने लगे; बड़े होते समय यह आम है और आम तौर पर कुछ समय का होता है।", "hg": "Kisi ko itna pasand karna ki woh sabse special lagne lage; bade hote time yeh common hai aur usually temporary hota hai."}
+      },
+      {
+        "term": {"en": "Attraction", "hi": "आकर्षण", "hg": "Attraction"},
+        "def": {"en": "A feeling of being drawn to another person; it is something that happens, not a decision or an action.", "hi": "किसी दूसरे व्यक्ति की ओर खिंचाव का एहसास; यह अपने-आप होता है, यह न कोई फ़ैसला है और न कोई काम।", "hg": "Kisi doosre insaan ki taraf khinchaav ki feeling; yeh apne aap hoti hai, yeh na koi decision hai aur na koi action."}
+      },
+      {
+        "term": {"en": "Erection", "hi": "इरेक्शन (लिंग का तनना)", "hg": "Erection"},
+        "def": {"en": "The penis becoming larger and firmer when extra blood fills its spongy tissue; it often happens without any control.", "hi": "लिंग का बड़ा और सख़्त हो जाना, जब उसके स्पंज जैसे ऊतक में ज़्यादा खून भर जाता है; यह अक्सर अपने-आप होता है।", "hg": "Penis ka bada aur firm ho jaana, jab uske spongy tissue mein extra blood bhar jaata hai; yeh aksar bina control ke hota hai."}
+      },
+      {
+        "term": {"en": "Wet dream (nocturnal emission)", "hi": "स्वप्नदोष (वेट ड्रीम, नाइटफ़ॉल)", "hg": "Wet dream (nightfall)"},
+        "def": {"en": "The release of semen during sleep, common in puberty. It is normal, cannot be controlled and is not a fault.", "hi": "नींद में वीर्य का निकलना, जो यौवन में आम है। यह सामान्य है, इस पर किसी का बस नहीं, और इसमें कोई दोष नहीं।", "hg": "Neend mein semen ka nikalna, jo puberty mein common hai. Yeh normal hai, control nahi hota, aur isme koi dosh nahi."}
+      },
+      {
+        "term": {"en": "Semen", "hi": "वीर्य", "hg": "Semen (virya)"},
+        "def": {"en": "The whitish fluid released from the penis that carries sperm; the body makes it continuously from puberty onwards.", "hi": "लिंग से निकलने वाला सफ़ेद-सा तरल जिसमें शुक्राणु होते हैं; यौवन के बाद से शरीर इसे लगातार बनाता रहता है।", "hg": "Penis se nikalne wala safed sa fluid jisme sperm hote hain; puberty ke baad se body ise lagataar banati rehti hai."}
+      },
+      {
+        "term": {"en": "Privacy", "hi": "निजता (प्राइवेसी)", "hg": "Privacy"},
+        "def": {"en": "The right to keep your body, body changes and personal feelings away from other people's eyes, comments and questions.", "hi": "अपने शरीर, शरीर के बदलावों और निजी भावनाओं को दूसरों की नज़रों, टिप्पणियों और सवालों से दूर रखने का हक़।", "hg": "Apni body, body changes aur personal feelings ko doosron ki nazron, comments aur sawaalon se door rakhne ka haq."}
+      }
+    ]
+  },
+  {
+    "id": "d04-g2", "domain": "d04", "tracks": ["C", "D", "E"],
+    "title": {"en": "Sexual Development Terms", "hi": "यौन विकास से जुड़े शब्द", "hg": "Sexual Development Terms"},
+    "terms": [
+      {
+        "term": {"en": "Sexual orientation", "hi": "यौन रुझान (सेक्शुअल ओरिएंटेशन)", "hg": "Sexual orientation"},
+        "def": {"en": "The pattern of who a person is romantically or sexually attracted to over time, such as heterosexual, gay, lesbian or bisexual.", "hi": "लंबे समय में कोई व्यक्ति रोमांटिक या यौन रूप से किसकी ओर आकर्षित होता है, इसका ढर्रा; जैसे हेटेरोसेक्शुअल, गे, लेस्बियन या बाइसेक्शुअल।", "hg": "Lambe time mein koi insaan romantically ya sexually kiski taraf attract hota hai, iska pattern; jaise heterosexual, gay, lesbian ya bisexual."}
+      },
+      {
+        "term": {"en": "Asexual", "hi": "एसेक्शुअल (अलैंगिक)", "hg": "Asexual"},
+        "def": {"en": "Describes a person who feels little or no sexual attraction to anyone; a normal variation, not an illness.", "hi": "ऐसा व्यक्ति जिसे किसी के लिए भी यौन आकर्षण बहुत कम या बिल्कुल नहीं होता; यह सामान्य विविधता है, बीमारी नहीं।", "hg": "Aisa insaan jise kisi ke liye bhi sexual attraction bahut kam ya bilkul nahi hota; yeh normal variation hai, bimari nahi."}
+      },
+      {
+        "term": {"en": "Arousal", "hi": "उत्तेजना (अराउज़ल)", "hg": "Arousal"},
+        "def": {"en": "The body's response to sexual feelings, such as a faster heartbeat and more blood flow to the genitals; it can happen without intending it.", "hi": "यौन भावनाओं पर शरीर की प्रतिक्रिया, जैसे दिल की तेज़ धड़कन और जननांगों में खून का बहाव बढ़ना; यह बिना चाहे भी हो सकती है।", "hg": "Sexual feelings pe body ka response, jaise tez heartbeat aur genitals mein blood flow badhna; yeh bina chahe bhi ho sakta hai."}
+      },
+      {
+        "term": {"en": "Masturbation", "hi": "हस्तमैथुन", "hg": "Masturbation (hastmaithun)"},
+        "def": {"en": "Touching one's own genitals for a pleasant sexual feeling; common, private and not physically harmful, and not doing it is equally normal.", "hi": "सुखद यौन एहसास के लिए अपने ही जननांगों को छूना; यह आम है, निजी है और शरीर के लिए नुक़सानदेह नहीं, और इसे न करना भी उतना ही सामान्य है।", "hg": "Pleasant sexual feeling ke liye apne hi genitals ko touch karna; yeh common hai, private hai aur body ke liye harmful nahi, aur ise na karna bhi utna hi normal hai."}
+      },
+      {
+        "term": {"en": "Ejaculation", "hi": "स्खलन (वीर्यपात)", "hg": "Ejaculation"},
+        "def": {"en": "The release of semen from the penis; it can also occur during sleep, when it is called a wet dream.", "hi": "लिंग से वीर्य का निकलना; यह नींद में भी हो सकता है, जिसे वेट ड्रीम कहते हैं।", "hg": "Penis se semen ka nikalna; yeh neend mein bhi ho sakta hai, jise wet dream kehte hain."}
+      },
+      {
+        "term": {"en": "Dhat anxiety", "hi": "धात की चिंता (धात रोग का डर)", "hg": "Dhat anxiety"},
+        "def": {"en": "A recognised culture-linked worry, common in South Asia, that losing semen drains strength; the worry is treatable by talking to a doctor.", "hi": "दक्षिण एशिया में आम, संस्कृति से जुड़ी एक मानी हुई चिंता कि वीर्य निकलने से ताक़त घटती है; डॉक्टर से बात करने पर इस चिंता का इलाज हो सकता है।", "hg": "South Asia mein common, culture se judi ek recognised tension ki semen nikalne se taakat kam hoti hai; doctor se baat karne par is tension ka treatment ho sakta hai."}
+      }
+    ]
+  }
+]

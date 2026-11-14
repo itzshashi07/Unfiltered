@@ -1,0 +1,177 @@
+[
+ {
+  "id": "d05-g1",
+  "domain": "d05",
+  "tracks": [
+   "A",
+   "B"
+  ],
+  "title": {
+   "en": "Body Safety Words",
+   "hi": "शरीर की सुरक्षा के शब्द",
+   "hg": "Body Safety ke Words"
+  },
+  "terms": [
+   {
+    "term": {
+     "en": "Permission",
+     "hi": "इजाज़त (permission)",
+     "hg": "Permission (ijaazat)"
+    },
+    "def": {
+     "en": "Asking 'Can I?' before you touch someone or use their things, and waiting for them to say yes.",
+     "hi": "किसी को छूने या उसकी चीज़ लेने से पहले पूछना, 'क्या मैं कर सकता हूँ?', और उसके 'हाँ' कहने का इंतज़ार करना।",
+     "hg": "Kisi ko touch karne ya uski cheez lene se pehle poochna, 'Kya main kar sakta hoon?', aur unke 'yes' bolne ka wait karna."
+    }
+   },
+   {
+    "term": {
+     "en": "Boundary",
+     "hi": "सीमा (boundary)",
+     "hg": "Boundary (seema)"
+    },
+    "def": {
+     "en": "Your own line that tells people what is okay with you and what is not okay.",
+     "hi": "तुम्हारी अपनी लकीर, जो लोगों को बताती है कि तुम्हारे लिए क्या ठीक है और क्या ठीक नहीं।",
+     "hg": "Tumhari apni line, jo logon ko batati hai ki tumhare liye kya okay hai aur kya okay nahi."
+    }
+   },
+   {
+    "term": {
+     "en": "Personal space",
+     "hi": "निजी दायरा (personal space)",
+     "hg": "Personal space"
+    },
+    "def": {
+     "en": "The bubble of space around your body. People should ask before they come very close.",
+     "hi": "तुम्हारे शरीर के चारों ओर जगह का एक घेरा। बहुत पास आने से पहले लोगों को पूछना चाहिए।",
+     "hg": "Tumhari body ke charon taraf space ka ek bubble. Bahut paas aane se pehle logon ko poochna chahiye."
+    }
+   },
+   {
+    "term": {
+     "en": "Private parts",
+     "hi": "निजी अंग (private parts)",
+     "hg": "Private parts"
+    },
+    "def": {
+     "en": "The parts of your body covered by underwear. Nobody should touch or look at them, except a parent helping you wash or a doctor checking you with your parent there.",
+     "hi": "शरीर के वे हिस्से जो चड्डी से ढके रहते हैं। इन्हें कोई न छुए और न देखे। बस मम्मी या पापा नहलाने में मदद कर सकते हैं, या डॉक्टर मम्मी-पापा के सामने जाँच कर सकते हैं।",
+     "hg": "Body ke woh parts jo underwear se dhake rehte hain. Inhe koi touch na kare aur na dekhe. Bas mummy ya papa nahane mein help kar sakte hain, ya doctor mummy-papa ke saamne check kar sakta hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Unsafe secret",
+     "hi": "असुरक्षित राज़",
+     "hg": "Unsafe secret"
+    },
+    "def": {
+     "en": "A secret that makes you feel scared, sad or confused. It should always be told to a trusted grown-up.",
+     "hi": "ऐसा राज़ जो तुम्हें डराए, उदास करे या उलझन में डाले। इसे हमेशा किसी भरोसेमंद बड़े को बता देना चाहिए।",
+     "hg": "Aisa secret jo tumhe daraye, udaas kare ya confuse kare. Isse hamesha kisi trusted bade ko bata dena chahiye."
+    }
+   },
+   {
+    "term": {
+     "en": "Trusted adult",
+     "hi": "भरोसेमंद बड़ा",
+     "hg": "Trusted adult (bharosemand bada)"
+    },
+    "def": {
+     "en": "A grown-up who listens to you, believes you and helps keep you safe, like a parent, grandparent or teacher.",
+     "hi": "ऐसा बड़ा जो तुम्हारी बात सुनता है, तुम पर यक़ीन करता है और तुम्हें सुरक्षित रखने में मदद करता है, जैसे मम्मी-पापा, दादा-दादी या टीचर।",
+     "hg": "Aisa bada jo tumhari baat sunta hai, tum par yakeen karta hai aur tumhe safe rakhne mein help karta hai, jaise parents, grandparents ya teacher."
+    }
+   }
+  ]
+ },
+ {
+  "id": "d05-g2",
+  "domain": "d05",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "Consent Vocabulary",
+   "hi": "सहमति की शब्दावली",
+   "hg": "Consent ki Vocabulary"
+  },
+  "terms": [
+   {
+    "term": {
+     "en": "Consent",
+     "hi": "सहमति (consent)",
+     "hg": "Consent (sehmati)"
+    },
+    "def": {
+     "en": "A clear, free and willing agreement to a specific thing, which can be taken back at any time.",
+     "hi": "किसी ख़ास बात के लिए साफ़, अपनी मर्ज़ी से और मन से दी गई रज़ामंदी, जिसे कभी भी वापस लिया जा सकता है।",
+     "hg": "Kisi specific cheez ke liye clear, apni marzi se aur mann se diya gaya agreement, jise kabhi bhi wapas liya ja sakta hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Coercion",
+     "hi": "ज़बरदस्ती / दबाव (coercion)",
+     "hg": "Coercion (zabardasti)"
+    },
+    "def": {
+     "en": "Getting someone to agree through pressure, guilt, threats or repeated asking. Agreement obtained this way is not consent.",
+     "hi": "दबाव, अपराध-बोध, धमकी या बार-बार कहकर किसी से हामी भरवाना। इस तरह मिली हामी सहमति नहीं है।",
+     "hg": "Pressure, guilt, dhamki ya baar-baar bolkar kisi se haan bulwana. Is tarah mila agreement consent nahi hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Withdrawal of consent",
+     "hi": "सहमति वापस लेना",
+     "hg": "Consent wapas lena (withdrawal)"
+    },
+    "def": {
+     "en": "Changing your mind after saying yes. The other person must stop as soon as you say it or show it.",
+     "hi": "'हाँ' कहने के बाद मन बदल लेना। जैसे ही आप यह कहें या जताएँ, सामने वाले को रुक जाना चाहिए।",
+     "hg": "'Yes' bolne ke baad mann badal lena. Jaise hi tum yeh bolo ya dikhao, saamne wale ko ruk jaana chahiye."
+    }
+   },
+   {
+    "term": {
+     "en": "Power imbalance",
+     "hi": "ताक़त का असंतुलन (power imbalance)",
+     "hg": "Power imbalance"
+    },
+    "def": {
+     "en": "When one person has authority or control over another, such as a teacher over a student, which makes it hard to refuse freely.",
+     "hi": "जब एक इंसान के पास दूसरे पर अधिकार या नियंत्रण हो, जैसे टीचर का छात्र पर, जिससे खुलकर मना करना मुश्किल हो जाता है।",
+     "hg": "Jab ek insaan ke paas doosre par authority ya control ho, jaise teacher ka student par, jisse freely mana karna mushkil ho jaata hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Sexual harassment",
+     "hi": "यौन उत्पीड़न (sexual harassment)",
+     "hg": "Sexual harassment"
+    },
+    "def": {
+     "en": "Unwanted sexual attention, such as comments, staring, messages, following or touching, done without the person's consent.",
+     "hi": "अनचाहा यौन ध्यान, जैसे टिप्पणियाँ, घूरना, मैसेज, पीछा करना या छूना, जो इंसान की सहमति के बिना किया जाए।",
+     "hg": "Unwanted sexual attention, jaise comments, ghoorna, messages, peecha karna ya touch karna, jo insaan ke consent ke bina kiya jaaye."
+    }
+   },
+   {
+    "term": {
+     "en": "Survivor",
+     "hi": "सर्वाइवर (survivor)",
+     "hg": "Survivor"
+    },
+    "def": {
+     "en": "A person who has experienced sexual violence or abuse. The word puts the focus on their strength and recovery, not on what was done to them.",
+     "hi": "वह इंसान जिसने यौन हिंसा या शोषण झेला है। यह शब्द उसकी हिम्मत और उबरने पर ध्यान देता है, उस पर नहीं जो उसके साथ किया गया।",
+     "hg": "Woh insaan jisne sexual violence ya abuse jhela hai. Yeh word unki strength aur recovery par focus karta hai, us par nahi jo unke saath kiya gaya."
+    }
+   }
+  ]
+ }
+]

@@ -1,0 +1,1024 @@
+[
+ {
+  "id": "d13-s1",
+  "domain": "d13",
+  "module": "digital",
+  "tracks": [
+   "A"
+  ],
+  "title": {
+   "en": "The Free Coins Pop-up",
+   "hi": "फ़्री कॉइन वाला पॉप-अप",
+   "hg": "Free Coins Wala Pop-up"
+  },
+  "intro": {
+   "en": "Aarav is 7. He is playing a car game on Papa's phone. Help him make safe choices.",
+   "hi": "आरव 7 साल का है। वह पापा के फ़ोन पर कार वाला गेम खेल रहा है। सुरक्षित फ़ैसले लेने में उसकी मदद करो।",
+   "hg": "Aarav 7 saal ka hai. Woh Papa ke phone pe car wala game khel raha hai. Safe choices lene mein uski help karo."
+  },
+  "sensitive": false,
+  "start": "n1",
+  "nodes": {
+   "n1": {
+    "text": {
+     "en": "A bright box pops up: 'FREE 1000 COINS! Type your name and school.' What should Aarav do?",
+     "hi": "एक चमकीला बॉक्स सामने आता है: 'फ़्री 1000 कॉइन! अपना नाम और स्कूल लिखो।' आरव को क्या करना चाहिए?",
+     "hg": "Ek chamkeela box saamne aata hai: 'FREE 1000 COINS! Apna naam aur school likho.' Aarav ko kya karna chahiye?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Call Papa and show him the screen",
+       "hi": "पापा को बुलाकर स्क्रीन दिखाना",
+       "hg": "Papa ko bulakar screen dikhana"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Great choice. Pop-ups that ask for your name or school are tricks. Showing a grown-up is the safest thing to do.",
+       "hi": "बहुत बढ़िया। जो पॉप-अप नाम या स्कूल पूछते हैं, वे चाल होते हैं। किसी बड़े को दिखाना सबसे सुरक्षित काम है।",
+       "hg": "Bahut badhiya. Jo pop-up naam ya school poochhte hain, woh trick hote hain. Kisi bade ko dikhana sabse safe kaam hai."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Close the box and tell nobody",
+       "hi": "बॉक्स बंद कर देना और किसी को न बताना",
+       "hg": "Box band kar dena aur kisi ko na batana"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Closing it was smart. But a grown-up should know too, so they can make the phone safer. Telling is always okay.",
+       "hi": "बंद करना समझदारी थी। पर किसी बड़े को भी पता होना चाहिए, ताकि वे फ़ोन को और सुरक्षित बना सकें। बताना हमेशा ठीक है।",
+       "hg": "Band karna smart tha. Par kisi bade ko bhi pata hona chahiye, taaki woh phone ko aur safe bana sakein. Batana hamesha okay hai."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Type his name and school to get the coins",
+       "hi": "कॉइन पाने के लिए नाम और स्कूल लिख देना",
+       "hg": "Coins paane ke liye naam aur school likh dena"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "It is easy to want free coins. But a name and school are private, and the box is a trick. Next time, stop and ask a grown-up first.",
+       "hi": "फ़्री कॉइन का मन होना आम बात है। पर नाम और स्कूल निजी हैं, और यह बॉक्स एक चाल है। अगली बार रुककर पहले किसी बड़े से पूछना।",
+       "hg": "Free coins ka mann hona normal hai. Par naam aur school private hain, aur yeh box ek trick hai. Agli baar rukkar pehle kisi bade se poochhna."
+      },
+      "next": "n2"
+     }
+    ]
+   },
+   "n2": {
+    "text": {
+     "en": "Later, a player called CoolTiger sends a message: 'Hi! Which school do you go to? Send me your photo.'",
+     "hi": "थोड़ी देर बाद CoolTiger नाम का एक खिलाड़ी मैसेज भेजता है: 'हाय! तुम किस स्कूल में पढ़ते हो? अपनी फ़ोटो भेजो।'",
+     "hg": "Thodi der baad CoolTiger naam ka ek player message bhejta hai: 'Hi! Tum kis school mein padhte ho? Apni photo bhejo.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Do not answer. Go and tell Papa.",
+       "hi": "जवाब न देना। जाकर पापा को बताना।",
+       "hg": "Jawab na dena. Jaakar Papa ko batana."
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Perfect. You never have to answer a stranger in a game. Telling Papa means he can block the player and keep you safe.",
+       "hi": "एकदम सही। गेम में किसी अनजान को जवाब देना कभी ज़रूरी नहीं होता। पापा को बताओगे तो वे उस खिलाड़ी को ब्लॉक करके तुम्हें सुरक्षित रख सकेंगे।",
+       "hg": "Ekdum sahi. Game mein kisi stranger ko jawab dena kabhi zaroori nahi hota. Papa ko bataoge toh woh us player ko block karke tumhe safe rakh sakenge."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Reply 'I cannot tell you' and keep playing",
+       "hi": "'मैं नहीं बता सकता' लिखकर खेलते रहना",
+       "hg": "'Main nahi bata sakta' likhkar khelte rehna"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Not telling was right. But replying keeps the chat going. It is safer to stop and tell a grown-up about the message.",
+       "hi": "न बताना सही था। पर जवाब देने से बातचीत चलती रहती है। रुककर किसी बड़े को मैसेज के बारे में बताना ज़्यादा सुरक्षित है।",
+       "hg": "Na batana sahi tha. Par reply karne se chat chalti rehti hai. Rukkar kisi bade ko message ke baare mein batana zyada safe hai."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Send a photo, because CoolTiger seems nice",
+       "hi": "फ़ोटो भेज देना, क्योंकि CoolTiger अच्छा लगता है",
+       "hg": "Photo bhej dena, kyunki CoolTiger nice lagta hai"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Someone can seem nice and still not be safe. You cannot see who CoolTiger really is. Photos stay with family. Tell a grown-up straight away.",
+       "hi": "कोई अच्छा लग सकता है और फिर भी सुरक्षित नहीं हो सकता। तुम देख नहीं सकते कि CoolTiger असल में कौन है। फ़ोटो परिवार के पास रहती हैं। तुरंत किसी बड़े को बताओ।",
+       "hg": "Koi nice lag sakta hai aur phir bhi safe nahi ho sakta. Tum dekh nahi sakte ki CoolTiger asal mein kaun hai. Photos family ke paas rehti hain. Turant kisi bade ko batao."
+      },
+      "next": "n3"
+     }
+    ]
+   },
+   "n3": {
+    "text": {
+     "en": "Papa looks at the message. He blocks CoolTiger and gives Aarav a hug. 'Thank you for telling me,' he says. What will Aarav remember?",
+     "hi": "पापा मैसेज देखते हैं। वे CoolTiger को ब्लॉक करते हैं और आरव को गले लगाते हैं। 'मुझे बताने के लिए शाबाश,' वे कहते हैं। आरव क्या याद रखेगा?",
+     "hg": "Papa message dekhte hain. Woh CoolTiger ko block karte hain aur Aarav ko hug karte hain. 'Mujhe batane ke liye thank you,' woh bolte hain. Aarav kya yaad rakhega?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Ask first, and always tell",
+       "hi": "पहले पूछो, और हमेशा बताओ",
+       "hg": "Pehle poochho, aur hamesha batao"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Yes! Asking before clicking and telling when something feels odd keeps you safe. Papa was proud of Aarav, not angry.",
+       "hi": "हाँ! क्लिक करने से पहले पूछना और कुछ अजीब लगे तो बताना तुम्हें सुरक्षित रखता है। पापा आरव से नाराज़ नहीं, ख़ुश थे।",
+       "hg": "Haan! Click karne se pehle poochhna aur kuch ajeeb lage toh batana tumhe safe rakhta hai. Papa Aarav se gussa nahi, proud the."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Next time I will hide it so nobody takes the phone away",
+       "hi": "अगली बार छिपा लूँगा ताकि कोई फ़ोन न ले ले",
+       "hg": "Agli baar chhupa lunga taaki koi phone na le le"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "It is normal to worry about losing game time. But hiding things leaves you alone with the problem. Grown-ups who care want you to tell them.",
+       "hi": "गेम का समय छिन जाने की फ़िक्र होना आम बात है। पर छिपाने से तुम परेशानी के साथ अकेले रह जाते हो। जो बड़े तुम्हारी परवाह करते हैं, वे चाहते हैं कि तुम उन्हें बताओ।",
+       "hg": "Game time chhin jaane ki tension hona normal hai. Par chhupane se tum problem ke saath akele reh jaate ho. Jo bade tumhari care karte hain, woh chahte hain ki tum unhe batao."
+      },
+      "next": null
+     }
+    ]
+   }
+  },
+  "debrief": {
+   "en": "Pop-ups and players can ask for your name, school or photos. These stay with your family. When something online asks for them or feels odd, stop and tell a trusted grown-up. Telling is brave, and it is never tattling.",
+   "hi": "पॉप-अप और खिलाड़ी तुम्हारा नाम, स्कूल या फ़ोटो माँग सकते हैं। ये चीज़ें परिवार के पास ही रहती हैं। जब ऑनलाइन कोई ये माँगे या कुछ अजीब लगे, तो रुको और किसी भरोसेमंद बड़े को बताओ। बताना बहादुरी है, चुगली नहीं।",
+   "hg": "Pop-ups aur players tumhara naam, school ya photos maang sakte hain. Yeh cheezein family ke paas hi rehti hain. Jab online koi yeh maange ya kuch ajeeb lage, toh ruko aur kisi bharosemand bade ko batao. Batana bahaduri hai, chugli nahi."
+  },
+  "refs": [
+   "unesco-itgse",
+   "wcd-childline"
+  ]
+ },
+ {
+  "id": "d13-s2",
+  "domain": "d13",
+  "module": "digital",
+  "tracks": [
+   "B"
+  ],
+  "title": {
+   "en": "The Friend Who Wants a Secret",
+   "hi": "वह दोस्त जिसे राज़ चाहिए",
+   "hg": "Woh Dost Jisse Secret Chahiye"
+  },
+  "intro": {
+   "en": "Meher is 11 and loves sharing her drawings on an art app. A user called Riya_art12, who says she is 12, has been praising every drawing for two weeks.",
+   "hi": "मेहर 11 साल की है और उसे एक आर्ट ऐप पर अपनी ड्रॉइंग डालना बहुत पसंद है। Riya_art12 नाम की एक यूज़र, जो ख़ुद को 12 साल की बताती है, दो हफ़्ते से उसकी हर ड्रॉइंग की तारीफ़ कर रही है।",
+   "hg": "Meher 11 saal ki hai aur usse ek art app pe apni drawings share karna bahut pasand hai. Riya_art12 naam ki ek user, jo khud ko 12 saal ki batati hai, do hafte se uski har drawing ki tareef kar rahi hai."
+  },
+  "sensitive": true,
+  "start": "n1",
+  "nodes": {
+   "n1": {
+    "text": {
+     "en": "Riya_art12 writes: 'You are so talented! I got you 500 app coins as a gift. Let us chat on another app where your parents cannot see. It will be our secret.'",
+     "hi": "Riya_art12 लिखती है: 'तुम बहुत टैलेंटेड हो! मैंने तुम्हारे लिए 500 ऐप कॉइन गिफ़्ट किए हैं। चलो किसी दूसरे ऐप पर बात करते हैं जहाँ तुम्हारे मम्मी-पापा न देख सकें। यह हमारा राज़ रहेगा।'",
+     "hg": "Riya_art12 likhti hai: 'Tum bahut talented ho! Maine tumhare liye 500 app coins gift kiye hain. Chalo kisi doosre app pe baat karte hain jahan tumhare parents na dekh sakein. Yeh hamara secret rahega.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Say no to moving apps and tell Mummy about the message",
+       "hi": "दूसरे ऐप पर जाने से मना करना और मम्मी को मैसेज के बारे में बताना",
+       "hg": "Doosre app pe jaane se mana karna aur Mummy ko message ke baare mein batana"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Strong move. A gift, a private app and a secret from parents arriving together is the classic grooming pattern. Telling an adult early stops it before it grows.",
+       "hi": "बढ़िया क़दम। तोहफ़ा, प्राइवेट ऐप और माता-पिता से राज़, तीनों का एक साथ आना ग्रूमिंग का जाना-पहचाना तरीका है। किसी बड़े को जल्दी बता देने से बात बढ़ने से पहले ही रुक जाती है।",
+       "hg": "Strong move. Gift, private app aur parents se secret, teeno ka ek saath aana grooming ka classic pattern hai. Kisi adult ko jaldi bata dene se baat badhne se pehle hi ruk jaati hai."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Accept the coins but stay on the art app",
+       "hi": "कॉइन ले लेना पर आर्ट ऐप पर ही रहना",
+       "hg": "Coins le lena par art app pe hi rehna"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Staying on the app was sensible. But accepting a gift can make you feel you owe something later, which is what a groomer wants. You never owe anyone for a gift.",
+       "hi": "ऐप पर ही रहना समझदारी थी। पर तोहफ़ा लेने से बाद में लग सकता है कि तुम पर कोई एहसान है, और ग्रूमिंग करने वाला यही चाहता है। तोहफ़े के बदले तुम किसी के कर्ज़दार नहीं होते।",
+       "hg": "App pe hi rehna sensible tha. Par gift lene se baad mein lag sakta hai ki tum pe koi ehsaan hai, aur grooming karne wala yahi chahta hai. Gift ke badle tum kisi ke karzdaar nahi hote."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Move to the other app, since she has been so kind",
+       "hi": "दूसरे ऐप पर चले जाना, क्योंकि वह इतनी अच्छी रही है",
+       "hg": "Doosre app pe chale jaana, kyunki woh itni kind rahi hai"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Kindness online can be real, but it can also be a plan. A private app hides the chat from the people who protect you. It is not too late to stop and tell an adult.",
+       "hi": "ऑनलाइन अच्छाई सच्ची हो सकती है, पर वह एक चाल भी हो सकती है। प्राइवेट ऐप चैट को उन लोगों से छिपा देता है जो तुम्हारी हिफ़ाज़त करते हैं। रुककर किसी बड़े को बताने में अभी देर नहीं हुई है।",
+       "hg": "Online kindness real ho sakti hai, par woh ek plan bhi ho sakti hai. Private app chat ko un logon se chhupa deta hai jo tumhe protect karte hain. Rukkar kisi adult ko batane mein abhi der nahi hui hai."
+      },
+      "next": "n2"
+     }
+    ]
+   },
+   "n2": {
+    "text": {
+     "en": "The next day another message arrives: 'Which school are you in? Send me a photo in your uniform. And do not tell your mum, she will not understand our friendship.'",
+     "hi": "अगले दिन एक और मैसेज आता है: 'तुम किस स्कूल में हो? यूनिफ़ॉर्म में अपनी एक फ़ोटो भेजो। और अपनी मम्मी को मत बताना, वे हमारी दोस्ती नहीं समझेंगी।'",
+     "hg": "Agle din ek aur message aata hai: 'Tum kis school mein ho? Uniform mein apni ek photo bhejo. Aur apni Mummy ko mat batana, woh hamari dosti nahi samjhengi.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Stop replying and keep the chat to show an adult",
+       "hi": "जवाब देना बंद करना और किसी बड़े को दिखाने के लिए चैट रहने देना",
+       "hg": "Reply band karna aur kisi adult ko dikhane ke liye chat rehne dena"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Exactly right. School, a uniform photo and 'do not tell' are three warning signs at once. Keeping the chat helps an adult see what happened and report the account.",
+       "hi": "बिल्कुल सही। स्कूल, यूनिफ़ॉर्म वाली फ़ोटो और 'बताना मत', ये एक साथ तीन ख़तरे के संकेत हैं। चैट रहने देने से कोई बड़ा देख पाएगा कि क्या हुआ और अकाउंट की रिपोर्ट कर पाएगा।",
+       "hg": "Bilkul sahi. School, uniform wali photo aur 'batana mat', yeh ek saath teen warning signs hain. Chat rehne dene se koi adult dekh payega ki kya hua aur account report kar payega."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Reply 'No' and then delete the whole chat",
+       "hi": "'नहीं' लिखना और फिर पूरी चैट डिलीट कर देना",
+       "hg": "'Nahi' likhna aur phir poori chat delete kar dena"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Saying no was right. Deleting feels like a clean ending, but the chat is what lets an adult and the app act against the account. Keep it and show it.",
+       "hi": "मना करना सही था। डिलीट करने से लगता है कि बात ख़त्म हो गई, पर उसी चैट के सहारे कोई बड़ा और ऐप उस अकाउंट पर कार्रवाई कर पाते हैं। उसे रहने दो और दिखाओ।",
+       "hg": "Mana karna sahi tha. Delete karne se lagta hai ki baat khatam ho gayi, par usi chat ke sahare koi adult aur app us account pe action le paate hain. Usse rehne do aur dikhao."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Send the school name but not the photo",
+       "hi": "स्कूल का नाम बता देना पर फ़ोटो न भेजना",
+       "hg": "School ka naam bata dena par photo na bhejna"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Sharing a little can feel like a safe middle path. But a school name is enough to find someone. Tell a trusted adult now; you will not be blamed for what you shared.",
+       "hi": "थोड़ा सा बता देना बीच का सुरक्षित रास्ता लग सकता है। पर किसी को ढूँढ़ने के लिए स्कूल का नाम ही काफ़ी है। अभी किसी भरोसेमंद बड़े को बताओ; जो बता दिया उसके लिए तुम्हें दोष नहीं दिया जाएगा।",
+       "hg": "Thoda sa share kar dena safe middle path lag sakta hai. Par kisi ko dhoondhne ke liye school ka naam hi kaafi hai. Abhi kisi trusted adult ko batao; jo share kar diya uske liye tumhe blame nahi kiya jayega."
+      },
+      "next": "n3"
+     }
+    ]
+   },
+   "n3": {
+    "text": {
+     "en": "Meher feels uneasy. She worries Mummy will be angry that she chatted with someone she did not know. What should she do?",
+     "hi": "मेहर को बेचैनी हो रही है। उसे डर है कि मम्मी नाराज़ होंगी कि उसने किसी अनजान से चैट की। उसे क्या करना चाहिए?",
+     "hg": "Meher ko uneasy feel ho raha hai. Usse darr hai ki Mummy gussa hongi ki usne kisi anjaan se chat ki. Usse kya karna chahiye?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Show Mummy the chat today",
+       "hi": "आज ही मम्मी को चैट दिखाना",
+       "hg": "Aaj hi Mummy ko chat dikhana"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "This is the bravest and safest choice. Most parents feel relief that their child told them. Together they can block and report the account, and call 1098 if they need advice.",
+       "hi": "यह सबसे बहादुर और सबसे सुरक्षित फ़ैसला है। ज़्यादातर माता-पिता को राहत मिलती है कि बच्चे ने उन्हें बताया। दोनों मिलकर अकाउंट को ब्लॉक और रिपोर्ट कर सकते हैं, और सलाह चाहिए तो 1098 पर कॉल कर सकते हैं।",
+       "hg": "Yeh sabse brave aur sabse safe choice hai. Zyadatar parents ko relief milta hai ki bachche ne unhe bataya. Dono milkar account ko block aur report kar sakte hain, aur advice chahiye toh 1098 pe call kar sakte hain."
+      },
+      "next": "n4"
+     },
+     {
+      "label": {
+       "en": "Tell her older cousin first and ask him to come along to tell Mummy",
+       "hi": "पहले बड़े कज़िन को बताना और कहना कि मम्मी को बताते समय साथ चले",
+       "hg": "Pehle bade cousin ko batana aur bolna ki Mummy ko batate time saath chale"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Good thinking. Starting with someone you find easier to talk to is fine, as long as a responsible adult hears about it soon.",
+       "hi": "अच्छी सोच। जिससे बात करना आसान लगे, उससे शुरुआत करना ठीक है, बस बात जल्दी ही किसी ज़िम्मेदार बड़े तक पहुँच जानी चाहिए।",
+       "hg": "Achhi soch. Jisse baat karna easy lage, usse start karna theek hai, bas baat jaldi hi kisi responsible adult tak pahunch jaani chahiye."
+      },
+      "next": "n4"
+     },
+     {
+      "label": {
+       "en": "Say nothing and just stop using the app",
+       "hi": "कुछ न कहना और बस ऐप चलाना बंद कर देना",
+       "hg": "Kuch na bolna aur bas app use karna band kar dena"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Wanting it to simply go away makes sense. But the person can find other children, and Meher is left carrying the worry alone. Telling an adult protects her and others.",
+       "hi": "यह चाहना कि बात अपने आप ख़त्म हो जाए, समझ में आता है। पर वह इंसान दूसरे बच्चों को ढूँढ़ सकता है, और मेहर अकेली यह फ़िक्र ढोती रहेगी। किसी बड़े को बताने से वह भी सुरक्षित रहती है और दूसरे भी।",
+       "hg": "Yeh chahna ki baat apne aap khatam ho jaye, samajh mein aata hai. Par woh insaan doosre bachchon ko dhoondh sakta hai, aur Meher akeli yeh tension uthati rahegi. Kisi adult ko batane se woh bhi safe rehti hai aur doosre bhi."
+      },
+      "next": "n4"
+     }
+    ]
+   },
+   "n4": {
+    "text": {
+     "en": "Mummy reads the chat, hugs Meher and says, 'You did nothing wrong. This person was trying to trick you.' They block and report the account together. What is the main lesson?",
+     "hi": "मम्मी चैट पढ़ती हैं, मेहर को गले लगाती हैं और कहती हैं, 'तुमने कुछ ग़लत नहीं किया। यह इंसान तुम्हें बहकाने की कोशिश कर रहा था।' दोनों मिलकर अकाउंट को ब्लॉक और रिपोर्ट करती हैं। सबसे बड़ी सीख क्या है?",
+     "hg": "Mummy chat padhti hain, Meher ko hug karti hain aur bolti hain, 'Tumne kuch galat nahi kiya. Yeh insaan tumhe trick karne ki koshish kar raha tha.' Dono milkar account ko block aur report karti hain. Main lesson kya hai?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "A safe friend never asks me to hide our friendship from my family",
+       "hi": "सुरक्षित दोस्त कभी नहीं कहता कि दोस्ती अपने परिवार से छिपाओ",
+       "hg": "Safe dost kabhi nahi bolta ki dosti apni family se chhupao"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "That is the rule to keep. Friendly people are not the warning sign; a request for secrecy is. When you hear 'do not tell', that is your signal to tell.",
+       "hi": "यही नियम याद रखना है। दोस्ताना होना ख़तरे का संकेत नहीं है; राज़ रखने की माँग है। जब 'बताना मत' सुनो, तो वही बताने का इशारा है।",
+       "hg": "Yahi rule yaad rakhna hai. Friendly hona warning sign nahi hai; secret rakhne ki demand hai. Jab 'batana mat' suno, toh wahi batane ka signal hai."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "I should never talk to anyone online again",
+       "hi": "मुझे अब कभी ऑनलाइन किसी से बात नहीं करनी चाहिए",
+       "hg": "Mujhe ab kabhi online kisi se baat nahi karni chahiye"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "It is understandable to feel that way after a scare. But the internet is not the problem; secrecy is. With privacy settings and adults in the loop, you can still enjoy sharing your art.",
+       "hi": "डर जाने के बाद ऐसा लगना समझ में आता है। पर गड़बड़ इंटरनेट में नहीं, राज़ रखने में है। प्राइवेसी सेटिंग ठीक हों और बड़ों को पता हो, तो तुम अब भी अपनी कला मज़े से शेयर कर सकते हो।",
+       "hg": "Scare ke baad aisa lagna samajh mein aata hai. Par problem internet nahi hai; secrecy hai. Privacy settings theek hon aur adults loop mein hon, toh tum ab bhi apni art maze se share kar sakte ho."
+      },
+      "next": null
+     }
+    ]
+   }
+  },
+  "debrief": {
+   "en": "Grooming usually arrives as kindness: praise, gifts, a private chat and then a secret. The warning sign is not that someone is friendly, but that they want you hidden from the people who protect you. Stop replying, keep the chat, and tell a trusted adult. Being tricked is never the child's fault.",
+   "hi": "ग्रूमिंग अक्सर अच्छाई का रूप लेकर आती है: तारीफ़, तोहफ़े, प्राइवेट चैट और फिर एक राज़। ख़तरे का संकेत यह नहीं कि कोई दोस्ताना है, बल्कि यह कि वह तुम्हें उन लोगों से छिपाकर रखना चाहता है जो तुम्हारी हिफ़ाज़त करते हैं। जवाब देना बंद करो, चैट रहने दो और किसी भरोसेमंद बड़े को बताओ। धोखा खाना कभी बच्चे की ग़लती नहीं होती।",
+   "hg": "Grooming aksar kindness ban kar aati hai: tareef, gifts, private chat aur phir ek secret. Warning sign yeh nahi ki koi friendly hai, balki yeh ki woh tumhe un logon se chhupakar rakhna chahta hai jo tumhe protect karte hain. Reply band karo, chat rehne do aur kisi trusted adult ko batao. Dhokha khana kabhi bachche ki galti nahi hoti."
+  },
+  "refs": [
+   "wcd-childline",
+   "pocso-2012",
+   "unesco-itgse"
+  ]
+ },
+ {
+  "id": "d13-s3",
+  "domain": "d13",
+  "module": "digital",
+  "tracks": [
+   "C"
+  ],
+  "title": {
+   "en": "Prove You Trust Me",
+   "hi": "भरोसा है तो साबित करो",
+   "hg": "Trust Hai Toh Prove Karo"
+  },
+  "intro": {
+   "en": "Ananya is 14. She and Rehan, a boy from her tuition class, have been chatting every night for a month, and she really likes him.",
+   "hi": "अनन्या 14 साल की है। वह और उसकी ट्यूशन क्लास का एक लड़का रेहान एक महीने से हर रात चैट कर रहे हैं, और वह उसे सच में पसंद करती है।",
+   "hg": "Ananya 14 saal ki hai. Woh aur uski tuition class ka ek ladka Rehan ek mahine se har raat chat kar rahe hain, aur woh usse sach mein like karti hai."
+  },
+  "sensitive": true,
+  "start": "n1",
+  "nodes": {
+   "n1": {
+    "text": {
+     "en": "Late one night Rehan writes: 'Send me a private pic, just for me. I will delete it in one second. Promise.'",
+     "hi": "एक रात देर से रेहान लिखता है: 'मुझे एक प्राइवेट फ़ोटो भेजो, सिर्फ़ मेरे लिए। मैं एक सेकंड में डिलीट कर दूँगा। पक्का वादा।'",
+     "hg": "Ek raat late Rehan likhta hai: 'Mujhe ek private pic bhejo, sirf mere liye. Main ek second mein delete kar dunga. Pakka promise.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Reply: 'No. I do not send photos like that.'",
+       "hi": "जवाब देना: 'नहीं। मैं ऐसी फ़ोटो नहीं भेजती।'",
+       "hg": "Reply karna: 'Nahi. Main aisi photos nahi bhejti.'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Clear and enough. She does not need a long reason. A promise to delete cannot be checked, and a sexual image of anyone under 18 is illegal to ask for, send or keep.",
+       "hi": "साफ़ और काफ़ी। उसे लंबी वजह देने की ज़रूरत नहीं। डिलीट करने के वादे की जाँच नहीं हो सकती, और 18 से कम उम्र के किसी भी इंसान की यौन तस्वीर माँगना, भेजना या रखना ग़ैरक़ानूनी है।",
+       "hg": "Clear aur kaafi. Usse lamba reason dene ki zaroorat nahi. Delete karne ka promise check nahi ho sakta, aur under-18 kisi bhi insaan ki sexual image maangna, bhejna ya rakhna illegal hai."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Say 'my phone camera is broken' to avoid it",
+       "hi": "टालने के लिए कहना 'मेरे फ़ोन का कैमरा ख़राब है'",
+       "hg": "Taalne ke liye bolna 'mere phone ka camera kharab hai'"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "An excuse gets her out of tonight, and wanting to avoid a fight is human. But excuses invite the same request tomorrow. A plain no sets the boundary.",
+       "hi": "बहाने से आज की रात तो निकल जाती है, और झगड़े से बचना चाहना स्वाभाविक है। पर बहाना कल फिर वही माँग बुला लेता है। सीधी 'ना' ही सीमा तय करती है।",
+       "hg": "Bahane se aaj ki raat toh nikal jaati hai, aur fight avoid karna chahna human hai. Par bahana kal phir wahi request bula leta hai. Seedhi 'na' hi boundary set karti hai."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Think about sending it so he does not lose interest",
+       "hi": "भेजने की सोचना ताकि उसकी दिलचस्पी ख़त्म न हो जाए",
+       "hg": "Bhejne ka sochna taaki uska interest khatam na ho jaye"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Fear of losing someone is real pressure. But once sent, the photo is out of her control for good, and affection that depends on a photo is not secure. She can still say no.",
+       "hi": "किसी को खो देने का डर सचमुच का दबाव है। पर एक बार भेजने के बाद फ़ोटो हमेशा के लिए उसके कंट्रोल से बाहर है, और जो लगाव एक फ़ोटो पर टिका हो वह पक्का नहीं होता। वह अब भी मना कर सकती है।",
+       "hg": "Kisi ko kho dene ka darr real pressure hai. Par ek baar bhejne ke baad photo hamesha ke liye uske control se bahar hai, aur jo affection ek photo pe tika ho woh secure nahi hota. Woh ab bhi mana kar sakti hai."
+      },
+      "next": "n2"
+     }
+    ]
+   },
+   "n2": {
+    "text": {
+     "en": "Rehan does not drop it. 'Everyone does it. If you trusted me you would. Maybe you are just not serious about us.'",
+     "hi": "रेहान बात नहीं छोड़ता। 'सब करते हैं। भरोसा होता तो भेज देती। शायद तुम हमारे बारे में सीरियस ही नहीं हो।'",
+     "hg": "Rehan baat nahi chhodta. 'Sab karte hain. Trust hota toh bhej deti. Shayad tum hamare baare mein serious hi nahi ho.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Name it: 'You are pressuring me. My answer is still no.'",
+       "hi": "साफ़ कह देना: 'तुम मुझ पर दबाव डाल रहे हो। मेरा जवाब अब भी ना है।'",
+       "hg": "Seedha bol dena: 'Tum mujh pe pressure daal rahe ho. Mera answer ab bhi na hai.'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Calling pressure by its name takes away its power. Trust is not proved by taking risks for someone. A person who cares about her will stop here.",
+       "hi": "दबाव को उसके नाम से पुकारने पर उसकी ताक़त घट जाती है। किसी के लिए जोखिम उठाकर भरोसा साबित नहीं होता। जिसे उसकी परवाह है, वह यहीं रुक जाएगा।",
+       "hg": "Pressure ko uske naam se bulane pe uski power kam ho jaati hai. Kisi ke liye risk lekar trust prove nahi hota. Jisse uski care hai, woh yahin ruk jayega."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Go silent and switch off the phone",
+       "hi": "चुप हो जाना और फ़ोन बंद कर देना",
+       "hg": "Chup ho jaana aur phone switch off kar dena"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Stepping away protects her in the moment and is completely allowed. Later, a clear message that the answer is no, and not up for discussion, will stop the cycle.",
+       "hi": "हट जाना उस पल में उसे बचाता है और यह पूरी तरह ठीक है। बाद में एक साफ़ मैसेज कि जवाब 'ना' है और इस पर बहस नहीं होगी, यह सिलसिला रोक देगा।",
+       "hg": "Hat jaana us moment mein usse protect karta hai aur yeh poori tarah allowed hai. Baad mein ek clear message ki answer 'na' hai aur is pe discussion nahi hoga, yeh cycle rok dega."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Send a photo without her face, as a compromise",
+       "hi": "बीच का रास्ता निकालकर बिना चेहरे वाली फ़ोटो भेज देना",
+       "hg": "Compromise mein bina face wali photo bhej dena"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "A half-way photo feels safer, but it is still illegal for under-18s, can still be linked to her through the chat, and usually leads to bigger asks. No is a complete answer.",
+       "hi": "आधी-अधूरी फ़ोटो ज़्यादा सुरक्षित लगती है, पर 18 से कम उम्र वालों के लिए वह भी ग़ैरक़ानूनी है, चैट के ज़रिए उससे जोड़ी जा सकती है, और आम तौर पर इसके बाद बड़ी माँगें आती हैं। 'ना' अपने आप में पूरा जवाब है।",
+       "hg": "Half-way photo zyada safe lagti hai, par under-18 ke liye woh bhi illegal hai, chat ke through usse link ho sakti hai, aur usually iske baad badi demands aati hain. 'Na' apne aap mein complete answer hai."
+      },
+      "next": "n3"
+     }
+    ]
+   },
+   "n3": {
+    "text": {
+     "en": "The next morning Ananya feels shaken. Rehan has sent: 'Fine. Do not blame me if I start telling people things about you.' What now?",
+     "hi": "अगली सुबह अनन्या घबराई हुई है। रेहान ने भेजा है: 'ठीक है। फिर मुझे दोष मत देना अगर मैं लोगों को तुम्हारे बारे में बातें बताने लगूँ।' अब क्या?",
+     "hg": "Agli subah Ananya shaken hai. Rehan ne bheja hai: 'Theek hai. Phir mujhe blame mat karna agar main logon ko tumhare baare mein baatein batane lagun.' Ab kya?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Screenshot the threat, stop replying and talk to her older sister or the school counsellor",
+       "hi": "धमकी का स्क्रीनशॉट लेना, जवाब देना बंद करना और बड़ी बहन या स्कूल काउंसलर से बात करना",
+       "hg": "Dhamki ka screenshot lena, reply band karna aur badi behen ya school counsellor se baat karna"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "This is the plan. A threat to damage her reputation is harassment. Keeping the message and involving a trusted adult means she is not alone, and adults can act if he continues.",
+       "hi": "यही सही योजना है। बदनाम करने की धमकी उत्पीड़न है। मैसेज सँभालकर रखने और किसी भरोसेमंद बड़े को शामिल करने से वह अकेली नहीं रहती, और अगर वह नहीं रुका तो बड़े क़दम उठा सकते हैं।",
+       "hg": "Yahi sahi plan hai. Reputation kharab karne ki dhamki harassment hai. Message sambhalkar rakhne aur kisi trusted adult ko involve karne se woh akeli nahi rehti, aur agar woh nahi ruka toh adults action le sakte hain."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Block him and tell nobody",
+       "hi": "उसे ब्लॉक कर देना और किसी को न बताना",
+       "hg": "Usse block kar dena aur kisi ko na batana"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Blocking is a good protective step. Telling one trusted person as well matters, because if he spreads rumours she will already have someone who knows the truth.",
+       "hi": "ब्लॉक करना बचाव का अच्छा क़दम है। साथ में किसी एक भरोसेमंद इंसान को बताना भी ज़रूरी है, क्योंकि अगर वह अफ़वाहें फैलाए तो उसके पास पहले से कोई होगा जो सच जानता है।",
+       "hg": "Block karna achha protective step hai. Saath mein kisi ek trusted insaan ko batana bhi zaroori hai, kyunki agar woh rumours phailaye toh uske paas pehle se koi hoga jo sach jaanta hai."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Apologise and try to make him happy again",
+       "hi": "माफ़ी माँगना और उसे फिर से ख़ुश करने की कोशिश करना",
+       "hg": "Sorry bolna aur usse phir se khush karne ki koshish karna"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Wanting peace is understandable, but she did nothing that needs an apology. Soothing someone who threatens you teaches them that threats work. Her no was right.",
+       "hi": "सुलह चाहना समझ में आता है, पर उसने ऐसा कुछ नहीं किया जिसके लिए माफ़ी माँगनी पड़े। धमकाने वाले को मनाने से वह सीखता है कि धमकी काम करती है। उसका 'ना' कहना सही था।",
+       "hg": "Peace chahna samajh mein aata hai, par usne aisa kuch nahi kiya jiske liye sorry bolna pade. Dhamkane wale ko manane se woh seekhta hai ki dhamki kaam karti hai. Uska 'na' bolna sahi tha."
+      },
+      "next": null
+     }
+    ]
+   }
+  },
+  "debrief": {
+   "en": "Pressure for photos follows a script: a promise, then guilt, then a threat. None of it is love. For anyone under 18, sexual images are illegal to request, send or keep, and a sent photo can never be recalled. A short, firm no is enough, and a trusted adult can help if refusal is met with threats. You can also call Child Helpline 1098.",
+   "hi": "फ़ोटो के लिए दबाव एक तय स्क्रिप्ट पर चलता है: पहले वादा, फिर अपराध-बोध कराना, फिर धमकी। इनमें से कुछ भी प्यार नहीं है। 18 से कम उम्र के किसी भी इंसान की यौन तस्वीरें माँगना, भेजना या रखना ग़ैरक़ानूनी है, और भेजी हुई फ़ोटो कभी वापस नहीं आती। छोटी और पक्की 'ना' काफ़ी है, और अगर मना करने पर धमकी मिले तो कोई भरोसेमंद बड़ा मदद कर सकता है। तुम चाइल्ड हेल्पलाइन 1098 पर भी कॉल कर सकते हो।",
+   "hg": "Photos ke liye pressure ek script pe chalta hai: pehle promise, phir guilt, phir dhamki. Inme se kuch bhi pyaar nahi hai. Under-18 kisi bhi insaan ki sexual images maangna, bhejna ya rakhna illegal hai, aur bheji hui photo kabhi wapas nahi aati. Chhoti aur firm 'na' kaafi hai, aur agar mana karne pe dhamki mile toh koi trusted adult help kar sakta hai. Tum Child Helpline 1098 pe bhi call kar sakte ho."
+  },
+  "refs": [
+   "unesco-itgse",
+   "pocso-2012"
+  ]
+ },
+ {
+  "id": "d13-s4",
+  "domain": "d13",
+  "module": "digital",
+  "tracks": [
+   "D"
+  ],
+  "title": {
+   "en": "The Video Call Trap",
+   "hi": "वीडियो कॉल का जाल",
+   "hg": "Video Call Wala Trap"
+  },
+  "intro": {
+   "en": "Arjun is 17. A new follower called Tanya started chatting with him three days ago and suggested a late-night video call. Minutes after the call, the tone changed.",
+   "hi": "अर्जुन 17 साल का है। तान्या नाम की एक नई फ़ॉलोअर ने तीन दिन पहले उससे चैट शुरू की और देर रात वीडियो कॉल का सुझाव दिया। कॉल के कुछ ही मिनट बाद लहजा बदल गया।",
+   "hg": "Arjun 17 saal ka hai. Tanya naam ki ek nayi follower ne teen din pehle usse chat shuru ki aur late-night video call suggest kiya. Call ke kuch hi minutes baad tone badal gayi."
+  },
+  "sensitive": true,
+  "start": "n1",
+  "nodes": {
+   "n1": {
+    "text": {
+     "en": "A message arrives with a list of his followers: 'I recorded the call. Send 5,000 rupees to this UPI ID in one hour or the video goes to all of them, starting with your mother.'",
+     "hi": "उसके फ़ॉलोअर्स की सूची के साथ एक मैसेज आता है: 'मैंने कॉल रिकॉर्ड कर ली है। एक घंटे में इस UPI ID पर 5,000 रुपये भेजो, वरना वीडियो इन सबके पास जाएगा, शुरुआत तुम्हारी माँ से होगी।'",
+     "hg": "Uske followers ki list ke saath ek message aata hai: 'Maine call record kar li hai. Ek ghante mein is UPI ID pe 5,000 rupaye bhejo, warna video in sabke paas jayega, shuruaat tumhari maa se hogi.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Stop replying and do not pay",
+       "hi": "जवाब देना बंद करना और पैसे न देना",
+       "hg": "Reply band karna aur pay na karna"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Right. The one-hour deadline is designed to stop him thinking. Silence removes the blackmailer's leverage, while payment usually leads to a larger demand within hours.",
+       "hi": "सही। एक घंटे की मोहलत इसीलिए दी गई है कि वह सोच न पाए। चुप्पी ब्लैकमेलर की पकड़ ढीली कर देती है, जबकि पैसे देने पर आम तौर पर कुछ ही घंटों में और बड़ी माँग आ जाती है।",
+       "hg": "Sahi. Ek ghante ki deadline isiliye di gayi hai ki woh soch na paye. Silence blackmailer ka leverage hata deti hai, jabki pay karne pe usually kuch hi ghanton mein aur badi demand aa jaati hai."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Reply begging them not to send it",
+       "hi": "जवाब में गिड़गिड़ाना कि वीडियो न भेजें",
+       "hg": "Reply mein request karna ki please video mat bhejo"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Pleading is a natural reaction to fear. Unfortunately it shows the blackmailer that the threat is working. It is safer to end the conversation and move to reporting.",
+       "hi": "डर में गिड़गिड़ाना स्वाभाविक है। अफ़सोस, इससे ब्लैकमेलर को दिख जाता है कि धमकी काम कर रही है। बातचीत ख़त्म करके रिपोर्ट करने की ओर बढ़ना ज़्यादा सुरक्षित है।",
+       "hg": "Darr mein request karna natural reaction hai. Unfortunately isse blackmailer ko dikh jaata hai ki dhamki kaam kar rahi hai. Conversation khatam karke reporting ki taraf badhna zyada safe hai."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "Pay the 5,000 rupees to make it stop",
+       "hi": "इसे रोकने के लिए 5,000 रुपये दे देना",
+       "hg": "Isse rokne ke liye 5,000 rupaye pay kar dena"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Paying feels like the fastest way out, and many people try it. In practice it marks him as someone who pays, and a new demand follows. Stop here and call 1930 quickly about the payment.",
+       "hi": "पैसे देना बाहर निकलने का सबसे तेज़ रास्ता लगता है, और बहुत लोग यही करते हैं। असल में इससे वह 'पैसे देने वाला' मान लिया जाता है और नई माँग आ जाती है। यहीं रुको और भुगतान के बारे में जल्दी 1930 पर कॉल करो।",
+       "hg": "Pay karna bahar nikalne ka fastest raasta lagta hai, aur bahut log yahi try karte hain. Reality mein isse woh 'pay karne wala' mark ho jaata hai aur nayi demand aa jaati hai. Yahin ruko aur payment ke baare mein jaldi 1930 pe call karo."
+      },
+      "next": "n2"
+     }
+    ]
+   },
+   "n2": {
+    "text": {
+     "en": "Arjun's hands are shaking. The chat, the profile and the UPI ID are all still on his screen. What should he do with them?",
+     "hi": "अर्जुन के हाथ काँप रहे हैं। चैट, प्रोफ़ाइल और UPI ID, सब अब भी उसकी स्क्रीन पर हैं। उसे इनका क्या करना चाहिए?",
+     "hg": "Arjun ke haath kaanp rahe hain. Chat, profile aur UPI ID, sab ab bhi uski screen pe hain. Usse inka kya karna chahiye?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Keep the chat, note the username, profile link and UPI ID, then block and report the account",
+       "hi": "चैट रहने देना, यूज़रनेम, प्रोफ़ाइल लिंक और UPI ID लिख लेना, फिर अकाउंट को ब्लॉक और रिपोर्ट करना",
+       "hg": "Chat rehne dena, username, profile link aur UPI ID note karna, phir account ko block aur report karna"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Exactly. The trail is what investigators use. He should not copy or forward the video itself; because he is under 18 it counts as child sexual abuse material, so it stays in the chat for the police.",
+       "hi": "बिल्कुल। जाँच करने वाले इसी सिलसिले के सहारे चलते हैं। उसे ख़ुद वीडियो की कॉपी नहीं बनानी चाहिए और न उसे फ़ॉरवर्ड करना चाहिए; वह 18 से कम उम्र का है, इसलिए वीडियो बाल यौन शोषण सामग्री में गिना जाता है और पुलिस के लिए चैट में ही रहता है।",
+       "hg": "Bilkul. Investigators isi trail ke sahare chalte hain. Usse khud video ki copy nahi banani chahiye aur na usse forward karna chahiye; woh under 18 hai, isliye video child sexual abuse material mein count hota hai aur police ke liye chat mein hi rehta hai."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Block the account immediately without noting anything",
+       "hi": "कुछ भी लिखे बिना तुरंत अकाउंट ब्लॉक कर देना",
+       "hg": "Kuch bhi note kiye bina turant account block kar dena"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Blocking stops the messages, which helps him breathe. But the username, link and UPI ID are needed for a complaint. If the chat is still there, he can note them now.",
+       "hi": "ब्लॉक करने से मैसेज रुक जाते हैं, जिससे उसे साँस लेने की मोहलत मिलती है। पर शिकायत के लिए यूज़रनेम, लिंक और UPI ID चाहिए। अगर चैट अब भी मौजूद है, तो वह इन्हें अभी लिख सकता है।",
+       "hg": "Block karne se messages ruk jaate hain, jisse usse saans lene ka time milta hai. Par complaint ke liye username, link aur UPI ID chahiye. Agar chat ab bhi maujood hai, toh woh inhe abhi note kar sakta hai."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "Delete the chat and his own account so nothing can be traced",
+       "hi": "चैट और अपना अकाउंट डिलीट कर देना ताकि कुछ भी ढूँढ़ा न जा सके",
+       "hg": "Chat aur apna account delete kar dena taaki kuch bhi trace na ho sake"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Wanting to erase everything is understandable. But deleting removes the evidence against the blackmailer and not their copy. Keeping the chat is what protects him.",
+       "hi": "सब कुछ मिटा देने का मन होना समझ में आता है। पर डिलीट करने से ब्लैकमेलर के ख़िलाफ़ सबूत मिटता है, उसकी कॉपी नहीं। चैट को रहने देना ही उसकी हिफ़ाज़त करता है।",
+       "hg": "Sab kuch mita dene ka mann hona samajh mein aata hai. Par delete karne se blackmailer ke against evidence mitta hai, uski copy nahi. Chat ko rehne dena hi usse protect karta hai."
+      },
+      "next": "n3"
+     }
+    ]
+   },
+   "n3": {
+    "text": {
+     "en": "It is 1 a.m. Arjun is terrified of his parents finding out. Who should he turn to?",
+     "hi": "रात का एक बजा है। अर्जुन को बहुत डर है कि माँ-बाप को पता चल जाएगा। उसे किसके पास जाना चाहिए?",
+     "hg": "Raat ka ek baja hai. Arjun ko bahut darr hai ki parents ko pata chal jayega. Usse kiske paas jaana chahiye?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Wake his elder sister or a parent, then report on cybercrime.gov.in or 1930",
+       "hi": "बड़ी बहन या माँ-बाप में से किसी को जगाना, फिर cybercrime.gov.in या 1930 पर रिपोर्ट करना",
+       "hg": "Badi behen ya kisi parent ko jagana, phir cybercrime.gov.in ya 1930 pe report karna"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "This takes courage and it is the turning point. Families are usually far more worried than angry once they see that a criminal targeted him. An adult can also help him deal with the police and the platform, so he is not carrying it alone.",
+       "hi": "इसमें हिम्मत लगती है और यही मोड़ सब बदल देता है। जब परिवार देखता है कि एक अपराधी ने उसे निशाना बनाया, तो आम तौर पर ग़ुस्से से कहीं ज़्यादा फ़िक्र होती है। कोई बड़ा पुलिस और प्लैटफ़ॉर्म से निपटने में भी उसकी मदद कर सकता है, ताकि वह यह बोझ अकेले न उठाए।",
+       "hg": "Isme himmat lagti hai aur yahi turning point hai. Jab family dekhti hai ki ek criminal ne usse target kiya, toh usually gusse se kahin zyada fikar hoti hai. Ek adult police aur platform se deal karne mein bhi uski help kar sakta hai, taaki woh yeh bojh akele na uthaye."
+      },
+      "next": "n4"
+     },
+     {
+      "label": {
+       "en": "File the online complaint alone and tell nobody at home",
+       "hi": "अकेले ऑनलाइन शिकायत दर्ज करना और घर में किसी को न बताना",
+       "hg": "Akele online complaint file karna aur ghar mein kisi ko na batana"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Reporting is a strong step. But carrying this alone is heavy, and at 17 a trusted adult can help with police and platforms. He deserves support as well as a complaint number.",
+       "hi": "रिपोर्ट करना मज़बूत क़दम है। पर यह बोझ अकेले ढोना भारी है, और 17 की उम्र में कोई भरोसेमंद बड़ा पुलिस और प्लैटफ़ॉर्म के मामले में मदद कर सकता है। उसे सिर्फ़ शिकायत नंबर नहीं, सहारा भी मिलना चाहिए।",
+       "hg": "Report karna strong step hai. Par yeh bojh akele uthana heavy hai, aur 17 ki age mein koi trusted adult police aur platforms ke matter mein help kar sakta hai. Usse sirf complaint number nahi, support bhi milna chahiye."
+      },
+      "next": "n4"
+     },
+     {
+      "label": {
+       "en": "Tell nobody and hope the blackmailer gets bored",
+       "hi": "किसी को न बताना और उम्मीद करना कि ब्लैकमेलर ऊब जाएगा",
+       "hg": "Kisi ko na batana aur hope karna ki blackmailer bore ho jayega"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Hoping it fades is common, and sometimes threats are never carried out. But waiting alone leaves him anxious and unprotected. Reporting and telling someone gives him back some control.",
+       "hi": "यह उम्मीद करना कि बात ठंडी पड़ जाएगी, आम है, और कभी-कभी धमकियाँ पूरी नहीं भी की जातीं। पर अकेले इंतज़ार करने से वह बेचैन और असुरक्षित रहता है। रिपोर्ट करने और किसी को बताने से कुछ कंट्रोल वापस उसके हाथ में आता है।",
+       "hg": "Yeh hope karna ki baat thandi pad jayegi common hai, aur kabhi-kabhi dhamkiyan poori nahi bhi ki jaati. Par akele wait karne se woh anxious aur unprotected rehta hai. Report karne aur kisi ko batane se kuch control wapas uske haath mein aata hai."
+      },
+      "next": "n4"
+     }
+    ]
+   },
+   "n4": {
+    "text": {
+     "en": "By morning the account is reported and a complaint is filed. Arjun still feels ashamed and cannot stop replaying the night. What helps most now?",
+     "hi": "सुबह तक अकाउंट की रिपोर्ट हो चुकी है और शिकायत दर्ज हो गई है। अर्जुन को अब भी शर्म आ रही है और वह रात बार-बार दिमाग़ में घूम रही है। अब सबसे ज़्यादा क्या मदद करेगा?",
+     "hg": "Subah tak account report ho chuka hai aur complaint file ho gayi hai. Arjun ko ab bhi sharam aa rahi hai aur woh raat baar-baar dimaag mein ghoom rahi hai. Ab sabse zyada kya help karega?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Remind himself that a criminal targeted him, and talk to someone, such as Tele-MANAS on 14416",
+       "hi": "ख़ुद को याद दिलाना कि एक अपराधी ने उसे निशाना बनाया, और किसी से बात करना, जैसे टेली-मानस 14416 पर",
+       "hg": "Khud ko yaad dilana ki ek criminal ne usse target kiya, aur kisi se baat karna, jaise Tele-MANAS 14416 pe"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Yes. Sextortion scripts are run by practised criminals and catch many careful people. Shame fades faster when it is spoken about, and free counselling is available on 14416.",
+       "hi": "हाँ। सेक्सटॉर्शन की स्क्रिप्ट मँजे हुए अपराधी चलाते हैं और उनमें बहुत से सावधान लोग भी फँस जाते हैं। शर्म के बारे में बात करने पर वह जल्दी घटती है, और 14416 पर मुफ़्त काउंसलिंग मिलती है।",
+       "hg": "Haan. Sextortion ki scripts practised criminals chalate hain aur unme bahut se careful log bhi phas jaate hain. Sharam ke baare mein baat karne pe woh jaldi kam hoti hai, aur 14416 pe free counselling milti hai."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Stay off all social media for good",
+       "hi": "हमेशा के लिए सारा सोशल मीडिया छोड़ देना",
+       "hg": "Hamesha ke liye saara social media chhod dena"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "A break can help him feel calmer. Quitting for ever is not required, though; tightening privacy settings and being wary of fast-moving strangers lets him return safely.",
+       "hi": "थोड़ा ब्रेक लेने से मन शांत हो सकता है। पर हमेशा के लिए छोड़ना ज़रूरी नहीं; प्राइवेसी सेटिंग कसने और तेज़ी से नज़दीक आने वाले अजनबियों से चौकन्ना रहने पर वह सुरक्षित तरीके से लौट सकता है।",
+       "hg": "Thoda break lene se mann calm ho sakta hai. Par hamesha ke liye quit karna zaroori nahi; privacy settings tight karne aur fast-moving strangers se alert rehne pe woh safely wapas aa sakta hai."
+      },
+      "next": null
+     }
+    ]
+   }
+  },
+  "debrief": {
+   "en": "Sextortion relies on speed, shame and silence. The response is the opposite: stop replying, do not pay, keep the chat and account details without copying any sexual image, report on cybercrime.gov.in or 1930, and tell a trusted adult. The person who was tricked is the victim of a crime, not the cause of it.",
+   "hi": "सेक्सटॉर्शन जल्दबाज़ी, शर्म और चुप्पी पर टिका होता है। जवाब ठीक इसका उल्टा है: जवाब देना बंद करो, पैसे मत दो, किसी यौन तस्वीर की कॉपी बनाए बिना चैट और अकाउंट का ब्योरा बचाकर रखो, cybercrime.gov.in या 1930 पर रिपोर्ट करो, और किसी भरोसेमंद बड़े को बताओ। जिसे फँसाया गया वह अपराध का शिकार है, उसकी वजह नहीं।",
+   "hg": "Sextortion speed, sharam aur silence pe tika hota hai. Response iska ulta hai: reply band karo, pay mat karo, kisi sexual image ki copy banaye bina chat aur account details bachakar rakho, cybercrime.gov.in ya 1930 pe report karo, aur kisi trusted adult ko batao. Jisse phasaya gaya woh crime ka victim hai, uski wajah nahi."
+  },
+  "refs": [
+   "cybercrime-portal",
+   "tele-manas",
+   "pocso-2012"
+  ]
+ },
+ {
+  "id": "d13-s5",
+  "domain": "d13",
+  "module": "digital",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "When Sana Tells You",
+   "hi": "जब सना तुम्हें बताती है",
+   "hg": "Jab Sana Tumhe Batati Hai"
+  },
+  "intro": {
+   "en": "Your friend Sana has been quiet all week. After class she pulls you aside, close to tears, and says she needs to tell you something.",
+   "hi": "तुम्हारी दोस्त सना पूरे हफ़्ते चुप-चुप रही है। क्लास के बाद वह तुम्हें एक तरफ़ ले जाती है, आँखें भरी हुई हैं, और कहती है कि उसे तुम्हें कुछ बताना है।",
+   "hg": "Tumhari dost Sana poore hafte chup-chup rahi hai. Class ke baad woh tumhe side mein le jaati hai, aankhein bhari hui hain, aur bolti hai ki usse tumhe kuch batana hai."
+  },
+  "sensitive": true,
+  "start": "n1",
+  "nodes": {
+   "n1": {
+    "text": {
+     "en": "Sana whispers: 'I sent a photo to someone I trusted online. Now he says he will post it everywhere unless I send more. I do not know what to do.'",
+     "hi": "सना धीमे से कहती है: 'मैंने ऑनलाइन एक इंसान पर भरोसा करके उसे एक फ़ोटो भेजी थी। अब वह कह रहा है कि और नहीं भेजीं तो वह उसे हर जगह डाल देगा। मुझे समझ नहीं आ रहा क्या करूँ।'",
+     "hg": "Sana dheere se bolti hai: 'Maine online ek insaan pe trust karke usse ek photo bheji thi. Ab woh bol raha hai ki aur nahi bheji toh woh usse har jagah post kar dega. Mujhe samajh nahi aa raha kya karun.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "'I believe you. This is not your fault. I am with you.'",
+       "hi": "'मुझे तुम पर यक़ीन है। इसमें तुम्हारी ग़लती नहीं है। मैं तुम्हारे साथ हूँ।'",
+       "hg": "'Mujhe tum pe yakeen hai. Isme tumhari galti nahi hai. Main tumhare saath hoon.'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "This is what a frightened person most needs to hear. Feeling believed makes it far more likely that she will take the next steps instead of giving in to the threat.",
+       "hi": "डरे हुए इंसान को सबसे ज़्यादा यही सुनने की ज़रूरत होती है। जब उसे लगता है कि उस पर यक़ीन किया गया, तो धमकी के आगे झुकने की जगह अगले क़दम उठाने की संभावना कहीं ज़्यादा हो जाती है।",
+       "hg": "Dare hue insaan ko sabse zyada yahi sunne ki zaroorat hoti hai. Jab usse lagta hai ki us pe yakeen kiya gaya, toh dhamki ke aage jhukne ki jagah next steps lene ke chances kahin zyada ho jaate hain."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "'Just ignore him, he is probably bluffing.'",
+       "hi": "'उसे अनदेखा कर दो, वह शायद बस डरा रहा है।'",
+       "hg": "'Usse ignore kar do, woh shayad bas bluff kar raha hai.'"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "You are trying to calm her, which is kind. But 'ignore it' can sound like 'handle it alone'. Not replying to him is right, as long as she also gets help and reports it.",
+       "hi": "तुम उसे शांत करने की कोशिश कर रहे हो, जो अच्छी बात है। पर 'अनदेखा कर दो' सुनने में 'अकेले निपट लो' जैसा लग सकता है। उसे जवाब न देना सही है, बशर्ते वह मदद भी ले और रिपोर्ट भी करे।",
+       "hg": "Tum usse calm karne ki koshish kar rahe ho, jo kind hai. Par 'ignore kar do' sunne mein 'akele handle kar lo' jaisa lag sakta hai. Usse reply na karna sahi hai, bas woh help bhi le aur report bhi kare."
+      },
+      "next": "n2"
+     },
+     {
+      "label": {
+       "en": "'Why did you send it in the first place?'",
+       "hi": "'तुमने भेजी ही क्यों थी?'",
+       "hg": "'Tumne bheji hi kyun thi?'"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "The question may come from shock, but it lands as blame, and blame makes people go silent. The person at fault is the one making threats. Start again with 'I am on your side.'",
+       "hi": "यह सवाल शायद सदमे में निकले, पर सुनने वाले को इल्ज़ाम जैसा लगता है, और इल्ज़ाम लोगों को चुप करा देता है। ग़लती उसकी है जो धमकियाँ दे रहा है। 'मैं तुम्हारी तरफ़ हूँ' कहकर दोबारा शुरुआत करो।",
+       "hg": "Yeh sawaal shayad shock mein nikle, par sunne wale ko blame jaisa lagta hai, aur blame logon ko chup kara deta hai. Galti uski hai jo dhamkiyan de raha hai. 'Main tumhari side hoon' bolkar dobara start karo."
+      },
+      "next": "n2"
+     }
+    ]
+   },
+   "n2": {
+    "text": {
+     "en": "Sana opens the chat to show you the threats. She asks, 'Should I send you the photo so that you have proof too?'",
+     "hi": "सना धमकियाँ दिखाने के लिए चैट खोलती है। वह पूछती है, 'क्या मैं तुम्हें वह फ़ोटो भेज दूँ ताकि तुम्हारे पास भी सबूत रहे?'",
+     "hg": "Sana dhamkiyan dikhane ke liye chat kholti hai. Woh poochhti hai, 'Kya main tumhe woh photo bhej doon taaki tumhare paas bhi proof rahe?'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "'No, do not send it to anyone. Keep the chat as it is. Let us note his username and profile link.'",
+       "hi": "'नहीं, उसे किसी को मत भेजो। चैट को जैसी है वैसी रहने दो। चलो उसका यूज़रनेम और प्रोफ़ाइल लिंक लिख लेते हैं।'",
+       "hg": "'Nahi, usse kisi ko mat bhejo. Chat ko jaisi hai waisi rehne do. Chalo uska username aur profile link note kar lete hain.'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Correct. The image must not be copied or forwarded, even to a friend, because that spreads it and is illegal for under-18s. Usernames, links and threat messages are the evidence that matters.",
+       "hi": "सही। उस तस्वीर की कॉपी नहीं बनानी चाहिए और न उसे फ़ॉरवर्ड करना चाहिए, दोस्त को भी नहीं, क्योंकि इससे वह फैलती है और 18 से कम उम्र वालों के मामले में यह ग़ैरक़ानूनी है। असली काम के सबूत यूज़रनेम, लिंक और धमकी वाले मैसेज हैं।",
+       "hg": "Sahi. Us image ki copy nahi banani chahiye aur na usse forward karna chahiye, dost ko bhi nahi, kyunki isse woh phailti hai aur under-18 ke case mein yeh illegal hai. Asli kaam ka evidence usernames, links aur dhamki wale messages hain."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "'Let me message him from my account and tell him to back off.'",
+       "hi": "'मैं अपने अकाउंट से उसे मैसेज करके कहता/कहती हूँ कि पीछे हट जाए।'",
+       "hg": "'Main apne account se usse message karke bolta/bolti hoon ki peechhe hat jaye.'"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "Wanting to defend her is loyal. But contacting him can provoke him, make you a target and complicate the evidence. Leave him unanswered and let the platform and police deal with him.",
+       "hi": "उसका बचाव करना चाहना सच्ची दोस्ती है। पर उससे संपर्क करने से वह भड़क सकता है, तुम भी निशाना बन सकते हो और सबूत उलझ सकते हैं। उसे बिना जवाब के छोड़ दो और प्लैटफ़ॉर्म और पुलिस को उससे निपटने दो।",
+       "hg": "Usse defend karna chahna loyalty hai. Par usse contact karne se woh bhadak sakta hai, tum bhi target ban sakte ho aur evidence complicate ho sakta hai. Usse bina reply ke chhod do aur platform aur police ko usse deal karne do."
+      },
+      "next": "n3"
+     },
+     {
+      "label": {
+       "en": "'Yes, send it to me, I will keep it safe.'",
+       "hi": "'हाँ, मुझे भेज दो, मैं सँभालकर रखूँगा/रखूँगी।'",
+       "hg": "'Haan, mujhe bhej do, main safe rakhunga/rakhungi.'"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "You mean well, but another copy on another phone is another risk, and holding a sexual image of someone under 18 is an offence. The safest proof is the undeleted chat on her own device.",
+       "hi": "तुम्हारी नीयत अच्छी है, पर एक और फ़ोन पर एक और कॉपी एक और ख़तरा है, और 18 से कम उम्र के किसी इंसान की यौन तस्वीर अपने पास रखना अपराध है। सबसे सुरक्षित सबूत उसके अपने फ़ोन की बिना डिलीट की हुई चैट है।",
+       "hg": "Tumhari niyat achhi hai, par ek aur phone pe ek aur copy ek aur risk hai, aur under-18 kisi insaan ki sexual image apne paas rakhna offence hai. Sabse safe proof uske apne phone ki bina delete ki hui chat hai."
+      },
+      "next": "n3"
+     }
+    ]
+   },
+   "n3": {
+    "text": {
+     "en": "Sana says, 'Promise you will not tell anyone. If my parents find out, my life is over.'",
+     "hi": "सना कहती है, 'वादा करो कि किसी को नहीं बताओगे। अगर मेरे माँ-बाप को पता चला, तो मेरी ज़िंदगी ख़त्म।'",
+     "hg": "Sana bolti hai, 'Promise karo ki kisi ko nahi bataoge. Agar mere parents ko pata chala, toh meri life khatam.'"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "'I will not gossip, but this is too big for the two of us. Let us choose an adult together, and I will come with you.'",
+       "hi": "'मैं किसी से इसकी चर्चा नहीं करूँगा/करूँगी, पर यह हम दोनों के बस से बड़ी बात है। चलो मिलकर कोई बड़ा चुनते हैं, और मैं तुम्हारे साथ चलूँगा/चलूँगी।'",
+       "hg": "'Main gossip nahi karunga/karungi, par yeh hum dono ke bas se badi baat hai. Chalo saath mein koi adult choose karte hain, aur main tumhare saath chalunga/chalungi.'"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "Honest and kind. You protect her privacy without promising a silence that would leave her in danger. Going with her to a parent, teacher or counsellor makes telling much less frightening.",
+       "hi": "ईमानदार भी और नरम भी। तुम उसकी निजता बचाते हो, पर ऐसी चुप्पी का वादा नहीं करते जो उसे ख़तरे में छोड़ दे। माँ-बाप, टीचर या काउंसलर के पास उसके साथ जाने से बताना बहुत कम डरावना हो जाता है।",
+       "hg": "Honest bhi aur kind bhi. Tum uski privacy protect karte ho, par aisi chuppi ka promise nahi karte jo usse danger mein chhod de. Parent, teacher ya counsellor ke paas uske saath jaane se batana bahut kam scary ho jaata hai."
+      },
+      "next": "n4"
+     },
+     {
+      "label": {
+       "en": "'Okay, I promise. It stays between us.'",
+       "hi": "'ठीक है, वादा। यह बात हम दोनों के बीच रहेगी।'",
+       "hg": "'Theek hai, promise. Yeh baat hum dono ke beech rahegi.'"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Promising feels loyal, and she will be relieved. But a secret this heavy leaves her alone with a blackmailer. It is fair to go back and say that you both need an adult's help.",
+       "hi": "वादा करना वफ़ादारी जैसा लगता है, और उसे राहत भी मिलेगी। पर इतना भारी राज़ उसे ब्लैकमेलर के सामने अकेला छोड़ देता है। लौटकर यह कहना बिल्कुल ठीक है कि तुम दोनों को किसी बड़े की मदद चाहिए।",
+       "hg": "Promise karna loyalty jaisa lagta hai, aur usse relief bhi milega. Par itna heavy secret usse blackmailer ke saamne akela chhod deta hai. Wapas jaakar yeh bolna bilkul fair hai ki tum dono ko kisi adult ki help chahiye."
+      },
+      "next": "n4"
+     },
+     {
+      "label": {
+       "en": "Tell a few classmates so that they can support her too",
+       "hi": "कुछ सहपाठियों को बता देना ताकि वे भी उसका साथ दें",
+       "hg": "Kuch classmates ko bata dena taaki woh bhi usse support karein"
+      },
+      "tone": "risky",
+      "feedback": {
+       "en": "More supporters sounds helpful, but her story is hers to tell. Once several people know, it can spread and hurt her a second time. Keep it between her, you and a trusted adult.",
+       "hi": "ज़्यादा लोगों का साथ अच्छा लगता है, पर उसकी बात बताने का हक़ सिर्फ़ उसका है। कई लोगों को पता चलते ही बात फैल सकती है और उसे दोबारा चोट पहुँचा सकती है। इसे उसके, अपने और एक भरोसेमंद बड़े के बीच ही रखो।",
+       "hg": "Zyada supporters helpful lagte hain, par uski story batane ka haq sirf uska hai. Kai logon ko pata chalte hi baat phail sakti hai aur usse dobara hurt kar sakti hai. Isse uske, apne aur ek trusted adult ke beech hi rakho."
+      },
+      "next": "n4"
+     }
+    ]
+   },
+   "n4": {
+    "text": {
+     "en": "Sana agrees to tell her aunt, who helps her report the account and file a complaint on cybercrime.gov.in. That night Sana texts you: 'Thank you for not judging me.' What do you do in the coming days?",
+     "hi": "सना अपनी मौसी को बताने के लिए मान जाती है, और मौसी अकाउंट की रिपोर्ट करने और cybercrime.gov.in पर शिकायत दर्ज करने में उसकी मदद करती हैं। उस रात सना तुम्हें मैसेज करती है: 'मुझे जज न करने के लिए शुक्रिया।' आने वाले दिनों में तुम क्या करोगे?",
+     "hg": "Sana apni mausi ko batane ke liye maan jaati hai, aur mausi account report karne aur cybercrime.gov.in pe complaint file karne mein uski help karti hain. Us raat Sana tumhe text karti hai: 'Mujhe judge na karne ke liye thank you.' Aane wale dinon mein tum kya karoge?"
+    },
+    "choices": [
+     {
+      "label": {
+       "en": "Check in on her, treat her normally and shut down any gossip you hear",
+       "hi": "उसका हाल पूछते रहना, उससे पहले जैसा बर्ताव करना और जो भी अफ़वाह सुनो उसे वहीं रोक देना",
+       "hg": "Uska haal poochhte rehna, usse normal treat karna aur jo bhi gossip suno usse wahin rok dena"
+      },
+      "tone": "good",
+      "feedback": {
+       "en": "That is real support. Ordinary friendship, a quiet 'how are you today' and refusing to pass on rumours help her recover far more than big gestures do.",
+       "hi": "यही असली साथ है। पहले जैसी दोस्ती, धीरे से पूछा गया 'आज कैसी हो' और अफ़वाहों को आगे न बढ़ाना उसे सँभलने में बड़े-बड़े दिखावों से कहीं ज़्यादा मदद करते हैं।",
+       "hg": "Yahi real support hai. Normal dosti, dheere se poochha gaya 'aaj kaisi ho' aur rumours ko aage na badhana usse recover karne mein bade gestures se kahin zyada help karte hain."
+      },
+      "next": null
+     },
+     {
+      "label": {
+       "en": "Avoid the topic completely so that she can forget it",
+       "hi": "इस बात का ज़िक्र ही न करना ताकि वह इसे भूल सके",
+       "hg": "Is topic ko completely avoid karna taaki woh isse bhool sake"
+      },
+      "tone": "okay",
+      "feedback": {
+       "en": "Giving her space is thoughtful. Still, complete silence can feel like distance. A simple check-in now and then lets her decide whether she wants to talk.",
+       "hi": "उसे थोड़ी जगह देना समझदारी है। फिर भी पूरी चुप्पी दूरी जैसी लग सकती है। बीच-बीच में बस हाल पूछ लेने से वह ख़ुद तय कर पाती है कि बात करनी है या नहीं।",
+       "hg": "Usse space dena thoughtful hai. Phir bhi complete silence distance jaisi lag sakti hai. Beech-beech mein simple check-in karne se woh khud decide kar paati hai ki baat karni hai ya nahi."
+      },
+      "next": null
+     }
+    ]
+   }
+  },
+  "debrief": {
+   "en": "When a friend is threatened online, your job is not to investigate or fight. It is to believe them, avoid blame, never ask for or keep the image, and help them reach a trusted adult and the reporting routes: the app, cybercrime.gov.in, 1930 or 1098. Calm support is often what makes someone report instead of giving in. If they talk about self-harm, stay with them and call 112 or 14416.",
+   "hi": "जब किसी दोस्त को ऑनलाइन धमकी मिले, तो तुम्हारा काम जाँच करना या लड़ना नहीं है। तुम्हारा काम है उस पर यक़ीन करना, इल्ज़ाम न लगाना, तस्वीर न माँगना और न रखना, और उसे किसी भरोसेमंद बड़े तक और रिपोर्ट करने के रास्तों तक पहुँचाना: ऐप, cybercrime.gov.in, 1930 या 1098। अक्सर शांत साथ ही वह चीज़ होती है जिसकी वजह से कोई झुकने की जगह रिपोर्ट करता है। अगर वह ख़ुद को नुकसान पहुँचाने की बात करे, तो उसके साथ रहो और 112 या 14416 पर कॉल करो।",
+   "hg": "Jab kisi dost ko online dhamki mile, toh tumhara kaam investigate karna ya ladna nahi hai. Tumhara kaam hai us pe yakeen karna, blame na karna, image na maangna aur na rakhna, aur usse kisi trusted adult tak aur reporting routes tak pahunchana: app, cybercrime.gov.in, 1930 ya 1098. Aksar calm support hi woh cheez hoti hai jiski wajah se koi jhukne ki jagah report karta hai. Agar woh self-harm ki baat kare, toh uske saath raho aur 112 ya 14416 pe call karo."
+  },
+  "refs": [
+   "cybercrime-portal",
+   "wcd-childline",
+   "unesco-itgse"
+  ]
+ }
+]

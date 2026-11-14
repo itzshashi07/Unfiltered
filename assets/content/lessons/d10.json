@@ -1,0 +1,1764 @@
+[
+ {
+  "id": "d10-l01",
+  "domain": "d10",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "penis_testicular",
+   "vulva_vaginal"
+  ],
+  "difficulty": 1,
+  "minutes": 5,
+  "unesco": [
+   6,
+   5
+  ],
+  "title": {
+   "en": "Clean, Comfortable and Speaking Up",
+   "hi": "साफ़-सफ़ाई, आराम और बताने की हिम्मत",
+   "hg": "Saaf, Comfortable, Aur Bol Dena"
+  },
+  "subtitle": {
+   "en": "Everyday care for your private parts and the signs that mean you should tell an adult or doctor",
+   "hi": "अपने निजी अंगों की रोज़ की देखभाल और वे संकेत जिन पर किसी बड़े या डॉक्टर को बताना चाहिए",
+   "hg": "Private parts ki roz ki care aur woh signs jin pe kisi bade ya doctor ko batana chahiye"
+  },
+  "hook": {
+   "en": "You brush your teeth without embarrassment. Your private parts are also just body parts that need simple daily care, and a doctor when something feels off.",
+   "hi": "दाँत साफ़ करते हुए तुम्हें शर्म नहीं आती। निजी अंग भी शरीर के अंग ही हैं, जिन्हें रोज़ की सीधी-सादी देखभाल चाहिए, और कुछ गड़बड़ लगे तो डॉक्टर।",
+   "hg": "Brush karte hue tumhe sharam nahi aati. Private parts bhi body parts hi hain, jinhe roz ki simple care chahiye, aur kuch gadbad lage toh doctor."
+  },
+  "objectives": [
+   {
+    "en": "Describe simple daily hygiene for the genitals.",
+    "hi": "जननांगों की रोज़ की आसान साफ़-सफ़ाई बता पाना।",
+    "hg": "Genitals ki roz ki simple hygiene bata paana."
+   },
+   {
+    "en": "List signs that mean you should tell a trusted adult.",
+    "hi": "वे संकेत गिना पाना जिन पर किसी भरोसेमंद बड़े को बताना चाहिए।",
+    "hg": "Woh signs gina paana jin pe kisi trusted adult ko batana chahiye."
+   },
+   {
+    "en": "Understand that doctors help with private-part problems and how a safe check-up works.",
+    "hi": "समझना कि डॉक्टर निजी अंगों की समस्याओं में मदद करते हैं और सुरक्षित जाँच कैसी होती है।",
+    "hg": "Samajhna ki doctors private parts ki problems mein help karte hain aur safe check-up kaisa hota hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Daily care is simple",
+     "hi": "रोज़ की देखभाल आसान है",
+     "hg": "Roz ki care simple hai"
+    },
+    "body": {
+     "en": "Your genitals, also called private parts, need the same basic care as the rest of you. Wash them once a day with clean water during your bath. If you have a vulva, wash only the outside folds gently; nothing needs to go inside. If you have a penis, wash it and the scrotum; if the foreskin slides back easily, rinse under it, and never force it back, because at your age it may still be attached and that is normal. Pat dry, and wear clean cotton underwear changed every day, and again after sports or heavy sweating.",
+     "hi": "तुम्हारे जननांगों को, जिन्हें निजी अंग भी कहते हैं, वैसी ही बुनियादी देखभाल चाहिए जैसी शरीर के बाक़ी हिस्सों को। नहाते समय दिन में एक बार इन्हें साफ़ पानी से धोओ। अगर तुम्हारे पास वल्वा (महिला जननांगों का बाहर दिखने वाला हिस्सा) है, तो सिर्फ़ बाहर की परतों को हल्के हाथ से धोओ; अंदर कुछ डालने की ज़रूरत नहीं। अगर तुम्हारे पास लिंग है, तो उसे और अंडकोष की थैली को धोओ; अगर ऊपर की त्वचा आसानी से पीछे खिसकती है तो उसके नीचे पानी से धो लो, और उसे कभी ज़बरदस्ती पीछे मत खींचो, क्योंकि तुम्हारी उम्र में वह अभी जुड़ी हुई हो सकती है और यह सामान्य है। थपथपाकर सुखाओ, और साफ़ सूती अंडरवियर पहनो जो रोज़ बदला जाए, और खेल या बहुत पसीने के बाद दोबारा।",
+     "hg": "Tumhare genitals ko, jinhe private parts bhi kehte hain, waisi hi basic care chahiye jaisi body ke baaki hisson ko. Nahate time din mein ek baar inhe saaf paani se dho. Agar tumhare paas vulva hai, toh sirf bahar ke folds ko halke haath se dho; andar kuch daalne ki zaroorat nahi. Agar tumhare paas penis hai, toh use aur scrotum ko dho; agar foreskin aasani se peeche khisakti hai toh uske neeche paani se dho lo, aur use kabhi zabardasti peeche mat kheencho, kyunki tumhari age mein woh abhi judi hui ho sakti hai aur yeh normal hai. Thapthapa ke sukhao, aur saaf cotton underwear pehno jo roz badla jaaye, aur sports ya bahut paseene ke baad dobara."
+    }
+   },
+   {
+    "h": {
+     "en": "Toilet habits that protect you",
+     "hi": "टॉयलेट की आदतें जो तुम्हें बचाती हैं",
+     "hg": "Toilet habits jo tumhe protect karti hain"
+    },
+    "body": {
+     "en": "Good toilet habits prevent many infections. Drink enough water so that your urine is pale yellow. Go when you need to instead of holding it for hours at school. After using the toilet, people with a vulva should wipe or wash from front to back, so that germs from the bottom do not reach the opening where urine comes out. Wash your hands with soap afterwards, every time. Strong soaps, perfumed sprays, talcum powder and antiseptic liquids are not needed on private parts and can cause itching and burning. Plain water, and mild soap on the outside skin, are enough.",
+     "hi": "टॉयलेट की अच्छी आदतें कई संक्रमणों से बचाती हैं। इतना पानी पियो कि पेशाब हल्का पीला रहे। जब ज़रूरत लगे तब जाओ, स्कूल में घंटों रोककर मत रखो। टॉयलेट के बाद जिनके पास वल्वा है उन्हें आगे से पीछे की तरफ़ पोंछना या धोना चाहिए, ताकि पीछे के कीटाणु उस छेद तक न पहुँचें जहाँ से पेशाब निकलता है। उसके बाद हर बार साबुन से हाथ धोओ। तेज़ साबुन, ख़ुशबूदार स्प्रे, टैल्कम पाउडर और एंटीसेप्टिक लिक्विड की निजी अंगों पर कोई ज़रूरत नहीं होती और इनसे खुजली और जलन हो सकती है। सादा पानी, और बाहर की त्वचा पर हल्का साबुन, काफ़ी है।",
+     "hg": "Achhi toilet habits kaafi infections se bachati hain. Itna paani piyo ki urine halka peela rahe. Jab zaroorat lage tab jao, school mein ghanton rok ke mat rakho. Toilet ke baad jinke paas vulva hai unhe aage se peeche ki taraf ponchhna ya dhona chahiye, taaki peeche ke germs us opening tak na pahunchein jahan se urine nikalta hai. Uske baad har baar sabun se haath dho. Tez sabun, perfumed sprays, talcum powder aur antiseptic liquids ki private parts pe koi zaroorat nahi hoti aur inse khujli aur jalan ho sakti hai. Saada paani, aur bahar ki skin pe mild soap, kaafi hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Signs you should not ignore",
+     "hi": "संकेत जिन्हें अनदेखा नहीं करना",
+     "hg": "Signs jinhe ignore nahi karna"
+    },
+    "body": {
+     "en": "Tell a parent or trusted adult if you notice itching that does not go away, burning or pain while passing urine, redness, swelling, a rash, sores, a lump, a bad smell, or fluid that looks yellow, green or bloody. Blood from the vulva can be a first period, which is normal, but still tell an adult so that you get help with pads. One sign is urgent for people with testicles: sudden, strong pain or swelling in a testicle needs a hospital immediately, even at night. Most problems are common and easy to treat. Waiting because of shyness usually makes them worse.",
+     "hi": "मम्मी-पापा या किसी भरोसेमंद बड़े को बताओ अगर तुम्हें ये दिखें: खुजली जो जा नहीं रही, पेशाब करते समय जलन या दर्द, लालपन, सूजन, दाने, घाव, गाँठ, बदबू, या ऐसा तरल जो पीला, हरा या ख़ून जैसा दिखे। वल्वा से ख़ून आना पहला पीरियड हो सकता है, जो सामान्य है, फिर भी किसी बड़े को बताओ ताकि पैड वग़ैरह में मदद मिल सके। एक संकेत उन लोगों के लिए इमरजेंसी है जिनके पास अंडकोष हैं: किसी अंडकोष में अचानक तेज़ दर्द या सूजन हो तो तुरंत अस्पताल जाना ज़रूरी है, रात में भी। ज़्यादातर समस्याएँ आम होती हैं और आसानी से ठीक हो जाती हैं। शर्म की वजह से टालते रहने पर वे आमतौर पर बढ़ जाती हैं।",
+     "hg": "Mummy-papa ya kisi trusted adult ko batao agar tumhe yeh dikhe: khujli jo ja nahi rahi, urine karte time jalan ya dard, redness, soojan, rash, ghaav, gaanth, badboo, ya aisa fluid jo peela, hara ya khoon jaisa dikhe. Vulva se khoon aana pehla period ho sakta hai, jo normal hai, phir bhi kisi bade ko batao taaki pads waghairah mein help mil sake. Ek sign un logon ke liye urgent hai jinke paas testicles hain: kisi testicle mein achanak tez dard ya soojan ho toh turant hospital jaana zaroori hai, raat mein bhi. Zyadatar problems common hoti hain aur aasani se theek ho jaati hain. Sharam ki wajah se taalte rehne pe woh aksar badh jaati hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Doctors and your private parts",
+     "hi": "डॉक्टर और तुम्हारे निजी अंग",
+     "hg": "Doctors aur tumhare private parts"
+    },
+    "body": {
+     "en": "Doctors treat private parts every day, just like ears and throats; nothing you say will shock them. In a proper check-up, a parent or trusted adult can stay with you, the doctor explains what they will do and why before doing it, and you can ask questions or ask them to stop. Outside of such care, no one should touch or look at your private parts, and no one should ask you to keep touching a secret. If that ever happens, tell a trusted adult or call the Child Helpline on 1098. Asking for help with your body is sensible, not shameful.",
+     "hi": "डॉक्टर निजी अंगों का इलाज रोज़ करते हैं, ठीक वैसे जैसे कान और गले का; तुम्हारी किसी बात से वे चौंकेंगे नहीं। सही जाँच में मम्मी-पापा या कोई भरोसेमंद बड़ा तुम्हारे साथ रह सकता है, डॉक्टर कुछ भी करने से पहले बताते हैं कि वे क्या करेंगे और क्यों, और तुम सवाल पूछ सकते हो या उन्हें रुकने को कह सकते हो। ऐसी देखभाल के अलावा किसी को भी तुम्हारे निजी अंगों को छूना या देखना नहीं चाहिए, और कोई भी तुमसे छूने की बात राज़ रखने को नहीं कह सकता। अगर कभी ऐसा हो, तो किसी भरोसेमंद बड़े को बताओ या चाइल्ड हेल्पलाइन 1098 पर कॉल करो। अपने शरीर के लिए मदद माँगना समझदारी है, शर्म की बात नहीं।",
+     "hg": "Doctors private parts ka treatment roz karte hain, bilkul waise jaise kaan aur gale ka; tumhari kisi baat se woh shock nahi honge. Sahi check-up mein mummy-papa ya koi trusted adult tumhare saath reh sakta hai, doctor kuch bhi karne se pehle batate hain ki woh kya karenge aur kyun, aur tum sawaal puch sakte ho ya unhe rukne ko bol sakte ho. Aisi care ke alawa kisi ko bhi tumhare private parts ko chhoona ya dekhna nahi chahiye, aur koi bhi tumse chhoone ki baat secret rakhne ko nahi bol sakta. Agar kabhi aisa ho, toh kisi trusted adult ko batao ya Child Helpline 1098 pe call karo. Apni body ke liye help maangna samajhdaari hai, sharam ki baat nahi."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Private parts are dirty, so they need strong soap and scrubbing.",
+    "hi": "निजी अंग गंदे होते हैं, इसलिए उन्हें तेज़ साबुन से रगड़कर साफ़ करना चाहिए।",
+    "hg": "Private parts gande hote hain, isliye unhe tez sabun se ragad ke saaf karna chahiye."
+   },
+   "fact": {
+    "en": "Genitals are normal body parts with delicate skin. Scrubbing and strong or perfumed soaps irritate them and can cause itching. Gentle washing with water once a day is what keeps them healthy.",
+    "hi": "जननांग शरीर के सामान्य अंग हैं जिनकी त्वचा नाज़ुक होती है। रगड़ने और तेज़ या ख़ुशबूदार साबुन से उनमें जलन होती है और खुजली हो सकती है। दिन में एक बार पानी से हल्के हाथ से धोना ही उन्हें स्वस्थ रखता है।",
+    "hg": "Genitals normal body parts hain jinki skin delicate hoti hai. Ragadne aur tez ya perfumed sabun se unmein irritation hoti hai aur khujli ho sakti hai. Din mein ek baar paani se halke haath se dhona hi unhe healthy rakhta hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Wash your genitals gently with water every day and wear clean cotton underwear.",
+    "hi": "अपने जननांगों को रोज़ पानी से हल्के हाथ से धोओ और साफ़ सूती अंडरवियर पहनो।",
+    "hg": "Apne genitals ko roz paani se halke haath se dho aur saaf cotton underwear pehno."
+   },
+   {
+    "en": "Itching, burning, pain, swelling, lumps or unusual fluid are reasons to tell a trusted adult.",
+    "hi": "खुजली, जलन, दर्द, सूजन, गाँठ या अजीब तरल दिखे तो किसी भरोसेमंद बड़े को बताओ।",
+    "hg": "Khujli, jalan, dard, soojan, gaanth ya ajeeb fluid dikhe toh kisi trusted adult ko batao."
+   },
+   {
+    "en": "Sudden strong pain in a testicle is an emergency, and doctors are there to help without judgement.",
+    "hi": "अंडकोष में अचानक तेज़ दर्द इमरजेंसी है, और डॉक्टर बिना जज किए मदद करने के लिए ही हैं।",
+    "hg": "Testicle mein achanak tez dard emergency hai, aur doctors bina judge kiye help karne ke liye hi hain."
+   }
+  ],
+  "activity": {
+   "en": "Think of two trusted adults you could tell if something felt wrong with your body. Practise one sentence in your head, such as: 'I have a problem in my private area and I think I need a doctor.'",
+   "hi": "ऐसे दो भरोसेमंद बड़ों के बारे में सोचो जिन्हें तुम बता सको अगर शरीर में कुछ गड़बड़ लगे। मन ही मन एक वाक्य का अभ्यास करो, जैसे: 'मेरे निजी हिस्से में कुछ परेशानी है और मुझे लगता है कि डॉक्टर को दिखाना चाहिए।'",
+   "hg": "Aise do trusted adults ke baare mein socho jinhe tum bata sako agar body mein kuch gadbad lage. Mann mein ek sentence practise karo, jaise: 'Mere private area mein kuch problem hai aur mujhe lagta hai doctor ko dikhana chahiye.'"
+  },
+  "interactive": "support_circle",
+  "quiz": [
+   {
+    "id": "d10-l01-q1",
+    "type": "mcq",
+    "q": {
+     "en": "What is the best way to clean your genitals every day?",
+     "hi": "अपने जननांगों को रोज़ साफ़ करने का सबसे अच्छा तरीक़ा क्या है?",
+     "hg": "Apne genitals ko roz saaf karne ka best tareeka kya hai?"
+    },
+    "options": [
+     {
+      "en": "Scrub hard with antiseptic liquid",
+      "hi": "एंटीसेप्टिक लिक्विड से ज़ोर से रगड़ना",
+      "hg": "Antiseptic liquid se zor se ragadna"
+     },
+     {
+      "en": "Gently wash with clean water during your bath",
+      "hi": "नहाते समय साफ़ पानी से हल्के हाथ से धोना",
+      "hg": "Nahate time saaf paani se halke haath se dhona"
+     },
+     {
+      "en": "Use perfumed spray instead of washing",
+      "hi": "धोने की जगह ख़ुशबूदार स्प्रे लगाना",
+      "hg": "Dhone ki jagah perfumed spray lagana"
+     },
+     {
+      "en": "Wash only once a week",
+      "hi": "हफ़्ते में सिर्फ़ एक बार धोना",
+      "hg": "Hafte mein sirf ek baar dhona"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Gentle daily washing with water is enough. Scrubbing, antiseptics and perfumed products irritate delicate skin.",
+     "hi": "रोज़ पानी से हल्के हाथ से धोना काफ़ी है। रगड़ना, एंटीसेप्टिक और ख़ुशबूदार चीज़ें नाज़ुक त्वचा में जलन पैदा करती हैं।",
+     "hg": "Roz paani se halke haath se dhona kaafi hai. Ragadna, antiseptics aur perfumed products delicate skin ko irritate karte hain."
+    }
+   },
+   {
+    "id": "d10-l01-q2",
+    "type": "tf",
+    "q": {
+     "en": "If your private parts itch or hurt for several days, the right thing is to wait quietly and tell no one.",
+     "hi": "अगर निजी अंगों में कई दिन तक खुजली या दर्द रहे, तो सही यही है कि चुपचाप इंतज़ार करो और किसी को मत बताओ।",
+     "hg": "Agar private parts mein kai din tak khujli ya dard rahe, toh sahi yahi hai ki chupchaap wait karo aur kisi ko mat batao."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Tell a trusted adult and see a doctor. Most causes are common and easy to treat, and waiting usually makes them worse.",
+     "hi": "किसी भरोसेमंद बड़े को बताओ और डॉक्टर को दिखाओ। ज़्यादातर वजहें आम हैं और आसानी से ठीक हो जाती हैं, और टालने से परेशानी आमतौर पर बढ़ती है।",
+     "hg": "Trusted adult ko batao aur doctor ko dikhao. Zyadatar causes common hain aur aasani se theek ho jaate hain, aur taalne se problem aksar badhti hai."
+    }
+   }
+  ],
+  "refs": [
+   "nhm-rksk",
+   "unesco-itgse",
+   "wcd-childline"
+  ],
+  "warning": {
+   "en": "Sudden, strong pain or swelling in a testicle is an emergency. Tell an adult and go to a hospital straight away, even at night.",
+   "hi": "अंडकोष में अचानक तेज़ दर्द या सूजन इमरजेंसी है। किसी बड़े को बताओ और तुरंत अस्पताल जाओ, चाहे रात ही क्यों न हो।",
+   "hg": "Testicle mein achanak tez dard ya soojan emergency hai. Kisi bade ko batao aur turant hospital jao, chahe raat hi kyun na ho."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d10-l02",
+  "domain": "d10",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "men",
+   "women"
+  ],
+  "body": [
+   "penis_testicular",
+   "vulva_vaginal"
+  ],
+  "difficulty": 2,
+  "minutes": 6,
+  "unesco": [
+   6,
+   8
+  ],
+  "title": {
+   "en": "Genital Health 101: Normal, Not Normal and Myths",
+   "hi": "जननांगों की सेहत 101: क्या सामान्य है, क्या नहीं, और मिथक",
+   "hg": "Genital Health 101: Normal, Not Normal Aur Myths"
+  },
+  "subtitle": {
+   "en": "Hygiene, common symptoms, urinary versus reproductive parts, and vaginal-health myths",
+   "hi": "साफ़-सफ़ाई, आम लक्षण, मूत्र तंत्र और प्रजनन तंत्र का फ़र्क़, और योनि की सेहत से जुड़े मिथक",
+   "hg": "Hygiene, common symptoms, urinary vs reproductive parts, aur vaginal health ke myths"
+  },
+  "hook": {
+   "en": "Itching, discharge, a strange smell — the internet says panic, your friends say ignore it. Here is what your body is actually telling you.",
+   "hi": "खुजली, डिस्चार्ज, अजीब-सी गंध — इंटरनेट कहता है घबराओ, दोस्त कहते हैं छोड़ो। जानो कि तुम्हारा शरीर असल में क्या बता रहा है।",
+   "hg": "Khujli, discharge, ajeeb si smell — internet bolta hai panic karo, dost bolte hain ignore karo. Jaano tumhari body actually kya bata rahi hai."
+  },
+  "objectives": [
+   {
+    "en": "Tell apart the urinary and reproductive systems and their openings.",
+    "hi": "मूत्र तंत्र और प्रजनन तंत्र और उनके छेदों में फ़र्क़ बता पाना।",
+    "hg": "Urinary aur reproductive systems aur unki openings mein fark bata paana."
+   },
+   {
+    "en": "Describe healthy genital hygiene and what normal discharge and smegma are.",
+    "hi": "जननांगों की सही साफ़-सफ़ाई और सामान्य डिस्चार्ज व स्मेग्मा क्या हैं, यह बता पाना।",
+    "hg": "Healthy genital hygiene aur normal discharge aur smegma kya hain, yeh bata paana."
+   },
+   {
+    "en": "Recognise symptoms that need a doctor.",
+    "hi": "उन लक्षणों को पहचान पाना जिनमें डॉक्टर को दिखाना ज़रूरी है।",
+    "hg": "Un symptoms ko pehchaan paana jinme doctor ko dikhana zaroori hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Two systems, close neighbours",
+     "hi": "दो तंत्र, पास-पास के पड़ोसी",
+     "hg": "Do systems, paas-paas ke padosi"
+    },
+    "body": {
+     "en": "The urinary system makes and removes urine: kidneys, bladder and the urethra. The reproductive system is separate, even though the parts sit close together. In people with a vulva there are three openings: the urethra for urine, the vagina, and the anus. Urine never comes out of the vagina. In people with a penis, one tube, the urethra, carries both urine and semen, but a muscle at the bladder closes during ejaculation so they do not mix. This matters because burning while urinating usually points to the urinary system, while unusual discharge or genital sores point to the reproductive system.",
+     "hi": "मूत्र तंत्र पेशाब बनाता और बाहर निकालता है: गुर्दे, मूत्राशय और मूत्रमार्ग (urethra)। प्रजनन तंत्र इससे अलग है, भले ही दोनों के हिस्से पास-पास हों। जिनके पास वल्वा है उनमें तीन छेद होते हैं: पेशाब के लिए मूत्रमार्ग, योनि, और गुदा। पेशाब कभी योनि से नहीं निकलता। जिनके पास लिंग है उनमें एक ही नली, मूत्रमार्ग, पेशाब और वीर्य दोनों को ले जाती है, लेकिन स्खलन के समय मूत्राशय के पास की एक मांसपेशी बंद हो जाती है ताकि दोनों मिलें नहीं। यह इसलिए मायने रखता है क्योंकि पेशाब में जलन आमतौर पर मूत्र तंत्र की ओर इशारा करती है, जबकि अजीब डिस्चार्ज या जननांगों पर घाव प्रजनन तंत्र की ओर।",
+     "hg": "Urinary system urine banata aur bahar nikalta hai: kidneys, bladder aur urethra. Reproductive system isse alag hai, chahe dono ke parts paas-paas hon. Jinke paas vulva hai unmein teen openings hoti hain: urine ke liye urethra, vagina, aur anus. Urine kabhi vagina se nahi nikalta. Jinke paas penis hai unmein ek hi tube, urethra, urine aur semen dono ko le jaati hai, lekin ejaculation ke time bladder ke paas ki ek muscle band ho jaati hai taaki dono mix na hon. Yeh isliye matter karta hai kyunki urine mein jalan aksar urinary system ki taraf ishaara karti hai, jabki ajeeb discharge ya genitals pe ghaav reproductive system ki taraf."
+    }
+   },
+   {
+    "h": {
+     "en": "Vulva and vagina: less is more",
+     "hi": "वल्वा और योनि: जितना कम, उतना बेहतर",
+     "hg": "Vulva aur vagina: jitna kam, utna better"
+    },
+    "body": {
+     "en": "The vagina cleans itself. Discharge, a clear or whitish fluid, is how it does that, and it normally changes through the menstrual cycle from thin and stretchy to thicker and white. A mild smell is normal. Wash only the vulva, the outside, with water; mild unscented soap on the outer skin is fine. Douching, which means washing inside the vagina, along with scented washes, deodorant sprays and steaming, upsets the natural balance of healthy bacteria and raises the chance of irritation and infection. See a doctor if discharge turns green, grey or yellow, looks like curd with itching, smells strongly fishy, or comes with pain.",
+     "hi": "योनि अपनी सफ़ाई ख़ुद करती है। डिस्चार्ज, यानी साफ़ या सफ़ेद-सा तरल, इसी सफ़ाई का तरीक़ा है, और यह माहवारी के चक्र के साथ सामान्य रूप से बदलता है — कभी पतला और खिंचने वाला, कभी गाढ़ा और सफ़ेद। हल्की गंध सामान्य है। सिर्फ़ वल्वा, यानी बाहर का हिस्सा, पानी से धोओ; बाहर की त्वचा पर हल्का, बिना ख़ुशबू वाला साबुन चल सकता है। डूशिंग, यानी योनि को अंदर से धोना, और साथ ही ख़ुशबूदार वॉश, डियोड्रेंट स्प्रे और स्टीमिंग अच्छे बैक्टीरिया का प्राकृतिक संतुलन बिगाड़ते हैं और जलन व संक्रमण की आशंका बढ़ाते हैं। डॉक्टर को दिखाओ अगर डिस्चार्ज हरा, स्लेटी या पीला हो जाए, खुजली के साथ दही जैसा दिखे, तेज़ मछली जैसी गंध आए, या साथ में दर्द हो।",
+     "hg": "Vagina apni safai khud karti hai. Discharge, yaani clear ya safed sa fluid, isi safai ka tareeka hai, aur yeh menstrual cycle ke saath normally badalta hai — kabhi patla aur stretchy, kabhi gaadha aur safed. Halki smell normal hai. Sirf vulva, yaani bahar ka hissa, paani se dho; bahar ki skin pe mild, unscented soap chal sakta hai. Douching, yaani vagina ko andar se dhona, aur saath hi scented washes, deodorant sprays aur steaming healthy bacteria ka natural balance bigaadte hain aur irritation aur infection ka chance badhate hain. Doctor ko dikhao agar discharge hara, grey ya peela ho jaaye, khujli ke saath dahi jaisa dikhe, tez machhli jaisi smell aaye, ya saath mein dard ho."
+    }
+   },
+   {
+    "h": {
+     "en": "Penis and scrotum: simple care",
+     "hi": "लिंग और अंडकोष की थैली: सीधी-सादी देखभाल",
+     "hg": "Penis aur scrotum: simple care"
+    },
+    "body": {
+     "en": "Under the foreskin, dead skin cells and natural oils collect as a whitish substance called smegma. It is not an infection, but it should be rinsed away daily: slide the foreskin back only as far as it goes comfortably, wash with water, and slide it forward again. By the later teens most foreskins retract fully; one that is painfully tight deserves a doctor's look. The groin is warm and sweaty, so fungal rashes, often called jock itch, are common: an itchy red patch in the skin folds. Dry well after bathing, change sweaty underwear and avoid sharing towels. Do not use creams borrowed from friends; some worsen fungal infections.",
+     "hi": "लिंग की ऊपरी त्वचा (foreskin) के नीचे मरी हुई त्वचा की कोशिकाएँ और प्राकृतिक तेल एक सफ़ेद-से पदार्थ के रूप में जमा हो जाते हैं जिसे स्मेग्मा कहते हैं। यह संक्रमण नहीं है, लेकिन इसे रोज़ धोकर हटाना चाहिए: त्वचा को उतना ही पीछे खिसकाओ जितना आराम से जाए, पानी से धोओ, और फिर वापस आगे कर दो। किशोरावस्था के आख़िरी सालों तक ज़्यादातर लोगों में यह त्वचा पूरी तरह पीछे जाने लगती है; अगर वह दर्द के साथ कसी हुई हो तो डॉक्टर को दिखाना चाहिए। जाँघों के बीच का हिस्सा गर्म और पसीने वाला होता है, इसलिए फ़ंगल दाने, जिन्हें अक्सर जॉक इच कहते हैं, आम हैं: त्वचा की सिलवटों में खुजली वाला लाल चकत्ता। नहाने के बाद अच्छी तरह सुखाओ, पसीने वाला अंडरवियर बदलो और तौलिया साझा मत करो। दोस्तों से माँगी हुई क्रीम मत लगाओ; कुछ क्रीम फ़ंगल संक्रमण को और बिगाड़ देती हैं।",
+     "hg": "Foreskin ke neeche dead skin cells aur natural oils ek safed se substance ke roop mein jama ho jaate hain jise smegma kehte hain. Yeh infection nahi hai, lekin ise roz dho ke hatana chahiye: foreskin ko utna hi peeche khiskao jitna aaram se jaaye, paani se dho, aur phir wapas aage kar do. Late teens tak zyadatar logon mein foreskin poori tarah peeche jaane lagti hai; agar woh dard ke saath tight ho toh doctor ko dikhana chahiye. Groin garam aur paseene wala area hai, isliye fungal rashes, jinhe aksar jock itch kehte hain, common hain: skin folds mein khujli wala laal patch. Nahane ke baad achhe se sukhao, paseene wala underwear badlo aur towel share mat karo. Doston se maangi hui cream mat lagao; kuch creams fungal infection ko aur bigaad deti hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Symptoms worth a check",
+     "hi": "लक्षण जिनकी जाँच करवानी चाहिए",
+     "hg": "Symptoms jinka check-up karwana chahiye"
+    },
+    "body": {
+     "en": "See a doctor for burning or pain when passing urine, needing to urinate very often, blood in urine, itching or a rash that lasts more than a few days, sores, blisters or warts, a new lump, discharge from the penis, or changed vaginal discharge. Urinary tract infections are common, especially in people with a vulva because their urethra is short, and they are not a sign of sexual activity; they need medicine prescribed by a doctor. Fever with back or side pain alongside urinary symptoms needs same-day care. Sudden severe testicle pain is an emergency. Genitals also vary in shape, size and colour, and uneven is normal.",
+     "hi": "इन हालात में डॉक्टर को दिखाओ: पेशाब करते समय जलन या दर्द, बार-बार पेशाब लगना, पेशाब में ख़ून, खुजली या दाने जो कुछ दिनों से ज़्यादा चलें, घाव, छाले या मस्से, कोई नई गाँठ, लिंग से डिस्चार्ज, या योनि के डिस्चार्ज में बदलाव। मूत्र मार्ग का संक्रमण (UTI) आम है, ख़ासकर उनमें जिनके पास वल्वा है क्योंकि उनका मूत्रमार्ग छोटा होता है, और यह यौन गतिविधि का संकेत नहीं है; इसके लिए डॉक्टर की लिखी दवा चाहिए। पेशाब के लक्षणों के साथ बुख़ार और कमर या पेट के किनारे की तरफ़ दर्द हो तो उसी दिन इलाज ज़रूरी है। अंडकोष में अचानक तेज़ दर्द इमरजेंसी है। जननांग आकार, नाप और रंग में भी अलग-अलग होते हैं, और दोनों तरफ़ बराबर न होना सामान्य है।",
+     "hg": "In situations mein doctor ko dikhao: urine karte time jalan ya dard, baar-baar urine lagna, urine mein khoon, khujli ya rash jo kuch dino se zyada chale, ghaav, chhaale ya warts, koi nayi gaanth, penis se discharge, ya vaginal discharge mein badlaav. Urinary tract infection (UTI) common hai, khaaskar unmein jinke paas vulva hai kyunki unki urethra chhoti hoti hai, aur yeh sexual activity ka sign nahi hai; iske liye doctor ki likhi dawai chahiye. Urine wale symptoms ke saath bukhaar aur kamar ya side mein dard ho toh usi din care zaroori hai. Testicle mein achanak tez dard emergency hai. Genitals shape, size aur colour mein bhi alag-alag hote hain, aur uneven hona normal hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "White discharge is a disease that makes girls weak.",
+    "hi": "सफ़ेद पानी एक बीमारी है जो लड़कियों को कमज़ोर कर देती है।",
+    "hg": "Safed paani ek bimari hai jo ladkiyon ko kamzor kar deti hai."
+   },
+   "fact": {
+    "en": "Clear or white vaginal discharge is a normal sign of a healthy, self-cleaning vagina and does not drain strength. Only a change in colour, smell or texture, or itching and pain, needs a doctor.",
+    "hi": "योनि से साफ़ या सफ़ेद डिस्चार्ज स्वस्थ, अपनी सफ़ाई ख़ुद करने वाली योनि का सामान्य संकेत है और इससे ताक़त नहीं घटती। डॉक्टर की ज़रूरत तभी है जब रंग, गंध या गाढ़ापन बदले, या खुजली और दर्द हो।",
+    "hg": "Vagina se clear ya safed discharge healthy, self-cleaning vagina ka normal sign hai aur isse taakat nahi ghat-ti. Doctor ki zaroorat tabhi hai jab colour, smell ya texture badle, ya khujli aur dard ho."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "The urinary and reproductive systems are separate; in people with a vulva, urine and period blood leave through different openings.",
+    "hi": "मूत्र तंत्र और प्रजनन तंत्र अलग-अलग हैं; जिनके पास वल्वा है उनमें पेशाब और पीरियड का ख़ून अलग-अलग छेदों से निकलते हैं।",
+    "hg": "Urinary aur reproductive systems alag-alag hain; jinke paas vulva hai unmein urine aur period blood alag openings se nikalte hain."
+   },
+   {
+    "en": "The vagina cleans itself, and smegma and normal discharge are not infections.",
+    "hi": "योनि अपनी सफ़ाई ख़ुद करती है, और स्मेग्मा व सामान्य डिस्चार्ज संक्रमण नहीं हैं।",
+    "hg": "Vagina apni safai khud karti hai, aur smegma aur normal discharge infection nahi hain."
+   },
+   {
+    "en": "Burning urine, a lasting itch, sores, lumps or changed discharge need a doctor, not home experiments.",
+    "hi": "पेशाब में जलन, न जाने वाली खुजली, घाव, गाँठ या बदला हुआ डिस्चार्ज हो तो डॉक्टर चाहिए, घरेलू प्रयोग नहीं।",
+    "hg": "Urine mein jalan, na jaane wali khujli, ghaav, gaanth ya badla hua discharge ho toh doctor chahiye, ghar ke experiments nahi."
+   }
+  ],
+  "activity": {
+   "en": "Without looking anything up, write down which symptoms from this lesson would make you see a doctor. Then check your list against the last section and add what you missed.",
+   "hi": "कुछ भी देखे बिना लिखो कि इस पाठ के कौन-से लक्षण होने पर तुम डॉक्टर के पास जाओगे। फिर अपनी सूची को आख़िरी हिस्से से मिलाओ और जो छूट गया उसे जोड़ो।",
+   "hg": "Kuch bhi dekhe bina likho ki is lesson ke kaun-se symptoms hone pe tum doctor ke paas jaoge. Phir apni list ko last section se match karo aur jo chhoot gaya use add karo."
+  },
+  "interactive": "body_lab",
+  "quiz": [
+   {
+    "id": "d10-l02-q1",
+    "type": "mcq",
+    "q": {
+     "en": "What is the healthiest way to care for the vagina?",
+     "hi": "योनि की देखभाल का सबसे सेहतमंद तरीक़ा क्या है?",
+     "hg": "Vagina ki care ka sabse healthy tareeka kya hai?"
+    },
+    "options": [
+     {
+      "en": "Wash inside it with soap every day",
+      "hi": "रोज़ उसे अंदर से साबुन से धोना",
+      "hg": "Roz use andar se sabun se dhona"
+     },
+     {
+      "en": "Use scented intimate sprays",
+      "hi": "ख़ुशबूदार इंटिमेट स्प्रे इस्तेमाल करना",
+      "hg": "Scented intimate sprays use karna"
+     },
+     {
+      "en": "Wash only the outer vulva with water and leave the inside alone",
+      "hi": "सिर्फ़ बाहर की वल्वा को पानी से धोना और अंदर के हिस्से को छेड़ना नहीं",
+      "hg": "Sirf bahar ki vulva ko paani se dhona aur andar ko chhedna nahi"
+     },
+     {
+      "en": "Steam it once a month",
+      "hi": "महीने में एक बार भाप देना",
+      "hg": "Mahine mein ek baar steam dena"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "The vagina keeps itself clean with normal discharge. Washing inside, sprays and steaming disturb its natural balance and raise the risk of irritation and infection.",
+     "hi": "योनि सामान्य डिस्चार्ज के ज़रिए ख़ुद को साफ़ रखती है। अंदर से धोना, स्प्रे और भाप उसका प्राकृतिक संतुलन बिगाड़ते हैं और जलन व संक्रमण का ख़तरा बढ़ाते हैं।",
+     "hg": "Vagina normal discharge se khud ko saaf rakhti hai. Andar se dhona, sprays aur steaming uska natural balance bigaadte hain aur irritation aur infection ka risk badhate hain."
+    }
+   },
+   {
+    "id": "d10-l02-q2",
+    "type": "tf",
+    "q": {
+     "en": "In people with a penis, the urethra carries both urine and semen, but not at the same time.",
+     "hi": "जिनके पास लिंग है, उनमें मूत्रमार्ग पेशाब और वीर्य दोनों को ले जाता है, लेकिन एक साथ नहीं।",
+     "hg": "Jinke paas penis hai, unmein urethra urine aur semen dono ko le jaati hai, lekin ek saath nahi."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "One tube serves both systems, and a muscle at the bladder closes during ejaculation so that urine and semen do not mix.",
+     "hi": "एक ही नली दोनों तंत्रों के काम आती है, और स्खलन के समय मूत्राशय के पास की मांसपेशी बंद हो जाती है ताकि पेशाब और वीर्य न मिलें।",
+     "hg": "Ek hi tube dono systems ke kaam aati hai, aur ejaculation ke time bladder ke paas ki muscle band ho jaati hai taaki urine aur semen mix na hon."
+    }
+   }
+  ],
+  "refs": [
+   "who-sexual-health",
+   "nhm-rksk",
+   "unesco-itgse"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d10-l03",
+  "domain": "d10",
+  "tracks": [
+   "D"
+  ],
+  "audience": [
+   "men",
+   "women"
+  ],
+  "body": [
+   "penis_testicular",
+   "menstrual"
+  ],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   8,
+   5
+  ],
+  "title": {
+   "en": "Red Flags: Testicular Pain, Pelvic Pain and Real Doctors",
+   "hi": "ख़तरे के संकेत: अंडकोष का दर्द, पेल्विक दर्द और असली डॉक्टर",
+   "hg": "Red Flags: Testicular Pain, Pelvic Pain Aur Asli Doctors"
+  },
+  "subtitle": {
+   "en": "Emergencies you must not sit on, what a check-up involves, and how to spot fake cures",
+   "hi": "वे इमरजेंसी जिन्हें टालना नहीं है, जाँच में क्या होता है, और नक़ली इलाज कैसे पहचानें",
+   "hg": "Woh emergencies jinhe taalna nahi hai, check-up mein kya hota hai, aur fake ilaaj kaise pehchaanein"
+  },
+  "hook": {
+   "en": "Some symptoms can wait for an appointment. A few cannot wait for morning. Knowing the difference can save an organ.",
+   "hi": "कुछ लक्षण अपॉइंटमेंट तक रुक सकते हैं। कुछ सुबह तक भी नहीं रुक सकते। यह फ़र्क़ जानना एक अंग बचा सकता है।",
+   "hg": "Kuch symptoms appointment tak wait kar sakte hain. Kuch subah tak bhi nahi. Yeh fark jaanna ek organ bacha sakta hai."
+  },
+  "objectives": [
+   {
+    "en": "Recognise testicular torsion and other urgent genital and pelvic symptoms.",
+    "hi": "टेस्टिकुलर टॉर्शन और जननांगों व पेल्विस के दूसरे इमरजेंसी लक्षण पहचान पाना।",
+    "hg": "Testicular torsion aur genitals aur pelvis ke dusre urgent symptoms pehchaan paana."
+   },
+   {
+    "en": "Explain when pelvic pain needs medical assessment.",
+    "hi": "समझा पाना कि पेल्विक दर्द में डॉक्टर की जाँच कब ज़रूरी है।",
+    "hg": "Samjha paana ki pelvic pain mein doctor ki jaanch kab zaroori hai."
+   },
+   {
+    "en": "Prepare for a clinic visit and identify medical misinformation.",
+    "hi": "क्लिनिक जाने की तैयारी कर पाना और इलाज से जुड़ी ग़लत जानकारी पहचान पाना।",
+    "hg": "Clinic visit ki taiyari kar paana aur medical misinformation pehchaan paana."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Testicular torsion: a race against the clock",
+     "hi": "टेस्टिकुलर टॉर्शन: घड़ी से रेस",
+     "hg": "Testicular torsion: ghadi se race"
+    },
+    "body": {
+     "en": "Testicular torsion happens when a testicle twists on the cord that carries its blood supply. It is most common in the teenage years and can start during sport, after a minor knock or during sleep. The signs are sudden, severe pain in one testicle, swelling, a testicle sitting higher than usual, and often lower-belly pain, nausea or vomiting. Without blood the testicle can be permanently damaged within hours; surgery in roughly the first six hours gives the best chance of saving it. Go to a hospital emergency department immediately. Do not wait to see if it settles, and tell the staff clearly: sudden testicle pain.",
+     "hi": "टेस्टिकुलर टॉर्शन तब होता है जब अंडकोष उस नली पर घूमकर मुड़ जाता है जो उस तक ख़ून पहुँचाती है। यह किशोरावस्था में सबसे आम है और खेलते समय, हल्की चोट के बाद या नींद में भी शुरू हो सकता है। इसके संकेत हैं: एक अंडकोष में अचानक बहुत तेज़ दर्द, सूजन, अंडकोष का सामान्य से ऊपर चढ़ा होना, और अक्सर पेट के निचले हिस्से में दर्द, जी मिचलाना या उल्टी। ख़ून न मिलने पर अंडकोष को कुछ ही घंटों में हमेशा के लिए नुक़सान हो सकता है; लगभग पहले छह घंटों में सर्जरी होने पर उसे बचाने की संभावना सबसे अच्छी रहती है। तुरंत अस्पताल के इमरजेंसी विभाग में जाओ। यह देखने के लिए मत रुको कि दर्द अपने-आप ठीक होता है या नहीं, और स्टाफ़ को साफ़ बताओ: अंडकोष में अचानक दर्द।",
+     "hg": "Testicular torsion tab hota hai jab testicle us cord pe ghoom ke mud jaata hai jo us tak blood supply le jaati hai. Yeh teenage mein sabse common hai aur sports ke dauraan, halki chot ke baad ya neend mein bhi shuru ho sakta hai. Iske signs hain: ek testicle mein achanak bahut tez dard, soojan, testicle ka normal se upar chadha hona, aur aksar lower belly mein dard, nausea ya ulti. Blood na milne pe testicle ko kuch hi ghanton mein permanent damage ho sakta hai; lagbhag pehle chhe ghanton mein surgery hone pe use bachane ka chance sabse achha rehta hai. Turant hospital ke emergency department jao. Yeh dekhne ke liye mat ruko ki dard apne aap settle hota hai ya nahi, aur staff ko clearly batao: testicle mein achanak dard."
+    }
+   },
+   {
+    "h": {
+     "en": "Knowing your normal",
+     "hi": "अपना 'सामान्य' जानना",
+     "hg": "Apna 'normal' jaanna"
+    },
+    "body": {
+     "en": "It is normal for one testicle to hang lower or be slightly bigger. Get familiar with how yours usually feel, for example during a bath. See a doctor for a hard lump, a change in size, a heavy or dragging feeling, or a dull ache that persists. Testicular cancer is uncommon, but it mostly affects young men and is highly treatable when found early. For the penis, see a doctor for sores, discharge, a tight foreskin that hurts, or pain when urinating. A foreskin that has been pulled back, is stuck and swelling is an emergency. None of this is a judgement on you; it is plumbing.",
+     "hi": "एक अंडकोष का नीचे लटकना या थोड़ा बड़ा होना सामान्य है। जान लो कि तुम्हारे अंडकोष आमतौर पर छूने में कैसे लगते हैं, जैसे नहाते समय। डॉक्टर को दिखाओ अगर कोई सख़्त गाँठ हो, आकार बदले, भारीपन या खिंचाव-सा लगे, या हल्का दर्द बना रहे। अंडकोष का कैंसर कम होता है, लेकिन ज़्यादातर युवा पुरुषों में होता है और जल्दी पकड़ में आने पर इसका इलाज बहुत अच्छी तरह हो जाता है। लिंग के मामले में डॉक्टर को दिखाओ अगर घाव हों, डिस्चार्ज हो, ऊपर की त्वचा कसी हो और दर्द करे, या पेशाब में दर्द हो। अगर ऊपर की त्वचा पीछे खींचने के बाद अटक गई है और सूज रही है, तो यह इमरजेंसी है। इनमें से कुछ भी तुम्हारे बारे में कोई फ़ैसला नहीं है; यह बस शरीर की पाइपलाइन का मामला है।",
+     "hg": "Ek testicle ka neeche latakna ya thoda bada hona normal hai. Jaan lo ki tumhare testicles usually chhoone mein kaise lagte hain, jaise nahate time. Doctor ko dikhao agar koi hard gaanth ho, size badle, bhaaripan ya khinchaav sa lage, ya halka dard bana rahe. Testicular cancer kam hota hai, lekin zyadatar young men mein hota hai aur jaldi pakad mein aane pe iska treatment bahut achhe se ho jaata hai. Penis ke case mein doctor ko dikhao agar ghaav hon, discharge ho, foreskin tight ho aur dard kare, ya urine mein dard ho. Agar foreskin peeche kheenchne ke baad atak gayi hai aur sooj rahi hai, toh yeh emergency hai. Inmein se kuch bhi tumhare baare mein koi judgement nahi hai; yeh bas body ki plumbing ka maamla hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Pelvic pain is not 'just normal'",
+     "hi": "पेल्विक दर्द 'बस ऐसे ही' नहीं होता",
+     "hg": "Pelvic pain 'bas normal' nahi hota"
+    },
+    "body": {
+     "en": "Mild cramps with periods are common. Pain that makes you miss school, vomit or faint, or that keeps getting worse, deserves assessment; conditions such as endometriosis are often dismissed for years as ordinary period pain. See a doctor the same day for pain when urinating with fever or back or side pain, and soon for lower-belly pain with fever or unusual discharge, or pelvic pain lasting weeks. Go to hospital urgently for sudden severe one-sided lower-belly pain, especially with vomiting, fainting, shoulder-tip pain or unexpected vaginal bleeding; a twisted ovary, appendicitis or an ectopic pregnancy all need fast treatment. Do not let anyone talk you into tolerating severe pain.",
+     "hi": "पीरियड में हल्की ऐंठन आम है। ऐसा दर्द जिसकी वजह से स्कूल छूटे, उल्टी हो या बेहोशी आए, या जो बढ़ता ही जाए, उसकी जाँच होनी चाहिए; एंडोमेट्रियोसिस जैसी स्थितियों को अक्सर बरसों तक पीरियड का आम दर्द कहकर टाल दिया जाता है। पेशाब में दर्द के साथ बुख़ार या कमर या बग़ल में दर्द हो तो उसी दिन डॉक्टर को दिखाओ, और जल्द दिखाओ अगर पेट के निचले हिस्से में दर्द के साथ बुख़ार या अजीब डिस्चार्ज हो, या पेल्विक दर्द हफ़्तों से चल रहा हो। तुरंत अस्पताल जाओ अगर पेट के निचले हिस्से में एक तरफ़ अचानक बहुत तेज़ दर्द हो, ख़ासकर उल्टी, बेहोशी, कंधे के सिरे में दर्द या बिना वजह योनि से ख़ून के साथ; अंडाशय का मुड़ जाना, अपेंडिसाइटिस या एक्टोपिक प्रेग्नेंसी, तीनों में जल्दी इलाज चाहिए। किसी के कहने पर तेज़ दर्द को सहते मत रहो।",
+     "hg": "Periods mein halke cramps common hain. Aisa dard jiski wajah se school chhoote, ulti ho ya behoshi aaye, ya jo badhta hi jaaye, uski jaanch honi chahiye; endometriosis jaisi conditions ko aksar saalon tak ordinary period pain bol ke taal diya jaata hai. Urine mein dard ke saath bukhaar ya kamar ya side mein dard ho toh usi din doctor ko dikhao, aur jaldi dikhao agar lower belly mein dard ke saath bukhaar ya ajeeb discharge ho, ya pelvic pain hafton se chal raha ho. Turant hospital jao agar lower belly mein ek side achanak bahut tez dard ho, khaaskar ulti, behoshi, shoulder-tip pain ya bina wajah vaginal bleeding ke saath; ovary ka mud jaana, appendicitis ya ectopic pregnancy, teeno mein fast treatment chahiye. Kisi ke kehne pe tez dard ko sehte mat raho."
+    }
+   },
+   {
+    "h": {
+     "en": "Check-ups, real doctors and fake cures",
+     "hi": "जाँच, असली डॉक्टर और नक़ली इलाज",
+     "hg": "Check-ups, asli doctors aur fake ilaaj"
+    },
+    "body": {
+     "en": "You do not need to be married or an adult to see a doctor about reproductive health. Government Adolescent Friendly Health Clinics offer counselling and care for ages 10 to 19. Write down your symptoms, when they began and any medicines you take; you can ask for someone to accompany you and for each step to be explained. Be aware that doctors must report sexual abuse or sexual activity involving anyone under 18, so they cannot promise total secrecy. Be suspicious of 'gupt rog' clinics, wall adverts and influencers promising guaranteed, secret or instant cures. A real doctor has a registration number, examines you and never guarantees results.",
+     "hi": "प्रजनन स्वास्थ्य के लिए डॉक्टर के पास जाने के लिए शादीशुदा या वयस्क होना ज़रूरी नहीं है। सरकारी किशोर मित्र स्वास्थ्य क्लिनिक (AFHC) 10 से 19 साल की उम्र वालों को परामर्श और इलाज देते हैं। अपने लक्षण, वे कब शुरू हुए और जो दवाइयाँ तुम लेते हो, लिख लो; तुम कह सकते हो कि कोई तुम्हारे साथ रहे और हर क़दम तुम्हें समझाया जाए। यह जान लो कि 18 साल से कम उम्र के किसी भी व्यक्ति से जुड़े यौन शोषण या यौन गतिविधि की रिपोर्ट करना डॉक्टरों के लिए क़ानूनन ज़रूरी है, इसलिए वे पूरी गोपनीयता का वादा नहीं कर सकते। 'गुप्त रोग' क्लिनिकों, दीवारों पर लिखे विज्ञापनों और उन इन्फ्लुएंसरों से सावधान रहो जो गारंटी वाले, गुप्त या तुरंत इलाज का वादा करते हैं। असली डॉक्टर के पास रजिस्ट्रेशन नंबर होता है, वह तुम्हारी जाँच करता है और नतीजों की गारंटी कभी नहीं देता।",
+     "hg": "Reproductive health ke liye doctor ke paas jaane ke liye married ya adult hona zaroori nahi hai. Government ke Adolescent Friendly Health Clinics (AFHC) 10 se 19 saal walon ko counselling aur care dete hain. Apne symptoms, woh kab shuru hue aur jo medicines tum lete ho, likh lo; tum bol sakte ho ki koi tumhare saath rahe aur har step tumhe explain kiya jaaye. Yeh jaan lo ki 18 se kam umar ke kisi bhi insaan se jude sexual abuse ya sexual activity ko report karna doctors ke liye legally zaroori hai, isliye woh total secrecy ka promise nahi kar sakte. 'Gupt rog' clinics, deewaron wale ads aur un influencers se saavdhaan raho jo guaranteed, secret ya instant ilaaj ka promise karte hain. Asli doctor ke paas registration number hota hai, woh tumhari jaanch karta hai aur results ki guarantee kabhi nahi deta."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Problems in private parts are shameful and best treated secretly with powders or oils.",
+    "hi": "निजी अंगों की समस्याएँ शर्म की बात हैं और इनका इलाज चुपचाप चूर्ण या तेल से करना ही ठीक है।",
+    "hg": "Private parts ki problems sharam ki baat hain aur inka ilaaj chupchaap churan ya tel se karna hi theek hai."
+   },
+   "fact": {
+    "en": "Genital and pelvic symptoms are ordinary medical problems, and registered doctors treat them every day. Unlabelled powders, oils and pills may contain undeclared ingredients and delay real treatment, which is dangerous in emergencies like torsion.",
+    "hi": "जननांगों और पेल्विस के लक्षण आम मेडिकल समस्याएँ हैं, और रजिस्टर्ड डॉक्टर रोज़ इनका इलाज करते हैं। बिना लेबल वाले चूर्ण, तेल और गोलियों में ऐसी चीज़ें हो सकती हैं जो बताई नहीं गईं, और इनसे असली इलाज में देर होती है — जो टॉर्शन जैसी इमरजेंसी में ख़तरनाक है।",
+    "hg": "Genitals aur pelvis ke symptoms ordinary medical problems hain, aur registered doctors roz inka treatment karte hain. Bina label wale churan, tel aur goliyon mein aisi cheezein ho sakti hain jo batayi nahi gayi, aur inse real treatment mein der hoti hai — jo torsion jaisi emergency mein dangerous hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Sudden severe testicle pain means hospital now; hours decide whether the testicle can be saved.",
+    "hi": "अंडकोष में अचानक तेज़ दर्द का मतलब है अभी अस्पताल; घंटों में तय होता है कि अंडकोष बचेगा या नहीं।",
+    "hg": "Testicle mein achanak tez dard ka matlab hai abhi hospital; ghanton mein decide hota hai ki testicle bachega ya nahi."
+   },
+   {
+    "en": "Severe, worsening or sudden one-sided pelvic pain needs medical assessment, not endurance.",
+    "hi": "तेज़, बढ़ता हुआ या अचानक एक तरफ़ का पेल्विक दर्द सहने की नहीं, डॉक्टर की जाँच की चीज़ है।",
+    "hg": "Tez, badhta hua ya achanak ek side ka pelvic pain sehne ki nahi, doctor ki jaanch ki cheez hai."
+   },
+   {
+    "en": "Use registered doctors and AFHCs, and distrust anyone who promises secret, guaranteed cures.",
+    "hi": "रजिस्टर्ड डॉक्टरों और AFHC के पास जाओ, और जो गुप्त, गारंटी वाले इलाज का वादा करे उस पर भरोसा मत करो।",
+    "hg": "Registered doctors aur AFHCs ke paas jao, aur jo secret, guaranteed ilaaj ka promise kare uspe bharosa mat karo."
+   }
+  ],
+  "activity": {
+   "en": "Find the nearest government hospital or clinic with emergency services and save its location on your phone. Then write three questions you would ask a doctor about your own health if embarrassment were not a factor.",
+   "hi": "इमरजेंसी सेवा वाला सबसे नज़दीकी सरकारी अस्पताल या क्लिनिक ढूँढ़ो और उसकी लोकेशन फ़ोन में सेव कर लो। फिर तीन ऐसे सवाल लिखो जो तुम अपनी सेहत के बारे में डॉक्टर से पूछते, अगर झिझक बीच में न होती।",
+   "hg": "Emergency services wala sabse nearest government hospital ya clinic dhoondho aur uski location phone mein save kar lo. Phir teen aise sawaal likho jo tum apni health ke baare mein doctor se puchte, agar jhijhak beech mein na hoti."
+  },
+  "interactive": "support_circle",
+  "quiz": [
+   {
+    "id": "d10-l03-q1",
+    "type": "scenario",
+    "q": {
+     "en": "At 1 a.m. Aryan, 16, wakes with sudden severe pain in one testicle and feels like vomiting. What should he do?",
+     "hi": "रात के 1 बजे 16 साल का आर्यन एक अंडकोष में अचानक बहुत तेज़ दर्द के साथ जागता है और उसे उल्टी जैसा लग रहा है। उसे क्या करना चाहिए?",
+     "hg": "Raat ke 1 baje 16 saal ka Aryan ek testicle mein achanak bahut tez dard ke saath jaagta hai aur use ulti jaisa lag raha hai. Use kya karna chahiye?"
+    },
+    "options": [
+     {
+      "en": "Wake a family member and go to a hospital emergency department immediately",
+      "hi": "घर के किसी सदस्य को जगाना और तुरंत अस्पताल की इमरजेंसी में जाना",
+      "hg": "Ghar ke kisi member ko jagana aur turant hospital emergency jaana"
+     },
+     {
+      "en": "Take a painkiller and see how it feels in the morning",
+      "hi": "दर्द की गोली लेना और सुबह देखना कि कैसा लगता है",
+      "hg": "Painkiller lena aur subah dekhna kaisa lagta hai"
+     },
+     {
+      "en": "Apply ice and search online for home remedies",
+      "hi": "बर्फ़ लगाना और ऑनलाइन घरेलू नुस्ख़े ढूँढ़ना",
+      "hg": "Barf lagana aur online gharelu nuskhe dhoondhna"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Sudden severe testicle pain with nausea can be torsion, which cuts off the blood supply. The chance of saving the testicle falls with every hour, so it cannot wait for morning.",
+     "hi": "जी मिचलाने के साथ अंडकोष में अचानक तेज़ दर्द टॉर्शन हो सकता है, जिसमें ख़ून की सप्लाई रुक जाती है। अंडकोष के बचने की संभावना हर घंटे घटती है, इसलिए सुबह तक इंतज़ार नहीं किया जा सकता।",
+     "hg": "Nausea ke saath testicle mein achanak tez dard torsion ho sakta hai, jisme blood supply ruk jaati hai. Testicle bachne ka chance har ghante ghat-ta hai, isliye subah tak wait nahi kiya ja sakta."
+    }
+   },
+   {
+    "id": "d10-l03-q2",
+    "type": "mcq",
+    "q": {
+     "en": "Which is the clearest sign that a health claim is misinformation?",
+     "hi": "कौन-सा संकेत सबसे साफ़ बताता है कि सेहत से जुड़ा कोई दावा ग़लत जानकारी है?",
+     "hg": "Kaun-sa sign sabse clearly batata hai ki koi health claim misinformation hai?"
+    },
+    "options": [
+     {
+      "en": "It suggests seeing a registered doctor",
+      "hi": "वह रजिस्टर्ड डॉक्टर को दिखाने की सलाह देता है",
+      "hg": "Woh registered doctor ko dikhane ki salaah deta hai"
+     },
+     {
+      "en": "It mentions possible side effects",
+      "hi": "वह संभावित साइड इफ़ेक्ट बताता है",
+      "hg": "Woh possible side effects batata hai"
+     },
+     {
+      "en": "It promises a guaranteed, secret cure within days",
+      "hi": "वह कुछ ही दिनों में गारंटी वाले, गुप्त इलाज का वादा करता है",
+      "hg": "Woh kuch hi dino mein guaranteed, secret ilaaj ka promise karta hai"
+     },
+     {
+      "en": "It says results differ from person to person",
+      "hi": "वह कहता है कि नतीजे हर इंसान में अलग हो सकते हैं",
+      "hg": "Woh kehta hai ki results har insaan mein alag ho sakte hain"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "Honest medicine admits uncertainty and side effects. Guarantees, secrecy and miracle timelines are the marks of someone selling, not treating.",
+     "hi": "ईमानदार इलाज अनिश्चितता और साइड इफ़ेक्ट को मानता है। गारंटी, गोपनीयता और चमत्कारी समय-सीमा उस इंसान की पहचान है जो इलाज नहीं, माल बेच रहा है।",
+     "hg": "Honest medicine uncertainty aur side effects ko maanti hai. Guarantee, secrecy aur miracle timelines us insaan ki pehchaan hai jo ilaaj nahi, maal bech raha hai."
+    }
+   }
+  ],
+  "refs": [
+   "who-sexual-health",
+   "nhm-afhc",
+   "who-endometriosis",
+   "nhs-ectopic",
+   "pocso-2012"
+  ],
+  "warning": {
+   "en": "Sudden severe testicle pain, a foreskin stuck behind the head of the penis, or sudden severe one-sided lower-belly pain with vomiting, fainting or bleeding are emergencies. Go to a hospital immediately or call 112.",
+   "hi": "अंडकोष में अचानक तेज़ दर्द, लिंग के सिरे के पीछे अटकी हुई ऊपरी त्वचा, या पेट के निचले हिस्से में एक तरफ़ अचानक तेज़ दर्द के साथ उल्टी, बेहोशी या ख़ून आना — ये सब इमरजेंसी हैं। तुरंत अस्पताल जाओ या 112 पर कॉल करो।",
+   "hg": "Testicle mein achanak tez dard, penis ke head ke peeche atki hui foreskin, ya lower belly mein ek side achanak tez dard ke saath ulti, behoshi ya bleeding — yeh sab emergencies hain. Turant hospital jao ya 112 pe call karo."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d10-l04",
+  "domain": "d10",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "men",
+   "women"
+  ],
+  "body": [
+   "penis_testicular",
+   "vulva_vaginal"
+  ],
+  "difficulty": 3,
+  "minutes": 8,
+  "unesco": [
+   8,
+   7
+  ],
+  "title": {
+   "en": "When Sex Hurts or Doesn't Go to Plan",
+   "hi": "जब सेक्स में दर्द हो या बात न बने",
+   "hg": "Jab Sex Mein Dard Ho Ya Baat Na Bane"
+  },
+  "subtitle": {
+   "en": "Painful intercourse, erectile dysfunction, premature ejaculation and sexual anxiety — explained clinically",
+   "hi": "संभोग में दर्द, इरेक्टाइल डिसफ़ंक्शन, शीघ्रपतन और यौन घबराहट — मेडिकल नज़र से",
+   "hg": "Painful intercourse, erectile dysfunction, premature ejaculation aur sexual anxiety — clinical nazar se"
+  },
+  "hook": {
+   "en": "Sexual difficulties are common, treatable health problems. The biggest obstacle to treatment is usually silence.",
+   "hi": "यौन परेशानियाँ आम हैं और इनका इलाज हो सकता है। इलाज के रास्ते की सबसे बड़ी रुकावट आमतौर पर चुप्पी होती है।",
+   "hg": "Sexual difficulties common hain aur inka ilaaj ho sakta hai. Treatment ke raaste ki sabse badi rukawat aksar chuppi hoti hai."
+  },
+  "objectives": [
+   {
+    "en": "Describe common causes of painful intercourse, erectile dysfunction and premature ejaculation.",
+    "hi": "संभोग में दर्द, इरेक्टाइल डिसफ़ंक्शन और शीघ्रपतन की आम वजहें बता पाना।",
+    "hg": "Painful intercourse, erectile dysfunction aur premature ejaculation ke common causes bata paana."
+   },
+   {
+    "en": "Explain how anxiety affects sexual response.",
+    "hi": "समझा पाना कि घबराहट यौन प्रतिक्रिया पर कैसे असर डालती है।",
+    "hg": "Samjha paana ki anxiety sexual response pe kaise asar daalti hai."
+   },
+   {
+    "en": "Know when and from whom to seek medical help.",
+    "hi": "जानना कि मेडिकल मदद कब और किससे लेनी है।",
+    "hg": "Jaanna ki medical help kab aur kisse leni hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Pain during intercourse",
+     "hi": "संभोग के दौरान दर्द",
+     "hg": "Intercourse ke dauraan dard"
+    },
+    "body": {
+     "en": "Pain during intercourse, medically called dyspareunia, is common, but it is not something to put up with. Frequent causes in people with a vagina include too little arousal or lubrication, vaginal infections, skin conditions, hormonal changes after childbirth, during breastfeeding or around menopause, endometriosis, and vaginismus, an involuntary tightening of the muscles around the vagina. In people with a penis, a tight foreskin, infections or inflammation can cause pain. Water-based lubricant and more time help when dryness is the issue. Persistent pain, deep pain, or bleeding after intercourse needs a gynaecologist or urologist. Pain is a signal to stop, not to push through.",
+     "hi": "संभोग के दौरान दर्द, जिसे मेडिकल भाषा में डिस्पेर्यूनिया कहते हैं, आम है, लेकिन यह सहते रहने की चीज़ नहीं है। जिनके पास योनि है उनमें इसकी आम वजहें हैं: कम उत्तेजना या कम चिकनाई, योनि के संक्रमण, त्वचा की बीमारियाँ, प्रसव के बाद, स्तनपान के दौरान या मेनोपॉज़ के आसपास के हार्मोन बदलाव, एंडोमेट्रियोसिस, और वैजिनिस्मस, यानी योनि के आसपास की मांसपेशियों का अपने-आप कस जाना। जिनके पास लिंग है उनमें कसी हुई ऊपरी त्वचा, संक्रमण या सूजन से दर्द हो सकता है। अगर वजह सूखापन है, तो पानी-आधारित लुब्रिकेंट और ज़्यादा समय देना मदद करता है। लगातार दर्द, गहराई में दर्द, या संभोग के बाद ख़ून आने पर स्त्री रोग विशेषज्ञ या यूरोलॉजिस्ट को दिखाना ज़रूरी है। दर्द रुकने का संकेत है, ज़ोर लगाकर आगे बढ़ने का नहीं।",
+     "hg": "Intercourse ke dauraan dard, jise medical language mein dyspareunia kehte hain, common hai, lekin yeh sehte rehne ki cheez nahi hai. Jinke paas vagina hai unmein iske common causes hain: kam arousal ya kam lubrication, vaginal infections, skin conditions, delivery ke baad, breastfeeding ke dauraan ya menopause ke aas-paas ke hormonal changes, endometriosis, aur vaginismus, yaani vagina ke aas-paas ki muscles ka apne aap tight ho jaana. Jinke paas penis hai unmein tight foreskin, infections ya soojan se dard ho sakta hai. Agar wajah dryness hai, toh water-based lubricant aur zyada time dena help karta hai. Lagataar dard, gehraai mein dard, ya intercourse ke baad bleeding ho toh gynaecologist ya urologist ko dikhana zaroori hai. Dard rukne ka signal hai, zor laga ke aage badhne ka nahi."
+    }
+   },
+   {
+    "h": {
+     "en": "Erectile dysfunction",
+     "hi": "इरेक्टाइल डिसफ़ंक्शन (स्तंभन दोष)",
+     "hg": "Erectile dysfunction"
+    },
+    "body": {
+     "en": "Erectile dysfunction (ED) means repeatedly being unable to get or keep an erection firm enough for intercourse. An occasional failure with tiredness, alcohol or stress is normal and is not ED. Persistent ED has physical causes such as diabetes, high blood pressure, high cholesterol, smoking, heavy drinking, hormonal problems and some medicines, and psychological causes such as anxiety, depression and relationship strain; often both. Because it can be an early sign of heart or blood-vessel disease, a check-up matters. Effective treatments exist, including prescription medicines, but these can be dangerous with some heart drugs. Avoid 'herbal' capsules and online pills of unknown content.",
+     "hi": "इरेक्टाइल डिसफ़ंक्शन (ED) का मतलब है बार-बार ऐसा इरेक्शन न आ पाना या न टिक पाना जो संभोग के लिए काफ़ी हो। थकान, शराब या तनाव में कभी-कभार ऐसा हो जाना सामान्य है और यह ED नहीं है। लगातार बने रहने वाले ED की शारीरिक वजहें होती हैं, जैसे डायबिटीज़, हाई ब्लड प्रेशर, हाई कोलेस्ट्रॉल, धूम्रपान, ज़्यादा शराब, हार्मोन की गड़बड़ी और कुछ दवाइयाँ, और मानसिक वजहें भी, जैसे घबराहट, डिप्रेशन और रिश्ते का तनाव; अक्सर दोनों साथ होती हैं। चूँकि यह दिल या ख़ून की नलियों की बीमारी का शुरुआती संकेत हो सकता है, इसलिए जाँच करवाना मायने रखता है। असरदार इलाज मौजूद हैं, जिनमें डॉक्टर की लिखी दवाइयाँ भी शामिल हैं, लेकिन ये दिल की कुछ दवाइयों के साथ ख़तरनाक हो सकती हैं। 'हर्बल' कैप्सूल और ऑनलाइन बिकने वाली अनजान गोलियों से बचें।",
+     "hg": "Erectile dysfunction (ED) ka matlab hai baar-baar aisa erection na aa paana ya na tik paana jo intercourse ke liye kaafi ho. Thakaan, alcohol ya stress mein kabhi-kabhaar aisa ho jaana normal hai aur yeh ED nahi hai. Lagataar rehne wale ED ke physical causes hote hain, jaise diabetes, high blood pressure, high cholesterol, smoking, zyada sharaab, hormonal problems aur kuch medicines, aur psychological causes bhi, jaise anxiety, depression aur relationship ka tension; aksar dono saath hote hain. Kyunki yeh heart ya blood vessels ki bimari ka early sign ho sakta hai, isliye check-up karwana matter karta hai. Effective treatments maujood hain, jinme prescription medicines bhi hain, lekin yeh kuch heart ki dawaiyon ke saath dangerous ho sakti hain. 'Herbal' capsules aur online bikne wali anjaan pills se bachein."
+    }
+   },
+   {
+    "h": {
+     "en": "Premature ejaculation",
+     "hi": "शीघ्रपतन (Premature ejaculation)",
+     "hg": "Premature ejaculation"
+    },
+    "body": {
+     "en": "Premature ejaculation (PE) means regularly ejaculating sooner than the person or couple wants, with little sense of control, and feeling distressed about it. It is one of the most common sexual concerns in men and says nothing about masculinity, strength or fertility. Porn and boastful talk give a false idea of how long intercourse usually lasts. PE can be lifelong or appear later, sometimes alongside anxiety, erection problems or a new relationship. Doctors and sex therapists use behavioural techniques, pelvic-floor training, counselling and sometimes prescribed medication. Street 'tonics' and delay sprays bought without advice can cause numbness or side effects for both partners.",
+     "hi": "शीघ्रपतन (PE) का मतलब है नियमित रूप से उस समय से पहले स्खलन हो जाना जितना व्यक्ति या जोड़ा चाहता है, उस पर बहुत कम क़ाबू महसूस होना, और इसे लेकर परेशान रहना। यह पुरुषों की सबसे आम यौन चिंताओं में से एक है और इसका मर्दानगी, ताक़त या प्रजनन क्षमता से कोई संबंध नहीं है। पोर्न और डींगें हाँकने वाली बातें इस बारे में ग़लत तस्वीर बनाती हैं कि संभोग आमतौर पर कितनी देर चलता है। PE शुरू से हो सकता है या बाद में आ सकता है, कभी-कभी घबराहट, इरेक्शन की दिक़्क़त या नए रिश्ते के साथ। डॉक्टर और सेक्स थेरेपिस्ट व्यवहार से जुड़ी तकनीकें, पेल्विक फ़्लोर की ट्रेनिंग, काउंसलिंग और कभी-कभी डॉक्टर की लिखी दवा इस्तेमाल करते हैं। सड़क पर बिकने वाले 'टॉनिक' और बिना सलाह ख़रीदे गए डिले स्प्रे से सुन्नपन या दोनों पार्टनरों में साइड इफ़ेक्ट हो सकते हैं।",
+     "hg": "Premature ejaculation (PE) ka matlab hai regularly us time se pehle ejaculate ho jaana jitna insaan ya couple chahta hai, uspe bahut kam control feel hona, aur ise leke pareshan rehna. Yeh men ki sabse common sexual concerns mein se ek hai aur iska mardaangi, taakat ya fertility se koi lena-dena nahi hai. Porn aur deenge haankne wali baatein is baare mein galat idea deti hain ki intercourse usually kitni der chalta hai. PE shuru se ho sakta hai ya baad mein aa sakta hai, kabhi-kabhi anxiety, erection problems ya naye relationship ke saath. Doctors aur sex therapists behavioural techniques, pelvic-floor training, counselling aur kabhi-kabhi prescribed medication use karte hain. Sadak pe bikne wale 'tonics' aur bina advice khareede delay sprays se numbness ya dono partners mein side effects ho sakte hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Sexual anxiety",
+     "hi": "यौन घबराहट",
+     "hg": "Sexual anxiety"
+    },
+    "body": {
+     "en": "Sexual response depends on a relaxed nervous system. Worry about performance, body image, pain, pregnancy or being judged triggers the body's stress response, which reduces arousal, lubrication and erections. One difficult experience can then create fear of the next, a loop called performance anxiety. It is common in new relationships and early in marriages, especially where there has been little honest sex education. What helps: talking with your partner, removing the goal of 'performing', slowing down, and treating any physical cause. If anxiety, past trauma or low mood is involved, a psychologist, psychiatrist or trained sex therapist can help; Tele-MANAS is on 14416.",
+     "hi": "यौन प्रतिक्रिया शांत तंत्रिका तंत्र पर निर्भर करती है। परफ़ॉर्मेंस, बॉडी इमेज, दर्द, गर्भ या जज किए जाने की चिंता शरीर की तनाव वाली प्रतिक्रिया को चालू कर देती है, जिससे उत्तेजना, चिकनाई और इरेक्शन घट जाते हैं। फिर एक मुश्किल अनुभव अगली बार का डर पैदा कर सकता है — इस चक्र को परफ़ॉर्मेंस एंग्ज़ायटी कहते हैं। यह नए रिश्तों में और शादी के शुरुआती दिनों में आम है, ख़ासकर जहाँ ईमानदार यौन शिक्षा बहुत कम मिली हो। जो चीज़ें मदद करती हैं: पार्टनर से बात करना, 'परफ़ॉर्म' करने का लक्ष्य हटा देना, रफ़्तार धीमी करना, और किसी भी शारीरिक वजह का इलाज करवाना। अगर घबराहट, पुराना सदमा या उदासी जुड़ी हो, तो साइकोलॉजिस्ट, मनोचिकित्सक या प्रशिक्षित सेक्स थेरेपिस्ट मदद कर सकते हैं; टेली-मानस का नंबर 14416 है।",
+     "hg": "Sexual response relaxed nervous system pe depend karta hai. Performance, body image, dard, pregnancy ya judge hone ki tension body ka stress response on kar deti hai, jisse arousal, lubrication aur erections ghat jaate hain. Phir ek mushkil experience agli baar ka dar paida kar sakta hai — is loop ko performance anxiety kehte hain. Yeh naye relationships mein aur shaadi ke shuruaati dino mein common hai, khaaskar jahan honest sex education bahut kam mili ho. Jo cheezein help karti hain: partner se baat karna, 'perform' karne ka goal hata dena, slow karna, aur kisi bhi physical cause ka treatment karwana. Agar anxiety, purana trauma ya low mood juda ho, toh psychologist, psychiatrist ya trained sex therapist help kar sakte hain; Tele-MANAS ka number 14416 hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Erection or ejaculation problems mean a man is weak or has 'lost his manhood'.",
+    "hi": "इरेक्शन या स्खलन की समस्या का मतलब है कि आदमी कमज़ोर है या उसकी 'मर्दानगी चली गई'।",
+    "hg": "Erection ya ejaculation ki problem ka matlab hai ki aadmi kamzor hai ya uski 'mardaangi chali gayi'."
+   },
+   "fact": {
+    "en": "These are medical and psychological conditions with known causes such as blood-vessel health, stress and anxiety. They are common, treatable and unrelated to a person's worth or masculinity. They are not caused by masturbation or 'semen loss'.",
+    "hi": "ये मेडिकल और मानसिक स्थितियाँ हैं जिनकी जानी-पहचानी वजहें हैं, जैसे ख़ून की नलियों की सेहत, तनाव और घबराहट। ये आम हैं, इनका इलाज हो सकता है, और इनका किसी इंसान की क़ीमत या मर्दानगी से कोई संबंध नहीं। ये हस्तमैथुन या 'वीर्य के नुक़सान' से नहीं होतीं।",
+    "hg": "Yeh medical aur psychological conditions hain jinke known causes hain, jaise blood vessels ki health, stress aur anxiety. Yeh common hain, treatable hain, aur inka kisi insaan ki worth ya mardaangi se koi lena-dena nahi. Yeh masturbation ya 'semen loss' se nahi hoti."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Pain during intercourse is a symptom to investigate, not to tolerate.",
+    "hi": "संभोग में दर्द जाँच करवाने वाला लक्षण है, सहने वाली चीज़ नहीं।",
+    "hg": "Intercourse mein dard investigate karne wala symptom hai, sehne wali cheez nahi."
+   },
+   {
+    "en": "Persistent ED deserves a medical check because it can signal heart disease or diabetes.",
+    "hi": "लगातार बना रहने वाला ED मेडिकल जाँच माँगता है क्योंकि यह दिल की बीमारी या डायबिटीज़ का संकेत हो सकता है।",
+    "hg": "Lagataar rehne wala ED medical check maangta hai kyunki yeh heart disease ya diabetes ka signal ho sakta hai."
+   },
+   {
+    "en": "PE and sexual anxiety are common and treatable by qualified professionals, not by tonics.",
+    "hi": "शीघ्रपतन और यौन घबराहट आम हैं और इनका इलाज योग्य पेशेवर करते हैं, टॉनिक नहीं।",
+    "hg": "PE aur sexual anxiety common hain aur inka treatment qualified professionals karte hain, tonics nahi."
+   }
+  ],
+  "activity": {
+   "en": "Privately write one sentence you could say to a doctor to open the topic, for example: 'I have been having difficulty with erections for three months' or 'Intercourse has been painful since my delivery.' Having the words ready makes the appointment easier.",
+   "hi": "अकेले में एक ऐसा वाक्य लिखिए जिससे आप डॉक्टर के सामने बात शुरू कर सकें, जैसे: 'मुझे तीन महीने से इरेक्शन में दिक़्क़त हो रही है' या 'डिलीवरी के बाद से संभोग में दर्द होता है।' शब्द पहले से तैयार हों तो अपॉइंटमेंट आसान हो जाता है।",
+   "hg": "Privately ek aisa sentence likhiye jisse aap doctor ke saamne topic shuru kar sakein, jaise: 'Mujhe teen mahine se erection mein dikkat ho rahi hai' ya 'Delivery ke baad se intercourse mein dard hota hai.' Words pehle se ready hon toh appointment aasaan ho jaata hai."
+  },
+  "interactive": "ask",
+  "quiz": [
+   {
+    "id": "d10-l04-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Why is a medical check-up recommended for persistent erectile dysfunction?",
+     "hi": "लगातार बने रहने वाले इरेक्टाइल डिसफ़ंक्शन में मेडिकल जाँच की सलाह क्यों दी जाती है?",
+     "hg": "Lagataar rehne wale erectile dysfunction mein medical check-up ki salaah kyun di jaati hai?"
+    },
+    "options": [
+     {
+      "en": "Because it is always caused by masturbation",
+      "hi": "क्योंकि यह हमेशा हस्तमैथुन से होता है",
+      "hg": "Kyunki yeh hamesha masturbation se hota hai"
+     },
+     {
+      "en": "Because it cannot be treated",
+      "hi": "क्योंकि इसका इलाज नहीं हो सकता",
+      "hg": "Kyunki iska ilaaj nahi ho sakta"
+     },
+     {
+      "en": "Because it only affects elderly men",
+      "hi": "क्योंकि यह सिर्फ़ बुज़ुर्ग पुरुषों को होता है",
+      "hg": "Kyunki yeh sirf buzurg men ko hota hai"
+     },
+     {
+      "en": "Because it can be an early sign of conditions such as heart disease or diabetes",
+      "hi": "क्योंकि यह दिल की बीमारी या डायबिटीज़ जैसी स्थितियों का शुरुआती संकेत हो सकता है",
+      "hg": "Kyunki yeh heart disease ya diabetes jaisi conditions ka early sign ho sakta hai"
+     }
+    ],
+    "answer": 3,
+    "explain": {
+     "en": "Erections depend on healthy blood vessels and nerves, so persistent ED can reveal conditions like diabetes or heart disease early. It is treatable and is not caused by masturbation.",
+     "hi": "इरेक्शन स्वस्थ ख़ून की नलियों और नसों पर निर्भर करता है, इसलिए लगातार ED डायबिटीज़ या दिल की बीमारी जैसी स्थितियों का जल्दी पता दे सकता है। इसका इलाज हो सकता है और यह हस्तमैथुन से नहीं होता।",
+     "hg": "Erection healthy blood vessels aur nerves pe depend karta hai, isliye lagataar ED diabetes ya heart disease jaisi conditions ka jaldi pata de sakta hai. Yeh treatable hai aur masturbation se nahi hota."
+    }
+   },
+   {
+    "id": "d10-l04-q2",
+    "type": "tf",
+    "q": {
+     "en": "Pain during intercourse is normal and should simply be tolerated.",
+     "hi": "संभोग के दौरान दर्द सामान्य है और इसे बस सह लेना चाहिए।",
+     "hg": "Intercourse ke dauraan dard normal hai aur ise bas seh lena chahiye."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Pain is common but it is a symptom with treatable causes, from dryness to infection to endometriosis. Persistent pain needs a doctor, and pain is a reason to stop.",
+     "hi": "दर्द आम है, लेकिन यह एक लक्षण है जिसकी वजहों का इलाज हो सकता है — सूखेपन से लेकर संक्रमण और एंडोमेट्रियोसिस तक। लगातार दर्द में डॉक्टर को दिखाना चाहिए, और दर्द हो तो रुक जाना चाहिए।",
+     "hg": "Dard common hai, lekin yeh ek symptom hai jiske causes treatable hain — dryness se leke infection aur endometriosis tak. Lagataar dard mein doctor ko dikhana chahiye, aur dard ho toh ruk jaana chahiye."
+    }
+   }
+  ],
+  "refs": [
+   "nhs-ed",
+   "who-sexual-health",
+   "who-endometriosis",
+   "tele-manas"
+  ],
+  "warning": {
+   "en": "See a doctor promptly for bleeding after intercourse or severe or deep pelvic pain. An erection that lasts more than four hours is an emergency. This lesson is general education and cannot diagnose you.",
+   "hi": "संभोग के बाद ख़ून आए या पेल्विस में तेज़ या गहरा दर्द हो तो जल्द डॉक्टर को दिखाएँ। चार घंटे से ज़्यादा टिका रहने वाला इरेक्शन इमरजेंसी है। यह पाठ सामान्य शिक्षा है और आपका निदान नहीं कर सकता।",
+   "hg": "Intercourse ke baad bleeding ho ya pelvis mein tez ya gehra dard ho toh jaldi doctor ko dikhayein. Chaar ghante se zyada tika rehne wala erection emergency hai. Yeh lesson general education hai aur aapka diagnosis nahi kar sakta."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d10-l05",
+  "domain": "d10",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "men",
+   "women"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "difficulty": 3,
+  "minutes": 8,
+  "unesco": [
+   8,
+   6
+  ],
+  "title": {
+   "en": "Pelvic Floor, Fertility Worries and Finding the Right Clinician",
+   "hi": "पेल्विक फ़्लोर, संतान की चिंता और सही डॉक्टर की तलाश",
+   "hg": "Pelvic Floor, Fertility Ki Tension Aur Sahi Doctor Dhoondhna"
+  },
+  "subtitle": {
+   "en": "Muscles nobody mentions, fertility facts without blame, and how to get proper care",
+   "hi": "वे मांसपेशियाँ जिनका ज़िक्र कोई नहीं करता, बिना दोषारोपण के प्रजनन क्षमता के तथ्य, और सही देखभाल कैसे पाएँ",
+   "hg": "Woh muscles jinka zikr koi nahi karta, bina blame ke fertility facts, aur sahi care kaise paayein"
+  },
+  "hook": {
+   "en": "Leaking when you sneeze. Months of trying with no pregnancy. A worry about how your body looks. All common, all medical, all discussable.",
+   "hi": "छींकने पर पेशाब निकल जाना। महीनों की कोशिश के बाद भी गर्भ न ठहरना। अपने शरीर के रूप को लेकर चिंता। सब आम है, सब मेडिकल है, और सब पर बात हो सकती है।",
+   "hg": "Chheenkne pe urine leak ho jaana. Mahino ki koshish ke baad bhi pregnancy na hona. Apni body ke look ki tension. Sab common hai, sab medical hai, aur sab pe baat ho sakti hai."
+  },
+  "objectives": [
+   {
+    "en": "Explain what the pelvic floor does and the signs of pelvic-floor problems.",
+    "hi": "समझा पाना कि पेल्विक फ़्लोर क्या करता है और उसकी समस्याओं के संकेत क्या हैं।",
+    "hg": "Samjha paana ki pelvic floor kya karta hai aur uski problems ke signs kya hain."
+   },
+   {
+    "en": "State when to seek a fertility evaluation and why both partners are assessed.",
+    "hi": "बता पाना कि प्रजनन क्षमता की जाँच कब करवानी चाहिए और दोनों पार्टनरों की जाँच क्यों होती है।",
+    "hg": "Bata paana ki fertility evaluation kab karwana chahiye aur dono partners ki jaanch kyun hoti hai."
+   },
+   {
+    "en": "Choose the right kind of clinician and prepare for the visit.",
+    "hi": "सही तरह का डॉक्टर चुन पाना और मुलाक़ात की तैयारी कर पाना।",
+    "hg": "Sahi type ka doctor choose kar paana aur visit ki taiyari kar paana."
+   }
+  ],
+  "prereqs": [
+   "d10-l04"
+  ],
+  "sections": [
+   {
+    "h": {
+     "en": "The pelvic floor",
+     "hi": "पेल्विक फ़्लोर",
+     "hg": "Pelvic floor"
+    },
+    "body": {
+     "en": "The pelvic floor is a sling of muscles at the base of the pelvis that supports the bladder, bowel and, where present, the uterus. It controls urine, stool and wind, and it takes part in sexual response in all genders. If it is weak, urine may leak with coughing, sneezing or lifting, or there may be a feeling of heaviness; this is common after pregnancy and childbirth, with ageing, chronic constipation or cough, and in men after prostate surgery. If it is too tight, it can cause pelvic pain, painful intercourse or difficulty emptying. Exercises help weakness but can worsen tightness, so get guidance from a pelvic-floor physiotherapist or doctor.",
+     "hi": "पेल्विक फ़्लोर श्रोणि (pelvis) के निचले हिस्से में झूले जैसी मांसपेशियों का समूह है जो मूत्राशय, आँत और, जिनमें हो, गर्भाशय को सहारा देता है। यह पेशाब, मल और गैस को क़ाबू में रखता है, और हर जेंडर में यौन प्रतिक्रिया में हिस्सा लेता है। अगर यह कमज़ोर हो, तो खाँसने, छींकने या वज़न उठाने पर पेशाब निकल सकता है, या भारीपन महसूस हो सकता है; ऐसा गर्भावस्था और प्रसव के बाद, उम्र के साथ, पुरानी क़ब्ज़ या खाँसी में, और पुरुषों में प्रोस्टेट की सर्जरी के बाद आम है। अगर यह ज़रूरत से ज़्यादा कसा हुआ हो, तो पेल्विक दर्द, संभोग में दर्द या पेशाब-मल पूरी तरह निकालने में मुश्किल हो सकती है। कसरत कमज़ोरी में मदद करती है लेकिन कसाव को बढ़ा सकती है, इसलिए पेल्विक फ़्लोर फ़िज़ियोथेरेपिस्ट या डॉक्टर से सलाह लें।",
+     "hg": "Pelvic floor pelvis ke base pe jhoole jaisi muscles ka group hai jo bladder, bowel aur, jinme ho, uterus ko support karta hai. Yeh urine, stool aur gas ko control karta hai, aur har gender mein sexual response mein hissa leta hai. Agar yeh weak ho, toh khaansne, chheenkne ya wazan uthane pe urine leak ho sakta hai, ya bhaaripan feel ho sakta hai; aisa pregnancy aur delivery ke baad, umar ke saath, purani kabz ya khaansi mein, aur men mein prostate surgery ke baad common hai. Agar yeh zaroorat se zyada tight ho, toh pelvic pain, painful intercourse ya poori tarah empty karne mein difficulty ho sakti hai. Exercises weakness mein help karti hain lekin tightness ko badha sakti hain, isliye pelvic-floor physiotherapist ya doctor se guidance lein."
+    }
+   },
+   {
+    "h": {
+     "en": "Fertility concerns without blame",
+     "hi": "संतान की चिंता, बिना किसी पर दोष डाले",
+     "hg": "Fertility ki tension, bina kisi pe blame daale"
+    },
+    "body": {
+     "en": "WHO defines infertility as not achieving pregnancy after 12 months or more of regular unprotected intercourse. It is a condition of the male or female reproductive system, and it is common worldwide. Causes can lie with either partner, both, or remain unexplained, so both should be assessed together; a semen analysis is a simple early test. Contributing factors include age, ovulation problems such as PCOS, endometriosis, blocked tubes after untreated infections, low sperm count or movement, smoking and heavy alcohol use. Seek advice earlier, after about six months, if the woman is over 35 or periods are irregular. Masturbation and past use of contraceptive pills do not cause infertility.",
+     "hi": "WHO के अनुसार इनफर्टिलिटी का मतलब है 12 महीने या उससे ज़्यादा समय तक नियमित, बिना बचाव के संभोग के बाद भी गर्भ न ठहरना। यह पुरुष या महिला प्रजनन तंत्र की एक स्थिति है, और दुनिया भर में आम है। वजह किसी भी एक पार्टनर में, दोनों में हो सकती है, या पता ही न चले, इसलिए दोनों की जाँच साथ में होनी चाहिए; वीर्य की जाँच (semen analysis) एक आसान शुरुआती टेस्ट है। इसमें योगदान देने वाली चीज़ें हैं: उम्र, PCOS जैसी ओव्यूलेशन की समस्याएँ, एंडोमेट्रियोसिस, बिना इलाज के संक्रमणों के बाद बंद हुई नलियाँ, शुक्राणुओं की कम संख्या या कम गति, धूम्रपान और ज़्यादा शराब। अगर महिला की उम्र 35 से ज़्यादा है या पीरियड अनियमित हैं, तो पहले ही, लगभग छह महीने बाद, सलाह लें। हस्तमैथुन और पहले ली गई गर्भनिरोधक गोलियों से इनफर्टिलिटी नहीं होती।",
+     "hg": "WHO ke hisaab se infertility ka matlab hai 12 mahine ya usse zyada time tak regular unprotected intercourse ke baad bhi pregnancy na hona. Yeh male ya female reproductive system ki ek condition hai, aur duniya bhar mein common hai. Wajah kisi bhi ek partner mein, dono mein ho sakti hai, ya pata hi na chale, isliye dono ki jaanch saath mein honi chahiye; semen analysis ek simple shuruaati test hai. Isme contribute karne wali cheezein hain: age, PCOS jaisi ovulation problems, endometriosis, bina ilaaj ke infections ke baad block hui tubes, low sperm count ya kam movement, smoking aur zyada sharaab. Agar woman ki age 35 se zyada hai ya periods irregular hain, toh pehle hi, lagbhag chhe mahine baad, advice lein. Masturbation aur pehle li gayi contraceptive pills se infertility nahi hoti."
+    }
+   },
+   {
+    "h": {
+     "en": "Body image and sexual wellbeing",
+     "hi": "बॉडी इमेज और यौन सेहत",
+     "hg": "Body image aur sexual wellbeing"
+    },
+    "body": {
+     "en": "Worries about breast size, genital size or shape, skin colour, scars, stretch marks, weight or body hair are extremely common and often grow from edited images and porn. Vulvas, penises and breasts vary widely, and asymmetry is normal. Most penises fall within a normal range, and size has little to do with a partner's satisfaction or with fertility. Creams, pills, oils and devices sold for enlargement, tightening or lightening do not work as advertised and can injure skin. If body worries make you avoid intimacy, check-ups or daily activities, or occupy hours of your day, speak to a doctor or mental-health professional.",
+     "hi": "स्तनों के आकार, जननांगों के आकार या बनावट, त्वचा के रंग, निशान, स्ट्रेच मार्क, वज़न या शरीर के बालों को लेकर चिंता बेहद आम है और अक्सर एडिट की हुई तस्वीरों और पोर्न से पनपती है। वल्वा, लिंग और स्तन बहुत अलग-अलग तरह के होते हैं, और दोनों तरफ़ बराबर न होना सामान्य है। ज़्यादातर लिंग सामान्य दायरे में ही आते हैं, और आकार का पार्टनर की संतुष्टि या प्रजनन क्षमता से बहुत कम संबंध है। बड़ा करने, टाइट करने या गोरा करने के नाम पर बिकने वाली क्रीम, गोलियाँ, तेल और उपकरण विज्ञापन जैसा काम नहीं करते और त्वचा को नुक़सान पहुँचा सकते हैं। अगर शरीर की चिंता की वजह से आप नज़दीकी, जाँच या रोज़ के कामों से बचने लगें, या यह दिन के कई घंटे ले ले, तो डॉक्टर या मानसिक स्वास्थ्य पेशेवर से बात करें।",
+     "hg": "Breast size, genitals ke size ya shape, skin colour, scars, stretch marks, weight ya body hair ki tension bahut hi common hai aur aksar edited images aur porn se panapti hai. Vulvas, penises aur breasts bahut alag-alag tarah ke hote hain, aur asymmetry normal hai. Zyadatar penises normal range mein hi aate hain, aur size ka partner ki satisfaction ya fertility se bahut kam lena-dena hai. Bada karne, tight karne ya gora karne ke naam pe bikne wali creams, pills, tel aur devices ad jaisa kaam nahi karte aur skin ko injure kar sakte hain. Agar body ki tension ki wajah se aap intimacy, check-ups ya daily kaamon se bachne lagein, ya yeh din ke kai ghante le le, toh doctor ya mental-health professional se baat karein."
+    }
+   },
+   {
+    "h": {
+     "en": "Getting the right help",
+     "hi": "सही मदद तक पहुँचना",
+     "hg": "Sahi help tak pahunchna"
+    },
+    "body": {
+     "en": "Match the concern to the clinician: a gynaecologist for vulval, vaginal, menstrual and pregnancy concerns; a urologist for penis, testicle, erection and urinary problems; a dermatologist for genital skin conditions and many sexually transmitted infections; a psychiatrist or clinical psychologist for anxiety and desire concerns; a fertility specialist after initial tests. A general physician is a fine starting point. Before the visit, note symptoms, duration, medicines and questions. Say the real words; doctors hear them daily. You can ask for privacy, a chaperone and an explanation before any examination. If a doctor shames you, you are entitled to see another one.",
+     "hi": "परेशानी के हिसाब से डॉक्टर चुनें: वल्वा, योनि, माहवारी और गर्भ से जुड़ी बातों के लिए स्त्री रोग विशेषज्ञ; लिंग, अंडकोष, इरेक्शन और पेशाब की समस्याओं के लिए यूरोलॉजिस्ट; जननांगों की त्वचा की बीमारियों और कई यौन संचारित संक्रमणों के लिए त्वचा रोग विशेषज्ञ; घबराहट और इच्छा से जुड़ी चिंताओं के लिए मनोचिकित्सक या क्लिनिकल साइकोलॉजिस्ट; शुरुआती जाँचों के बाद फ़र्टिलिटी विशेषज्ञ। शुरुआत के लिए जनरल फ़िज़िशियन भी ठीक है। जाने से पहले लक्षण, वे कब से हैं, दवाइयाँ और अपने सवाल लिख लें। असली शब्द बोलें; डॉक्टर इन्हें रोज़ सुनते हैं। आप प्राइवेसी, साथ में किसी की मौजूदगी (chaperone) और किसी भी जाँच से पहले उसकी जानकारी माँग सकते हैं। अगर कोई डॉक्टर आपको शर्मिंदा करे, तो आपको दूसरे डॉक्टर के पास जाने का पूरा हक़ है।",
+     "hg": "Problem ke hisaab se doctor chunein: vulva, vagina, periods aur pregnancy wali baaton ke liye gynaecologist; penis, testicle, erection aur urine ki problems ke liye urologist; genitals ki skin conditions aur kaafi sexually transmitted infections ke liye dermatologist; anxiety aur desire wali concerns ke liye psychiatrist ya clinical psychologist; shuruaati tests ke baad fertility specialist. Shuruaat ke liye general physician bhi theek hai. Jaane se pehle symptoms, woh kab se hain, medicines aur apne sawaal likh lein. Asli words bolein; doctors inhe roz sunte hain. Aap privacy, chaperone aur kisi bhi examination se pehle uski explanation maang sakte hain. Agar koi doctor aapko shame kare, toh aapko dusre doctor ke paas jaane ka poora haq hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "If a couple cannot conceive, the problem lies with the woman.",
+    "hi": "अगर किसी जोड़े को बच्चा नहीं हो रहा, तो कमी औरत में ही है।",
+    "hg": "Agar kisi couple ko bachcha nahi ho raha, toh kami aurat mein hi hai."
+   },
+   "fact": {
+    "en": "Infertility can come from the male partner, the female partner, both, or have no identifiable cause. That is why both partners are evaluated, starting with simple tests such as a semen analysis. Blaming the woman is unscientific and delays treatment.",
+    "hi": "इनफर्टिलिटी की वजह पुरुष पार्टनर में, महिला पार्टनर में, दोनों में हो सकती है, या कोई साफ़ वजह मिले ही नहीं। इसीलिए दोनों की जाँच होती है, वीर्य की जाँच जैसे आसान टेस्ट से शुरू करके। औरत को दोष देना अवैज्ञानिक है और इससे इलाज में देर होती है।",
+    "hg": "Infertility ki wajah male partner mein, female partner mein, dono mein ho sakti hai, ya koi clear wajah mile hi nahi. Isiliye dono ki jaanch hoti hai, semen analysis jaise simple tests se shuru karke. Aurat ko blame karna unscientific hai aur isse treatment mein der hoti hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "The pelvic floor supports bladder, bowel and uterus; both weakness and tightness are treatable with proper guidance.",
+    "hi": "पेल्विक फ़्लोर मूत्राशय, आँत और गर्भाशय को सहारा देता है; सही सलाह से कमज़ोरी और कसाव, दोनों का इलाज हो सकता है।",
+    "hg": "Pelvic floor bladder, bowel aur uterus ko support karta hai; sahi guidance se weakness aur tightness, dono treatable hain."
+   },
+   {
+    "en": "Infertility is assessed after 12 months of trying, earlier in some cases, and always in both partners.",
+    "hi": "इनफर्टिलिटी की जाँच 12 महीने की कोशिश के बाद होती है, कुछ मामलों में पहले, और हमेशा दोनों पार्टनरों की।",
+    "hg": "Infertility ki jaanch 12 mahine ki koshish ke baad hoti hai, kuch cases mein pehle, aur hamesha dono partners ki."
+   },
+   {
+    "en": "Bodies vary widely; choose registered clinicians over products that promise to change them.",
+    "hi": "शरीर बहुत अलग-अलग होते हैं; उन्हें बदलने का वादा करने वाले प्रोडक्ट की जगह रजिस्टर्ड डॉक्टर चुनें।",
+    "hg": "Bodies bahut vary karti hain; unhe badalne ka promise karne wale products ki jagah registered doctors chunein."
+   }
+  ],
+  "activity": {
+   "en": "List any body or sexual-health concern you have postponed discussing. Next to it, write the type of clinician who deals with it and one date this month when you could book an appointment.",
+   "hi": "शरीर या यौन स्वास्थ्य से जुड़ी ऐसी कोई भी चिंता लिखिए जिस पर बात करना आप टालते आए हैं। उसके आगे लिखिए कि उसे किस तरह का डॉक्टर देखता है और इस महीने की एक तारीख़ जब आप अपॉइंटमेंट ले सकते हैं।",
+   "hg": "Body ya sexual health se judi aisi koi bhi concern likhiye jis pe baat karna aap taalte aaye hain. Uske aage likhiye ki use kis type ka doctor dekhta hai aur is mahine ki ek date jab aap appointment le sakte hain."
+  },
+  "interactive": "ask",
+  "quiz": [
+   {
+    "id": "d10-l05-q1",
+    "type": "mcq",
+    "q": {
+     "en": "What does the pelvic floor do?",
+     "hi": "पेल्विक फ़्लोर क्या काम करता है?",
+     "hg": "Pelvic floor kya kaam karta hai?"
+    },
+    "options": [
+     {
+      "en": "It supports the bladder, bowel and uterus and helps control urine and stool",
+      "hi": "यह मूत्राशय, आँत और गर्भाशय को सहारा देता है और पेशाब व मल को क़ाबू में रखने में मदद करता है",
+      "hg": "Yeh bladder, bowel aur uterus ko support karta hai aur urine aur stool control karne mein help karta hai"
+     },
+     {
+      "en": "It produces the hormones that control the menstrual cycle",
+      "hi": "यह माहवारी के चक्र को चलाने वाले हार्मोन बनाता है",
+      "hg": "Yeh menstrual cycle control karne wale hormones banata hai"
+     },
+     {
+      "en": "It digests food in the lower intestine",
+      "hi": "यह निचली आँत में खाना पचाता है",
+      "hg": "Yeh lower intestine mein khaana digest karta hai"
+     },
+     {
+      "en": "It stores sperm before ejaculation",
+      "hi": "यह स्खलन से पहले शुक्राणुओं को जमा रखता है",
+      "hg": "Yeh ejaculation se pehle sperm store karta hai"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "The pelvic floor is a group of muscles at the base of the pelvis. It holds the pelvic organs in place and controls the passing of urine, stool and wind.",
+     "hi": "पेल्विक फ़्लोर श्रोणि के निचले हिस्से की मांसपेशियों का समूह है। यह पेल्विस के अंगों को अपनी जगह रखता है और पेशाब, मल और गैस के निकलने को क़ाबू में रखता है।",
+     "hg": "Pelvic floor pelvis ke base ki muscles ka group hai. Yeh pelvic organs ko apni jagah rakhta hai aur urine, stool aur gas ke nikalne ko control karta hai."
+    }
+   },
+   {
+    "id": "d10-l05-q2",
+    "type": "tf",
+    "q": {
+     "en": "In a fertility evaluation, both partners should be assessed, and a semen analysis is one of the early tests.",
+     "hi": "प्रजनन क्षमता की जाँच में दोनों पार्टनरों की जाँच होनी चाहिए, और वीर्य की जाँच शुरुआती टेस्टों में से एक है।",
+     "hg": "Fertility evaluation mein dono partners ki jaanch honi chahiye, aur semen analysis shuruaati tests mein se ek hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Causes can lie with either partner or both, so testing only the woman misses many cases. A semen analysis is simple and belongs at the start.",
+     "hi": "वजह किसी भी पार्टनर में या दोनों में हो सकती है, इसलिए सिर्फ़ महिला की जाँच करने से कई मामले छूट जाते हैं। वीर्य की जाँच आसान है और शुरुआत में ही होनी चाहिए।",
+     "hg": "Wajah kisi bhi partner mein ya dono mein ho sakti hai, isliye sirf woman ki jaanch karne se kaafi cases chhoot jaate hain. Semen analysis simple hai aur shuruaat mein hi hona chahiye."
+    }
+   }
+  ],
+  "refs": [
+   "who-infertility",
+   "who-sexual-health",
+   "who-pcos",
+   "who-endometriosis"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d10-l06",
+  "domain": "d10",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [
+   "penis_testicular",
+   "hormones_changes"
+  ],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   8,
+   5
+  ],
+  "title": {
+   "en": "Men's Bodies: The Check-ups Nobody Mentions",
+   "hi": "पुरुषों का शरीर: वे जाँचें जिनका ज़िक्र कोई नहीं करता",
+   "hg": "Men's Body: Woh Check-ups Jinka Zikr Koi Nahi Karta"
+  },
+  "subtitle": {
+   "en": "Testicle self-checks, foreskin problems, circumcision, the prostate, testosterone, gym steroids and the price of avoiding doctors",
+   "hi": "अंडकोष की ख़ुद जाँच, ऊपरी त्वचा की दिक़्क़तें, ख़तना, प्रोस्टेट, टेस्टोस्टेरोन, जिम वाले स्टेरॉयड और डॉक्टर से बचने की क़ीमत",
+   "hg": "Testicle self-check, foreskin ki problems, circumcision, prostate, testosterone, gym steroids aur doctor se bachne ki keemat"
+  },
+  "hook": {
+   "en": "Boys are taught to check a bike's tyres, but not their own testicles. Two minutes a month and one honest conversation with a doctor can save a testicle, your fertility, sometimes a life.",
+   "hi": "लड़कों को बाइक के टायर चेक करना सिखाया जाता है, अपने अंडकोष नहीं। महीने के दो मिनट और डॉक्टर से एक ईमानदार बातचीत एक अंडकोष, तुम्हारी प्रजनन क्षमता, और कभी-कभी जान भी बचा सकती है।",
+   "hg": "Ladkon ko bike ke tyre check karna sikhaya jaata hai, apne testicles nahi. Mahine ke do minute aur doctor se ek honest baat ek testicle, tumhari fertility, aur kabhi-kabhi jaan bhi bacha sakti hai."
+  },
+  "objectives": [
+   {
+    "en": "Do a monthly testicle self-check and name the changes that need a doctor.",
+    "hi": "हर महीने अंडकोष की ख़ुद जाँच कर पाना और वे बदलाव बता पाना जिन पर डॉक्टर को दिखाना चाहिए।",
+    "hg": "Har mahine testicle self-check kar paana aur woh changes bata paana jin pe doctor ko dikhana chahiye."
+   },
+   {
+    "en": "Tell a normal foreskin from one that needs care, and describe circumcision factually.",
+    "hi": "सामान्य ऊपरी त्वचा और इलाज की ज़रूरत वाली ऊपरी त्वचा में फ़र्क़ कर पाना, और ख़तने के बारे में तथ्य बता पाना।",
+    "hg": "Normal foreskin aur care ki zaroorat wali foreskin mein fark kar paana, aur circumcision ke baare mein facts bata paana."
+   },
+   {
+    "en": "Explain what the prostate, testosterone and anabolic steroids do, and what delaying care costs.",
+    "hi": "समझा पाना कि प्रोस्टेट, टेस्टोस्टेरोन और एनाबॉलिक स्टेरॉयड क्या करते हैं, और इलाज टालने की क़ीमत क्या है।",
+    "hg": "Samjha paana ki prostate, testosterone aur anabolic steroids kya karte hain, aur care taalne ki keemat kya hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Two minutes a month: the testicle check",
+     "hi": "महीने के दो मिनट: अंडकोष की जाँच",
+     "hg": "Mahine ke do minute: testicle check"
+    },
+    "body": {
+     "en": "This applies to anyone with testicles, whatever their gender. Once a month, after a warm bath when the scrotum is relaxed, roll each testicle gently between thumb and fingers. A healthy one feels smooth, oval and firm but not hard. The soft, rope-like tube behind it is the epididymis, which stores sperm; it belongs there. Get checked for a hard lump, even a painless pea-sized one, a testicle that has grown or hardened, or a new heaviness. Most lumps are harmless cysts or swollen veins, but only an examination and an ultrasound can tell. Sudden severe pain is different: it is an emergency, so go to hospital immediately.",
+     "hi": "यह हर उस इंसान के लिए है जिसके अंडकोष हैं, उसका जेंडर चाहे जो हो। महीने में एक बार, गुनगुने पानी से नहाने के बाद जब अंडकोष की थैली ढीली हो, हर अंडकोष को अँगूठे और उँगलियों के बीच हल्के से घुमाकर देखो। स्वस्थ अंडकोष चिकना, अंडाकार और कसा हुआ लगता है, पर सख़्त नहीं। उसके पीछे की नरम, रस्सी जैसी नली एपिडिडिमिस है, जो शुक्राणु जमा रखती है; उसका वहाँ होना सामान्य है। जाँच करवाओ अगर कोई सख़्त गाँठ मिले, चाहे वह मटर जितनी छोटी हो और दर्द न करे, कोई अंडकोष बड़ा या सख़्त हो गया हो, या नया भारीपन लगे। ज़्यादातर गाँठें नुक़सान न करने वाली सिस्ट या फूली हुई नसें होती हैं, पर यह सिर्फ़ डॉक्टर की जाँच और अल्ट्रासाउंड से ही पता चलता है। अचानक तेज़ दर्द अलग मामला है: वह इमरजेंसी है, इसलिए तुरंत अस्पताल जाओ।",
+     "hg": "Yeh har us insaan ke liye hai jiske testicles hain, gender chahe jo ho. Mahine mein ek baar, garam paani se nahane ke baad jab scrotum relaxed ho, har testicle ko angoothe aur ungliyon ke beech halke se ghuma ke dekho. Healthy testicle smooth, oval aur firm lagta hai, par hard nahi. Uske peeche ki naram, rassi jaisi tube epididymis hai, jo sperm store karti hai; uska wahan hona normal hai. Check karwao agar koi hard gaanth mile, chahe matar jitni chhoti ho aur dard na kare, koi testicle bada ya sakht ho gaya ho, ya naya bhaaripan lage. Zyadatar gaanthein harmless cysts ya phooli hui nasein hoti hain, par yeh sirf doctor ki jaanch aur ultrasound se hi pata chalta hai. Achanak tez dard alag cheez hai: woh emergency hai, isliye turant hospital jao."
+    }
+   },
+   {
+    "h": {
+     "en": "Foreskin: tight, normal and circumcised",
+     "hi": "ऊपरी त्वचा: कसी हुई, सामान्य और ख़तना",
+     "hg": "Foreskin: tight, normal aur circumcised"
+    },
+    "body": {
+     "en": "A child's foreskin is naturally attached to the head of the penis and loosens gradually, usually by the late teens. Phimosis means it stays too tight to pull back. See a doctor if erections hurt, it balloons during urination, the skin cracks or forms a white scarred ring, or soreness keeps returning. Treatment is often a prescribed cream with gentle stretching, sometimes a small operation. Never force it back. Circumcision is surgical removal of the foreskin, for religious, cultural or medical reasons. Circumcised and uncircumcised penises are both normal; neither is manlier or more fertile. An uncircumcised one needs a daily rinse; a circumcision needs a qualified surgeon.",
+     "hi": "बचपन में लिंग की ऊपरी त्वचा (foreskin) क़ुदरती तौर पर लिंग के सिरे से जुड़ी होती है और धीरे-धीरे ढीली होती है, आमतौर पर किशोरावस्था के आख़िरी सालों तक। फ़ाइमोसिस का मतलब है कि वह इतनी कसी रहे कि पीछे न खिंचे। डॉक्टर को दिखाओ अगर इरेक्शन में दर्द हो, पेशाब करते समय त्वचा गुब्बारे की तरह फूले, त्वचा फटे या उस पर सफ़ेद, सख़्त घेरा बन जाए, या जलन और दर्द बार-बार लौटे। इलाज अक्सर डॉक्टर की लिखी क्रीम और हल्के खिंचाव से होता है, कभी-कभी छोटे ऑपरेशन से। इसे ज़बरदस्ती पीछे कभी मत खींचो। ख़तना (circumcision) ऊपरी त्वचा को सर्जरी से हटाना है, जो धार्मिक, सांस्कृतिक या मेडिकल कारणों से किया जाता है। ख़तना हुआ और बिना ख़तना वाला, दोनों लिंग सामान्य हैं; कोई भी ज़्यादा मर्दाना या ज़्यादा उपजाऊ नहीं होता। बिना ख़तना वाले लिंग को रोज़ पानी से धोना काफ़ी है; और ख़तना हमेशा योग्य सर्जन से ही होना चाहिए।",
+     "hg": "Bachpan mein foreskin naturally penis ke head se judi hoti hai aur dheere-dheere loose hoti hai, usually late teens tak. Phimosis ka matlab hai ki woh itni tight rahe ki peeche na khinche. Doctor ko dikhao agar erection mein dard ho, urine karte waqt foreskin gubbare ki tarah phoole, skin phate ya uspe safed, sakht ring ban jaaye, ya jalan aur dard baar-baar laute. Treatment aksar doctor ki likhi cream aur halki stretching se hota hai, kabhi-kabhi chhote operation se. Ise zabardasti peeche kabhi mat kheencho. Circumcision (khatna) ka matlab hai foreskin ko surgery se hatana, jo religious, cultural ya medical reasons se kiya jaata hai. Circumcised aur uncircumcised, dono penis normal hain; koi bhi zyada 'mardana' ya zyada fertile nahi hota. Uncircumcised penis ko bas roz paani se dhona kaafi hai; aur circumcision hamesha qualified surgeon se hi honi chahiye."
+    }
+   },
+   {
+    "h": {
+     "en": "The prostate and testosterone over the years",
+     "hi": "प्रोस्टेट और टेस्टोस्टेरोन, उम्र के साथ",
+     "hg": "Prostate aur testosterone, umar ke saath"
+    },
+    "body": {
+     "en": "The prostate is a walnut-sized gland below the bladder that makes part of the fluid in semen. From middle age it commonly enlarges and squeezes the urine tube, causing a weak stream, dribbling and night-time trips to the toilet. This is common and treatable but needs a doctor, as does blood in urine or semen, because prostate cancer becomes likelier with age. Worth telling your father and uncles. Testosterone, made mainly in the testicles, falls slowly from mid-adulthood; there is no sudden 'male menopause'. Tiredness and low mood usually have other causes, such as poor sleep, diabetes or depression; a blood test, not an advert, shows whether testosterone is low.",
+     "hi": "प्रोस्टेट मूत्राशय के नीचे अखरोट जितनी एक ग्रंथि है, जो वीर्य के तरल का एक हिस्सा बनाती है। अधेड़ उम्र से यह अक्सर बड़ी होने लगती है और पेशाब की नली को दबाती है, जिससे पेशाब की धार कमज़ोर पड़ती है, बूँद-बूँद टपकता है और रात में बार-बार उठना पड़ता है। यह आम है और इसका इलाज है, पर डॉक्टर को दिखाना ज़रूरी है, और पेशाब या वीर्य में ख़ून आने पर भी, क्योंकि उम्र के साथ प्रोस्टेट कैंसर की संभावना बढ़ती है। यह बात अपने पिता और चाचा-मामा को बताने लायक़ है। टेस्टोस्टेरोन, जो मुख्य रूप से अंडकोष में बनता है, बीच की उम्र से धीरे-धीरे घटता है; अचानक आने वाला कोई 'पुरुषों का मेनोपॉज़' नहीं होता। थकान और उदासी की वजहें आमतौर पर दूसरी होती हैं, जैसे कम नींद, डायबिटीज़ या डिप्रेशन; टेस्टोस्टेरोन कम है या नहीं, यह ख़ून की जाँच बताती है, विज्ञापन नहीं।",
+     "hg": "Prostate bladder ke neeche akhrot jitni ek gland hai, jo semen ke fluid ka ek hissa banati hai. Middle age se yeh aksar badi hone lagti hai aur urine ki tube ko dabati hai, jisse urine ki dhaar kamzor padti hai, boond-boond tapakta hai aur raat ko baar-baar uthna padta hai. Yeh common hai aur treatable hai, par doctor ko dikhana zaroori hai, aur urine ya semen mein blood aane pe bhi, kyunki umar ke saath prostate cancer ka chance badhta hai. Yeh baat apne papa aur chacha-mama ko batane layak hai. Testosterone, jo mainly testicles mein banta hai, beech ki umar se dheere-dheere kam hota hai; achanak aane wala koi 'male menopause' nahi hota. Thakaan aur low mood ki wajah usually kuch aur hoti hai, jaise kam neend, diabetes ya depression; testosterone low hai ya nahi, yeh blood test batata hai, ad nahi."
+    }
+   },
+   {
+    "h": {
+     "en": "Gym steroids, and what silence costs",
+     "hi": "जिम वाले स्टेरॉयड, और चुप्पी की क़ीमत",
+     "hg": "Gym steroids, aur chuppi ki keemat"
+    },
+    "body": {
+     "en": "Anabolic steroids are synthetic testosterone, often sold in gyms without prescription. Taking them makes the brain tell the testicles to stop working: they shrink and sperm production falls, sometimes to zero. Recovery can take months and is not guaranteed. Other harms include acne, breast-tissue growth, mood swings and heart and liver damage; in teenagers, stunted height. If you have used them, tell the doctor honestly. Many men learn that bearing pain is strength and being examined is shameful. The cost: testicles lost to delay, cancers found late, treatable problems carried for years. A doctor, or a government Adolescent Friendly Health Clinic if you are a teenager, is the stronger move.",
+     "hi": "एनाबॉलिक स्टेरॉयड कृत्रिम रूप से बनाया गया टेस्टोस्टेरोन है, जो अक्सर जिम में बिना पर्चे के बिकता है। इसे लेने पर दिमाग़ अंडकोष को काम बंद करने का संकेत देता है: वे सिकुड़ते हैं और शुक्राणु बनना घट जाता है, कभी-कभी बिल्कुल शून्य तक। बंद करने के बाद ठीक होने में महीनों लग सकते हैं और इसकी कोई गारंटी नहीं है। दूसरे नुक़सान हैं मुँहासे, स्तन के ऊतक का बढ़ना, मूड का तेज़ी से बदलना और दिल व लिवर को नुक़सान; किशोरों में लंबाई का बढ़ना रुक सकता है। अगर तुमने इन्हें लिया है, तो डॉक्टर को ईमानदारी से बताओ। बहुत-से पुरुषों को सिखाया जाता है कि दर्द सहना ताक़त है और जाँच करवाना शर्म की बात। इसकी क़ीमत: देरी की वजह से खोए हुए अंडकोष, देर से पकड़ में आए कैंसर, और बरसों तक ढोई गई ऐसी तकलीफ़ें जिनका इलाज हो सकता था। डॉक्टर के पास जाना, या किशोर हो तो सरकारी किशोर मित्र स्वास्थ्य क्लिनिक (AFHC) में जाना, ज़्यादा हिम्मत का काम है।",
+     "hg": "Anabolic steroids synthetic testosterone hain, jo aksar gyms mein bina prescription ke bikte hain. Inhe lene pe brain testicles ko kaam band karne ka signal deta hai: woh shrink hote hain aur sperm production gir jaata hai, kabhi-kabhi zero tak. Band karne ke baad recovery mein mahine lag sakte hain aur guarantee koi nahi. Baaki nuksaan: acne, breast tissue ka badhna, mood swings, aur heart aur liver ka damage; teenagers mein height badhna ruk sakta hai. Agar tumne liye hain, toh doctor ko honestly batao. Bahut se men ko sikhaya jaata hai ki dard sehna taakat hai aur check-up karwana sharam ki baat. Iski keemat: der ki wajah se khoye hue testicles, late pakde gaye cancers, aur saalon tak dhoyi gayi woh problems jinka ilaaj ho sakta tha. Doctor ke paas jaana, ya teenager ho toh government Adolescent Friendly Health Clinic (AFHC) jaana, zyada himmat ka kaam hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Cancer 'down there' is an old man's disease; young guys do not need to check.",
+    "hi": "'नीचे' का कैंसर बूढ़ों की बीमारी है; जवान लड़कों को जाँच की ज़रूरत नहीं।",
+    "hg": "'Neeche' ka cancer buddhon ki bimari hai; young ladkon ko check karne ki zaroorat nahi."
+   },
+   "fact": {
+    "en": "Testicular cancer is uncommon, but it is mainly a disease of teenagers and younger men, not old ones. Prostate cancer is the one that mostly appears later in life. That is why the monthly testicle check is a young man's habit, and found early, testicular cancer is one of the most treatable cancers.",
+    "hi": "अंडकोष का कैंसर कम होता है, पर यह मुख्य रूप से किशोरों और युवा पुरुषों की बीमारी है, बूढ़ों की नहीं। ज़्यादातर बड़ी उम्र में होने वाला कैंसर प्रोस्टेट का है। इसीलिए हर महीने अंडकोष की जाँच जवानी की आदत होनी चाहिए, और जल्दी पकड़ में आने पर अंडकोष का कैंसर उन कैंसरों में है जिनका इलाज सबसे अच्छी तरह हो पाता है।",
+    "hg": "Testicular cancer kam hota hai, par yeh mainly teenagers aur young men ki bimari hai, buddhon ki nahi. Zyadatar badi umar mein hone wala cancer prostate ka hai. Isiliye monthly testicle check jawani ki aadat honi chahiye, aur jaldi pakad mein aaye toh testicular cancer sabse treatable cancers mein se ek hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Check your testicles once a month; a hard lump, a change in size or a new heaviness needs a doctor, and sudden severe pain needs a hospital immediately.",
+    "hi": "महीने में एक बार अंडकोष की जाँच करो; सख़्त गाँठ, आकार में बदलाव या नया भारीपन हो तो डॉक्टर को दिखाओ, और अचानक तेज़ दर्द हो तो तुरंत अस्पताल जाओ।",
+    "hg": "Mahine mein ek baar testicles check karo; hard gaanth, size mein change ya naya bhaaripan ho toh doctor ko dikhao, aur achanak tez dard ho toh turant hospital jao."
+   },
+   {
+    "en": "A tight foreskin that hurts, balloons or keeps getting sore is treatable, and circumcised and uncircumcised penises are both normal.",
+    "hi": "कसी हुई ऊपरी त्वचा जो दर्द करे, फूले या बार-बार दुखे, उसका इलाज हो सकता है, और ख़तना हुआ या बिना ख़तना वाला, दोनों लिंग सामान्य हैं।",
+    "hg": "Tight foreskin jo dard kare, phoole ya baar-baar dukhe, treatable hai, aur circumcised aur uncircumcised, dono penis normal hain."
+   },
+   {
+    "en": "Gym steroids can shut down sperm production, and putting off the doctor costs men organs, fertility and years.",
+    "hi": "जिम वाले स्टेरॉयड शुक्राणु बनना बंद करा सकते हैं, और डॉक्टर को टालने की क़ीमत पुरुष अपने अंगों, प्रजनन क्षमता और बरसों से चुकाते हैं।",
+    "hg": "Gym steroids sperm production band kara sakte hain, aur doctor ko taalne ki keemat men apne organs, fertility aur saalon se chukate hain."
+   }
+  ],
+  "activity": {
+   "en": "After your next warm bath, do the two-minute testicle check and set a monthly phone reminder under a boring name. Then write down one body question you have been avoiding and where you could get it checked.",
+   "hi": "अगली बार गुनगुने पानी से नहाने के बाद दो मिनट की अंडकोष जाँच करो और फ़ोन में किसी साधारण-से नाम से हर महीने का रिमाइंडर लगा लो। फिर शरीर से जुड़ा एक ऐसा सवाल लिखो जिसे तुम टालते आए हो, और यह भी कि उसकी जाँच कहाँ हो सकती है।",
+   "hg": "Agli baar garam paani se nahane ke baad do minute ka testicle check karo aur phone mein kisi boring se naam se monthly reminder laga lo. Phir body se juda ek aisa sawaal likho jise tum taalte aaye ho, aur yeh bhi ki uska check-up kahan ho sakta hai."
+  },
+  "interactive": "body_lab",
+  "quiz": [
+   {
+    "id": "d10-l06-q1",
+    "type": "mcq",
+    "q": {
+     "en": "During a self-check you feel a soft, rope-like tube at the back of each testicle. What is it most likely to be?",
+     "hi": "ख़ुद जाँच करते हुए तुम्हें हर अंडकोष के पीछे एक नरम, रस्सी जैसी नली महसूस होती है। यह सबसे ज़्यादा संभावना किस चीज़ की है?",
+     "hg": "Self-check karte hue tumhe har testicle ke peeche ek naram, rassi jaisi tube feel hoti hai. Yeh sabse zyada chance kis cheez ka hai?"
+    },
+    "options": [
+     {
+      "en": "A tumour that needs urgent surgery",
+      "hi": "एक ट्यूमर जिसकी तुरंत सर्जरी चाहिए",
+      "hg": "Ek tumour jiski urgent surgery chahiye"
+     },
+     {
+      "en": "The epididymis, a normal structure that stores sperm",
+      "hi": "एपिडिडिमिस, एक सामान्य हिस्सा जो शुक्राणु जमा रखता है",
+      "hg": "Epididymis, ek normal structure jo sperm store karta hai"
+     },
+     {
+      "en": "A hernia pushing down from the abdomen",
+      "hi": "पेट से नीचे उतरती हुई हर्निया",
+      "hg": "Pet se neeche aati hui hernia"
+     },
+     {
+      "en": "Swelling caused by an infection",
+      "hi": "किसी संक्रमण से आई सूजन",
+      "hg": "Kisi infection se aayi soojan"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "The epididymis sits behind each testicle and is meant to be there. What needs a doctor is a hard lump, a change in size or firmness, or a new heaviness.",
+     "hi": "एपिडिडिमिस हर अंडकोष के पीछे होती है और उसका वहाँ होना सामान्य है। डॉक्टर को दिखाने की ज़रूरत तब है जब सख़्त गाँठ हो, आकार या कड़ापन बदले, या नया भारीपन लगे।",
+     "hg": "Epididymis har testicle ke peeche hoti hai aur uska wahan hona normal hai. Doctor ko dikhana tab zaroori hai jab hard gaanth ho, size ya firmness badle, ya naya bhaaripan lage."
+    }
+   },
+   {
+    "id": "d10-l06-q2",
+    "type": "scenario",
+    "q": {
+     "en": "Arjun, 17, has been taking steroid injections from a gym trainer to bulk up. He notices that his testicles look smaller. What is the most sensible step?",
+     "hi": "17 साल का अर्जुन बॉडी बनाने के लिए जिम ट्रेनर से स्टेरॉयड के इंजेक्शन ले रहा है। उसे लगता है कि उसके अंडकोष छोटे दिख रहे हैं। सबसे समझदारी का क़दम क्या है?",
+     "hg": "17 saal ka Arjun body banane ke liye gym trainer se steroid injections le raha hai. Use lagta hai ki uske testicles chhote dikh rahe hain. Sabse sensible step kya hai?"
+    },
+    "options": [
+     {
+      "en": "Take a higher dose so that his body adjusts",
+      "hi": "डोज़ बढ़ा दे ताकि शरीर को आदत पड़ जाए",
+      "hg": "Dose badha de taaki body adjust ho jaaye"
+     },
+     {
+      "en": "Ignore it, because size returns once the muscles are built",
+      "hi": "ध्यान न दे, क्योंकि मसल्स बन जाने पर आकार लौट आता है",
+      "hg": "Ignore kare, kyunki muscles ban jaane pe size wapas aa jaata hai"
+     },
+     {
+      "en": "See a doctor and say honestly what he has been taking",
+      "hi": "डॉक्टर को दिखाए और ईमानदारी से बताए कि वह क्या ले रहा है",
+      "hg": "Doctor ko dikhaye aur honestly bataye ki woh kya le raha hai"
+     },
+     {
+      "en": "Switch to tablets bought online, since they are milder",
+      "hi": "ऑनलाइन ख़रीदी गोलियाँ शुरू कर दे, क्योंकि वे हल्की होती हैं",
+      "hg": "Online khareedi tablets shuru kar de, kyunki woh mild hoti hain"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "Shrinking testicles are a sign that steroids have switched off the body's own testosterone and sperm production. A doctor needs the honest history to test and guide recovery.",
+     "hi": "अंडकोष का सिकुड़ना इस बात का संकेत है कि स्टेरॉयड ने शरीर का अपना टेस्टोस्टेरोन और शुक्राणु बनाना बंद करा दिया है। जाँच और ठीक होने की सही सलाह के लिए डॉक्टर को पूरी सच्ची जानकारी चाहिए।",
+     "hg": "Testicles ka shrink hona sign hai ki steroids ne body ka apna testosterone aur sperm production band kara diya hai. Test aur recovery guide karne ke liye doctor ko poori sachchi history chahiye."
+    }
+   }
+  ],
+  "refs": [
+   "nhs-testicular",
+   "nhs-tight-foreskin",
+   "who-infertility",
+   "who-sexual-health",
+   "nhm-afhc"
+  ],
+  "warning": {
+   "en": "Sudden severe pain or swelling in a testicle, or a foreskin stuck behind the head of the penis and swelling, is an emergency: go to a hospital immediately or call 112. This lesson is general education; only an examination can say what a lump is.",
+   "hi": "अंडकोष में अचानक तेज़ दर्द या सूजन, या लिंग के सिरे के पीछे अटककर सूजती हुई ऊपरी त्वचा, इमरजेंसी है: तुरंत अस्पताल जाओ या 112 पर कॉल करो। यह पाठ सामान्य शिक्षा है; गाँठ क्या है, यह सिर्फ़ डॉक्टर की जाँच बता सकती है।",
+   "hg": "Testicle mein achanak tez dard ya soojan, ya penis ke head ke peeche atak ke soojti hui foreskin, emergency hai: turant hospital jao ya 112 pe call karo. Yeh lesson general education hai; gaanth kya hai, yeh sirf doctor ki jaanch bata sakti hai."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d10-l07",
+  "domain": "d10",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "vulva_vaginal"
+  ],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   8,
+   5
+  ],
+  "title": {
+   "en": "Women's Bodies: The Check-ups Nobody Mentions",
+   "hi": "महिलाओं का शरीर: वे जाँचें जिनका ज़िक्र कोई नहीं करता",
+   "hg": "Women's Body: Woh Check-ups Jinka Zikr Koi Nahi Karta"
+  },
+  "subtitle": {
+   "en": "Breast awareness, cervical screening and the HPV vaccine, common infections that are not STIs, and how to get your pain taken seriously",
+   "hi": "अपने स्तनों को जानना, सर्वाइकल स्क्रीनिंग और एचपीवी का टीका, वे आम संक्रमण जो एसटीआई नहीं हैं, और अपने दर्द को गंभीरता से कैसे सुनवाएँ",
+   "hg": "Breast awareness, cervical screening aur HPV vaccine, woh common infections jo STI nahi hain, aur apne dard ko seriously kaise sunwayein"
+  },
+  "hook": {
+   "en": "Women get told to adjust, tolerate and wait until after marriage. Your breasts, your cervix and your pain deserve attention now, from a doctor who listens.",
+   "hi": "औरतों से कहा जाता है कि एडजस्ट करो, सह लो, शादी के बाद देखेंगे। तुम्हारे स्तन, तुम्हारा सर्विक्स और तुम्हारा दर्द अभी ध्यान के हक़दार हैं, और ऐसे डॉक्टर के जो सुने।",
+   "hg": "Women ko bola jaata hai adjust karo, seh lo, shaadi ke baad dekhenge. Tumhare breasts, tumhara cervix aur tumhara dard abhi attention deserve karte hain, aur aisa doctor jo sune."
+  },
+  "objectives": [
+   {
+    "en": "Know how your breasts normally look and feel, and name the changes that need a doctor.",
+    "hi": "जान पाना कि तुम्हारे स्तन सामान्य रूप से कैसे दिखते और महसूस होते हैं, और वे बदलाव बता पाना जिन पर डॉक्टर को दिखाना चाहिए।",
+    "hg": "Jaan paana ki tumhare breasts normally kaise dikhte aur feel hote hain, aur woh changes bata paana jin pe doctor ko dikhana chahiye."
+   },
+   {
+    "en": "Explain how HPV vaccination and cervical screening together prevent cervical cancer.",
+    "hi": "समझा पाना कि एचपीवी का टीका और सर्वाइकल स्क्रीनिंग मिलकर सर्वाइकल कैंसर से कैसे बचाते हैं।",
+    "hg": "Samjha paana ki HPV vaccine aur cervical screening milke cervical cancer se kaise bachate hain."
+   },
+   {
+    "en": "Tell thrush, bacterial vaginosis and urine infections apart, and insist on care when pain is dismissed.",
+    "hi": "थ्रश, बैक्टीरियल वेजिनोसिस और पेशाब के संक्रमण में फ़र्क़ कर पाना, और दर्द को टाल दिए जाने पर इलाज के लिए अड़ पाना।",
+    "hg": "Thrush, bacterial vaginosis aur urine infection mein fark kar paana, aur dard ko taal diye jaane pe care ke liye ad paana."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Know your breasts' normal",
+     "hi": "अपने स्तनों का 'सामान्य' पहचानो",
+     "hg": "Apne breasts ka 'normal' pehchano"
+    },
+    "body": {
+     "en": "This applies to anyone with breasts. Breast tissue is naturally lumpy and often tender before a period, and breasts are rarely identical. Once a month, a few days after your period, look in a mirror and feel each breast and armpit with flat fingers. See a doctor for a new lump or thickening that outlasts your next period, dimpled or puckered skin, a nipple that newly turns inward or crusts, bloody discharge, or an armpit lump. In teenagers and young women most lumps are harmless, such as fibroadenomas or cysts, and breast pain alone is rarely cancer. But touch cannot tell them apart; an examination and usually an ultrasound can.",
+     "hi": "यह हर उस इंसान के लिए है जिसके स्तन हैं। स्तन का ऊतक क़ुदरती तौर पर थोड़ा गाँठदार होता है और पीरियड से पहले अक्सर दुखता है, और दोनों स्तन शायद ही कभी बिल्कुल एक जैसे होते हैं। महीने में एक बार, पीरियड ख़त्म होने के कुछ दिन बाद, आईने में देखो और उँगलियों के सपाट हिस्से से हर स्तन और बगल को टटोलो। डॉक्टर को दिखाओ अगर कोई नई गाँठ या मोटा-सा सख़्त हिस्सा अगले पीरियड के बाद भी बना रहे, त्वचा में गड्ढा पड़े या सिकुड़न आए, निप्पल नया-नया अंदर की ओर मुड़ जाए या उस पर पपड़ी जमे, ख़ून वाला डिस्चार्ज आए, या बगल में गाँठ हो। किशोर उम्र और युवा महिलाओं में ज़्यादातर गाँठें नुक़सान नहीं करतीं, जैसे फ़ाइब्रोएडिनोमा या सिस्ट, और सिर्फ़ स्तन में दर्द शायद ही कभी कैंसर होता है। लेकिन छूकर फ़र्क़ नहीं बताया जा सकता; डॉक्टर की जाँच और आमतौर पर अल्ट्रासाउंड से पता चलता है।",
+     "hg": "Yeh har us insaan ke liye hai jiske breasts hain. Breast tissue naturally thoda lumpy hota hai aur periods se pehle aksar dukhta hai, aur dono breasts shayad hi kabhi bilkul same hote hain. Mahine mein ek baar, period khatam hone ke kuch din baad, mirror mein dekho aur ungliyon ke flat hisse se har breast aur armpit ko feel karo. Doctor ko dikhao agar koi nayi gaanth ya thickening agle period ke baad bhi rahe, skin mein gaddha pade ya sikudan aaye, nipple naya-naya andar ki taraf mud jaaye ya uspe papdi jame, blood wala discharge aaye, ya armpit mein gaanth ho. Teenagers aur young women mein zyadatar gaanthein harmless hoti hain, jaise fibroadenoma ya cyst, aur sirf breast pain shayad hi kabhi cancer hota hai. Lekin chhoo ke fark nahi bataya ja sakta; doctor ki jaanch aur usually ultrasound se pata chalta hai."
+    }
+   },
+   {
+    "h": {
+     "en": "The cervix: one vaccine, one test",
+     "hi": "सर्विक्स: एक टीका, एक जाँच",
+     "hg": "Cervix: ek vaccine, ek test"
+    },
+    "body": {
+     "en": "The cervix is the opening of the uterus. Almost all cervical cancer comes from long-lasting infection with certain types of HPV, a very common virus spread by sexual skin contact. The HPV vaccine works best before any sexual contact; WHO's main target is girls aged 9 to 14, but older teens and young adults who missed it can still ask a doctor. Screening, by HPV test, Pap smear or a vinegar-based check called VIA, finds changes years before cancer. It is for adults: Indian government health centres offer it from about age 30. Vaccinated women still need it. Bleeding between periods or after sex needs checking at any age.",
+     "hi": "सर्विक्स गर्भाशय (बच्चेदानी) का मुँह है। लगभग सारा सर्वाइकल कैंसर एचपीवी के कुछ ख़ास प्रकारों के लंबे समय तक बने रहने वाले संक्रमण से होता है; एचपीवी एक बहुत आम वायरस है जो यौन संपर्क में त्वचा से त्वचा के ज़रिए फैलता है। एचपीवी का टीका किसी भी यौन संपर्क से पहले लगने पर सबसे अच्छा काम करता है; WHO का मुख्य लक्ष्य 9 से 14 साल की लड़कियाँ हैं, पर जिन बड़े किशोरों और युवाओं का टीका छूट गया है, वे भी डॉक्टर से पूछ सकते हैं। स्क्रीनिंग, यानी एचपीवी टेस्ट, पैप स्मीयर या सिरके से होने वाली जाँच जिसे VIA कहते हैं, कैंसर बनने से बरसों पहले बदलाव पकड़ लेती है। यह वयस्कों के लिए है: भारत में सरकारी स्वास्थ्य केंद्र लगभग 30 साल की उम्र से महिलाओं की यह जाँच करते हैं। टीका लगवा चुकी महिलाओं को भी स्क्रीनिंग चाहिए। पीरियड के बीच में या सेक्स के बाद ख़ून आए, तो किसी भी उम्र में जाँच ज़रूरी है।",
+     "hg": "Cervix uterus (bachchedani) ka muh hai. Lagbhag saara cervical cancer HPV ke kuch khaas types ke lambe time tak tike rehne wale infection se hota hai; HPV ek bahut common virus hai jo sexual skin contact se failta hai. HPV vaccine kisi bhi sexual contact se pehle lagne pe sabse achha kaam karti hai; WHO ka main target 9 se 14 saal ki ladkiyan hain, par jin older teens aur young adults ki vaccine miss ho gayi, woh bhi doctor se pooch sakte hain. Screening, yaani HPV test, Pap smear ya sirke wali jaanch jise VIA kehte hain, cancer banne se saalon pehle changes pakad leti hai. Yeh adults ke liye hai: India mein government health centres lagbhag 30 saal ki umar se women ko yeh offer karte hain. Vaccine lagwa chuki women ko bhi screening chahiye. Periods ke beech mein ya sex ke baad bleeding ho, toh kisi bhi umar mein check karwana zaroori hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Thrush, BV and urine infections: common, not dirty",
+     "hi": "थ्रश, BV और पेशाब का संक्रमण: आम हैं, गंदगी नहीं",
+     "hg": "Thrush, BV aur urine infection: common hain, gandagi nahi"
+    },
+    "body": {
+     "en": "Three common infections are not classed as STIs and do not mean you are unclean. Thrush is an overgrowth of yeast that normally lives in the vagina: thick, curd-like white discharge with itching. Antibiotics, diabetes, pregnancy and damp tight clothing can trigger it. Bacterial vaginosis (BV) is a shift in the vagina's own bacteria: thin greyish discharge with a fishy smell. Douching and scented washes make it likelier. A urine infection (UTI) brings burning while urinating, frequent urges and lower-belly ache. All are treatable but with different medicines, so get examined instead of guessing at the chemist. Green or yellow discharge, sores, pelvic pain or fever need prompt care.",
+     "hi": "तीन आम संक्रमण एसटीआई में नहीं गिने जाते और इनका मतलब यह नहीं कि तुम्हारी सफ़ाई में कोई कमी है। थ्रश उस यीस्ट (फफूँद) का ज़्यादा बढ़ जाना है जो योनि में सामान्य रूप से रहती है: गाढ़ा, दही जैसा सफ़ेद डिस्चार्ज और साथ में खुजली। एंटीबायोटिक, डायबिटीज़, गर्भावस्था और गीले, कसे कपड़े इसे शुरू कर सकते हैं। बैक्टीरियल वेजिनोसिस (BV) योनि के अपने बैक्टीरिया के संतुलन का बिगड़ना है: पतला, स्लेटी-सा डिस्चार्ज जिसमें मछली जैसी गंध हो। योनि को अंदर से धोना (डूशिंग) और ख़ुशबूदार वॉश इसकी संभावना बढ़ाते हैं। पेशाब का संक्रमण (UTI) पेशाब में जलन, बार-बार पेशाब लगना और पेट के निचले हिस्से में दर्द लाता है। तीनों का इलाज है, पर दवाएँ अलग-अलग हैं, इसलिए केमिस्ट की दुकान पर अंदाज़ा लगाने की जगह जाँच करवाओ। हरा या पीला डिस्चार्ज, घाव, पेल्विक दर्द या बुख़ार हो, तो जल्दी डॉक्टर को दिखाओ।",
+     "hg": "Teen common infections STI mein count nahi hote aur inka matlab yeh nahi ki tumhari safai mein koi kami hai. Thrush us yeast ka overgrowth hai jo vagina mein normally rehti hai: gaadha, dahi jaisa safed discharge aur saath mein khujli. Antibiotics, diabetes, pregnancy aur geele, tight kapde ise trigger kar sakte hain. Bacterial vaginosis (BV) vagina ke apne bacteria ka balance bigadna hai: patla, grey sa discharge jisme machhli jaisi smell ho. Douching aur scented washes iska chance badhate hain. Urine infection (UTI) mein urine mein jalan, baar-baar urine lagna aur lower belly mein dard hota hai. Teeno treatable hain, par dawaiyan alag-alag hain, isliye chemist pe guess karne ki jagah check-up karwao. Hara ya peela discharge, ghaav, pelvic pain ya bukhaar ho, toh jaldi doctor ko dikhao."
+    }
+   },
+   {
+    "h": {
+     "en": "When your pain gets dismissed",
+     "hi": "जब तुम्हारे दर्द को टाल दिया जाए",
+     "hg": "Jab tumhare dard ko taal diya jaaye"
+    },
+    "body": {
+     "en": "Women's pain is often explained away: 'it is normal', 'it is stress', 'it will settle after marriage or a baby'. That is how conditions like endometriosis go undiagnosed for years. Keep a two-month diary of symptoms and what they stopped you doing, and lead with impact: 'I miss two days of college every month.' Ask, 'What else could this be?' and 'What is the next step if this fails?' Take someone who backs you. You do not need to be married to see a gynaecologist; you can have each step explained and refuse an internal examination, since an abdominal ultrasound is often possible. If brushed off, see another doctor.",
+     "hi": "औरतों के दर्द को अक्सर टाल दिया जाता है: 'यह तो नॉर्मल है', 'टेंशन की वजह से है', 'शादी या बच्चे के बाद ठीक हो जाएगा'। इसी तरह एंडोमेट्रियोसिस जैसी स्थितियाँ बरसों तक पकड़ में नहीं आतीं। दो महीने तक डायरी में लिखो कि क्या लक्षण हुए और उनकी वजह से क्या-क्या छूटा, और बात असर से शुरू करो: 'हर महीने मेरे कॉलेज के दो दिन छूट जाते हैं।' पूछो, 'यह और क्या हो सकता है?' और 'अगर इससे फ़ायदा न हुआ तो अगला क़दम क्या होगा?' किसी ऐसे को साथ ले जाओ जो तुम्हारा साथ दे। स्त्री रोग विशेषज्ञ (गायनेकोलॉजिस्ट) को दिखाने के लिए शादीशुदा होना ज़रूरी नहीं; तुम्हें हर क़दम समझाने को कहने और अंदरूनी जाँच से मना करने का हक़ है, क्योंकि अक्सर पेट के ऊपर से अल्ट्रासाउंड हो सकता है। अगर बात टाल दी जाए, तो दूसरे डॉक्टर को दिखाओ।",
+     "hg": "Women ke dard ko aksar taal diya jaata hai: 'yeh toh normal hai', 'stress hai', 'shaadi ya baby ke baad theek ho jayega'. Isi tarah endometriosis jaisi conditions saalon tak pakad mein nahi aati. Do mahine tak diary mein likho ki kya symptoms hue aur unki wajah se kya-kya miss hua, aur baat impact se shuru karo: 'Har mahine mere college ke do din miss hote hain.' Poocho, 'Yeh aur kya ho sakta hai?' aur 'Agar isse fark nahi pada toh next step kya hoga?' Kisi aise ko saath le jao jo tumhara saath de. Gynaecologist ko dikhane ke liye married hona zaroori nahi; tumhe har step explain karwane aur internal examination se mana karne ka haq hai, kyunki aksar pet ke upar se ultrasound ho sakta hai. Agar baat taal di jaaye, toh dusre doctor ko dikhao."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Gynaecologists and check-ups 'down there' are only for married women.",
+    "hi": "स्त्री रोग विशेषज्ञ और 'नीचे' की जाँच सिर्फ़ शादीशुदा औरतों के लिए है।",
+    "hg": "Gynaecologist aur 'neeche' ka check-up sirf married women ke liye hai."
+   },
+   "fact": {
+    "en": "Breasts, periods, discharge and pain need care at any age and any marital status. A teenager or unmarried woman can see a gynaecologist, and nothing is examined without your agreement; many problems are assessed by talking, feeling the abdomen or an abdominal ultrasound. Waiting for marriage only delays diagnosis.",
+    "hi": "स्तन, पीरियड, डिस्चार्ज और दर्द को हर उम्र में देखभाल चाहिए, शादी हुई हो या नहीं। किशोर उम्र की लड़की या अविवाहित महिला स्त्री रोग विशेषज्ञ को दिखा सकती है, और तुम्हारी सहमति के बिना कोई जाँच नहीं होती; बहुत-सी समस्याएँ बातचीत, पेट की जाँच या पेट के ऊपर से अल्ट्रासाउंड से समझी जा सकती हैं। शादी का इंतज़ार करने से सिर्फ़ बीमारी पकड़ने में देर होती है।",
+    "hg": "Breasts, periods, discharge aur dard ko har umar mein care chahiye, shaadi hui ho ya nahi. Teenager ya unmarried woman gynaecologist ko dikha sakti hai, aur tumhari agreement ke bina koi examination nahi hota; bahut si problems baat karke, pet ki jaanch se ya pet ke upar se ultrasound se samjhi ja sakti hain. Shaadi ka wait karne se sirf diagnosis mein der hoti hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Know your breasts' normal; a new lump or a skin or nipple change that persists needs a doctor, even though most lumps in young women are not cancer.",
+    "hi": "अपने स्तनों का 'सामान्य' पहचानो; नई गाँठ या त्वचा या निप्पल का बदलाव बना रहे तो डॉक्टर को दिखाओ, भले ही युवा महिलाओं में ज़्यादातर गाँठें कैंसर नहीं होतीं।",
+    "hg": "Apne breasts ka 'normal' pehchano; nayi gaanth ya skin ya nipple ka change bana rahe toh doctor ko dikhao, bhale hi young women mein zyadatar gaanthein cancer nahi hoti."
+   },
+   {
+    "en": "The HPV vaccine plus cervical screening in adulthood prevents most cervical cancer, and vaccinated women still need screening.",
+    "hi": "एचपीवी का टीका और वयस्क उम्र में सर्वाइकल स्क्रीनिंग मिलकर ज़्यादातर सर्वाइकल कैंसर रोक देते हैं, और टीका लगवा चुकी महिलाओं को भी स्क्रीनिंग चाहिए।",
+    "hg": "HPV vaccine aur adult umar mein cervical screening milke zyadatar cervical cancer rok dete hain, aur vaccine lagwa chuki women ko bhi screening chahiye."
+   },
+   {
+    "en": "Thrush, BV and urine infections are common and treatable, not signs of being unclean, and pain that keeps being dismissed deserves a second opinion.",
+    "hi": "थ्रश, BV और पेशाब के संक्रमण आम हैं और इनका इलाज है, ये गंदगी की निशानी नहीं हैं, और जिस दर्द को बार-बार टाला जाए उस पर दूसरे डॉक्टर की राय लेनी चाहिए।",
+    "hg": "Thrush, BV aur urine infections common aur treatable hain, gandagi ki nishani nahi, aur jis dard ko baar-baar taala jaaye uspe second opinion leni chahiye."
+   }
+  ],
+  "activity": {
+   "en": "Pick a date a few days after your next period for a breast check and set a monthly reminder. Then find out, from a parent or your vaccination card, whether you have had the HPV vaccine; if not, note it as a question for your next doctor visit.",
+   "hi": "अगले पीरियड के कुछ दिन बाद की एक तारीख़ स्तनों की जाँच के लिए चुनो और हर महीने का रिमाइंडर लगा लो। फिर माता-पिता से या अपने टीकाकरण कार्ड से पता करो कि तुम्हें एचपीवी का टीका लगा है या नहीं; अगर नहीं, तो इसे डॉक्टर से अगली मुलाक़ात के सवाल के रूप में लिख लो।",
+   "hg": "Agle period ke kuch din baad ki ek date breast check ke liye choose karo aur monthly reminder laga lo. Phir parents se ya apne vaccination card se pata karo ki tumhe HPV vaccine lagi hai ya nahi; agar nahi, toh ise agli doctor visit ke sawaal ki tarah note kar lo."
+  },
+  "interactive": "body_lab",
+  "quiz": [
+   {
+    "id": "d10-l07-q1",
+    "type": "scenario",
+    "q": {
+     "en": "Meera, 19, finds a smooth, movable lump in one breast. It does not hurt, and it is still there after her period. Her cousin says lumps in young women are always harmless. What should Meera do?",
+     "hi": "19 साल की मीरा को एक स्तन में चिकनी, हिलने वाली गाँठ मिलती है। उसमें दर्द नहीं है, और पीरियड के बाद भी वह बनी हुई है। उसकी कज़िन कहती है कि जवान लड़कियों में गाँठें कभी नुक़सान वाली नहीं होतीं। मीरा को क्या करना चाहिए?",
+     "hg": "19 saal ki Meera ko ek breast mein smooth, hilne wali gaanth milti hai. Usme dard nahi hai, aur period ke baad bhi woh wahin hai. Uski cousin kehti hai ki young ladkiyon mein gaanthein hamesha harmless hoti hain. Meera ko kya karna chahiye?"
+    },
+    "options": [
+     {
+      "en": "Get it examined by a doctor; it is probably harmless, but only an examination and scan can confirm that",
+      "hi": "डॉक्टर से जाँच करवाए; शायद यह नुक़सान वाली नहीं है, पर इसकी पुष्टि सिर्फ़ जाँच और स्कैन से हो सकती है",
+      "hg": "Doctor se check karwaye; shayad yeh harmless hai, par yeh confirm sirf examination aur scan se ho sakta hai"
+     },
+     {
+      "en": "Leave it unless it starts to hurt, because painless lumps are safe",
+      "hi": "जब तक दर्द न हो तब तक छोड़ दे, क्योंकि बिना दर्द वाली गाँठें सुरक्षित होती हैं",
+      "hg": "Jab tak dard na ho chhod de, kyunki bina dard wali gaanthein safe hoti hain"
+     },
+     {
+      "en": "Massage it daily with warm oil so that it dissolves",
+      "hi": "रोज़ गरम तेल से मालिश करे ताकि वह घुल जाए",
+      "hg": "Roz garam tel se maalish kare taaki woh ghul jaaye"
+     },
+     {
+      "en": "Wait until she is 40, when breast checks normally begin",
+      "hi": "40 की उम्र तक रुके, जब स्तनों की जाँच आमतौर पर शुरू होती है",
+      "hg": "40 ki umar tak wait kare, jab breast check-ups usually shuru hote hain"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Most breast lumps at her age are benign, but nobody can tell by touch, and pain is not a reliable guide. A lump that persists after a period should be examined, usually with an ultrasound.",
+     "hi": "उसकी उम्र में ज़्यादातर गाँठें कैंसर नहीं होतीं, पर छूकर कोई नहीं बता सकता, और दर्द का होना या न होना भरोसेमंद पैमाना नहीं है। जो गाँठ पीरियड के बाद भी बनी रहे उसकी जाँच होनी चाहिए, आमतौर पर अल्ट्रासाउंड से।",
+     "hg": "Uski umar mein zyadatar breast lumps benign hote hain, par chhoo ke koi nahi bata sakta, aur dard ka hona ya na hona reliable guide nahi hai. Jo gaanth period ke baad bhi rahe uski jaanch honi chahiye, usually ultrasound se."
+    }
+   },
+   {
+    "id": "d10-l07-q2",
+    "type": "tf",
+    "q": {
+     "en": "A woman who has had the HPV vaccine does not need cervical screening later in life.",
+     "hi": "जिस महिला को एचपीवी का टीका लग चुका है, उसे आगे चलकर सर्वाइकल स्क्रीनिंग की ज़रूरत नहीं होती।",
+     "hg": "Jis woman ko HPV vaccine lag chuki hai, use aage chal ke cervical screening ki zaroorat nahi hoti."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "The vaccine protects against the main cancer-causing HPV types but not every one, so screening in adulthood is still needed. The two work together.",
+     "hi": "टीका कैंसर पैदा करने वाले मुख्य एचपीवी प्रकारों से बचाता है, पर हर प्रकार से नहीं, इसलिए वयस्क उम्र में स्क्रीनिंग फिर भी ज़रूरी है। दोनों साथ मिलकर काम करते हैं।",
+     "hg": "Vaccine cancer karne wale main HPV types se bachati hai, par har type se nahi, isliye adult umar mein screening phir bhi zaroori hai. Dono saath milke kaam karte hain."
+    }
+   }
+  ],
+  "refs": [
+   "who-breast-cancer",
+   "who-cervical",
+   "who-hpv",
+   "nhs-thrush",
+   "who-endometriosis"
+  ],
+  "warning": {
+   "en": "See a doctor promptly for a breast lump that persists, bloody nipple discharge, bleeding between periods or after sex, or discharge with pelvic pain or fever. Burning urine with fever and back or side pain needs care the same day. This lesson cannot diagnose you.",
+   "hi": "स्तन की गाँठ बनी रहे, निप्पल से ख़ून वाला डिस्चार्ज आए, पीरियड के बीच में या सेक्स के बाद ख़ून आए, या डिस्चार्ज के साथ पेल्विक दर्द या बुख़ार हो, तो जल्द डॉक्टर को दिखाओ। पेशाब में जलन के साथ बुख़ार और कमर या पेट के किनारे की तरफ़ दर्द हो, तो उसी दिन इलाज करवाओ। यह पाठ तुम्हारा निदान नहीं कर सकता।",
+   "hg": "Breast ki gaanth bani rahe, nipple se blood wala discharge aaye, periods ke beech mein ya sex ke baad bleeding ho, ya discharge ke saath pelvic pain ya bukhaar ho, toh jaldi doctor ko dikhao. Urine mein jalan ke saath bukhaar aur kamar ya side mein dard ho, toh usi din care lo. Yeh lesson tumhara diagnosis nahi kar sakta."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d10-l08",
+  "domain": "d10",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "men",
+   "women"
+  ],
+  "body": [
+   "menstrual",
+   "hormones_changes",
+   "vulva_vaginal",
+   "penis_testicular"
+  ],
+  "difficulty": 3,
+  "minutes": 8,
+  "unesco": [
+   8,
+   7,
+   6
+  ],
+  "title": {
+   "en": "Bodies Change: Menopause, Ageing and Sex",
+   "hi": "शरीर बदलता है: मेनोपॉज़, बढ़ती उम्र और सेक्स",
+   "hg": "Body Badalti Hai: Menopause, Badhti Umar Aur Sex"
+  },
+  "subtitle": {
+   "en": "Perimenopause, dryness and painful sex, vaginismus, erections with age, sex after childbirth or illness, and disability",
+   "hi": "पेरिमेनोपॉज़, सूखापन और दर्द भरा सेक्स, वैजिनिस्मस, उम्र के साथ इरेक्शन, प्रसव या बीमारी के बाद सेक्स, और विकलांगता",
+   "hg": "Perimenopause, dryness aur painful sex, vaginismus, umar ke saath erections, delivery ya bimari ke baad sex, aur disability"
+  },
+  "hook": {
+   "en": "Nobody's body at 50 works the way it did at 25, and nobody tells you what will change. Most of it is normal, much of it is treatable, and none of it means your sex life is over.",
+   "hi": "50 की उम्र में किसी का शरीर वैसे काम नहीं करता जैसे 25 में करता था, और कोई बताता भी नहीं कि क्या बदलेगा। इसमें से ज़्यादातर सामान्य है, बहुत कुछ का इलाज है, और किसी भी बदलाव का मतलब यह नहीं कि आपकी सेक्स लाइफ़ ख़त्म हो गई।",
+   "hg": "50 ki umar mein kisi ki body waise kaam nahi karti jaise 25 mein karti thi, aur koi batata bhi nahi ki kya badlega. Isme se zyadatar normal hai, bahut kuch treatable hai, aur kisi bhi change ka matlab yeh nahi ki aapki sex life khatam ho gayi."
+  },
+  "objectives": [
+   {
+    "en": "Recognise the symptoms of perimenopause and menopause and the help available.",
+    "hi": "पेरिमेनोपॉज़ और मेनोपॉज़ के लक्षण और उपलब्ध मदद पहचान पाना।",
+    "hg": "Perimenopause aur menopause ke symptoms aur available help pehchaan paana."
+   },
+   {
+    "en": "Explain why dryness, painful sex, vaginismus and erection changes happen and what treats them.",
+    "hi": "समझा पाना कि सूखापन, सेक्स में दर्द, वैजिनिस्मस और इरेक्शन में बदलाव क्यों होते हैं और उनका इलाज क्या है।",
+    "hg": "Samjha paana ki dryness, painful sex, vaginismus aur erection changes kyun hote hain aur unka treatment kya hai."
+   },
+   {
+    "en": "Describe how childbirth, illness, disability and age change desire and intimacy without ending them.",
+    "hi": "बता पाना कि प्रसव, बीमारी, विकलांगता और उम्र इच्छा और नज़दीकी को कैसे बदलते हैं, पर ख़त्म नहीं करते।",
+    "hg": "Bata paana ki delivery, bimari, disability aur umar desire aur intimacy ko kaise badalte hain, par khatam nahi karte."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Perimenopause and menopause",
+     "hi": "पेरिमेनोपॉज़ और मेनोपॉज़",
+     "hg": "Perimenopause aur menopause"
+    },
+    "body": {
+     "en": "Menopause is the point when periods have stopped for 12 months in a row, usually between 45 and 55. The years before it are perimenopause: oestrogen levels swing, periods turn irregular, and many people get hot flushes, night sweats, broken sleep, mood changes, joint aches, poor concentration and lower desire. Symptoms can last years, from mild to disabling. Treatment exists: menopausal hormone therapy from a doctor suits many, though not all, and there are non-hormonal medicines. Exercise, calcium, vitamin D and not smoking protect bones and the heart, which lose oestrogen's protection. Pregnancy remains possible in perimenopause. Periods stopping before 40, or any bleeding after menopause, needs a doctor.",
+     "hi": "मेनोपॉज़ (रजोनिवृत्ति) वह पड़ाव है जब लगातार 12 महीने तक पीरियड न आए हों, आमतौर पर 45 से 55 साल की उम्र के बीच। उससे पहले के साल पेरिमेनोपॉज़ कहलाते हैं: एस्ट्रोजन का स्तर ऊपर-नीचे होता है, पीरियड अनियमित हो जाते हैं, और बहुत-से लोगों को अचानक गर्मी के झोंके (हॉट फ़्लश), रात में पसीना, टूटी-टूटी नींद, मूड में बदलाव, जोड़ों में दर्द, ध्यान लगाने में दिक़्क़त और इच्छा में कमी महसूस होती है। लक्षण बरसों चल सकते हैं और हल्के से लेकर बहुत तकलीफ़देह तक हो सकते हैं। इलाज मौजूद है: डॉक्टर की लिखी मेनोपॉज़ हार्मोन थेरेपी बहुतों के लिए ठीक रहती है, हालाँकि सबके लिए नहीं, और बिना हार्मोन वाली दवाएँ भी हैं। व्यायाम, कैल्शियम, विटामिन डी और धूम्रपान न करना हड्डियों और दिल की हिफ़ाज़त करते हैं, जिनसे एस्ट्रोजन का बचाव हट जाता है। पेरिमेनोपॉज़ में गर्भ ठहरना संभव रहता है। 40 से पहले पीरियड बंद हो जाएँ, या मेनोपॉज़ के बाद कभी भी ख़ून आए, तो डॉक्टर को दिखाएँ।",
+     "hg": "Menopause woh point hai jab lagataar 12 mahine tak periods na aaye hon, usually 45 se 55 saal ke beech. Usse pehle ke saal perimenopause kehlate hain: oestrogen levels upar-neeche hote hain, periods irregular ho jaate hain, aur bahut logon ko hot flushes, raat ko paseena, tooti-tooti neend, mood changes, jodon mein dard, concentration ki dikkat aur kam desire feel hoti hai. Symptoms saalon chal sakte hain aur mild se le kar bahut takleefdeh tak ho sakte hain. Treatment available hai: doctor ki prescribe ki hui menopausal hormone therapy bahuton ko suit karti hai, sabko nahi, aur non-hormonal dawaiyan bhi hain. Exercise, calcium, vitamin D aur smoking na karna haddiyon aur heart ko protect karte hain, jinse oestrogen ka protection hat jaata hai. Perimenopause mein pregnancy possible rehti hai. 40 se pehle periods band ho jaayein, ya menopause ke baad kabhi bhi bleeding ho, toh doctor ko dikhayein."
+    }
+   },
+   {
+    "h": {
+     "en": "Dryness, painful sex and vaginismus",
+     "hi": "सूखापन, सेक्स में दर्द और वैजिनिस्मस",
+     "hg": "Dryness, painful sex aur vaginismus"
+    },
+    "body": {
+     "en": "With less oestrogen, the lining of the vagina and vulva becomes thinner, drier and less stretchy. The result can be burning, pain or small tears during intercourse, and more urine infections. Unlike hot flushes, it rarely improves on its own. The same dryness is common while breastfeeding and after some cancer treatments. A water- or silicone-based lubricant, a regular vaginal moisturiser and low-dose vaginal oestrogen from a doctor all help. Vaginismus is different: the muscles around the vagina tighten by reflex whenever penetration is attempted, even a tampon or an examination. It is not deliberate. Pelvic-floor physiotherapy, graded vaginal trainers and psychosexual counselling treat it. Pushing through pain worsens both.",
+     "hi": "एस्ट्रोजन कम होने पर योनि और वल्वा की परत पतली, सूखी और कम लचीली हो जाती है। नतीजा हो सकता है संभोग के दौरान जलन, दर्द या छोटे-छोटे चीरे, और पेशाब के संक्रमण का बार-बार होना। हॉट फ़्लश के उलट, यह अपने-आप शायद ही कभी ठीक होता है। ऐसा ही सूखापन स्तनपान के दौरान और कैंसर के कुछ इलाजों के बाद भी आम है। पानी या सिलिकॉन वाला लुब्रिकेंट, नियमित रूप से लगाया जाने वाला वेजाइनल मॉइस्चराइज़र और डॉक्टर की लिखी कम मात्रा वाली वेजाइनल एस्ट्रोजन, तीनों मदद करते हैं। वैजिनिस्मस अलग चीज़ है: जब भी कुछ अंदर डालने की कोशिश होती है, चाहे टैम्पोन हो या डॉक्टर की जाँच, योनि के आसपास की मांसपेशियाँ अपने-आप कस जाती हैं। यह जान-बूझकर नहीं होता। पेल्विक फ़्लोर फ़िज़ियोथेरेपी, धीरे-धीरे बढ़ते आकार वाले वेजाइनल ट्रेनर और साइकोसेक्शुअल काउंसलिंग से इसका इलाज होता है। दर्द सहकर ज़बरदस्ती करने से दोनों हालतें बिगड़ती हैं।",
+     "hg": "Oestrogen kam hone pe vagina aur vulva ki lining patli, dry aur kam stretchy ho jaati hai. Nateeja ho sakta hai intercourse ke dauraan jalan, dard ya skin mein chhote-chhote cuts, aur baar-baar urine infection. Hot flushes ke ulat, yeh apne aap shayad hi kabhi theek hota hai. Yahi dryness breastfeeding ke dauraan aur kuch cancer treatments ke baad bhi common hai. Water-based ya silicone-based lubricant, regularly lagaya jaane wala vaginal moisturiser aur doctor ki prescribe ki hui low-dose vaginal oestrogen, teeno help karte hain. Vaginismus alag cheez hai: jab bhi penetration ki koshish hoti hai, chahe tampon ho ya doctor ka examination, vagina ke aaspaas ki muscles reflex se tight ho jaati hain. Yeh jaan-boojh ke nahi hota. Pelvic-floor physiotherapy, dheere-dheere badhte size wale vaginal trainers aur psychosexual counselling se iska treatment hota hai. Dard seh ke zabardasti karne se dono cheezein bigadti hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Erections and desire as the years pass",
+     "hi": "उम्र के साथ इरेक्शन और इच्छा",
+     "hg": "Umar ke saath erections aur desire"
+    },
+    "body": {
+     "en": "With age, erections usually take longer, need more direct touch and are somewhat less firm, and recovery time after ejaculation lengthens. These gradual shifts are normal. Erections that repeatedly fail are not simply age. The penis's arteries are narrow, so blood-vessel disease can show there years before the heart; diabetes damages the vessels and nerves involved. So a check of blood sugar, blood pressure and cholesterol is part of the answer. Some blood-pressure and depression medicines affect erections or desire; ask about alternatives rather than stopping them. Desire in every gender rises and falls across life with stress, sleep, health and the relationship. There is no correct frequency.",
+     "hi": "उम्र के साथ इरेक्शन आने में आमतौर पर ज़्यादा समय लगता है, सीधे स्पर्श की ज़्यादा ज़रूरत पड़ती है, कड़ापन कुछ कम रहता है, और स्खलन के बाद दोबारा तैयार होने का समय बढ़ जाता है। ये धीरे-धीरे आने वाले बदलाव सामान्य हैं। लेकिन इरेक्शन का बार-बार न बन पाना सिर्फ़ उम्र की बात नहीं है। लिंग की धमनियाँ पतली होती हैं, इसलिए ख़ून की नलियों की बीमारी दिल से बरसों पहले वहाँ दिख सकती है; डायबिटीज़ इससे जुड़ी नलियों और नसों, दोनों को नुक़सान पहुँचाती है। इसलिए ब्लड शुगर, ब्लड प्रेशर और कोलेस्ट्रॉल की जाँच जवाब का हिस्सा है। ब्लड प्रेशर और डिप्रेशन की कुछ दवाएँ इरेक्शन या इच्छा पर असर डालती हैं; उन्हें ख़ुद बंद करने की जगह डॉक्टर से विकल्प पूछें। हर जेंडर में इच्छा ज़िंदगी भर तनाव, नींद, सेहत और रिश्ते के साथ घटती-बढ़ती रहती है। कोई 'सही' गिनती नहीं होती कि कितनी बार होना चाहिए।",
+     "hg": "Umar ke saath erection aane mein usually zyada time lagta hai, direct touch ki zyada zaroorat padti hai, firmness thodi kam rehti hai, aur ejaculation ke baad recovery time badh jaata hai. Yeh dheere-dheere aane wale changes normal hain. Lekin erection ka baar-baar fail hona sirf umar ki baat nahi hai. Penis ki arteries patli hoti hain, isliye blood vessels ki bimari heart se saalon pehle wahan dikh sakti hai; diabetes isse judi vessels aur nerves, dono ko damage karti hai. Isliye blood sugar, blood pressure aur cholesterol ka check-up jawaab ka hissa hai. Blood pressure aur depression ki kuch dawaiyan erection ya desire pe asar daalti hain; unhe khud band karne ki jagah doctor se alternatives poochhein. Har gender mein desire zindagi bhar stress, neend, health aur rishte ke saath ghatti-badhti rehti hai. Koi 'sahi' frequency nahi hoti."
+    }
+   },
+   {
+    "h": {
+     "en": "After childbirth, after illness, with a disability",
+     "hi": "प्रसव के बाद, बीमारी के बाद, विकलांगता के साथ",
+     "hg": "Delivery ke baad, bimari ke baad, disability ke saath"
+    },
+    "body": {
+     "en": "After childbirth, the usual advice is to wait until bleeding stops and stitches heal, often about six weeks; readiness is personal, and nobody is owed sex on a schedule. Exhaustion, breastfeeding dryness and low desire are common for months. Ovulation can return before the first period, so plan contraception early. After a heart attack, surgery, cancer treatment or hysterectomy, ask the doctor when sex is safe and what may feel different; doctors rarely raise it first. Disabled people have the same range of desire and the same right to information, privacy, relationships and contraception as anyone. A disability may change sensation or movement; a rehabilitation doctor or therapist can advise.",
+     "hi": "प्रसव के बाद आम सलाह यह है कि ख़ून आना रुकने और टाँके भरने तक रुका जाए, जो अक्सर लगभग छह हफ़्ते होता है; पर तैयार होना हर किसी का अपना मामला है, और किसी का किसी पर तय समय पर सेक्स का हक़ नहीं बनता। थकान, स्तनपान की वजह से सूखापन और इच्छा की कमी महीनों तक आम हैं। पहला पीरियड आने से पहले ही ओव्यूलेशन लौट सकता है, इसलिए गर्भनिरोध की योजना जल्दी बनाएँ। हार्ट अटैक, सर्जरी, कैंसर के इलाज या गर्भाशय निकालने के ऑपरेशन (हिस्टेरेक्टॉमी) के बाद डॉक्टर से सीधे पूछें कि सेक्स कब सुरक्षित है और क्या अलग महसूस हो सकता है; डॉक्टर ख़ुद यह बात कम ही छेड़ते हैं। विकलांग लोगों में इच्छा का दायरा उतना ही होता है जितना किसी और में, और जानकारी, निजता, रिश्तों और गर्भनिरोध पर उनका हक़ भी उतना ही है। विकलांगता से संवेदना या हिलना-डुलना बदल सकता है; रिहैबिलिटेशन डॉक्टर या थेरेपिस्ट सलाह दे सकते हैं।",
+     "hg": "Delivery ke baad usual advice yeh hai ki bleeding rukne aur stitches heal hone tak wait kiya jaaye, jo aksar lagbhag chhe hafte hota hai; par ready hona har kisi ka personal maamla hai, aur kisi ka kisi pe schedule ke hisaab se sex ka haq nahi banta. Thakaan, breastfeeding ki wajah se dryness aur low desire mahino tak common hain. Pehla period aane se pehle hi ovulation laut sakta hai, isliye contraception jaldi plan karein. Heart attack, surgery, cancer treatment ya hysterectomy ke baad doctor se seedha poochhein ki sex kab safe hai aur kya alag feel ho sakta hai; doctors khud yeh topic kam hi uthate hain. Disabled logon mein desire ki range utni hi hoti hai jitni kisi aur mein, aur information, privacy, relationships aur contraception pe unka haq bhi utna hi hai. Disability se sensation ya movement badal sakta hai; rehabilitation doctor ya therapist advice de sakte hain."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "After menopause, a woman's sex life is over.",
+    "hi": "मेनोपॉज़ के बाद औरत की सेक्स लाइफ़ ख़त्म हो जाती है।",
+    "hg": "Menopause ke baad aurat ki sex life khatam ho jaati hai."
+   },
+   "fact": {
+    "en": "Menopause ends periods and fertility, not desire or the capacity for pleasure. What usually gets in the way is treatable: dryness, pain, poor sleep and low mood. With lubricants, vaginal oestrogen or hormone therapy where suitable, and honest talk with a partner, many people stay sexually active for decades. Choosing not to be is equally valid.",
+    "hi": "मेनोपॉज़ पीरियड और प्रजनन क्षमता को ख़त्म करता है, इच्छा या सुख महसूस करने की क्षमता को नहीं। जो चीज़ें आमतौर पर आड़े आती हैं उनका इलाज है: सूखापन, दर्द, ख़राब नींद और उदासी। लुब्रिकेंट, जहाँ ठीक हो वहाँ वेजाइनल एस्ट्रोजन या हार्मोन थेरेपी, और पार्टनर से खुली बातचीत के साथ बहुत-से लोग दशकों तक यौन रूप से सक्रिय रहते हैं। सक्रिय न रहना चुनना भी उतना ही सही है।",
+    "hg": "Menopause periods aur fertility khatam karta hai, desire ya pleasure feel karne ki capacity nahi. Jo cheezein usually beech mein aati hain woh treatable hain: dryness, dard, kharab neend aur low mood. Lubricants, jahan suitable ho wahan vaginal oestrogen ya hormone therapy, aur partner se honest baat ke saath bahut log decades tak sexually active rehte hain. Active na rehna choose karna bhi utna hi valid hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Menopause means 12 months without a period; the symptoms around it are real, common and treatable.",
+    "hi": "मेनोपॉज़ का मतलब है 12 महीने तक पीरियड न आना; इसके आसपास के लक्षण असली हैं, आम हैं और उनका इलाज है।",
+    "hg": "Menopause ka matlab hai 12 mahine tak period na aana; iske aaspaas ke symptoms real hain, common hain aur treatable hain."
+   },
+   {
+    "en": "Dryness, painful sex, vaginismus and erection changes have medical causes and treatments, and pain is never something to push through.",
+    "hi": "सूखापन, सेक्स में दर्द, वैजिनिस्मस और इरेक्शन में बदलाव की मेडिकल वजहें और इलाज हैं, और दर्द को कभी ज़बरदस्ती सहकर आगे नहीं बढ़ना चाहिए।",
+    "hg": "Dryness, painful sex, vaginismus aur erection changes ki medical wajah aur treatment hain, aur dard ko kabhi zabardasti seh ke aage nahi badhna chahiye."
+   },
+   {
+    "en": "Desire shifts with age, childbirth, illness and disability, and none of these removes a person's right to intimacy.",
+    "hi": "इच्छा उम्र, प्रसव, बीमारी और विकलांगता के साथ बदलती है, और इनमें से कोई भी चीज़ किसी से नज़दीकी का हक़ नहीं छीनती।",
+    "hg": "Desire umar, delivery, bimari aur disability ke saath badalti hai, aur inme se koi bhi cheez kisi se intimacy ka haq nahi chheenti."
+   }
+  ],
+  "activity": {
+   "en": "Write down one change in your body or desire that you have noticed in the past few years and have mentioned to nobody. Next to it, note which clinician deals with it, and one sentence you could use to open the conversation with a doctor or your partner.",
+   "hi": "अपने शरीर या इच्छा में पिछले कुछ सालों में आया एक ऐसा बदलाव लिखिए जो आपने किसी को नहीं बताया। उसके आगे लिखिए कि उसे किस तरह का डॉक्टर देखता है, और एक वाक्य जिससे आप डॉक्टर या अपने पार्टनर से बात शुरू कर सकते हैं।",
+   "hg": "Apni body ya desire mein pichhle kuch saalon mein aaya ek aisa change likhiye jo aapne kisi ko nahi bataya. Uske aage likhiye ki use kis type ka doctor dekhta hai, aur ek sentence jisse aap doctor ya apne partner se baat shuru kar sakte hain."
+  },
+  "interactive": "ask",
+  "quiz": [
+   {
+    "id": "d10-l08-q1",
+    "type": "mcq",
+    "q": {
+     "en": "How is menopause defined?",
+     "hi": "मेनोपॉज़ की परिभाषा क्या है?",
+     "hg": "Menopause ki definition kya hai?"
+    },
+    "options": [
+     {
+      "en": "The first time a period is late after the age of 40",
+      "hi": "40 की उम्र के बाद पहली बार पीरियड का देर से आना",
+      "hg": "40 ki umar ke baad pehli baar period ka late aana"
+     },
+     {
+      "en": "The first hot flush or night sweat",
+      "hi": "पहला हॉट फ़्लश या रात का पसीना",
+      "hg": "Pehla hot flush ya raat ka paseena"
+     },
+     {
+      "en": "The day periods become irregular",
+      "hi": "जिस दिन से पीरियड अनियमित हो जाएँ",
+      "hg": "Jis din se periods irregular ho jaayein"
+     },
+     {
+      "en": "Twelve months in a row without a period",
+      "hi": "लगातार बारह महीने तक पीरियड न आना",
+      "hg": "Lagataar baarah mahine tak period na aana"
+     }
+    ],
+    "answer": 3,
+    "explain": {
+     "en": "Menopause is confirmed only after 12 consecutive months without a period. The irregular, symptomatic years before that are perimenopause, when pregnancy is still possible.",
+     "hi": "मेनोपॉज़ तभी माना जाता है जब लगातार 12 महीने पीरियड न आए हों। उससे पहले के अनियमित और लक्षणों वाले साल पेरिमेनोपॉज़ हैं, जिनमें गर्भ ठहरना अब भी संभव है।",
+     "hg": "Menopause tabhi confirm hota hai jab lagataar 12 mahine period na aaya ho. Usse pehle ke irregular aur symptoms wale saal perimenopause hain, jisme pregnancy abhi bhi possible hai."
+    }
+   },
+   {
+    "id": "d10-l08-q2",
+    "type": "tf",
+    "q": {
+     "en": "A man of 50 whose erections keep failing should have his blood sugar, blood pressure and cholesterol checked.",
+     "hi": "50 साल के जिस पुरुष का इरेक्शन बार-बार नहीं बन पाता, उसे ब्लड शुगर, ब्लड प्रेशर और कोलेस्ट्रॉल की जाँच करवानी चाहिए।",
+     "hg": "50 saal ke jis man ka erection baar-baar fail hota hai, use blood sugar, blood pressure aur cholesterol check karwana chahiye."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Slower erections are a normal part of ageing, but repeated failure can be an early sign of blood-vessel disease or diabetes, so a general health check is part of the assessment.",
+     "hi": "इरेक्शन का धीमा होना उम्र का सामान्य हिस्सा है, पर बार-बार न बन पाना ख़ून की नलियों की बीमारी या डायबिटीज़ का शुरुआती संकेत हो सकता है, इसलिए सेहत की आम जाँच इसका हिस्सा है।",
+     "hg": "Erection ka slow hona ageing ka normal hissa hai, par baar-baar fail hona blood vessel disease ya diabetes ka early sign ho sakta hai, isliye general health check-up iska hissa hai."
+    }
+   }
+  ],
+  "refs": [
+   "who-menopause",
+   "nhs-vaginismus",
+   "nhs-ed",
+   "who-sexual-health"
+  ],
+  "warning": {
+   "en": "Bleeding after menopause, bleeding after intercourse, periods stopping before 40, or chest pain during exertion or sex need a doctor promptly. Do not take erection medicines without a prescription; they can be dangerous with some heart medicines. This lesson cannot diagnose you.",
+   "hi": "मेनोपॉज़ के बाद ख़ून आना, संभोग के बाद ख़ून आना, 40 से पहले पीरियड बंद होना, या मेहनत या सेक्स के दौरान सीने में दर्द हो, तो जल्द डॉक्टर को दिखाएँ। इरेक्शन की दवाएँ बिना पर्चे के न लें; दिल की कुछ दवाओं के साथ ये ख़तरनाक हो सकती हैं। यह पाठ आपका निदान नहीं कर सकता।",
+   "hg": "Menopause ke baad bleeding, intercourse ke baad bleeding, 40 se pehle periods band hona, ya exertion ya sex ke dauraan chest pain ho, toh jaldi doctor ko dikhayein. Erection ki dawaiyan bina prescription ke na lein; heart ki kuch dawaiyon ke saath yeh dangerous ho sakti hain. Yeh lesson aapka diagnosis nahi kar sakta."
+  },
+  "sensitive": true,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ }
+]

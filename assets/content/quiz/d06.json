@@ -1,0 +1,260 @@
+[
+ {
+  "id": "d06-q01",
+  "domain": "d06",
+  "tracks": [
+   "A"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "Your friend is on the swing and you want a turn. What is a kind thing to do?",
+   "hi": "तुम्हारा दोस्त झूले पर है और तुम्हें भी झूलना है। प्यार से क्या किया जा सकता है?",
+   "hg": "Tumhara dost jhoole par hai aur tumhe bhi jhoolna hai. Kind tareeka kya hoga?"
+  },
+  "options": [
+   {
+    "en": "Hold the swing so they have to stop",
+    "hi": "झूला पकड़ लो ताकि उसे रुकना पड़े",
+    "hg": "Jhoola pakad lo taaki use rukna pade"
+   },
+   {
+    "en": "Ask, 'Can I have a turn after you?'",
+    "hi": "पूछो, 'तुम्हारे बाद मेरी बारी?'",
+    "hg": "Poocho, 'Tumhare baad meri turn?'"
+   },
+   {
+    "en": "Say you will never play with them again",
+    "hi": "कह दो कि अब कभी उसके साथ नहीं खेलोगे",
+    "hg": "Bol do ki ab kabhi uske saath nahi kheloge"
+   }
+  ],
+  "answer": 1,
+  "explain": {
+   "en": "Asking and waiting for your turn is fair to both of you and keeps the game fun.",
+   "hi": "पूछना और अपनी बारी का इंतज़ार करना दोनों के लिए सही है और खेल का मज़ा बना रहता है।",
+   "hg": "Poochna aur apni turn ka wait karna dono ke liye fair hai aur khel ka mazaa bana rehta hai."
+  }
+ },
+ {
+  "id": "d06-q02",
+  "domain": "d06",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "scenario",
+  "q": {
+   "en": "Someone posts an embarrassing photo of your classmate Tara in the class group and people are adding laughing emojis. What is the best thing to do?",
+   "hi": "कोई क्लास ग्रुप में तुम्हारी क्लासमेट तारा की शर्मिंदा करने वाली फ़ोटो डाल देता है और लोग हँसने वाले इमोजी भेज रहे हैं। सबसे अच्छा क्या करना होगा?",
+   "hg": "Koi class group mein tumhari classmate Tara ki embarrassing photo daal deta hai aur log laughing emojis bhej rahe hain. Sabse achha kya karna hoga?"
+  },
+  "options": [
+   {
+    "en": "Add an emoji too so you do not stand out",
+    "hi": "तुम भी एक इमोजी भेज दो ताकि अलग न दिखो",
+    "hg": "Tum bhi ek emoji bhej do taaki alag na dikho"
+   },
+   {
+    "en": "Forward it to one close friend only",
+    "hi": "बस एक क़रीबी दोस्त को फ़ॉरवर्ड कर दो",
+    "hg": "Bas ek close dost ko forward kar do"
+   },
+   {
+    "en": "Do not react or forward, check on Tara, and tell a teacher or parent",
+    "hi": "न रिएक्ट करो न फ़ॉरवर्ड, तारा का हाल पूछो, और टीचर या माता-पिता को बताओ",
+    "hg": "Na react karo na forward, Tara ka haal poocho, aur teacher ya parent ko batao"
+   },
+   {
+    "en": "Post an embarrassing photo of the sender",
+    "hi": "भेजने वाले की भी शर्मिंदा करने वाली फ़ोटो डाल दो",
+    "hg": "Bhejne wale ki bhi embarrassing photo daal do"
+   }
+  ],
+  "answer": 2,
+  "explain": {
+   "en": "Every reaction and forward spreads the hurt. Refusing to join in, supporting Tara and involving an adult stops it without starting a new fight.",
+   "hi": "हर रिएक्शन और फ़ॉरवर्ड से चोट और फैलती है। इसमें शामिल न होना, तारा का साथ देना और किसी बड़े को बताना इसे रोकता है, बिना नया झगड़ा शुरू किए।",
+   "hg": "Har reaction aur forward se hurt aur failta hai. Isme shamil na hona, Tara ko support karna aur kisi adult ko involve karna ise rokta hai, bina naya jhagda shuru kiye."
+  }
+ },
+ {
+  "id": "d06-q03",
+  "domain": "d06",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "Which sentence is a clear and respectful boundary?",
+   "hi": "कौन-सा वाक्य साफ़ और सम्मान वाली बाउंड्री है?",
+   "hg": "Kaunsa sentence ek clear aur respectful boundary hai?"
+  },
+  "options": [
+   {
+    "en": "If you go out with them, we are over.",
+    "hi": "अगर तुम उनके साथ गए, तो हमारा रिश्ता ख़त्म।",
+    "hg": "Agar tum unke saath gaye, toh hum khatam."
+   },
+   {
+    "en": "You never care about what I want.",
+    "hi": "तुम्हें कभी परवाह नहीं होती कि मुझे क्या चाहिए।",
+    "hg": "Tumhe kabhi care nahi hoti ki mujhe kya chahiye."
+   },
+   {
+    "en": "Whatever. Do what you like.",
+    "hi": "जो मन करे करो, मुझे क्या।",
+    "hg": "Whatever. Jo mann kare karo."
+   },
+   {
+    "en": "I'm not comfortable sharing my location. I'll message you when I get home.",
+    "hi": "मैं अपनी लोकेशन शेयर करने में कम्फ़र्टेबल नहीं हूँ। घर पहुँचकर तुम्हें मैसेज कर दूँगा/दूँगी।",
+    "hg": "Main apni location share karne mein comfortable nahi hoon. Ghar pahunch kar tumhe message kar dunga/dungi."
+   }
+  ],
+  "answer": 3,
+  "explain": {
+   "en": "A boundary states your own limit and what you will do. An ultimatum controls the other person, an accusation attacks them and 'whatever' hides what you need.",
+   "hi": "बाउंड्री तुम्हारी अपनी सीमा और तुम क्या करोगे, ये बताती है। अल्टीमेटम सामने वाले को कंट्रोल करता है, इल्ज़ाम उस पर हमला है, और 'जो मन करे' तुम्हारी ज़रूरत छुपा देता है।",
+   "hg": "Boundary tumhari apni limit aur tum kya karoge, yeh batati hai. Ultimatum saamne wale ko control karta hai, accusation attack hai, aur 'whatever' tumhari need chhupa deta hai."
+  }
+ },
+ {
+  "id": "d06-q04",
+  "domain": "d06",
+  "tracks": [
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "Meher clearly remembers Kunal shouting at her at a party. Every time she brings it up he says, 'That never happened, you imagine things,' and this has happened with many incidents. What is this pattern called?",
+   "hi": "मेहर को साफ़ याद है कि कुणाल एक पार्टी में उस पर चिल्लाया था। जब भी वो ये बात उठाती है, कुणाल कहता है, 'ऐसा कभी हुआ ही नहीं, तुम ख़यालों में रहती हो,' और ऐसा कई घटनाओं के साथ हो चुका है। इस पैटर्न को क्या कहते हैं?",
+   "hg": "Meher ko clearly yaad hai ki Kunal ek party mein us par chillaya tha. Jab bhi woh yeh baat uthati hai, Kunal bolta hai, 'Aisa kabhi hua hi nahi, tum imagine karti ho,' aur aisa kai incidents ke saath ho chuka hai. Is pattern ko kya kehte hain?"
+  },
+  "options": [
+   {
+    "en": "Gaslighting",
+    "hi": "गैसलाइटिंग",
+    "hg": "Gaslighting"
+   },
+   {
+    "en": "Love bombing",
+    "hi": "लव बॉम्बिंग",
+    "hg": "Love bombing"
+   },
+   {
+    "en": "Peer pressure",
+    "hi": "पीयर प्रेशर",
+    "hg": "Peer pressure"
+   },
+   {
+    "en": "Setting a boundary",
+    "hi": "बाउंड्री तय करना",
+    "hg": "Boundary set karna"
+   }
+  ],
+  "answer": 0,
+  "explain": {
+   "en": "Repeatedly denying events a person clearly remembers, so that they doubt their own mind, is gaslighting. The repetition across many incidents is what makes it a pattern.",
+   "hi": "जो घटनाएँ किसी को साफ़ याद हैं उन्हें बार-बार नकारना, ताकि वो अपने ही दिमाग़ पर शक करे, गैसलाइटिंग है। कई घटनाओं में इसका दोहराया जाना ही इसे पैटर्न बनाता है।",
+   "hg": "Jo events kisi ko clearly yaad hain unhe baar-baar deny karna, taaki woh apne hi mind par doubt kare, gaslighting hai. Kai incidents mein iska repeat hona hi ise pattern banata hai."
+  }
+ },
+ {
+  "id": "d06-q05",
+  "domain": "d06",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone",
+   "women"
+  ],
+  "body": [],
+  "type": "tf",
+  "q": {
+   "en": "Under the Protection of Women from Domestic Violence Act, 2005, only physical violence counts as domestic violence.",
+   "hi": "घरेलू हिंसा से महिलाओं का संरक्षण अधिनियम, 2005 के तहत सिर्फ़ शारीरिक हिंसा ही घरेलू हिंसा मानी जाती है।",
+   "hg": "Protection of Women from Domestic Violence Act, 2005 ke under sirf physical violence hi domestic violence maani jati hai."
+  },
+  "options": [
+   {
+    "en": "True",
+    "hi": "सही",
+    "hg": "Sahi"
+   },
+   {
+    "en": "False",
+    "hi": "ग़लत",
+    "hg": "Galat"
+   }
+  ],
+  "answer": 1,
+  "explain": {
+   "en": "The Act also covers sexual, verbal, emotional and economic abuse, and allows a court to pass protection orders.",
+   "hi": "ये अधिनियम यौन, मौखिक, भावनात्मक और आर्थिक दुर्व्यवहार को भी कवर करता है, और अदालत संरक्षण आदेश दे सकती है।",
+   "hg": "Yeh Act sexual, verbal, emotional aur economic abuse ko bhi cover karta hai, aur court protection orders de sakti hai."
+  }
+ },
+ {
+  "id": "d06-q06",
+  "domain": "d06",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "type": "mcq",
+  "q": {
+   "en": "After a breakup, an ex threatens to post your private photos unless you get back together. What should you do first?",
+   "hi": "ब्रेकअप के बाद एक्स धमकी देता है कि अगर तुम वापस नहीं आए तो वो तुम्हारी निजी फ़ोटो पोस्ट कर देगा। सबसे पहले क्या करना चाहिए?",
+   "hg": "Breakup ke baad ex dhamki deta hai ki agar tum wapas nahi aaye toh woh tumhari private photos post kar dega. Sabse pehle kya karna chahiye?"
+  },
+  "options": [
+   {
+    "en": "Agree to get back together so they calm down",
+    "hi": "वापस साथ आने के लिए मान जाओ ताकि वो शांत हो जाए",
+    "hg": "Wapas saath aane ke liye maan jao taaki woh calm ho jaye"
+   },
+   {
+    "en": "Keep the chat, do not forward the photos, and report with a trusted adult to 1930 or cybercrime.gov.in",
+    "hi": "चैट सँभालकर रखो, फ़ोटो आगे मत भेजो, और किसी भरोसेमंद बड़े के साथ 1930 या cybercrime.gov.in पर रिपोर्ट करो",
+    "hg": "Chat sambhal kar rakho, photos forward mat karo, aur kisi trusted adult ke saath 1930 ya cybercrime.gov.in par report karo"
+   },
+   {
+    "en": "Delete every chat and your account so there is no trace",
+    "hi": "सारी चैट और अपना अकाउंट डिलीट कर दो ताकि कोई निशान न बचे",
+    "hg": "Saari chats aur apna account delete kar do taaki koi trace na bache"
+   },
+   {
+    "en": "Threaten to post their photos too",
+    "hi": "तुम भी उनकी फ़ोटो पोस्ट करने की धमकी दो",
+    "hg": "Tum bhi unki photos post karne ki dhamki do"
+   }
+  ],
+  "answer": 1,
+  "explain": {
+   "en": "Giving in usually brings more demands, and deleting everything removes the details needed for a report. Threatening to share private images is an offence, and reporting with adult support is the safest route.",
+   "hi": "मान जाने से अक्सर माँगें और बढ़ती हैं, और सब कुछ डिलीट करने से रिपोर्ट के लिए ज़रूरी जानकारी मिट जाती है। निजी तस्वीरें शेयर करने की धमकी देना अपराध है, और किसी बड़े के साथ रिपोर्ट करना सबसे सुरक्षित रास्ता है।",
+   "hg": "Maan jaane se aksar demands aur badhti hain, aur sab kuch delete karne se report ke liye zaroori details mit jati hain. Private images share karne ki dhamki dena offence hai, aur kisi adult ke saath report karna sabse safe raasta hai."
+  }
+ }
+]

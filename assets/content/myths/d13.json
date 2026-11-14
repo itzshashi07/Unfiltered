@@ -1,0 +1,233 @@
+[
+ {
+  "id": "d13-m01",
+  "domain": "d13",
+  "tracks": [
+   "A",
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Everyone I meet in an online game is a kid like me.",
+   "hi": "ऑनलाइन गेम में जो भी मिलता है, वह मेरे जैसा ही बच्चा होता है।",
+   "hg": "Online game mein jo bhi milta hai, woh mere jaisa hi bachcha hota hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "You cannot see who is really behind a game name or a cartoon picture. It could be a child, or it could be a grown-up pretending to be one. That is why your name, school, address and photos stay with your family, and why you tell a grown-up when a player asks for them.",
+   "hi": "गेम के नाम या कार्टून वाली तस्वीर के पीछे असल में कौन है, यह तुम देख नहीं सकते। वह कोई बच्चा हो सकता है, या कोई बड़ा जो बच्चा होने का नाटक कर रहा हो। इसीलिए तुम्हारा नाम, स्कूल, पता और फ़ोटो परिवार के पास ही रहते हैं, और जब कोई खिलाड़ी ये माँगे तो तुम किसी बड़े को बताते हो।",
+   "hg": "Game ke naam ya cartoon wali picture ke peechhe asal mein kaun hai, yeh tum dekh nahi sakte. Woh koi bachcha ho sakta hai, ya koi bada jo bachcha hone ka natak kar raha ho. Isiliye tumhara naam, school, address aur photos family ke paas hi rehte hain, aur jab koi player yeh maange toh tum kisi bade ko batate ho."
+  },
+  "why": {
+   "en": "Games made for children look friendly, and players use fun names and talk about the same game. It feels like a playground, so it is easy to think everyone there is your age.",
+   "hi": "बच्चों के लिए बने गेम दोस्ताना दिखते हैं, और खिलाड़ी मज़ेदार नाम रखते हैं और उसी गेम की बातें करते हैं। सब कुछ खेल के मैदान जैसा लगता है, इसलिए यह मान लेना आसान है कि वहाँ सब तुम्हारी उम्र के हैं।",
+   "hg": "Bachchon ke liye bane games friendly dikhte hain, aur players funny naam rakhte hain aur usi game ki baatein karte hain. Sab kuch playground jaisa lagta hai, isliye yeh maan lena easy hai ki wahan sab tumhari age ke hain."
+  },
+  "refs": [
+   "unesco-itgse",
+   "wcd-childline"
+  ],
+  "lesson": "d13-l01"
+ },
+ {
+  "id": "d13-m02",
+  "domain": "d13",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Once I delete a message or photo, it is gone for ever.",
+   "hi": "एक बार मैंने मैसेज या फ़ोटो डिलीट कर दी, तो वह हमेशा के लिए ख़त्म।",
+   "hg": "Ek baar maine message ya photo delete kar di, toh woh hamesha ke liye khatam."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Deleting removes your copy, not everyone else's. The other person may already have taken a screenshot, saved the file or forwarded it, and many apps keep backups in the cloud. 'Delete for everyone' can take a message out of the other person's chat, and some apps allow this only for a limited time, but it cannot undo what they have already seen, saved or forwarded. Treat anything you send as something that could stay around.",
+   "hi": "डिलीट करने से तुम्हारी कॉपी हटती है, बाक़ी सबकी नहीं। हो सकता है सामने वाला पहले ही स्क्रीनशॉट ले चुका हो, फ़ाइल सेव कर चुका हो या आगे भेज चुका हो, और बहुत से ऐप क्लाउड में बैकअप रखते हैं। 'सबके लिए डिलीट करें' मैसेज को सामने वाले की चैट से हटा सकता है, और कुछ ऐप इसकी इजाज़त सीमित समय तक ही देते हैं, पर जो वह पहले ही देख चुका, सेव कर चुका या आगे भेज चुका है, उसे यह नहीं मिटा सकता। जो भी भेजो, यह मानकर भेजो कि वह कहीं न कहीं बना रह सकता है।",
+   "hg": "Delete karne se tumhari copy hatti hai, baaki sabki nahi. Ho sakta hai saamne wala pehle hi screenshot le chuka ho, file save kar chuka ho ya forward kar chuka ho, aur bahut se apps cloud mein backup rakhte hain. 'Delete for everyone' message ko saamne wale ki chat se hata sakta hai, aur kuch apps yeh sirf limited time tak allow karte hain, par jo woh pehle hi dekh chuka, save kar chuka ya forward kar chuka hai, usse yeh undo nahi kar sakta. Jo bhi bhejo, yeh maankar bhejo ki woh kahin na kahin bana reh sakta hai."
+  },
+  "why": {
+   "en": "On your own screen the message really does vanish, and apps advertise delete and disappearing features as privacy tools. It is natural to assume the same thing happened on every other phone.",
+   "hi": "तुम्हारी अपनी स्क्रीन से मैसेज सचमुच गायब हो जाता है, और ऐप डिलीट और गायब होने वाले फ़ीचर को प्राइवेसी के औज़ार बताकर पेश करते हैं। ऐसे में यह मान लेना स्वाभाविक है कि हर दूसरे फ़ोन पर भी यही हुआ होगा।",
+   "hg": "Tumhari apni screen se message sach mein gayab ho jaata hai, aur apps delete aur disappearing features ko privacy tools bolkar advertise karte hain. Aise mein yeh maan lena natural hai ki har doosre phone pe bhi yahi hua hoga."
+  },
+  "refs": [
+   "unesco-itgse"
+  ],
+  "lesson": "d13-l02"
+ },
+ {
+  "id": "d13-m03",
+  "domain": "d13",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "If two teenagers both agree, swapping private photos is legal and harmless.",
+   "hi": "अगर दो किशोर आपस में राज़ी हों, तो निजी फ़ोटो की अदला-बदली क़ानूनी है और इसमें कोई नुकसान नहीं।",
+   "hg": "Agar do teenagers dono raazi hon, toh private photos swap karna legal aur harmless hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "In India a sexual image of anyone under 18 is child sexual abuse material, even when it is self-taken and both people agreed. Making, sending, requesting and keeping it can be offences under the IT Act and POCSO. Beyond the law, neither person can control screenshots, backups or what happens after a fight. A teenager who was pressured into it deserves help, not blame.",
+   "hi": "भारत में 18 से कम उम्र के किसी भी इंसान की यौन तस्वीर बाल यौन शोषण सामग्री है, चाहे वह ख़ुद ली गई हो और दोनों राज़ी हों। ऐसी तस्वीर बनाना, भेजना, माँगना और रखना IT अधिनियम और पॉक्सो के तहत अपराध हो सकते हैं। क़ानून के अलावा भी, स्क्रीनशॉट, बैकअप या झगड़े के बाद क्या होगा, यह दोनों में से किसी के हाथ में नहीं होता। जिस किशोर या किशोरी पर इसके लिए दबाव डाला गया, उसे मदद मिलनी चाहिए, इल्ज़ाम नहीं।",
+   "hg": "India mein under-18 kisi bhi insaan ki sexual image child sexual abuse material hai, chahe woh khud li gayi ho aur dono raazi hon. Aisi image banana, bhejna, maangna aur rakhna IT Act aur POCSO ke under offence ho sakte hain. Law ke alawa bhi, screenshots, backups ya jhagde ke baad kya hoga, yeh dono mein se kisi ke control mein nahi hota. Jis teen pe iske liye pressure daala gaya, usse help milni chahiye, blame nahi."
+  },
+  "why": {
+   "en": "Films, shows and social media present it as a normal part of dating, and it feels private because only two phones are involved. Most teenagers have never been told how the law treats images of under-18s.",
+   "hi": "फ़िल्में, शो और सोशल मीडिया इसे डेटिंग का आम हिस्सा दिखाते हैं, और यह निजी लगता है क्योंकि इसमें सिर्फ़ दो फ़ोन शामिल होते हैं। ज़्यादातर किशोरों को कभी बताया ही नहीं गया कि क़ानून 18 से कम उम्र वालों की तस्वीरों को कैसे देखता है।",
+   "hg": "Films, shows aur social media isse dating ka normal part dikhate hain, aur yeh private lagta hai kyunki isme sirf do phones involved hote hain. Zyadatar teenagers ko kabhi bataya hi nahi gaya ki law under-18 ki images ko kaise dekhta hai."
+  },
+  "refs": [
+   "pocso-2012",
+   "cybercrime-portal"
+  ],
+  "lesson": "d13-l03"
+ },
+ {
+  "id": "d13-m04",
+  "domain": "d13",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "If you pay a blackmailer once, they delete everything and leave you alone.",
+   "hi": "ब्लैकमेलर को एक बार पैसे दे दो, तो वह सब डिलीट करके पीछा छोड़ देता है।",
+   "hg": "Blackmailer ko ek baar pay kar do, toh woh sab delete karke peechha chhod deta hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Payment proves to the blackmailer that pressure works, so the usual result is a second and larger demand. Nobody can verify that a file was deleted. What reduces the harm is stopping all replies, keeping the chat, blocking and reporting the account, and filing a complaint on cybercrime.gov.in or 1930 with a trusted person beside you.",
+   "hi": "पैसे मिलते ही ब्लैकमेलर को सबूत मिल जाता है कि दबाव काम करता है, इसलिए आम नतीजा होता है दूसरी और बड़ी माँग। कोई यह जाँच नहीं सकता कि फ़ाइल सच में डिलीट हुई या नहीं। नुकसान कम तब होता है जब हर जवाब बंद किया जाए, चैट रहने दी जाए, अकाउंट को ब्लॉक और रिपोर्ट किया जाए, और किसी भरोसेमंद इंसान को साथ लेकर cybercrime.gov.in या 1930 पर शिकायत दर्ज की जाए।",
+   "hg": "Paise milte hi blackmailer ko proof mil jaata hai ki pressure kaam karta hai, isliye usual result hota hai doosri aur badi demand. Koi verify nahi kar sakta ki file sach mein delete hui ya nahi. Harm kam tab hota hai jab har reply band kiya jaye, chat rehne di jaye, account ko block aur report kiya jaye, aur kisi trusted insaan ko saath lekar cybercrime.gov.in ya 1930 pe complaint file ki jaye."
+  },
+  "why": {
+   "en": "Panic makes any quick exit look sensible, and the blackmailer promises exactly that. Paying also seems like a way to keep the whole thing hidden from family, which feels safer in the moment.",
+   "hi": "घबराहट में बाहर निकलने का हर फटाफट रास्ता ठीक लगता है, और ब्लैकमेलर ठीक यही वादा करता है। पैसे देना पूरे मामले को परिवार से छिपाए रखने का तरीका भी लगता है, जो उस पल ज़्यादा सुरक्षित महसूस होता है।",
+   "hg": "Panic mein bahar nikalne ka har quick raasta sensible lagta hai, aur blackmailer exactly yahi promise karta hai. Pay karna poore matter ko family se chhupaye rakhne ka tareeka bhi lagta hai, jo us moment mein zyada safe feel hota hai."
+  },
+  "refs": [
+   "cybercrime-portal"
+  ],
+  "lesson": "d13-l06"
+ },
+ {
+  "id": "d13-m05",
+  "domain": "d13",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "A deepfake nude is not a real photo, so it is not really abuse and cannot be reported.",
+   "hi": "डीपफेक नग्न तस्वीर असली फ़ोटो नहीं होती, इसलिए वह असल में शोषण नहीं है और उसकी रिपोर्ट नहीं हो सकती।",
+   "hg": "Deepfake nude real photo nahi hoti, isliye woh actually abuse nahi hai aur report nahi ho sakti."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "The image is invented, but it is attached to a real person's face, name and reputation, and the distress and social damage are real. Creating or circulating a sexual deepfake without consent is image-based sexual abuse. Platforms accept reports of morphed intimate images, the cybercrime portal takes complaints, and if the person shown is under 18 the image is treated as child sexual abuse material.",
+   "hi": "तस्वीर गढ़ी हुई होती है, पर वह एक असली इंसान के चेहरे, नाम और इज़्ज़त से जुड़ी होती है, और उससे होने वाली तकलीफ़ और सामाजिक नुकसान असली होते हैं। बिना सहमति के यौन डीपफेक बनाना या फैलाना तस्वीरों के ज़रिए यौन शोषण है। प्लैटफ़ॉर्म मॉर्फ़ की हुई अंतरंग तस्वीरों की रिपोर्ट लेते हैं, साइबर क्राइम पोर्टल शिकायतें लेता है, और अगर तस्वीर में दिखाया गया इंसान 18 से कम उम्र का है तो उसे बाल यौन शोषण सामग्री माना जाता है।",
+   "hg": "Image banayi hui hoti hai, par woh ek real insaan ke face, naam aur reputation se judi hoti hai, aur usse hone wali takleef aur social damage real hote hain. Bina consent ke sexual deepfake banana ya phailana image-based sexual abuse hai. Platforms morphed intimate images ki reports lete hain, cybercrime portal complaints leta hai, aur agar image mein dikhaya gaya insaan under 18 hai toh usse child sexual abuse material maana jaata hai."
+  },
+  "why": {
+   "en": "People link abuse with a real camera and a real moment, so a computer-made picture seems like editing or a joke. The tools are also marketed as fun filters, which hides what they are being used for.",
+   "hi": "लोग शोषण को असली कैमरे और असली पल से जोड़कर देखते हैं, इसलिए कंप्यूटर से बनी तस्वीर एडिटिंग या मज़ाक जैसी लगती है। ऐसे टूल मज़ेदार फ़िल्टर बताकर बेचे भी जाते हैं, जिससे यह छिप जाता है कि उनका इस्तेमाल किस काम में हो रहा है।",
+   "hg": "Log abuse ko real camera aur real moment se jodkar dekhte hain, isliye computer se bani picture editing ya joke jaisi lagti hai. Aise tools fun filters bolkar market bhi kiye jaate hain, jisse yeh chhup jaata hai ki unka use kis kaam mein ho raha hai."
+  },
+  "refs": [
+   "cybercrime-portal",
+   "bns-2023"
+  ],
+  "lesson": "d13-l05"
+ },
+ {
+  "id": "d13-m06",
+  "domain": "d13",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Boys and young men get targeted by sextortion too, often for money.",
+   "hi": "सेक्सटॉर्शन का निशाना लड़के और नौजवान पुरुष भी बनते हैं, अक्सर पैसों के लिए।",
+   "hg": "Sextortion ka target ladke aur young men bhi bante hain, aksar paison ke liye."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. Scammers frequently pose as an attractive stranger, start a quick flirtation with a boy or young man, record a video call or collect a photo, and then demand money. Shame about 'being fooled' keeps many of them silent, which is exactly what the scam depends on. The steps are the same for everyone: stop replying, do not pay, keep the chat and report.",
+   "hi": "सही है। ठग अक्सर किसी आकर्षक अजनबी का रूप धरते हैं, किसी लड़के या नौजवान से जल्दी-जल्दी फ़्लर्ट शुरू करते हैं, वीडियो कॉल रिकॉर्ड कर लेते हैं या कोई फ़ोटो हासिल कर लेते हैं, और फिर पैसे माँगते हैं। 'बेवकूफ़ बन गया' वाली शर्म बहुतों को चुप रखती है, और ठगी इसी चुप्पी पर टिकी होती है। क़दम सबके लिए एक जैसे हैं: जवाब देना बंद करो, पैसे मत दो, चैट रहने दो और रिपोर्ट करो।",
+   "hg": "Sahi hai. Scammers aksar kisi attractive stranger ka roop lete hain, kisi ladke ya young man se jaldi-jaldi flirt shuru karte hain, video call record kar lete hain ya koi photo le lete hain, aur phir paise maangte hain. 'Bewakoof ban gaya' wali sharam bahuton ko chup rakhti hai, aur scam isi chuppi pe tika hota hai. Steps sabke liye same hain: reply band karo, pay mat karo, chat rehne do aur report karo."
+  },
+  "why": {
+   "en": "This surprises people because safety talks about online sexual harm are usually aimed at girls, and boys are expected to laugh such things off. So boys are rarely warned, and rarely asked if they are okay.",
+   "hi": "यह बात लोगों को चौंकाती है क्योंकि ऑनलाइन यौन नुकसान पर होने वाली सुरक्षा की बातें आम तौर पर लड़कियों को ध्यान में रखकर की जाती हैं, और लड़कों से उम्मीद की जाती है कि वे ऐसी बातें हँसकर टाल दें। इसलिए लड़कों को शायद ही कभी आगाह किया जाता है, और शायद ही कोई पूछता है कि वे ठीक हैं या नहीं।",
+   "hg": "Yeh baat logon ko surprise karti hai kyunki online sexual harm pe hone wali safety talks usually ladkiyon ke liye hoti hain, aur ladkon se expect kiya jaata hai ki woh aisi baatein hanskar taal dein. Isliye ladkon ko shayad hi kabhi warn kiya jaata hai, aur shayad hi koi poochhta hai ki woh theek hain ya nahi."
+  },
+  "refs": [
+   "cybercrime-portal"
+  ],
+  "lesson": "d13-l06"
+ },
+ {
+  "id": "d13-m07",
+  "domain": "d13",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Forwarding a private photo that someone else sent you can be an offence, even if you did not take it.",
+   "hi": "किसी और की भेजी हुई निजी फ़ोटो को आगे फ़ॉरवर्ड करना अपराध हो सकता है, भले ही वह फ़ोटो तुमने न ली हो।",
+   "hg": "Kisi aur ki bheji hui private photo ko aage forward karna offence ho sakta hai, chahe woh photo tumne na li ho."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. Indian law covers the sharing of private and sexually explicit images, not only the taking of them, so each person who forwards one can be committing an offence. If the person shown is under 18, even keeping the file is illegal. Every forward also multiplies the harm to the person in the picture. The right move is to not pass it on, report it and tell a trusted adult.",
+   "hi": "सही है। भारतीय क़ानून निजी और यौन रूप से स्पष्ट तस्वीरों के सिर्फ़ खींचने पर नहीं, उन्हें शेयर करने पर भी लागू होता है, इसलिए फ़ॉरवर्ड करने वाला हर इंसान अपराध कर रहा हो सकता है। अगर तस्वीर में दिख रहा इंसान 18 से कम उम्र का है, तो फ़ाइल रखना भी ग़ैरक़ानूनी है। हर फ़ॉरवर्ड तस्वीर वाले इंसान का नुकसान कई गुना बढ़ाता भी है। सही क़दम है उसे आगे न भेजना, रिपोर्ट करना और किसी भरोसेमंद बड़े को बताना।",
+   "hg": "Sahi hai. Indian law private aur sexually explicit images ke sirf kheenchne pe nahi, unhe share karne pe bhi lagu hota hai, isliye forward karne wala har insaan offence kar raha ho sakta hai. Agar image mein dikh raha insaan under 18 hai, toh file rakhna bhi illegal hai. Har forward picture wale insaan ka harm kai guna badhata bhi hai. Sahi move hai usse aage na bhejna, report karna aur kisi trusted adult ko batana."
+  },
+  "why": {
+   "en": "Many people are surprised because forwarding takes one tap and feels passive: 'I did not make it, I only passed it on.' In a busy group, responsibility seems to belong to whoever posted first.",
+   "hi": "बहुत से लोग इस पर हैरान होते हैं क्योंकि फ़ॉरवर्ड करना एक टैप का काम है और ऐसा लगता है कि हमने ख़ुद कुछ किया ही नहीं: 'मैंने बनाई नहीं, बस आगे बढ़ा दी।' भीड़ वाले ग्रुप में ज़िम्मेदारी उसी की लगती है जिसने सबसे पहले डाली।",
+   "hg": "Bahut log is pe surprise hote hain kyunki forward karna ek tap ka kaam hai aur passive lagta hai: 'Maine banayi nahi, bas aage badha di.' Busy group mein zimmedari usi ki lagti hai jisne sabse pehle post ki."
+  },
+  "refs": [
+   "pocso-2012",
+   "cybercrime-portal"
+  ],
+  "lesson": "d13-l06"
+ }
+]

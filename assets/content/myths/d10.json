@@ -1,0 +1,449 @@
+[
+ {
+  "id": "d10-m01",
+  "domain": "d10",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [
+   "penis_testicular",
+   "vulva_vaginal"
+  ],
+  "claim": {
+   "en": "Private parts need perfumed soap or antiseptic to stay clean.",
+   "hi": "निजी अंगों को साफ़ रखने के लिए ख़ुशबूदार साबुन या एंटीसेप्टिक चाहिए।",
+   "hg": "Private parts ko saaf rakhne ke liye perfumed sabun ya antiseptic chahiye."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Genital skin is delicate. Perfumed soaps, antiseptic liquids, sprays and powders strip its natural protection and can cause dryness, itching and rashes. Washing gently with clean water once a day, drying well and wearing clean cotton underwear is all that is needed. Mild unscented soap on the outer skin is fine.",
+   "hi": "जननांगों की त्वचा नाज़ुक होती है। ख़ुशबूदार साबुन, एंटीसेप्टिक लिक्विड, स्प्रे और पाउडर उसकी प्राकृतिक सुरक्षा हटा देते हैं और रूखापन, खुजली और दाने पैदा कर सकते हैं। दिन में एक बार साफ़ पानी से हल्के हाथ से धोना, अच्छी तरह सुखाना और साफ़ सूती अंडरवियर पहनना ही काफ़ी है। बाहर की त्वचा पर हल्का, बिना ख़ुशबू वाला साबुन चल सकता है।",
+   "hg": "Genitals ki skin delicate hoti hai. Perfumed sabun, antiseptic liquids, sprays aur powders uski natural protection hata dete hain aur dryness, khujli aur rashes kar sakte hain. Din mein ek baar saaf paani se halke haath se dhona, achhe se sukhana aur saaf cotton underwear pehenna hi kaafi hai. Bahar ki skin pe mild, unscented soap chal sakta hai."
+  },
+  "why": {
+   "en": "Advertisements for washes and sprays suggest that natural body smell is a problem, and many families link private parts with dirtiness, so stronger products seem more hygienic.",
+   "hi": "वॉश और स्प्रे के विज्ञापन जताते हैं कि शरीर की प्राकृतिक गंध कोई समस्या है, और बहुत-से परिवार निजी अंगों को गंदगी से जोड़ते हैं, इसलिए तेज़ प्रोडक्ट ज़्यादा साफ़-सुथरे लगते हैं।",
+   "hg": "Washes aur sprays ke ads jatate hain ki body ki natural smell koi problem hai, aur bahut families private parts ko gandagi se jodti hain, isliye strong products zyada hygienic lagte hain."
+  },
+  "refs": [
+   "nhm-rksk",
+   "who-sexual-health"
+  ],
+  "lesson": "d10-l01"
+ },
+ {
+  "id": "d10-m02",
+  "domain": "d10",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "vulva_vaginal"
+  ],
+  "claim": {
+   "en": "White discharge drains a woman's strength and always needs treatment.",
+   "hi": "सफ़ेद पानी औरत की ताक़त निचोड़ लेता है और इसका इलाज हमेशा ज़रूरी है।",
+   "hg": "Safed paani aurat ki taakat nichod leta hai aur iska ilaaj hamesha zaroori hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Normal vaginal discharge is clear or white fluid that keeps the vagina clean and moist. It is not lost nutrition and it does not cause weakness, backache or thinness. Treatment is needed only if the colour, smell or texture changes, or there is itching, burning or pain. Tiredness has other causes, such as anaemia, that deserve their own check.",
+   "hi": "योनि का सामान्य डिस्चार्ज साफ़ या सफ़ेद तरल होता है जो योनि को साफ़ और नम रखता है। यह शरीर का पोषण बाहर निकलना नहीं है और इससे कमज़ोरी, कमर दर्द या दुबलापन नहीं होता। इलाज की ज़रूरत तभी है जब रंग, गंध या गाढ़ापन बदल जाए, या खुजली, जलन या दर्द हो। थकान की दूसरी वजहें होती हैं, जैसे ख़ून की कमी (एनीमिया), जिनकी अलग से जाँच होनी चाहिए।",
+   "hg": "Normal vaginal discharge clear ya safed fluid hota hai jo vagina ko saaf aur moist rakhta hai. Yeh body ka nutrition bahar nikalna nahi hai aur isse kamzori, kamar dard ya dublapan nahi hota. Treatment ki zaroorat tabhi hai jab colour, smell ya texture badal jaaye, ya khujli, jalan ya dard ho. Thakaan ki dusri wajahein hoti hain, jaise anaemia, jinki alag se jaanch honi chahiye."
+  },
+  "why": {
+   "en": "The belief is old and widespread in South Asia, where 'safed paani' is often blamed for tiredness or body pain. With little open teaching about normal discharge, the worry passes between generations.",
+   "hi": "यह मान्यता पुरानी है और दक्षिण एशिया में दूर-दूर तक फैली है, जहाँ थकान या बदन दर्द का दोष अक्सर 'सफ़ेद पानी' पर डाल दिया जाता है। सामान्य डिस्चार्ज के बारे में खुलकर सिखाया नहीं जाता, इसलिए यह चिंता एक पीढ़ी से दूसरी में चलती जाती है।",
+   "hg": "Yeh belief purana hai aur South Asia mein door-door tak faila hai, jahan thakaan ya badan dard ka blame aksar 'safed paani' pe daal diya jaata hai. Normal discharge ke baare mein khul ke sikhaya nahi jaata, isliye yeh tension ek generation se dusri mein chalti jaati hai."
+  },
+  "refs": [
+   "who-sexual-health",
+   "nhm-rksk"
+  ],
+  "lesson": "d10-l02"
+ },
+ {
+  "id": "d10-m03",
+  "domain": "d10",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "vulva_vaginal"
+  ],
+  "claim": {
+   "en": "Washing inside the vagina (douching) or using intimate washes prevents infections.",
+   "hi": "योनि को अंदर से धोने (डूशिंग) या इंटिमेट वॉश लगाने से संक्रमण नहीं होते।",
+   "hg": "Vagina ko andar se dhone (douching) ya intimate wash lagane se infections nahi hote."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "The vagina maintains its own balance of healthy bacteria and acidity. Douching, scented washes, steaming and deodorant sprays disturb that balance and are linked with more irritation and infections, not fewer. Washing the outer vulva with water is enough. A strong or fishy smell is a reason to see a doctor, not to wash harder.",
+   "hi": "योनि अच्छे बैक्टीरिया और अम्लता का अपना संतुलन ख़ुद बनाए रखती है। डूशिंग, ख़ुशबूदार वॉश, स्टीमिंग और डियोड्रेंट स्प्रे इस संतुलन को बिगाड़ते हैं और इनका संबंध कम नहीं, ज़्यादा जलन और संक्रमण से है। बाहर की वल्वा को पानी से धोना काफ़ी है। तेज़ या मछली जैसी गंध डॉक्टर को दिखाने की वजह है, ज़्यादा ज़ोर से धोने की नहीं।",
+   "hg": "Vagina healthy bacteria aur acidity ka apna balance khud banaye rakhti hai. Douching, scented washes, steaming aur deodorant sprays is balance ko bigaadte hain aur inka link kam nahi, zyada irritation aur infections se hai. Bahar ki vulva ko paani se dhona kaafi hai. Tez ya machhli jaisi smell doctor ko dikhane ki wajah hai, zyada zor se dhone ki nahi."
+  },
+  "why": {
+   "en": "Products are marketed as 'freshness' and 'hygiene', and cleaning more seems logically safer. Shame about natural smell makes the promise attractive.",
+   "hi": "ये प्रोडक्ट 'ताज़गी' और 'हाइजीन' के नाम पर बेचे जाते हैं, और ज़्यादा सफ़ाई करना सुनने में ज़्यादा सुरक्षित लगता है। प्राकृतिक गंध को लेकर शर्म इस वादे को लुभावना बना देती है।",
+   "hg": "Yeh products 'freshness' aur 'hygiene' ke naam pe beche jaate hain, aur zyada safai karna logically zyada safe lagta hai. Natural smell ko leke sharam is promise ko attractive bana deti hai."
+  },
+  "refs": [
+   "nhs-thrush",
+   "who-sexual-health"
+  ],
+  "lesson": "d10-l02"
+ },
+ {
+  "id": "d10-m04",
+  "domain": "d10",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "A urine infection means the person has been sexually active.",
+   "hi": "पेशाब का संक्रमण होने का मतलब है कि उस इंसान ने यौन संबंध बनाए हैं।",
+   "hg": "Urine infection hone ka matlab hai ki us insaan ne sex kiya hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Urinary tract infections happen when bacteria, usually from the person's own bowel, enter the urethra. Children, teenagers and adults who have never had sex get them. Low water intake, holding urine and a short urethra raise the risk. Sexual activity is one possible trigger among several, so a UTI cannot tell you whether someone has had sex, and it is never a reason to judge anyone.",
+   "hi": "मूत्र मार्ग का संक्रमण तब होता है जब बैक्टीरिया, आमतौर पर उसी इंसान की आँत के, मूत्रमार्ग में पहुँच जाते हैं। यह उन बच्चों, किशोरों और वयस्कों को भी होता है जिन्होंने कभी सेक्स नहीं किया। कम पानी पीना, पेशाब रोकना और छोटा मूत्रमार्ग इसका ख़तरा बढ़ाते हैं। यौन गतिविधि कई संभावित वजहों में से बस एक है, इसलिए UTI से यह पता नहीं चलता कि किसी ने सेक्स किया है या नहीं, और यह किसी को जज करने की वजह कभी नहीं है।",
+   "hg": "Urinary tract infection tab hota hai jab bacteria, usually usi insaan ki bowel ke, urethra mein pahunch jaate hain. Yeh un bachchon, teenagers aur adults ko bhi hota hai jinhone kabhi sex nahi kiya. Kam paani peena, urine rokna aur chhoti urethra iska risk badhate hain. Sexual activity kai possible triggers mein se bas ek hai, isliye UTI se yeh pata nahi chalta ki kisi ne sex kiya hai ya nahi, aur yeh kisi ko judge karne ki wajah kabhi nahi hai."
+  },
+  "why": {
+   "en": "Because UTIs are more frequent in sexually active women, and the symptoms are in the genital area, people wrongly assume sex is the only cause, and stigma does the rest.",
+   "hi": "चूँकि यौन रूप से सक्रिय महिलाओं में UTI ज़्यादा होता है, और लक्षण जननांगों के आसपास होते हैं, लोग ग़लती से मान लेते हैं कि सेक्स ही इसकी अकेली वजह है, और बाक़ी काम बदनामी का डर कर देता है।",
+   "hg": "Kyunki sexually active women mein UTI zyada hota hai, aur symptoms genital area mein hote hain, log galti se maan lete hain ki sex hi iski akeli wajah hai, aur baaki kaam stigma kar deta hai."
+  },
+  "refs": [
+   "who-sexual-health",
+   "who-sti"
+  ],
+  "lesson": "d10-l02"
+ },
+ {
+  "id": "d10-m05",
+  "domain": "d10",
+  "tracks": [
+   "C",
+   "D"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [
+   "penis_testicular"
+  ],
+  "claim": {
+   "en": "Sudden severe pain in a testicle is an emergency, even if it starts in the middle of the night.",
+   "hi": "अंडकोष में अचानक तेज़ दर्द इमरजेंसी है, भले ही वह आधी रात को शुरू हो।",
+   "hg": "Testicle mein achanak tez dard emergency hai, chahe woh aadhi raat ko shuru ho."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. Sudden severe testicle pain can mean testicular torsion: the testicle twists and its blood supply stops. It is most common in teenagers and can begin during sleep. The testicle can be permanently damaged within hours, so it needs a hospital emergency department immediately, not a wait until morning.",
+   "hi": "सही। अंडकोष में अचानक तेज़ दर्द का मतलब टेस्टिकुलर टॉर्शन हो सकता है: अंडकोष मुड़ जाता है और उसकी ख़ून की सप्लाई रुक जाती है। यह किशोरों में सबसे आम है और नींद में भी शुरू हो सकता है। अंडकोष को कुछ ही घंटों में हमेशा का नुक़सान हो सकता है, इसलिए तुरंत अस्पताल की इमरजेंसी में जाना ज़रूरी है, सुबह तक इंतज़ार करना नहीं।",
+   "hg": "Sahi. Testicle mein achanak tez dard ka matlab testicular torsion ho sakta hai: testicle mud jaata hai aur uski blood supply ruk jaati hai. Yeh teenagers mein sabse common hai aur neend mein bhi shuru ho sakta hai. Testicle ko kuch hi ghanton mein permanent damage ho sakta hai, isliye turant hospital emergency jaana zaroori hai, subah tak wait karna nahi."
+  },
+  "why": {
+   "en": "Many people expect emergencies to involve bleeding or accidents, and pain in the genitals feels too embarrassing to mention, so boys often wait and hope it settles.",
+   "hi": "बहुत-से लोग सोचते हैं कि इमरजेंसी में ख़ून बहता है या कोई हादसा होता है, और जननांगों के दर्द का ज़िक्र करने में बहुत शर्म आती है, इसलिए लड़के अक्सर इस उम्मीद में रुके रहते हैं कि दर्द अपने-आप ठीक हो जाएगा।",
+   "hg": "Bahut log sochte hain ki emergency mein khoon behta hai ya koi accident hota hai, aur genitals ke dard ka zikr karne mein bahut sharam aati hai, isliye ladke aksar is umeed mein ruke rehte hain ki dard apne aap theek ho jaayega."
+  },
+  "refs": [
+   "who-sexual-health",
+   "mha-erss"
+  ],
+  "lesson": "d10-l03"
+ },
+ {
+  "id": "d10-m06",
+  "domain": "d10",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [
+   "penis_testicular"
+  ],
+  "claim": {
+   "en": "Erection problems can be an early warning sign of heart disease or diabetes.",
+   "hi": "इरेक्शन की समस्या दिल की बीमारी या डायबिटीज़ की शुरुआती चेतावनी हो सकती है।",
+   "hg": "Erection ki problem heart disease ya diabetes ki early warning ho sakti hai."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. Erections depend on healthy blood vessels and nerves. Conditions that damage them, such as diabetes, high blood pressure, high cholesterol and smoking-related vessel disease, can show up first as erection difficulty. That is why doctors check blood pressure, blood sugar and other risk factors when someone has persistent erectile dysfunction.",
+   "hi": "सही। इरेक्शन स्वस्थ ख़ून की नलियों और नसों पर निर्भर करता है। जो स्थितियाँ इन्हें नुक़सान पहुँचाती हैं, जैसे डायबिटीज़, हाई ब्लड प्रेशर, हाई कोलेस्ट्रॉल और धूम्रपान से होने वाली नलियों की बीमारी, वे सबसे पहले इरेक्शन की दिक़्क़त के रूप में सामने आ सकती हैं। इसीलिए जब किसी को लगातार इरेक्टाइल डिसफ़ंक्शन हो, तो डॉक्टर ब्लड प्रेशर, ब्लड शुगर और दूसरे जोखिम जाँचते हैं।",
+   "hg": "Sahi. Erection healthy blood vessels aur nerves pe depend karta hai. Jo conditions inhe damage karti hain, jaise diabetes, high blood pressure, high cholesterol aur smoking se hone wali vessel disease, woh sabse pehle erection ki difficulty ke roop mein saamne aa sakti hain. Isiliye jab kisi ko lagataar erectile dysfunction ho, toh doctors blood pressure, blood sugar aur dusre risk factors check karte hain."
+  },
+  "why": {
+   "en": "Erection problems are usually discussed as a matter of 'manliness' or mood, so their link to general physical health surprises many people.",
+   "hi": "इरेक्शन की समस्याओं पर आमतौर पर 'मर्दानगी' या मूड के मामले की तरह बात होती है, इसलिए शरीर की आम सेहत से इनका संबंध बहुत-से लोगों को चौंकाता है।",
+   "hg": "Erection ki problems pe usually 'mardaangi' ya mood ke maamle ki tarah baat hoti hai, isliye general physical health se inka link bahut logon ko surprise karta hai."
+  },
+  "refs": [
+   "nhs-ed"
+  ],
+  "lesson": "d10-l04"
+ },
+ {
+  "id": "d10-m07",
+  "domain": "d10",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "men",
+   "women"
+  ],
+  "body": [
+   "pregnancy_repro"
+  ],
+  "claim": {
+   "en": "Infertility is almost always the woman's problem.",
+   "hi": "बच्चा न होना लगभग हमेशा औरत की ही कमी होती है।",
+   "hg": "Bachcha na hona lagbhag hamesha aurat ki hi problem hoti hai."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Infertility can arise from the male partner, the female partner, both together, or remain unexplained. Male factors such as low sperm count or poor sperm movement are involved in a large share of cases. Both partners should be evaluated from the start. Blaming women has no medical basis and causes serious emotional and social harm.",
+   "hi": "इनफर्टिलिटी की वजह पुरुष पार्टनर में, महिला पार्टनर में, दोनों में साथ-साथ हो सकती है, या पता ही न चले। पुरुषों से जुड़ी वजहें, जैसे शुक्राणुओं की कम संख्या या कमज़ोर गति, बड़ी संख्या में मामलों में शामिल होती हैं। दोनों पार्टनरों की जाँच शुरू से ही होनी चाहिए। औरतों को दोष देने का कोई मेडिकल आधार नहीं है और इससे गहरा भावनात्मक और सामाजिक नुक़सान होता है।",
+   "hg": "Infertility ki wajah male partner mein, female partner mein, dono mein saath-saath ho sakti hai, ya pata hi na chale. Male factors, jaise low sperm count ya kamzor sperm movement, bade hisse ke cases mein involved hote hain. Dono partners ki jaanch shuru se hi honi chahiye. Auraton ko blame karne ka koi medical basis nahi hai aur isse gehra emotional aur social nuksaan hota hai."
+  },
+  "why": {
+   "en": "Pregnancy happens in the woman's body, so problems are assumed to start there. In many families social pressure falls on the wife, and men are rarely asked to get tested.",
+   "hi": "गर्भ औरत के शरीर में ठहरता है, इसलिए मान लिया जाता है कि दिक़्क़त भी वहीं से शुरू होती है। बहुत-से परिवारों में सामाजिक दबाव पत्नी पर पड़ता है, और पुरुषों से जाँच करवाने को शायद ही कभी कहा जाता है।",
+   "hg": "Pregnancy aurat ki body mein hoti hai, isliye maan liya jaata hai ki problem bhi wahin se shuru hoti hai. Bahut families mein social pressure wife pe padta hai, aur men se test karwane ko shayad hi kabhi kaha jaata hai."
+  },
+  "refs": [
+   "who-infertility"
+  ],
+  "lesson": "d10-l05"
+ },
+ {
+  "id": "d10-m08",
+  "domain": "d10",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [
+   "penis_testicular"
+  ],
+  "claim": {
+   "en": "A circumcised penis is more manly, and an uncircumcised one is dirty.",
+   "hi": "ख़तना हुआ लिंग ज़्यादा मर्दाना होता है, और बिना ख़तना वाला गंदा।",
+   "hg": "Circumcised penis zyada mardana hota hai, aur uncircumcised wala ganda."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Circumcision is removal of the foreskin for religious, cultural or medical reasons. It changes nothing about masculinity, strength or fertility. An uncircumcised penis stays clean with a daily rinse under the foreskin. Research does show circumcision lowers the risk of some infections, but it never replaces condoms. Both kinds of penis are normal and healthy.",
+   "hi": "ख़तना यानी धार्मिक, सांस्कृतिक या मेडिकल कारणों से ऊपरी त्वचा को हटाना। इससे मर्दानगी, ताक़त या प्रजनन क्षमता में कुछ नहीं बदलता। बिना ख़तना वाला लिंग ऊपरी त्वचा के नीचे रोज़ पानी से धोने पर साफ़ रहता है। शोध यह ज़रूर दिखाता है कि ख़तने से कुछ संक्रमणों का ख़तरा घटता है, पर यह कंडोम की जगह कभी नहीं ले सकता। दोनों तरह के लिंग सामान्य और स्वस्थ हैं।",
+   "hg": "Circumcision matlab religious, cultural ya medical reasons se foreskin hatana. Isse mardangi, taakat ya fertility mein kuch nahi badalta. Uncircumcised penis foreskin ke neeche roz paani se dhone pe saaf rehta hai. Research yeh zaroor dikhati hai ki circumcision se kuch infections ka risk kam hota hai, par yeh condom ki jagah kabhi nahi le sakta. Dono tarah ke penis normal aur healthy hain."
+  },
+  "why": {
+   "en": "In India circumcision is tied to religious and community identity, so a small body difference gets loaded with ideas of purity, belonging and manhood on every side. Boys also tease whatever looks different from their own.",
+   "hi": "भारत में ख़तना धार्मिक और सामुदायिक पहचान से जुड़ा है, इसलिए शरीर के एक छोटे-से फ़र्क़ पर हर तरफ़ से पवित्रता, अपनेपन और मर्दानगी के विचार लाद दिए जाते हैं। लड़के भी हर उस चीज़ का मज़ाक़ उड़ाते हैं जो उनसे अलग दिखे।",
+   "hg": "India mein circumcision religious aur community identity se juda hai, isliye body ke ek chhote se fark pe har taraf se purity, belonging aur mardangi ke ideas laad diye jaate hain. Ladke bhi har us cheez ka mazaak udaate hain jo unse alag dikhe."
+  },
+  "refs": [
+   "nhs-tight-foreskin",
+   "who-sexual-health"
+  ],
+  "lesson": "d10-l06"
+ },
+ {
+  "id": "d10-m09",
+  "domain": "d10",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "men"
+  ],
+  "body": [
+   "penis_testicular",
+   "hormones_changes"
+  ],
+  "claim": {
+   "en": "Bodybuilding steroids can shrink the testicles and lower sperm count.",
+   "hi": "बॉडी बनाने वाले स्टेरॉयड अंडकोष को सिकोड़ सकते हैं और शुक्राणुओं की संख्या घटा सकते हैं।",
+   "hg": "Bodybuilding steroids testicles ko shrink kar sakte hain aur sperm count gira sakte hain."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. Anabolic steroids are synthetic testosterone. When the body detects plenty of it, the brain stops sending the signals that keep the testicles working, so they get smaller and make fewer sperm, or none. Fertility often recovers some months after stopping, but not always and not quickly. Muscles built this way can cost fertility.",
+   "hi": "सही। एनाबॉलिक स्टेरॉयड कृत्रिम रूप से बनाया गया टेस्टोस्टेरोन है। जब शरीर को यह भरपूर मात्रा में मिलता है, तो दिमाग़ वे संकेत भेजना बंद कर देता है जो अंडकोष को काम पर लगाए रखते हैं, इसलिए वे छोटे हो जाते हैं और कम शुक्राणु बनाते हैं, या बिल्कुल नहीं। छोड़ने के कुछ महीनों बाद प्रजनन क्षमता अक्सर लौट आती है, पर हमेशा नहीं और जल्दी नहीं। इस तरह बनाई गई मसल्स की क़ीमत प्रजनन क्षमता से चुकानी पड़ सकती है।",
+   "hg": "Sahi. Anabolic steroids synthetic testosterone hain. Jab body ko yeh bharpoor milta hai, toh brain woh signals bhejna band kar deta hai jo testicles ko kaam pe lagaye rakhte hain, isliye woh chhote ho jaate hain aur kam sperm banate hain, ya bilkul nahi. Chhodne ke kuch mahine baad fertility aksar wapas aa jaati hai, par hamesha nahi aur jaldi nahi. Is tarah banayi muscles ki keemat fertility se chukani pad sakti hai."
+  },
+  "why": {
+   "en": "It sounds backwards: testosterone is seen as the 'male power' hormone, so more of it should mean more of everything. People selling steroids in gyms talk only about gains and call the side effects rumours.",
+   "hi": "यह उल्टा लगता है: टेस्टोस्टेरोन को 'मर्दाना ताक़त' का हार्मोन माना जाता है, तो ज़्यादा टेस्टोस्टेरोन का मतलब हर चीज़ ज़्यादा होना चाहिए। जिम में स्टेरॉयड बेचने वाले सिर्फ़ फ़ायदे गिनाते हैं और नुक़सान को अफ़वाह बता देते हैं।",
+   "hg": "Yeh ulta lagta hai: testosterone ko 'mardana power' ka hormone maana jaata hai, toh zyada testosterone ka matlab sab kuch zyada hona chahiye. Gym mein steroids bechne wale sirf gains ki baat karte hain aur side effects ko afwaah bol dete hain."
+  },
+  "refs": [
+   "who-infertility"
+  ],
+  "lesson": "d10-l06"
+ },
+ {
+  "id": "d10-m10",
+  "domain": "d10",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "vulva_vaginal"
+  ],
+  "claim": {
+   "en": "Vaginal itching or discharge means a girl is dirty or has been sleeping around.",
+   "hi": "योनि में खुजली या डिस्चार्ज का मतलब है कि लड़की गंदी है या उसके कई लोगों से संबंध हैं।",
+   "hg": "Vaginal khujli ya discharge ka matlab hai ki ladki gandi hai ya uske kai logon se relations hain."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "The most common causes are thrush, a yeast overgrowth, and bacterial vaginosis, a shift in the vagina's own bacteria. Neither is classed as a sexually transmitted infection, and people who have never had sex get thrush. Antibiotics, diabetes, pregnancy and damp tight clothes can trigger thrush; douching and scented washes make BV likelier. Some sexually transmitted infections also cause discharge or itching, so a doctor should check and treat it. Whatever the cause, it needs treatment, not judgement.",
+   "hi": "सबसे आम वजहें हैं थ्रश, यानी यीस्ट का ज़्यादा बढ़ जाना, और बैक्टीरियल वेजिनोसिस, यानी योनि के अपने बैक्टीरिया के संतुलन का बिगड़ना। दोनों में से कोई भी यौन संचारित संक्रमण में नहीं गिना जाता, और थ्रश उन लोगों को भी होता है जिन्होंने कभी सेक्स नहीं किया। एंटीबायोटिक, डायबिटीज़, गर्भावस्था और गीले, कसे कपड़े थ्रश शुरू कर सकते हैं; योनि को अंदर से धोना और ख़ुशबूदार वॉश BV की संभावना बढ़ाते हैं। कुछ यौन संचारित संक्रमणों में भी डिस्चार्ज या खुजली होती है, इसलिए डॉक्टर से जाँच और इलाज करवाना चाहिए। वजह जो भी हो, यह इलाज की चीज़ है, किसी को जज करने की नहीं।",
+   "hg": "Sabse common wajah hain thrush, yaani yeast ka overgrowth, aur bacterial vaginosis, yaani vagina ke apne bacteria ka balance bigadna. Dono mein se koi bhi sexually transmitted infection mein count nahi hota, aur thrush un logon ko bhi hota hai jinhone kabhi sex nahi kiya. Antibiotics, diabetes, pregnancy aur geele, tight kapde thrush trigger kar sakte hain; douching aur scented washes BV ka chance badhate hain. Kuch sexually transmitted infections mein bhi discharge ya khujli hoti hai, isliye doctor se check aur treatment karwana chahiye. Wajah jo bhi ho, yeh treat karne ki cheez hai, judge karne ki nahi."
+  },
+  "why": {
+   "en": "Anything involving the genitals gets linked to sex and morality, and girls are taught that discharge is shameful. So a medical imbalance is read as a flaw in character, and many hide symptoms instead of getting treated.",
+   "hi": "जननांगों से जुड़ी हर बात को सेक्स और चरित्र से जोड़ दिया जाता है, और लड़कियों को सिखाया जाता है कि डिस्चार्ज शर्म की चीज़ है। इसलिए शरीर के एक असंतुलन को चरित्र की कमी समझ लिया जाता है, और बहुत-सी लड़कियाँ इलाज करवाने की जगह लक्षण छिपाती हैं।",
+   "hg": "Genitals se judi har baat ko sex aur character se jod diya jaata hai, aur ladkiyon ko sikhaya jaata hai ki discharge sharam ki cheez hai. Isliye ek medical imbalance ko character ki kami samajh liya jaata hai, aur bahut si ladkiyan treatment lene ki jagah symptoms chhupati hain."
+  },
+  "refs": [
+   "nhs-thrush",
+   "who-sexual-health"
+  ],
+  "lesson": "d10-l07"
+ },
+ {
+  "id": "d10-m11",
+  "domain": "d10",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Most breast lumps in young women turn out not to be cancer.",
+   "hi": "युवा महिलाओं में स्तन की ज़्यादातर गाँठें कैंसर नहीं निकलतीं।",
+   "hg": "Young women mein zyadatar breast lumps cancer nahi nikalte."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. In teenagers and women in their twenties and thirties, most lumps are benign: fibroadenomas, cysts or normal hormonal lumpiness that changes with the cycle. Breast cancer becomes more common with age. But 'most' is not 'all', and nobody can tell by touch, so a new lump that persists should still be examined, usually with an ultrasound.",
+   "hi": "सही। किशोर उम्र और बीस से चालीस के बीच की महिलाओं में ज़्यादातर गाँठें कैंसर नहीं होतीं: फ़ाइब्रोएडिनोमा, सिस्ट या हार्मोन की वजह से होने वाला सामान्य गाँठदारपन जो चक्र के साथ बदलता है। ब्रेस्ट कैंसर उम्र के साथ ज़्यादा आम होता जाता है। पर 'ज़्यादातर' का मतलब 'सब' नहीं है, और छूकर कोई नहीं बता सकता, इसलिए जो नई गाँठ बनी रहे उसकी जाँच फिर भी होनी चाहिए, आमतौर पर अल्ट्रासाउंड से।",
+   "hg": "Sahi. Teenagers aur twenties-thirties ki women mein zyadatar lumps benign hote hain: fibroadenoma, cysts ya hormones ki wajah se hone wala normal lumpiness jo cycle ke saath badalta hai. Breast cancer umar ke saath zyada common hota jaata hai. Par 'zyadatar' ka matlab 'sab' nahi hai, aur chhoo ke koi nahi bata sakta, isliye jo nayi gaanth bani rahe uski jaanch phir bhi honi chahiye, usually ultrasound se."
+  },
+  "why": {
+   "en": "The word 'lump' is so tied to cancer that fear takes over. That fear cuts both ways: some people panic, and others avoid the doctor because they dread what they might hear.",
+   "hi": "'गाँठ' शब्द कैंसर से इतना जुड़ चुका है कि डर हावी हो जाता है। यह डर दोनों तरफ़ काम करता है: कुछ लोग घबरा जाते हैं, और कुछ डॉक्टर के पास जाने से ही बचते हैं क्योंकि उन्हें डर होता है कि क्या सुनना पड़ेगा।",
+   "hg": "'Gaanth' word cancer se itna jud chuka hai ki darr haavi ho jaata hai. Yeh darr dono taraf kaam karta hai: kuch log panic kar jaate hain, aur kuch doctor ke paas jaane se hi bachte hain kyunki unhe darr hota hai ki kya sunna padega."
+  },
+  "refs": [
+   "who-breast-cancer"
+  ],
+  "lesson": "d10-l07"
+ },
+ {
+  "id": "d10-m12",
+  "domain": "d10",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "claim": {
+   "en": "Older people and disabled people do not have sexual feelings, and should not.",
+   "hi": "बुज़ुर्गों और विकलांग लोगों में यौन भावनाएँ नहीं होतीं, और होनी भी नहीं चाहिए।",
+   "hg": "Buzurgon aur disabled logon mein sexual feelings nahi hoti, aur honi bhi nahi chahiye."
+  },
+  "verdict": "myth",
+  "fact": {
+   "en": "Desire and the need for touch and closeness do not switch off at a certain age or because of a disability. Many people stay sexually active into their seventies and beyond, and disabled people have the same range of desire as anyone. What changes is the body's pace and what is comfortable. Treating people as sexless denies them information, privacy, contraception and protection from infection and abuse.",
+   "hi": "इच्छा और स्पर्श व नज़दीकी की ज़रूरत किसी तय उम्र पर या विकलांगता की वजह से बंद नहीं हो जाती। बहुत-से लोग सत्तर की उम्र और उसके बाद भी यौन रूप से सक्रिय रहते हैं, और विकलांग लोगों में इच्छा का दायरा उतना ही होता है जितना किसी और में। जो बदलता है वह है शरीर की रफ़्तार और यह कि क्या आरामदेह है। लोगों को यौन भावनाओं से ख़ाली मान लेना उनसे जानकारी, निजता, गर्भनिरोध और संक्रमण व शोषण से बचाव छीन लेता है।",
+   "hg": "Desire aur touch aur closeness ki zaroorat kisi fixed umar pe ya disability ki wajah se switch off nahi hoti. Bahut log sattar ki umar aur uske baad bhi sexually active rehte hain, aur disabled logon mein desire ki range utni hi hoti hai jitni kisi aur mein. Jo badalta hai woh hai body ki pace aur kya comfortable hai. Logon ko 'sexless' maan lena unse information, privacy, contraception aur infection aur abuse se protection chheen leta hai."
+  },
+  "why": {
+   "en": "Films and adverts show desire only between young, able-bodied people. Families feel awkward imagining a parent or a disabled relative as sexual, so silence feels easier, and that silence gets mistaken for absence.",
+   "hi": "फ़िल्में और विज्ञापन इच्छा को सिर्फ़ जवान और बिना विकलांगता वाले लोगों के बीच दिखाते हैं। परिवारों को माता-पिता या किसी विकलांग रिश्तेदार की यौन ज़िंदगी के बारे में सोचना अटपटा लगता है, इसलिए चुप रहना आसान लगता है, और इसी चुप्पी को इच्छा का न होना समझ लिया जाता है।",
+   "hg": "Films aur ads desire sirf young, able-bodied logon ke beech dikhate hain. Families ko parents ya kisi disabled relative ko sexual insaan ki tarah sochna awkward lagta hai, isliye chup rehna easy lagta hai, aur isi chuppi ko desire ka na hona samajh liya jaata hai."
+  },
+  "refs": [
+   "who-sexual-health"
+  ],
+  "lesson": "d10-l08"
+ },
+ {
+  "id": "d10-m13",
+  "domain": "d10",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "women"
+  ],
+  "body": [
+   "pregnancy_repro",
+   "menstrual"
+  ],
+  "claim": {
+   "en": "A woman can still get pregnant in her late forties, even after her periods have become irregular.",
+   "hi": "चालीस के आख़िरी सालों में भी औरत गर्भवती हो सकती है, भले ही पीरियड अनियमित हो चुके हों।",
+   "hg": "Late forties mein bhi aurat pregnant ho sakti hai, bhale hi periods irregular ho chuke hon."
+  },
+  "verdict": "fact",
+  "fact": {
+   "en": "True. During perimenopause ovulation becomes unpredictable, not absent, so pregnancy is less likely but still possible. Menopause is confirmed only after 12 months in a row without a period, and doctors usually advise continuing contraception until then, sometimes longer. A skipped period at this age can be perimenopause or pregnancy, so a test is sensible. Condoms still matter with a new partner, because age does not protect against STIs.",
+   "hi": "सही। पेरिमेनोपॉज़ में ओव्यूलेशन बंद नहीं होता, बस उसका समय अनिश्चित हो जाता है, इसलिए गर्भ ठहरने की संभावना कम होती है पर रहती है। मेनोपॉज़ तभी माना जाता है जब लगातार 12 महीने पीरियड न आए हों, और डॉक्टर आमतौर पर तब तक, कभी-कभी उससे भी ज़्यादा समय तक, गर्भनिरोध जारी रखने की सलाह देते हैं। इस उम्र में पीरियड का छूटना पेरिमेनोपॉज़ भी हो सकता है और गर्भ भी, इसलिए टेस्ट कर लेना समझदारी है। नए पार्टनर के साथ कंडोम अब भी ज़रूरी है, क्योंकि उम्र एसटीआई से नहीं बचाती।",
+   "hg": "Sahi. Perimenopause mein ovulation band nahi hota, bas unpredictable ho jaata hai, isliye pregnancy ka chance kam hota hai par rehta hai. Menopause tabhi confirm hota hai jab lagataar 12 mahine period na aaya ho, aur doctors usually tab tak, kabhi-kabhi usse bhi zyada time tak, contraception jaari rakhne ki salaah dete hain. Is umar mein period miss hona perimenopause bhi ho sakta hai aur pregnancy bhi, isliye test kar lena sensible hai. Naye partner ke saath condom abhi bhi zaroori hai, kyunki umar STIs se nahi bachati."
+  },
+  "why": {
+   "en": "Irregular periods feel like the system shutting down, and many people assume fertility ends in the early forties. Unplanned pregnancies at this age often come from exactly that assumption.",
+   "hi": "अनियमित पीरियड से लगता है कि शरीर का यह सिस्टम बंद हो रहा है, और बहुत-से लोग मान लेते हैं कि चालीस की शुरुआत में ही प्रजनन क्षमता ख़त्म हो जाती है। इस उम्र के अनचाहे गर्भ अक्सर इसी धारणा से आते हैं।",
+   "hg": "Irregular periods se lagta hai ki system band ho raha hai, aur bahut log maan lete hain ki fertility early forties mein hi khatam ho jaati hai. Is umar ki unplanned pregnancies aksar isi assumption se aati hain."
+  },
+  "refs": [
+   "who-menopause",
+   "who-fp"
+  ],
+  "lesson": "d10-l08"
+ }
+]

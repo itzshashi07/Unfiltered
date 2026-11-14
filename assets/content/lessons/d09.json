@@ -1,0 +1,1082 @@
+[
+ {
+  "id": "d09-l01",
+  "domain": "d09",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 1,
+  "minutes": 6,
+  "unesco": [
+   8
+  ],
+  "title": {
+   "en": "STIs 101: What They Are and How They Spread",
+   "hi": "एसटीआई की पहली क्लास: ये क्या हैं और कैसे फैलते हैं",
+   "hg": "STIs 101: Yeh Kya Hain aur Kaise Failte Hain"
+  },
+  "subtitle": {
+   "en": "Germs, not character flaws",
+   "hi": "कीटाणु, चरित्र का दाग़ नहीं",
+   "hg": "Germs hain, character ka daag nahi"
+  },
+  "hook": {
+   "en": "An STI is an infection, not a verdict on anyone's character. And most of them do not announce themselves.",
+   "hi": "एसटीआई एक संक्रमण है, किसी के चरित्र पर फ़ैसला नहीं। और इनमें से ज़्यादातर अपने आने की ख़बर नहीं देते।",
+   "hg": "STI ek infection hai, kisi ke character par verdict nahi. Aur inme se zyada-tar apne aane ka announcement nahi karte."
+  },
+  "objectives": [
+   {
+    "en": "Explain what an STI is and what causes it.",
+    "hi": "समझाना कि एसटीआई क्या है और यह किस वजह से होता है।",
+    "hg": "Samjhana ki STI kya hai aur yeh kis wajah se hota hai."
+   },
+   {
+    "en": "List the ways STIs do and do not spread.",
+    "hi": "बताना कि एसटीआई किन तरीक़ों से फैलते हैं और किनसे नहीं।",
+    "hg": "Batana ki STIs kin tareekon se failte hain aur kinse nahi."
+   },
+   {
+    "en": "Understand why many infections cause no symptoms.",
+    "hi": "समझना कि बहुत से संक्रमणों में कोई लक्षण क्यों नहीं दिखते।",
+    "hg": "Samajhna ki bahut se infections mein koi symptoms kyun nahi dikhte."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "What an STI is",
+     "hi": "एसटीआई क्या है",
+     "hg": "STI kya hai"
+    },
+    "body": {
+     "en": "A sexually transmitted infection (STI) is an infection passed from one person to another mainly through sexual contact. STIs are caused by germs: bacteria (chlamydia, gonorrhoea, syphilis), viruses (HIV, HPV, herpes, hepatitis B) and a parasite (trichomoniasis). You may hear the older term STD, where D stands for disease; 'infection' is more accurate because a person can carry the germ without being ill. STIs are common all over the world and affect people of every age, gender, religion and background. Getting one says something about a germ, not about a person's character.",
+     "hi": "यौन संचारित संक्रमण (STI) ऐसा संक्रमण है जो मुख्य रूप से यौन संपर्क के ज़रिए एक व्यक्ति से दूसरे में पहुँचता है। एसटीआई कीटाणुओं से होते हैं: बैक्टीरिया (क्लैमाइडिया, गोनोरिया, सिफ़लिस), वायरस (एचआईवी, एचपीवी, हर्पीज़, हेपेटाइटिस बी) और एक परजीवी (ट्राइकोमोनिएसिस)। तुमने पुराना शब्द STD भी सुना होगा, जिसमें D का मतलब disease यानी बीमारी है; 'संक्रमण' कहना ज़्यादा सही है, क्योंकि कीटाणु शरीर में हो सकता है और व्यक्ति फिर भी बीमार न हो। एसटीआई पूरी दुनिया में आम हैं और हर उम्र, जेंडर, धर्म और पृष्ठभूमि के लोगों को होते हैं। एसटीआई होना एक कीटाणु के बारे में कुछ बताता है, इंसान के चरित्र के बारे में नहीं।",
+     "hg": "Sexually transmitted infection (STI) aisa infection hai jo mainly sexual contact ke through ek insaan se doosre mein pahunchta hai. STIs germs se hote hain: bacteria (chlamydia, gonorrhoea, syphilis), viruses (HIV, HPV, herpes, hepatitis B) aur ek parasite (trichomoniasis). Tumne purana term STD bhi suna hoga, jisme D ka matlab disease hai; 'infection' bolna zyada accurate hai, kyunki germ body mein ho sakta hai aur insaan phir bhi beemar na ho. STIs poori duniya mein common hain aur har age, gender, religion aur background ke logon ko hote hain. STI hona ek germ ke baare mein kuch batata hai, insaan ke character ke baare mein nahi."
+    }
+   },
+   {
+    "h": {
+     "en": "How they spread, and how they don't",
+     "hi": "ये कैसे फैलते हैं, और कैसे नहीं",
+     "hg": "Yeh kaise failte hain, aur kaise nahi"
+    },
+    "body": {
+     "en": "STIs pass through sexual contact involving the genitals, anus or mouth, where body fluids such as semen, vaginal fluid or blood are exchanged, or where infected skin touches skin. Some, like HIV, hepatitis B and syphilis, can also pass through infected blood, for example on shared needles, and from a pregnant person to the baby during pregnancy or birth; HIV can also pass through breastfeeding. They do not spread through hugging, shaking hands, sharing food, coughing, swimming pools, toilet seats or mosquito bites. So sitting, eating and studying next to a person living with HIV carries no risk.",
+     "hi": "एसटीआई ऐसे यौन संपर्क से फैलते हैं जिसमें जननांग, गुदा या मुँह शामिल हों, जहाँ वीर्य, योनि के स्राव या ख़ून जैसे शरीर के तरल एक से दूसरे में पहुँचें, या जहाँ संक्रमित त्वचा दूसरी त्वचा को छुए। कुछ संक्रमण, जैसे एचआईवी, हेपेटाइटिस बी और सिफ़लिस, संक्रमित ख़ून से भी फैल सकते हैं, मसलन साझा की गई सुइयों से, और गर्भावस्था या प्रसव के दौरान गर्भवती व्यक्ति से बच्चे में भी; एचआईवी स्तनपान से भी फैल सकता है। ये गले लगने, हाथ मिलाने, साथ खाना खाने, खाँसने, स्विमिंग पूल, टॉयलेट सीट या मच्छर के काटने से नहीं फैलते। इसलिए एचआईवी के साथ जी रहे व्यक्ति के पास बैठने, साथ खाने और साथ पढ़ने में कोई ख़तरा नहीं है।",
+     "hg": "STIs aise sexual contact se failte hain jisme genitals, anus ya mouth involve hon, jahan semen, vaginal fluid ya blood jaise body fluids exchange hon, ya jahan infected skin doosri skin ko touch kare. Kuch infections, jaise HIV, hepatitis B aur syphilis, infected blood se bhi fail sakte hain, jaise shared needles se, aur pregnancy ya delivery ke dauraan pregnant insaan se baby mein bhi; HIV breastfeeding se bhi fail sakta hai. Yeh hug karne, haath milane, khana share karne, khaansne, swimming pool, toilet seat ya machhar ke kaatne se nahi failte. Isliye HIV ke saath jee rahe insaan ke paas baithne, saath khane aur saath padhne mein koi risk nahi hai."
+    }
+   },
+   {
+    "h": {
+     "en": "The silent part",
+     "hi": "ख़ामोश पहलू",
+     "hg": "Silent wala part"
+    },
+    "body": {
+     "en": "The trickiest fact about STIs is that many cause no symptoms at all, sometimes for years. A person can feel completely healthy, look healthy, and still have an infection and pass it on. When symptoms do appear, they can include unusual discharge from the penis or vagina, burning while urinating, sores, bumps or warts around the genitals or mouth, itching, or pain in the lower abdomen. These signs can also come from infections that are not STIs. Only a health worker and a test can tell, which is why guessing or searching online is not enough.",
+     "hi": "एसटीआई के बारे में सबसे पेचीदा बात यह है कि बहुत से संक्रमणों में कोई लक्षण नहीं होते, कभी-कभी बरसों तक। व्यक्ति पूरी तरह स्वस्थ महसूस कर सकता है, स्वस्थ दिख सकता है, और फिर भी उसे संक्रमण हो सकता है जो दूसरों तक पहुँच जाए। जब लक्षण दिखते हैं, तो उनमें लिंग या योनि से असामान्य स्राव, पेशाब में जलन, जननांगों या मुँह के आसपास घाव, दाने या मस्से, खुजली, या पेट के निचले हिस्से में दर्द शामिल हो सकते हैं। ये संकेत ऐसे संक्रमणों से भी हो सकते हैं जो एसटीआई नहीं हैं। असल बात सिर्फ़ स्वास्थ्यकर्मी और जाँच से पता चलती है, इसीलिए अंदाज़ा लगाना या इंटरनेट पर खोजना काफ़ी नहीं है।",
+     "hg": "STIs ke baare mein sabse tricky fact yeh hai ki bahut se infections mein koi symptoms nahi hote, kabhi-kabhi saalon tak. Insaan poori tarah healthy feel kar sakta hai, healthy dikh sakta hai, aur phir bhi use infection ho sakta hai jo doosron tak pahunch jaye. Jab symptoms dikhte hain, toh unme penis ya vagina se unusual discharge, peshab mein jalan, genitals ya mouth ke aaspaas sores, daane ya warts, khujli, ya lower abdomen mein pain ho sakta hai. Yeh signs aise infections se bhi ho sakte hain jo STI nahi hain. Asli baat sirf health worker aur test se pata chalti hai, isiliye guess karna ya online search karna kaafi nahi hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Prevention, and no shame",
+     "hi": "बचाव, और कोई शर्म नहीं",
+     "hg": "Prevention, aur koi sharam nahi"
+    },
+    "body": {
+     "en": "At your age the most reliable protection is simple: not having sex is a completely valid choice, and in India a person under 18 cannot legally consent to sexual activity. For later life, know the tools: condoms greatly reduce the risk of most STIs, vaccines protect against HPV and hepatitis B, and needles, syringes and razors should never be shared. Bacterial STIs and trichomoniasis can be cured, and viral ones can be managed with treatment. If you are ever worried, a doctor or an Adolescent Friendly Health Clinic can help, and the NACO helpline 1097 answers questions about HIV.",
+     "hi": "तुम्हारी उम्र में सबसे भरोसेमंद बचाव सीधा है: सेक्स न करना पूरी तरह सही चुनाव है, और भारत में 18 साल से कम उम्र का व्यक्ति यौन गतिविधि के लिए क़ानूनी सहमति नहीं दे सकता। आगे की ज़िंदगी के लिए साधन जान लो: कंडोम ज़्यादातर एसटीआई का ख़तरा बहुत घटा देते हैं, टीके एचपीवी और हेपेटाइटिस बी से बचाते हैं, और सुई, सिरिंज और रेज़र कभी साझा नहीं करने चाहिए। बैक्टीरिया वाले एसटीआई और ट्राइकोमोनिएसिस पूरी तरह ठीक हो सकते हैं, और वायरस वाले संक्रमण इलाज से क़ाबू में रखे जा सकते हैं। अगर कभी चिंता हो, तो डॉक्टर या किशोर मित्र स्वास्थ्य क्लिनिक (AFHC) मदद कर सकते हैं, और NACO हेल्पलाइन 1097 एचआईवी से जुड़े सवालों के जवाब देती है।",
+     "hg": "Tumhari age mein sabse reliable protection simple hai: sex na karna poori tarah valid choice hai, aur India mein 18 saal se kam umar ka insaan sexual activity ke liye legally consent nahi de sakta. Aage ki life ke liye tools jaan lo: condoms zyada-tar STIs ka risk bahut kam kar dete hain, vaccines HPV aur hepatitis B se bachati hain, aur needles, syringes aur razors kabhi share nahi karne chahiye. Bacterial STIs aur trichomoniasis poori tarah cure ho sakte hain, aur viral wale treatment se manage kiye ja sakte hain. Agar kabhi tension ho, toh doctor ya Adolescent Friendly Health Clinic help kar sakte hain, aur NACO helpline 1097 HIV se jude sawaalon ke jawab deti hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Only 'dirty' or 'characterless' people get STIs.",
+    "hi": "एसटीआई सिर्फ़ 'गंदे' या 'चरित्रहीन' लोगों को होते हैं।",
+    "hg": "STIs sirf 'gande' ya 'characterless' logon ko hote hain."
+   },
+   "fact": {
+    "en": "STIs are caused by germs that can infect anyone who is exposed, including people with one partner and babies born to an infected parent. Shame keeps people away from testing and treatment, which helps infections spread.",
+    "hi": "एसटीआई ऐसे कीटाणुओं से होते हैं जो संपर्क में आए किसी भी व्यक्ति को संक्रमित कर सकते हैं, एक ही पार्टनर वाले लोगों को भी और संक्रमित माता-पिता से जन्मे बच्चों को भी। शर्म लोगों को जाँच और इलाज से दूर रखती है, और इसी से संक्रमण फैलते हैं।",
+    "hg": "STIs aise germs se hote hain jo exposed hone wale kisi bhi insaan ko infect kar sakte hain, ek hi partner wale logon ko bhi aur infected parent se janme babies ko bhi. Sharam logon ko testing aur treatment se door rakhti hai, aur isi se infections failte hain."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "STIs are infections caused by bacteria, viruses or a parasite, passed mainly through sexual contact.",
+    "hi": "एसटीआई बैक्टीरिया, वायरस या परजीवी से होने वाले संक्रमण हैं, जो मुख्य रूप से यौन संपर्क से फैलते हैं।",
+    "hg": "STIs bacteria, virus ya parasite se hone wale infections hain, jo mainly sexual contact se failte hain."
+   },
+   {
+    "en": "Many STIs show no symptoms, so only a test can tell.",
+    "hi": "बहुत से एसटीआई में कोई लक्षण नहीं दिखते, इसलिए सिर्फ़ जाँच से पता चलता है।",
+    "hg": "Bahut se STIs mein koi symptoms nahi dikhte, isliye sirf test se pata chalta hai."
+   },
+   {
+    "en": "They do not spread through hugging, sharing food, toilets or mosquitoes, and they are preventable and treatable.",
+    "hi": "ये गले लगने, साथ खाने, टॉयलेट या मच्छरों से नहीं फैलते, और इनसे बचाव और इनका इलाज मुमकिन है।",
+    "hg": "Yeh hug, khana share karne, toilet ya machharon se nahi failte, aur inse bachav aur inka treatment possible hai."
+   }
+  ],
+  "activity": {
+   "en": "List three things you had heard about how STIs or HIV spread. Next to each one, mark whether this lesson confirmed it or corrected it.",
+   "hi": "ऐसी तीन बातें लिखो जो तुमने एसटीआई या एचआईवी के फैलने के बारे में सुनी थीं। हर बात के आगे लिखो कि इस पाठ ने उसे सही ठहराया या सुधारा।",
+   "hg": "Aisi teen baatein likho jo tumne STIs ya HIV ke failne ke baare mein suni thi. Har ek ke aage mark karo ki is lesson ne use confirm kiya ya correct kiya."
+  },
+  "interactive": "sti_match",
+  "quiz": [
+   {
+    "id": "d09-l01-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Which of these can spread HIV?",
+     "hi": "इनमें से किससे एचआईवी फैल सकता है?",
+     "hg": "Inme se kisse HIV fail sakta hai?"
+    },
+    "options": [
+     {
+      "en": "Sharing a lunch box",
+      "hi": "एक ही टिफ़िन से खाना",
+      "hg": "Ek hi tiffin se khana"
+     },
+     {
+      "en": "A mosquito bite",
+      "hi": "मच्छर का काटना",
+      "hg": "Machhar ka kaatna"
+     },
+     {
+      "en": "Sharing needles or syringes",
+      "hi": "सुई या सिरिंज साझा करना",
+      "hg": "Needles ya syringes share karna"
+     },
+     {
+      "en": "Using the same toilet",
+      "hi": "एक ही टॉयलेट इस्तेमाल करना",
+      "hg": "Ek hi toilet use karna"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "HIV spreads through infected blood, sexual fluids and breast milk. Shared needles carry blood directly; food, toilets and mosquitoes do not spread it.",
+     "hi": "एचआईवी संक्रमित ख़ून, यौन तरल और माँ के दूध से फैलता है। साझा सुइयों से ख़ून सीधे शरीर में पहुँचता है; खाने, टॉयलेट और मच्छरों से यह नहीं फैलता।",
+     "hg": "HIV infected blood, sexual fluids aur breast milk se failta hai. Shared needles se blood directly body mein jaata hai; khana, toilet aur machhar se yeh nahi failta."
+    }
+   },
+   {
+    "id": "d09-l01-q2",
+    "type": "tf",
+    "q": {
+     "en": "A person can have an STI and feel completely healthy.",
+     "hi": "किसी व्यक्ति को एसटीआई हो सकता है और वह पूरी तरह स्वस्थ महसूस कर सकता है।",
+     "hg": "Kisi insaan ko STI ho sakta hai aur woh poori tarah healthy feel kar sakta hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Many STIs cause no symptoms for months or years, which is why testing, not appearance or feeling well, is the only way to know.",
+     "hi": "बहुत से एसटीआई में महीनों या बरसों तक कोई लक्षण नहीं होते, इसलिए पता लगाने का इकलौता तरीक़ा जाँच है, न कि दिखावट या अच्छा महसूस करना।",
+     "hg": "Bahut se STIs mein mahino ya saalon tak koi symptoms nahi hote, isliye pata karne ka only tareeka test hai, na ki looks ya achha feel karna."
+    }
+   }
+  ],
+  "refs": [
+   "who-sti",
+   "who-hiv",
+   "naco",
+   "nhm-afhc"
+  ],
+  "warning": {
+   "en": "This lesson is for awareness. If you have symptoms or worries, see a doctor; do not try to diagnose or treat yourself. If anyone has pressured, forced or tricked you into any sexual contact, it is not your fault: tell a trusted adult or call the Child Helpline 1098.",
+   "hi": "यह पाठ जागरूकता के लिए है। अगर कोई लक्षण या चिंता हो, तो डॉक्टर को दिखाओ; ख़ुद से बीमारी तय करने या इलाज करने की कोशिश मत करो। अगर किसी ने तुम पर दबाव डालकर, ज़बरदस्ती या धोखे से कोई भी यौन संपर्क किया हो, तो यह तुम्हारी ग़लती नहीं है: किसी भरोसेमंद बड़े को बताओ या चाइल्ड हेल्पलाइन 1098 पर कॉल करो।",
+   "hg": "Yeh lesson awareness ke liye hai. Agar koi symptoms ya tension ho, toh doctor ko dikhao; khud se diagnose ya treat karne ki koshish mat karo. Agar kisi ne pressure, zabardasti ya dhokhe se tumhare saath koi bhi sexual contact kiya ho, toh yeh tumhari galti nahi hai: kisi trusted adult ko batao ya Child Helpline 1098 par call karo."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d09-l02",
+  "domain": "d09",
+  "tracks": [
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   8
+  ],
+  "title": {
+   "en": "The Curable Four: Chlamydia, Gonorrhoea, Syphilis, Trichomoniasis",
+   "hi": "ठीक होने वाले चार: क्लैमाइडिया, गोनोरिया, सिफ़लिस, ट्राइकोमोनिएसिस",
+   "hg": "Curable Four: Chlamydia, Gonorrhoea, Syphilis, Trichomoniasis"
+  },
+  "subtitle": {
+   "en": "Curable, but only if they are found",
+   "hi": "इलाज मुमकिन है, बशर्ते पकड़ में आएँ",
+   "hg": "Cure ho sakte hain, bas pakad mein aane chahiye"
+  },
+  "hook": {
+   "en": "Four of the most common STIs can be completely cured. The catch: they often stay quiet while they do damage.",
+   "hi": "सबसे आम एसटीआई में से चार पूरी तरह ठीक हो सकते हैं। पेच यह है कि नुक़सान करते हुए भी ये अक्सर चुप रहते हैं।",
+   "hg": "Sabse common STIs mein se chaar completely cure ho sakte hain. Catch yeh hai ki damage karte hue bhi yeh aksar chup rehte hain."
+  },
+  "objectives": [
+   {
+    "en": "Describe the four common curable STIs and their typical signs.",
+    "hi": "चार आम, ठीक हो सकने वाले एसटीआई और उनके आम संकेत बताना।",
+    "hg": "Chaar common curable STIs aur unke typical signs batana."
+   },
+   {
+    "en": "Explain what can happen when they go untreated.",
+    "hi": "समझाना कि इलाज न होने पर क्या हो सकता है।",
+    "hg": "Samjhana ki treatment na hone par kya ho sakta hai."
+   },
+   {
+    "en": "Understand why prescribed treatment and partner treatment both matter.",
+    "hi": "समझना कि डॉक्टर का लिखा इलाज और पार्टनर का इलाज, दोनों क्यों ज़रूरी हैं।",
+    "hg": "Samajhna ki prescribed treatment aur partner ka treatment, dono kyun zaroori hain."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Chlamydia and gonorrhoea",
+     "hi": "क्लैमाइडिया और गोनोरिया",
+     "hg": "Chlamydia aur gonorrhoea"
+    },
+    "body": {
+     "en": "Chlamydia and gonorrhoea are bacterial infections that often occur together and behave alike. They infect the urethra, cervix, rectum and throat, and sometimes the eyes. Most people with chlamydia, and many with gonorrhoea, notice nothing. When signs appear they include discharge from the penis or vagina, burning on urination, bleeding between periods, pain in the lower abdomen, or pain and swelling in a testicle. Untreated, they can travel upward and cause pelvic inflammatory disease, which can scar the fallopian tubes and lead to ectopic pregnancy or infertility. A newborn can catch an eye infection during birth.",
+     "hi": "क्लैमाइडिया और गोनोरिया बैक्टीरिया से होने वाले संक्रमण हैं, जो अक्सर साथ-साथ होते हैं और एक जैसा बर्ताव करते हैं। ये मूत्रमार्ग, गर्भाशय ग्रीवा (cervix), मलाशय और गले को, और कभी-कभी आँखों को संक्रमित करते हैं। क्लैमाइडिया वाले ज़्यादातर लोगों को, और गोनोरिया वाले बहुत से लोगों को, कुछ महसूस नहीं होता। जब संकेत दिखते हैं तो उनमें लिंग या योनि से स्राव, पेशाब में जलन, दो माहवारी के बीच ख़ून आना, पेट के निचले हिस्से में दर्द, या अंडकोष में दर्द और सूजन शामिल हैं। इलाज न हो तो ये ऊपर की ओर फैलकर पेल्विक इन्फ़्लेमेटरी डिज़ीज़ (PID) कर सकते हैं, जिससे फ़ैलोपियन ट्यूब में निशान पड़ सकते हैं और एक्टोपिक गर्भ या बाँझपन हो सकता है। जन्म के दौरान नवजात की आँखों में भी संक्रमण पहुँच सकता है।",
+     "hg": "Chlamydia aur gonorrhoea bacterial infections hain, jo aksar saath-saath hote hain aur ek jaisa behave karte hain. Yeh urethra, cervix, rectum aur throat ko, aur kabhi-kabhi eyes ko infect karte hain. Chlamydia wale zyada-tar logon ko, aur gonorrhoea wale bahut se logon ko, kuch feel nahi hota. Jab signs dikhte hain toh unme penis ya vagina se discharge, peshab mein jalan, do periods ke beech bleeding, lower abdomen mein pain, ya testicle mein pain aur swelling shaamil hain. Treatment na ho toh yeh upar ki taraf failkar pelvic inflammatory disease (PID) kar sakte hain, jisse fallopian tubes mein scarring ho sakti hai aur ectopic pregnancy ya infertility ho sakti hai. Birth ke dauraan newborn ki eyes mein bhi infection pahunch sakta hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Syphilis: the infection that hides",
+     "hi": "सिफ़लिस: छिप जाने वाला संक्रमण",
+     "hg": "Syphilis: chhup jaane wala infection"
+    },
+    "body": {
+     "en": "Syphilis is a bacterial infection that moves in stages. First comes a firm, usually painless sore on the genitals, anus or mouth, which heals by itself in a few weeks. Later there may be a non-itchy rash, often on the palms and soles, with fever or swollen glands. Then the symptoms disappear, but the bacteria stay. Years later, untreated syphilis can damage the heart, brain and nerves. During pregnancy it can cause miscarriage, stillbirth or serious illness in the baby, which is why pregnant women are tested for it. Symptoms going away does not mean the infection has gone.",
+     "hi": "सिफ़लिस बैक्टीरिया से होने वाला संक्रमण है जो चरणों में आगे बढ़ता है। सबसे पहले जननांग, गुदा या मुँह पर एक सख़्त घाव होता है जिसमें आम तौर पर दर्द नहीं होता, और जो कुछ हफ़्तों में अपने-आप भर जाता है। बाद में बिना खुजली वाले चकत्ते निकल सकते हैं, अक्सर हथेलियों और तलवों पर, साथ में बुख़ार या सूजी हुई गाँठें। फिर लक्षण ग़ायब हो जाते हैं, लेकिन बैक्टीरिया शरीर में बना रहता है। बरसों बाद, बिना इलाज का सिफ़लिस दिल, दिमाग़ और नसों को नुक़सान पहुँचा सकता है। गर्भावस्था में इससे गर्भपात, मृत शिशु का जन्म या बच्चे में गंभीर बीमारी हो सकती है, इसीलिए गर्भवती महिलाओं की इसकी जाँच की जाती है। लक्षणों का चले जाना यह नहीं बताता कि संक्रमण चला गया है।",
+     "hg": "Syphilis ek bacterial infection hai jo stages mein aage badhta hai. Sabse pehle genitals, anus ya mouth par ek firm sore hota hai jisme usually dard nahi hota, aur jo kuch hafton mein apne-aap heal ho jaata hai. Baad mein bina khujli wala rash aa sakta hai, aksar hatheliyon aur talwon par, saath mein fever ya swollen glands. Phir symptoms gaayab ho jaate hain, lekin bacteria body mein rehta hai. Saalon baad, untreated syphilis heart, brain aur nerves ko damage kar sakta hai. Pregnancy mein isse miscarriage, stillbirth ya baby mein serious illness ho sakti hai, isiliye pregnant women ka iska test hota hai. Symptoms ka chale jaana yeh nahi batata ki infection chala gaya hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Trichomoniasis",
+     "hi": "ट्राइकोमोनिएसिस",
+     "hg": "Trichomoniasis"
+    },
+    "body": {
+     "en": "Trichomoniasis, or 'trich', is caused by a tiny parasite, not a bacterium or a virus. It is one of the most common curable STIs in the world. Many people have no symptoms, and people with a penis rarely do, so they can pass it on without knowing. When it does show, there may be frothy yellow-green vaginal discharge with a strong smell, itching, soreness, or discomfort when urinating. It is not the same as a yeast infection, although the two can feel similar. Having trich can make it easier to catch or pass on HIV, and in pregnancy it is linked to early birth.",
+     "hi": "ट्राइकोमोनिएसिस, या 'ट्रिक', एक सूक्ष्म परजीवी से होता है, बैक्टीरिया या वायरस से नहीं। यह दुनिया के सबसे आम ठीक हो सकने वाले एसटीआई में से एक है। बहुत से लोगों में कोई लक्षण नहीं होते, और जिनके शरीर में लिंग है उनमें तो बहुत कम दिखते हैं, इसलिए वे अनजाने में इसे आगे पहुँचा सकते हैं। जब यह ज़ाहिर होता है, तो योनि से झागदार पीला-हरा, तेज़ गंध वाला स्राव, खुजली, दर्द या पेशाब करते समय तकलीफ़ हो सकती है। यह और यीस्ट इन्फ़ेक्शन एक ही चीज़ नहीं हैं, हालाँकि दोनों एक जैसे महसूस हो सकते हैं। ट्रिक होने पर एचआईवी लगना या दूसरों तक पहुँचना आसान हो सकता है, और गर्भावस्था में इसका संबंध समय से पहले प्रसव से जोड़ा जाता है।",
+     "hg": "Trichomoniasis, ya 'trich', ek tiny parasite se hota hai, bacteria ya virus se nahi. Yeh duniya ke sabse common curable STIs mein se ek hai. Bahut se logon mein koi symptoms nahi hote, aur jinke paas penis hai unme toh bahut kam dikhte hain, isliye woh anjaane mein ise aage pass kar sakte hain. Jab yeh dikhta hai, toh vagina se jhaagdar yellow-green, tez smell wala discharge, khujli, soreness ya peshab karte time discomfort ho sakta hai. Yeh aur yeast infection ek hi cheez nahi hain, halanki dono ek jaise feel ho sakte hain. Trich hone par HIV lagna ya doosron tak pahunchna easy ho sakta hai, aur pregnancy mein iska link early birth se joda jaata hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Cure: how it actually works",
+     "hi": "इलाज: असल में यह कैसे काम करता है",
+     "hg": "Cure: actually kaise kaam karta hai"
+    },
+    "body": {
+     "en": "All four are cured with specific medicines that a doctor prescribes after examination and tests; different germs need different drugs, and syphilis is usually treated by injection. Three rules make the cure hold. Take the full course exactly as prescribed, even if you feel fine in two days. Sexual partners need treatment too, or the infection simply passes back. And being cured gives no immunity: a person can be infected again. Leftover antibiotics, or pills suggested by a chemist or a friend, are risky, because the wrong drug hides symptoms and helps resistant gonorrhoea to spread. Damage already done, such as scarring, may not be reversible.",
+     "hi": "ये चारों ख़ास दवाओं से ठीक होते हैं, जो डॉक्टर जाँच और टेस्ट के बाद लिखते हैं; अलग-अलग कीटाणुओं के लिए अलग दवा चाहिए, और सिफ़लिस का इलाज आम तौर पर इंजेक्शन से होता है। इलाज को कारगर बनाने के तीन नियम हैं। पूरा कोर्स ठीक वैसे ही लो जैसे लिखा गया है, भले ही दो दिन में आराम आ जाए। यौन पार्टनर का इलाज भी ज़रूरी है, वरना संक्रमण लौटकर वापस आ जाता है। और ठीक हो जाने से कोई प्रतिरक्षा नहीं बनती: व्यक्ति को दोबारा संक्रमण हो सकता है। बची हुई एंटीबायोटिक, या केमिस्ट अथवा दोस्त की बताई गोलियाँ जोखिम भरी हैं, क्योंकि ग़लत दवा लक्षणों को छिपा देती है और दवा-प्रतिरोधी गोनोरिया को फैलने में मदद करती है। जो नुक़सान पहले हो चुका है, जैसे ट्यूब में निशान, वह शायद वापस ठीक न हो।",
+     "hg": "Yeh chaaron specific medicines se cure hote hain, jo doctor examination aur tests ke baad prescribe karte hain; alag germs ke liye alag medicine chahiye, aur syphilis ka treatment usually injection se hota hai. Cure ko pakka karne ke teen rules hain. Poora course exactly waise hi lo jaise prescribe hua hai, chahe do din mein theek feel hone lage. Sexual partners ka treatment bhi zaroori hai, warna infection wapas aa jaata hai. Aur cure ho jaane se koi immunity nahi banti: insaan ko dobara infection ho sakta hai. Bachi hui antibiotics, ya chemist ya dost ki batayi goliyan risky hain, kyunki galat medicine symptoms ko chhupa deti hai aur resistant gonorrhoea ko failne mein help karti hai. Jo damage pehle ho chuka hai, jaise scarring, woh shayad reverse na ho."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "If the symptoms went away on their own, the infection is gone.",
+    "hi": "अगर लक्षण अपने-आप चले गए, तो संक्रमण भी ख़त्म हो गया।",
+    "hg": "Agar symptoms apne-aap chale gaye, toh infection bhi khatam ho gaya."
+   },
+   "fact": {
+    "en": "Symptoms of syphilis, chlamydia and gonorrhoea often fade while the germ stays in the body, still causing harm and still able to spread. Only proper treatment, followed by testing if the doctor advises it, shows that an infection has cleared.",
+    "hi": "सिफ़लिस, क्लैमाइडिया और गोनोरिया के लक्षण अक्सर हल्के पड़ जाते हैं जबकि कीटाणु शरीर में बना रहता है, नुक़सान भी करता रहता है और फैल भी सकता है। संक्रमण ख़त्म हुआ या नहीं, यह सिर्फ़ सही इलाज और उसके बाद डॉक्टर की सलाह पर हुई जाँच से पता चलता है।",
+    "hg": "Syphilis, chlamydia aur gonorrhoea ke symptoms aksar fade ho jaate hain jabki germ body mein rehta hai, harm bhi karta rehta hai aur fail bhi sakta hai. Infection clear hua ya nahi, yeh sirf proper treatment aur uske baad doctor ki advice par hue test se pata chalta hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Chlamydia, gonorrhoea, syphilis and trichomoniasis are curable with the right prescribed medicine.",
+    "hi": "क्लैमाइडिया, गोनोरिया, सिफ़लिस और ट्राइकोमोनिएसिस डॉक्टर की लिखी सही दवा से ठीक हो जाते हैं।",
+    "hg": "Chlamydia, gonorrhoea, syphilis aur trichomoniasis sahi prescribed medicine se cure ho jaate hain."
+   },
+   {
+    "en": "They are often silent, yet untreated infection can cause infertility, pregnancy complications or organ damage.",
+    "hi": "ये अक्सर चुपचाप रहते हैं, फिर भी इलाज न होने पर बाँझपन, गर्भावस्था की जटिलताएँ या अंगों को नुक़सान हो सकता है।",
+    "hg": "Yeh aksar silent rehte hain, phir bhi treatment na hone par infertility, pregnancy complications ya organ damage ho sakta hai."
+   },
+   {
+    "en": "Finish the full treatment, make sure partners are treated, and remember that reinfection is possible.",
+    "hi": "पूरा इलाज लो, पक्का करो कि पार्टनर का भी इलाज हो, और याद रखो कि दोबारा संक्रमण हो सकता है।",
+    "hg": "Poora treatment complete karo, pakka karo ki partners ka bhi treatment ho, aur yaad rakho ki reinfection possible hai."
+   }
+  ],
+  "activity": {
+   "en": "Draw a four-column table: type of germ, common signs, possible harm if untreated, cure. Fill it in for the four infections from memory, then check it against the lesson.",
+   "hi": "चार कॉलम की एक तालिका बनाओ: कीटाणु का प्रकार, आम संकेत, इलाज न होने पर संभावित नुक़सान, इलाज। चारों संक्रमणों के लिए इसे याद से भरो, फिर पाठ से मिलाकर देखो।",
+   "hg": "Chaar column ki ek table banao: germ ka type, common signs, treatment na hone par possible harm, cure. Chaaron infections ke liye ise memory se bharo, phir lesson se check karo."
+  },
+  "interactive": "sti_match",
+  "quiz": [
+   {
+    "id": "d09-l02-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Which group of STIs can be cured with the right medicine?",
+     "hi": "एसटीआई का कौन सा समूह सही दवा से पूरी तरह ठीक हो सकता है?",
+     "hg": "STIs ka kaun sa group sahi medicine se cure ho sakta hai?"
+    },
+    "options": [
+     {
+      "en": "HIV, herpes and hepatitis B",
+      "hi": "एचआईवी, हर्पीज़ और हेपेटाइटिस बी",
+      "hg": "HIV, herpes aur hepatitis B"
+     },
+     {
+      "en": "Chlamydia, gonorrhoea, syphilis and trichomoniasis",
+      "hi": "क्लैमाइडिया, गोनोरिया, सिफ़लिस और ट्राइकोमोनिएसिस",
+      "hg": "Chlamydia, gonorrhoea, syphilis aur trichomoniasis"
+     },
+     {
+      "en": "HPV and herpes",
+      "hi": "एचपीवी और हर्पीज़",
+      "hg": "HPV aur herpes"
+     },
+     {
+      "en": "None of them; every STI is lifelong",
+      "hi": "कोई नहीं; हर एसटीआई ज़िंदगी भर रहता है",
+      "hg": "Koi nahi; har STI lifelong hota hai"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "The three bacterial STIs and trichomoniasis, which is caused by a parasite, are curable. Viral STIs are managed or prevented rather than cured.",
+     "hi": "बैक्टीरिया वाले तीनों एसटीआई और परजीवी से होने वाला ट्राइकोमोनिएसिस ठीक हो सकते हैं। वायरस वाले एसटीआई ठीक नहीं होते; उन्हें क़ाबू में रखा जाता है या उनसे बचाव किया जाता है।",
+     "hg": "Teeno bacterial STIs aur parasite se hone wala trichomoniasis cure ho sakte hain. Viral STIs cure nahi hote; unhe manage ya prevent kiya jaata hai."
+    }
+   },
+   {
+    "id": "d09-l02-q2",
+    "type": "tf",
+    "q": {
+     "en": "Once a person has been cured of gonorrhoea, they cannot get it again.",
+     "hi": "एक बार गोनोरिया ठीक हो जाए, तो वह दोबारा नहीं हो सकता।",
+     "hg": "Ek baar gonorrhoea cure ho jaye, toh woh dobara nahi ho sakta."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Cure does not give immunity. Reinfection is common when a partner has not been treated, which is why partners are treated together.",
+     "hi": "ठीक हो जाने से प्रतिरक्षा नहीं बनती। जब पार्टनर का इलाज नहीं हुआ होता तो दोबारा संक्रमण आम है, इसीलिए पार्टनर का इलाज साथ-साथ किया जाता है।",
+     "hg": "Cure hone se immunity nahi banti. Jab partner ka treatment nahi hua hota toh reinfection common hai, isiliye partners ka treatment saath-saath hota hai."
+    }
+   }
+  ],
+  "refs": [
+   "who-sti",
+   "who-chlamydia",
+   "who-syphilis"
+  ],
+  "warning": {
+   "en": "Never treat a suspected STI with leftover or over-the-counter antibiotics. A doctor needs to examine, test and prescribe. If you are under 18, not having sex is always a valid choice. If you do need care, get it: a parent or guardian is usually involved in treatment, and doctors cannot promise total secrecy because of POCSO reporting.",
+   "hi": "एसटीआई का शक होने पर कभी भी बची हुई या बिना पर्चे की एंटीबायोटिक से इलाज मत करो। डॉक्टर का जाँचना, टेस्ट करना और दवा लिखना ज़रूरी है। अगर तुम 18 से कम उम्र के हो, तो सेक्स न करना हमेशा एक सही चुनाव है। अगर इलाज की ज़रूरत हो, तो ज़रूर लो: इलाज में आम तौर पर माता-पिता या अभिभावक शामिल होते हैं, और POCSO के तहत सूचना देने की वजह से डॉक्टर पूरी गोपनीयता का वादा नहीं कर सकते।",
+   "hg": "STI ka shak ho toh kabhi bhi bachi hui ya over-the-counter antibiotics se treat mat karo. Doctor ka examine karna, test karna aur prescribe karna zaroori hai. Agar tum 18 se kam ho, toh sex na karna hamesha ek valid choice hai. Agar care ki zaroorat ho, toh zaroor lo: treatment mein usually parent ya guardian involve hote hain, aur POCSO reporting ki wajah se doctors total secrecy ka promise nahi kar sakte."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d09-l03",
+  "domain": "d09",
+  "tracks": [
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 8,
+  "unesco": [
+   8
+  ],
+  "title": {
+   "en": "The Viral Four: HIV, HPV, Herpes, Hepatitis B",
+   "hi": "वायरस वाले चार: एचआईवी, एचपीवी, हर्पीज़, हेपेटाइटिस बी",
+   "hg": "Viral Four: HIV, HPV, Herpes, Hepatitis B"
+  },
+  "subtitle": {
+   "en": "Not curable yet, but preventable and manageable",
+   "hi": "अभी पूरा इलाज नहीं, पर बचाव और नियंत्रण मुमकिन",
+   "hg": "Abhi cure nahi, par prevent aur manage ho sakte hain"
+  },
+  "hook": {
+   "en": "Viruses play a longer game than bacteria. Medicine has caught up: two of these four have vaccines, and HIV treatment now means a long, full life.",
+   "hi": "वायरस बैक्टीरिया से लंबा खेल खेलते हैं। पर चिकित्सा भी पीछे नहीं है: इन चार में से दो के टीके हैं, और एचआईवी के इलाज का मतलब अब लंबी, भरपूर ज़िंदगी है।",
+   "hg": "Viruses bacteria se lamba game khelte hain. Par medicine bhi peeche nahi hai: in chaar mein se do ki vaccines hain, aur HIV treatment ka matlab ab lambi, full life hai."
+  },
+  "objectives": [
+   {
+    "en": "Tell HIV from AIDS and explain what treatment achieves.",
+    "hi": "एचआईवी और एड्स में फ़र्क़ बताना और समझाना कि इलाज से क्या हासिल होता है।",
+    "hg": "HIV aur AIDS ka farak batana aur samjhana ki treatment se kya hota hai."
+   },
+   {
+    "en": "Describe HPV, genital herpes and hepatitis B and how each is prevented or managed.",
+    "hi": "एचपीवी, जननांग हर्पीज़ और हेपेटाइटिस बी के बारे में बताना, और यह कि हर एक से बचाव या नियंत्रण कैसे होता है।",
+    "hg": "HPV, genital herpes aur hepatitis B ke baare mein batana, aur har ek ko prevent ya manage kaise karte hain."
+   },
+   {
+    "en": "Know which viral STIs have vaccines.",
+    "hi": "जानना कि वायरस वाले किन एसटीआई के टीके मौजूद हैं।",
+    "hg": "Jaanna ki kin viral STIs ki vaccines available hain."
+   }
+  ],
+  "prereqs": [
+   "d09-l02"
+  ],
+  "sections": [
+   {
+    "h": {
+     "en": "HIV and AIDS are not the same thing",
+     "hi": "एचआईवी और एड्स एक ही चीज़ नहीं हैं",
+     "hg": "HIV aur AIDS ek hi cheez nahi hain"
+    },
+    "body": {
+     "en": "HIV (human immunodeficiency virus) attacks the immune system's CD4 cells, which help the body fight infection. It spreads through blood, semen, vaginal and rectal fluids and breast milk. Some people get a flu-like illness a few weeks after infection; many notice nothing for years. AIDS is the advanced stage of untreated HIV, when the immune system is so weak that serious infections and some cancers take hold. With antiretroviral therapy (ART), taken daily, the virus is suppressed, AIDS is prevented, and a person can live a long, healthy life. ART is provided free at government ART centres in India.",
+     "hi": "एचआईवी (ह्यूमन इम्यूनोडेफ़िशिएंसी वायरस) प्रतिरक्षा तंत्र की CD4 कोशिकाओं पर हमला करता है, जो शरीर को संक्रमण से लड़ने में मदद करती हैं। यह ख़ून, वीर्य, योनि और मलाशय के स्राव और माँ के दूध से फैलता है। कुछ लोगों को संक्रमण के कुछ हफ़्ते बाद फ़्लू जैसी बीमारी होती है; बहुतों को बरसों तक कुछ पता नहीं चलता। एड्स बिना इलाज वाले एचआईवी का आगे बढ़ा हुआ चरण है, जब प्रतिरक्षा तंत्र इतना कमज़ोर हो जाता है कि गंभीर संक्रमण और कुछ कैंसर जकड़ लेते हैं। रोज़ ली जाने वाली एंटीरेट्रोवायरल थेरेपी (ART) से वायरस दबा रहता है, एड्स नहीं होता, और व्यक्ति लंबी, स्वस्थ ज़िंदगी जी सकता है। भारत में सरकारी ART केंद्रों पर ART मुफ़्त दी जाती है।",
+     "hg": "HIV (human immunodeficiency virus) immune system ke CD4 cells par attack karta hai, jo body ko infection se ladne mein help karte hain. Yeh blood, semen, vaginal aur rectal fluids aur breast milk se failta hai. Kuch logon ko infection ke kuch hafte baad flu jaisi beemari hoti hai; bahuton ko saalon tak kuch pata nahi chalta. AIDS untreated HIV ka advanced stage hai, jab immune system itna weak ho jaata hai ki serious infections aur kuch cancers pakad lete hain. Roz li jaane wali antiretroviral therapy (ART) se virus suppressed rehta hai, AIDS nahi hota, aur insaan lambi, healthy life jee sakta hai. India mein government ART centres par ART free di jaati hai."
+    }
+   },
+   {
+    "h": {
+     "en": "HPV",
+     "hi": "एचपीवी (HPV)",
+     "hg": "HPV"
+    },
+    "body": {
+     "en": "Human papillomavirus (HPV) is a large family of viruses and the most common viral STI; most people who are ever sexually active meet it at some point. It spreads by skin-to-skin genital contact, so condoms reduce the risk but do not cover everything. Most infections cause no symptoms and are cleared by the body within a couple of years. Some types cause genital warts. Certain high-risk types can persist and, over many years, cause cancer of the cervix, and less often of the anus, penis, vulva, vagina or throat. HPV vaccination, ideally at 9 to 14 years, and later cervical screening prevent most of this.",
+     "hi": "ह्यूमन पैपिलोमावायरस (HPV) वायरसों का एक बड़ा परिवार है और वायरस से होने वाला सबसे आम एसटीआई है; जो लोग कभी भी यौन रूप से सक्रिय रहे हैं, उनमें से ज़्यादातर का इससे कभी न कभी सामना होता है। यह जननांगों की त्वचा से त्वचा के संपर्क से फैलता है, इसलिए कंडोम ख़तरा घटाते हैं पर सब कुछ नहीं ढकते। ज़्यादातर संक्रमणों में कोई लक्षण नहीं होते और शरीर उन्हें एक-दो साल में ख़ुद साफ़ कर देता है। कुछ प्रकार जननांगों पर मस्से पैदा करते हैं। कुछ 'हाई-रिस्क' प्रकार शरीर में टिके रह सकते हैं और कई बरसों में गर्भाशय ग्रीवा का कैंसर कर सकते हैं, और कम मामलों में गुदा, लिंग, वल्वा, योनि या गले का। एचपीवी का टीका, बेहतर हो कि 9 से 14 साल की उम्र में, और बाद में सर्वाइकल स्क्रीनिंग, इसमें से ज़्यादातर को रोक देते हैं।",
+     "hg": "Human papillomavirus (HPV) viruses ki ek badi family hai aur sabse common viral STI hai; jo log kabhi bhi sexually active rahe hain, unme se zyada-tar ka isse kabhi na kabhi saamna hota hai. Yeh genital skin-to-skin contact se failta hai, isliye condoms risk kam karte hain par sab kuch cover nahi karte. Zyada-tar infections mein koi symptoms nahi hote aur body unhe ek-do saal mein khud clear kar deti hai. Kuch types genital warts karte hain. Kuch 'high-risk' types body mein tike reh sakte hain aur kai saalon mein cervix ka cancer kar sakte hain, aur kam cases mein anus, penis, vulva, vagina ya throat ka. HPV vaccine, ideally 9 se 14 saal ki age mein, aur baad mein cervical screening, isme se zyada-tar ko rok dete hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Genital herpes",
+     "hi": "जननांग हर्पीज़",
+     "hg": "Genital herpes"
+    },
+    "body": {
+     "en": "Genital herpes is caused by the herpes simplex virus, HSV-1 or HSV-2. HSV-1 usually causes cold sores around the mouth but can infect the genitals through oral contact. Many people with herpes have no symptoms or very mild ones. Others get painful blisters or ulcers that heal in a few weeks; the first episode is usually the worst, and later ones are shorter. The virus stays in the body for life and can spread even when no sores are visible. There is no cure, but antiviral medicines shorten outbreaks and can lower the chance of passing it on.",
+     "hi": "जननांग हर्पीज़ हर्पीज़ सिंप्लेक्स वायरस से होता है, HSV-1 या HSV-2 से। HSV-1 आम तौर पर मुँह के आसपास छाले (कोल्ड सोर) करता है, लेकिन मुख संपर्क के ज़रिए जननांगों को भी संक्रमित कर सकता है। हर्पीज़ वाले बहुत से लोगों में कोई लक्षण नहीं होते या बहुत हल्के होते हैं। कुछ लोगों को दर्दनाक छाले या घाव होते हैं जो कुछ हफ़्तों में भर जाते हैं; पहली बार का दौर आम तौर पर सबसे तकलीफ़देह होता है, और बाद वाले छोटे होते हैं। वायरस ज़िंदगी भर शरीर में रहता है और तब भी फैल सकता है जब कोई घाव दिखाई न दे। इसका पूरा इलाज नहीं है, लेकिन एंटीवायरल दवाएँ दौरों को छोटा करती हैं और इसे दूसरों तक पहुँचाने की संभावना घटा सकती हैं।",
+     "hg": "Genital herpes herpes simplex virus se hota hai, HSV-1 ya HSV-2 se. HSV-1 usually mouth ke aaspaas cold sores karta hai, lekin oral contact ke through genitals ko bhi infect kar sakta hai. Herpes wale bahut se logon mein koi symptoms nahi hote ya bahut mild hote hain. Kuch logon ko painful blisters ya ulcers hote hain jo kuch hafton mein heal ho jaate hain; pehla episode usually sabse bura hota hai, aur baad wale chhote hote hain. Virus life bhar body mein rehta hai aur tab bhi fail sakta hai jab koi sore dikhe na. Iska cure nahi hai, lekin antiviral medicines outbreaks ko chhota karti hain aur ise pass karne ka chance kam kar sakti hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Hepatitis B",
+     "hi": "हेपेटाइटिस बी",
+     "hg": "Hepatitis B"
+    },
+    "body": {
+     "en": "Hepatitis B is a virus that infects the liver. It spreads through blood and sexual fluids, and from mother to baby around birth. Shared needles, unsterile tattoo or piercing equipment, and shared razors or toothbrushes can carry it. Many infections are silent; signs can include tiredness, dark urine and yellowing of the eyes and skin. Most healthy adults clear the virus, but infection in infancy often becomes lifelong and can lead to liver scarring and liver cancer. A safe, effective vaccine exists and is part of India's routine immunisation for babies. Chronic infection can be controlled with medicines and monitoring.",
+     "hi": "हेपेटाइटिस बी एक वायरस है जो लिवर को संक्रमित करता है। यह ख़ून और यौन तरल से, और जन्म के आसपास माँ से बच्चे में फैलता है। साझा सुइयाँ, बिना कीटाणुरहित किए गए टैटू या पियर्सिंग के औज़ार, और साझा रेज़र या टूथब्रश इसे फैला सकते हैं। बहुत से संक्रमण चुपचाप रहते हैं; संकेतों में थकान, गहरे रंग का पेशाब और आँखों व त्वचा का पीला पड़ना शामिल हो सकते हैं। ज़्यादातर स्वस्थ वयस्कों का शरीर वायरस को साफ़ कर देता है, लेकिन शैशव में हुआ संक्रमण अक्सर ज़िंदगी भर का बन जाता है और लिवर में निशान (सिरोसिस) और लिवर कैंसर तक ले जा सकता है। एक सुरक्षित, असरदार टीका मौजूद है और भारत में शिशुओं के नियमित टीकाकरण का हिस्सा है। पुराने संक्रमण को दवाओं और नियमित निगरानी से क़ाबू में रखा जा सकता है।",
+     "hg": "Hepatitis B ek virus hai jo liver ko infect karta hai. Yeh blood aur sexual fluids se, aur birth ke aaspaas maa se baby mein failta hai. Shared needles, unsterile tattoo ya piercing equipment, aur shared razors ya toothbrush ise carry kar sakte hain. Bahut se infections silent rehte hain; signs mein thakaan, dark urine aur aankhon aur skin ka peela padna ho sakta hai. Zyada-tar healthy adults ki body virus ko clear kar deti hai, lekin infancy mein hua infection aksar lifelong ban jaata hai aur liver scarring aur liver cancer tak le ja sakta hai. Ek safe, effective vaccine available hai aur India mein babies ke routine immunisation ka part hai. Chronic infection ko medicines aur monitoring se control kiya ja sakta hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "An HIV-positive result means the person will soon develop AIDS and die.",
+    "hi": "एचआईवी पॉज़िटिव आने का मतलब है कि व्यक्ति को जल्द ही एड्स होगा और उसकी मौत हो जाएगी।",
+    "hg": "HIV-positive aane ka matlab hai ki insaan ko jaldi AIDS hoga aur uski death ho jayegi."
+   },
+   "fact": {
+    "en": "With daily antiretroviral therapy, people with HIV can expect a long, healthy life, and those who keep an undetectable viral load do not pass HIV to sexual partners. AIDS develops mainly when HIV is undiagnosed or untreated.",
+    "hi": "रोज़ की एंटीरेट्रोवायरल थेरेपी के साथ एचआईवी वाले लोग लंबी, स्वस्थ ज़िंदगी की उम्मीद कर सकते हैं, और जिनका वायरल लोड पकड़ में न आने लायक़ (undetectable) बना रहता है, वे यौन पार्टनर तक एचआईवी नहीं पहुँचाते। एड्स मुख्य रूप से तब होता है जब एचआईवी की पहचान या इलाज न हो।",
+    "hg": "Daily antiretroviral therapy ke saath HIV wale log lambi, healthy life expect kar sakte hain, aur jinka viral load undetectable bana rehta hai, woh sexual partners ko HIV pass nahi karte. AIDS mainly tab hota hai jab HIV diagnose ya treat na ho."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "HIV is the virus; AIDS is the advanced stage that treatment prevents.",
+    "hi": "एचआईवी वायरस है; एड्स उसका आगे बढ़ा हुआ चरण है जिसे इलाज रोक देता है।",
+    "hg": "HIV virus hai; AIDS uska advanced stage hai jise treatment rok deta hai."
+   },
+   {
+    "en": "HPV and hepatitis B can be prevented by vaccines, and cervical screening catches HPV-related changes early.",
+    "hi": "एचपीवी और हेपेटाइटिस बी से टीकों के ज़रिए बचा जा सकता है, और सर्वाइकल स्क्रीनिंग एचपीवी से हुए बदलावों को शुरू में ही पकड़ लेती है।",
+    "hg": "HPV aur hepatitis B vaccines se prevent ho sakte hain, aur cervical screening HPV-related changes ko early pakad leti hai."
+   },
+   {
+    "en": "Herpes and HIV stay in the body for life but are manageable with medicine.",
+    "hi": "हर्पीज़ और एचआईवी ज़िंदगी भर शरीर में रहते हैं, लेकिन दवा से क़ाबू में रखे जा सकते हैं।",
+    "hg": "Herpes aur HIV life bhar body mein rehte hain, lekin medicine se manage ho sakte hain."
+   }
+  ],
+  "activity": {
+   "en": "Look at your own vaccination card or ask a parent: is hepatitis B on it? Then note one question about the HPV vaccine that you could ask a doctor.",
+   "hi": "अपना टीकाकरण कार्ड देखो या माता-पिता से पूछो: क्या उसमें हेपेटाइटिस बी दर्ज है? फिर एचपीवी टीके के बारे में एक ऐसा सवाल लिखो जो तुम डॉक्टर से पूछ सको।",
+   "hg": "Apna vaccination card dekho ya parents se poocho: kya usme hepatitis B likha hai? Phir HPV vaccine ke baare mein ek aisa question note karo jo tum doctor se pooch sako."
+  },
+  "interactive": "sti_match",
+  "quiz": [
+   {
+    "id": "d09-l03-q1",
+    "type": "mcq",
+    "q": {
+     "en": "What is AIDS?",
+     "hi": "एड्स क्या है?",
+     "hg": "AIDS kya hai?"
+    },
+    "options": [
+     {
+      "en": "Another name for the HIV test",
+      "hi": "एचआईवी जाँच का दूसरा नाम",
+      "hg": "HIV test ka doosra naam"
+     },
+     {
+      "en": "A side effect of HIV medicines",
+      "hi": "एचआईवी की दवाओं का एक दुष्प्रभाव",
+      "hg": "HIV medicines ka ek side effect"
+     },
+     {
+      "en": "A different virus from HIV",
+      "hi": "एचआईवी से अलग एक दूसरा वायरस",
+      "hg": "HIV se alag ek doosra virus"
+     },
+     {
+      "en": "The advanced stage of untreated HIV infection",
+      "hi": "बिना इलाज वाले एचआईवी संक्रमण का आगे बढ़ा हुआ चरण",
+      "hg": "Untreated HIV infection ka advanced stage"
+     }
+    ],
+    "answer": 3,
+    "explain": {
+     "en": "AIDS is what untreated HIV can lead to once the immune system is badly weakened. Daily ART prevents HIV from reaching that stage.",
+     "hi": "एड्स वह स्थिति है जहाँ बिना इलाज का एचआईवी पहुँचा सकता है, जब प्रतिरक्षा तंत्र बहुत कमज़ोर हो जाए। रोज़ की ART एचआईवी को उस चरण तक पहुँचने से रोकती है।",
+     "hg": "AIDS woh stage hai jahan untreated HIV le ja sakta hai, jab immune system bahut weak ho jaye. Daily ART HIV ko us stage tak pahunchne se rokti hai."
+    }
+   },
+   {
+    "id": "d09-l03-q2",
+    "type": "mcq",
+    "q": {
+     "en": "For which pair of STIs are vaccines available?",
+     "hi": "एसटीआई की किस जोड़ी के लिए टीके मौजूद हैं?",
+     "hg": "STIs ki kis jodi ke liye vaccines available hain?"
+    },
+    "options": [
+     {
+      "en": "HPV and hepatitis B",
+      "hi": "एचपीवी और हेपेटाइटिस बी",
+      "hg": "HPV aur hepatitis B"
+     },
+     {
+      "en": "HIV and herpes",
+      "hi": "एचआईवी और हर्पीज़",
+      "hg": "HIV aur herpes"
+     },
+     {
+      "en": "Chlamydia and gonorrhoea",
+      "hi": "क्लैमाइडिया और गोनोरिया",
+      "hg": "Chlamydia aur gonorrhoea"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Vaccines exist for HPV and hepatitis B. There is no vaccine for HIV, herpes or chlamydia, and no vaccine made specifically for gonorrhoea is in routine use.",
+     "hi": "एचपीवी और हेपेटाइटिस बी के टीके मौजूद हैं। एचआईवी, हर्पीज़ या क्लैमाइडिया का कोई टीका नहीं है, और ख़ास तौर पर गोनोरिया के लिए बना कोई टीका नियमित इस्तेमाल में नहीं है।",
+     "hg": "HPV aur hepatitis B ki vaccines available hain. HIV, herpes ya chlamydia ki koi vaccine nahi hai, aur khaas gonorrhoea ke liye bani koi vaccine routine use mein nahi hai."
+    }
+   }
+  ],
+  "refs": [
+   "who-hiv",
+   "who-hpv",
+   "who-herpes",
+   "who-hepb",
+   "who-cervical",
+   "naco"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d09-l04",
+  "domain": "d09",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 3,
+  "minutes": 8,
+  "unesco": [
+   8,
+   5
+  ],
+  "title": {
+   "en": "Testing, Treatment and Telling a Partner",
+   "hi": "जाँच, इलाज और पार्टनर को बताना",
+   "hg": "Testing, Treatment aur Partner ko Batana"
+  },
+  "subtitle": {
+   "en": "The adult skills nobody teaches",
+   "hi": "वे वयस्क हुनर जो कोई नहीं सिखाता",
+   "hg": "Woh adult skills jo koi nahi sikhata"
+  },
+  "hook": {
+   "en": "A test is a health check, not a confession. And 'Shall we both get tested?' is one of the most caring sentences in a relationship.",
+   "hi": "जाँच सेहत की पड़ताल है, गुनाह का इक़बाल नहीं। और 'क्या हम दोनों जाँच करा लें?' किसी रिश्ते के सबसे परवाह भरे वाक्यों में से एक है।",
+   "hg": "Test ek health check hai, confession nahi. Aur 'Kya hum dono test kara lein?' kisi relationship ki sabse caring lines mein se ek hai."
+  },
+  "objectives": [
+   {
+    "en": "Describe what happens at an STI check and why timing matters.",
+    "hi": "बताना कि एसटीआई जाँच में क्या होता है और समय क्यों मायने रखता है।",
+    "hg": "Batana ki STI check mein kya hota hai aur timing kyun matter karti hai."
+   },
+   {
+    "en": "Explain how treatment works for curable and for lifelong infections.",
+    "hi": "समझाना कि ठीक होने वाले और ज़िंदगी भर रहने वाले संक्रमणों में इलाज कैसे काम करता है।",
+    "hg": "Samjhana ki curable aur lifelong infections mein treatment kaise kaam karta hai."
+   },
+   {
+    "en": "Plan a respectful conversation with a partner about testing or a diagnosis.",
+    "hi": "जाँच या किसी निदान के बारे में पार्टनर से सम्मानजनक बातचीत की योजना बनाना।",
+    "hg": "Testing ya diagnosis ke baare mein partner se respectful conversation plan karna."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "What an STI check involves",
+     "hi": "एसटीआई जाँच में क्या होता है",
+     "hg": "STI check mein kya hota hai"
+    },
+    "body": {
+     "en": "There is no single test for every STI. A clinician asks about symptoms and the kinds of sexual contact you have had so that the right samples are taken: blood for HIV, syphilis and hepatitis B, urine or swabs from the genitals, throat or rectum for chlamydia and gonorrhoea, and an examination for sores or warts. Honest answers lead to the right tests; clinicians have heard it all before. Every infection has a window period, the gap between exposure and the point when a test can detect it, so a test taken too soon can be falsely negative and may need repeating.",
+     "hi": "हर एसटीआई के लिए कोई एक जाँच नहीं होती। डॉक्टर लक्षणों के बारे में और इस बारे में पूछते हैं कि आपका किस तरह का यौन संपर्क रहा है, ताकि सही नमूने लिए जा सकें: एचआईवी, सिफ़लिस और हेपेटाइटिस बी के लिए ख़ून, क्लैमाइडिया और गोनोरिया के लिए पेशाब या जननांग, गले या मलाशय से स्वैब, और घाव या मस्सों के लिए शारीरिक जाँच। ईमानदार जवाबों से सही जाँच तय होती है; डॉक्टर यह सब पहले भी सुन चुके होते हैं। हर संक्रमण का एक विंडो पीरियड होता है, यानी संपर्क और उस समय के बीच का अंतर जब जाँच उसे पकड़ सके, इसलिए बहुत जल्दी कराई गई जाँच ग़लत तौर पर नेगेटिव आ सकती है और उसे दोहराना पड़ सकता है।",
+     "hg": "Har STI ke liye koi ek single test nahi hota. Clinician symptoms ke baare mein aur is baare mein poochte hain ki aapka kis tarah ka sexual contact raha hai, taaki sahi samples liye ja sakein: HIV, syphilis aur hepatitis B ke liye blood, chlamydia aur gonorrhoea ke liye urine ya genitals, throat ya rectum se swabs, aur sores ya warts ke liye examination. Honest answers se sahi tests decide hote hain; clinicians yeh sab pehle bhi sun chuke hote hain. Har infection ka ek window period hota hai, yaani exposure aur us point ke beech ka gap jab test use detect kar sake, isliye bahut jaldi karaya gaya test falsely negative aa sakta hai aur use repeat karna pad sakta hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Where and how, in India",
+     "hi": "भारत में कहाँ और कैसे",
+     "hg": "India mein kahan aur kaise"
+    },
+    "body": {
+     "en": "Government hospitals, STI clinics and Integrated Counselling and Testing Centres (ICTCs) offer HIV counselling and testing free of charge, and private labs and clinics test too. HIV testing needs your informed consent, comes with counselling before and after, and your result is confidential. Indian law prohibits discrimination against people living with HIV in jobs, education, housing and healthcare. How often to test is a decision to make with a clinician based on your own situation; common prompts are a new partner, a partner's diagnosis, symptoms, pregnancy or sexual assault. The NACO helpline 1097 can direct you to the nearest centre.",
+     "hi": "सरकारी अस्पताल, एसटीआई क्लिनिक और एकीकृत परामर्श एवं जाँच केंद्र (ICTC) एचआईवी की काउंसलिंग और जाँच मुफ़्त करते हैं, और निजी लैब व क्लिनिक भी जाँच करते हैं। एचआईवी जाँच के लिए आपकी सूचित सहमति ज़रूरी है, जाँच से पहले और बाद में काउंसलिंग होती है, और आपका नतीजा गोपनीय रहता है। भारतीय क़ानून एचआईवी के साथ जी रहे लोगों से नौकरी, शिक्षा, आवास और स्वास्थ्य सेवा में भेदभाव पर रोक लगाता है। कितनी बार जाँच करानी है, यह आपकी अपनी स्थिति देखकर डॉक्टर के साथ तय करने की बात है; आम वजहें हैं नया पार्टनर, पार्टनर में संक्रमण निकलना, लक्षण, गर्भावस्था या यौन हमला। NACO हेल्पलाइन 1097 आपको सबसे नज़दीकी केंद्र का पता बता सकती है।",
+     "hg": "Government hospitals, STI clinics aur Integrated Counselling and Testing Centres (ICTCs) HIV counselling aur testing free karte hain, aur private labs aur clinics bhi test karte hain. HIV testing ke liye aapka informed consent zaroori hai, test se pehle aur baad mein counselling hoti hai, aur aapka result confidential rehta hai. Indian law HIV ke saath jee rahe logon ke saath job, education, housing aur healthcare mein discrimination ko prohibit karta hai. Kitni baar test karana hai, yeh aapki apni situation dekhkar clinician ke saath decide karne ki baat hai; common reasons hain naya partner, partner ka diagnosis, symptoms, pregnancy ya sexual assault. NACO helpline 1097 aapko nearest centre ka pata bata sakti hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Treatment that works",
+     "hi": "इलाज जो काम करता है",
+     "hg": "Treatment jo kaam karta hai"
+    },
+    "body": {
+     "en": "For bacterial STIs and trichomoniasis, the prescribed course cures the infection. Take every dose, avoid sex until the clinician says the infection has cleared, and return for a repeat test if advised. For HIV, daily ART brings the virus down to an undetectable level, usually within months; a person who stays undetectable does not transmit HIV sexually, summed up as U=U, undetectable equals untransmittable. Herpes outbreaks can be shortened or suppressed with antivirals, and chronic hepatitis B is monitored and treated to protect the liver. With treatment, people living with HIV can also have HIV-negative children.",
+     "hi": "बैक्टीरिया वाले एसटीआई और ट्राइकोमोनिएसिस में डॉक्टर का लिखा कोर्स संक्रमण को पूरी तरह ठीक कर देता है। हर ख़ुराक लें, जब तक डॉक्टर न कहें कि संक्रमण ख़त्म हो गया है तब तक सेक्स से बचें, और सलाह दी जाए तो दोबारा जाँच के लिए लौटें। एचआईवी में रोज़ की ART वायरस को आम तौर पर कुछ महीनों में इतना घटा देती है कि वह जाँच में पकड़ में नहीं आता; जो व्यक्ति इसी स्तर पर बना रहता है, वह यौन संबंध से एचआईवी नहीं फैलाता, जिसे संक्षेप में U=U कहते हैं, यानी undetectable बराबर untransmittable। हर्पीज़ के दौरों को एंटीवायरल दवाओं से छोटा किया या दबाया जा सकता है, और पुराने हेपेटाइटिस बी में लिवर को बचाने के लिए निगरानी और इलाज चलता है। इलाज के साथ, एचआईवी के साथ जी रहे लोगों के बच्चे भी एचआईवी-नेगेटिव हो सकते हैं।",
+     "hg": "Bacterial STIs aur trichomoniasis mein prescribed course infection ko cure kar deta hai. Har dose lo, jab tak clinician na bole ki infection clear ho gaya hai tab tak sex avoid karo, aur advice mile toh repeat test ke liye wapas jao. HIV mein daily ART virus ko usually kuch mahino mein undetectable level tak le aati hai; jo insaan undetectable bana rehta hai, woh sexually HIV transmit nahi karta, jise short mein U=U kehte hain, yaani undetectable equals untransmittable. Herpes outbreaks ko antivirals se chhota ya suppress kiya ja sakta hai, aur chronic hepatitis B mein liver ko protect karne ke liye monitoring aur treatment chalta hai. Treatment ke saath, HIV ke saath jee rahe logon ke bachche bhi HIV-negative ho sakte hain."
+    }
+   },
+   {
+    "h": {
+     "en": "Telling a partner",
+     "hi": "पार्टनर को बताना",
+     "hg": "Partner ko batana"
+    },
+    "body": {
+     "en": "If you test positive, recent partners need to know so that they can be tested and treated; otherwise the infection keeps circulating and may come back to you. Choose a private, calm moment and stick to facts: 'I tested positive for chlamydia. It's curable. You should get checked too.' An infection does not prove cheating, since many stay silent for months or years. If telling someone directly feels unsafe, a clinic counsellor can help you plan how. Before starting with a new partner, 'Shall we both get tested?' is a normal adult question. A partner who mocks it is giving you useful information.",
+     "hi": "अगर आपकी जाँच पॉज़िटिव आए, तो हाल के पार्टनरों को पता होना चाहिए ताकि वे भी जाँच और इलाज करा सकें; वरना संक्रमण घूमता रहता है और लौटकर आप तक भी आ सकता है। कोई निजी, शांत पल चुनें और तथ्यों पर टिके रहें: 'मेरी क्लैमाइडिया की जाँच पॉज़िटिव आई है। यह ठीक हो जाता है। तुम्हें भी जाँच करा लेनी चाहिए।' संक्रमण होना बेवफ़ाई का सबूत नहीं है, क्योंकि बहुत से संक्रमण महीनों या बरसों तक चुप रहते हैं। अगर किसी को सीधे बताना असुरक्षित लगे, तो क्लिनिक के काउंसलर तरीक़ा तय करने में मदद कर सकते हैं। नए पार्टनर के साथ शुरुआत से पहले 'क्या हम दोनों जाँच करा लें?' पूछना एक सामान्य, वयस्क सवाल है। जो पार्टनर इसका मज़ाक़ उड़ाए, वह आपको अपने बारे में काम की जानकारी दे रहा है।",
+     "hg": "Agar aapka test positive aaye, toh recent partners ko pata hona chahiye taaki woh bhi test aur treatment kara sakein; warna infection ghoomta rehta hai aur wapas aap tak bhi aa sakta hai. Koi private, calm moment chuno aur facts par tike raho: 'Mera chlamydia test positive aaya hai. Yeh cure ho jaata hai. Tumhe bhi check kara lena chahiye.' Infection hona cheating ka proof nahi hai, kyunki bahut se infections mahino ya saalon tak silent rehte hain. Agar kisi ko directly batana unsafe lage, toh clinic counsellor plan karne mein help kar sakte hain. Naye partner ke saath shuru karne se pehle 'Kya hum dono test kara lein?' poochna ek normal adult question hai. Jo partner iska mazaak udaye, woh aapko apne baare mein useful information de raha hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Asking a partner to get tested means you do not trust them.",
+    "hi": "पार्टनर से जाँच कराने को कहना मतलब आप उन पर भरोसा नहीं करते।",
+    "hg": "Partner ko test karane ko bolna matlab aap un par trust nahi karte."
+   },
+   "fact": {
+    "en": "Because most STIs are silent, a person can carry one honestly without knowing. Testing together protects both people, and suggesting it shows care and maturity, not suspicion.",
+    "hi": "चूँकि ज़्यादातर एसटीआई चुपचाप रहते हैं, इसलिए कोई व्यक्ति पूरी ईमानदारी के बावजूद अनजाने में संक्रमित हो सकता है। साथ में जाँच कराना दोनों की हिफ़ाज़त करता है, और यह सुझाव देना परवाह और समझदारी दिखाता है, शक नहीं।",
+    "hg": "Kyunki zyada-tar STIs silent rehte hain, isliye koi insaan poori honesty ke bawajood anjaane mein infected ho sakta hai. Saath mein test karana dono ko protect karta hai, aur yeh suggest karna care aur maturity dikhata hai, shak nahi."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Tests differ by infection, and a result is only reliable after the window period.",
+    "hi": "हर संक्रमण की जाँच अलग होती है, और नतीजा विंडो पीरियड के बाद ही भरोसेमंद होता है।",
+    "hg": "Har infection ka test alag hota hai, aur result window period ke baad hi reliable hota hai."
+   },
+   {
+    "en": "Curable STIs need the full course and partner treatment, and effective HIV treatment means U=U.",
+    "hi": "ठीक होने वाले एसटीआई में पूरा कोर्स और पार्टनर का इलाज ज़रूरी है, और एचआईवी के कारगर इलाज का मतलब है U=U।",
+    "hg": "Curable STIs mein poora course aur partner treatment zaroori hai, aur effective HIV treatment ka matlab hai U=U."
+   },
+   {
+    "en": "Telling a partner is about health, not blame, and counsellors can help with it.",
+    "hi": "पार्टनर को बताना सेहत का मामला है, दोष का नहीं, और इसमें काउंसलर मदद कर सकते हैं।",
+    "hg": "Partner ko batana health ki baat hai, blame ki nahi, aur isme counsellors help kar sakte hain."
+   }
+  ],
+  "activity": {
+   "en": "Write, just for yourself, two sentences you would be comfortable using to suggest testing to a partner. Read them aloud once so that the words feel less strange.",
+   "hi": "सिर्फ़ अपने लिए ऐसे दो वाक्य लिखें जिन्हें आप पार्टनर को जाँच का सुझाव देने के लिए सहजता से कह सकें। उन्हें एक बार ज़ोर से पढ़ें ताकि शब्द कम अटपटे लगें।",
+   "hg": "Sirf apne liye aisi do lines likho jo aap partner ko testing suggest karne ke liye comfortably bol sako. Unhe ek baar zor se padho taaki words kam ajeeb lagein."
+  },
+  "interactive": "communication",
+  "quiz": [
+   {
+    "id": "d09-l04-q1",
+    "type": "scenario",
+    "q": {
+     "en": "Sameer is prescribed a course of medicine for chlamydia. After two days he feels fine. What should he do?",
+     "hi": "समीर को क्लैमाइडिया के लिए दवा का कोर्स लिखा गया है। दो दिन बाद उसे ठीक लगने लगता है। उसे क्या करना चाहिए?",
+     "hg": "Sameer ko chlamydia ke liye medicine ka course prescribe hua hai. Do din baad use theek lagne lagta hai. Use kya karna chahiye?"
+    },
+    "options": [
+     {
+      "en": "Stop the tablets, since the symptoms have gone",
+      "hi": "गोलियाँ बंद कर दे, क्योंकि लक्षण चले गए हैं",
+      "hg": "Tablets band kar de, kyunki symptoms chale gaye hain"
+     },
+     {
+      "en": "Finish the course, tell his partner to get checked and avoid sex until the clinician clears him",
+      "hi": "कोर्स पूरा करे, पार्टनर को जाँच कराने को कहे और डॉक्टर के कहने तक सेक्स से बचे",
+      "hg": "Course poora kare, partner ko check karane ko bole aur clinician ke clear karne tak sex avoid kare"
+     },
+     {
+      "en": "Keep the remaining tablets for the next time",
+      "hi": "बची हुई गोलियाँ अगली बार के लिए रख ले",
+      "hg": "Bachi hui tablets next time ke liye rakh le"
+     },
+     {
+      "en": "Give the remaining tablets to his partner",
+      "hi": "बची हुई गोलियाँ अपने पार्टनर को दे दे",
+      "hg": "Bachi hui tablets apne partner ko de de"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Feeling better is not the same as being cured. The full course clears the infection, and the partner needs their own assessment and prescription to prevent reinfection.",
+     "hi": "बेहतर महसूस करना और ठीक हो जाना एक बात नहीं है। पूरा कोर्स संक्रमण को ख़त्म करता है, और दोबारा संक्रमण रोकने के लिए पार्टनर को अपनी अलग जाँच और अपना पर्चा चाहिए।",
+     "hg": "Better feel karna aur cure ho jaana same nahi hai. Poora course infection ko clear karta hai, aur reinfection rokne ke liye partner ko apna alag assessment aur prescription chahiye."
+    }
+   },
+   {
+    "id": "d09-l04-q2",
+    "type": "tf",
+    "q": {
+     "en": "A negative test taken the day after exposure reliably rules out infection.",
+     "hi": "संपर्क के अगले ही दिन कराई गई नेगेटिव जाँच पक्के तौर पर बता देती है कि संक्रमण नहीं है।",
+     "hg": "Exposure ke agle hi din karaya gaya negative test reliably bata deta hai ki infection nahi hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Tests cannot detect an infection during its window period, so an early negative may be false. A clinician advises when to test and when to repeat.",
+     "hi": "विंडो पीरियड के दौरान जाँच संक्रमण को पकड़ नहीं पाती, इसलिए शुरुआती नेगेटिव नतीजा ग़लत हो सकता है। कब जाँच करानी है और कब दोहरानी है, यह डॉक्टर बताते हैं।",
+     "hg": "Window period ke dauraan test infection ko detect nahi kar pata, isliye early negative galat ho sakta hai. Kab test karna hai aur kab repeat karna hai, yeh clinician batate hain."
+    }
+   }
+  ],
+  "refs": [
+   "who-sti",
+   "who-hiv",
+   "naco"
+  ],
+  "warning": {
+   "en": "This lesson gives general information. Which tests you need, when to take them and which medicine is right are decisions for a clinician who knows your situation.",
+   "hi": "यह पाठ सामान्य जानकारी देता है। आपको कौन सी जाँच चाहिए, कब करानी है और कौन सी दवा सही है, ये फ़ैसले उस डॉक्टर के हैं जो आपकी स्थिति जानता है।",
+   "hg": "Yeh lesson general information deta hai. Aapko kaun se tests chahiye, kab karane hain aur kaun si medicine sahi hai, yeh decisions us clinician ke hain jo aapki situation jaanta hai."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d09-l05",
+  "domain": "d09",
+  "tracks": [
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 8,
+  "unesco": [
+   8,
+   5
+  ],
+  "title": {
+   "en": "Protect, Prevent, Act Fast",
+   "hi": "बचाव, रोकथाम और फ़ौरन क़दम",
+   "hg": "Protect, Prevent, Act Fast"
+  },
+  "subtitle": {
+   "en": "Condoms, vaccines, PEP, PrEP and red-flag signs",
+   "hi": "कंडोम, टीके, PEP, PrEP और ख़तरे के संकेत",
+   "hg": "Condoms, vaccines, PEP, PrEP aur red-flag signs"
+  },
+  "hook": {
+   "en": "Prevention is a toolkit, not one trick. And in a few situations the clock matters: 72 hours is the number to remember.",
+   "hi": "बचाव कोई एक नुस्ख़ा नहीं, पूरा टूलकिट है। और कुछ हालात में घड़ी मायने रखती है: 72 घंटे की संख्या याद रखो।",
+   "hg": "Prevention ek trick nahi, poora toolkit hai. Aur kuch situations mein clock matter karti hai: 72 ghante wala number yaad rakho."
+  },
+  "objectives": [
+   {
+    "en": "Compare the main ways of preventing STIs and what each one covers.",
+    "hi": "एसटीआई से बचाव के मुख्य तरीक़ों की तुलना करना और यह कि हर तरीक़ा किससे बचाता है।",
+    "hg": "STIs se bachav ke main tareekon ko compare karna aur har ek kya cover karta hai."
+   },
+   {
+    "en": "Distinguish PEP from PrEP.",
+    "hi": "PEP और PrEP में फ़र्क़ करना।",
+    "hg": "PEP aur PrEP ka farak samajhna."
+   },
+   {
+    "en": "Recognise the signs and situations that need urgent medical assessment.",
+    "hi": "उन संकेतों और हालात को पहचानना जिनमें तुरंत डॉक्टरी जाँच ज़रूरी है।",
+    "hg": "Un signs aur situations ko pehchanna jinme urgent medical assessment chahiye."
+   }
+  ],
+  "prereqs": [
+   "d09-l03"
+  ],
+  "sections": [
+   {
+    "h": {
+     "en": "Layers of protection",
+     "hi": "बचाव की परतें",
+     "hg": "Protection ki layers"
+    },
+    "body": {
+     "en": "No single method blocks every STI, so prevention works in layers. Not having sex is fully effective and always a valid choice, and under 18 it is also what the law expects. External and internal condoms, used correctly every time, greatly reduce infections carried in fluids, such as HIV, gonorrhoea and chlamydia. They give less complete protection against infections spread by skin contact outside the covered area, such as herpes, HPV and syphilis sores. Pills, injectables and IUDs prevent pregnancy but give no STI protection. Never sharing needles, and using only sterile tattoo and piercing equipment, closes the blood route.",
+     "hi": "कोई एक तरीक़ा हर एसटीआई को नहीं रोकता, इसलिए बचाव परतों में काम करता है। सेक्स न करना पूरी तरह कारगर है और हमेशा एक सही चुनाव है, और 18 से कम उम्र में क़ानून भी यही अपेक्षा रखता है। बाहरी और भीतरी कंडोम, हर बार सही तरीक़े से इस्तेमाल हों तो, तरल से फैलने वाले संक्रमणों को बहुत घटा देते हैं, जैसे एचआईवी, गोनोरिया और क्लैमाइडिया। ढके हुए हिस्से के बाहर की त्वचा के संपर्क से फैलने वाले संक्रमणों से, जैसे हर्पीज़, एचपीवी और सिफ़लिस के घाव, ये उतना पूरा बचाव नहीं देते। गोलियाँ, इंजेक्शन और आईयूडी गर्भ रोकते हैं, पर एसटीआई से कोई बचाव नहीं देते। सुइयाँ कभी साझा न करना, और टैटू व पियर्सिंग के लिए सिर्फ़ कीटाणुरहित औज़ारों का इस्तेमाल, ख़ून वाला रास्ता बंद कर देता है।",
+     "hg": "Koi ek method har STI ko block nahi karta, isliye prevention layers mein kaam karta hai. Sex na karna fully effective hai aur hamesha ek valid choice hai, aur 18 se kam umar mein law bhi yahi expect karta hai. External aur internal condoms, har baar sahi tareeke se use hon toh, fluids se failne wale infections ko bahut kam kar dete hain, jaise HIV, gonorrhoea aur chlamydia. Covered area ke bahar ki skin contact se failne wale infections se, jaise herpes, HPV aur syphilis sores, yeh utna complete protection nahi dete. Pills, injectables aur IUDs pregnancy rokte hain, par STI se koi protection nahi dete. Needles kabhi share na karna, aur tattoo aur piercing ke liye sirf sterile equipment use karna, blood wala route band kar deta hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Vaccines",
+     "hi": "टीके",
+     "hg": "Vaccines"
+    },
+    "body": {
+     "en": "Two STIs can be prevented by vaccination. The HPV vaccine protects against the virus types that cause most cervical cancers and, depending on the vaccine, genital warts. It works best when given before any sexual contact; WHO's primary target group is girls aged 9 to 14, and many countries also vaccinate boys and offer catch-up doses to older teenagers and young adults. The hepatitis B vaccine is given to babies in India's routine immunisation programme, and people who missed it can be vaccinated later. Vaccines do not treat an existing infection, and vaccinated women still need cervical screening as adults. A doctor can advise on timing and doses.",
+     "hi": "दो एसटीआई से टीकाकरण के ज़रिए बचा जा सकता है। एचपीवी का टीका वायरस के उन प्रकारों से बचाता है जो ज़्यादातर सर्वाइकल कैंसर की वजह हैं और, टीके के प्रकार के हिसाब से, जननांगों के मस्सों से भी। यह किसी भी यौन संपर्क से पहले लगने पर सबसे अच्छा काम करता है; WHO का मुख्य लक्ष्य समूह 9 से 14 साल की लड़कियाँ हैं, और कई देश लड़कों को भी टीका लगाते हैं और बड़े किशोरों व युवा वयस्कों को छूटी हुई ख़ुराक देते हैं। हेपेटाइटिस बी का टीका भारत के नियमित टीकाकरण कार्यक्रम में शिशुओं को लगता है, और जिन्हें नहीं लगा वे बाद में लगवा सकते हैं। टीके पहले से मौजूद संक्रमण का इलाज नहीं करते, और टीका लगवा चुकी महिलाओं को भी वयस्क होने पर सर्वाइकल स्क्रीनिंग की ज़रूरत रहती है। समय और ख़ुराकों के बारे में डॉक्टर सलाह दे सकते हैं।",
+     "hg": "Do STIs vaccination se prevent ho sakte hain. HPV vaccine virus ke un types se bachati hai jo zyada-tar cervical cancers ki wajah hain aur, vaccine ke type ke hisaab se, genital warts se bhi. Yeh kisi bhi sexual contact se pehle lagne par sabse achha kaam karti hai; WHO ka primary target group 9 se 14 saal ki ladkiyan hain, aur kai countries ladkon ko bhi vaccine lagati hain aur bade teenagers aur young adults ko catch-up doses deti hain. Hepatitis B vaccine India ke routine immunisation programme mein babies ko lagti hai, aur jinhe nahi lagi woh baad mein lagwa sakte hain. Vaccines pehle se maujood infection ko treat nahi karti, aur vaccinated women ko bhi adult hone par cervical screening ki zaroorat rehti hai. Timing aur doses ke baare mein doctor advice de sakte hain."
+    }
+   },
+   {
+    "h": {
+     "en": "PEP and PrEP",
+     "hi": "PEP और PrEP",
+     "hg": "PEP aur PrEP"
+    },
+    "body": {
+     "en": "These are two different HIV-prevention medicines. PEP, post-exposure prophylaxis, is an emergency course taken after a possible exposure to HIV, for example after sexual assault, a condom failure with a partner who may have HIV, or a needle injury. It needs urgent clinical assessment, must begin as soon as possible and no later than 72 hours after the exposure, and is taken for 28 days. PrEP, pre-exposure prophylaxis, is taken in advance by HIV-negative people who are at ongoing risk, and it is prescribed and monitored by a clinician. Neither protects against other STIs or pregnancy.",
+     "hi": "ये एचआईवी से बचाव की दो अलग-अलग दवाएँ हैं। PEP, यानी पोस्ट-एक्सपोज़र प्रोफ़िलैक्सिस, एक इमरजेंसी कोर्स है जो एचआईवी के संभावित संपर्क के बाद लिया जाता है, जैसे यौन हमले के बाद, ऐसे पार्टनर के साथ कंडोम फटने या निकल जाने पर जिसे एचआईवी हो सकता है, या सुई चुभने पर। इसके लिए तुरंत डॉक्टरी जाँच ज़रूरी है, इसे जल्द से जल्द और संपर्क के 72 घंटे के भीतर शुरू करना होता है, और यह 28 दिन तक लिया जाता है। PrEP, यानी प्री-एक्सपोज़र प्रोफ़िलैक्सिस, वे एचआईवी-नेगेटिव लोग पहले से लेते हैं जिन्हें लगातार जोखिम रहता है, और इसे डॉक्टर लिखते हैं और निगरानी भी रखते हैं। दोनों में से कोई भी दूसरे एसटीआई या गर्भ से नहीं बचाता।",
+     "hg": "Yeh HIV-prevention ki do alag medicines hain. PEP, yaani post-exposure prophylaxis, ek emergency course hai jo HIV ke possible exposure ke baad liya jaata hai, jaise sexual assault ke baad, aise partner ke saath condom fail hone par jise HIV ho sakta hai, ya needle injury par. Iske liye urgent clinical assessment chahiye, ise jaldi se jaldi aur exposure ke 72 ghante ke andar start karna hota hai, aur yeh 28 din tak liya jaata hai. PrEP, yaani pre-exposure prophylaxis, woh HIV-negative log pehle se lete hain jinhe ongoing risk rehta hai, aur ise clinician prescribe aur monitor karte hain. Dono mein se koi bhi doosre STIs ya pregnancy se protect nahi karta."
+    }
+   },
+   {
+    "h": {
+     "en": "When to get help urgently",
+     "hi": "कब तुरंत मदद लेनी है",
+     "hg": "Kab urgently help leni hai"
+    },
+    "body": {
+     "en": "Some situations should not wait. Seek medical care the same day after any sexual assault, or after a possible HIV exposure in the last 72 hours. Do the same for severe lower abdominal pain with fever, a painful swollen testicle, genital sores with fever or difficulty passing urine, a rash on the palms and soles, yellow eyes with dark urine, or any STI symptoms during pregnancy. Go to a government hospital or a doctor you trust rather than a chemist. For people under 18, doctors cannot promise complete secrecy about sexual abuse or sexual activity, because of mandatory reporting under POCSO, but your health comes first.",
+     "hi": "कुछ हालात में इंतज़ार नहीं करना चाहिए। किसी भी यौन हमले के बाद, या पिछले 72 घंटों में एचआईवी के संभावित संपर्क के बाद, उसी दिन इलाज के लिए जाओ। यही तब भी करो जब पेट के निचले हिस्से में तेज़ दर्द के साथ बुख़ार हो, अंडकोष में दर्द और सूजन हो, जननांगों पर घाव के साथ बुख़ार या पेशाब करने में दिक़्क़त हो, हथेलियों और तलवों पर चकत्ते हों, आँखें पीली और पेशाब गहरा हो, या गर्भावस्था में एसटीआई का कोई भी लक्षण दिखे। केमिस्ट के बजाय सरकारी अस्पताल या किसी भरोसेमंद डॉक्टर के पास जाओ। 18 से कम उम्र वालों के मामले में डॉक्टर यौन शोषण या यौन गतिविधि के बारे में पूरी गोपनीयता का वादा नहीं कर सकते, क्योंकि POCSO के तहत सूचना देना अनिवार्य है, लेकिन तुम्हारी सेहत सबसे पहले है।",
+     "hg": "Kuch situations mein wait nahi karna chahiye. Kisi bhi sexual assault ke baad, ya pichhle 72 ghanton mein HIV ke possible exposure ke baad, usi din medical care lo. Yahi tab bhi karo jab lower abdomen mein severe pain ke saath fever ho, testicle mein pain aur swelling ho, genital sores ke saath fever ya peshab karne mein dikkat ho, hatheliyon aur talwon par rash ho, aankhein peeli aur urine dark ho, ya pregnancy mein STI ka koi bhi symptom dikhe. Chemist ke bajaye government hospital ya kisi trusted doctor ke paas jao. 18 se kam umar walon ke case mein doctors sexual abuse ya sexual activity ke baare mein complete secrecy ka promise nahi kar sakte, kyunki POCSO ke under reporting mandatory hai, lekin tumhari health sabse pehle hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Using two condoms at once gives double protection.",
+    "hi": "एक साथ दो कंडोम लगाने से दोगुनी सुरक्षा मिलती है।",
+    "hg": "Ek saath do condom lagane se double protection milti hai."
+   },
+   "fact": {
+    "en": "Wearing two condoms together increases friction, which makes both more likely to tear. One condom of the right size, used correctly from start to finish, is the protective choice.",
+    "hi": "दो कंडोम एक साथ पहनने से रगड़ बढ़ती है, जिससे दोनों के फटने की संभावना बढ़ जाती है। सही नाप का एक कंडोम, शुरू से आख़िर तक सही तरीक़े से इस्तेमाल किया जाए, यही सुरक्षा देने वाला चुनाव है।",
+    "hg": "Do condom ek saath pehenne se friction badhta hai, jisse dono ke phatne ke chances badh jaate hain. Sahi size ka ek condom, shuru se end tak sahi tareeke se use kiya jaye, yahi protective choice hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Condoms greatly reduce STI risk but do not fully cover skin-to-skin infections such as herpes and HPV.",
+    "hi": "कंडोम एसटीआई का ख़तरा बहुत घटाते हैं, पर हर्पीज़ और एचपीवी जैसे त्वचा से त्वचा वाले संक्रमणों से पूरा बचाव नहीं देते।",
+    "hg": "Condoms STI risk bahut kam karte hain, par herpes aur HPV jaise skin-to-skin infections se poora cover nahi dete."
+   },
+   {
+    "en": "PEP is an emergency course started within 72 hours and taken for 28 days, while PrEP is taken beforehand by HIV-negative people.",
+    "hi": "PEP एक इमरजेंसी कोर्स है जो 72 घंटे के भीतर शुरू होता है और 28 दिन चलता है, जबकि PrEP एचआईवी-नेगेटिव लोग पहले से लेते हैं।",
+    "hg": "PEP ek emergency course hai jo 72 ghante ke andar start hota hai aur 28 din chalta hai, jabki PrEP HIV-negative log pehle se lete hain."
+   },
+   {
+    "en": "Sexual assault, possible HIV exposure and severe symptoms need same-day medical care.",
+    "hi": "यौन हमला, एचआईवी का संभावित संपर्क और गंभीर लक्षण, इन सबमें उसी दिन इलाज ज़रूरी है।",
+    "hg": "Sexual assault, possible HIV exposure aur severe symptoms mein same-day medical care zaroori hai."
+   }
+  ],
+  "activity": {
+   "en": "Save two numbers in your phone: 1097 (the NACO HIV helpline) and 112. Then find out where the nearest government hospital with an emergency department is.",
+   "hi": "अपने फ़ोन में दो नंबर सेव करो: 1097 (NACO एचआईवी हेल्पलाइन) और 112। फिर पता करो कि इमरजेंसी विभाग वाला सबसे नज़दीकी सरकारी अस्पताल कहाँ है।",
+   "hg": "Apne phone mein do numbers save karo: 1097 (NACO HIV helpline) aur 112. Phir pata karo ki emergency department wala nearest government hospital kahan hai."
+  },
+  "interactive": "protection_lab",
+  "quiz": [
+   {
+    "id": "d09-l05-q1",
+    "type": "mcq",
+    "q": {
+     "en": "What is the latest that PEP can be started after a possible HIV exposure?",
+     "hi": "एचआईवी के संभावित संपर्क के बाद PEP ज़्यादा से ज़्यादा कब तक शुरू किया जा सकता है?",
+     "hg": "HIV ke possible exposure ke baad PEP zyada se zyada kab tak start kiya ja sakta hai?"
+    },
+    "options": [
+     {
+      "en": "Within 28 days",
+      "hi": "28 दिन के भीतर",
+      "hg": "28 din ke andar"
+     },
+     {
+      "en": "Within 7 days",
+      "hi": "7 दिन के भीतर",
+      "hg": "7 din ke andar"
+     },
+     {
+      "en": "Within 72 hours",
+      "hi": "72 घंटे के भीतर",
+      "hg": "72 ghante ke andar"
+     },
+     {
+      "en": "Any time before the next HIV test",
+      "hi": "अगली एचआईवी जाँच से पहले कभी भी",
+      "hg": "Agle HIV test se pehle kabhi bhi"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "PEP should begin as soon as possible and no later than 72 hours after exposure; after that it is not expected to work. The 28 days is how long the course lasts.",
+     "hi": "PEP जल्द से जल्द और संपर्क के 72 घंटे के भीतर शुरू होना चाहिए; उसके बाद इसके काम करने की उम्मीद नहीं रहती। 28 दिन कोर्स की अवधि है।",
+     "hg": "PEP jaldi se jaldi aur exposure ke 72 ghante ke andar start hona chahiye; uske baad iske kaam karne ki ummeed nahi rehti. 28 din course ki duration hai."
+    }
+   },
+   {
+    "id": "d09-l05-q2",
+    "type": "tf",
+    "q": {
+     "en": "Contraceptive pills also protect against STIs.",
+     "hi": "गर्भनिरोधक गोलियाँ एसटीआई से भी बचाती हैं।",
+     "hg": "Contraceptive pills STIs se bhi protect karti hain."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Pills, injectables and IUDs prevent pregnancy only. Among contraceptives, only external and internal condoms also reduce STI risk.",
+     "hi": "गोलियाँ, इंजेक्शन और आईयूडी सिर्फ़ गर्भ रोकते हैं। गर्भनिरोधकों में केवल बाहरी और भीतरी कंडोम ही एसटीआई का ख़तरा भी घटाते हैं।",
+     "hg": "Pills, injectables aur IUDs sirf pregnancy rokte hain. Contraceptives mein sirf external aur internal condoms hi STI risk bhi kam karte hain."
+    }
+   }
+  ],
+  "refs": [
+   "who-sti",
+   "who-pep",
+   "who-hiv",
+   "who-hpv",
+   "who-hepb",
+   "naco"
+  ],
+  "warning": {
+   "en": "A possible HIV exposure or a sexual assault in the last 72 hours is urgent: go to a hospital now, and ask about emergency contraception too (up to 5 days, the sooner the better). An assault is never the survivor's fault. Call 112 in an emergency, the Child Helpline 1098 if you are under 18, the Women Helpline 181, or 1097 for HIV information.",
+   "hi": "पिछले 72 घंटों में एचआईवी का संभावित संपर्क या यौन हमला एक आपात स्थिति है: अभी अस्पताल जाओ, और इमरजेंसी गर्भनिरोधक के बारे में भी पूछो (5 दिन तक, जितना जल्दी उतना बेहतर)। यौन हमला कभी भी सर्वाइवर की ग़लती नहीं होता। इमरजेंसी में 112 पर, 18 से कम उम्र हो तो चाइल्ड हेल्पलाइन 1098 पर, महिला हेल्पलाइन 181 पर, या एचआईवी की जानकारी के लिए 1097 पर कॉल करो।",
+   "hg": "Pichhle 72 ghanton mein possible HIV exposure ya sexual assault urgent hai: abhi hospital jao, aur emergency contraception ke baare mein bhi poocho (5 din tak, jitna jaldi utna better). Sexual assault kabhi bhi survivor ki galti nahi hota. Emergency mein 112 par, 18 se kam umar ho toh Child Helpline 1098 par, Women Helpline 181 par, ya HIV information ke liye 1097 par call karo."
+  },
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ }
+]

@@ -1,0 +1,1289 @@
+[
+ {
+  "id": "d12-l01",
+  "domain": "d12",
+  "tracks": [
+   "B"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 1,
+  "minutes": 5,
+  "unesco": [
+   5,
+   4
+  ],
+  "title": {
+   "en": "Screens Edit Real Life",
+   "hi": "स्क्रीन पर सब असली नहीं होता",
+   "hg": "Screen Pe Sab Real Nahi Hota"
+  },
+  "subtitle": {
+   "en": "Filters, ads, influencers and what to do when something online feels wrong",
+   "hi": "फ़िल्टर, विज्ञापन, इन्फ्लुएंसर — और जब ऑनलाइन कुछ ग़लत लगे तो क्या करें",
+   "hg": "Filters, ads, influencers — aur jab online kuch galat lage toh kya karein"
+  },
+  "hook": {
+   "en": "That glowing skin in the ad? It took a make-up artist, studio lights, fifty retakes and an editing app. Screens show a polished version of life, not the real one.",
+   "hi": "विज्ञापन वाली वो चमकती त्वचा? उसके पीछे मेकअप आर्टिस्ट, स्टूडियो की लाइटें, पचास रीटेक और एक एडिटिंग ऐप है। स्क्रीन ज़िंदगी का चमकाया हुआ रूप दिखाती है, असली वाला नहीं।",
+   "hg": "Ad wali woh glowing skin? Uske peeche makeup artist, studio lights, pachaas retakes aur ek editing app hai. Screen life ka polished version dikhati hai, asli wala nahi."
+  },
+  "objectives": [
+   {
+    "en": "Explain how photos and videos are staged, filtered or edited before you see them.",
+    "hi": "समझा पाना कि तस्वीरें और वीडियो तुम तक पहुँचने से पहले कैसे सजाए, फ़िल्टर और एडिट किए जाते हैं।",
+    "hg": "Samjha paana ki photos aur videos tum tak pahunchne se pehle kaise stage, filter aur edit hote hain."
+   },
+   {
+    "en": "Spot when a post is trying to sell you something.",
+    "hi": "पहचान पाना कि कोई पोस्ट तुम्हें कुछ बेचने की कोशिश कर रही है।",
+    "hg": "Pehchaan paana ki koi post tumhe kuch bechne ki koshish kar rahi hai."
+   },
+   {
+    "en": "Know what to do if you see content online that is meant for adults or feels upsetting.",
+    "hi": "जानना कि अगर ऑनलाइन बड़ों के लिए बनी या परेशान करने वाली चीज़ दिख जाए तो क्या करना है।",
+    "hg": "Jaanna ki agar online adults ke liye bana ya upset karne wala content dikh jaaye toh kya karna hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "The perfect photo is a team project",
+     "hi": "परफ़ेक्ट फ़ोटो पूरी टीम का काम है",
+     "hg": "Perfect photo poori team ka kaam hai"
+    },
+    "body": {
+     "en": "Almost every picture you see in an ad, a film poster or a popular reel has been worked on. Good lighting, make-up, a carefully chosen camera angle and dozens of retakes come first. Then filters and editing apps smooth skin, change body shape, brighten eyes and remove pimples, scars and body hair. Even ordinary people take twenty selfies and post one. So when you compare your everyday face or body with a picture on a screen, you are comparing a real person with a finished product. Real skin has pores, marks and hair. That is not a flaw; that is skin.",
+     "hi": "विज्ञापन, फ़िल्म के पोस्टर या किसी मशहूर रील में दिखने वाली लगभग हर तस्वीर पर पहले काम किया गया होता है। सबसे पहले अच्छी लाइटिंग, मेकअप, सोच-समझकर चुना गया कैमरा एंगल और दर्जनों रीटेक होते हैं। फिर फ़िल्टर और एडिटिंग ऐप त्वचा को चिकना करते हैं, शरीर का आकार बदलते हैं, आँखें चमकाते हैं और मुँहासे, निशान और शरीर के बाल हटा देते हैं। आम लोग भी बीस सेल्फ़ी लेकर एक ही पोस्ट करते हैं। इसलिए जब तुम अपने रोज़ के चेहरे या शरीर की तुलना स्क्रीन की तस्वीर से करते हो, तो एक असली इंसान की तुलना एक तैयार प्रोडक्ट से कर रहे होते हो। असली त्वचा में रोमछिद्र, निशान और बाल होते हैं। यह कोई कमी नहीं है; त्वचा ऐसी ही होती है।",
+     "hg": "Ad ho, film poster ho ya popular reel — jo bhi photo dikhti hai, lagbhag har ek pe pehle kaam hua hota hai. Pehle aati hai achhi lighting, makeup, soch-samajh ke chuna hua camera angle aur dozens of retakes. Phir filters aur editing apps skin smooth karte hain, body shape badalte hain, aankhein bright karte hain aur pimples, scars aur body hair gayab kar dete hain. Normal log bhi bees selfie leke ek hi post karte hain. Toh jab tum apne roz ke chehre ya body ko screen wali photo se compare karte ho, tum ek real insaan ko ek finished product se compare kar rahe ho. Real skin mein pores, marks aur baal hote hain. Yeh flaw nahi hai; skin aisi hi hoti hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Who is paying for this post?",
+     "hi": "इस पोस्ट के पैसे कौन दे रहा है?",
+     "hg": "Is post ke paise kaun de raha hai?"
+    },
+    "body": {
+     "en": "Ads are made to sell things, and they work by making you feel that something is missing: fairer skin, a slimmer body, cooler shoes. Influencers are people with many followers, and brands often pay them or send free products so that they will praise them. In India such posts are supposed to carry labels like 'ad', 'sponsored' or 'paid partnership', but the label can be tiny or missing. A useful habit: before you believe a post, ask who made it, what they want you to do or buy, and what they left out.",
+     "hi": "विज्ञापन चीज़ें बेचने के लिए बनते हैं, और वे तुम्हें यह महसूस कराकर काम करते हैं कि तुममें कुछ कमी है: गोरी त्वचा, पतला शरीर, ज़्यादा कूल जूते। इन्फ्लुएंसर वे लोग होते हैं जिनके बहुत फ़ॉलोअर होते हैं, और ब्रांड अक्सर उन्हें पैसे देते हैं या मुफ़्त सामान भेजते हैं ताकि वे उसकी तारीफ़ करें। भारत में ऐसी पोस्ट पर 'ad', 'sponsored' या 'paid partnership' जैसा लेबल होना चाहिए, लेकिन यह लेबल बहुत छोटा हो सकता है या होता ही नहीं। एक काम की आदत: किसी पोस्ट पर भरोसा करने से पहले पूछो — इसे किसने बनाया, वे मुझसे क्या करवाना या ख़रीदवाना चाहते हैं, और उन्होंने क्या छिपा लिया।",
+     "hg": "Ads cheezein bechne ke liye bante hain, aur woh tumhe yeh feel karake kaam karte hain ki tum mein kuch kami hai: gori skin, patli body, zyada cool shoes. Influencers woh log hain jinke bahut followers hote hain, aur brands aksar unhe paise dete hain ya free products bhejte hain taaki woh tareef karein. India mein aisi posts pe 'ad', 'sponsored' ya 'paid partnership' jaisa label hona chahiye, lekin label bahut chhota ho sakta hai ya hota hi nahi. Ek kaam ki aadat: kisi post pe bharosa karne se pehle pucho — isse kisne banaya, yeh mujhse kya karwana ya kharidwana chahte hain, aur inhone kya chhupa liya."
+    }
+   },
+   {
+    "h": {
+     "en": "Apps are built to keep you scrolling",
+     "hi": "ऐप इसी तरह बने हैं कि तुम स्क्रॉल करते रहो",
+     "hg": "Apps bane hi aise hain ki tum scroll karte raho"
+    },
+    "body": {
+     "en": "Video and game apps use a computer system called an algorithm. It watches what you tap, like and pause on, then shows you more of the same so that you stay longer. That is why one cricket clip turns into an hour of clips. It also means shocking, scary or exaggerated videos spread fast, because people stop to look at them. A video having lakhs of views does not make it true. For questions about health, your body or growing up, check with a parent, teacher, doctor or another trusted source instead of trusting whatever appears next in your feed.",
+     "hi": "वीडियो और गेम वाले ऐप एक कंप्यूटर सिस्टम इस्तेमाल करते हैं जिसे एल्गोरिदम कहते हैं। यह देखता है कि तुम किस चीज़ पर टैप करते हो, क्या लाइक करते हो और कहाँ रुकते हो, और फिर वैसी ही और चीज़ें दिखाता है ताकि तुम ज़्यादा देर टिके रहो। इसीलिए क्रिकेट की एक क्लिप देखते-देखते एक घंटा निकल जाता है। इसका मतलब यह भी है कि चौंकाने वाले, डरावने या बढ़ा-चढ़ाकर बनाए गए वीडियो तेज़ी से फैलते हैं, क्योंकि लोग उन्हें रुककर देखते हैं। किसी वीडियो पर लाखों व्यूज़ होने से वह सच नहीं हो जाता। सेहत, शरीर या बड़े होने से जुड़े सवालों के लिए फ़ीड में जो भी आ जाए उस पर भरोसा मत करो; मम्मी-पापा, टीचर, डॉक्टर या किसी भरोसेमंद स्रोत से पूछो।",
+     "hg": "Video aur game apps ek computer system use karte hain jise algorithm kehte hain. Yeh dekhta hai ki tum kis pe tap karte ho, kya like karte ho aur kahan rukte ho, phir waisa hi aur content dikhata hai taaki tum zyada der tike raho. Isiliye cricket ki ek clip dekhte-dekhte ek ghanta nikal jaata hai. Iska matlab yeh bhi hai ki shocking, daravne ya badha-chadha ke banaye videos tezi se failte hain, kyunki log unhe ruk ke dekhte hain. Kisi video pe lakhon views hone se woh sach nahi ho jaata. Health, body ya bade hone wale sawaalon ke liye feed mein jo bhi aa jaaye uspe bharosa mat karo; mummy-papa, teacher, doctor ya kisi trusted source se pucho."
+    }
+   },
+   {
+    "h": {
+     "en": "When something online is not meant for you",
+     "hi": "जब ऑनलाइन कोई चीज़ तुम्हारे लिए बनी ही नहीं हो",
+     "hg": "Jab online koi cheez tumhare liye bani hi nahi ho"
+    },
+    "body": {
+     "en": "Some pictures and videos on the internet are made only for adults. They can pop up by accident through an ad, a link, a game chat or a forwarded message. They are acted and edited, and they do not show how real people, bodies or relationships are. If you see something like this, or anything that leaves you scared, confused or uncomfortable, close it and tell a trusted adult such as a parent, teacher or school counsellor. You are not in trouble and you did nothing wrong. If any person sends you such things or asks you to keep it secret, tell an adult straight away or call 1098.",
+     "hi": "इंटरनेट पर कुछ तस्वीरें और वीडियो सिर्फ़ बड़ों के लिए बनाए जाते हैं। ये किसी विज्ञापन, लिंक, गेम की चैट या फ़ॉरवर्ड किए गए मैसेज से ग़लती से सामने आ सकते हैं। इनमें एक्टिंग और एडिटिंग होती है, और ये नहीं दिखाते कि असली लोग, शरीर या रिश्ते कैसे होते हैं। अगर तुम्हें ऐसा कुछ दिखे, या कुछ भी ऐसा जिससे डर, उलझन या बेचैनी हो, तो उसे बंद कर दो और किसी भरोसेमंद बड़े को बताओ, जैसे मम्मी-पापा, टीचर या स्कूल काउंसलर। तुम किसी मुसीबत में नहीं हो और तुमने कुछ ग़लत नहीं किया। अगर कोई इंसान तुम्हें ऐसी चीज़ें भेजे या इसे राज़ रखने को कहे, तो तुरंत किसी बड़े को बताओ या 1098 पर कॉल करो।",
+     "hg": "Internet pe kuch photos aur videos sirf adults ke liye banaye jaate hain. Yeh kisi ad, link, game chat ya forwarded message se galti se saamne aa sakte hain. Inmein acting aur editing hoti hai, aur yeh nahi dikhate ki real log, bodies ya relationships kaise hote hain. Agar tumhe aisa kuch dikhe, ya kuch bhi aisa jisse dar, confusion ya uncomfortable feel ho, toh use band karo aur kisi trusted adult ko batao, jaise mummy-papa, teacher ya school counsellor. Tum kisi trouble mein nahi ho aur tumne kuch galat nahi kiya. Agar koi insaan tumhe aisi cheezein bheje ya ise secret rakhne ko bole, toh turant kisi bade ko batao ya 1098 pe call karo."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "If lots of people liked or shared it, it must be true.",
+    "hi": "अगर किसी चीज़ को बहुत लोगों ने लाइक या शेयर किया है, तो वह सच ही होगी।",
+    "hg": "Agar bahut logon ne like ya share kiya hai, toh woh sach hi hoga."
+   },
+   "fact": {
+    "en": "Likes show that something caught attention, not that it is correct. Edited photos, fake news and exaggerated claims often get the most shares. Check who made it and whether a trusted source says the same.",
+    "hi": "लाइक से बस इतना पता चलता है कि किसी चीज़ ने ध्यान खींचा, यह नहीं कि वह सही है। एडिट की हुई तस्वीरें, झूठी ख़बरें और बढ़ा-चढ़ाकर किए गए दावे अक्सर सबसे ज़्यादा शेयर होते हैं। देखो कि इसे किसने बनाया और क्या कोई भरोसेमंद स्रोत भी यही कह रहा है।",
+    "hg": "Likes se bas itna pata chalta hai ki cheez ne attention kheencha, yeh nahi ki woh sahi hai. Edited photos, fake news aur badha-chadha ke kiye gaye claims aksar sabse zyada share hote hain. Check karo kisne banaya aur kya koi trusted source bhi yahi keh raha hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Most photos and videos online are staged, filtered or edited before you see them.",
+    "hi": "ऑनलाइन ज़्यादातर तस्वीरें और वीडियो तुम तक पहुँचने से पहले सजाए, फ़िल्टर या एडिट किए जाते हैं।",
+    "hg": "Online zyadatar photos aur videos tum tak pahunchne se pehle staged, filtered ya edited hote hain."
+   },
+   {
+    "en": "Ads and many influencer posts exist to sell something, so ask who made it and why.",
+    "hi": "विज्ञापन और कई इन्फ्लुएंसर पोस्ट कुछ बेचने के लिए होते हैं, इसलिए पूछो कि इसे किसने और क्यों बनाया।",
+    "hg": "Ads aur kaafi influencer posts kuch bechne ke liye hote hain, isliye pucho kisne banaya aur kyun."
+   },
+   {
+    "en": "If adult or upsetting content appears, close it and tell a trusted adult — you are not in trouble.",
+    "hi": "अगर बड़ों वाला या परेशान करने वाला कंटेंट दिखे, तो उसे बंद करो और किसी भरोसेमंद बड़े को बताओ — तुम मुसीबत में नहीं हो।",
+    "hg": "Agar adult ya upset karne wala content dikhe, band karo aur trusted adult ko batao — tum trouble mein nahi ho."
+   }
+  ],
+  "activity": {
+   "en": "Pick one ad or reel you saw today. Write down three things that were probably done to make it look perfect (lighting, filter, editing, retakes) and one thing it wants you to buy or feel.",
+   "hi": "आज देखा हुआ कोई एक विज्ञापन या रील चुनो। तीन चीज़ें लिखो जो उसे परफ़ेक्ट दिखाने के लिए शायद की गई होंगी (लाइटिंग, फ़िल्टर, एडिटिंग, रीटेक) और एक चीज़ जो वह तुमसे ख़रीदवाना या महसूस करवाना चाहता है।",
+   "hg": "Aaj dekha hua koi ek ad ya reel chuno. Teen cheezein likho jo use perfect dikhane ke liye shayad ki gayi hongi (lighting, filter, editing, retakes) aur ek cheez jo woh tumse kharidwana ya feel karwana chahta hai."
+  },
+  "interactive": "digital_safety",
+  "quiz": [
+   {
+    "id": "d12-l01-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Why do faces in ads usually look flawless?",
+     "hi": "विज्ञापनों में चेहरे अक्सर बिल्कुल बेदाग़ क्यों दिखते हैं?",
+     "hg": "Ads mein chehre aksar bilkul flawless kyun dikhte hain?"
+    },
+    "options": [
+     {
+      "en": "Models are born without pores or marks",
+      "hi": "मॉडल बिना रोमछिद्र या निशान के पैदा होते हैं",
+      "hg": "Models bina pores ya marks ke paida hote hain"
+     },
+     {
+      "en": "Lighting, make-up, retakes and editing are used",
+      "hi": "लाइटिंग, मेकअप, रीटेक और एडिटिंग का इस्तेमाल होता है",
+      "hg": "Lighting, makeup, retakes aur editing use hoti hai"
+     },
+     {
+      "en": "The product in the ad made their skin perfect",
+      "hi": "विज्ञापन वाले प्रोडक्ट ने उनकी त्वचा परफ़ेक्ट कर दी",
+      "hg": "Ad wale product ne unki skin perfect kar di"
+     },
+     {
+      "en": "Cameras cannot record pimples",
+      "hi": "कैमरा मुँहासे रिकॉर्ड नहीं कर सकता",
+      "hg": "Camera pimples record nahi kar sakta"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Flawless faces are produced with lighting, make-up, many retakes and editing. Real skin has pores, marks and hair.",
+     "hi": "बेदाग़ चेहरे लाइटिंग, मेकअप, कई रीटेक और एडिटिंग से तैयार किए जाते हैं। असली त्वचा में रोमछिद्र, निशान और बाल होते हैं।",
+     "hg": "Flawless chehre lighting, makeup, kaafi retakes aur editing se bante hain. Real skin mein pores, marks aur baal hote hain."
+    }
+   },
+   {
+    "id": "d12-l01-q2",
+    "type": "tf",
+    "q": {
+     "en": "If a picture or video meant for adults pops up on your screen, the best thing to do is keep it a secret.",
+     "hi": "अगर बड़ों के लिए बनी कोई तस्वीर या वीडियो तुम्हारी स्क्रीन पर आ जाए, तो सबसे अच्छा यही है कि उसे राज़ रखा जाए।",
+     "hg": "Agar adults ke liye bani koi photo ya video tumhari screen pe aa jaaye, toh best yahi hai ki use secret rakha jaaye."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Close it and tell a trusted adult. Seeing it by accident is not your fault, and adults can block it and answer your questions.",
+     "hi": "उसे बंद करो और किसी भरोसेमंद बड़े को बताओ। ग़लती से दिख जाना तुम्हारी ग़लती नहीं है, और बड़े उसे ब्लॉक कर सकते हैं और तुम्हारे सवालों के जवाब दे सकते हैं।",
+     "hg": "Band karo aur trusted adult ko batao. Galti se dikh jaana tumhari galti nahi hai, aur bade use block kar sakte hain aur tumhare sawaalon ke jawab de sakte hain."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-cse",
+   "wcd-childline"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d12-l02",
+  "domain": "d12",
+  "tracks": [
+   "C"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 6,
+  "unesco": [
+   5,
+   7
+  ],
+  "title": {
+   "en": "Porn Is a Script, Not a Syllabus",
+   "hi": "पोर्न एक स्क्रिप्ट है, सिलेबस नहीं",
+   "hg": "Porn Script Hai, Syllabus Nahi"
+  },
+  "subtitle": {
+   "en": "Why pornography is unrealistic media, and what it gets wrong about bodies, consent and relationships",
+   "hi": "पोर्नोग्राफ़ी असलियत से दूर मीडिया क्यों है, और यह शरीर, सहमति और रिश्तों के बारे में क्या-क्या ग़लत दिखाती है",
+   "hg": "Pornography unrealistic media kyun hai, aur yeh bodies, consent aur relationships ke baare mein kya-kya galat dikhati hai"
+  },
+  "hook": {
+   "en": "Nobody learns to drive by watching a movie car chase. Learning about sex and relationships from porn is the same mistake.",
+   "hi": "फ़िल्म की कार चेज़ देखकर कोई गाड़ी चलाना नहीं सीखता। पोर्न से सेक्स और रिश्तों के बारे में सीखना भी वही ग़लती है।",
+   "hg": "Film ki car chase dekh ke koi driving nahi seekhta. Porn se sex aur relationships seekhna bhi wahi galti hai."
+  },
+  "objectives": [
+   {
+    "en": "Describe pornography as scripted, edited media made for adult viewers.",
+    "hi": "बता पाना कि पोर्नोग्राफ़ी बड़ों के लिए बनाया गया स्क्रिप्टेड और एडिट किया हुआ मीडिया है।",
+    "hg": "Bata paana ki pornography adults ke liye bana scripted aur edited media hai."
+   },
+   {
+    "en": "List what it leaves out or distorts about bodies, consent and feelings.",
+    "hi": "गिना पाना कि यह शरीर, सहमति और भावनाओं के बारे में क्या छोड़ देती है या तोड़-मरोड़कर दिखाती है।",
+    "hg": "Gina paana ki yeh bodies, consent aur feelings ke baare mein kya chhod deti hai ya tod-marod ke dikhati hai."
+   },
+   {
+    "en": "Know respectful ways to handle curiosity and pressure from friends.",
+    "hi": "जानना कि जिज्ञासा और दोस्तों के दबाव को समझदारी से कैसे सँभालें।",
+    "hg": "Jaanna ki curiosity aur doston ke pressure ko samajhdaari se kaise handle karein."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Curiosity is normal. The content is not a teacher.",
+     "hi": "जिज्ञासा सामान्य है। पर यह कंटेंट टीचर नहीं है।",
+     "hg": "Curiosity normal hai. Par yeh content teacher nahi hai."
+    },
+    "body": {
+     "en": "Pornography, or porn, is video, images or writing made to sexually arouse adult viewers. It is made for adults, and showing it to anyone under 18 is an offence in India. Still, many teenagers come across it, often by accident through pop-ups, forwards or group chats, and some go looking because they have questions nobody is answering. Being curious about sex in your teens is a normal part of development; it does not make you dirty or bad. The problem is not your curiosity. The problem is that porn was never designed to give accurate answers.",
+     "hi": "पोर्नोग्राफ़ी या पोर्न ऐसे वीडियो, तस्वीरें या लिखी हुई सामग्री है जो बड़ी उम्र के दर्शकों में यौन उत्तेजना पैदा करने के लिए बनाई जाती है। यह बड़ों के लिए बनती है, और भारत में 18 साल से कम उम्र के किसी भी व्यक्ति को इसे दिखाना अपराध है। फिर भी बहुत से किशोरों के सामने यह आ जाती है — अक्सर ग़लती से, पॉप-अप, फ़ॉरवर्ड या ग्रुप चैट के ज़रिए — और कुछ इसे ख़ुद ढूँढ़ते हैं क्योंकि उनके सवालों का जवाब कोई नहीं दे रहा। किशोरावस्था में सेक्स को लेकर जिज्ञासा होना विकास का सामान्य हिस्सा है; इससे तुम गंदे या बुरे नहीं हो जाते। दिक़्क़त तुम्हारी जिज्ञासा नहीं है। दिक़्क़त यह है कि पोर्न सही जवाब देने के लिए कभी बनाया ही नहीं गया।",
+     "hg": "Pornography ya porn aise videos, images ya likha hua content hai jo adult viewers ko sexually arouse karne ke liye banaya jaata hai. Yeh adults ke liye banta hai, aur India mein 18 se kam umar ke kisi ko bhi ise dikhana offence hai. Phir bhi bahut teenagers ke saamne yeh aa jaata hai — aksar galti se, pop-ups, forwards ya group chats se — aur kuch khud dhoondhte hain kyunki unke sawaalon ka jawab koi nahi de raha. Teens mein sex ko leke curious hona development ka normal hissa hai; isse tum gande ya bure nahi ho jaate. Problem tumhari curiosity nahi hai. Problem yeh hai ki porn sahi jawab dene ke liye kabhi design hi nahi hua."
+    }
+   },
+   {
+    "h": {
+     "en": "How it is made",
+     "hi": "यह बनता कैसे है",
+     "hg": "Yeh banta kaise hai"
+    },
+    "body": {
+     "en": "Porn is a production, like a film or an ad. Performers are hired and chosen for a particular look. Scenes follow a script or a director's instructions, are shot over many hours with breaks, and are then cut down to a few minutes. Camera angles, lighting, make-up, editing and sometimes surgery or medication shape what viewers see. Sounds and reactions are acted. What looks spontaneous and effortless is planned work. Some content is also made or uploaded without the consent of the people in it, which is abuse, not entertainment. A stunt scene is not a driving lesson, and this is not a relationship lesson.",
+     "hi": "पोर्न एक प्रोडक्शन है, जैसे कोई फ़िल्म या विज्ञापन। इसमें कलाकारों को काम पर रखा जाता है और एक ख़ास तरह के लुक के हिसाब से चुना जाता है। सीन स्क्रिप्ट या डायरेक्टर के निर्देशों पर चलते हैं, कई घंटों में ब्रेक ले-लेकर शूट होते हैं, और फिर काटकर कुछ मिनट के बना दिए जाते हैं। कैमरा एंगल, लाइटिंग, मेकअप, एडिटिंग और कभी-कभी सर्जरी या दवाइयाँ तय करती हैं कि देखने वाले को क्या दिखेगा। आवाज़ें और रिएक्शन एक्टिंग होते हैं। जो अपने-आप और आसानी से होता दिखता है, वह असल में प्लान किया हुआ काम है। कुछ कंटेंट उसमें दिख रहे लोगों की सहमति के बिना भी बनाया या अपलोड किया जाता है — यह शोषण है, मनोरंजन नहीं। स्टंट सीन ड्राइविंग की क्लास नहीं होता, और यह रिश्तों की क्लास नहीं है।",
+     "hg": "Porn ek production hai, jaise koi film ya ad. Performers ko hire kiya jaata hai aur ek khaas look ke hisaab se chuna jaata hai. Scenes script ya director ke instructions pe chalte hain, kai ghanton mein breaks le-leke shoot hote hain, aur phir kaat ke kuch minutes ke bana diye jaate hain. Camera angles, lighting, makeup, editing aur kabhi-kabhi surgery ya medication decide karte hain ki viewer ko kya dikhega. Awaazein aur reactions acting hote hain. Jo spontaneous aur effortless lagta hai, woh planned kaam hai. Kuch content usmein dikh rahe logon ki consent ke bina bhi banaya ya upload kiya jaata hai — yeh abuse hai, entertainment nahi. Stunt scene driving lesson nahi hota, aur yeh relationship lesson nahi hai."
+    }
+   },
+   {
+    "h": {
+     "en": "What it gets wrong",
+     "hi": "यह क्या-क्या ग़लत दिखाता है",
+     "hg": "Yeh kya-kya galat dikhata hai"
+    },
+    "body": {
+     "en": "Bodies: porn shows a narrow range of body types, while real bodies vary hugely in shape, size, hair and skin, and all of that is normal. Consent: people on screen rarely ask, check in or say no, and when someone refuses, the script often turns it into a yes. In real life, pressure is not consent and no means no. Safety: protection against pregnancy and infections is usually invisible. Feelings: nervousness, awkwardness, laughter, trust and care are edited out. Gender: men are shown as always in control and women as always willing, which is a stereotype, not a fact about real people.",
+     "hi": "शरीर: पोर्न गिने-चुने तरह के शरीर दिखाता है, जबकि असली शरीर आकार, नाप, बालों और त्वचा में बहुत अलग-अलग होते हैं, और यह सब सामान्य है। सहमति: स्क्रीन पर लोग शायद ही कभी पूछते हैं, सामने वाले का हाल जानते हैं या मना करते हैं, और जब कोई मना करता है तो स्क्रिप्ट अक्सर उसे हाँ में बदल देती है। असल ज़िंदगी में दबाव सहमति नहीं है और ना का मतलब ना है। सुरक्षा: गर्भ और संक्रमण से बचाव के तरीक़े आमतौर पर दिखते ही नहीं। भावनाएँ: घबराहट, झिझक, हँसी, भरोसा और परवाह एडिट करके हटा दी जाती हैं। जेंडर: पुरुषों को हमेशा कंट्रोल में और महिलाओं को हमेशा तैयार दिखाया जाता है — यह एक रूढ़ि है, असली लोगों की सच्चाई नहीं।",
+     "hg": "Bodies: porn gine-chune type ki bodies dikhata hai, jabki real bodies shape, size, baal aur skin mein bahut alag-alag hoti hain, aur yeh sab normal hai. Consent: screen pe log shayad hi kabhi puchte hain, check-in karte hain ya mana karte hain, aur jab koi mana karta hai toh script aksar use haan mein badal deti hai. Real life mein pressure consent nahi hai aur na ka matlab na hai. Safety: pregnancy aur infections se protection aksar dikhti hi nahi. Feelings: nervousness, awkwardness, hansi, trust aur care edit karke hata di jaati hain. Gender: mardon ko hamesha control mein aur auraton ko hamesha ready dikhaya jaata hai — yeh stereotype hai, real logon ka sach nahi."
+    }
+   },
+   {
+    "h": {
+     "en": "Handling it in real life",
+     "hi": "असल ज़िंदगी में इसे कैसे सँभालें",
+     "hg": "Real life mein ise kaise handle karein"
+    },
+    "body": {
+     "en": "You never have to watch something because friends are watching; 'not interested' is a complete answer. If an adult or older person shows or sends you porn or asks for secrecy, that is a grooming warning sign, never your fault: tell a trusted adult or call 1098. Feeling confused, guilty or worried about your body after seeing porn is common; a counsellor or doctor can help. For real answers, try this app, a health worker or an Adolescent Friendly Health Clinic. Under 18, nobody can legally consent to sexual activity, and waiting is a valid choice. Never forward sexual content; it can harm others and break the law.",
+     "hi": "दोस्त देख रहे हैं, सिर्फ़ इसलिए तुम्हें कुछ देखना ज़रूरी नहीं है; 'मुझे इंटरेस्ट नहीं है' अपने-आप में पूरा जवाब है। अगर कोई बड़ा या तुमसे उम्र में बड़ा व्यक्ति तुम्हें पोर्न दिखाए या भेजे, या बात छिपाने को कहे, तो यह ग्रूमिंग का चेतावनी संकेत है और इसमें तुम्हारी कोई ग़लती नहीं: किसी भरोसेमंद बड़े को बताओ या 1098 पर कॉल करो। पोर्न देखने के बाद उलझन, अपराध-बोध या अपने शरीर को लेकर चिंता होना आम है; कोई काउंसलर या डॉक्टर मदद कर सकता है। सही जवाबों के लिए यह ऐप, कोई स्वास्थ्य कार्यकर्ता या किशोर मित्र स्वास्थ्य क्लिनिक (AFHC) आज़माओ। 18 साल से कम उम्र में कोई भी यौन गतिविधि के लिए क़ानूनी सहमति नहीं दे सकता, और इंतज़ार करना पूरी तरह सही फ़ैसला है। यौन कंटेंट कभी फ़ॉरवर्ड मत करो; इससे दूसरों को नुक़सान हो सकता है और क़ानून भी टूट सकता है।",
+     "hg": "Dost dekh rahe hain, sirf isliye tumhe kuch dekhna zaroori nahi hai; 'interested nahi hoon' apne aap mein poora jawab hai. Agar koi adult ya tumse badi umar ka insaan tumhe porn dikhaye ya bheje, ya baat secret rakhne ko bole, toh yeh grooming ka warning sign hai aur isme tumhari koi galti nahi: kisi trusted adult ko batao ya 1098 pe call karo. Porn dekhne ke baad confusion, guilt ya apni body ki tension hona common hai; koi counsellor ya doctor help kar sakta hai. Real answers ke liye yeh app, koi health worker ya Adolescent Friendly Health Clinic (AFHC) try karo. 18 se kam umar mein koi bhi sexual activity ke liye legally consent nahi de sakta, aur wait karna poori tarah valid choice hai. Sexual content kabhi forward mat karo; isse dusron ko nuksaan ho sakta hai aur law bhi toot sakta hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Porn shows what people actually want and do.",
+    "hi": "पोर्न वही दिखाता है जो लोग असल में चाहते और करते हैं।",
+    "hg": "Porn wahi dikhata hai jo log actually chahte aur karte hain."
+   },
+   "fact": {
+    "en": "Porn shows what a director scripted for the camera. Real people differ in what they are comfortable with, and real respect means asking, listening and accepting a no — things porn usually skips.",
+    "hi": "पोर्न वह दिखाता है जो डायरेक्टर ने कैमरे के लिए स्क्रिप्ट किया। असली लोग अलग-अलग चीज़ों में सहज होते हैं, और असली सम्मान का मतलब है पूछना, सुनना और ना को मानना — जो पोर्न आमतौर पर छोड़ देता है।",
+    "hg": "Porn woh dikhata hai jo director ne camera ke liye script kiya. Real log alag-alag cheezon mein comfortable hote hain, aur real respect ka matlab hai puchna, sunna aur na ko accept karna — jo porn aksar skip kar deta hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Porn is scripted, edited adult entertainment, not sex education.",
+    "hi": "पोर्न बड़ों के लिए बना स्क्रिप्टेड, एडिट किया हुआ मनोरंजन है, यौन शिक्षा नहीं।",
+    "hg": "Porn scripted, edited adult entertainment hai, sex education nahi."
+   },
+   {
+    "en": "It distorts bodies, skips consent and hides feelings and safety.",
+    "hi": "यह शरीर को ग़लत ढंग से दिखाता है, सहमति को छोड़ देता है और भावनाओं व सुरक्षा को छिपा देता है।",
+    "hg": "Yeh bodies ko distort karta hai, consent skip karta hai aur feelings aur safety chhupa deta hai."
+   },
+   {
+    "en": "Curiosity is normal; reliable sources and trusted adults give real answers.",
+    "hi": "जिज्ञासा सामान्य है; सही जवाब भरोसेमंद स्रोतों और भरोसेमंद बड़ों से मिलते हैं।",
+    "hg": "Curiosity normal hai; real answers reliable sources aur trusted adults se milte hain."
+   }
+  ],
+  "activity": {
+   "en": "Think of one film stunt that would be dangerous to copy in real life. Then write two things porn leaves out that real, respectful relationships need (for example, asking and listening).",
+   "hi": "किसी एक फ़िल्मी स्टंट के बारे में सोचो जिसकी असल ज़िंदगी में नक़ल करना ख़तरनाक होगा। फिर दो चीज़ें लिखो जो पोर्न छोड़ देता है लेकिन असली, सम्मान वाले रिश्तों के लिए ज़रूरी हैं (जैसे पूछना और सुनना)।",
+   "hg": "Kisi ek film stunt ke baare mein socho jise real life mein copy karna dangerous hoga. Phir do cheezein likho jo porn chhod deta hai lekin real, respectful relationships ke liye zaroori hain (jaise puchna aur sunna)."
+  },
+  "interactive": "ask",
+  "quiz": [
+   {
+    "id": "d12-l02-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Which description of pornography is most accurate?",
+     "hi": "पोर्नोग्राफ़ी के बारे में कौन-सी बात सबसे सही है?",
+     "hg": "Pornography ke baare mein kaun-si baat sabse sahi hai?"
+    },
+    "options": [
+     {
+      "en": "A realistic record of how couples behave",
+      "hi": "जोड़े असल में कैसे पेश आते हैं, इसका सच्चा रिकॉर्ड",
+      "hg": "Couples real mein kaise behave karte hain, uska sachcha record"
+     },
+     {
+      "en": "A form of sex education suitable for teenagers",
+      "hi": "किशोरों के लिए ठीक यौन शिक्षा का एक तरीक़ा",
+      "hg": "Teenagers ke liye theek sex education ka ek tareeka"
+     },
+     {
+      "en": "Scripted, edited media made to arouse adult viewers",
+      "hi": "बड़ों को उत्तेजित करने के लिए बना स्क्रिप्टेड और एडिट किया हुआ मीडिया",
+      "hg": "Adult viewers ko arouse karne ke liye bana scripted, edited media"
+     },
+     {
+      "en": "Private videos that are always shared with consent",
+      "hi": "निजी वीडियो जो हमेशा सहमति से शेयर किए जाते हैं",
+      "hg": "Private videos jo hamesha consent se share hote hain"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "Porn is a planned production with performers, scripts and editing. It was made for adult entertainment, not to show real life or to teach.",
+     "hi": "पोर्न कलाकारों, स्क्रिप्ट और एडिटिंग वाला प्लान किया हुआ प्रोडक्शन है। यह बड़ों के मनोरंजन के लिए बना है, असल ज़िंदगी दिखाने या सिखाने के लिए नहीं।",
+     "hg": "Porn performers, script aur editing wala planned production hai. Yeh adult entertainment ke liye bana hai, real life dikhane ya sikhane ke liye nahi."
+    }
+   },
+   {
+    "id": "d12-l02-q2",
+    "type": "tf",
+    "q": {
+     "en": "Being curious about sex during the teenage years is a normal part of growing up.",
+     "hi": "किशोरावस्था में सेक्स को लेकर जिज्ञासा होना बड़े होने का सामान्य हिस्सा है।",
+     "hg": "Teenage mein sex ko leke curious hona bade hone ka normal hissa hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Curiosity is part of normal development and nothing to be ashamed of. What matters is getting answers from reliable sources rather than from porn.",
+     "hi": "जिज्ञासा सामान्य विकास का हिस्सा है और इसमें शर्म की कोई बात नहीं। ज़रूरी यह है कि जवाब पोर्न से नहीं, भरोसेमंद स्रोतों से लिए जाएँ।",
+     "hg": "Curiosity normal development ka hissa hai, isme sharam ki koi baat nahi. Zaroori yeh hai ki jawab porn se nahi, reliable sources se liye jaayein."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-cse-qa",
+   "pocso-2012"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d12-l03",
+  "domain": "d12",
+  "tracks": [
+   "D"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   5,
+   3,
+   4
+  ],
+  "title": {
+   "en": "Reality Check: Body Image, Consent Myths and Your Feed",
+   "hi": "रियलिटी चेक: बॉडी इमेज, सहमति के मिथक और तुम्हारी फ़ीड",
+   "hg": "Reality Check: Body Image, Consent Myths Aur Tumhari Feed"
+  },
+  "subtitle": {
+   "en": "How porn, influencers and algorithms shape expectations — and when viewing becomes a problem",
+   "hi": "पोर्न, इन्फ्लुएंसर और एल्गोरिदम हमारी उम्मीदें कैसे गढ़ते हैं — और देखना कब समस्या बन जाता है",
+   "hg": "Porn, influencers aur algorithms expectations kaise banate hain — aur dekhna kab problem ban jaata hai"
+  },
+  "hook": {
+   "en": "Your feed has opinions about your body, your worth and what 'everyone' is doing. None of them were fact-checked.",
+   "hi": "तुम्हारी फ़ीड के पास तुम्हारे शरीर, तुम्हारी क़ीमत और 'सब लोग क्या कर रहे हैं' इस पर ढेरों राय हैं। उनमें से किसी की भी जाँच नहीं हुई है।",
+   "hg": "Tumhari feed ke paas tumhari body, tumhari worth aur 'sab kya kar rahe hain' pe dher saare opinions hain. Unmein se ek bhi fact-check nahi hua."
+  },
+  "objectives": [
+   {
+    "en": "Explain how sexualised media distorts body image and ideas about consent and gender.",
+    "hi": "समझा पाना कि यौन रंग में रंगा मीडिया बॉडी इमेज और सहमति व जेंडर की समझ को कैसे बिगाड़ता है।",
+    "hg": "Samjha paana ki sexualised media body image aur consent aur gender ki samajh ko kaise bigaadta hai."
+   },
+   {
+    "en": "Recognise parasocial relationships and influencer misinformation about bodies and sex.",
+    "hi": "एकतरफ़ा (parasocial) जुड़ाव और शरीर व सेक्स पर इन्फ्लुएंसरों की ग़लत जानकारी को पहचान पाना।",
+    "hg": "Parasocial relationships aur bodies aur sex pe influencers ki misinformation ko pehchaan paana."
+   },
+   {
+    "en": "Identify signs of compulsive use and where to get help.",
+    "hi": "बेक़ाबू इस्तेमाल के संकेत और मदद कहाँ मिलेगी, यह पहचान पाना।",
+    "hg": "Compulsive use ke signs aur help kahan milegi, yeh pehchaan paana."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "The comparison trap",
+     "hi": "तुलना का जाल",
+     "hg": "Comparison ka jaal"
+    },
+    "body": {
+     "en": "Performers and influencers are selected, lit, filtered and edited, and some have had cosmetic procedures. Seeing them daily makes rare looks feel like the standard. Studies have repeatedly linked heavy exposure to idealised and sexualised images with more body dissatisfaction in both girls and boys. Common worries include breast or penis size, genital appearance, body hair, skin colour, muscles and weight. In reality, genitals, bodies and body hair vary widely, and that variation is healthy. Sudden extra hair growth, especially with irregular periods, is worth a doctor's check. If worry about your body is affecting eating, mood or going out, speak to a doctor or counsellor; Tele-MANAS is on 14416.",
+     "hi": "कलाकार और इन्फ्लुएंसर छाँटकर चुने जाते हैं, उन पर लाइटिंग, फ़िल्टर और एडिटिंग होती है, और कुछ ने कॉस्मेटिक प्रोसीजर भी करवाए होते हैं। रोज़-रोज़ उन्हें देखने से दुर्लभ लुक ही पैमाना लगने लगता है। कई अध्ययनों में बार-बार पाया गया है कि आदर्श और यौन रंग वाली तस्वीरें बहुत ज़्यादा देखने का संबंध अपने शरीर से ज़्यादा असंतोष से है — लड़कियों और लड़कों, दोनों में। आम चिंताएँ हैं: स्तनों या लिंग का आकार, जननांगों की बनावट, शरीर के बाल, त्वचा का रंग, मसल्स और वज़न। असलियत में जननांग, शरीर और शरीर के बाल बहुत अलग-अलग होते हैं, और यह विविधता स्वस्थ है। अगर बाल अचानक ज़्यादा उगने लगें, ख़ासकर अनियमित पीरियड्स के साथ, तो डॉक्टर से जाँच करवाना ठीक है। अगर शरीर की चिंता का असर खाने, मूड या बाहर निकलने पर पड़ रहा है, तो डॉक्टर या काउंसलर से बात करो; टेली-मानस का नंबर 14416 है।",
+     "hg": "Performers aur influencers chhaant ke chune jaate hain, unpe lighting, filters aur editing lagti hai, aur kuch ne cosmetic procedures bhi karwaye hote hain. Roz unhe dekhne se rare looks hi standard lagne lagte hain. Studies mein baar-baar dikha hai ki idealised aur sexualised images ka heavy exposure body dissatisfaction se juda hai — ladkiyon aur ladkon dono mein. Common worries hain: breast ya penis size, genitals ka look, body hair, skin colour, muscles aur weight. Reality mein genitals, bodies aur body hair bahut vary karte hain, aur yeh variation healthy hai. Agar baal achanak zyada ugne lagein, khaaskar irregular periods ke saath, toh doctor se check karwana sahi hai. Agar body ki tension ka asar khaane, mood ya bahar nikalne pe pad raha hai, toh doctor ya counsellor se baat karo; Tele-MANAS ka number 14416 hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Consent myths the screen teaches",
+     "hi": "स्क्रीन से सीखे गए सहमति के मिथक",
+     "hg": "Screen se seekhe hue consent ke myths"
+    },
+    "body": {
+     "en": "Porn and many films repeat the same false lessons: that silence means yes, that a no is an invitation to keep trying, that persistence is romantic, and that nobody needs to ask. In real life, consent is a clear, voluntary yes that can be withdrawn at any moment; pressure, guilt-tripping, intoxication or fear cancel it. Screen stereotypes hurt everyone: boys learn they must always be confident and in charge, girls learn their role is to please. Legally, a person under 18 cannot consent to sexual activity in India, whatever was said. Doing to another person what you saw on screen, without their agreement, is harm.",
+     "hi": "पोर्न और बहुत-सी फ़िल्में वही झूठे सबक़ दोहराती हैं: कि चुप्पी का मतलब हाँ है, कि ना कोशिश जारी रखने का न्योता है, कि पीछे पड़े रहना रोमांटिक है, और कि पूछने की ज़रूरत ही नहीं। असल ज़िंदगी में सहमति एक साफ़, अपनी मर्ज़ी से दी गई हाँ है जिसे किसी भी पल वापस लिया जा सकता है; दबाव, अपराध-बोध कराना, नशा या डर उसे ख़त्म कर देते हैं। स्क्रीन की रूढ़ियाँ सबको नुक़सान पहुँचाती हैं: लड़के सीखते हैं कि उन्हें हमेशा आत्मविश्वासी और हावी रहना है, लड़कियाँ सीखती हैं कि उनका काम दूसरों को ख़ुश करना है। क़ानूनन, भारत में 18 साल से कम उम्र का व्यक्ति यौन गतिविधि के लिए सहमति नहीं दे सकता, चाहे कुछ भी कहा गया हो। स्क्रीन पर जो देखा, उसे किसी और पर उसकी रज़ामंदी के बिना आज़माना नुक़सान पहुँचाना है।",
+     "hg": "Porn aur kaafi films wahi jhoothe lessons repeat karti hain: ki chuppi ka matlab haan hai, ki na ka matlab hai koshish jaari rakho, ki peeche pade rehna romantic hai, aur ki puchne ki zaroorat hi nahi. Real life mein consent ek clear, apni marzi se di gayi haan hai jo kisi bhi moment wapas li ja sakti hai; pressure, guilt-trip, nasha ya dar use cancel kar dete hain. Screen ke stereotypes sabko hurt karte hain: ladke seekhte hain ki unhe hamesha confident aur in-charge rehna hai, ladkiyan seekhti hain ki unka role dusron ko khush karna hai. Legally, India mein 18 se kam umar ka insaan sexual activity ke liye consent nahi de sakta, chahe kuch bhi kaha gaya ho. Screen pe jo dekha, use kisi aur pe uski agreement ke bina try karna harm hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Influencers, 'experts' and one-sided bonds",
+     "hi": "इन्फ्लुएंसर, 'एक्सपर्ट' और एकतरफ़ा रिश्ते",
+     "hg": "Influencers, 'experts' aur one-sided bonds"
+    },
+    "body": {
+     "en": "A parasocial relationship is a one-sided bond: you feel you know a creator, streamer or celebrity, but they do not know you. It is common and usually harmless, yet it makes their advice feel like a friend's. That matters when creators push claims about 'semen retention' powers, testosterone boosters, 'alpha' dating rules, vaginal tightening or detox products. Check four things: are they a qualified, registered health professional, what are they selling, do they promise fast or guaranteed results, and do reliable sources such as WHO or a doctor agree? Confidence, followers and a blue tick are not qualifications.",
+     "hi": "पैरासोशल रिश्ता एकतरफ़ा जुड़ाव है: तुम्हें लगता है कि तुम किसी क्रिएटर, स्ट्रीमर या सेलिब्रिटी को जानते हो, लेकिन वे तुम्हें नहीं जानते। यह आम बात है और आमतौर पर नुक़सानदेह नहीं, फिर भी इसकी वजह से उनकी सलाह किसी दोस्त की सलाह जैसी लगने लगती है। यह तब मायने रखता है जब क्रिएटर 'वीर्य बचाने' की ताक़त, टेस्टोस्टेरोन बूस्टर, डेटिंग के 'अल्फ़ा' नियम, योनि टाइट करने या डिटॉक्स वाले प्रोडक्ट के दावे करते हैं। चार चीज़ें जाँचो: क्या वे योग्य, रजिस्टर्ड स्वास्थ्य पेशेवर हैं, वे क्या बेच रहे हैं, क्या वे जल्दी या गारंटी वाले नतीजों का वादा करते हैं, और क्या WHO या कोई डॉक्टर जैसे भरोसेमंद स्रोत भी यही कहते हैं? आत्मविश्वास, फ़ॉलोअर और ब्लू टिक कोई डिग्री नहीं हैं।",
+     "hg": "Parasocial relationship ek one-sided bond hai: tumhe lagta hai tum kisi creator, streamer ya celebrity ko jaante ho, lekin woh tumhe nahi jaante. Yeh common hai aur aksar harmless, phir bhi isse unki advice kisi dost ki advice jaisi lagne lagti hai. Yeh tab matter karta hai jab creators 'semen retention' ki powers, testosterone boosters, 'alpha' dating rules, vaginal tightening ya detox products ke claims bechte hain. Chaar cheezein check karo: kya woh qualified, registered health professional hain, woh kya bech rahe hain, kya woh fast ya guaranteed results ka promise karte hain, aur kya WHO ya doctor jaise reliable sources bhi yahi kehte hain? Confidence, followers aur blue tick koi qualification nahi hain."
+    }
+   },
+   {
+    "h": {
+     "en": "When viewing starts running you",
+     "hi": "जब देखना तुम्हें चलाने लगे",
+     "hg": "Jab dekhna tumhe chalane lage"
+    },
+    "body": {
+     "en": "Many people who view porn do not develop a problem. Signs to take seriously: watching more or longer than you meant to, using it mainly to escape stress, loneliness or boredom, losing sleep or study time, needing more extreme content, failed attempts to cut down, or feeling distressed afterwards. Experts still debate whether 'addiction' is the right word, but compulsive use is real and help works. Practical steps include keeping the phone out of the bedroom at night, noticing your triggers, and filling that time with sport or people. A counsellor, doctor or Tele-MANAS (14416) can help without judgement. Shame keeps the cycle going; talking breaks it.",
+     "hi": "पोर्न देखने वाले बहुत-से लोगों को कोई समस्या नहीं होती। इन संकेतों को गंभीरता से लो: जितना सोचा था उससे ज़्यादा या देर तक देखना, इसे ख़ासकर तनाव, अकेलेपन या बोरियत से भागने के लिए इस्तेमाल करना, नींद या पढ़ाई का समय खोना, और ज़्यादा तीखे कंटेंट की ज़रूरत पड़ना, कम करने की नाकाम कोशिशें, या बाद में परेशान महसूस करना। विशेषज्ञों में अब भी बहस है कि 'लत' सही शब्द है या नहीं, लेकिन बेक़ाबू इस्तेमाल सचमुच होता है और मदद से फ़र्क़ पड़ता है। काम के क़दम: रात को फ़ोन बेडरूम से बाहर रखना, अपने ट्रिगर पहचानना, और उस समय को खेल या लोगों के साथ भरना। काउंसलर, डॉक्टर या टेली-मानस (14416) बिना जज किए मदद कर सकते हैं। शर्म इस चक्र को चलाए रखती है; बात करना इसे तोड़ता है।",
+     "hg": "Porn dekhne wale bahut logon ko koi problem nahi hoti. In signs ko seriously lo: jitna socha tha usse zyada ya der tak dekhna, ise mainly stress, akelepan ya boredom se bhaagne ke liye use karna, neend ya padhai ka time khona, aur zyada extreme content ki zaroorat padna, kam karne ki fail koshishein, ya baad mein distressed feel karna. Experts mein ab bhi debate hai ki 'addiction' sahi word hai ya nahi, lekin compulsive use real hai aur help kaam karti hai. Practical steps: raat ko phone bedroom se bahar rakhna, apne triggers notice karna, aur us time ko sport ya logon ke saath bharna. Counsellor, doctor ya Tele-MANAS (14416) bina judge kiye help kar sakte hain. Sharam is cycle ko chalaye rakhti hai; baat karna ise todta hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "When someone says no, it really means 'try harder'.",
+    "hi": "जब कोई ना कहता है, तो असल में उसका मतलब होता है 'और कोशिश करो'।",
+    "hg": "Jab koi na bolta hai, toh actually uska matlab hota hai 'aur try karo'."
+   },
+   "fact": {
+    "en": "A no means stop. Continuing to push after a refusal is pressure, not romance, and agreement given under pressure is not consent.",
+    "hi": "ना का मतलब है रुक जाओ। मना करने के बाद भी ज़ोर देते रहना दबाव है, रोमांस नहीं, और दबाव में दी गई हामी सहमति नहीं होती।",
+    "hg": "Na ka matlab hai ruk jao. Mana karne ke baad bhi push karte rehna pressure hai, romance nahi, aur pressure mein di gayi haan consent nahi hoti."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Bodies on screen are selected and edited; real bodies and genitals vary widely and that is healthy.",
+    "hi": "स्क्रीन पर दिखने वाले शरीर चुने और एडिट किए हुए होते हैं; असली शरीर और जननांग बहुत अलग-अलग होते हैं और यह स्वस्थ है।",
+    "hg": "Screen wali bodies selected aur edited hoti hain; real bodies aur genitals bahut vary karte hain aur yeh healthy hai."
+   },
+   {
+    "en": "Consent is a clear, voluntary yes that can be withdrawn — never silence, pressure or persistence.",
+    "hi": "सहमति एक साफ़, अपनी मर्ज़ी की हाँ है जो वापस ली जा सकती है — चुप्पी, दबाव या पीछे पड़ना कभी नहीं।",
+    "hg": "Consent ek clear, apni marzi ki haan hai jo wapas li ja sakti hai — chuppi, pressure ya peeche padna kabhi nahi."
+   },
+   {
+    "en": "Check a creator's qualifications and motives, and get help early if viewing feels out of control.",
+    "hi": "क्रिएटर की योग्यता और मक़सद जाँचो, और अगर देखना बेक़ाबू लगे तो जल्दी मदद लो।",
+    "hg": "Creator ki qualification aur motive check karo, aur agar dekhna out of control lage toh jaldi help lo."
+   }
+  ],
+  "activity": {
+   "en": "Open your most-used app and look at the first ten posts. Count how many are selling something and how many show an unedited, ordinary body. Unfollow one account that regularly makes you feel worse about yourself.",
+   "hi": "अपना सबसे ज़्यादा इस्तेमाल होने वाला ऐप खोलो और पहली दस पोस्ट देखो। गिनो कि कितनी कुछ बेच रही हैं और कितनी में बिना एडिट किया हुआ, आम शरीर दिखता है। ऐसे एक अकाउंट को अनफ़ॉलो करो जो तुम्हें बार-बार अपने बारे में बुरा महसूस कराता है।",
+   "hg": "Apna sabse zyada use hone wala app kholo aur pehli das posts dekho. Gino kitni kuch bech rahi hain aur kitni mein unedited, ordinary body dikhti hai. Aise ek account ko unfollow karo jo tumhe baar-baar apne baare mein bura feel karata hai."
+  },
+  "interactive": "myth_buster",
+  "quiz": [
+   {
+    "id": "d12-l03-q1",
+    "type": "mcq",
+    "q": {
+     "en": "In real life, which statement about consent is correct?",
+     "hi": "असल ज़िंदगी में सहमति के बारे में कौन-सी बात सही है?",
+     "hg": "Real life mein consent ke baare mein kaun-si baat sahi hai?"
+    },
+    "options": [
+     {
+      "en": "Silence or not resisting counts as agreement",
+      "hi": "चुप रहना या विरोध न करना सहमति मानी जाती है",
+      "hg": "Chup rehna ya resist na karna agreement maana jaata hai"
+     },
+     {
+      "en": "If someone says no at first, persistence is acceptable",
+      "hi": "अगर कोई पहले ना कहे, तो पीछे पड़े रहना ठीक है",
+      "hg": "Agar koi pehle na bole, toh peeche pade rehna theek hai"
+     },
+     {
+      "en": "Consent given once covers every later occasion",
+      "hi": "एक बार दी गई सहमति आगे हर बार के लिए लागू रहती है",
+      "hg": "Ek baar di gayi consent aage har baar ke liye chalti hai"
+     },
+     {
+      "en": "It is a clear, voluntary yes that can be withdrawn at any time",
+      "hi": "यह एक साफ़, अपनी मर्ज़ी की हाँ है जो कभी भी वापस ली जा सकती है",
+      "hg": "Yeh ek clear, apni marzi ki haan hai jo kabhi bhi wapas li ja sakti hai"
+     }
+    ],
+    "answer": 3,
+    "explain": {
+     "en": "Consent must be clear and freely given, and it can be taken back at any moment. Silence, pressure and earlier agreement do not count.",
+     "hi": "सहमति साफ़ और बिना दबाव के दी हुई होनी चाहिए, और इसे किसी भी पल वापस लिया जा सकता है। चुप्पी, दबाव और पहले की हामी सहमति नहीं गिनी जाती।",
+     "hg": "Consent clear aur bina pressure ke di hui honi chahiye, aur kisi bhi moment wapas li ja sakti hai. Chuppi, pressure aur pehle ki haan count nahi hoti."
+    }
+   },
+   {
+    "id": "d12-l03-q2",
+    "type": "scenario",
+    "q": {
+     "en": "Yash follows a fitness creator who says a ₹2,000 'testosterone booster' powder will fix his body and confidence in 30 days. What should Yash check first?",
+     "hi": "यश एक फ़िटनेस क्रिएटर को फ़ॉलो करता है जो कहता है कि ₹2,000 का 'टेस्टोस्टेरोन बूस्टर' पाउडर 30 दिन में उसका शरीर और आत्मविश्वास ठीक कर देगा। यश को सबसे पहले क्या जाँचना चाहिए?",
+     "hg": "Yash ek fitness creator ko follow karta hai jo kehta hai ki ₹2,000 ka 'testosterone booster' powder 30 din mein uski body aur confidence fix kar dega. Yash ko sabse pehle kya check karna chahiye?"
+    },
+    "options": [
+     {
+      "en": "Whether the creator is a qualified health professional and what they earn from the product",
+      "hi": "क्रिएटर योग्य स्वास्थ्य पेशेवर है या नहीं, और इस प्रोडक्ट से वह क्या कमाता है",
+      "hg": "Creator qualified health professional hai ya nahi, aur is product se woh kya kamata hai"
+     },
+     {
+      "en": "How many followers the creator has",
+      "hi": "क्रिएटर के कितने फ़ॉलोअर हैं",
+      "hg": "Creator ke kitne followers hain"
+     },
+     {
+      "en": "Whether the comments under the video are positive",
+      "hi": "वीडियो के नीचे कमेंट अच्छे हैं या नहीं",
+      "hg": "Video ke neeche comments positive hain ya nahi"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Followers and comments can be bought or filtered. Qualifications, what is being sold and promises of fast, guaranteed results tell you far more about whether to trust a health claim.",
+     "hi": "फ़ॉलोअर और कमेंट ख़रीदे या छाँटे जा सकते हैं। किसी सेहत के दावे पर भरोसा करना है या नहीं, यह योग्यता, क्या बेचा जा रहा है और जल्दी, गारंटी वाले नतीजों के वादों से कहीं बेहतर पता चलता है।",
+     "hg": "Followers aur comments khareede ya filter kiye ja sakte hain. Kisi health claim pe trust karna hai ya nahi, yeh qualification, kya becha ja raha hai aur fast, guaranteed results ke promises se kahin behtar pata chalta hai."
+    }
+   }
+  ],
+  "refs": [
+   "unesco-itgse",
+   "who-cse",
+   "who-adolescent-mh",
+   "tele-manas"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d12-l04",
+  "domain": "d12",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 3,
+  "minutes": 7,
+  "unesco": [
+   7,
+   5
+  ],
+  "title": {
+   "en": "Adult Reality: Porn, Intimacy and Paid Attention",
+   "hi": "वयस्कों की असलियत: पोर्न, नज़दीकी और ख़रीदी हुई तवज्जो",
+   "hg": "Adult Reality: Porn, Intimacy Aur Paid Attention"
+  },
+  "subtitle": {
+   "en": "What adult media leaves out, how it affects relationships, and the ethics and law every adult should know",
+   "hi": "एडल्ट मीडिया क्या छोड़ देता है, रिश्तों पर इसका क्या असर पड़ता है, और वह नैतिकता व क़ानून जो हर वयस्क को पता होना चाहिए",
+   "hg": "Adult media kya chhod deta hai, relationships pe iska kya asar hota hai, aur woh ethics aur law jo har adult ko pata hona chahiye"
+  },
+  "hook": {
+   "en": "Being an adult does not turn porn into a documentary. It is still a performance, and real intimacy runs on different rules.",
+   "hi": "वयस्क हो जाने से पोर्न डॉक्यूमेंट्री नहीं बन जाता। वह अब भी एक परफ़ॉर्मेंस है, और असली नज़दीकी अलग नियमों पर चलती है।",
+   "hg": "Adult ho jaane se porn documentary nahi ban jaata. Woh ab bhi ek performance hai, aur real intimacy alag rules pe chalti hai."
+  },
+  "objectives": [
+   {
+    "en": "Compare on-screen sex with how adult bodies and intimacy actually work.",
+    "hi": "स्क्रीन पर दिखने वाले सेक्स की तुलना इस बात से कर पाना कि वयस्क शरीर और नज़दीकी असल में कैसे काम करते हैं।",
+    "hg": "On-screen sex ko is baat se compare kar paana ki adult bodies aur intimacy actually kaise kaam karti hain."
+   },
+   {
+    "en": "Recognise paid parasocial intimacy and sexual-health misinformation aimed at adults.",
+    "hi": "पैसे देकर मिलने वाली एकतरफ़ा नज़दीकी और वयस्कों को निशाना बनाने वाली यौन स्वास्थ्य की ग़लत जानकारी को पहचान पाना।",
+    "hg": "Paid parasocial intimacy aur adults ko target karne wali sexual-health misinformation ko pehchaan paana."
+   },
+   {
+    "en": "Understand the ethical and legal lines around sexual content and where to get help for compulsive use.",
+    "hi": "यौन कंटेंट से जुड़ी नैतिक और क़ानूनी सीमाएँ समझना और जानना कि बेक़ाबू इस्तेमाल के लिए मदद कहाँ मिलेगी।",
+    "hg": "Sexual content se judi ethical aur legal lines samajhna aur jaanna ki compulsive use ke liye help kahan milegi."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "What the edit removes",
+     "hi": "एडिटिंग क्या हटा देती है",
+     "hg": "Edit kya hata deta hai"
+    },
+    "body": {
+     "en": "Real adult intimacy looks different from the edited version. Arousal takes time and varies with stress, sleep, mood and trust. Erections come and go; natural lubrication varies, and using lubricant is ordinary, not a failure. Many people do not reach orgasm every time, and for many women penetration alone does not lead to it. Duration on screen is created by cuts and, sometimes, medication. Bodies make noises; people pause, laugh, talk and change their minds. Condoms and contraception, absent on screen, are part of real life. Measuring yourself or a partner against a performance is a common source of anxiety, and anxiety itself interferes with sexual response.",
+     "hi": "वयस्कों की असली नज़दीकी एडिट किए हुए रूप से अलग दिखती है। उत्तेजना में समय लगता है और वह तनाव, नींद, मूड और भरोसे के साथ बदलती है। इरेक्शन आता-जाता रहता है; प्राकृतिक चिकनाई कम-ज़्यादा होती है, और लुब्रिकेंट इस्तेमाल करना आम बात है, नाकामी नहीं। बहुत-से लोग हर बार ऑर्गैज़्म तक नहीं पहुँचते, और बहुत-सी महिलाओं को सिर्फ़ पेनिट्रेशन से ऑर्गैज़्म नहीं होता। स्क्रीन पर दिखने वाली अवधि कट लगाकर और कभी-कभी दवाइयों से बनाई जाती है। शरीर आवाज़ें करते हैं; लोग रुकते हैं, हँसते हैं, बात करते हैं और मन बदल लेते हैं। कंडोम और गर्भनिरोध, जो स्क्रीन पर नहीं दिखते, असल ज़िंदगी का हिस्सा हैं। ख़ुद को या पार्टनर को किसी परफ़ॉर्मेंस से नापना घबराहट की आम वजह है, और घबराहट ख़ुद यौन प्रतिक्रिया में रुकावट डालती है।",
+     "hg": "Adults ki real intimacy edited version se alag dikhti hai. Arousal mein time lagta hai aur woh stress, neend, mood aur trust ke saath badalta hai. Erections aate-jaate rehte hain; natural lubrication kam-zyada hoti hai, aur lubricant use karna ordinary hai, failure nahi. Bahut log har baar orgasm tak nahi pahunchte, aur kaafi women ko sirf penetration se orgasm nahi hota. Screen wali duration cuts aur kabhi-kabhi medication se banayi jaati hai. Bodies awaazein karti hain; log rukte hain, hanste hain, baat karte hain aur mann badal lete hain. Condoms aur contraception, jo screen pe gayab hote hain, real life ka hissa hain. Khud ko ya partner ko kisi performance se naapna anxiety ki common wajah hai, aur anxiety khud sexual response mein rukawat daalti hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Talking beats assuming",
+     "hi": "मान लेने से बेहतर है बात करना",
+     "hg": "Assume karne se better hai baat karna"
+    },
+    "body": {
+     "en": "Porn teaches assumptions; relationships need conversation. A partner is not obliged to like, try or copy anything seen on screen, and asking is not awkwardness, it is respect. Useful questions are simple: what feels comfortable, what is off-limits, what protection are we using, and how do we tell each other to stop. If one partner's viewing bothers the other, treat it as a conversation about needs and boundaries rather than an accusation. Secrecy and comparison damage trust more than the topic itself. Being married does not create consent; every person can say no to any act at any time, and that no has to be respected.",
+     "hi": "पोर्न मान लेना सिखाता है; रिश्तों को बातचीत चाहिए। पार्टनर पर यह ज़िम्मेदारी नहीं है कि स्क्रीन पर देखी गई कोई चीज़ उसे पसंद आए, वह उसे आज़माए या उसकी नक़ल करे, और पूछना अटपटापन नहीं, सम्मान है। काम के सवाल सीधे-सादे हैं: क्या सहज लगता है, क्या बिल्कुल नहीं करना, हम कौन-सा बचाव इस्तेमाल कर रहे हैं, और एक-दूसरे को रुकने के लिए कैसे कहेंगे। अगर एक पार्टनर का पोर्न देखना दूसरे को खटकता है, तो इसे इल्ज़ाम नहीं, ज़रूरतों और सीमाओं की बातचीत की तरह लें। राज़ रखना और तुलना करना भरोसे को इस विषय से कहीं ज़्यादा नुक़सान पहुँचाते हैं। शादी हो जाने से सहमति अपने-आप नहीं बन जाती; हर व्यक्ति किसी भी समय किसी भी चीज़ के लिए ना कह सकता है, और उस ना का सम्मान करना ज़रूरी है।",
+     "hg": "Porn assume karna sikhata hai; relationships ko conversation chahiye. Partner pe koi obligation nahi hai ki screen pe dekhi koi cheez use pasand aaye, woh try kare ya copy kare, aur puchna awkwardness nahi, respect hai. Kaam ke sawaal simple hain: kya comfortable lagta hai, kya off-limits hai, hum kaun-si protection use kar rahe hain, aur ek-dusre ko rukne ke liye kaise bolenge. Agar ek partner ka porn dekhna dusre ko khatakta hai, toh ise ilzaam nahi, needs aur boundaries ki conversation ki tarah lein. Secrecy aur comparison trust ko is topic se kahin zyada damage karte hain. Shaadi ho jaane se consent apne aap nahi ban jaati; har insaan kisi bhi time kisi bhi act ke liye na bol sakta hai, aur us na ka respect karna zaroori hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Paid attention and confident misinformation",
+     "hi": "ख़रीदी हुई तवज्जो और पूरे भरोसे से फैलाई गई ग़लत जानकारी",
+     "hg": "Paid attention aur confident misinformation"
+    },
+    "body": {
+     "en": "Subscription platforms, live streams and chat apps sell a feeling of closeness: a creator replies, uses your name, seems to care. That is a parasocial relationship with a price tag. The warmth may be professional, the account may be run by a team, and spending more does not turn it into a mutual relationship. Watch your budget and your loneliness honestly. Adult feeds are also full of 'sexologists', coaches and supplement sellers promising size increase, lasting 'stamina' or guaranteed cures. Real treatment for erection, ejaculation, pain or desire concerns comes from a registered doctor, not from a discount code.",
+     "hi": "सब्सक्रिप्शन प्लेटफ़ॉर्म, लाइव स्ट्रीम और चैट ऐप नज़दीकी का एहसास बेचते हैं: क्रिएटर जवाब देता है, आपका नाम लेता है, लगता है कि उसे आपकी परवाह है। यह क़ीमत के टैग वाला एकतरफ़ा (parasocial) रिश्ता है। वह अपनापन पेशेवर हो सकता है, अकाउंट कोई टीम चला रही हो सकती है, और ज़्यादा ख़र्च करने से यह दोतरफ़ा रिश्ता नहीं बन जाता। अपने बजट और अपने अकेलेपन, दोनों पर ईमानदारी से नज़र रखें। वयस्कों की फ़ीड ऐसे 'सेक्सोलॉजिस्ट', कोच और सप्लीमेंट बेचने वालों से भी भरी रहती है जो साइज़ बढ़ाने, देर तक चलने वाले 'स्टैमिना' या गारंटी वाले इलाज का वादा करते हैं। इरेक्शन, स्खलन, दर्द या इच्छा से जुड़ी परेशानियों का असली इलाज रजिस्टर्ड डॉक्टर से मिलता है, डिस्काउंट कोड से नहीं।",
+     "hg": "Subscription platforms, live streams aur chat apps closeness ki feeling bechte hain: creator reply karta hai, aapka naam leta hai, lagta hai use parwah hai. Yeh price tag wala parasocial relationship hai. Woh warmth professional ho sakti hai, account koi team chala rahi ho sakti hai, aur zyada kharch karne se yeh mutual relationship nahi ban jaata. Apne budget aur apne akelepan, dono pe honestly nazar rakhein. Adult feeds aise 'sexologists', coaches aur supplement sellers se bhi bhari hoti hain jo size badhane, lamba 'stamina' ya guaranteed ilaaj ka promise karte hain. Erection, ejaculation, pain ya desire wali problems ka real treatment registered doctor se milta hai, discount code se nahi."
+    }
+   },
+   {
+    "h": {
+     "en": "Ethics, law and getting help",
+     "hi": "नैतिकता, क़ानून और मदद",
+     "hg": "Ethics, law aur help"
+    },
+    "body": {
+     "en": "Ask where content comes from. Leaked clips, hidden-camera videos, 'revenge' uploads and deepfakes are abuse of a real person; watching and sharing them adds to the harm. In India, publishing or forwarding sexually explicit material electronically, and capturing or sharing someone's private images without consent, are offences. Any sexual content involving a person under 18 is child sexual abuse material: viewing, storing or sharing it is a serious crime; report it at cybercrime.gov.in. If your own viewing feels out of control, affects work, sleep or your relationship, or keeps escalating, a psychiatrist, clinical psychologist or Tele-MANAS (14416) can help. Laws can change; this is education, not legal advice.",
+     "hi": "पूछिए कि कंटेंट आया कहाँ से है। लीक हुई क्लिप, छिपे कैमरे के वीडियो, 'बदले' में डाले गए अपलोड और डीपफ़ेक किसी असली इंसान का शोषण हैं; इन्हें देखना और शेयर करना उस नुक़सान को और बढ़ाता है। भारत में यौन रूप से स्पष्ट सामग्री को इलेक्ट्रॉनिक तरीक़े से प्रकाशित या फ़ॉरवर्ड करना, और किसी की निजी तस्वीरें बिना सहमति के खींचना या शेयर करना अपराध हैं। 18 साल से कम उम्र के किसी भी व्यक्ति वाला यौन कंटेंट बाल यौन शोषण सामग्री है: उसे देखना, रखना या शेयर करना गंभीर अपराध है, और उसकी रिपोर्ट cybercrime.gov.in पर करनी चाहिए। अगर आपका अपना देखना बेक़ाबू लगे, काम, नींद या रिश्ते पर असर डाले, या बढ़ता ही जाए, तो मनोचिकित्सक, क्लिनिकल साइकोलॉजिस्ट या टेली-मानस (14416) मदद कर सकते हैं। क़ानून बदल सकते हैं; यह शिक्षा है, क़ानूनी सलाह नहीं।",
+     "hg": "Puchiye ki content aaya kahan se hai. Leaked clips, hidden-camera videos, 'revenge' uploads aur deepfakes kisi real insaan ka abuse hain; inhe dekhna aur share karna us harm ko aur badhata hai. India mein sexually explicit material ko electronically publish ya forward karna, aur kisi ki private images bina consent ke capture ya share karna offences hain. 18 se kam umar ke kisi bhi insaan wala sexual content child sexual abuse material hai: use dekhna, store karna ya share karna serious crime hai, aur uski report cybercrime.gov.in pe karni chahiye. Agar aapka apna dekhna out of control lage, kaam, neend ya relationship pe asar daale, ya badhta hi jaaye, toh psychiatrist, clinical psychologist ya Tele-MANAS (14416) help kar sakte hain. Laws badal sakte hain; yeh education hai, legal advice nahi."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "If my partner or I do not perform like people in porn, something is medically wrong.",
+    "hi": "अगर मैं या मेरा पार्टनर पोर्न वालों जैसा परफ़ॉर्म नहीं करते, तो ज़रूर कोई मेडिकल गड़बड़ है।",
+    "hg": "Agar main ya mera partner porn walon jaisa perform nahi karte, toh zaroor kuch medically galat hai."
+   },
+   "fact": {
+    "en": "Porn performance is produced with casting, cuts and sometimes medication. Normal sexual response varies widely between people and from day to day. If a difficulty is persistent and distressing, a doctor can assess it properly.",
+    "hi": "पोर्न की परफ़ॉर्मेंस कास्टिंग, कट और कभी-कभी दवाइयों से तैयार की जाती है। सामान्य यौन प्रतिक्रिया हर इंसान में और हर दिन अलग-अलग होती है। अगर कोई दिक़्क़त लगातार बनी रहे और परेशान करे, तो डॉक्टर उसकी ठीक से जाँच कर सकते हैं।",
+    "hg": "Porn ki performance casting, cuts aur kabhi-kabhi medication se banti hai. Normal sexual response har insaan mein aur har din alag hota hai. Agar koi difficulty lagataar bani rahe aur pareshan kare, toh doctor uski theek se jaanch kar sakte hain."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Real arousal, duration and response vary and rarely match edited performances.",
+    "hi": "असली उत्तेजना, अवधि और प्रतिक्रिया बदलती रहती है और एडिट की हुई परफ़ॉर्मेंस से शायद ही कभी मेल खाती है।",
+    "hg": "Real arousal, duration aur response badalte rehte hain aur edited performances se shayad hi match karte hain."
+   },
+   {
+    "en": "Ask your partner rather than assume, and remember that marriage is not consent.",
+    "hi": "मान लेने की जगह पार्टनर से पूछें, और याद रखें कि शादी सहमति नहीं है।",
+    "hg": "Assume karne ki jagah partner se puchein, aur yaad rakhein ki shaadi consent nahi hai."
+   },
+   {
+    "en": "Non-consensual or under-18 content is abuse and a crime, and compulsive use is treatable.",
+    "hi": "बिना सहमति वाला या 18 से कम उम्र वालों का कंटेंट शोषण और अपराध है, और बेक़ाबू इस्तेमाल का इलाज हो सकता है।",
+    "hg": "Non-consensual ya under-18 content abuse aur crime hai, aur compulsive use treatable hai."
+   }
+  ],
+  "activity": {
+   "en": "Write down, privately, two expectations about intimacy that you picked up from screens rather than from real conversation. Next to each, note how you could check it: by asking a partner, or by reading a reliable health source.",
+   "hi": "अकेले में, नज़दीकी को लेकर ऐसी दो उम्मीदें लिखिए जो आपने असली बातचीत से नहीं, स्क्रीन से सीखीं। हर एक के आगे लिखिए कि आप उसे कैसे परख सकते हैं: पार्टनर से पूछकर, या किसी भरोसेमंद स्वास्थ्य स्रोत से पढ़कर।",
+   "hg": "Privately, intimacy ko leke aisi do expectations likhiye jo aapne real conversation se nahi, screens se seekhi. Har ek ke aage likhiye ki aap use kaise check kar sakte hain: partner se puch ke, ya kisi reliable health source se padh ke."
+  },
+  "interactive": "communication",
+  "quiz": [
+   {
+    "id": "d12-l04-q1",
+    "type": "mcq",
+    "q": {
+     "en": "What best describes a parasocial relationship?",
+     "hi": "पैरासोशल रिश्ते की सबसे सही परिभाषा क्या है?",
+     "hg": "Parasocial relationship ki sabse sahi definition kya hai?"
+    },
+    "options": [
+     {
+      "en": "A relationship between two people who met online",
+      "hi": "ऑनलाइन मिले दो लोगों का रिश्ता",
+      "hg": "Online mile do logon ka relationship"
+     },
+     {
+      "en": "A long-distance relationship between adults",
+      "hi": "दो वयस्कों का लॉन्ग-डिस्टेंस रिश्ता",
+      "hg": "Do adults ka long-distance relationship"
+     },
+     {
+      "en": "A one-sided bond with a creator or celebrity who does not know you",
+      "hi": "ऐसे क्रिएटर या सेलिब्रिटी से एकतरफ़ा जुड़ाव जो आपको जानता ही नहीं",
+      "hg": "Aise creator ya celebrity se one-sided bond jo aapko jaanta hi nahi"
+     },
+     {
+      "en": "A friendship that begins in a comment section",
+      "hi": "कमेंट सेक्शन में शुरू हुई दोस्ती",
+      "hg": "Comment section mein shuru hui dosti"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "In a parasocial relationship the feeling of closeness runs only one way. Paying for replies or attention does not make it mutual.",
+     "hi": "पैरासोशल रिश्ते में नज़दीकी का एहसास सिर्फ़ एक तरफ़ से होता है। जवाब या तवज्जो के लिए पैसे देने से यह दोतरफ़ा नहीं हो जाता।",
+     "hg": "Parasocial relationship mein closeness ki feeling sirf ek taraf se hoti hai. Replies ya attention ke liye paise dene se yeh mutual nahi ho jaata."
+    }
+   },
+   {
+    "id": "d12-l04-q2",
+    "type": "tf",
+    "q": {
+     "en": "If a partner does not respond the way performers do on screen, it usually means they have a medical problem.",
+     "hi": "अगर पार्टनर की प्रतिक्रिया स्क्रीन के कलाकारों जैसी नहीं है, तो आमतौर पर इसका मतलब है कि उन्हें कोई मेडिकल समस्या है।",
+     "hg": "Agar partner ka response screen ke performers jaisa nahi hai, toh aksar iska matlab hai ki unhe koi medical problem hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "On-screen reactions are acted and edited. Real sexual response varies with the person, the day, stress and trust, and that variation is normal.",
+     "hi": "स्क्रीन की प्रतिक्रियाएँ एक्टिंग और एडिटिंग होती हैं। असली यौन प्रतिक्रिया इंसान, दिन, तनाव और भरोसे के हिसाब से बदलती है, और यह बदलाव सामान्य है।",
+     "hg": "Screen wale reactions acting aur editing hote hain. Real sexual response insaan, din, stress aur trust ke hisaab se badalta hai, aur yeh variation normal hai."
+    }
+   }
+  ],
+  "refs": [
+   "who-sexual-health",
+   "unesco-itgse",
+   "cybercrime-portal",
+   "tele-manas"
+  ],
+  "warning": null,
+  "sensitive": false,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d12-l05",
+  "domain": "d12",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 2,
+  "minutes": 7,
+  "unesco": [
+   4,
+   5
+  ],
+  "title": {
+   "en": "Deepfakes, Leaks and Sextortion: Your Action Plan",
+   "hi": "डीपफ़ेक, लीक और सेक्सटॉर्शन: तुम्हारा एक्शन प्लान",
+   "hg": "Deepfakes, Leaks Aur Sextortion: Tumhara Action Plan"
+  },
+  "subtitle": {
+   "en": "AI-made intimate images, non-consensual sharing and online blackmail — and exactly how to report",
+   "hi": "AI से बनी अंतरंग तस्वीरें, बिना सहमति की शेयरिंग और ऑनलाइन ब्लैकमेल — और रिपोर्ट ठीक-ठीक कैसे करें",
+   "hg": "AI se bani intimate images, bina consent ki sharing aur online blackmail — aur exactly report kaise karein"
+  },
+  "hook": {
+   "en": "It takes an app thirty seconds to fake a photo. It takes one forward to hurt a real person. Here is how to protect yourself and others.",
+   "hi": "एक ऐप को नक़ली फ़ोटो बनाने में तीस सेकंड लगते हैं। किसी असली इंसान को चोट पहुँचाने के लिए एक फ़ॉरवर्ड काफ़ी है। जानो कि ख़ुद को और दूसरों को कैसे बचाना है।",
+   "hg": "Ek app ko fake photo banane mein tees second lagte hain. Kisi real insaan ko hurt karne ke liye ek forward kaafi hai. Jaano khud ko aur dusron ko kaise protect karna hai."
+  },
+  "objectives": [
+   {
+    "en": "Explain what deepfakes and AI-generated intimate images are and why creating or sharing them is abuse.",
+    "hi": "समझा पाना कि डीपफ़ेक और AI से बनी अंतरंग तस्वीरें क्या हैं और इन्हें बनाना या शेयर करना शोषण क्यों है।",
+    "hg": "Samjha paana ki deepfakes aur AI-generated intimate images kya hain aur inhe banana ya share karna abuse kyun hai."
+   },
+   {
+    "en": "Recognise how sextortion works and the steps that stop it.",
+    "hi": "पहचान पाना कि सेक्सटॉर्शन कैसे काम करता है और कौन-से क़दम उसे रोकते हैं।",
+    "hg": "Pehchaan paana ki sextortion kaise kaam karta hai aur kaun-se steps use rokte hain."
+   },
+   {
+    "en": "Know where and how to report in India.",
+    "hi": "जानना कि भारत में रिपोर्ट कहाँ और कैसे करनी है।",
+    "hg": "Jaanna ki India mein report kahan aur kaise karni hai."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "Fake image, real harm",
+     "hi": "तस्वीर नक़ली, नुक़सान असली",
+     "hg": "Image fake, harm real"
+    },
+    "body": {
+     "en": "A deepfake is a photo, video or voice clip created or altered with AI so that a person appears to do or say something they never did. 'Nudify' apps and face-swap tools can turn an ordinary school photo or profile picture into a fake sexual image. The image is fake; the humiliation, fear and bullying are real. The person shown did nothing wrong, even if the original photo was public. Making, keeping or sharing such an image is abuse and can be an offence under India's IT Act and other laws. If the person shown is under 18, it is treated as child sexual abuse material.",
+     "hi": "डीपफ़ेक ऐसी फ़ोटो, वीडियो या आवाज़ की क्लिप है जो AI से बनाई या बदली गई हो, ताकि लगे कि किसी इंसान ने वह किया या कहा जो उसने कभी नहीं किया। 'न्यूडिफ़ाई' ऐप और फ़ेस-स्वैप टूल स्कूल की किसी आम फ़ोटो या प्रोफ़ाइल पिक्चर को नक़ली यौन तस्वीर में बदल सकते हैं। तस्वीर नक़ली होती है; बेइज़्ज़ती, डर और बुलिंग असली होती है। जिसकी तस्वीर है उसने कुछ ग़लत नहीं किया, भले ही असली फ़ोटो सबके लिए खुली रही हो। ऐसी तस्वीर बनाना, रखना या शेयर करना शोषण है और भारत के आईटी एक्ट और दूसरे क़ानूनों के तहत अपराध हो सकता है। अगर तस्वीर में दिख रहा व्यक्ति 18 साल से कम उम्र का है, तो उसे बाल यौन शोषण सामग्री माना जाता है।",
+     "hg": "Deepfake aisi photo, video ya voice clip hai jo AI se banayi ya badli gayi ho, taaki lage ki kisi insaan ne woh kiya ya kaha jo usne kabhi nahi kiya. 'Nudify' apps aur face-swap tools school ki kisi ordinary photo ya profile picture ko fake sexual image mein badal sakte hain. Image fake hoti hai; humiliation, dar aur bullying real hoti hai. Jiski photo hai usne kuch galat nahi kiya, chahe original photo public hi kyun na ho. Aisi image banana, rakhna ya share karna abuse hai aur India ke IT Act aur dusre laws ke under offence ho sakta hai. Agar image mein dikh raha insaan 18 se kam umar ka hai, toh use child sexual abuse material maana jaata hai."
+    }
+   },
+   {
+    "h": {
+     "en": "A forward is not harmless",
+     "hi": "फ़ॉरवर्ड करना मासूम हरकत नहीं है",
+     "hg": "Forward karna harmless nahi hai"
+    },
+    "body": {
+     "en": "Non-consensual image sharing means passing on someone's private or sexual image without their permission, whether it was sent in trust, taken secretly, stolen or faked. Each forward creates a new copy that can never be fully recalled. 'I only sent it to one friend' and 'everyone already had it' are not defences. If it reaches you: do not open it again, do not forward it, do not save it, and say clearly in the group that it must stop. Then tell a trusted adult. Blaming the person in the picture protects the people who shared it. The breach of trust is the wrong.",
+     "hi": "बिना सहमति तस्वीर शेयर करने का मतलब है किसी की निजी या यौन तस्वीर उसकी इजाज़त के बिना आगे बढ़ाना — चाहे वह भरोसे में भेजी गई हो, चुपके से खींची गई हो, चुराई गई हो या नक़ली बनाई गई हो। हर फ़ॉरवर्ड एक नई कॉपी बनाता है जिसे कभी पूरी तरह वापस नहीं लिया जा सकता। 'मैंने तो बस एक दोस्त को भेजी' और 'सबके पास पहले से थी' कोई बचाव नहीं हैं। अगर वह तुम तक पहुँचे: उसे दोबारा मत खोलो, फ़ॉरवर्ड मत करो, सेव मत करो, और ग्रुप में साफ़ कहो कि यह बंद होना चाहिए। फिर किसी भरोसेमंद बड़े को बताओ। तस्वीर वाले इंसान को दोष देना शेयर करने वालों को बचाता है। ग़लती भरोसा तोड़ने वाले की है।",
+     "hg": "Non-consensual image sharing ka matlab hai kisi ki private ya sexual image uski permission ke bina aage badhana — chahe woh trust mein bheji gayi ho, chupke se li gayi ho, chori hui ho ya fake banayi gayi ho. Har forward ek nayi copy banata hai jo kabhi poori tarah wapas nahi li ja sakti. 'Maine toh bas ek dost ko bheji' aur 'sabke paas pehle se thi' koi defence nahi hain. Agar woh tum tak pahunche: dobara mat kholo, forward mat karo, save mat karo, aur group mein clearly bolo ki yeh band hona chahiye. Phir kisi trusted adult ko batao. Photo wale insaan ko blame karna share karne walon ko bachata hai. Galti trust todne wale ki hai."
+    }
+   },
+   {
+    "h": {
+     "en": "How sextortion works",
+     "hi": "सेक्सटॉर्शन कैसे काम करता है",
+     "hg": "Sextortion kaise kaam karta hai"
+    },
+    "body": {
+     "en": "Sextortion is blackmail using sexual images. A common pattern: a stranger with an attractive profile chats warmly, moves quickly to a private app, asks for an intimate photo or a video call, and secretly records it. Sometimes they edit your face onto a fake image. Then come threats: pay money, or send more images, or it goes to your family and followers. Paying or sending more almost always leads to more demands. Stop replying, do not pay, do not send anything, and do not delete the chat or account details. Tell a trusted adult the same day. People of every gender are targeted, and being tricked is not a crime.",
+     "hi": "सेक्सटॉर्शन यौन तस्वीरों के सहारे किया गया ब्लैकमेल है। एक आम तरीक़ा: आकर्षक प्रोफ़ाइल वाला कोई अजनबी प्यार से बात करता है, जल्दी ही किसी प्राइवेट ऐप पर ले जाता है, अंतरंग फ़ोटो या वीडियो कॉल माँगता है, और चुपके से रिकॉर्ड कर लेता है। कभी-कभी वे बस तुम्हारा चेहरा किसी नक़ली तस्वीर पर चिपका देते हैं। फिर धमकियाँ आती हैं: पैसे दो, या और तस्वीरें भेजो, वरना यह तुम्हारे परिवार और फ़ॉलोअरों तक पहुँचेगा। पैसे देने या और भेजने से लगभग हमेशा माँगें और बढ़ती हैं। जवाब देना बंद करो, पैसे मत दो, कुछ मत भेजो, और चैट या अकाउंट की जानकारी डिलीट मत करो। उसी दिन किसी भरोसेमंद बड़े को बताओ। हर जेंडर के लोग निशाना बनते हैं, और धोखा खा जाना कोई अपराध नहीं है।",
+     "hg": "Sextortion sexual images ke through kiya gaya blackmail hai. Ek common pattern: attractive profile wala koi stranger pyaar se chat karta hai, jaldi kisi private app pe le jaata hai, intimate photo ya video call maangta hai, aur chupke se record kar leta hai. Kabhi-kabhi woh bas tumhara chehra kisi fake image pe chipka dete hain. Phir dhamkiyan aati hain: paise do, ya aur images bhejo, warna yeh tumhari family aur followers tak jaayega. Paise dene ya aur bhejne se lagbhag hamesha demands aur badhti hain. Reply karna band karo, paise mat do, kuch mat bhejo, aur chat ya account details delete mat karo. Usi din kisi trusted adult ko batao. Har gender ke log target hote hain, aur dhokha kha jaana koi crime nahi hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Reporting, step by step",
+     "hi": "रिपोर्ट करना, एक-एक क़दम",
+     "hg": "Report karna, step by step"
+    },
+    "body": {
+     "en": "First, keep the evidence where it is: note the username, profile link, phone number or UPI ID and the dates, and leave the chat undeleted. Do not forward or re-save a sexual image of anyone under 18, even as proof. Second, report: online at cybercrime.gov.in, by phone on 1930, at a police station, or through Child Helpline 1098 if you are under 18; call 112 if you are in immediate danger. Third, use the platform's report button so the account and content can be removed. Take a trusted adult with you. If you feel panicked or hopeless, Tele-MANAS 14416 is free. Laws can change and this is not legal advice.",
+     "hi": "पहला, सबूत को वहीं रहने दो जहाँ वह है: यूज़रनेम, प्रोफ़ाइल लिंक, फ़ोन नंबर या UPI आईडी और तारीख़ें नोट कर लो, और चैट डिलीट मत करो। 18 साल से कम उम्र के किसी भी व्यक्ति की यौन तस्वीर को सबूत के तौर पर भी फ़ॉरवर्ड या दोबारा सेव मत करो। दूसरा, रिपोर्ट करो: ऑनलाइन cybercrime.gov.in पर, फ़ोन से 1930 पर, पुलिस थाने में, या अगर तुम 18 से कम हो तो चाइल्ड हेल्पलाइन 1098 के ज़रिए; अगर तुरंत ख़तरा हो तो 112 पर कॉल करो। तीसरा, प्लेटफ़ॉर्म का रिपोर्ट बटन इस्तेमाल करो ताकि अकाउंट और कंटेंट हटाया जा सके। किसी भरोसेमंद बड़े को साथ रखो। अगर घबराहट हो या कोई उम्मीद न दिखे, तो टेली-मानस 14416 मुफ़्त है। क़ानून बदल सकते हैं और यह क़ानूनी सलाह नहीं है।",
+     "hg": "Pehla, evidence ko wahin rehne do jahan woh hai: username, profile link, phone number ya UPI ID aur dates note kar lo, aur chat delete mat karo. 18 se kam umar ke kisi bhi insaan ki sexual image ko proof ke taur pe bhi forward ya dobara save mat karo. Doosra, report karo: online cybercrime.gov.in pe, phone se 1930 pe, police station mein, ya agar tum 18 se kam ho toh Child Helpline 1098 ke through; agar turant khatra ho toh 112 pe call karo. Teesra, platform ka report button use karo taaki account aur content hataya ja sake. Kisi trusted adult ko saath rakho. Agar panic ho ya koi umeed na dikhe, toh Tele-MANAS 14416 free hai. Laws badal sakte hain aur yeh legal advice nahi hai."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Only people who send nudes get targeted by deepfakes or sextortion.",
+    "hi": "डीपफ़ेक या सेक्सटॉर्शन का शिकार वही होते हैं जो अपनी न्यूड तस्वीरें भेजते हैं।",
+    "hg": "Deepfake ya sextortion ka target wahi bante hain jo apni nudes bhejte hain."
+   },
+   "fact": {
+    "en": "Anyone with a photo online can be targeted, because AI tools can create a fake sexual image from an ordinary picture. The blame lies with the person who makes, shares or threatens, never with the person shown.",
+    "hi": "जिसकी भी फ़ोटो ऑनलाइन है, वह निशाना बन सकता है, क्योंकि AI टूल किसी आम तस्वीर से नक़ली यौन तस्वीर बना सकते हैं। दोष उसका है जो बनाता, शेयर करता या धमकाता है — जिसकी तस्वीर है, उसका कभी नहीं।",
+    "hg": "Jiski bhi photo online hai woh target ban sakta hai, kyunki AI tools ordinary picture se fake sexual image bana sakte hain. Blame uska hai jo banata, share karta ya dhamkata hai — jiski photo hai, uska kabhi nahi."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "Making or sharing a real or fake intimate image of someone without consent is abuse, and if that person is under 18, saving or forwarding such an image is a serious crime even if they agreed.",
+    "hi": "किसी की असली या नक़ली अंतरंग तस्वीर उसकी सहमति के बिना बनाना या शेयर करना शोषण है, और अगर वह व्यक्ति 18 साल से कम उम्र का है, तो ऐसी तस्वीर सेव या फ़ॉरवर्ड करना गंभीर अपराध है, चाहे उसने हामी भरी हो।",
+    "hg": "Kisi ki real ya fake intimate image uske consent ke bina banana ya share karna abuse hai, aur agar woh insaan 18 se kam umar ka hai, toh aisi image save ya forward karna serious crime hai, chahe usne haan boli ho."
+   },
+   {
+    "en": "In sextortion: stop replying, do not pay, do not send more, do not delete the chat, and tell a trusted adult.",
+    "hi": "सेक्सटॉर्शन में: जवाब देना बंद करो, पैसे मत दो, और कुछ मत भेजो, चैट डिलीट मत करो, और किसी भरोसेमंद बड़े को बताओ।",
+    "hg": "Sextortion mein: reply band karo, paise mat do, aur kuch mat bhejo, chat delete mat karo, aur trusted adult ko batao."
+   },
+   {
+    "en": "Report at cybercrime.gov.in, 1930, the police or 1098, with a trusted adult beside you.",
+    "hi": "किसी भरोसेमंद बड़े के साथ cybercrime.gov.in, 1930, पुलिस या 1098 पर रिपोर्ट करो।",
+    "hg": "Trusted adult ke saath cybercrime.gov.in, 1930, police ya 1098 pe report karo."
+   }
+  ],
+  "activity": {
+   "en": "Check the privacy settings of one social account today: who can see your photos, who can message you and who can tag you. Then decide which trusted adult you would tell first if someone threatened you online.",
+   "hi": "आज अपने किसी एक सोशल अकाउंट की प्राइवेसी सेटिंग जाँचो: तुम्हारी फ़ोटो कौन देख सकता है, तुम्हें मैसेज कौन कर सकता है और टैग कौन कर सकता है। फिर तय करो कि अगर कोई तुम्हें ऑनलाइन धमकाए तो सबसे पहले किस भरोसेमंद बड़े को बताओगे।",
+   "hg": "Aaj apne kisi ek social account ki privacy settings check karo: tumhari photos kaun dekh sakta hai, tumhe message kaun kar sakta hai aur tag kaun kar sakta hai. Phir decide karo ki agar koi tumhe online dhamkaye toh sabse pehle kis trusted adult ko bataoge."
+  },
+  "interactive": "digital_safety",
+  "quiz": [
+   {
+    "id": "d12-l05-q1",
+    "type": "scenario",
+    "q": {
+     "en": "Ananya, 14, gets a message: 'Send ₹3,000 or your edited photo goes to your whole class.' What is the safest first move?",
+     "hi": "14 साल की अनन्या को मैसेज आता है: '₹3,000 भेजो, वरना तुम्हारी एडिट की हुई फ़ोटो पूरी क्लास को जाएगी।' सबसे सुरक्षित पहला क़दम क्या है?",
+     "hg": "14 saal ki Ananya ko message aata hai: '₹3,000 bhejo, warna tumhari edited photo poori class ko jaayegi.' Sabse safe pehla step kya hai?"
+    },
+    "options": [
+     {
+      "en": "Pay once so that the person goes away",
+      "hi": "एक बार पैसे दे देना ताकि वह पीछा छोड़ दे",
+      "hg": "Ek baar paise de dena taaki woh peecha chhod de"
+     },
+     {
+      "en": "Delete her account and all chats immediately",
+      "hi": "तुरंत अपना अकाउंट और सारी चैट डिलीट कर देना",
+      "hg": "Turant apna account aur saari chats delete kar dena"
+     },
+     {
+      "en": "Stop replying, keep the chat, and tell a trusted adult so they can report it",
+      "hi": "जवाब देना बंद करना, चैट रहने देना, और किसी भरोसेमंद बड़े को बताना ताकि वे रिपोर्ट कर सकें",
+      "hg": "Reply band karna, chat rehne dena, aur trusted adult ko batana taaki woh report kar sakein"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "Paying usually brings more demands, and deleting removes what is needed to trace the account. Silence towards the blackmailer plus a trusted adult and a report is what stops it.",
+     "hi": "पैसे देने से आमतौर पर माँगें और बढ़ती हैं, और डिलीट करने से वह जानकारी मिट जाती है जिससे अकाउंट पकड़ा जा सकता है। ब्लैकमेलर को जवाब न देना, किसी भरोसेमंद बड़े को बताना और रिपोर्ट करना ही इसे रोकता है।",
+     "hg": "Paise dene se aksar demands aur badhti hain, aur delete karne se woh info mit jaati hai jisse account trace ho sakta hai. Blackmailer ko reply na karna, trusted adult ko batana aur report karna hi ise rokta hai."
+    }
+   },
+   {
+    "id": "d12-l05-q2",
+    "type": "tf",
+    "q": {
+     "en": "If a sexual image of a classmate under 18 reaches your phone, forwarding it to a teacher as proof is the right step.",
+     "hi": "अगर 18 से कम उम्र के किसी सहपाठी की यौन तस्वीर तुम्हारे फ़ोन पर आ जाए, तो सबूत के तौर पर उसे टीचर को फ़ॉरवर्ड करना सही क़दम है।",
+     "hg": "Agar 18 se kam umar ke kisi classmate ki sexual image tumhare phone pe aa jaaye, toh proof ke taur pe use teacher ko forward karna sahi step hai."
+    },
+    "options": [
+     {
+      "en": "True",
+      "hi": "सही",
+      "hg": "Sahi"
+     },
+     {
+      "en": "False",
+      "hi": "ग़लत",
+      "hg": "Galat"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "Forwarding creates another copy and can itself be an offence. Tell the teacher or another trusted adult in person and let them report it; do not forward or save the image.",
+     "hi": "फ़ॉरवर्ड करने से एक और कॉपी बनती है और यह ख़ुद अपराध हो सकता है। टीचर या किसी भरोसेमंद बड़े को आमने-सामने बताओ और उन्हें रिपोर्ट करने दो; तस्वीर को फ़ॉरवर्ड या सेव मत करो।",
+     "hg": "Forward karne se ek aur copy banti hai aur yeh khud offence ho sakta hai. Teacher ya kisi trusted adult ko in person batao aur unhe report karne do; image ko forward ya save mat karo."
+    }
+   }
+  ],
+  "refs": [
+   "cybercrime-portal",
+   "pocso-2012",
+   "wcd-childline",
+   "unesco-itgse"
+  ],
+  "warning": {
+   "en": "If someone is threatening to share intimate images of you, you are not alone and it is not your fault. Do not pay and do not send more. Tell a trusted adult and report at cybercrime.gov.in or 1930; if you are under 18 you can call 1098. If you feel unsafe or think of harming yourself, call 112 or Tele-MANAS 14416 now.",
+   "hi": "अगर कोई तुम्हारी अंतरंग तस्वीरें शेयर करने की धमकी दे रहा है, तो तुम अकेले नहीं हो और यह तुम्हारी ग़लती नहीं है। पैसे मत दो और कुछ और मत भेजो। किसी भरोसेमंद बड़े को बताओ और cybercrime.gov.in या 1930 पर रिपोर्ट करो; अगर तुम 18 से कम हो तो 1098 पर कॉल कर सकते हो। अगर तुम असुरक्षित महसूस करो या ख़ुद को नुक़सान पहुँचाने का ख़याल आए, तो अभी 112 या टेली-मानस 14416 पर कॉल करो।",
+   "hg": "Agar koi tumhari intimate images share karne ki dhamki de raha hai, toh tum akele nahi ho aur yeh tumhari galti nahi hai. Paise mat do aur kuch aur mat bhejo. Trusted adult ko batao aur cybercrime.gov.in ya 1930 pe report karo; agar tum 18 se kam ho toh 1098 pe call kar sakte ho. Agar unsafe feel ho ya khud ko hurt karne ka khayal aaye, toh abhi 112 ya Tele-MANAS 14416 pe call karo."
+  },
+  "sensitive": true,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ },
+ {
+  "id": "d12-l06",
+  "domain": "d12",
+  "tracks": [
+   "E"
+  ],
+  "audience": [
+   "everyone"
+  ],
+  "body": [],
+  "difficulty": 3,
+  "minutes": 8,
+  "unesco": [
+   4,
+   2
+  ],
+  "title": {
+   "en": "What the Screen Hides: Exploitation Behind Porn and Paid Sex",
+   "hi": "स्क्रीन क्या छिपाती है: पोर्न और पैसे के बदले सेक्स के पीछे का शोषण",
+   "hg": "Screen Kya Chhupati Hai: Porn aur Paid Sex ke Peeche ka Exploitation"
+  },
+  "subtitle": {
+   "en": "Consent you cannot verify, trafficking, the law on sex work, and how to report abuse",
+   "hi": "ऐसी सहमति जिसे आप जाँच नहीं सकते, तस्करी, सेक्स वर्क पर क़ानून, और शोषण की रिपोर्ट कैसे करें",
+   "hg": "Aisa consent jo tum verify nahi kar sakte, trafficking, sex work ka law, aur abuse report kaise karein"
+  },
+  "hook": {
+   "en": "A video cannot tell you whether the person in it agreed, was paid, was threatened, or is even an adult. This lesson is about the people behind the screen and behind the price.",
+   "hi": "कोई वीडियो आपको यह नहीं बता सकता कि उसमें दिख रहा व्यक्ति राज़ी था, उसे पैसे मिले थे, उसे धमकाया गया था, या वह वयस्क भी है या नहीं। यह पाठ उन लोगों के बारे में है जो स्क्रीन के पीछे और क़ीमत के पीछे हैं।",
+   "hg": "Koi video tumhe yeh nahi bata sakta ki usme dikh raha insaan agree tha, use paise mile the, use dhamkaya gaya tha, ya woh adult bhi hai ya nahi. Yeh lesson un logon ke baare mein hai jo screen ke peeche aur price ke peeche hain."
+  },
+  "objectives": [
+   {
+    "en": "Explain why consent cannot be judged from a video.",
+    "hi": "समझा सकें कि वीडियो देखकर सहमति का अंदाज़ा क्यों नहीं लगाया जा सकता।",
+    "hg": "Samjha sako ki video dekhkar consent judge kyun nahi kiya ja sakta."
+   },
+   {
+    "en": "Describe how trafficking and coercion work, and the broad legal position of sex work in India.",
+    "hi": "बता सकें कि तस्करी और ज़बरदस्ती कैसे काम करती हैं, और भारत में सेक्स वर्क की मोटी-मोटी क़ानूनी स्थिति क्या है।",
+    "hg": "Bata sako ki trafficking aur coercion kaise kaam karte hain, aur India mein sex work ki broad legal position kya hai."
+   },
+   {
+    "en": "Know how to report abuse material and suspected trafficking without spreading the harm.",
+    "hi": "जान सकें कि शोषण की सामग्री और तस्करी के शक की रिपोर्ट नुक़सान फैलाए बिना कैसे की जाती है।",
+    "hg": "Jaan sako ki abuse material aur suspected trafficking ko harm phailaye bina kaise report karte hain."
+   }
+  ],
+  "prereqs": [],
+  "sections": [
+   {
+    "h": {
+     "en": "You cannot see consent on a screen",
+     "hi": "स्क्रीन पर सहमति दिखाई नहीं देती",
+     "hg": "Screen pe consent dikhta nahi"
+    },
+    "body": {
+     "en": "Some pornography is made by consenting adults under contract. Some is not, and nobody knows how much, especially among chat-group clips and free sites. It includes hidden-camera recordings, private videos uploaded by ex-partners, hacked or leaked clips, recorded sexual assault, and scenes with people who were tricked, threatened, indebted or under 18. Some agreed to filming but never to publication. A viewer cannot tell these apart: a smile or a 'verified' badge proves nothing, and labels like 'leaked' or 'hidden cam' often mean real abuse. Large sites have deleted huge numbers of videos after such content was found. For the person shown, every view and share repeats the violation.",
+     "hi": "कुछ पोर्नोग्राफ़ी वयस्क कलाकार अपनी सहमति से, अनुबंध के तहत बनाते हैं। कुछ ऐसी नहीं होती, और कोई नहीं जानता कि कितनी, ख़ासकर चैट ग्रुपों और मुफ़्त साइटों पर घूमने वाली क्लिप में। इसमें छिपे कैमरे की रिकॉर्डिंग, पुराने साथियों द्वारा अपलोड किए गए निजी वीडियो, हैक या लीक हुई क्लिप, यौन हमले की रिकॉर्डिंग, और ऐसे दृश्य शामिल हैं जिनमें लोगों को बहकाया या धमकाया गया था, जो क़र्ज़ में दबे थे या 18 साल से कम उम्र के थे। कुछ लोग फ़िल्माए जाने पर राज़ी थे, पर प्रकाशित किए जाने पर कभी नहीं। देखने वाला इनमें फ़र्क़ नहीं कर सकता: मुस्कान या 'वेरिफ़ाइड' का निशान कुछ साबित नहीं करता, और 'लीक्ड' या 'हिडन कैम' जैसे लेबल का मतलब अक्सर असली शोषण होता है। ऐसी सामग्री मिलने के बाद बड़ी साइटों को भारी संख्या में वीडियो हटाने पड़े हैं। जो व्यक्ति उसमें दिखता है, उसके लिए हर व्यू और हर शेयर उसी ज़्यादती को दोहराता है।",
+     "hg": "Kuch pornography adult performers apne consent se, contract ke under banate hain. Kuch aisi nahi hoti, aur koi nahi jaanta kitni, khaaskar chat groups aur free sites pe ghoomne wali clips mein. Isme hidden camera recordings, ex-partners ke upload kiye private videos, hacked ya leaked clips, sexual assault ki recordings, aur aise scenes shaamil hain jinme logon ko trick kiya gaya ya dhamkaya gaya tha, jo karz mein the ya 18 se kam umar ke the. Kuch log film hone par agree the, par publish hone par kabhi nahi. Dekhne wala inme farak nahi kar sakta: smile ya 'verified' badge kuch prove nahi karta, aur 'leaked' ya 'hidden cam' jaise labels ka matlab aksar real abuse hota hai. Aisa content milne ke baad badi sites ko bahut badi sankhya mein videos delete karne pade hain. Jo insaan usme dikhta hai, uske liye har view aur har share usi violation ko repeat karta hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Trafficking: how people are trapped",
+     "hi": "तस्करी: लोग कैसे फँसाए जाते हैं",
+     "hg": "Trafficking: log kaise phansaye jaate hain"
+    },
+    "body": {
+     "en": "Trafficking for sexual exploitation means recruiting, moving or holding a person through force, threats, deception, debt or abuse of vulnerability, to exploit them. It rarely starts with a kidnapping. More often it begins with a job offer, a marriage promise, a romance or a relative who is paid. Control then comes through an invented debt, confiscated documents, violence, threats to family and shame. Most identified victims are women and girls from poor families, but boys, men and transgender people are trafficked too. A person who is not locked in can still be trafficked. It is a serious crime in India, and the victim's 'agreement' is no defence for the trafficker.",
+     "hi": "यौन शोषण के लिए तस्करी (trafficking) का मतलब है किसी व्यक्ति का शोषण करने के लिए उसे ज़बरदस्ती, धमकी, धोखे, क़र्ज़ या उसकी मजबूरी का फ़ायदा उठाकर भर्ती करना, एक जगह से दूसरी जगह ले जाना या क़ब्ज़े में रखना। इसकी शुरुआत शायद ही कभी अपहरण से होती है। ज़्यादातर यह नौकरी के प्रस्ताव, शादी के वादे, प्रेम संबंध या किसी ऐसे रिश्तेदार से शुरू होती है जिसे पैसे दिए गए हों। फिर क़ाबू रखा जाता है गढ़े हुए क़र्ज़, ज़ब्त किए गए काग़ज़ात, हिंसा, परिवार को धमकियों और शर्म के ज़रिए। पहचाने गए पीड़ितों में ज़्यादातर ग़रीब परिवारों की औरतें और लड़कियाँ होती हैं, पर लड़कों, मर्दों और ट्रांसजेंडर लोगों की भी तस्करी होती है। जो व्यक्ति ताले में बंद नहीं है, वह भी तस्करी का शिकार हो सकता है। भारत में यह गंभीर अपराध है, और पीड़ित की 'रज़ामंदी' तस्कर के लिए कोई बचाव नहीं है।",
+     "hg": "Sexual exploitation ke liye trafficking ka matlab hai kisi insaan ko exploit karne ke liye use force, dhamki, dhokhe, karz ya uski majboori ka fayda uthakar recruit karna, ek jagah se doosri jagah le jaana ya kabze mein rakhna. Iski shuruaat shayad hi kabhi kidnapping se hoti hai. Zyadatar yeh job offer, shaadi ke promise, romantic relationship ya kisi aise rishtedaar se shuru hoti hai jise paise diye gaye hon. Phir control rakha jaata hai banaye hue karz, zabt kiye gaye documents, violence, family ko dhamkiyon aur sharam ke zariye. Identify hue victims mein zyadatar gareeb families ki women aur ladkiyan hoti hain, par ladkon, men aur transgender logon ki bhi trafficking hoti hai. Jo insaan taale mein band nahi hai, woh bhi trafficked ho sakta hai. India mein yeh serious crime hai, aur victim ka 'agree' karna trafficker ke liye koi defence nahi hai."
+    }
+   },
+   {
+    "h": {
+     "en": "Sex work and the law in India",
+     "hi": "सेक्स वर्क और भारत का क़ानून",
+     "hg": "Sex work aur India ka law"
+    },
+    "body": {
+     "en": "Adults sell sex because of poverty, debt, coercion, lack of other work, or as a choice among limited options. They include women, men and transgender people; none deserves contempt. Under the Immoral Traffic (Prevention) Act an adult selling sex privately is not itself a crime, but soliciting in public, running a brothel, pimping, living off another person's earnings and trafficking are. The position of customers is less settled. The Supreme Court has said sex workers are entitled to dignity and equal legal protection. Paying for sex with anyone under 18 is a serious crime under POCSO, whatever the child 'agreed'. This has not been reviewed by a lawyer; laws change.",
+     "hi": "वयस्क लोग ग़रीबी, क़र्ज़, ज़बरदस्ती, दूसरे काम की कमी की वजह से, या सीमित विकल्पों में से एक चुनाव के तौर पर सेक्स बेचते हैं। इनमें औरतें, मर्द और ट्रांसजेंडर लोग शामिल हैं, और कोई भी तिरस्कार का हक़दार नहीं है। अनैतिक व्यापार (निवारण) अधिनियम के तहत किसी वयस्क का निजी तौर पर सेक्स बेचना अपने-आप में अपराध नहीं है, पर सार्वजनिक जगह पर ग्राहक बुलाना, वेश्यालय चलाना, दलाली, किसी और की कमाई पर जीना और तस्करी अपराध हैं। ग्राहकों की क़ानूनी स्थिति उतनी साफ़ नहीं है। सुप्रीम कोर्ट कह चुका है कि यौनकर्मियों को गरिमा और क़ानून की बराबर सुरक्षा का हक़ है। 18 साल से कम उम्र के किसी भी व्यक्ति के साथ पैसे देकर सेक्स करना पॉक्सो के तहत गंभीर अपराध है, चाहे बच्चे ने जो भी 'हामी' भरी हो। इस सार को किसी वकील ने नहीं जाँचा है; क़ानून बदलते रहते हैं।",
+     "hg": "Adults gareebi, karz, coercion, doosre kaam ki kami ki wajah se, ya limited options mein se ek choice ke taur par sex bechte hain. Inme women, men aur transgender log shaamil hain, aur koi bhi contempt deserve nahi karta. Immoral Traffic (Prevention) Act ke under kisi adult ka privately sex bechna apne aap mein crime nahi hai, par public mein soliciting, brothel chalana, pimping, kisi aur ki kamaai par jeena aur trafficking crimes hain. Customers ki legal position utni clear nahi hai. Supreme Court keh chuka hai ki sex workers ko dignity aur law ki equal protection ka haq hai. 18 se kam umar ke kisi bhi insaan ke saath paise dekar sex karna POCSO ke under serious crime hai, chahe bachche ne jo bhi 'haan' boli ho. Is summary ko kisi lawyer ne review nahi kiya hai; laws badalte rehte hain."
+    }
+   },
+   {
+    "h": {
+     "en": "The risks, and what you can do",
+     "hi": "जोखिम, और आप क्या कर सकते हैं",
+     "hg": "Risks, aur tum kya kar sakte ho"
+    },
+    "body": {
+     "en": "People who sell sex face frequent violence from clients, controllers and sometimes police, and often cannot insist on condoms, which raises the risk of HIV and other STIs for everyone involved. Payment never buys the right to force or hurt anyone; a sex worker can refuse or stop, and assault is assault. If you come across material that looks non-consensual or shows a child, do not download, screenshot or forward it. Note where you saw it, and report on the platform and at cybercrime.gov.in or 1930. For a child in danger call 1098; for suspected trafficking call 112. Women Helpline 181, NACO 1097 and free legal aid (15100) also help.",
+     "hi": "सेक्स बेचने वाले लोगों को ग्राहकों, उन्हें क़ाबू में रखने वालों और कभी-कभी पुलिस की ओर से बार-बार हिंसा झेलनी पड़ती है, और वे अक्सर कंडोम पर ज़ोर नहीं दे पाते, जिससे इसमें शामिल हर व्यक्ति के लिए एचआईवी और दूसरे एसटीआई का जोखिम बढ़ जाता है। पैसे देने से किसी को मजबूर करने या चोट पहुँचाने का हक़ कभी नहीं मिलता; यौनकर्मी मना कर सकता है या रुक सकता है, और हमला हमला ही है। अगर आपको ऐसी सामग्री दिखे जो बिना सहमति की लगे या जिसमें कोई बच्चा हो, तो उसे डाउनलोड, स्क्रीनशॉट या फ़ॉरवर्ड मत कीजिए। नोट कर लीजिए कि वह कहाँ दिखी, और प्लेटफ़ॉर्म पर तथा cybercrime.gov.in या 1930 पर उसकी रिपोर्ट कीजिए। ख़तरे में पड़े बच्चे के लिए 1098 पर कॉल कीजिए; तस्करी का शक हो तो 112 पर। महिला हेल्पलाइन 181, नाको 1097 और 15100 पर मुफ़्त क़ानूनी सहायता भी मदद कर सकती हैं।",
+     "hg": "Sex bechne wale logon ko clients, unhe control karne walon aur kabhi-kabhi police ki taraf se baar-baar violence jhelni padti hai, aur woh aksar condom par insist nahi kar paate, jisse isme involved har insaan ke liye HIV aur doosre STIs ka risk badh jaata hai. Paise dene se kisi ko force karne ya hurt karne ka haq kabhi nahi milta; sex worker mana kar sakta hai ya ruk sakta hai, aur assault assault hi hai. Agar tumhe aisa material dikhe jo non-consensual lage ya jisme koi bachcha ho, toh use download, screenshot ya forward mat karo. Note kar lo ki woh kahan dikha, aur platform pe aur cybercrime.gov.in ya 1930 pe report karo. Khatre mein pade bachche ke liye 1098 pe call karo; trafficking ka shak ho toh 112 pe. Women Helpline 181, NACO 1097 aur 15100 pe free legal aid bhi help kar sakti hain."
+    }
+   }
+  ],
+  "myth": {
+   "claim": {
+    "en": "Someone who is paid for sex, or who appears in porn, cannot be raped.",
+    "hi": "जिसे सेक्स के पैसे मिलते हैं, या जो पोर्न में दिखता है, उसके साथ बलात्कार नहीं हो सकता।",
+    "hg": "Jise sex ke paise milte hain, ya jo porn mein dikhta hai, uske saath rape nahi ho sakta."
+   },
+   "fact": {
+    "en": "Payment or a contract is not consent to everything. A person can refuse any act or stop at any point, and forcing them is sexual violence, whatever their work. Their right to say no is the same as anyone else's.",
+    "hi": "पैसे या अनुबंध का मतलब हर चीज़ की सहमति नहीं है। कोई भी व्यक्ति किसी भी क्रिया से मना कर सकता है या किसी भी पल रुक सकता है, और उसे मजबूर करना यौन हिंसा है, उसका काम चाहे जो हो। 'ना' कहने का उसका हक़ बाक़ी सबके बराबर है।",
+    "hg": "Payment ya contract ka matlab har cheez ka consent nahi hai. Koi bhi insaan kisi bhi act se mana kar sakta hai ya kisi bhi point pe ruk sakta hai, aur use force karna sexual violence hai, uska kaam chahe jo ho. 'Na' kehne ka uska haq baaki sabke barabar hai."
+   }
+  },
+  "takeaways": [
+   {
+    "en": "A video cannot prove consent, age or freedom, and viewing or sharing abusive material adds to the harm.",
+    "hi": "कोई वीडियो सहमति, उम्र या आज़ादी साबित नहीं कर सकता, और शोषण वाली सामग्री देखना या शेयर करना नुक़सान को बढ़ाता है।",
+    "hg": "Koi video consent, age ya freedom prove nahi kar sakta, aur abusive material dekhna ya share karna harm ko badhata hai."
+   },
+   {
+    "en": "Trafficking usually works through deception, debt and threats, and it affects people of every gender.",
+    "hi": "तस्करी आम तौर पर धोखे, क़र्ज़ और धमकियों के ज़रिए चलती है, और हर जेंडर के लोग इसका शिकार होते हैं।",
+    "hg": "Trafficking usually dhokhe, karz aur dhamkiyon ke through chalti hai, aur har gender ke log iska shikaar hote hain."
+   },
+   {
+    "en": "Never save or forward abuse material; report it at cybercrime.gov.in or 1930, and call 1098 or 112 when someone is in danger.",
+    "hi": "शोषण की सामग्री को कभी सेव या फ़ॉरवर्ड मत कीजिए; cybercrime.gov.in या 1930 पर रिपोर्ट कीजिए, और जब कोई ख़तरे में हो तो 1098 या 112 पर कॉल कीजिए।",
+    "hg": "Abuse material ko kabhi save ya forward mat karo; cybercrime.gov.in ya 1930 pe report karo, aur jab koi khatre mein ho toh 1098 ya 112 pe call karo."
+   }
+  ],
+  "activity": {
+   "en": "Privately, think about the sexual content that reaches you through groups, feeds or searches, and ask: do I actually know that everyone in it agreed to be filmed and shared? Write down one rule you will follow from now on, such as never opening 'leaked' clips.",
+   "hi": "अकेले में सोचिए कि ग्रुपों, फ़ीड या सर्च के ज़रिए जो यौन सामग्री आप तक पहुँचती है, उसके बारे में क्या आप सच में जानते हैं कि उसमें दिख रहा हर व्यक्ति फ़िल्माए जाने और शेयर किए जाने पर राज़ी था? एक नियम लिखिए जिसे आप अब से मानेंगे, जैसे 'लीक्ड' क्लिप कभी नहीं खोलना।",
+   "hg": "Privately socho ki groups, feeds ya search ke through jo sexual content tum tak pahunchta hai, uske baare mein kya tum sach mein jaante ho ki usme dikh raha har insaan film hone aur share hone par agree tha? Ek rule likho jo tum ab se follow karoge, jaise 'leaked' clips kabhi nahi kholna."
+  },
+  "interactive": "digital_safety",
+  "quiz": [
+   {
+    "id": "d12-l06-q1",
+    "type": "mcq",
+    "q": {
+     "en": "Which statement about consent in pornography is accurate?",
+     "hi": "पोर्नोग्राफ़ी में सहमति के बारे में कौन-सी बात सही है?",
+     "hg": "Pornography mein consent ke baare mein kaunsi baat sahi hai?"
+    },
+    "options": [
+     {
+      "en": "Videos on well-known sites have always been checked for consent",
+      "hi": "जानी-मानी साइटों के वीडियो में सहमति की जाँच हमेशा हो चुकी होती है",
+      "hg": "Well-known sites ke videos mein consent hamesha check ho chuka hota hai"
+     },
+     {
+      "en": "If the people look relaxed, they must have agreed",
+      "hi": "अगर लोग सहज दिख रहे हैं, तो वे ज़रूर राज़ी रहे होंगे",
+      "hg": "Agar log relaxed dikh rahe hain, toh woh zaroor agree rahe honge"
+     },
+     {
+      "en": "Labels like 'leaked' or 'hidden cam' are only marketing and never real",
+      "hi": "'लीक्ड' या 'हिडन कैम' जैसे लेबल सिर्फ़ मार्केटिंग हैं और कभी असली नहीं होते",
+      "hg": "'Leaked' ya 'hidden cam' jaise labels sirf marketing hain aur kabhi real nahi hote"
+     },
+     {
+      "en": "A viewer cannot reliably tell from a video whether everyone agreed to be filmed and published",
+      "hi": "देखने वाला वीडियो से भरोसे के साथ नहीं बता सकता कि हर व्यक्ति फ़िल्माए और प्रकाशित किए जाने पर राज़ी था या नहीं",
+      "hg": "Dekhne wala video se reliably nahi bata sakta ki har insaan film aur publish hone par agree tha ya nahi"
+     }
+    ],
+    "answer": 3,
+    "explain": {
+     "en": "Nothing visible on screen proves age, free agreement to the acts, or agreement to publication. Non-consensual and under-age material has been found even on large sites.",
+     "hi": "स्क्रीन पर दिखने वाली कोई भी चीज़ उम्र, क्रियाओं के लिए आज़ाद सहमति या प्रकाशन की सहमति साबित नहीं करती। बिना सहमति की और नाबालिग़ों वाली सामग्री बड़ी साइटों पर भी मिली है।",
+     "hg": "Screen pe dikhne wali koi bhi cheez age, acts ke liye free agreement ya publication ka agreement prove nahi karti. Non-consensual aur under-age material badi sites pe bhi mila hai."
+    }
+   },
+   {
+    "id": "d12-l06-q2",
+    "type": "scenario",
+    "q": {
+     "en": "Rohan, 24, sees a video in an alumni chat group that appears to show a schoolgirl being sexually abused. What should he do?",
+     "hi": "24 साल के रोहन को पुराने छात्रों के एक चैट ग्रुप में एक वीडियो दिखता है, जिसमें लगता है कि एक स्कूली लड़की का यौन शोषण हो रहा है। उसे क्या करना चाहिए?",
+     "hg": "24 saal ke Rohan ko ek alumni chat group mein ek video dikhta hai, jisme lagta hai ki ek schoolgirl ka sexual abuse ho raha hai. Use kya karna chahiye?"
+    },
+    "options": [
+     {
+      "en": "Not save or forward it, note the group and sender, and report at cybercrime.gov.in or 1930",
+      "hi": "उसे सेव या फ़ॉरवर्ड न करे, ग्रुप और भेजने वाले को नोट करे, और cybercrime.gov.in या 1930 पर रिपोर्ट करे",
+      "hg": "Use save ya forward na kare, group aur sender note kare, aur cybercrime.gov.in ya 1930 pe report kare"
+     },
+     {
+      "en": "Forward it to a friend in the police as proof",
+      "hi": "सबूत के तौर पर पुलिस में काम करने वाले दोस्त को फ़ॉरवर्ड कर दे",
+      "hg": "Proof ke taur par police wale dost ko forward kar de"
+     },
+     {
+      "en": "Download it first so the evidence is not lost, then report",
+      "hi": "पहले डाउनलोड कर ले ताकि सबूत न खो जाए, फिर रिपोर्ट करे",
+      "hg": "Pehle download kar le taaki evidence na kho jaaye, phir report kare"
+     },
+     {
+      "en": "Stay silent, since he did not post it himself",
+      "hi": "चुप रहे, क्योंकि उसने ख़ुद तो पोस्ट नहीं किया",
+      "hg": "Chup rahe, kyunki usne khud toh post nahi kiya"
+     }
+    ],
+    "answer": 0,
+    "explain": {
+     "en": "Storing or forwarding sexual material of a child is itself an offence, even as 'proof'. Reporting where it appeared lets the authorities act without the abuse being copied again.",
+     "hi": "किसी बच्चे की यौन सामग्री रखना या फ़ॉरवर्ड करना अपने-आप में अपराध है, 'सबूत' के तौर पर भी। यह रिपोर्ट करना कि वह कहाँ दिखी, अधिकारियों को कार्रवाई का मौक़ा देता है और शोषण की एक और कॉपी नहीं बनती।",
+     "hg": "Kisi bachche ka sexual material store ya forward karna apne aap mein offence hai, 'proof' ke taur par bhi. Yeh report karna ki woh kahan dikha, authorities ko action lene deta hai aur abuse ki ek aur copy nahi banti."
+    }
+   }
+  ],
+  "refs": [
+   "cybercrime-portal",
+   "pocso-2012",
+   "bns-2023",
+   "who-vaw",
+   "naco",
+   "nalsa"
+  ],
+  "warning": {
+   "en": "If you are being forced, threatened or held in debt to sell sex, or know someone who is, call 112, Women Helpline 181, or 1098 for anyone under 18. Being trafficked is a crime committed against you, not by you. Never save or forward abuse material. The legal points here have not been reviewed by a lawyer; free legal aid is available on 15100.",
+   "hi": "अगर आपको सेक्स बेचने के लिए मजबूर किया जा रहा है, धमकाया जा रहा है या क़र्ज़ में बाँधकर रखा गया है, या आप किसी ऐसे व्यक्ति को जानते हैं, तो 112, महिला हेल्पलाइन 181, या 18 साल से कम उम्र के किसी भी व्यक्ति के लिए 1098 पर कॉल कीजिए। तस्करी आपके ख़िलाफ़ किया गया अपराध है, आपका किया हुआ अपराध नहीं। शोषण की सामग्री को कभी सेव या फ़ॉरवर्ड मत कीजिए। यहाँ दी गई क़ानूनी बातों को किसी वकील ने नहीं जाँचा है; मुफ़्त क़ानूनी सहायता 15100 पर उपलब्ध है।",
+   "hg": "Agar tumhe sex bechne ke liye force kiya ja raha hai, dhamkaya ja raha hai ya karz mein baandhkar rakha gaya hai, ya tum kisi aise insaan ko jaante ho, toh 112, Women Helpline 181, ya 18 se kam umar ke kisi bhi insaan ke liye 1098 pe call karo. Trafficking tumhare against kiya gaya crime hai, tumhara kiya hua crime nahi. Abuse material ko kabhi save ya forward mat karo. Yahan ki legal baaton ko kisi lawyer ne review nahi kiya hai; free legal aid 15100 pe available hai."
+  },
+  "sensitive": true,
+  "review": "pending_expert_review",
+  "revised": "2026-11-14"
+ }
+]

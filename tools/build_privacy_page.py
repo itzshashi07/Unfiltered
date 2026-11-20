@@ -39,7 +39,8 @@ def doc(name, li):
     for i in range(1, n + 1):
         out.append(f"<h3>{html.escape(strings(f'legal.{name}.{i}.h')[li])}</h3>")
         body = html.escape(strings(f"legal.{name}.{i}.b")[li])
-        body = re.sub(r"([\w.+-]+@[\w-]+\.[\w.]+)", r'<a href="mailto:\1">\1</a>', body)
+        # An address must not swallow the full stop that ends its sentence.
+        body = re.sub(r"([\w.+-]+@[\w-]+(?:\.[\w-]+)+)", r'<a href="mailto:\1">\1</a>', body)
         out.append(f"<p>{body}</p>")
     return "\n".join(out)
 

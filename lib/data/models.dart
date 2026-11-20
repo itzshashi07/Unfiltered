@@ -1026,3 +1026,24 @@ class Helpline {
 
 List<Map<String, dynamic>> jsonMaps(dynamic j) => _maps(j);
 List<L> jsonLs(dynamic j) => _ls(j);
+
+/// One newsprint poster, stored as `assets/images/posters/{id}_{lang}.webp`.
+@immutable
+class Poster {
+  final String id;
+  final String type;
+  final L kicker;
+  final L title;
+  final String source;
+  const Poster(this.id, this.type, this.kicker, this.title, this.source);
+
+  factory Poster.fromJson(Map<String, dynamic> j) => Poster(
+    '${j['id']}',
+    '${j['type']}',
+    L.from(j['kicker']),
+    L.from(j['title']),
+    '${j['source'] ?? ''}',
+  );
+
+  String asset(Lang lang) => 'assets/images/posters/${id}_${lang.name}.webp';
+}

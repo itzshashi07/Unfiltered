@@ -4,7 +4,6 @@
   "type": "grid",
   "title": {
    "en": "Everyone is different, everyone belongs",
-   "hi": "सब अलग हैं, सब अपने हैं",
    "hg": "Sab alag hain, sab apne hain"
   },
   "items": [
@@ -12,12 +11,10 @@
     "icon": "diversity",
     "label": {
      "en": "Different is normal",
-     "hi": "अलग होना आम है",
      "hg": "Alag hona normal hai"
     },
     "text": {
      "en": "Some children are tall and some are short. Some wear glasses or use a wheelchair.",
-     "hi": "कुछ बच्चे लंबे हैं, कुछ छोटे। कुछ चश्मा पहनते हैं या व्हीलचेयर इस्तेमाल करते हैं।",
      "hg": "Kuch bachche lambe hain, kuch chhote. Kuch chashma pehente hain ya wheelchair use karte hain."
     }
    },
@@ -25,12 +22,10 @@
     "icon": "family",
     "label": {
      "en": "Many kinds of families",
-     "hi": "कई तरह के परिवार",
      "hg": "Kai tarah ki families"
     },
     "text": {
      "en": "Families can be big or small. Love and care make a family.",
-     "hi": "परिवार बड़े भी होते हैं और छोटे भी। प्यार और देखभाल से परिवार बनता है।",
      "hg": "Families badi bhi hoti hain aur chhoti bhi. Pyaar aur care se family banti hai."
     }
    },
@@ -38,12 +33,10 @@
     "icon": "puzzle",
     "label": {
      "en": "Toys and colours for all",
-     "hi": "खिलौने और रंग सबके",
      "hg": "Toys aur colours sabke"
     },
     "text": {
      "en": "There are no boy colours or girl colours. Girls can play cricket. Boys can play with dolls.",
-     "hi": "लड़कों के रंग या लड़कियों के रंग नहीं होते। लड़कियाँ क्रिकेट खेल सकती हैं। लड़के गुड़िया से खेल सकते हैं।",
      "hg": "Ladkon ke colours ya ladkiyon ke colours nahi hote. Ladkiyan cricket khel sakti hain. Ladke gudiya se khel sakte hain."
     }
    },
@@ -51,12 +44,10 @@
     "icon": "work",
     "label": {
      "en": "Any job for anyone",
-     "hi": "कोई भी काम, कोई भी करे",
      "hg": "Koi bhi kaam, koi bhi kare"
     },
     "text": {
      "en": "Anyone can grow up to be a doctor, a pilot, a chef or a nurse.",
-     "hi": "बड़े होकर कोई भी डॉक्टर, पायलट, शेफ़ या नर्स बन सकता है।",
      "hg": "Bade hokar koi bhi doctor, pilot, chef ya nurse ban sakta hai."
     }
    },
@@ -64,12 +55,10 @@
     "icon": "heart",
     "label": {
      "en": "Be kind, get help",
-     "hi": "सबसे अच्छे से पेश आओ, मदद लो",
      "hg": "Kind raho, help lo"
     },
     "text": {
      "en": "If someone is teased, say 'Stop. That is not kind.' Then tell a grown-up.",
-     "hi": "अगर किसी को चिढ़ाया जाए, तो कहो, 'रुको। यह अच्छी बात नहीं है।' फिर किसी बड़े को बताओ।",
      "hg": "Agar kisi ko chidhaya jaaye, toh bolo, 'Ruko. Yeh achhi baat nahi hai.' Phir kisi bade ko batao."
     }
    }
@@ -80,13 +69,11 @@
   "type": "compare",
   "title": {
    "en": "Stereotype rules or fair play?",
-   "hi": "स्टीरियोटाइप वाले नियम या बराबरी?",
    "hg": "Stereotype rules ya fair play?"
   },
   "left": {
    "title": {
     "en": "Stereotypes say",
-    "hi": "स्टीरियोटाइप कहते हैं",
     "hg": "Stereotypes kehte hain"
    },
    "tone": "bad",
@@ -94,22 +81,18 @@
    "points": [
     {
      "en": "Boys must not cry or show fear.",
-     "hi": "लड़कों को रोना या डर दिखाना नहीं चाहिए।",
      "hg": "Ladkon ko rona ya darr dikhana nahi chahiye."
     },
     {
      "en": "Girls should stay quiet and play inside.",
-     "hi": "लड़कियों को चुप रहना चाहिए और घर के अंदर खेलना चाहिए।",
      "hg": "Ladkiyon ko chup rehna chahiye aur ghar ke andar khelna chahiye."
     },
     {
      "en": "Girls serve the guests while boys get more playtime.",
-     "hi": "मेहमानों को पानी लड़कियाँ दें, और खेलने का ज़्यादा समय लड़कों को मिले।",
      "hg": "Mehmaanon ko paani ladkiyan dein, aur khelne ka zyada time ladkon ko mile."
     },
     {
      "en": "Boys study science; girls are told to 'adjust'.",
-     "hi": "लड़के साइंस पढ़ें; लड़कियों से कहा जाए 'एडजस्ट करो'।",
      "hg": "Ladke science padhein; ladkiyon se bola jaaye 'adjust karo'."
     }
    ]
@@ -117,7 +100,6 @@
   "right": {
    "title": {
     "en": "Fair looks like",
-    "hi": "बराबरी ऐसी दिखती है",
     "hg": "Fair aisa dikhta hai"
    },
    "tone": "good",
@@ -125,22 +107,18 @@
    "points": [
     {
      "en": "Everyone has feelings, and anyone can cry when sad.",
-     "hi": "सबकी भावनाएँ होती हैं, और दुखी होने पर कोई भी रो सकता है।",
      "hg": "Sabki feelings hoti hain, aur sad hone pe koi bhi ro sakta hai."
     },
     {
      "en": "Brothers and sisters share the housework.",
-     "hi": "भाई और बहन घर का काम मिलकर करते हैं।",
      "hg": "Bhai aur behen ghar ka kaam milke karte hain."
     },
     {
      "en": "Everyone gets equal food, study time and play time.",
-     "hi": "सबको बराबर खाना, पढ़ाई का समय और खेलने का समय मिलता है।",
      "hg": "Sabko barabar khaana, padhai ka time aur khelne ka time milta hai."
     },
     {
      "en": "Any child who is ready can be monitor or team captain.",
-     "hi": "जो भी बच्चा तैयार हो, वह मॉनिटर या टीम कप्तान बन सकता है।",
      "hg": "Jo bhi bachcha ready ho, woh monitor ya team captain ban sakta hai."
     }
    ]
@@ -151,7 +129,6 @@
   "type": "grid",
   "title": {
    "en": "Four different things, not one",
-   "hi": "एक नहीं, चार अलग बातें",
    "hg": "Ek nahi, chaar alag cheezein"
   },
   "items": [
@@ -159,12 +136,10 @@
     "icon": "body",
     "label": {
      "en": "Biological sex",
-     "hi": "जैविक सेक्स",
      "hg": "Biological sex"
     },
     "text": {
      "en": "Body features: chromosomes, hormones, reproductive organs and genitals. Intersex variations are natural.",
-     "hi": "शरीर की बनावट: क्रोमोसोम, हॉर्मोन, प्रजनन अंग और जननांग। इंटरसेक्स विविधताएँ क़ुदरती हैं।",
      "hg": "Body features: chromosomes, hormones, reproductive organs aur genitals. Intersex variations natural hain."
     }
    },
@@ -172,12 +147,10 @@
     "icon": "person",
     "label": {
      "en": "Gender identity",
-     "hi": "जेंडर पहचान",
      "hg": "Gender identity"
     },
     "text": {
      "en": "Your inner sense of being a girl or woman, a boy or man, both, neither or in between.",
-     "hi": "तुम्हारा अपना अंदरूनी एहसास कि तुम लड़की या औरत हो, लड़का या आदमी, दोनों, कोई नहीं, या कहीं बीच में।",
      "hg": "Tumhara apna andar ka ehsaas ki tum ladki ya aurat ho, ladka ya aadmi, dono, koi nahi, ya kahin beech mein."
     }
    },
@@ -185,12 +158,10 @@
     "icon": "face",
     "label": {
      "en": "Gender expression",
-     "hi": "जेंडर अभिव्यक्ति",
      "hg": "Gender expression"
     },
     "text": {
      "en": "How you present: clothes, hair, voice. It is not a clue to anything else.",
-     "hi": "तुम ख़ुद को कैसे पेश करते हो: कपड़े, बाल, आवाज़। इससे किसी और बात का अंदाज़ा नहीं लगता।",
      "hg": "Tum khud ko kaise present karte ho: kapde, baal, awaaz. Isse kisi aur cheez ka andaza nahi lagta."
     }
    },
@@ -198,12 +169,10 @@
     "icon": "heart",
     "label": {
      "en": "Sexual orientation",
-     "hi": "यौन रुझान",
      "hg": "Sexual orientation"
     },
     "text": {
      "en": "Who you feel romantic or sexual attraction to. It is not chosen.",
-     "hi": "तुम्हें रोमांटिक या यौन आकर्षण किसकी ओर होता है। यह चुना नहीं जाता।",
      "hg": "Tumhe romantic ya sexual attraction kiski taraf hota hai. Yeh choose nahi kiya jaata."
     }
    },
@@ -211,12 +180,10 @@
     "icon": "clock",
     "label": {
      "en": "No deadline for labels",
-     "hi": "लेबल की कोई डेडलाइन नहीं",
      "hg": "Label ki koi deadline nahi"
     },
     "text": {
      "en": "You can't guess one from the other three. Take your time; you may keep it private.",
-     "hi": "बाक़ी तीन से चौथे का अंदाज़ा नहीं लगता। अपना समय लो; चाहो तो इसे निजी रख सकते हो।",
      "hg": "Baaki teen se chauthe ka andaza nahi lagta. Apna time lo; chaho toh ise private rakh sakte ho."
     }
    }
@@ -227,13 +194,11 @@
   "type": "compare",
   "title": {
    "en": "Stigma harms, acceptance protects",
-   "hi": "तिरस्कार चोट देता है, अपनापन बचाता है",
    "hg": "Stigma hurt karta hai, acceptance protect karti hai"
   },
   "left": {
    "title": {
     "en": "What harms",
-    "hi": "क्या चोट पहुँचाता है",
     "hg": "Kya hurt karta hai"
    },
    "tone": "bad",
@@ -241,22 +206,18 @@
    "points": [
     {
      "en": "Bullying, mockery and rejection at home.",
-     "hi": "बुलिंग, मज़ाक़ उड़ाना और घर में ठुकराया जाना।",
      "hg": "Bullying, mazaak udana aur ghar mein reject kiya jaana."
     },
     {
      "en": "Constant hiding and fear of being found out.",
-     "hi": "हर वक़्त छिपाना और पकड़े जाने का डर।",
      "hg": "Har waqt chhupana aur pakde jaane ka darr."
     },
     {
      "en": "Being refused a room, a job or respectful care.",
-     "hi": "किराए का कमरा, नौकरी या इज़्ज़त से इलाज न मिलना।",
      "hg": "Rent pe room, job ya respectful treatment na milna."
     },
     {
      "en": "'Conversion therapy': no scientific basis, real harm, and misconduct for doctors.",
-     "hi": "'कन्वर्ज़न थेरेपी': कोई वैज्ञानिक आधार नहीं, असली नुक़सान, और डॉक्टरों के लिए पेशेवर कदाचार।",
      "hg": "'Conversion therapy': koi scientific basis nahi, asli harm, aur doctors ke liye professional misconduct."
     }
    ]
@@ -264,7 +225,6 @@
   "right": {
    "title": {
     "en": "What protects",
-    "hi": "क्या बचाता है",
     "hg": "Kya protect karta hai"
    },
    "tone": "good",
@@ -272,22 +232,18 @@
    "points": [
     {
      "en": "Acceptance from family, a teacher or a friend.",
-     "hi": "परिवार, किसी टीचर या किसी दोस्त से मिला अपनापन।",
      "hg": "Family, kisi teacher ya kisi dost se mili acceptance."
     },
     {
      "en": "Coming out only when you choose, with safety first.",
-     "hi": "आउट होना सिर्फ़ तब, जब तुम चाहो, और सुरक्षा सबसे पहले।",
      "hg": "Coming out sirf tab jab tum chaho, aur safety sabse pehle."
     },
     {
      "en": "Affirming spaces: a trusted friend, support group or community organisation.",
-     "hi": "साथ देने वाली जगहें: भरोसेमंद दोस्त, सपोर्ट ग्रुप या कोई जानी-मानी कम्युनिटी संस्था।",
      "hg": "Affirming spaces: trusted dost, support group ya koi established community organisation."
     },
     {
      "en": "Low mood or thoughts of self-harm? Call Tele-MANAS on 14416.",
-     "hi": "मन लगातार उदास है या ख़ुद को नुक़सान पहुँचाने के ख़याल आते हैं? Tele-MANAS 14416 पर कॉल करो।",
      "hg": "Mood lagaatar low hai ya khud ko hurt karne ke khayal aate hain? Tele-MANAS 14416 pe call karo."
     }
    ]
@@ -298,7 +254,6 @@
   "type": "steps",
   "title": {
    "en": "Inclusion in practice: five things to do",
-   "hi": "असल ज़िंदगी में समावेश: पाँच काम",
    "hg": "Inclusion real life mein: paanch kaam"
   },
   "items": [
@@ -306,12 +261,10 @@
     "icon": "talk",
     "label": {
      "en": "Use chosen names",
-     "hi": "चुना हुआ नाम इस्तेमाल करो",
      "hg": "Chosen naam use karo"
     },
     "text": {
      "en": "Use the name and pronoun a person asks for. If you slip, apologise once and move on.",
-     "hi": "वही नाम और सर्वनाम इस्तेमाल करो जो कोई अपने लिए चाहता है। ग़लती हो जाए तो एक बार सॉरी बोलो और आगे बढ़ो।",
      "hg": "Wahi naam aur pronoun use karo jo koi apne liye chahta hai. Galti ho jaaye toh ek baar sorry bolo aur aage badho."
     }
    },
@@ -319,12 +272,10 @@
     "icon": "lock",
     "label": {
      "en": "Never out anyone",
-     "hi": "किसी को आउट मत करो",
      "hg": "Kisi ko out mat karo"
     },
     "text": {
      "en": "Never reveal someone's orientation or identity, and do not ask about their body or surgery.",
-     "hi": "किसी का रुझान या पहचान कभी उजागर मत करो, और उनके शरीर या सर्जरी के बारे में मत पूछो।",
      "hg": "Kisi ka orientation ya identity kabhi reveal mat karo, aur unki body ya surgery ke baare mein mat pucho."
     }
    },
@@ -332,12 +283,10 @@
     "icon": "wheelchair",
     "label": {
      "en": "Make it accessible",
-     "hi": "सबकी पहुँच में लाओ",
      "hg": "Accessible banao"
     },
     "text": {
      "en": "Ramps, captions, sign language, Braille or easy-read, and speak to the person, not their helper.",
-     "hi": "रैंप, कैप्शन, साइन लैंग्वेज, ब्रेल या आसान भाषा, और बात सीधे उस इंसान से करो, उसके सहायक से नहीं।",
      "hg": "Ramps, captions, sign language, Braille ya easy-read, aur baat seedhe us insaan se karo, uske helper se nahi."
     }
    },
@@ -345,12 +294,10 @@
     "icon": "chat",
     "label": {
      "en": "Say it plainly",
-     "hi": "सीधी बात कहो",
      "hg": "Seedhi baat bolo"
     },
     "text": {
      "en": "For neurodivergent people, be direct, give one step at a time and allow extra time.",
-     "hi": "न्यूरोडाइवर्जेंट लोगों से सीधी बात करो, एक बार में एक क़दम बताओ और ज़्यादा समय दो।",
      "hg": "Neurodivergent logon se direct baat karo, ek time pe ek step batao aur extra time do."
     }
    },
@@ -358,12 +305,10 @@
     "icon": "shield",
     "label": {
      "en": "Be an upstander",
-     "hi": "तमाशबीन नहीं, साथी बनो",
      "hg": "Upstander bano"
     },
     "text": {
      "en": "Don't laugh or forward the meme. Check on the person, and report repeated bullying.",
-     "hi": "न हँसो, न मीम आगे भेजो। उस इंसान का हाल पूछो, और बार-बार की बुलिंग की शिकायत करो।",
      "hg": "Na hanso, na meme forward karo. Us insaan ka haal pucho, aur baar-baar ki bullying report karo."
     }
    }
@@ -374,7 +319,6 @@
   "type": "grid",
   "title": {
    "en": "Harm in the name of tradition: the facts",
-   "hi": "परंपरा के नाम पर नुक़सान: असली तथ्य",
    "hg": "Tradition ke naam pe harm: asli facts"
   },
   "items": [
@@ -382,12 +326,10 @@
     "icon": "warning",
     "label": {
      "en": "Female genital cutting",
-     "hi": "महिला जननांग काटना (ख़तना)",
      "hg": "Female genital cutting (khatna)"
     },
     "text": {
      "en": "No health benefit. WHO says every form is harmful and violates girls' and women's rights.",
-     "hi": "सेहत को कोई फ़ायदा नहीं। WHO के अनुसार इसका हर रूप नुक़सानदेह है और लड़कियों व महिलाओं के अधिकारों का उल्लंघन है।",
      "hg": "Koi health benefit nahi. WHO ke hisaab se iska har form harmful hai aur ladkiyon aur women ke rights ka violation hai."
     }
    },
@@ -395,12 +337,10 @@
     "icon": "cross",
     "label": {
      "en": "'Virginity tests'",
-     "hi": "'वर्जिनिटी टेस्ट'",
      "hg": "'Virginity tests'"
     },
     "text": {
      "en": "The hymen varies naturally, so no examination can show whether someone has had sex.",
-     "hi": "हाइमन क़ुदरती तौर पर सबमें अलग होता है, इसलिए कोई जाँच यह नहीं बता सकती कि किसी ने सेक्स किया है या नहीं।",
      "hg": "Hymen naturally sabmein alag hota hai, isliye koi examination yeh nahi bata sakta ki kisi ne sex kiya hai ya nahi."
     }
    },
@@ -408,12 +348,10 @@
     "icon": "block",
     "label": {
      "en": "Conversion therapy",
-     "hi": "कन्वर्ज़न थेरेपी",
      "hg": "Conversion therapy"
     },
     "text": {
      "en": "There is no illness to cure. It leaves depression, shame and trauma.",
-     "hi": "ठीक करने को कोई बीमारी है ही नहीं। यह डिप्रेशन, शर्म और ट्रॉमा छोड़ जाती है।",
      "hg": "Cure karne ko koi bimaari hai hi nahi. Yeh depression, sharam aur trauma chhod jaati hai."
     }
    },
@@ -421,12 +359,10 @@
     "icon": "child",
     "label": {
      "en": "Surgery on intersex children",
-     "hi": "इंटरसेक्स बच्चों की सर्जरी",
      "hg": "Intersex bachchon ki surgery"
     },
     "text": {
      "en": "It cannot be undone. Without a real medical emergency, it can wait until the person can decide.",
-     "hi": "इसे पलटा नहीं जा सकता। असली मेडिकल इमरजेंसी न हो, तो यह तब तक रुक सकती है जब तक वह इंसान ख़ुद फ़ैसला न कर सके।",
      "hg": "Ise reverse nahi kiya ja sakta. Real medical emergency na ho, toh yeh tab tak ruk sakti hai jab tak woh insaan khud decide na kar sake."
     }
    },
@@ -434,12 +370,10 @@
     "icon": "shield",
     "label": {
      "en": "Your body, your decision",
-     "hi": "तुम्हारा शरीर, तुम्हारा फ़ैसला",
      "hg": "Tumhari body, tumhara decision"
     },
     "text": {
      "en": "Non-urgent, irreversible decisions about your body are yours, not your family's.",
-     "hi": "शरीर से जुड़े स्थायी फ़ैसले, जो तुरंत ज़रूरी न हों, तुम्हारे हैं, परिवार के नहीं।",
      "hg": "Body ke permanent decisions, jo urgent na hon, tumhare hain, family ke nahi."
     }
    },
@@ -447,12 +381,10 @@
     "icon": "call",
     "label": {
      "en": "Get help",
-     "hi": "मदद लो",
      "hg": "Help lo"
     },
     "text": {
      "en": "Tell a trusted adult. Call 1098 if under 18, Women Helpline 181, or 112 in danger.",
-     "hi": "किसी भरोसेमंद बड़े को बताओ। 18 से कम हो तो 1098, महिला हेल्पलाइन 181, या ख़तरे में 112 पर कॉल करो।",
      "hg": "Kisi trusted adult ko batao. 18 se kam ho toh 1098, Women Helpline 181, ya khatre mein 112 pe call karo."
     }
    }

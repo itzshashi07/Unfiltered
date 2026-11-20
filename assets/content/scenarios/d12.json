@@ -8,12 +8,10 @@
   ],
   "title": {
    "en": "The Group Chat Link",
-   "hi": "ग्रुप चैट वाला लिंक",
    "hg": "Group Chat Wala Link"
   },
   "intro": {
    "en": "Kabir, 14, is in a class WhatsApp group where some boys have started sharing adult clips. Tonight the pressure lands on him. Choose what Kabir does.",
-   "hi": "14 साल का कबीर क्लास के एक व्हाट्सऐप ग्रुप में है जहाँ कुछ लड़कों ने एडल्ट क्लिप शेयर करना शुरू कर दिया है। आज रात दबाव उसी पर आ गया है। चुनो कि कबीर क्या करता है।",
    "hg": "14 saal ka Kabir class ke ek WhatsApp group mein hai jahan kuch ladkon ne adult clips share karna shuru kar diya hai. Aaj raat pressure usi pe aa gaya hai. Chuno ki Kabir kya karta hai."
   },
   "sensitive": true,
@@ -22,20 +20,17 @@
    "n1": {
     "text": {
      "en": "Arnav posts a link and writes, 'Kabir is the only baby here who hasn't watched this. Open it now and prove you're not scared.' Others add laughing emojis.",
-     "hi": "अर्णव एक लिंक डालता है और लिखता है, 'यहाँ कबीर ही अकेला बच्चा है जिसने यह नहीं देखा। अभी खोल और साबित कर कि तू डरता नहीं।' बाक़ी लोग हँसने वाले इमोजी भेजते हैं।",
      "hg": "Arnav ek link daalta hai aur likhta hai, 'Yahan Kabir hi akela bachcha hai jisne yeh nahi dekha. Abhi khol aur prove kar ki tu darta nahi.' Baaki log hansne wale emojis bhejte hain."
     },
     "choices": [
      {
       "label": {
        "en": "Reply 'Not my thing, send match highlights' and don't open it",
-       "hi": "जवाब देना 'मुझे इसमें इंटरेस्ट नहीं, मैच के हाइलाइट भेज' और लिंक न खोलना",
        "hg": "Reply karna 'Not my thing, match highlights bhej' aur link na kholna"
       },
       "tone": "good",
       "feedback": {
        "en": "A short, calm no works. You do not owe the group proof of anything, and teasing usually fades when it gets no reaction. Choosing not to watch is completely normal.",
-       "hi": "छोटी, शांत ना काम करती है। तुम्हें ग्रुप को कुछ भी साबित करने की ज़रूरत नहीं है, और जब कोई रिएक्शन नहीं मिलता तो चिढ़ाना आमतौर पर ठंडा पड़ जाता है। न देखने का फ़ैसला पूरी तरह सामान्य है।",
        "hg": "Chhoti, calm na kaam karti hai. Tumhe group ko kuch bhi prove karne ki zaroorat nahi hai, aur jab reaction nahi milta toh chidhana aksar thanda pad jaata hai. Na dekhne ka decision poori tarah normal hai."
       },
       "next": "n2"
@@ -43,13 +38,11 @@
      {
       "label": {
        "en": "Say nothing and mute the group for the night",
-       "hi": "कुछ न कहना और रात भर के लिए ग्रुप म्यूट कर देना",
        "hg": "Kuch na bolna aur raat bhar ke liye group mute kar dena"
       },
       "tone": "okay",
       "feedback": {
        "en": "Muting protects you tonight, and that is fine. The pressure may return tomorrow, though, so having one calm line ready helps you say no without a fight.",
-       "hi": "म्यूट करने से आज रात तुम बच जाते हो, और यह ठीक है। लेकिन दबाव कल फिर लौट सकता है, इसलिए एक शांत लाइन तैयार रखना बिना झगड़े के ना कहने में मदद करता है।",
        "hg": "Mute karne se aaj raat tum bach jaate ho, aur yeh theek hai. Lekin pressure kal phir laut sakta hai, isliye ek calm line ready rakhna bina jhagde ke na bolne mein help karta hai."
       },
       "next": "n2"
@@ -57,13 +50,11 @@
      {
       "label": {
        "en": "Open it so that they stop teasing",
-       "hi": "लिंक खोल लेना ताकि वे चिढ़ाना बंद कर दें",
        "hg": "Link khol lena taaki woh chidhana band kar dein"
       },
       "tone": "risky",
       "feedback": {
        "en": "Wanting the teasing to stop is understandable. But watching under pressure hands the group control over your choices, and the clip is scripted adult content, not real life. You can still say no next time.",
-       "hi": "चिढ़ाना बंद हो, यह चाहना समझ में आता है। लेकिन दबाव में देखने से तुम्हारे फ़ैसलों का कंट्रोल ग्रुप के हाथ में चला जाता है, और वह क्लिप स्क्रिप्टेड एडल्ट कंटेंट है, असल ज़िंदगी नहीं। अगली बार तुम अब भी ना कह सकते हो।",
        "hg": "Chidhana band ho, yeh chahna samajh aata hai. Lekin pressure mein dekhne se tumhare decisions ka control group ke haath mein chala jaata hai, aur woh clip scripted adult content hai, real life nahi. Agli baar tum ab bhi na bol sakte ho."
       },
       "next": "n2"
@@ -73,20 +64,17 @@
    "n2": {
     "text": {
      "en": "Next day at lunch Arnav says, 'See, that's how it works. Girls say no but they actually want it. You don't need to ask.'",
-     "hi": "अगले दिन लंच में अर्णव कहता है, 'देखा, ऐसे ही होता है। लड़कियाँ ना बोलती हैं पर असल में चाहती हैं। पूछने की ज़रूरत ही नहीं।'",
      "hg": "Agle din lunch mein Arnav kehta hai, 'Dekha, aise hi hota hai. Ladkiyan na bolti hain par actually chahti hain. Puchne ki zaroorat hi nahi.'"
     },
     "choices": [
      {
       "label": {
        "en": "Say, 'That's acting from a script. In real life no means no.'",
-       "hi": "कहना, 'वह स्क्रिप्ट वाली एक्टिंग है। असल ज़िंदगी में ना का मतलब ना है।'",
        "hg": "Bolna, 'Woh script wali acting hai. Real life mein na ka matlab na hai.'"
       },
       "tone": "good",
       "feedback": {
        "en": "Exactly. Porn turns refusals into a yes because a script says so. In real life, ignoring a no is pressure or assault. Saying this aloud also helps friends who were quietly doubting it.",
-       "hi": "बिल्कुल। पोर्न मना करने को हाँ में इसलिए बदल देता है क्योंकि स्क्रिप्ट में ऐसा लिखा है। असल ज़िंदगी में ना को अनसुना करना दबाव या हमला है। यह बात खुलकर कहने से उन दोस्तों को भी मदद मिलती है जिन्हें मन ही मन इस पर शक था।",
        "hg": "Bilkul. Porn mana karne ko haan mein isliye badal deta hai kyunki script mein aisa likha hai. Real life mein na ko ignore karna pressure ya assault hai. Yeh baat khulke bolne se un doston ko bhi help milti hai jinhe andar se is pe doubt tha."
       },
       "next": "n3"
@@ -94,13 +82,11 @@
      {
       "label": {
        "en": "Stay quiet and change the topic",
-       "hi": "चुप रहना और बात बदल देना",
        "hg": "Chup rehna aur topic change kar dena"
       },
       "tone": "okay",
       "feedback": {
        "en": "Avoiding an argument is understandable, and you did not agree with him. Still, silence lets a harmful idea go unchallenged. Even 'I don't think that's true' makes a difference.",
-       "hi": "बहस से बचना समझ में आता है, और तुमने उसकी हाँ में हाँ नहीं मिलाई। फिर भी चुप्पी एक नुक़सानदेह सोच को बिना टोके चलने देती है। सिर्फ़ 'मुझे नहीं लगता यह सच है' कहना भी फ़र्क़ डालता है।",
        "hg": "Argument se bachna samajh aata hai, aur tumne uski haan mein haan nahi milayi. Phir bhi chuppi ek harmful idea ko bina toke chalne deti hai. Sirf 'Mujhe nahi lagta yeh sach hai' bolna bhi fark daalta hai."
       },
       "next": "n3"
@@ -108,13 +94,11 @@
      {
       "label": {
        "en": "Laugh and agree so that you fit in",
-       "hi": "हँसकर हामी भर देना ताकि ग्रुप में फ़िट हो जाओ",
        "hg": "Hans ke haan bol dena taaki group mein fit ho jao"
       },
       "tone": "risky",
       "feedback": {
        "en": "Fitting in matters at 14, so this is a common reaction. But agreeing spreads the idea that a no can be ignored, and that belief leads to real harm. You can disagree lightly and still keep your friends.",
-       "hi": "14 की उम्र में ग्रुप में फ़िट होना मायने रखता है, इसलिए ऐसा करना आम है। लेकिन हामी भरने से यह सोच फैलती है कि ना को अनसुना किया जा सकता है, और यही सोच असली नुक़सान तक ले जाती है। तुम हल्के अंदाज़ में असहमत होकर भी अपने दोस्त बनाए रख सकते हो।",
        "hg": "14 ki age mein fit hona matter karta hai, isliye yeh common reaction hai. Lekin haan bolne se yeh idea failta hai ki na ko ignore kiya ja sakta hai, aur yahi soch real harm tak le jaati hai. Tum halke andaaz mein disagree karke bhi apne dost rakh sakte ho."
       },
       "next": "n3"
@@ -124,20 +108,17 @@
    "n3": {
     "text": {
      "en": "That evening someone posts an AI-edited sexual photo using the face of Meher, a girl from the class. The group explodes with comments.",
-     "hi": "उसी शाम कोई ग्रुप में AI से एडिट की हुई एक यौन तस्वीर डालता है जिसमें क्लास की एक लड़की मेहर का चेहरा लगाया गया है। ग्रुप में कमेंट की बाढ़ आ जाती है।",
      "hg": "Usi shaam koi group mein AI se edit ki hui ek sexual photo daalta hai jisme class ki ek ladki Meher ka chehra lagaya gaya hai. Group mein comments ki baadh aa jaati hai."
     },
     "choices": [
      {
       "label": {
        "en": "Don't forward or save it, tell the group to stop, and tell a trusted adult or teacher",
-       "hi": "उसे फ़ॉरवर्ड या सेव न करना, ग्रुप से कहना कि बंद करो, और किसी भरोसेमंद बड़े या टीचर को बताना",
        "hg": "Use forward ya save na karna, group ko bolna band karo, aur kisi trusted adult ya teacher ko batana"
       },
       "tone": "good",
       "feedback": {
        "en": "This is the response that protects Meher. A fake sexual image of someone under 18 is abuse and a serious offence to create or share. Not forwarding, speaking up and involving an adult gets it stopped and reported properly.",
-       "hi": "यही जवाब मेहर को बचाता है। 18 से कम उम्र के किसी इंसान की नक़ली यौन तस्वीर शोषण है, और उसे बनाना या शेयर करना गंभीर अपराध है। फ़ॉरवर्ड न करना, आवाज़ उठाना और किसी बड़े को शामिल करना इसे रुकवाता है और ठीक से रिपोर्ट करवाता है।",
        "hg": "Yahi response Meher ko protect karta hai. 18 se kam umar ke kisi insaan ki fake sexual image abuse hai, aur use banana ya share karna serious offence hai. Forward na karna, bolna aur kisi adult ko involve karna ise rukwata hai aur theek se report karwata hai."
       },
       "next": null
@@ -145,13 +126,11 @@
      {
       "label": {
        "en": "Quietly leave the group",
-       "hi": "चुपचाप ग्रुप छोड़ देना",
        "hg": "Chupchaap group chhod dena"
       },
       "tone": "okay",
       "feedback": {
        "en": "Leaving keeps you out of it, but the image keeps spreading and Meher still does not know. You have done nothing wrong; adding one more step, telling a trusted adult, is what actually helps her.",
-       "hi": "ग्रुप छोड़ने से तुम इससे बाहर रहते हो, लेकिन तस्वीर फैलती रहती है और मेहर को अब भी पता नहीं। तुमने कुछ ग़लत नहीं किया; बस एक क़दम और, किसी भरोसेमंद बड़े को बताना, यही सच में उसकी मदद करता है।",
        "hg": "Group chhodne se tum isse bahar rehte ho, lekin image failti rehti hai aur Meher ko ab bhi pata nahi. Tumne kuch galat nahi kiya; bas ek step aur, kisi trusted adult ko batana, yahi sach mein uski help karta hai."
       },
       "next": null
@@ -159,13 +138,11 @@
      {
       "label": {
        "en": "Forward it to one close friend to show how bad it is",
-       "hi": "एक क़रीबी दोस्त को फ़ॉरवर्ड करना, यह दिखाने के लिए कि यह कितना बुरा है",
        "hg": "Ek close friend ko forward karna, yeh dikhane ke liye ki yeh kitna bura hai"
       },
       "tone": "risky",
       "feedback": {
        "en": "The intention may be to show concern, but every forward creates another copy and can itself be an offence. The safer path is to not share it at all and tell a trusted adult.",
-       "hi": "इरादा फ़िक्र जताने का हो सकता है, लेकिन हर फ़ॉरवर्ड एक और कॉपी बनाता है और ख़ुद अपराध हो सकता है। सुरक्षित रास्ता यह है कि इसे बिल्कुल शेयर न करो और किसी भरोसेमंद बड़े को बताओ।",
        "hg": "Intention concern dikhane ka ho sakta hai, lekin har forward ek aur copy banata hai aur khud offence ho sakta hai. Safe raasta yeh hai ki ise bilkul share na karo aur kisi trusted adult ko batao."
       },
       "next": null
@@ -175,7 +152,6 @@
   },
   "debrief": {
    "en": "Porn is scripted adult media, and you never need to watch it to belong. Its biggest lie is that a no can be ignored. And when a real or fake intimate image of someone appears, the rule is simple: do not forward, do not save, speak up and tell a trusted adult so that it can be reported.",
-   "hi": "पोर्न बड़ों के लिए बना स्क्रिप्टेड मीडिया है, और ग्रुप का हिस्सा बनने के लिए उसे देखना कभी ज़रूरी नहीं। उसका सबसे बड़ा झूठ यह है कि ना को अनसुना किया जा सकता है। और जब किसी की असली या नक़ली अंतरंग तस्वीर सामने आए, तो नियम सीधा है: फ़ॉरवर्ड मत करो, सेव मत करो, आवाज़ उठाओ और किसी भरोसेमंद बड़े को बताओ ताकि रिपोर्ट हो सके।",
    "hg": "Porn adults ke liye bana scripted media hai, aur group ka hissa banne ke liye use dekhna kabhi zaroori nahi. Uska sabse bada jhooth yeh hai ki na ko ignore kiya ja sakta hai. Aur jab kisi ki real ya fake intimate image saamne aaye, toh rule simple hai: forward mat karo, save mat karo, bolo aur kisi trusted adult ko batao taaki report ho sake."
   },
   "refs": [
@@ -194,12 +170,10 @@
   ],
   "title": {
    "en": "The Video Call Trap",
-   "hi": "वीडियो कॉल का जाल",
    "hg": "Video Call Ka Jaal"
   },
   "intro": {
    "en": "Dev, 17, has been chatting for a week with 'Tanya', who followed him on Instagram. Her profile is new, her photos look like a model's, and tonight the chat changes. Choose what Dev does.",
-   "hi": "17 साल का देव एक हफ़्ते से 'तान्या' से चैट कर रहा है, जिसने उसे इंस्टाग्राम पर फ़ॉलो किया था। उसकी प्रोफ़ाइल नई है, फ़ोटो किसी मॉडल जैसी हैं, और आज रात चैट का रुख़ बदल जाता है। चुनो कि देव क्या करता है।",
    "hg": "17 saal ka Dev ek hafte se 'Tanya' se chat kar raha hai, jisne use Instagram pe follow kiya tha. Uski profile nayi hai, photos kisi model jaisi hain, aur aaj raat chat ka rukh badal jaata hai. Chuno ki Dev kya karta hai."
   },
   "sensitive": true,
@@ -208,20 +182,17 @@
    "n1": {
     "text": {
      "en": "Tanya writes, 'Let's move to a video call on another app. I'll show you something special if you do the same. Don't be boring.'",
-     "hi": "तान्या लिखती है, 'चलो किसी दूसरे ऐप पर वीडियो कॉल करते हैं। अगर तुम भी वैसा करो तो मैं तुम्हें कुछ ख़ास दिखाऊँगी। बोरिंग मत बनो।'",
      "hg": "Tanya likhti hai, 'Chalo kisi dusre app pe video call karte hain. Agar tum bhi waisa karo toh main tumhe kuch special dikhaungi. Boring mat bano.'"
     },
     "choices": [
      {
       "label": {
        "en": "Decline, keep the chat where it is, and check her profile for signs of a fake account",
-       "hi": "मना करना, चैट वहीं रखना, और उसकी प्रोफ़ाइल में नक़ली अकाउंट के संकेत देखना",
        "hg": "Mana karna, chat wahin rakhna, aur uski profile mein fake account ke signs check karna"
       },
       "tone": "good",
       "feedback": {
        "en": "Good instinct. A new profile, model-like photos, fast intimacy and a push to another app are classic warning signs. Slowing down and checking costs you nothing if the person is genuine.",
-       "hi": "अच्छी सूझ। नई प्रोफ़ाइल, मॉडल जैसी फ़ोटो, जल्दी-जल्दी बढ़ती नज़दीकी और दूसरे ऐप पर चलने का ज़ोर, ये सब जाने-पहचाने चेतावनी संकेत हैं। अगर सामने वाला सच्चा है, तो रफ़्तार धीमी करने और जाँचने में तुम्हारा कुछ नहीं जाता।",
        "hg": "Achhi instinct. Nayi profile, model jaisi photos, fast closeness aur dusre app pe chalne ka push, yeh sab classic warning signs hain. Agar saamne wala genuine hai, toh slow karne aur check karne mein tumhara kuch nahi jaata."
       },
       "next": "n2"
@@ -229,13 +200,11 @@
      {
       "label": {
        "en": "Join the call but decide to keep it 'normal'",
-       "hi": "कॉल पर आ जाना, पर तय करना कि सब 'नॉर्मल' ही रखना है",
        "hg": "Call join kar lena, par decide karna ki sab 'normal' hi rakhna hai"
       },
       "tone": "okay",
       "feedback": {
        "en": "Staying clothed lowers the risk, but calls can be screen-recorded and your face can be edited onto fake images. With someone you have never met and cannot verify, skipping the private call is safer.",
-       "hi": "कपड़ों में रहने से ख़तरा कम होता है, लेकिन कॉल की स्क्रीन रिकॉर्डिंग हो सकती है और तुम्हारा चेहरा नक़ली तस्वीरों पर लगाया जा सकता है। जिससे तुम कभी मिले नहीं और जिसकी पहचान पक्की नहीं कर सकते, उसके साथ प्राइवेट कॉल न करना ही ज़्यादा सुरक्षित है।",
        "hg": "Kapdon mein rehne se risk kam hota hai, lekin call screen-record ho sakti hai aur tumhara chehra fake images pe lagaya ja sakta hai. Jisse tum kabhi mile nahi aur jise verify nahi kar sakte, uske saath private call skip karna hi zyada safe hai."
       },
       "next": "n2"
@@ -243,13 +212,11 @@
      {
       "label": {
        "en": "Go along with what she asks",
-       "hi": "जो वह कह रही है, वैसा कर लेना",
        "hg": "Jo woh bol rahi hai, waisa kar lena"
       },
       "tone": "risky",
       "feedback": {
        "en": "Many people of all genders get drawn in this way; scammers are skilled at building trust fast. But anything shown on camera can be recorded and used for blackmail. If this happens, it is still not too late to get help.",
-       "hi": "हर जेंडर के बहुत-से लोग इसी तरह फँस जाते हैं; ठग जल्दी भरोसा जमाने में माहिर होते हैं। लेकिन कैमरे पर दिखाई गई कोई भी चीज़ रिकॉर्ड होकर ब्लैकमेल में इस्तेमाल हो सकती है। अगर ऐसा हो भी जाए, तब भी मदद लेने में देर नहीं हुई होती।",
        "hg": "Har gender ke bahut log isi tarah phans jaate hain; scammers jaldi trust banane mein expert hote hain. Lekin camera pe dikhayi gayi koi bhi cheez record hoke blackmail mein use ho sakti hai. Agar aisa ho bhi jaaye, tab bhi help lene mein der nahi hui hoti."
       },
       "next": "n2"
@@ -259,20 +226,17 @@
    "n2": {
     "text": {
      "en": "An hour later a new message arrives: 'I have a video with your face. Send ₹5,000 by UPI in 30 minutes or it goes to your followers and family.' A list of his followers is attached.",
-     "hi": "एक घंटे बाद नया मैसेज आता है: 'मेरे पास तुम्हारे चेहरे वाला वीडियो है। 30 मिनट में UPI से ₹5,000 भेजो, वरना यह तुम्हारे फ़ॉलोअरों और परिवार को जाएगा।' साथ में उसके फ़ॉलोअरों की लिस्ट लगी है।",
      "hg": "Ek ghante baad naya message aata hai: 'Mere paas tumhare chehre wala video hai. 30 minute mein UPI se ₹5,000 bhejo, warna yeh tumhare followers aur family ko jaayega.' Saath mein uske followers ki list lagi hai."
     },
     "choices": [
      {
       "label": {
        "en": "Stop replying, don't pay, and leave the chat undeleted",
-       "hi": "जवाब देना बंद करना, पैसे न देना, और चैट डिलीट न करना",
        "hg": "Reply band karna, paise na dena, aur chat delete na karna"
       },
       "tone": "good",
       "feedback": {
        "en": "Right. Blackmailers rely on panic and countdowns. Paying usually brings more demands, and the chat, username and UPI ID are what the police need. Staying silent with the scammer and keeping the evidence is the strongest move.",
-       "hi": "सही। ब्लैकमेलर घबराहट और उलटी गिनती पर टिके होते हैं। पैसे देने से आमतौर पर माँगें और बढ़ती हैं, और पुलिस को चैट, यूज़रनेम और UPI आईडी की ही ज़रूरत होती है। ठग को जवाब न देना और सबूत बचाकर रखना सबसे मज़बूत चाल है।",
        "hg": "Sahi. Blackmailers panic aur countdowns pe tike hote hain. Paise dene se aksar demands aur badhti hain, aur police ko chat, username aur UPI ID ki hi zaroorat hoti hai. Scammer ko reply na karna aur evidence bacha ke rakhna sabse strong move hai."
       },
       "next": "n3"
@@ -280,13 +244,11 @@
      {
       "label": {
        "en": "Delete the account and every chat in panic",
-       "hi": "घबराकर अकाउंट और सारी चैट डिलीट कर देना",
        "hg": "Panic mein account aur saari chats delete kar dena"
       },
       "tone": "okay",
       "feedback": {
        "en": "The urge to make it disappear is natural. But deleting removes the evidence needed to trace the account and does not remove the scammer's copy. Keep the chat, and instead tighten privacy settings and report.",
-       "hi": "सब कुछ ग़ायब कर देने की इच्छा स्वाभाविक है। लेकिन डिलीट करने से वह सबूत मिट जाता है जिससे अकाउंट पकड़ा जा सकता है, और ठग के पास की कॉपी नहीं मिटती। चैट रहने दो, और उसकी जगह प्राइवेसी सेटिंग कसो और रिपोर्ट करो।",
        "hg": "Sab kuch gayab kar dene ki urge natural hai. Lekin delete karne se woh evidence mit jaata hai jisse account trace ho sakta hai, aur scammer ke paas ki copy nahi mitti. Chat rehne do, aur uski jagah privacy settings tight karo aur report karo."
       },
       "next": "n3"
@@ -294,13 +256,11 @@
      {
       "label": {
        "en": "Pay once and hope it ends",
-       "hi": "एक बार पैसे दे देना और उम्मीद करना कि बात ख़त्म हो जाएगी",
        "hg": "Ek baar paise de dena aur hope karna ki baat khatam ho jaayegi"
       },
       "tone": "risky",
       "feedback": {
        "en": "Wanting it to end quickly makes complete sense. But payment tells the blackmailer that pressure works, and demands typically grow. If you have already paid, stop now and report; you can still get help.",
-       "hi": "यह चाहना कि सब जल्दी ख़त्म हो जाए, पूरी तरह समझ में आता है। लेकिन पैसे देने से ब्लैकमेलर को पता चलता है कि दबाव काम करता है, और माँगें आमतौर पर बढ़ती जाती हैं। अगर तुम पैसे दे चुके हो, तो अब रुक जाओ और रिपोर्ट करो; मदद अब भी मिल सकती है।",
        "hg": "Yeh chahna ki sab jaldi khatam ho jaaye, poori tarah samajh aata hai. Lekin paise dene se blackmailer ko pata chalta hai ki pressure kaam karta hai, aur demands aksar badhti jaati hain. Agar tum paise de chuke ho, toh ab ruk jao aur report karo; help ab bhi mil sakti hai."
       },
       "next": "n3"
@@ -310,20 +270,17 @@
    "n3": {
     "text": {
      "en": "Dev is shaking. He knows he should tell someone, but he is scared of what his parents will say.",
-     "hi": "देव काँप रहा है। वह जानता है कि उसे किसी को बताना चाहिए, लेकिन उसे डर है कि मम्मी-पापा क्या कहेंगे।",
      "hg": "Dev kaanp raha hai. Use pata hai ki kisi ko batana chahiye, lekin use dar hai ki mummy-papa kya bolenge."
     },
     "choices": [
      {
       "label": {
        "en": "Tell a parent or another trusted adult tonight and report together at cybercrime.gov.in or 1930",
-       "hi": "आज रात ही मम्मी-पापा या किसी और भरोसेमंद बड़े को बताना और साथ मिलकर cybercrime.gov.in या 1930 पर रिपोर्ट करना",
        "hg": "Aaj raat hi parent ya kisi aur trusted adult ko batana aur saath mein cybercrime.gov.in ya 1930 pe report karna"
       },
       "tone": "good",
       "feedback": {
        "en": "This is the step that takes away the blackmailer's power. Adults may be upset at first, but the threat weakens once it is no longer a secret. Reporting on the portal, on 1930 or at a police station, and on the platform, starts real action.",
-       "hi": "यही क़दम ब्लैकमेलर की ताक़त छीन लेता है। बड़े शुरू में परेशान हो सकते हैं, लेकिन जैसे ही बात राज़ नहीं रहती, धमकी कमज़ोर पड़ जाती है। पोर्टल पर, 1930 पर या पुलिस थाने में, और प्लेटफ़ॉर्म पर रिपोर्ट करने से असली कार्रवाई शुरू होती है।",
        "hg": "Yahi step blackmailer ki power chheen leta hai. Adults shuru mein upset ho sakte hain, lekin jaise hi baat secret nahi rehti, dhamki kamzor pad jaati hai. Portal pe, 1930 pe ya police station mein, aur platform pe report karne se real action shuru hota hai."
       },
       "next": null
@@ -331,13 +288,11 @@
      {
       "label": {
        "en": "Tell only a close friend and wait to see what happens",
-       "hi": "सिर्फ़ एक क़रीबी दोस्त को बताना और देखना कि आगे क्या होता है",
        "hg": "Sirf ek close friend ko batana aur dekhna ki aage kya hota hai"
       },
       "tone": "okay",
       "feedback": {
        "en": "Telling a friend breaks the isolation, which matters. But friends cannot file a report or deal with police and platforms. Ask the friend to come with you while you tell an adult; under 18, 1098 can also guide you.",
-       "hi": "दोस्त को बताने से अकेलापन टूटता है, और यह मायने रखता है। लेकिन दोस्त रिपोर्ट दर्ज नहीं कर सकते और न पुलिस या प्लेटफ़ॉर्म से निपट सकते हैं। दोस्त से कहो कि जब तुम किसी बड़े को बताओ तो वह साथ चले; 18 से कम उम्र में 1098 भी रास्ता बता सकता है।",
        "hg": "Dost ko batane se akelapan toot-ta hai, aur yeh matter karta hai. Lekin dost report file nahi kar sakte aur na police ya platforms se deal kar sakte hain. Dost ko bolo ki jab tum kisi adult ko batao toh woh saath chale; 18 se kam umar mein 1098 bhi guide kar sakta hai."
       },
       "next": null
@@ -345,13 +300,11 @@
      {
       "label": {
        "en": "Threaten the scammer back and argue",
-       "hi": "ठग को उलटा धमकाना और उससे बहस करना",
        "hg": "Scammer ko ulta dhamkana aur usse behas karna"
       },
       "tone": "risky",
       "feedback": {
        "en": "Anger at being targeted is fair. But engaging keeps you in the blackmailer's game and can escalate the threats. Silence towards them, plus a report to cybercrime authorities with an adult's support, works better.",
-       "hi": "निशाना बनाए जाने पर ग़ुस्सा आना जायज़ है। लेकिन उलझने से तुम ब्लैकमेलर के खेल में बने रहते हो और धमकियाँ बढ़ सकती हैं। उसे जवाब न देना, और किसी बड़े के साथ साइबर क्राइम अधिकारियों को रिपोर्ट करना बेहतर काम करता है।",
        "hg": "Target banaye jaane pe gussa aana fair hai. Lekin engage karne se tum blackmailer ke game mein bane rehte ho aur dhamkiyan badh sakti hain. Use reply na karna, aur kisi adult ke saath cybercrime authorities ko report karna better kaam karta hai."
       },
       "next": null
@@ -361,7 +314,6 @@
   },
   "debrief": {
    "en": "Sextortion follows a script: fast intimacy, a move to a private app, then threats with a countdown. The counter-script: stop replying, do not pay, do not send more, keep the chat and account details, tell a trusted adult, and report at cybercrime.gov.in, 1930 or the police. Being tricked is not a crime. If the fear feels unbearable or you think of hurting yourself, call Tele-MANAS 14416 or 112 now.",
-   "hi": "सेक्सटॉर्शन एक तय स्क्रिप्ट पर चलता है: जल्दी-जल्दी बढ़ती नज़दीकी, प्राइवेट ऐप पर ले जाना, फिर उलटी गिनती वाली धमकियाँ। इसकी काट: जवाब देना बंद करो, पैसे मत दो, और कुछ मत भेजो, चैट और अकाउंट की जानकारी सँभालकर रखो, किसी भरोसेमंद बड़े को बताओ, और cybercrime.gov.in, 1930 या पुलिस में रिपोर्ट करो। धोखा खा जाना अपराध नहीं है। अगर डर बर्दाश्त से बाहर लगे या ख़ुद को नुक़सान पहुँचाने के ख़याल आएँ, तो अभी टेली-मानस 14416 या 112 पर कॉल करो।",
    "hg": "Sextortion ek fixed script pe chalta hai: fast closeness, private app pe le jaana, phir countdown wali dhamkiyan. Iska counter-script: reply band karo, paise mat do, aur kuch mat bhejo, chat aur account details sambhal ke rakho, trusted adult ko batao, aur cybercrime.gov.in, 1930 ya police mein report karo. Dhokha kha jaana crime nahi hai. Agar dar bardaasht se bahar lage ya khud ko hurt karne ke khayal aayein, toh abhi Tele-MANAS 14416 ya 112 pe call karo."
   },
   "refs": [

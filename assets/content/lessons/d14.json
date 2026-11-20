@@ -16,33 +16,27 @@
   ],
   "title": {
    "en": "Safe Touch, Unsafe Touch",
-   "hi": "सुरक्षित स्पर्श, असुरक्षित स्पर्श",
    "hg": "Safe Touch, Unsafe Touch"
   },
   "subtitle": {
    "en": "My body belongs to me",
-   "hi": "मेरा शरीर मेरा अपना है",
    "hg": "Mera body sirf mera hai"
   },
   "hook": {
    "en": "Your body is yours. You should feel safe in it, always.",
-   "hi": "तुम्हारा शरीर तुम्हारा है। इसमें तुम्हें हमेशा सुरक्षित महसूस होना चाहिए।",
    "hg": "Tumhara body tumhara hai. Isme tumhe hamesha safe feel hona chahiye."
   },
   "objectives": [
    {
     "en": "Tell a safe touch from an unsafe touch.",
-    "hi": "सुरक्षित और असुरक्षित स्पर्श में फ़र्क़ पहचानना।",
     "hg": "Safe touch aur unsafe touch ka farak pehchanna."
    },
    {
     "en": "Know which parts of the body are private.",
-    "hi": "जानना कि शरीर के कौन से अंग निजी हैं।",
     "hg": "Jaanna ki body ke kaun se parts private hain."
    },
    {
     "en": "Remember the three steps: No, Go, Tell.",
-    "hi": "तीन क़दम याद रखना: ना कहो, हट जाओ, बताओ।",
     "hg": "Teen steps yaad rakhna: No bolo, Go karo, Tell karo."
    }
   ],
@@ -51,48 +45,40 @@
    {
     "h": {
      "en": "My body belongs to me",
-     "hi": "मेरा शरीर मेरा है",
      "hg": "Mera body mera hai"
     },
     "body": {
      "en": "Your body is yours. You can say how you like to be touched. A hug from Mummy can feel warm and nice. But if you do not want a hug or a kiss, you can say, 'No, thank you.' Even to a grown-up. Even to someone you love. Saying no is not rude.",
-     "hi": "तुम्हारा शरीर तुम्हारा है। तुम बता सकते हो कि तुम्हें कैसे छुआ जाना अच्छा लगता है। मम्मी का गले लगाना प्यारा लग सकता है। लेकिन अगर तुम्हें गले लगना या पप्पी नहीं चाहिए, तो तुम कह सकते हो, 'नहीं, धन्यवाद।' किसी बड़े से भी। जिससे तुम प्यार करते हो, उससे भी। ना कहना बदतमीज़ी नहीं है।",
      "hg": "Tumhara body tumhara hai. Tum bata sakte ho ki tumhe kaise touch kiya jaana achha lagta hai. Mummy ka hug pyaara lag sakta hai. Lekin agar tumhe hug ya kissi nahi chahiye, toh tum bol sakte ho, 'No, thank you.' Kisi bade se bhi. Jisse tum pyaar karte ho, usse bhi. Na bolna badtameezi nahi hai."
     }
    },
    {
     "h": {
      "en": "Private parts are private",
-     "hi": "निजी अंग निजी होते हैं",
      "hg": "Private parts private hote hain"
     },
     "body": {
      "en": "The parts covered by your underwear, and your chest, are private parts. They have real names, like penis, vulva and bottom. Nobody should touch them, look at them, show you theirs or ask you to touch theirs. Mummy or Papa may help you bathe, or a doctor may check you with your parent there. That is never a secret.",
-     "hi": "शरीर के जो हिस्से अंडरवियर से ढके रहते हैं, वे निजी अंग हैं। तुम्हारी छाती भी निजी है। इनके असली नाम होते हैं, जैसे लिंग (penis), वल्वा (vulva) और नितंब। कोई इन्हें न छुए, न देखे, न अपने निजी अंग तुम्हें दिखाए, न तुमसे अपने निजी अंग छूने को कहे। मम्मी या पापा नहाने में मदद कर सकते हैं, या डॉक्टर मम्मी-पापा के सामने जाँच कर सकते हैं। यह कभी राज़ नहीं होता।",
      "hg": "Body ke jo parts underwear se dhake rehte hain, woh private parts hain. Tumhari chest bhi private hai. Inke asli naam hote hain, jaise penis, vulva aur bottom. Koi inhe na chhue, na dekhe, na apne private parts tumhe dikhaye, na tumse apne private parts chhoone ko bole. Mummy ya Papa nahane mein help kar sakte hain, ya doctor Mummy-Papa ke saamne check kar sakte hain. Yeh kabhi secret nahi hota."
     }
    },
    {
     "h": {
      "en": "Safe touch and unsafe touch",
-     "hi": "सुरक्षित स्पर्श और असुरक्षित स्पर्श",
      "hg": "Safe touch aur unsafe touch"
     },
     "body": {
      "en": "A safe touch makes you feel cared for, like holding Papa's hand on the road or a high-five from a friend. An unsafe touch hurts you, scares you or makes your tummy feel funny. A touch on your private parts is unsafe. A touch that someone wants to keep secret is unsafe too.",
-     "hi": "सुरक्षित स्पर्श से लगता है कि कोई तुम्हारा ख़याल रख रहा है, जैसे सड़क पर पापा का हाथ पकड़ना या दोस्त का हाई-फ़ाइव। असुरक्षित स्पर्श से दर्द होता है, डर लगता है या पेट में अजीब-सा लगता है। निजी अंगों को छूना असुरक्षित स्पर्श है। जिस स्पर्श को कोई छिपाकर रखना चाहे, वह भी असुरक्षित है।",
      "hg": "Safe touch se lagta hai ki koi tumhara khayal rakh raha hai, jaise road par Papa ka haath pakadna ya dost ka high-five. Unsafe touch se dard hota hai, darr lagta hai ya pet mein ajeeb sa lagta hai. Private parts ko chhuna unsafe touch hai. Jis touch ko koi secret rakhna chahe, woh bhi unsafe hai."
     }
    },
    {
     "h": {
      "en": "No, Go, Tell",
-     "hi": "ना कहो, हट जाओ, बताओ",
      "hg": "No, Go, Tell"
     },
     "body": {
      "en": "If a touch feels unsafe, do three things. NO: say 'No!' or 'Stop!' in a big voice. GO: move away to where other people are. TELL: tell a grown-up you trust what happened. If you could not say no or run, that is okay. You can still tell. It is never your fault.",
-     "hi": "अगर कोई स्पर्श असुरक्षित लगे, तो तीन काम करो। ना कहो: ज़ोर से बोलो 'नहीं!' या 'रुको!' हट जाओ: वहाँ चले जाओ जहाँ और लोग हों। बताओ: किसी भरोसेमंद बड़े को बताओ कि क्या हुआ। अगर तुम ना नहीं कह पाए या भाग नहीं पाए, तो भी कोई बात नहीं। तुम तब भी बता सकते हो। ग़लती कभी तुम्हारी नहीं होती।",
      "hg": "Agar koi touch unsafe lage, toh teen kaam karo. NO: zor se bolo 'Nahi!' ya 'Stop!' GO: wahan chale jao jahan aur log hon. TELL: kisi trusted bade ko batao ki kya hua. Agar tum no nahi bol paaye ya bhaag nahi paaye, toh bhi koi baat nahi. Tum tab bhi bata sakte ho. Galti kabhi tumhari nahi hoti."
     }
    }
@@ -100,35 +86,29 @@
   "myth": {
    "claim": {
     "en": "I must always let grown-ups hug or touch me, or I am a bad child.",
-    "hi": "मुझे हमेशा बड़ों को गले लगाने या छूने देना चाहिए, वरना मैं बुरा बच्चा हूँ।",
     "hg": "Mujhe hamesha bado ko hug ya touch karne dena chahiye, warna main bura bachcha hoon."
    },
    "fact": {
     "en": "You are not bad for saying no. Your body is yours, and caring grown-ups listen when you say stop.",
-    "hi": "ना कहने से तुम बुरे नहीं बन जाते। तुम्हारा शरीर तुम्हारा है, और ख़याल रखने वाले बड़े 'रुको' सुनकर रुक जाते हैं।",
     "hg": "No bolne se tum bure nahi ban jaate. Tumhara body tumhara hai, aur caring bade 'stop' sunkar ruk jaate hain."
    }
   },
   "takeaways": [
    {
     "en": "My body belongs to me, and I can say no to a touch I do not want.",
-    "hi": "मेरा शरीर मेरा है, और जो स्पर्श मुझे नहीं चाहिए उसे ना कहना मेरा हक़ है।",
     "hg": "Mera body mera hai, aur jo touch mujhe nahi chahiye use no bolna mera haq hai."
    },
    {
     "en": "Private parts are private, and a touch that must be kept secret is unsafe.",
-    "hi": "निजी अंग निजी हैं, और जिस स्पर्श को छिपाना पड़े वह असुरक्षित है।",
     "hg": "Private parts private hain, aur jis touch ko secret rakhna pade woh unsafe hai."
    },
    {
     "en": "If a touch feels unsafe I say No, Go away and Tell a trusted grown-up, and it is never my fault.",
-    "hi": "असुरक्षित स्पर्श हो तो मुझे ना कहना है, हट जाना है और भरोसेमंद बड़े को बताना है, और ग़लती कभी मेरी नहीं होती।",
     "hg": "Unsafe touch ho toh mujhe No bolna hai, Go karna hai aur trusted bade ko Tell karna hai, aur galti kabhi meri nahi hoti."
    }
   ],
   "activity": {
    "en": "Stand in front of a mirror and practise saying 'No! Stop!' in your big, strong voice three times. Then show a grown-up you trust how strong your voice is.",
-   "hi": "शीशे के सामने खड़े होकर अपनी बड़ी, मज़बूत आवाज़ में तीन बार बोलो 'नहीं! रुको!' फिर किसी भरोसेमंद बड़े को दिखाओ कि तुम्हारी आवाज़ कितनी मज़बूत है।",
    "hg": "Mirror ke saamne khade hokar apni badi, strong awaaz mein teen baar bolo 'No! Stop!' Phir kisi trusted bade ko dikhao ki tumhari awaaz kitni strong hai."
   },
   "interactive": "consent_sim",
@@ -138,30 +118,25 @@
     "type": "mcq",
     "q": {
      "en": "Which parts of your body are private?",
-     "hi": "तुम्हारे शरीर के कौन से हिस्से निजी हैं?",
      "hg": "Tumhare body ke kaun se parts private hain?"
     },
     "options": [
      {
       "en": "My hands and feet",
-      "hi": "मेरे हाथ और पैर",
       "hg": "Mere haath aur pair"
      },
      {
       "en": "The parts covered by my underwear, and my chest",
-      "hi": "अंडरवियर से ढके हिस्से और मेरी छाती",
       "hg": "Underwear se dhake parts aur meri chest"
      },
      {
       "en": "My hair and ears",
-      "hi": "मेरे बाल और कान",
       "hg": "Mere baal aur kaan"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "The parts under your underwear and your chest are private. Only Mummy or Papa helping you bathe, or a doctor with your parent there, may touch them to keep you clean or healthy. That is never a secret.",
-     "hi": "अंडरवियर के नीचे के हिस्से और छाती निजी हैं। सिर्फ़ नहाने में मदद करते समय मम्मी या पापा, या मम्मी-पापा के सामने डॉक्टर, तुम्हें साफ़ या स्वस्थ रखने के लिए इन्हें छू सकते हैं। यह कभी राज़ नहीं होता।",
      "hg": "Underwear ke neeche ke parts aur chest private hain. Sirf nahane mein help karte time Mummy ya Papa, ya Mummy-Papa ke saamne doctor, tumhe saaf ya healthy rakhne ke liye inhe chhoo sakte hain. Yeh kabhi secret nahi hota."
     }
    },
@@ -170,25 +145,21 @@
     "type": "tf",
     "q": {
      "en": "If a touch feels unsafe, I can say NO even to a grown-up I know.",
-     "hi": "अगर कोई स्पर्श असुरक्षित लगे, तो जान-पहचान के बड़े को भी ना कहना मेरा हक़ है।",
      "hg": "Agar koi touch unsafe lage, toh jaan-pehchaan ke bade ko bhi NO bolna mera haq hai."
     },
     "options": [
      {
       "en": "True",
-      "hi": "सही",
       "hg": "Sahi"
      },
      {
       "en": "False",
-      "hi": "ग़लत",
       "hg": "Galat"
      }
     ],
     "answer": 0,
     "explain": {
      "en": "Yes. Your body is yours, so you can say no to anyone, and then go and tell a trusted grown-up.",
-     "hi": "हाँ। तुम्हारा शरीर तुम्हारा है, इसलिए तुम किसी को भी ना कह सकते हो, और फिर जाकर भरोसेमंद बड़े को बता सकते हो।",
      "hg": "Haan. Tumhara body tumhara hai, isliye tum kisi ko bhi no bol sakte ho, aur phir jaakar trusted bade ko bata sakte ho."
     }
    }
@@ -199,7 +170,6 @@
   ],
   "warning": {
    "en": "If anyone has touched you in an unsafe way, tell a grown-up you trust. A grown-up or you can call Child Helpline 1098 at any time. It is free.",
-   "hi": "अगर किसी ने तुम्हें असुरक्षित तरीक़े से छुआ है, तो किसी भरोसेमंद बड़े को बताओ। तुम या कोई बड़ा कभी भी चाइल्ड हेल्पलाइन 1098 पर कॉल कर सकते हो। यह मुफ़्त है।",
    "hg": "Agar kisi ne tumhe unsafe tareeke se touch kiya hai, toh kisi trusted bade ko batao. Tum ya koi bada kabhi bhi Child Helpline 1098 par call kar sakte ho. Yeh free hai."
   },
   "sensitive": true,
@@ -224,33 +194,27 @@
   ],
   "title": {
    "en": "Secrets, Helpers and Bullies",
-   "hi": "राज़, मददगार और बुलीइंग",
    "hg": "Secrets, Helpers aur Bullies"
   },
   "subtitle": {
    "en": "Who to tell, and when",
-   "hi": "किसे बताना है, और कब",
    "hg": "Kisko batana hai, aur kab"
   },
   "hook": {
    "en": "Some secrets are fun. Some secrets feel heavy. Heavy secrets are for telling.",
-   "hi": "कुछ राज़ मज़ेदार होते हैं। कुछ राज़ भारी लगते हैं। भारी राज़ बताने के लिए होते हैं।",
    "hg": "Kuch secrets fun hote hain. Kuch secrets heavy lagte hain. Heavy secrets batane ke liye hote hain."
   },
   "objectives": [
    {
     "en": "Tell a safe secret from an unsafe secret.",
-    "hi": "सुरक्षित राज़ और असुरक्षित राज़ में फ़र्क़ करना।",
     "hg": "Safe secret aur unsafe secret ka farak samajhna."
    },
    {
     "en": "Name five grown-ups you trust.",
-    "hi": "अपने पाँच भरोसेमंद बड़ों के नाम बताना।",
     "hg": "Apne paanch trusted bado ke naam batana."
    },
    {
     "en": "Know what to do about bullying.",
-    "hi": "जानना कि बुलीइंग होने पर क्या करना है।",
     "hg": "Jaanna ki bullying hone par kya karna hai."
    }
   ],
@@ -261,48 +225,40 @@
    {
     "h": {
      "en": "Safe secrets and unsafe secrets",
-     "hi": "सुरक्षित राज़ और असुरक्षित राज़",
      "hg": "Safe secrets aur unsafe secrets"
     },
     "body": {
      "en": "A safe secret is a happy surprise, like a birthday gift for Dadi. Everyone finds out soon and feels happy. An unsafe secret makes you feel scared, sad or mixed up. It may be about a touch, a photo or a gift. Someone may say, 'Don't tell anyone, ever.' Never keep an unsafe secret. Tell a grown-up you trust.",
-     "hi": "सुरक्षित राज़ एक ख़ुशी वाला सरप्राइज़ होता है, जैसे दादी के जन्मदिन का तोहफ़ा। जल्दी ही सबको पता चल जाता है और सब ख़ुश होते हैं। असुरक्षित राज़ से डर, उदासी या उलझन होती है। वह किसी स्पर्श, फ़ोटो या तोहफ़े के बारे में हो सकता है। कोई कह सकता है, 'किसी को कभी मत बताना।' असुरक्षित राज़ कभी मत रखो। किसी भरोसेमंद बड़े को बता दो।",
      "hg": "Safe secret ek happy surprise hota hai, jaise Dadi ke birthday ka gift. Jaldi hi sabko pata chal jaata hai aur sab khush hote hain. Unsafe secret se darr, udaasi ya confusion hoti hai. Woh kisi touch, photo ya gift ke baare mein ho sakta hai. Koi bol sakta hai, 'Kisi ko kabhi mat batana.' Unsafe secret kabhi mat rakho. Kisi trusted bade ko bata do."
     }
    },
    {
     "h": {
      "en": "My trusted grown-ups",
-     "hi": "मेरे भरोसेमंद बड़े",
      "hg": "Mere trusted bade"
     },
     "body": {
      "en": "A trusted grown-up listens to you, believes you and keeps you safe. It can be Mummy, Papa, Nani, a teacher or an aunty you like. Hold up your hand. For each finger, pick one trusted grown-up. Try to pick some at home and some at school. These five are your helpers.",
-     "hi": "भरोसेमंद बड़ा वह है जो तुम्हारी बात सुनता है, तुम पर यक़ीन करता है और तुम्हें सुरक्षित रखता है। वह मम्मी, पापा, नानी, टीचर या कोई पसंदीदा आंटी हो सकती हैं। अपना हाथ उठाओ। हर उँगली के लिए एक भरोसेमंद बड़ा चुनो। कुछ घर से चुनो और कुछ स्कूल से। ये पाँच तुम्हारे मददगार हैं।",
      "hg": "Trusted bada woh hai jo tumhari baat sunta hai, tum par yakeen karta hai aur tumhe safe rakhta hai. Woh Mummy, Papa, Nani, teacher ya koi favourite aunty ho sakti hain. Apna haath uthao. Har ungli ke liye ek trusted bada chuno. Kuch ghar se chuno aur kuch school se. Yeh paanch tumhare helpers hain."
     }
    },
    {
     "h": {
      "en": "Keep telling until someone helps",
-     "hi": "बताते रहो, जब तक कोई मदद न करे",
      "hg": "Batate raho, jab tak koi help na kare"
     },
     "body": {
      "en": "Sometimes a grown-up is busy or does not understand. That does not mean you were wrong. Go to the next helper on your hand and tell again. Keep telling until someone listens and helps. If anyone says you will get in trouble for telling, that is a trick. You will not be in trouble. Telling is brave.",
-     "hi": "कभी-कभी बड़े व्यस्त होते हैं या समझ नहीं पाते। इसका मतलब यह नहीं कि तुम ग़लत थे। अपने हाथ के अगले मददगार के पास जाओ और फिर से बताओ। तब तक बताते रहो जब तक कोई सुनकर मदद न करे। अगर कोई कहे कि बताने पर तुम्हें डाँट पड़ेगी, तो वह एक चाल है। तुम्हें डाँट नहीं पड़ेगी। बताना बहादुरी है।",
      "hg": "Kabhi-kabhi bade busy hote hain ya samajh nahi paate. Iska matlab yeh nahi ki tum galat the. Apne haath ke agle helper ke paas jao aur phir se batao. Tab tak batate raho jab tak koi sunkar help na kare. Agar koi bole ki batane par tumhe daant padegi, toh woh ek trick hai. Tumhe daant nahi padegi. Batana bahaduri hai."
     }
    },
    {
     "h": {
      "en": "Bullying is not okay",
-     "hi": "बुलीइंग ठीक नहीं है",
      "hg": "Bullying okay nahi hai"
     },
     "body": {
      "en": "Bullying is when someone hurts you again and again on purpose. They may push you, call you names, take your tiffin or leave you out of games. It is not your fault. Do not hit back. Tell your teacher and a grown-up at home. If you see bullying, be kind to that child and tell a grown-up.",
-     "hi": "बुलीइंग तब होती है जब कोई जान-बूझकर तुम्हें बार-बार तकलीफ़ देता है। वह धक्का दे सकता है, गंदे नाम से बुला सकता है, तुम्हारा टिफ़िन छीन सकता है या तुम्हें खेल से बाहर रख सकता है। यह तुम्हारी ग़लती नहीं है। पलटकर मारो मत। अपनी टीचर को और घर पर किसी बड़े को बताओ। अगर किसी और के साथ बुलीइंग होते देखो, तो उस बच्चे से प्यार से पेश आओ और किसी बड़े को बताओ।",
      "hg": "Bullying tab hoti hai jab koi jaan-boojhkar tumhe baar-baar hurt karta hai. Woh dhakka de sakta hai, gande naam se bula sakta hai, tumhara tiffin chheen sakta hai ya tumhe games se bahar rakh sakta hai. Yeh tumhari galti nahi hai. Palatkar maaro mat. Apni teacher ko aur ghar par kisi bade ko batao. Agar kisi aur ke saath bullying hote dekho, toh us bachche ke saath kind raho aur kisi bade ko batao."
     }
    }
@@ -310,35 +266,29 @@
   "myth": {
    "claim": {
     "en": "Telling a grown-up is tattling.",
-    "hi": "बड़ों को बताना चुग़ली करना है।",
     "hg": "Bado ko batana chugli karna hai."
    },
    "fact": {
     "en": "Telling to keep yourself or a friend safe is not tattling. It is asking for help, and it is always the right thing to do.",
-    "hi": "ख़ुद को या दोस्त को सुरक्षित रखने के लिए बताना चुग़ली नहीं है। यह मदद माँगना है, और यह हमेशा सही काम है।",
     "hg": "Khud ko ya dost ko safe rakhne ke liye batana chugli nahi hai. Yeh help maangna hai, aur yeh hamesha sahi kaam hai."
    }
   },
   "takeaways": [
    {
     "en": "Happy surprises are safe secrets, but a secret that feels scary must be told.",
-    "hi": "ख़ुशी वाले सरप्राइज़ सुरक्षित राज़ हैं, लेकिन डराने वाला राज़ बताना ज़रूरी है।",
     "hg": "Happy surprises safe secrets hain, lekin darane wala secret batana zaroori hai."
    },
    {
     "en": "I have five trusted grown-ups, and I keep telling until one of them helps.",
-    "hi": "मेरे पाँच भरोसेमंद बड़े हैं, और जब तक कोई मदद न करे, मुझे बताते रहना है।",
     "hg": "Mere paanch trusted bade hain, aur jab tak koi help na kare, mujhe batate rehna hai."
    },
    {
     "en": "Bullying is never my fault, and telling a grown-up about it is brave.",
-    "hi": "बुलीइंग कभी मेरी ग़लती नहीं है, और इसके बारे में बड़ों को बताना बहादुरी है।",
     "hg": "Bullying kabhi meri galti nahi hai, aur iske baare mein bado ko batana bahaduri hai."
    }
   ],
   "activity": {
    "en": "Trace your hand on a sheet of paper. On each finger, write or draw one grown-up you trust. Keep the paper where you can see it.",
-   "hi": "एक काग़ज़ पर अपने हाथ की छाप बनाओ। हर उँगली पर एक भरोसेमंद बड़े का नाम लिखो या चित्र बनाओ। काग़ज़ को ऐसी जगह रखो जहाँ वह तुम्हें दिखता रहे।",
    "hg": "Ek paper par apne haath ka outline banao. Har ungli par ek trusted bade ka naam likho ya drawing banao. Paper ko aisi jagah rakho jahan woh tumhe dikhta rahe."
   },
   "interactive": "support_circle",
@@ -348,30 +298,25 @@
     "type": "scenario",
     "q": {
      "en": "An older boy in your building says, 'Come and play a secret game. If you tell, Mummy will scold you.' What do you do?",
-     "hi": "बिल्डिंग का एक बड़ा लड़का कहता है, 'चलो एक सीक्रेट गेम खेलते हैं। बताओगे तो मम्मी डाँटेंगी।' तुम क्या करोगे?",
      "hg": "Building ka ek bada ladka bolta hai, 'Chalo ek secret game khelte hain. Bataoge toh Mummy daantengi.' Tum kya karoge?"
     },
     "options": [
      {
       "en": "Say no, go away and tell a trusted grown-up",
-      "hi": "ना कहना, वहाँ से हट जाना और भरोसेमंद बड़े को बताना",
       "hg": "No bolna, wahan se hat jaana aur trusted bade ko batana"
      },
      {
       "en": "Keep the secret so Mummy does not get angry",
-      "hi": "राज़ रखना ताकि मम्मी नाराज़ न हों",
       "hg": "Secret rakhna taaki Mummy naraaz na hon"
      },
      {
       "en": "Play the game just one time",
-      "hi": "बस एक बार गेम खेल लेना",
       "hg": "Bas ek baar game khel lena"
      }
     ],
     "answer": 0,
     "explain": {
      "en": "A secret that comes with a threat is an unsafe secret. No, Go, Tell keeps you safe, and you will not be in trouble for telling.",
-     "hi": "जिस राज़ के साथ धमकी हो, वह असुरक्षित राज़ है। ना कहना, हट जाना और बताना तुम्हें सुरक्षित रखता है, और बताने पर तुम्हें डाँट नहीं पड़ेगी।",
      "hg": "Jis secret ke saath dhamki ho, woh unsafe secret hai. No, Go, Tell tumhe safe rakhta hai, aur batane par tumhe daant nahi padegi."
     }
    },
@@ -380,25 +325,21 @@
     "type": "tf",
     "q": {
      "en": "If the first grown-up does not listen, I should stop telling.",
-     "hi": "अगर पहला बड़ा मेरी बात न सुने, तो मुझे बताना बंद कर देना चाहिए।",
      "hg": "Agar pehla bada meri baat na sune, toh mujhe batana band kar dena chahiye."
     },
     "options": [
      {
       "en": "True",
-      "hi": "सही",
       "hg": "Sahi"
      },
      {
       "en": "False",
-      "hi": "ग़लत",
       "hg": "Galat"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "Go to the next trusted grown-up and tell again. Keep telling until someone helps you.",
-     "hi": "अगले भरोसेमंद बड़े के पास जाओ और फिर बताओ। तब तक बताते रहो जब तक कोई मदद न करे।",
      "hg": "Agle trusted bade ke paas jao aur phir batao. Tab tak batate raho jab tak koi help na kare."
     }
    }
@@ -430,33 +371,27 @@
   ],
   "title": {
    "en": "Bullying, Teasing and Tricky People",
-   "hi": "बुलीइंग, छेड़छाड़ और चालाक लोग",
    "hg": "Bullying, Teasing aur Tricky Log"
   },
   "subtitle": {
    "en": "Spot it early, speak up early",
-   "hi": "जल्दी पहचानो, जल्दी बोलो",
    "hg": "Jaldi pehchano, jaldi bolo"
   },
   "hook": {
    "en": "Not every unsafe person looks scary. Some bring chocolates. Learn the patterns, not the faces.",
-   "hi": "हर असुरक्षित इंसान डरावना नहीं दिखता। कुछ चॉकलेट लेकर आते हैं। चेहरे नहीं, तरीक़े पहचानना सीखो।",
    "hg": "Har unsafe insaan scary nahi dikhta. Kuch chocolate lekar aate hain. Chehre nahi, pattern pehchanna seekho."
   },
   "objectives": [
    {
     "en": "Recognise the four kinds of bullying, including online bullying.",
-    "hi": "बुलीइंग के चार रूप पहचानना, ऑनलाइन बुलीइंग समेत।",
     "hg": "Bullying ke chaar types pehchanna, online bullying bhi."
    },
    {
     "en": "Tell friendly joking from harassment.",
-    "hi": "दोस्ताना मज़ाक़ और उत्पीड़न में फ़र्क़ करना।",
     "hg": "Friendly mazaak aur harassment ka farak samajhna."
    },
    {
     "en": "Spot the warning signs of grooming and know who to tell.",
-    "hi": "ग्रूमिंग के चेतावनी संकेत पहचानना और जानना कि किसे बताना है।",
     "hg": "Grooming ke warning signs pehchanna aur jaanna ki kisko batana hai."
    }
   ],
@@ -465,48 +400,40 @@
    {
     "h": {
      "en": "Bullying has many faces",
-     "hi": "बुलीइंग के कई चेहरे",
      "hg": "Bullying ke kai chehre"
     },
     "body": {
      "en": "Bullying is hurting someone on purpose, again and again, when they find it hard to make it stop. It can be physical, like hitting, pushing or breaking your things. It can be verbal, like name-calling about your body, skin colour, caste, religion, marks or the way you talk. It can be social, like spreading rumours or making sure nobody sits with you. And it can be online, like mean group chats or edited photos. All four hurt. None of them is 'just fun' if one person is not laughing.",
-     "hi": "बुलीइंग का मतलब है किसी को जान-बूझकर, बार-बार तकलीफ़ देना, जब उसके लिए इसे रोकना मुश्किल हो। यह शारीरिक हो सकती है, जैसे मारना, धक्का देना या सामान तोड़ना। यह शब्दों से हो सकती है, जैसे शरीर, रंग, जाति, धर्म, नंबरों या बोलने के ढंग पर नाम रखना। यह सामाजिक हो सकती है, जैसे अफ़वाह फैलाना या ऐसा करना कि कोई तुम्हारे साथ न बैठे। और यह ऑनलाइन हो सकती है, जैसे ग्रुप चैट में बुरा बोलना या एडिट की हुई फ़ोटो। चारों से चोट पहुँचती है। अगर एक इंसान हँस नहीं रहा, तो वह 'बस मज़ाक़' नहीं है।",
      "hg": "Bullying ka matlab hai kisi ko jaan-boojhkar, baar-baar hurt karna, jab uske liye ise rokna mushkil ho. Yeh physical ho sakti hai, jaise maarna, dhakka dena ya saamaan todna. Yeh verbal ho sakti hai, jaise body, skin colour, caste, religion, marks ya bolne ke style par naam rakhna. Yeh social ho sakti hai, jaise rumours failana ya aisa karna ki koi tumhare saath na baithe. Aur yeh online ho sakti hai, jaise mean group chats ya edited photos. Chaaron hurt karti hain. Agar ek banda hans nahi raha, toh woh 'bas masti' nahi hai."
     }
    },
    {
     "h": {
      "en": "When teasing becomes harassment",
-     "hi": "जब मज़ाक़ उत्पीड़न बन जाता है",
      "hg": "Jab teasing harassment ban jaati hai"
     },
     "body": {
      "en": "Friends joke with each other, both sides laugh, and either one can say stop. It becomes harassment when it is unwanted and keeps going. Comments about someone's body or how it is changing, pulling at a bra strap or pants, staring, blocking the way, forcing a hug or touching without permission are harassment, not masti. It can happen to girls, boys and every child. You never have to laugh along. Say 'Stop, I don't like it', move away and tell a teacher or parent. The person doing it is responsible, not you.",
-     "hi": "दोस्त आपस में मज़ाक़ करते हैं, दोनों हँसते हैं, और कोई भी 'बस' कह सकता है। जब कोई बात अनचाही हो और फिर भी चलती रहे, तो वह उत्पीड़न (harassment) बन जाती है। किसी के शरीर या उसमें हो रहे बदलावों पर टिप्पणी करना, ब्रा की पट्टी या पैंट खींचना, घूरना, रास्ता रोकना, ज़बरदस्ती गले लगाना या बिना इजाज़त छूना उत्पीड़न है, मस्ती नहीं। यह लड़कियों, लड़कों और हर बच्चे के साथ हो सकता है। तुम्हें साथ में हँसने की कोई ज़रूरत नहीं। कहो 'रुको, मुझे यह पसंद नहीं', वहाँ से हट जाओ और टीचर या माता-पिता को बताओ। ज़िम्मेदार वही है जो ऐसा कर रहा है, तुम नहीं।",
      "hg": "Dost aapas mein mazaak karte hain, dono hanste hain, aur koi bhi 'bas' bol sakta hai. Jab koi cheez unwanted ho aur phir bhi chalti rahe, toh woh harassment ban jaati hai. Kisi ki body ya usme ho rahe changes par comment karna, bra strap ya pant kheenchna, ghoorna, raasta rokna, zabardasti hug karna ya bina permission touch karna harassment hai, masti nahi. Yeh ladkiyon, ladkon aur har bachche ke saath ho sakta hai. Tumhe saath mein hansne ki koi zaroorat nahi. Bolo 'Stop, mujhe yeh pasand nahi', wahan se hat jao aur teacher ya parents ko batao. Responsible wahi hai jo aisa kar raha hai, tum nahi."
     }
    },
    {
     "h": {
      "en": "Grooming: how tricky people build trust",
-     "hi": "ग्रूमिंग: चालाक लोग भरोसा कैसे बनाते हैं",
      "hg": "Grooming: tricky log trust kaise banate hain"
     },
     "body": {
      "en": "Grooming is when an older person slowly wins a child's trust so that they can harm the child later. It often starts nicely: extra attention, gifts, chocolates, game recharges, telling you that you are 'more mature than the others'. Then come small tests: little secrets, private chats, asking to meet alone, touching that 'accidentally' crosses a line, or making you feel you owe them. Usually it is someone the child knows, such as a relative, neighbour, tutor, coach or older student, and sometimes an online 'friend'. The pattern is the warning: special favours, plus secrecy, plus time alone.",
-     "hi": "ग्रूमिंग तब होती है जब कोई बड़ा व्यक्ति धीरे-धीरे बच्चे का भरोसा जीतता है, ताकि बाद में उसे नुक़सान पहुँचा सके। शुरुआत अक्सर अच्छी लगती है: ज़्यादा ध्यान देना, तोहफ़े, चॉकलेट, गेम का रिचार्ज, यह कहना कि तुम 'बाक़ियों से ज़्यादा समझदार' हो। फिर छोटी-छोटी परीक्षाएँ आती हैं: छोटे राज़, अकेले में चैट, अकेले मिलने को कहना, 'ग़लती से' हद पार करने वाला स्पर्श, या यह जताना कि तुम पर उनका एहसान है। आम तौर पर यह कोई जान-पहचान वाला होता है, जैसे रिश्तेदार, पड़ोसी, ट्यूशन टीचर, कोच या बड़ा छात्र, और कभी-कभी कोई ऑनलाइन 'दोस्त'। चेतावनी इसी तरीक़े में छिपी है: ख़ास मेहरबानी, साथ में राज़, और अकेले में समय।",
      "hg": "Grooming tab hoti hai jab koi bada insaan dheere-dheere bachche ka trust jeetta hai, taaki baad mein use harm kar sake. Shuruaat aksar achhi lagti hai: extra attention, gifts, chocolates, game recharge, yeh bolna ki tum 'baakiyon se zyada mature' ho. Phir chhote-chhote tests aate hain: chhote secrets, private chats, akele milne ko bolna, 'galti se' line cross karne wala touch, ya yeh feel karana ki tum par unka ehsaan hai. Usually yeh koi jaan-pehchaan wala hota hai, jaise rishtedaar, padosi, tuition teacher, coach ya senior student, aur kabhi-kabhi koi online 'friend'. Warning isi pattern mein hai: special favours, plus secrecy, plus akele mein time."
     }
    },
    {
     "h": {
      "en": "What you can do",
-     "hi": "तुम क्या कर सकते हो",
      "hg": "Tum kya kar sakte ho"
     },
     "body": {
      "en": "If something feels off, you do not need proof and you do not need to be sure. Tell a trusted adult exactly what happened and how it made you feel. If the first adult brushes it off, tell another one. You can call Child Helpline 1098 free, at any time of day, and in an emergency call 112. If you see someone being bullied, do not join in or film it. Sit with them, tell them it is not their fault and take it to a teacher. Whatever happened, the blame belongs to the person who did it.",
-     "hi": "अगर कुछ ठीक न लगे, तो तुम्हें सबूत की ज़रूरत नहीं और पक्का होने की भी ज़रूरत नहीं। किसी भरोसेमंद बड़े को साफ़-साफ़ बताओ कि क्या हुआ और तुम्हें कैसा लगा। अगर पहला बड़ा बात टाल दे, तो किसी दूसरे को बताओ। तुम चाइल्ड हेल्पलाइन 1098 पर दिन-रात कभी भी मुफ़्त कॉल कर सकते हो, और इमरजेंसी में 112 पर कॉल करो। अगर किसी के साथ बुलीइंग होते देखो, तो उसमें शामिल मत हो और वीडियो मत बनाओ। उसके पास बैठो, उसे बताओ कि यह उसकी ग़लती नहीं है, और बात टीचर तक पहुँचाओ। जो भी हुआ हो, दोष उसी का है जिसने ऐसा किया।",
      "hg": "Agar kuch off lage, toh tumhe proof ki zaroorat nahi aur sure hone ki bhi zaroorat nahi. Kisi trusted adult ko saaf-saaf batao ki kya hua aur tumhe kaisa laga. Agar pehla adult baat taal de, toh kisi doosre ko batao. Tum Child Helpline 1098 par din-raat kabhi bhi free call kar sakte ho, aur emergency mein 112 par call karo. Agar kisi ke saath bullying hote dekho, toh usme join mat karo aur video mat banao. Uske paas baitho, use batao ki yeh uski galti nahi hai, aur baat teacher tak le jao. Jo bhi hua ho, blame usi ka hai jisne aisa kiya."
     }
    }
@@ -514,35 +441,29 @@
   "myth": {
    "claim": {
     "en": "If I took the gifts or kept the secret earlier, I cannot complain now.",
-    "hi": "अगर मैंने पहले तोहफ़े ले लिए या राज़ रख लिया, तो अब शिकायत करने का मुझे कोई हक़ नहीं।",
     "hg": "Agar maine pehle gifts le liye ya secret rakh liya, toh ab complain karne ka mujhe koi haq nahi."
    },
    "fact": {
     "en": "Tricky people give gifts and ask for secrets exactly so that a child feels stuck. Taking a gift or staying quiet earlier never makes the harm your fault, and you can tell at any time.",
-    "hi": "चालाक लोग तोहफ़े इसीलिए देते हैं और राज़ इसीलिए रखवाते हैं कि बच्चा ख़ुद को फँसा हुआ महसूस करे। पहले तोहफ़ा लेने या चुप रहने से नुक़सान तुम्हारी ग़लती नहीं बन जाता, और तुम कभी भी बता सकते हो।",
     "hg": "Tricky log gifts isiliye dete hain aur secrets isiliye rakhwate hain ki bachcha khud ko stuck feel kare. Pehle gift lene ya chup rehne se harm tumhari galti nahi ban jaata, aur tum kabhi bhi bata sakte ho."
    }
   },
   "takeaways": [
    {
     "en": "Bullying can be physical, verbal, social or online, and it is never the target's fault.",
-    "hi": "बुलीइंग शारीरिक, शब्दों से, सामाजिक या ऑनलाइन हो सकती है, और यह कभी उसकी ग़लती नहीं होती जिसके साथ हो रही है।",
     "hg": "Bullying physical, verbal, social ya online ho sakti hai, aur yeh kabhi uski galti nahi hoti jiske saath ho rahi hai."
    },
    {
     "en": "Unwanted comments or touching are harassment, even when someone calls them a joke.",
-    "hi": "अनचाही टिप्पणी या स्पर्श उत्पीड़न है, भले ही कोई उसे मज़ाक़ कहे।",
     "hg": "Unwanted comments ya touching harassment hai, chahe koi use mazaak bole."
    },
    {
     "en": "Special favours plus secrecy plus time alone is a grooming warning sign, so tell a trusted adult or call 1098.",
-    "hi": "ख़ास मेहरबानी, राज़ और अकेले में समय, तीनों साथ हों तो यह ग्रूमिंग का संकेत है, इसलिए भरोसेमंद बड़े को बताओ या 1098 पर कॉल करो।",
     "hg": "Special favours plus secrecy plus akele mein time grooming ka warning sign hai, isliye trusted adult ko batao ya 1098 par call karo."
    }
   ],
   "activity": {
    "en": "In a private notebook, write the names of three adults you could tell if something felt wrong, and one sentence you could start with, such as 'Something happened and I need your help.'",
-   "hi": "अपनी निजी कॉपी में ऐसे तीन बड़ों के नाम लिखो जिन्हें तुम कुछ ग़लत लगने पर बता सको, और एक वाक्य लिखो जिससे तुम बात शुरू कर सको, जैसे 'कुछ हुआ है और मुझे आपकी मदद चाहिए।'",
    "hg": "Apni private notebook mein aise teen adults ke naam likho jinhe tum kuch galat lagne par bata sako, aur ek line likho jisse tum baat start kar sako, jaise 'Kuch hua hai aur mujhe aapki help chahiye.'"
   },
   "interactive": "support_circle",
@@ -552,35 +473,29 @@
     "type": "mcq",
     "q": {
      "en": "Which of these is a warning sign of grooming?",
-     "hi": "इनमें से कौन सा ग्रूमिंग का चेतावनी संकेत है?",
      "hg": "Inme se kaun sa grooming ka warning sign hai?"
     },
     "options": [
      {
       "en": "A coach praises the whole team after a match",
-      "hi": "कोच मैच के बाद पूरी टीम की तारीफ़ करते हैं",
       "hg": "Coach match ke baad poori team ki tareef karte hain"
      },
      {
       "en": "A teacher asks your parents to come for a meeting",
-      "hi": "टीचर तुम्हारे माता-पिता को मीटिंग के लिए बुलाती हैं",
       "hg": "Teacher tumhare parents ko meeting ke liye bulati hain"
      },
      {
       "en": "A tutor gives only you gifts and says to keep your chats secret",
-      "hi": "ट्यूशन टीचर सिर्फ़ तुम्हें तोहफ़े देते हैं और चैट को राज़ रखने को कहते हैं",
       "hg": "Tutor sirf tumhe gifts dete hain aur chats secret rakhne ko bolte hain"
      },
      {
       "en": "An uncle says hello to you at a family function",
-      "hi": "एक अंकल पारिवारिक समारोह में तुम्हें नमस्ते कहते हैं",
       "hg": "Ek uncle family function mein tumhe hello bolte hain"
      }
     ],
     "answer": 2,
     "explain": {
      "en": "Special gifts for one child combined with secrecy is a classic grooming pattern. Safe adults do not need secrets from your parents.",
-     "hi": "सिर्फ़ एक बच्चे को ख़ास तोहफ़े और साथ में राज़ रखवाना ग्रूमिंग का जाना-पहचाना तरीक़ा है। सुरक्षित बड़ों को तुम्हारे माता-पिता से कुछ छिपाने की ज़रूरत नहीं होती।",
      "hg": "Sirf ek bachche ko special gifts aur saath mein secrecy grooming ka classic pattern hai. Safe adults ko tumhare parents se kuch chhupane ki zaroorat nahi hoti."
     }
    },
@@ -589,25 +504,21 @@
     "type": "tf",
     "q": {
      "en": "It only counts as bullying if someone is hit or pushed.",
-     "hi": "बुलीइंग तभी मानी जाती है जब किसी को मारा या धक्का दिया जाए।",
      "hg": "Bullying tabhi count hoti hai jab kisi ko maara ya dhakka diya jaye."
     },
     "options": [
      {
       "en": "True",
-      "hi": "सही",
       "hg": "Sahi"
      },
      {
       "en": "False",
-      "hi": "ग़लत",
       "hg": "Galat"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "Name-calling, rumours, leaving someone out and cruel messages online are bullying too, and they can hurt just as much.",
-     "hi": "नाम रखना, अफ़वाह फैलाना, किसी को अलग-थलग करना और ऑनलाइन बुरे मैसेज भेजना भी बुलीइंग है, और इनसे भी उतनी ही चोट पहुँच सकती है।",
      "hg": "Naam rakhna, rumours failana, kisi ko left out karna aur online cruel messages bhi bullying hai, aur yeh bhi utna hi hurt kar sakte hain."
     }
    }
@@ -619,7 +530,6 @@
   ],
   "warning": {
    "en": "If an older person asks you for secrets, private meetings or touches you in ways you do not like, tell a trusted adult today or call 1098.",
-   "hi": "अगर कोई बड़ा व्यक्ति तुमसे राज़ रखने को कहे, अकेले मिलने को कहे या ऐसे छुए जो तुम्हें पसंद न हो, तो आज ही किसी भरोसेमंद बड़े को बताओ या 1098 पर कॉल करो।",
    "hg": "Agar koi bada insaan tumse secrets rakhne ko bole, akele milne ko bole ya aise touch kare jo tumhe pasand na ho, toh aaj hi kisi trusted adult ko batao ya 1098 par call karo."
   },
   "sensitive": true,
@@ -643,33 +553,27 @@
   ],
   "title": {
    "en": "Harassment, Grooming and Stalking: Call It What It Is",
-   "hi": "उत्पीड़न, ग्रूमिंग और स्टॉकिंग: जो है, वही कहो",
    "hg": "Harassment, Grooming aur Stalking: Jo Hai Wahi Bolo"
   },
   "subtitle": {
    "en": "Names, patterns and the law on your side",
-   "hi": "सही नाम, तरीक़े और तुम्हारे साथ खड़ा क़ानून",
    "hg": "Sahi naam, patterns aur tumhari side wala kanoon"
   },
   "hook": {
    "en": "'Eve-teasing' sounds harmless. The real name is sexual harassment, and it is an offence.",
-   "hi": "'ईव-टीज़िंग' सुनने में मामूली लगता है। इसका असली नाम यौन उत्पीड़न है, और यह अपराध है।",
    "hg": "'Eve-teasing' sunne mein harmless lagta hai. Iska asli naam sexual harassment hai, aur yeh offence hai."
   },
   "objectives": [
    {
     "en": "Identify sexual harassment in its verbal, non-verbal, physical and online forms.",
-    "hi": "यौन उत्पीड़न के मौखिक, बिना शब्दों वाले, शारीरिक और ऑनलाइन रूप पहचानना।",
     "hg": "Sexual harassment ke verbal, non-verbal, physical aur online forms pehchanna."
    },
    {
     "en": "Explain how grooming and abuse by trusted people work.",
-    "hi": "समझाना कि ग्रूमिंग और भरोसेमंद लोगों द्वारा शोषण कैसे होता है।",
     "hg": "Samjhana ki grooming aur trusted logon dwara abuse kaise hota hai."
    },
    {
     "en": "Describe stalking and what POCSO says about people under 18.",
-    "hi": "बताना कि स्टॉकिंग क्या है और POCSO 18 से कम उम्र वालों के बारे में क्या कहता है।",
     "hg": "Batana ki stalking kya hai aur POCSO 18 se kam umar walon ke baare mein kya kehta hai."
    }
   ],
@@ -678,48 +582,40 @@
    {
     "h": {
      "en": "Sexual harassment: the full list",
-     "hi": "यौन उत्पीड़न: पूरी सूची",
      "hg": "Sexual harassment: poori list"
     },
     "body": {
      "en": "Sexual harassment is any unwelcome behaviour of a sexual nature. Verbal: comments about your body, sexual jokes, rating people, repeated requests after a no. Non-verbal: staring at body parts, whistling, obscene gestures, showing sexual images. Physical: brushing against you on purpose, groping, pinching, forced hugs. Online: sexual messages, unwanted pictures, demands for photos. It happens on buses, in schools, tuitions, families and DMs. The test is not what the other person says they meant. The test is whether it was unwanted. Calling it 'eve-teasing' or 'mazaak' hides what it is.",
-     "hi": "यौन उत्पीड़न का मतलब है यौन क़िस्म का कोई भी अनचाहा बर्ताव। मौखिक: शरीर पर टिप्पणी, अश्लील चुटकुले, लोगों को 'रेटिंग' देना, मना करने के बाद भी बार-बार पूछना। बिना शब्दों के: शरीर के अंगों को घूरना, सीटी बजाना, अश्लील इशारे, अश्लील तस्वीरें दिखाना। शारीरिक: जान-बूझकर सटना, ग़लत तरीक़े से छूना या टटोलना, चिकोटी काटना, ज़बरदस्ती गले लगाना। ऑनलाइन: अश्लील मैसेज, अनचाही तस्वीरें, फ़ोटो की माँग। यह बसों में, स्कूल में, ट्यूशन में, परिवार में और DM में होता है। कसौटी यह नहीं है कि सामने वाला अपनी नीयत क्या बताता है। कसौटी यह है कि वह बर्ताव अनचाहा था या नहीं। इसे 'ईव-टीज़िंग' या 'मज़ाक़' कहना असलियत को छिपाना है।",
      "hg": "Sexual harassment ka matlab hai sexual nature ka koi bhi unwanted behaviour. Verbal: body par comments, sexual jokes, logon ko 'rate' karna, no ke baad bhi baar-baar poochna. Non-verbal: body parts ko ghoorna, seeti bajana, obscene ishaare, sexual images dikhana. Physical: jaan-boojhkar satna, groping, chikoti kaatna, zabardasti hug. Online: sexual messages, unwanted pictures, photos ki demand. Yeh bus mein, school mein, tuition mein, family mein aur DMs mein hota hai. Test yeh nahi hai ki saamne wala apni intention kya batata hai. Test yeh hai ki woh behaviour unwanted tha ya nahi. Ise 'eve-teasing' ya 'mazaak' bolna asliyat ko chhupana hai."
     }
    },
    {
     "h": {
      "en": "Grooming and abuse by people you trust",
-     "hi": "ग्रूमिंग और भरोसेमंद लोगों द्वारा शोषण",
      "hg": "Grooming aur trusted logon dwara abuse"
     },
     "body": {
      "en": "Most sexual abuse of children is done by someone the child already knows, not by a stranger in a dark lane. That person may be a relative, family friend, teacher, coach, religious leader, senior or partner. Grooming usually moves in steps: choosing a child, winning trust (often the family's trust too), giving favours, creating secrecy, isolating, then pushing physical or sexual boundaries a little at a time, and finally using guilt, shame or threats to keep silence. Because it is gradual and the person is liked, many young people feel confused or loyal. Confusion is a normal response to manipulation, not agreement.",
-     "hi": "बच्चों का ज़्यादातर यौन शोषण कोई ऐसा व्यक्ति करता है जिसे बच्चा पहले से जानता है, अँधेरी गली का कोई अजनबी नहीं। वह रिश्तेदार, पारिवारिक मित्र, टीचर, कोच, धर्मगुरु, सीनियर या पार्टनर हो सकता है। ग्रूमिंग आम तौर पर क़दम-दर-क़दम चलती है: बच्चे को चुनना, भरोसा जीतना (अक्सर परिवार का भी), एहसान करना, राज़ बनाना, बाक़ियों से अलग करना, फिर शारीरिक या यौन सीमाओं को थोड़ा-थोड़ा लाँघना, और आख़िर में अपराधबोध, शर्म या धमकी से चुप रखना। चूँकि यह धीरे-धीरे होता है और वह व्यक्ति सबको पसंद होता है, इसलिए बहुत से किशोर उलझन या वफ़ादारी महसूस करते हैं। उलझन चालाकी से बहकाए जाने की सामान्य प्रतिक्रिया है, सहमति नहीं।",
      "hg": "Bachchon ka zyada-tar sexual abuse koi aisa insaan karta hai jise bachcha pehle se jaanta hai, andheri gali ka koi stranger nahi. Woh rishtedaar, family friend, teacher, coach, religious leader, senior ya partner ho sakta hai. Grooming usually step-by-step chalti hai: bachche ko choose karna, trust jeetna (aksar family ka bhi), favours dena, secrecy banana, baakiyon se isolate karna, phir physical ya sexual boundaries ko thoda-thoda push karna, aur end mein guilt, sharam ya dhamki se chup rakhna. Kyunki yeh dheere-dheere hota hai aur woh insaan sabko pasand hota hai, isliye bahut se teens confused ya loyal feel karte hain. Confusion manipulation ka normal response hai, agreement nahi."
     }
    },
    {
     "h": {
      "en": "Stalking is not romance",
-     "hi": "पीछा करना रोमांस नहीं है",
      "hg": "Stalking romance nahi hai"
     },
     "body": {
      "en": "Stalking is repeatedly following, watching or contacting someone who has clearly shown they are not interested. It includes waiting outside your school or home, tracking your location, flooding you with calls and messages, making new accounts after being blocked, and pressuring your friends for information. Films often show this as romance. In real life it is frightening, and it is a crime in India, including when it happens online. If it happens to you, do not meet the person alone to 'settle it'. Keep the messages and call logs, tell a trusted adult and report it.",
-     "hi": "स्टॉकिंग का मतलब है किसी ऐसे व्यक्ति का बार-बार पीछा करना, उस पर नज़र रखना या उससे संपर्क करना जिसने साफ़ जता दिया है कि उसे दिलचस्पी नहीं है। इसमें स्कूल या घर के बाहर इंतज़ार करना, लोकेशन ट्रैक करना, कॉल और मैसेज की झड़ी लगाना, ब्लॉक होने के बाद नए अकाउंट बनाना और तुम्हारे दोस्तों पर जानकारी के लिए दबाव डालना शामिल है। फ़िल्में अक्सर इसे रोमांस की तरह दिखाती हैं। असल ज़िंदगी में यह डरावना है, और भारत में यह अपराध है, ऑनलाइन होने पर भी। अगर तुम्हारे साथ ऐसा हो, तो 'बात ख़त्म करने' के लिए उस व्यक्ति से अकेले मत मिलो। मैसेज और कॉल लॉग सँभालकर रखो, किसी भरोसेमंद बड़े को बताओ और शिकायत करो।",
      "hg": "Stalking ka matlab hai kisi aise insaan ko baar-baar follow karna, us par nazar rakhna ya use contact karna jisne clearly dikha diya hai ki use interest nahi hai. Isme school ya ghar ke bahar wait karna, location track karna, calls aur messages ki jhadi lagana, block hone ke baad naye accounts banana aur tumhare friends par info ke liye pressure daalna shaamil hai. Filmein aksar ise romance ki tarah dikhati hain. Real life mein yeh darawna hai, aur India mein yeh crime hai, online ho tab bhi. Agar tumhare saath aisa ho, toh 'baat settle karne' ke liye us insaan se akele mat milo. Messages aur call logs sambhalkar rakho, kisi trusted adult ko batao aur report karo."
     }
    },
    {
     "h": {
      "en": "The law and getting help",
-     "hi": "क़ानून और मदद पाना",
      "hg": "Kanoon aur help lena"
     },
     "body": {
      "en": "Under the POCSO Act, anyone under 18 is a child, and any sexual act with a child is an offence even if the child 'agreed'. The law protects children of all genders. Sexual harassment and stalking are also offences under India's criminal law. You can tell a parent, teacher or school counsellor, call 1098 or 112, or go to the police with an adult. Know one thing in advance: adults who learn that a child has been sexually abused are legally required to report it, so they cannot promise to keep it fully secret. Laws can change, and this is information, not legal advice.",
-     "hi": "POCSO क़ानून के तहत 18 साल से कम उम्र का हर व्यक्ति बच्चा है, और बच्चे के साथ कोई भी यौन कृत्य अपराध है, भले ही बच्चे ने 'हाँ' कही हो। यह क़ानून हर जेंडर के बच्चों की रक्षा करता है। यौन उत्पीड़न और स्टॉकिंग भी भारत के आपराधिक क़ानून में अपराध हैं। तुम माता-पिता, टीचर या स्कूल काउंसलर को बता सकते हो, 1098 या 112 पर कॉल कर सकते हो, या किसी बड़े के साथ पुलिस के पास जा सकते हो। एक बात पहले से जान लो: जिन बड़ों को पता चलता है कि किसी बच्चे का यौन शोषण हुआ है, उन पर क़ानूनन इसकी सूचना देने की ज़िम्मेदारी है, इसलिए वे इसे पूरी तरह गुप्त रखने का वादा नहीं कर सकते। क़ानून बदल सकते हैं, और यह जानकारी है, क़ानूनी सलाह नहीं।",
      "hg": "POCSO Act ke under 18 saal se kam umar ka har insaan child hai, aur child ke saath koi bhi sexual act offence hai, chahe child ne 'haan' bola ho. Yeh law har gender ke bachchon ko protect karta hai. Sexual harassment aur stalking bhi India ke criminal law mein offence hain. Tum parents, teacher ya school counsellor ko bata sakte ho, 1098 ya 112 par call kar sakte ho, ya kisi adult ke saath police ke paas ja sakte ho. Ek baat pehle se jaan lo: jin adults ko pata chalta hai ki kisi bachche ka sexual abuse hua hai, un par legally report karne ki duty hai, isliye woh ise poori tarah secret rakhne ka promise nahi kar sakte. Laws change ho sakte hain, aur yeh information hai, legal advice nahi."
     }
    }
@@ -727,35 +623,29 @@
   "myth": {
    "claim": {
     "en": "If I did not say no clearly, or I froze, it means I allowed it.",
-    "hi": "अगर मैंने साफ़ ना नहीं कहा, या मेरा शरीर सुन्न पड़ गया, तो इसका मतलब मैंने होने दिया।",
     "hg": "Agar maine clearly no nahi bola, ya meri body freeze ho gayi, toh matlab maine hone diya."
    },
    "fact": {
     "en": "Freezing or going silent is a common automatic reaction to fear and shock. Not resisting is not consent, and for anyone under 18 the law does not accept a child's 'yes' to a sexual act as consent at all.",
-    "hi": "सुन्न पड़ जाना या चुप हो जाना डर और सदमे की एक आम, अपने-आप होने वाली प्रतिक्रिया है। विरोध न करना सहमति नहीं है, और 18 साल से कम उम्र वालों के मामले में क़ानून बच्चे की 'हाँ' को यौन कृत्य की सहमति मानता ही नहीं।",
     "hg": "Freeze ho jaana ya chup ho jaana darr aur shock ka common, automatic reaction hai. Resist na karna consent nahi hai, aur 18 se kam umar walon ke case mein law bachche ki 'haan' ko sexual act ka consent maanta hi nahi."
    }
   },
   "takeaways": [
    {
     "en": "Sexual harassment is defined by being unwanted, not by the harasser's excuse.",
-    "hi": "यौन उत्पीड़न इससे तय होता है कि बर्ताव अनचाहा था, उत्पीड़क के बहाने से नहीं।",
     "hg": "Sexual harassment is baat se define hota hai ki behaviour unwanted tha, harasser ke bahane se nahi."
    },
    {
     "en": "People who abuse are usually known and trusted, and they rely on favours, secrecy and guilt.",
-    "hi": "शोषण करने वाले आम तौर पर जाने-पहचाने और भरोसेमंद लोग होते हैं, जो एहसान, राज़ और अपराधबोध का सहारा लेते हैं।",
     "hg": "Abuse karne wale usually jaane-pehchaane aur trusted log hote hain, jo favours, secrecy aur guilt ka use karte hain."
    },
    {
     "en": "Stalking and harassment are offences, and POCSO protects everyone under 18 whatever their gender.",
-    "hi": "स्टॉकिंग और उत्पीड़न अपराध हैं, और POCSO 18 से कम उम्र के हर व्यक्ति की रक्षा करता है, जेंडर कोई भी हो।",
     "hg": "Stalking aur harassment offences hain, aur POCSO 18 se kam umar ke har insaan ko protect karta hai, gender koi bhi ho."
    }
   ],
   "activity": {
    "en": "Think of one film or series scene where chasing someone after they said no was shown as romantic. Privately, replay it from the other person's side: what would they be feeling on the walk home?",
-   "hi": "किसी फ़िल्म या सीरीज़ का ऐसा सीन याद करो जिसमें 'ना' के बाद भी पीछे पड़े रहना रोमांटिक दिखाया गया था। मन ही मन उसे दूसरे व्यक्ति की नज़र से दोबारा देखो: घर लौटते हुए उसे कैसा लग रहा होगा?",
    "hg": "Kisi film ya series ka aisa scene yaad karo jisme 'no' ke baad bhi peeche pade rehna romantic dikhaya gaya tha. Mann hi mann use doosre insaan ki side se replay karo: ghar lautte hue use kaisa feel ho raha hoga?"
   },
   "interactive": "consent_sim",
@@ -765,35 +655,29 @@
     "type": "scenario",
     "q": {
      "en": "A classmate keeps sending Ananya sexual jokes on chat even after she told him to stop. What is this, and what is a sound next step?",
-     "hi": "एक सहपाठी अनन्या को चैट पर अश्लील चुटकुले भेजता रहता है, जबकि वह उसे रुकने को कह चुकी है। यह क्या है, और अगला सही क़दम क्या होगा?",
      "hg": "Ek classmate Ananya ko chat par sexual jokes bhejta rehta hai, jabki woh use stop bol chuki hai. Yeh kya hai, aur agla sahi step kya hoga?"
     },
     "options": [
      {
       "en": "It is flirting; she should reply politely so he is not offended",
-      "hi": "यह फ़्लर्टिंग है; उसे नरमी से जवाब देना चाहिए ताकि वह बुरा न माने",
       "hg": "Yeh flirting hai; use politely reply karna chahiye taaki woh bura na maane"
      },
      {
       "en": "It is harmless because it is only online",
-      "hi": "इसमें कोई नुक़सान नहीं है क्योंकि यह सिर्फ़ ऑनलाइन है",
       "hg": "Yeh harmless hai kyunki sirf online hai"
      },
      {
       "en": "It is sexual harassment; she can keep the chat, block him and tell a trusted adult",
-      "hi": "यह यौन उत्पीड़न है; वह चैट सँभालकर रखे, उसे ब्लॉक करे और भरोसेमंद बड़े को बताए",
       "hg": "Yeh sexual harassment hai; woh chat save rakhe, use block kare aur trusted adult ko bataye"
      },
      {
       "en": "It is her fault for replying to him earlier",
-      "hi": "यह उसकी ग़लती है क्योंकि उसने पहले जवाब दिया था",
       "hg": "Yeh uski galti hai kyunki usne pehle reply kiya tha"
      }
     ],
     "answer": 2,
     "explain": {
      "en": "Unwanted sexual messages that continue after a clear 'stop' are sexual harassment, online or offline. The responsibility lies with the sender.",
-     "hi": "साफ़ 'रुको' कहने के बाद भी जारी रहने वाले अनचाहे अश्लील मैसेज यौन उत्पीड़न हैं, ऑनलाइन हों या ऑफ़लाइन। ज़िम्मेदारी भेजने वाले की है।",
      "hg": "Clear 'stop' ke baad bhi continue hone wale unwanted sexual messages sexual harassment hain, online ho ya offline. Responsibility bhejne wale ki hai."
     }
    },
@@ -802,25 +686,21 @@
     "type": "tf",
     "q": {
      "en": "Under POCSO, a sexual act with a person under 18 is an offence even if the child agreed.",
-     "hi": "POCSO के तहत 18 साल से कम उम्र के व्यक्ति के साथ यौन कृत्य अपराध है, भले ही बच्चे ने हामी भरी हो।",
      "hg": "POCSO ke under 18 se kam umar ke insaan ke saath sexual act offence hai, chahe bachche ne haan bola ho."
     },
     "options": [
      {
       "en": "True",
-      "hi": "सही",
       "hg": "Sahi"
      },
      {
       "en": "False",
-      "hi": "ग़लत",
       "hg": "Galat"
      }
     ],
     "answer": 0,
     "explain": {
      "en": "The law treats everyone under 18 as a child who cannot legally consent to sexual activity, so the child's agreement is not a defence.",
-     "hi": "क़ानून 18 से कम उम्र के हर व्यक्ति को बच्चा मानता है जो यौन गतिविधि के लिए क़ानूनी सहमति नहीं दे सकता, इसलिए बच्चे की हामी कोई बचाव नहीं है।",
      "hg": "Law 18 se kam umar ke har insaan ko child maanta hai jo sexual activity ke liye legally consent nahi de sakta, isliye bachche ki haan koi defence nahi hai."
     }
    }
@@ -833,7 +713,6 @@
   ],
   "warning": {
    "en": "If you are being harassed, stalked or abused, you are not to blame. Call Child Helpline 1098, or 112 in an emergency.",
-   "hi": "अगर तुम्हारा उत्पीड़न, पीछा या शोषण हो रहा है, तो दोष तुम्हारा नहीं है। चाइल्ड हेल्पलाइन 1098 पर कॉल करो, या इमरजेंसी में 112 पर।",
    "hg": "Agar tumhare saath harassment, stalking ya abuse ho raha hai, toh blame tumhara nahi hai. Child Helpline 1098 par call karo, ya emergency mein 112 par."
   },
   "sensitive": true,
@@ -859,33 +738,27 @@
   ],
   "title": {
    "en": "Violence in Relationships and at Home",
-   "hi": "रिश्तों और घर के भीतर हिंसा",
    "hg": "Relationships aur Ghar ke Andar Violence"
   },
   "subtitle": {
    "en": "Control, assault and trafficking, explained plainly",
-   "hi": "नियंत्रण, यौन हमला और तस्करी, सीधी भाषा में",
    "hg": "Control, assault aur trafficking, seedhi baat mein"
   },
   "hook": {
    "en": "Abuse rarely starts with a slap. It starts with 'Who were you talking to?'",
-   "hi": "हिंसा शायद ही कभी थप्पड़ से शुरू होती है। वह शुरू होती है 'किससे बात कर रहे थे?' से।",
    "hg": "Abuse shayad hi kabhi thappad se start hota hai. Woh start hota hai 'Kisse baat kar rahe the?' se."
   },
   "objectives": [
    {
     "en": "Recognise the forms of intimate partner and domestic violence, including the non-physical ones.",
-    "hi": "पार्टनर द्वारा हिंसा और घरेलू हिंसा के रूप पहचानना, उन रूपों समेत जो शारीरिक नहीं हैं।",
     "hg": "Intimate partner violence aur domestic violence ke forms pehchanna, non-physical wale bhi."
    },
    {
     "en": "Know what care exists after a sexual assault and which time limits matter.",
-    "hi": "जानना कि यौन हमले के बाद कौन सी देखभाल मिलती है और कौन सी समय-सीमाएँ अहम हैं।",
     "hg": "Jaanna ki sexual assault ke baad kaun si care milti hai aur kaun si time limits matter karti hain."
    },
    {
     "en": "Recognise common trafficking tactics.",
-    "hi": "मानव तस्करी के आम हथकंडे पहचानना।",
     "hg": "Trafficking ke common tactics pehchanna."
    }
   ],
@@ -894,48 +767,40 @@
    {
     "h": {
      "en": "Intimate partner violence is about control",
-     "hi": "पार्टनर द्वारा हिंसा की जड़ नियंत्रण है",
      "hg": "Intimate partner violence ka asli matlab control hai"
     },
     "body": {
      "en": "Intimate partner violence is a pattern of behaviour by a current or former partner that causes harm or takes away your freedom. Physical: hitting, choking, throwing things. Emotional: insults, humiliation, threats to leave or to hurt themselves, constant blame. Sexual: pressure or force for any sexual act. Financial: taking your money, or stopping you from studying or working. Digital: demanding passwords, tracking your location, threatening to leak photos. It often cycles through tension, an incident, then apologies and affection, which is one reason leaving is hard. It happens in dating and in marriage, and to people of every gender.",
-     "hi": "पार्टनर द्वारा हिंसा (intimate partner violence) मौजूदा या पुराने पार्टनर के बर्ताव का ऐसा सिलसिला है जो नुक़सान पहुँचाता है या आपकी आज़ादी छीनता है। शारीरिक: मारना, गला दबाना, चीज़ें फेंकना। भावनात्मक: अपमान, नीचा दिखाना, छोड़ देने या ख़ुद को चोट पहुँचाने की धमकी, हर बात का दोष आप पर डालना। यौन: किसी भी यौन कृत्य के लिए दबाव या ज़बरदस्ती। आर्थिक: आपका पैसा ले लेना, या पढ़ने और काम करने से रोकना। डिजिटल: पासवर्ड माँगना, लोकेशन ट्रैक करना, फ़ोटो लीक करने की धमकी देना। अक्सर इसका एक चक्र चलता है: तनाव, फिर घटना, फिर माफ़ी और प्यार, और यही एक वजह है कि निकलना मुश्किल होता है। यह डेटिंग में भी होता है और शादी में भी, और हर जेंडर के लोगों के साथ।",
      "hg": "Intimate partner violence current ya ex partner ke behaviour ka aisa pattern hai jo harm karta hai ya aapki freedom chheenta hai. Physical: maarna, gala dabana, cheezein phenkna. Emotional: insult, humiliation, chhod dene ya khud ko hurt karne ki dhamki, har baat ka blame aap par. Sexual: kisi bhi sexual act ke liye pressure ya zabardasti. Financial: aapka paisa le lena, ya padhne aur kaam karne se rokna. Digital: passwords maangna, location track karna, photos leak karne ki dhamki. Aksar iski ek cycle chalti hai: tension, phir incident, phir sorry aur pyaar, aur yahi ek reason hai ki nikalna mushkil hota hai. Yeh dating mein bhi hota hai aur shaadi mein bhi, aur har gender ke logon ke saath."
     }
    },
    {
     "h": {
      "en": "Domestic violence and the law",
-     "hi": "घरेलू हिंसा और क़ानून",
      "hg": "Domestic violence aur kanoon"
     },
     "body": {
      "en": "Domestic violence is abuse inside a home or family: by a husband, in-laws, parents, siblings or a live-in partner. Children who watch it are harmed too, even if nobody touches them. The Protection of Women from Domestic Violence Act, 2005 covers physical, sexual, verbal, emotional and economic abuse of women in a domestic relationship, and courts can order protection, the right to stay in the shared home and maintenance. Men, boys and LGBTQ+ people also face family violence; they can use the general criminal law, helplines and counselling. Women can call 181, anyone can call 112, and children can call 1098.",
-     "hi": "घरेलू हिंसा घर या परिवार के भीतर होने वाला दुर्व्यवहार है: पति, ससुराल वालों, माता-पिता, भाई-बहन या लिव-इन पार्टनर की ओर से। जो बच्चे इसे देखते हैं उन्हें भी नुक़सान पहुँचता है, भले ही उन्हें कोई हाथ न लगाए। घरेलू हिंसा से महिलाओं का संरक्षण अधिनियम, 2005 घरेलू रिश्ते में रह रही महिलाओं के साथ शारीरिक, यौन, मौखिक, भावनात्मक और आर्थिक दुर्व्यवहार को कवर करता है, और अदालत सुरक्षा, साझा घर में रहने के अधिकार और गुज़ारे-भत्ते का आदेश दे सकती है। पुरुष, लड़के और LGBTQ+ लोग भी पारिवारिक हिंसा झेलते हैं; वे सामान्य आपराधिक क़ानून, हेल्पलाइन और काउंसलिंग का सहारा ले सकते हैं। महिलाएँ 181 पर, कोई भी 112 पर और बच्चे 1098 पर कॉल कर सकते हैं।",
      "hg": "Domestic violence ghar ya family ke andar hone wala abuse hai: husband, sasural wale, parents, siblings ya live-in partner ki taraf se. Jo bachche ise dekhte hain unhe bhi harm hota hai, chahe unhe koi haath na lagaye. Protection of Women from Domestic Violence Act, 2005 domestic relationship mein reh rahi women ke saath physical, sexual, verbal, emotional aur economic abuse ko cover karta hai, aur court protection, shared ghar mein rehne ka right aur maintenance ka order de sakti hai. Men, boys aur LGBTQ+ log bhi family violence face karte hain; woh general criminal law, helplines aur counselling ka sahara le sakte hain. Women 181 par, koi bhi 112 par aur bachche 1098 par call kar sakte hain."
     }
    },
    {
     "h": {
      "en": "Sexual assault: what help exists",
-     "hi": "यौन हमला: कौन सी मदद मौजूद है",
      "hg": "Sexual assault: kaun si help available hai"
     },
     "body": {
      "en": "Sexual assault is any sexual act done without consent. It is most often committed by someone the person knows, and nothing a person wore, drank or said makes it their fault. Afterwards, safety comes first, then medical care, which matters even when there is no visible injury. Medicine to prevent HIV (PEP) has to start within 72 hours, and emergency contraception works up to 5 days, the sooner the better. Hospitals are required to treat survivors of sexual assault free of charge. If possible, not bathing or changing clothes before the examination helps preserve evidence, but care is given either way, and support is still available weeks or years later.",
-     "hi": "यौन हमला वह कोई भी यौन कृत्य है जो बिना सहमति के किया जाए। ज़्यादातर मामलों में करने वाला कोई जान-पहचान का होता है, और किसी ने क्या पहना, क्या पिया या क्या कहा, इससे दोष उसका नहीं हो जाता। इसके बाद सबसे पहले सुरक्षा, फिर इलाज, जो तब भी ज़रूरी है जब कोई चोट दिखाई न दे। एचआईवी से बचाव की दवा (PEP) 72 घंटे के भीतर शुरू करनी होती है, और इमरजेंसी गर्भनिरोधक 5 दिन तक काम करता है, जितना जल्दी उतना बेहतर। अस्पतालों के लिए ज़रूरी है कि वे यौन हमले के सर्वाइवर का इलाज मुफ़्त करें। हो सके तो जाँच से पहले न नहाना और कपड़े न बदलना सबूत बचाने में मदद करता है, लेकिन इलाज हर हाल में मिलता है, और हफ़्तों या बरसों बाद भी सहारा मिल सकता है।",
      "hg": "Sexual assault woh koi bhi sexual act hai jo bina consent ke kiya jaye. Zyada-tar cases mein karne wala koi jaan-pehchaan ka hota hai, aur kisi ne kya pehna, kya piya ya kya bola, isse fault uska nahi ho jaata. Iske baad sabse pehle safety, phir medical care, jo tab bhi zaroori hai jab koi injury dikhe na. HIV se bachav ki medicine (PEP) 72 ghante ke andar start karni hoti hai, aur emergency contraception 5 din tak kaam karta hai, jitna jaldi utna better. Hospitals ke liye zaroori hai ki woh sexual assault survivors ka treatment free karein. Ho sake toh examination se pehle na nahana aur kapde na badalna evidence bachane mein help karta hai, lekin care har haal mein milti hai, aur hafton ya saalon baad bhi support mil sakta hai."
     }
    },
    {
     "h": {
      "en": "Trafficking: when an offer is a trap",
-     "hi": "मानव तस्करी: जब पेशकश ही जाल हो",
      "hg": "Trafficking: jab offer hi trap ho"
     },
     "body": {
      "en": "Human trafficking means recruiting, moving or holding a person through deception, force or debt to exploit them, for example in forced labour, forced marriage, begging or commercial sexual exploitation. It rarely looks like a kidnapping. Usually it is an offer: a job in another city, a modelling or acting break, a marriage proposal, a 'sponsor' abroad. Warning signs are pressure to decide fast, vague details, someone else holding your ID or phone, travel costs that become debt, and being told not to tell your family. Verify offers independently, keep your own documents, share your live location with someone you trust, and call 112 or 1098 if something feels wrong.",
-     "hi": "मानव तस्करी का मतलब है किसी व्यक्ति को धोखे, ज़बरदस्ती या क़र्ज़ के ज़रिए भर्ती करना, एक जगह से दूसरी जगह ले जाना या रोककर रखना, ताकि उसका शोषण किया जा सके, जैसे जबरन मज़दूरी, जबरन शादी, भीख मँगवाना या व्यावसायिक यौन शोषण। यह शायद ही कभी अपहरण जैसा दिखता है। ज़्यादातर यह एक पेशकश होती है: दूसरे शहर में नौकरी, मॉडलिंग या ऐक्टिंग का मौक़ा, शादी का रिश्ता, विदेश में कोई 'स्पॉन्सर'। चेतावनी के संकेत हैं: जल्दी फ़ैसला करने का दबाव, अधूरी जानकारी, आपका पहचान-पत्र या फ़ोन किसी और के पास होना, सफ़र का ख़र्च जो क़र्ज़ बन जाए, और परिवार को न बताने की हिदायत। हर पेशकश की ख़ुद अलग से जाँच करें, अपने दस्तावेज़ अपने पास रखें, किसी भरोसेमंद व्यक्ति से लाइव लोकेशन साझा करें, और कुछ ग़लत लगे तो 112 या 1098 पर कॉल करें।",
      "hg": "Human trafficking ka matlab hai kisi insaan ko dhoke, zabardasti ya karz ke through recruit karna, ek jagah se doosri jagah le jaana ya rokkar rakhna, taaki uska exploitation kiya ja sake, jaise forced labour, forced marriage, bheekh mangwana ya commercial sexual exploitation. Yeh shayad hi kabhi kidnapping jaisa dikhta hai. Zyada-tar yeh ek offer hota hai: doosre sheher mein job, modelling ya acting ka break, shaadi ka rishta, abroad mein koi 'sponsor'. Warning signs hain: jaldi decide karne ka pressure, vague details, aapka ID ya phone kisi aur ke paas hona, travel ka kharcha jo karz ban jaye, aur family ko na batane ki hidayat. Har offer ko khud independently verify karo, apne documents apne paas rakho, kisi trusted insaan ke saath live location share karo, aur kuch galat lage toh 112 ya 1098 par call karo."
     }
    }
@@ -943,35 +808,29 @@
   "myth": {
    "claim": {
     "en": "If it were really that bad, they would just leave.",
-    "hi": "अगर सच में इतना बुरा होता, तो वे छोड़कर चले जाते।",
     "hg": "Agar sach mein itna bura hota, toh woh chhodkar chale jaate."
    },
    "fact": {
     "en": "Leaving an abusive partner or home is hard and can be dangerous. People stay because of fear, money, children, family pressure, love and the hope that the person will change. Staying is not consent to abuse, and support should never depend on leaving.",
-    "hi": "हिंसक पार्टनर या घर को छोड़ना मुश्किल है और ख़तरनाक भी हो सकता है। लोग डर, पैसे, बच्चों, परिवार के दबाव, प्यार और इस उम्मीद की वजह से रुकते हैं कि सामने वाला बदल जाएगा। रुके रहना हिंसा के लिए सहमति नहीं है, और मदद कभी इस शर्त पर नहीं टिकनी चाहिए कि व्यक्ति छोड़कर जाए।",
     "hg": "Abusive partner ya ghar ko chhodna mushkil hai aur dangerous bhi ho sakta hai. Log darr, paise, bachchon, family pressure, pyaar aur is hope ki wajah se rukte hain ki saamne wala badal jayega. Ruke rehna abuse ke liye consent nahi hai, aur support kabhi is condition par nahi hona chahiye ki insaan chhodkar jaye."
    }
   },
   "takeaways": [
    {
     "en": "Abuse is a pattern of control, and it can be emotional, sexual, financial or digital without a single bruise.",
-    "hi": "दुर्व्यवहार नियंत्रण का एक सिलसिला है, और यह बिना एक भी चोट के भावनात्मक, यौन, आर्थिक या डिजिटल हो सकता है।",
     "hg": "Abuse control ka ek pattern hai, aur yeh bina ek bhi chot ke emotional, sexual, financial ya digital ho sakta hai."
    },
    {
     "en": "After sexual assault, medical care is time-sensitive: PEP within 72 hours and emergency contraception within 5 days.",
-    "hi": "यौन हमले के बाद इलाज में समय अहम है: PEP 72 घंटे के भीतर और इमरजेंसी गर्भनिरोधक 5 दिन के भीतर।",
     "hg": "Sexual assault ke baad medical care time-sensitive hai: PEP 72 ghante ke andar aur emergency contraception 5 din ke andar."
    },
    {
     "en": "Trafficking usually begins with a tempting offer rather than a kidnapping, so verify offers and keep your own documents.",
-    "hi": "तस्करी आम तौर पर अपहरण से नहीं, लुभावनी पेशकश से शुरू होती है, इसलिए पेशकश की जाँच करें और अपने दस्तावेज़ अपने पास रखें।",
     "hg": "Trafficking usually kidnapping se nahi, tempting offer se start hoti hai, isliye offers verify karo aur apne documents apne paas rakho."
    }
   ],
   "activity": {
    "en": "Somewhere private, note three people you could contact and one place you could go if you ever felt unsafe at home or with a partner. Save 112, 181 and 1098 in your phone.",
-   "hi": "किसी निजी जगह पर ऐसे तीन लोगों के नाम लिखें जिनसे आप संपर्क कर सकें, और एक जगह जहाँ आप जा सकें, अगर कभी घर पर या पार्टनर के साथ असुरक्षित महसूस हो। अपने फ़ोन में 112, 181 और 1098 सेव करें।",
    "hg": "Kisi private jagah par aise teen logon ke naam note karo jinse aap contact kar sako, aur ek jagah jahan aap ja sako, agar kabhi ghar par ya partner ke saath unsafe feel ho. Apne phone mein 112, 181 aur 1098 save karo."
   },
   "interactive": "relationship_radar",
@@ -981,35 +840,29 @@
     "type": "mcq",
     "q": {
      "en": "Which of these is an example of financial abuse?",
-     "hi": "इनमें से कौन सा आर्थिक दुर्व्यवहार का उदाहरण है?",
      "hg": "Inme se kaun sa financial abuse ka example hai?"
     },
     "options": [
      {
       "en": "A partner suggesting that you both save for a trip",
-      "hi": "पार्टनर का सुझाव कि दोनों मिलकर घूमने के लिए बचत करें",
       "hg": "Partner ka suggestion ki dono milkar trip ke liye saving karein"
      },
      {
       "en": "A partner disagreeing with how you spent your own money",
-      "hi": "पार्टनर का इस बात से असहमत होना कि आपने अपना पैसा कैसे ख़र्च किया",
       "hg": "Partner ka is baat se disagree karna ki aapne apna paisa kaise kharch kiya"
      },
      {
       "en": "Parents asking a working adult child to share the rent",
-      "hi": "माता-पिता का कमाने वाली वयस्क संतान से किराए में हिस्सा माँगना",
       "hg": "Parents ka kamane wale adult bachche se rent mein hissa maangna"
      },
      {
       "en": "A partner taking your earnings and deciding whether you may study or work",
-      "hi": "पार्टनर का आपकी कमाई ले लेना और यह तय करना कि आप पढ़ेंगे या काम करेंगे या नहीं",
       "hg": "Partner ka aapki kamai le lena aur yeh decide karna ki aap padhoge ya kaam karoge ya nahi"
      }
     ],
     "answer": 3,
     "explain": {
      "en": "Financial abuse is using money to control someone: taking their income or blocking their education and work so that they cannot be independent.",
-     "hi": "आर्थिक दुर्व्यवहार का मतलब है पैसे के ज़रिए किसी को क़ाबू में रखना: उसकी कमाई ले लेना या पढ़ाई और काम रोक देना ताकि वह आत्मनिर्भर न हो सके।",
      "hg": "Financial abuse ka matlab hai paise ke through kisi ko control karna: uski income le lena ya padhai aur kaam rok dena taaki woh independent na ho sake."
     }
    },
@@ -1018,25 +871,21 @@
     "type": "tf",
     "q": {
      "en": "Medicine to prevent HIV after an assault (PEP) can be started at any time within a month.",
-     "hi": "हमले के बाद एचआईवी से बचाव की दवा (PEP) एक महीने के भीतर कभी भी शुरू की जा सकती है।",
      "hg": "Assault ke baad HIV se bachav ki medicine (PEP) ek mahine ke andar kabhi bhi start ki ja sakti hai."
     },
     "options": [
      {
       "en": "True",
-      "hi": "सही",
       "hg": "Sahi"
      },
      {
       "en": "False",
-      "hi": "ग़लत",
       "hg": "Galat"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "PEP needs urgent medical assessment and must be started as early as possible, no later than 72 hours after the exposure. It is then taken for 28 days.",
-     "hi": "PEP के लिए तुरंत डॉक्टरी जाँच ज़रूरी है और इसे जल्द से जल्द, संपर्क के 72 घंटे के भीतर शुरू करना होता है। फिर इसे 28 दिन तक लिया जाता है।",
      "hg": "PEP ke liye urgent medical assessment chahiye aur ise jaldi se jaldi, exposure ke 72 ghante ke andar start karna hota hai. Phir ise 28 din tak liya jaata hai."
     }
    }
@@ -1050,7 +899,6 @@
   ],
   "warning": {
    "en": "In immediate danger, call 112. After a sexual assault, reach a hospital as early as you can: HIV-prevention medicine must start within 72 hours and emergency contraception works up to 5 days.",
-   "hi": "तुरंत ख़तरा हो तो 112 पर कॉल करें। यौन हमले के बाद जितनी जल्दी हो सके अस्पताल पहुँचें: एचआईवी से बचाव की दवा 72 घंटे के भीतर शुरू करनी होती है और इमरजेंसी गर्भनिरोधक 5 दिन तक काम करता है।",
    "hg": "Immediate danger ho toh 112 par call karo. Sexual assault ke baad jitni jaldi ho sake hospital pahuncho: HIV-prevention medicine 72 ghante ke andar start karni hoti hai aur emergency contraception 5 din tak kaam karta hai."
   },
   "sensitive": true,
@@ -1077,33 +925,27 @@
   ],
   "title": {
    "en": "Helping a Friend, Reporting and Your Rights",
-   "hi": "दोस्त की मदद, शिकायत और तुम्हारे अधिकार",
    "hg": "Dost ki Help, Reporting aur Tumhare Rights"
   },
   "subtitle": {
    "en": "What to say, who to call, what you are owed",
-   "hi": "क्या कहना है, किसे कॉल करना है, तुम्हारा हक़ क्या है",
    "hg": "Kya bolna hai, kisko call karna hai, tumhara haq kya hai"
   },
   "hook": {
    "en": "You do not have to be a hero or a lawyer. You have to believe your friend and know the next step.",
-   "hi": "तुम्हें न हीरो बनना है, न वकील। बस अपने दोस्त पर यक़ीन करना है और अगला क़दम जानना है।",
    "hg": "Tumhe na hero banna hai, na lawyer. Bas apne dost par yakeen karna hai aur next step pata hona chahiye."
   },
   "objectives": [
    {
     "en": "Use safe bystander options when you see harassment.",
-    "hi": "उत्पीड़न होते देखने पर सुरक्षित तरीक़ों से दख़ल देना।",
     "hg": "Harassment hote dekho toh safe bystander options use karna."
    },
    {
     "en": "Respond to a friend's disclosure without blame or pressure.",
-    "hi": "दोस्त के बताने पर बिना दोष दिए और बिना दबाव डाले जवाब देना।",
     "hg": "Dost ke batane par bina blame aur bina pressure ke respond karna."
    },
    {
     "en": "Explain how reporting works, the limits of confidentiality and the rights of survivors.",
-    "hi": "समझाना कि शिकायत कैसे होती है, गोपनीयता की सीमाएँ क्या हैं और सर्वाइवर के अधिकार क्या हैं।",
     "hg": "Samjhana ki reporting kaise hoti hai, confidentiality ki limits kya hain aur survivors ke rights kya hain."
    }
   ],
@@ -1114,48 +956,40 @@
    {
     "h": {
      "en": "Being an active bystander",
-     "hi": "तमाशबीन नहीं, मददगार बनना",
      "hg": "Active bystander banna"
     },
     "body": {
      "en": "When you see harassment or bullying, you have more options than fighting or filming. Distract: interrupt casually, ask the person being targeted for the time or pretend you know them. Delegate: bring in a teacher, bus conductor, guard or other adults. Delay: check on the person afterwards and ask what they need. Document: note the time, place and what happened, and give it to the person harmed; never post it. Direct: say 'Stop, that's not okay', only if it is safe. Your own safety comes first. Even a small interruption tells the person they are not alone.",
-     "hi": "जब तुम उत्पीड़न या बुलीइंग होते देखो, तो लड़ने या वीडियो बनाने के अलावा भी रास्ते हैं। ध्यान भटकाओ: यूँ ही बीच में आ जाओ, जिसे परेशान किया जा रहा है उससे समय पूछो या ऐसे बात करो जैसे उसे जानते हो। मदद बुलाओ: टीचर, बस कंडक्टर, गार्ड या दूसरे बड़ों को शामिल करो। बाद में पूछो: घटना के बाद उस व्यक्ति का हाल पूछो और पूछो कि उसे क्या चाहिए। दर्ज करो: समय, जगह और जो हुआ वह नोट करो और उसी व्यक्ति को दो जिसे नुक़सान पहुँचा; कभी पोस्ट मत करो। सीधे बोलो: कहो 'रुको, यह ठीक नहीं है', पर तभी जब ऐसा करना सुरक्षित हो। तुम्हारी अपनी सुरक्षा सबसे पहले है। छोटा-सा दख़ल भी उस व्यक्ति को बता देता है कि वह अकेला नहीं है।",
      "hg": "Jab tum harassment ya bullying hote dekho, toh ladne ya video banane ke alawa bhi options hain. Distract: casually beech mein aa jao, jise target kiya ja raha hai usse time poocho ya aise baat karo jaise use jaante ho. Delegate: teacher, bus conductor, guard ya doosre adults ko involve karo. Delay: baad mein us insaan ka haal poocho aur poocho ki use kya chahiye. Document: time, jagah aur jo hua woh note karo aur usi insaan ko do jise harm hua; kabhi post mat karo. Direct: bolo 'Stop, yeh theek nahi hai', par tabhi jab aisa karna safe ho. Tumhari apni safety sabse pehle hai. Chhota sa interruption bhi us insaan ko bata deta hai ki woh akela nahi hai."
     }
    },
    {
     "h": {
      "en": "When a friend tells you",
-     "hi": "जब कोई दोस्त तुम्हें बताए",
      "hg": "Jab koi dost tumhe bataye"
     },
     "body": {
      "en": "If a friend tells you they were harassed or abused, how you react in the first minute matters. Listen without interrupting. Say: 'I believe you', 'It's not your fault', 'Thank you for telling me'. Do not ask why they didn't run, what they were wearing or why they waited. Do not demand details, confront the person or spread it in the group. People react to trauma differently: crying, laughing, going numb, forgetting parts, staying friendly with the person. All of that is normal. Ask what they want next and help them reach a safe adult. Look after yourself too; you can also talk to an adult.",
-     "hi": "अगर कोई दोस्त तुम्हें बताए कि उसका उत्पीड़न या शोषण हुआ है, तो पहले एक मिनट में तुम्हारी प्रतिक्रिया बहुत मायने रखती है। बिना टोके सुनो। कहो: 'मुझे तुम पर यक़ीन है', 'यह तुम्हारी ग़लती नहीं है', 'मुझे बताने के लिए शुक्रिया'। यह मत पूछो कि वह भागा क्यों नहीं, उसने क्या पहना था या इतने दिन क्यों रुका। ब्योरा मत माँगो, उस व्यक्ति से भिड़ने मत जाओ और बात ग्रुप में मत फैलाओ। सदमे पर हर कोई अलग तरह से प्रतिक्रिया करता है: रोना, हँसना, सुन्न पड़ जाना, कुछ हिस्से भूल जाना, उस व्यक्ति से सामान्य बर्ताव करते रहना। यह सब सामान्य है। पूछो कि वह आगे क्या चाहता है, और उसे किसी सुरक्षित बड़े तक पहुँचने में मदद करो। अपना भी ध्यान रखो; तुम भी किसी बड़े से बात कर सकते हो।",
      "hg": "Agar koi dost tumhe bataye ki uske saath harassment ya abuse hua hai, toh pehle ek minute mein tumhara reaction bahut matter karta hai. Bina toke suno. Bolo: 'Mujhe tum par yakeen hai', 'Yeh tumhari galti nahi hai', 'Mujhe batane ke liye thank you'. Yeh mat poocho ki woh bhaaga kyun nahi, usne kya pehna tha ya itne din kyun ruka. Details mat maango, us insaan ko confront karne mat jao aur baat group mein mat failao. Trauma par har koi alag tarah se react karta hai: rona, hansna, numb ho jaana, kuch parts bhool jaana, us insaan ke saath normal behave karte rehna. Yeh sab normal hai. Poocho ki woh aage kya chahta hai, aur use kisi safe adult tak pahunchne mein help karo. Apna bhi dhyaan rakho; tum bhi kisi adult se baat kar sakte ho."
     }
    },
    {
     "h": {
      "en": "Reporting and the limits of secrecy",
-     "hi": "शिकायत और गोपनीयता की सीमाएँ",
      "hg": "Reporting aur secrecy ki limits"
     },
     "body": {
      "en": "Help can start with one call: 1098 for children, 112 for emergencies, 181 for women, 1930 or cybercrime.gov.in for online abuse. A complaint can be made at any police station, wherever the incident happened. Be honest with your friend about one thing: when a person under 18 is sexually abused, the law requires adults who know about it, including doctors, teachers and counsellors, to inform the police. So they can keep it private from classmates and neighbours, but they cannot promise total secrecy. A good counsellor explains this before you share and tells you what happens next. An adult survivor decides for themselves whether to file a police complaint.",
-     "hi": "मदद एक कॉल से शुरू हो सकती है: बच्चों के लिए 1098, इमरजेंसी के लिए 112, महिलाओं के लिए 181, ऑनलाइन शोषण के लिए 1930 या cybercrime.gov.in। शिकायत किसी भी थाने में की जा सकती है, घटना चाहे कहीं भी हुई हो। अपने दोस्त से एक बात ईमानदारी से कहो: जब 18 से कम उम्र के किसी व्यक्ति का यौन शोषण होता है, तो क़ानून के मुताबिक़ जिन बड़ों को इसका पता हो, डॉक्टर, टीचर और काउंसलर समेत, उन्हें पुलिस को सूचना देनी होती है। इसलिए वे बात को सहपाठियों और पड़ोसियों से छिपाकर रख सकते हैं, लेकिन पूरी गोपनीयता का वादा नहीं कर सकते। अच्छा काउंसलर यह बात तुम्हारे कुछ बताने से पहले ही समझा देता है और बताता है कि आगे क्या होगा। वयस्क सर्वाइवर ख़ुद तय करता है कि पुलिस में शिकायत दर्ज करानी है या नहीं।",
      "hg": "Help ek call se start ho sakti hai: bachchon ke liye 1098, emergency ke liye 112, women ke liye 181, online abuse ke liye 1930 ya cybercrime.gov.in. Complaint kisi bhi police station mein ki ja sakti hai, incident chahe kahin bhi hua ho. Apne dost se ek baat honestly bolo: jab 18 se kam umar ke kisi insaan ka sexual abuse hota hai, toh law ke hisaab se jin adults ko pata ho, doctors, teachers aur counsellors bhi, unhe police ko inform karna hota hai. Isliye woh baat ko classmates aur padosiyon se private rakh sakte hain, lekin total secrecy ka promise nahi kar sakte. Achha counsellor yeh baat tumhare kuch share karne se pehle hi samjha deta hai aur batata hai ki aage kya hoga. Adult survivor khud decide karta hai ki police complaint file karni hai ya nahi."
     }
    },
    {
     "h": {
      "en": "Survivors' rights and professional care",
-     "hi": "सर्वाइवर के अधिकार और पेशेवर मदद",
      "hg": "Survivors ke rights aur professional care"
     },
     "body": {
      "en": "A survivor has rights. Their name and identity must not be published by the media or shared publicly. A child's statement is meant to be recorded in a child-friendly way, with a parent or another trusted person present. Hospitals must give medical care, and women and children are entitled to free legal aid. Healing often needs professionals: a doctor for the body, and a counsellor or psychologist for sleep problems, fear, flashbacks or guilt. Tele-MANAS on 14416 offers free mental-health support, and One Stop Centres, reached through 181, bring medical, legal and counselling help together for women. Seeking help late is still seeking help.",
-     "hi": "सर्वाइवर के अधिकार होते हैं। उनका नाम और पहचान मीडिया में छापी या सार्वजनिक नहीं की जा सकती। बच्चे का बयान बच्चे के अनुकूल तरीक़े से दर्ज होना चाहिए, माता-पिता या किसी और भरोसेमंद व्यक्ति की मौजूदगी में। अस्पतालों को इलाज देना ही होता है, और महिलाओं व बच्चों को मुफ़्त क़ानूनी सहायता का हक़ है। उबरने के लिए अक्सर पेशेवरों की ज़रूरत पड़ती है: शरीर के लिए डॉक्टर, और नींद की दिक़्क़त, डर, बार-बार याद आने या अपराधबोध के लिए काउंसलर या मनोवैज्ञानिक। टेली-मानस 14416 पर मुफ़्त मानसिक स्वास्थ्य सहायता देता है, और 181 के ज़रिए मिलने वाले वन स्टॉप सेंटर महिलाओं को चिकित्सा, क़ानूनी और काउंसलिंग की मदद एक ही जगह देते हैं। देर से मदद माँगना भी मदद माँगना ही है।",
      "hg": "Survivor ke rights hote hain. Unka naam aur identity media mein publish ya publicly share nahi ki ja sakti. Bachche ka statement child-friendly tareeke se record hona chahiye, parent ya kisi aur trusted insaan ki maujoodgi mein. Hospitals ko medical care deni hi hoti hai, aur women aur bachchon ko free legal aid ka haq hai. Heal hone ke liye aksar professionals chahiye hote hain: body ke liye doctor, aur neend ki problem, darr, flashbacks ya guilt ke liye counsellor ya psychologist. Tele-MANAS 14416 par free mental-health support deta hai, aur 181 ke through milne wale One Stop Centres women ko medical, legal aur counselling help ek hi jagah dete hain. Der se help maangna bhi help maangna hi hai."
     }
    }
@@ -1163,35 +997,29 @@
   "myth": {
    "claim": {
     "en": "A real friend promises to keep it secret no matter what.",
-    "hi": "सच्चा दोस्त हर हाल में राज़ रखने का वादा करता है।",
     "hg": "Sachcha dost har haal mein secret rakhne ka promise karta hai."
    },
    "fact": {
     "en": "A real friend keeps it away from gossip but does not carry a dangerous secret alone. If someone is being abused or is at risk, involving a safe adult or calling 1098 is how you protect them.",
-    "hi": "सच्चा दोस्त बात को गपशप से दूर रखता है, पर ख़तरनाक राज़ अकेले नहीं ढोता। अगर किसी का शोषण हो रहा है या वह ख़तरे में है, तो किसी सुरक्षित बड़े को शामिल करना या 1098 पर कॉल करना ही उसकी रक्षा का तरीक़ा है।",
     "hg": "Sachcha dost baat ko gossip se door rakhta hai, par dangerous secret akele carry nahi karta. Agar kisi ka abuse ho raha hai ya woh risk mein hai, toh kisi safe adult ko involve karna ya 1098 par call karna hi use protect karne ka tareeka hai."
    }
   },
   "takeaways": [
    {
     "en": "You can distract, delegate, delay, document or speak up directly, as long as you keep yourself safe.",
-    "hi": "तुम ध्यान भटका सकते हो, मदद बुला सकते हो, बाद में हाल पूछ सकते हो, दर्ज कर सकते हो या सीधे बोल सकते हो, बशर्ते ख़ुद सुरक्षित रहो।",
     "hg": "Tum distract, delegate, delay, document ya directly bol sakte ho, bas khud safe raho."
    },
    {
     "en": "The most helpful words to a friend are 'I believe you' and 'It's not your fault'.",
-    "hi": "दोस्त के लिए सबसे मददगार शब्द हैं 'मुझे तुम पर यक़ीन है' और 'यह तुम्हारी ग़लती नहीं है'।",
     "hg": "Dost ke liye sabse helpful words hain 'Mujhe tum par yakeen hai' aur 'Yeh tumhari galti nahi hai'."
    },
    {
     "en": "Help is reachable through 1098, 112, 181 or any police station, and nobody can honestly promise a minor total secrecy about sexual abuse.",
-    "hi": "मदद 1098, 112, 181 या किसी भी थाने से मिल सकती है, और कोई भी ईमानदारी से नाबालिग को यौन शोषण के बारे में पूरी गोपनीयता का वादा नहीं कर सकता।",
     "hg": "Help 1098, 112, 181 ya kisi bhi police station se mil sakti hai, aur koi bhi honestly minor ko sexual abuse ke baare mein total secrecy ka promise nahi kar sakta."
    }
   ],
   "activity": {
    "en": "Make a small safety card in your wallet or notes app: 112, 1098, 181, 14416, the numbers of two trusted adults and one safe place near your school or home. That is the start of an emergency plan.",
-   "hi": "अपने बटुए या नोट्स ऐप में एक छोटा सेफ़्टी कार्ड बनाओ: 112, 1098, 181, 14416, दो भरोसेमंद बड़ों के नंबर और स्कूल या घर के पास की एक सुरक्षित जगह। यही इमरजेंसी प्लान की शुरुआत है।",
    "hg": "Apne wallet ya notes app mein ek chhota safety card banao: 112, 1098, 181, 14416, do trusted adults ke numbers aur school ya ghar ke paas ki ek safe jagah. Yahi emergency plan ki shuruaat hai."
   },
   "interactive": "support_circle",
@@ -1201,35 +1029,29 @@
     "type": "scenario",
     "q": {
      "en": "Your friend Kabir tells you that an older cousin has been touching him in ways he hates. What is the best first thing to say?",
-     "hi": "तुम्हारा दोस्त कबीर बताता है कि एक बड़ा कज़िन उसे ऐसे छूता है जो उसे बिलकुल पसंद नहीं। सबसे पहले क्या कहना सबसे अच्छा होगा?",
      "hg": "Tumhara dost Kabir batata hai ki ek bada cousin use aise touch karta hai jo use bilkul pasand nahi. Sabse pehle kya bolna best hoga?"
     },
     "options": [
      {
       "en": "I believe you. It's not your fault. I'm glad you told me.",
-      "hi": "मुझे तुम पर यक़ीन है। यह तुम्हारी ग़लती नहीं है। अच्छा किया जो मुझे बताया।",
       "hg": "Mujhe tum par yakeen hai. Yeh tumhari galti nahi hai. Achha kiya jo mujhe bataya."
      },
      {
       "en": "Are you sure? That doesn't happen to boys.",
-      "hi": "पक्का? लड़कों के साथ ऐसा नहीं होता।",
       "hg": "Pakka? Ladkon ke saath aisa nahi hota."
      },
      {
       "en": "Why didn't you just stop him?",
-      "hi": "तुमने उसे रोका क्यों नहीं?",
       "hg": "Tumne use roka kyun nahi?"
      },
      {
       "en": "Let's go and confront him together tonight.",
-      "hi": "चलो आज रात हम दोनों मिलकर उससे भिड़ते हैं।",
       "hg": "Chalo aaj raat hum dono milkar use confront karte hain."
      }
     ],
     "answer": 0,
     "explain": {
      "en": "Being believed and not blamed is what helps most at first. After that, you can help him reach a safe adult or call 1098; confronting the person can put him at risk.",
-     "hi": "शुरुआत में सबसे ज़्यादा मदद इसी से मिलती है कि उस पर यक़ीन किया जाए और दोष न दिया जाए। उसके बाद तुम उसे किसी सुरक्षित बड़े तक पहुँचने या 1098 पर कॉल करने में मदद कर सकते हो; उस व्यक्ति से भिड़ना कबीर को ख़तरे में डाल सकता है।",
      "hg": "Shuru mein sabse zyada help isi se milti hai ki us par yakeen kiya jaye aur blame na kiya jaye. Uske baad tum use kisi safe adult tak pahunchne ya 1098 par call karne mein help kar sakte ho; us insaan ko confront karna Kabir ko risk mein daal sakta hai."
     }
    },
@@ -1238,25 +1060,21 @@
     "type": "tf",
     "q": {
      "en": "A counsellor cannot promise complete secrecy to a 15-year-old who reports sexual abuse.",
-     "hi": "काउंसलर यौन शोषण की बात बताने वाले 15 साल के किशोर को पूरी गोपनीयता का वादा नहीं कर सकता।",
      "hg": "Counsellor sexual abuse report karne wale 15 saal ke teen ko complete secrecy ka promise nahi kar sakta."
     },
     "options": [
      {
       "en": "True",
-      "hi": "सही",
       "hg": "Sahi"
      },
      {
       "en": "False",
-      "hi": "ग़लत",
       "hg": "Galat"
      }
     ],
     "answer": 0,
     "explain": {
      "en": "POCSO makes reporting mandatory when an adult learns of a sexual offence against a child, so honest professionals explain this limit before you share.",
-     "hi": "POCSO के तहत जब किसी बड़े को बच्चे के ख़िलाफ़ यौन अपराध का पता चलता है तो सूचना देना अनिवार्य है, इसलिए ईमानदार पेशेवर यह सीमा पहले ही बता देते हैं।",
      "hg": "POCSO ke under jab kisi adult ko bachche ke khilaaf sexual offence ka pata chalta hai toh report karna mandatory hai, isliye honest professionals yeh limit pehle hi bata dete hain."
     }
    }
@@ -1271,7 +1089,6 @@
   ],
   "warning": {
    "en": "If you or a friend are in danger right now, call 112. For children and teens, 1098 is free and open day and night. Laws can change; this is information, not legal advice.",
-   "hi": "अगर तुम या तुम्हारा दोस्त अभी ख़तरे में है, तो 112 पर कॉल करो। बच्चों और किशोरों के लिए 1098 मुफ़्त है और दिन-रात खुला है। क़ानून बदल सकते हैं; यह जानकारी है, क़ानूनी सलाह नहीं।",
    "hg": "Agar tum ya tumhara dost abhi danger mein hai, toh 112 par call karo. Bachchon aur teens ke liye 1098 free hai aur din-raat khula hai. Laws change ho sakte hain; yeh information hai, legal advice nahi."
   },
   "sensitive": true,
@@ -1298,33 +1115,27 @@
   ],
   "title": {
    "en": "Violence in the Name of Family",
-   "hi": "परिवार के नाम पर हिंसा",
    "hg": "Family ke Naam par Violence"
   },
   "subtitle": {
    "en": "Dowry, 'honour', forced marriage and acid attacks, without the excuses",
-   "hi": "दहेज, 'इज़्ज़त', जबरन शादी और तेज़ाब के हमले, बिना किसी बहाने के",
    "hg": "Dahej, 'izzat', forced marriage aur acid attacks, bina kisi bahane ke"
   },
   "hook": {
    "en": "Some of the worst violence in India is planned at home, by relatives, and then described as tradition, honour or 'a family matter'.",
-   "hi": "भारत में सबसे बुरी हिंसा का एक हिस्सा घर के भीतर, रिश्तेदारों द्वारा तय किया जाता है, और फिर उसे परंपरा, इज़्ज़त या 'घर का मामला' कह दिया जाता है।",
    "hg": "India mein sabse buri violence ka ek hissa ghar ke andar, rishtedaaron dwara plan hota hai, aur phir use tradition, izzat ya 'ghar ka maamla' bol diya jaata hai."
   },
   "objectives": [
    {
     "en": "Recognise dowry abuse, 'honour' violence, forced marriage, child marriage and acid attacks as crimes, not customs.",
-    "hi": "दहेज उत्पीड़न, 'इज़्ज़त' के नाम पर हिंसा, जबरन शादी, बाल विवाह और तेज़ाब के हमलों को रिवाज नहीं, अपराध के रूप में पहचानना।",
     "hg": "Dahej abuse, 'izzat' ke naam par violence, forced marriage, child marriage aur acid attacks ko custom nahi, crime ke roop mein pehchanna."
    },
    {
     "en": "Understand why families hide this violence and why silence protects the person doing harm.",
-    "hi": "समझना कि परिवार इस हिंसा को क्यों छिपाते हैं और चुप्पी नुक़सान पहुँचाने वाले को ही क्यों बचाती है।",
     "hg": "Samajhna ki families is violence ko kyun chhupati hain aur chuppi harm karne wale ko hi kyun bachati hai."
    },
    {
     "en": "Know who to contact: 112, 181, 1098, the police, Protection Officers and free legal aid on 15100.",
-    "hi": "जानना कि किससे संपर्क करें: 112, 181, 1098, पुलिस, संरक्षण अधिकारी (Protection Officer) और 15100 पर मुफ़्त क़ानूनी सहायता।",
     "hg": "Jaanna ki kisse contact karna hai: 112, 181, 1098, police, Protection Officers aur 15100 par free legal aid."
    }
   ],
@@ -1333,48 +1144,40 @@
    {
     "h": {
      "en": "Dowry: a demand that does not stop at the wedding",
-     "hi": "दहेज: वह माँग जो शादी के साथ ख़त्म नहीं होती",
      "hg": "Dahej: woh demand jo shaadi ke saath khatam nahi hoti"
     },
     "body": {
      "en": "Dowry is money, gold, vehicles or property demanded from a bride's family for a marriage. Giving, taking and demanding it are all illegal in India, yet it remains common, renamed 'gifts' or 'custom'. The demand rarely ends with the wedding. It can continue for years as taunts, withheld money, beatings and threats to send the woman back, and in the worst cases it ends in her death. The husband and his relatives, women as well as men, can take part. Dowry also traps men: sons are priced like assets, and those who refuse are often overruled by their families. Cruelty to a wife and dowry deaths are serious crimes.",
-     "hi": "दहेज वह पैसा, सोना, गाड़ी या जायदाद है जो शादी के लिए दुल्हन के परिवार से माँगी जाती है। भारत में दहेज देना, लेना और माँगना तीनों ग़ैरक़ानूनी हैं, फिर भी यह आम है, बस नाम बदलकर 'तोहफ़ा' या 'रिवाज' हो जाता है। माँग शादी के साथ शायद ही ख़त्म होती है। वह बरसों तक तानों, पैसा रोकने, मारपीट और मायके वापस भेज देने की धमकियों के रूप में चल सकती है, और सबसे बुरे मामलों में महिला की मौत पर ख़त्म होती है। पति और उसके रिश्तेदार, औरतें भी और मर्द भी, इसमें शामिल हो सकते हैं। दहेज पुरुषों को भी फँसाता है: बेटों की क़ीमत संपत्ति की तरह लगाई जाती है, और जो मना करते हैं उनकी बात अक्सर उनका परिवार ही नहीं मानता। पत्नी के साथ क्रूरता और दहेज मृत्यु गंभीर अपराध हैं।",
      "hg": "Dahej woh paisa, sona, gaadi ya property hai jo shaadi ke liye dulhan ki family se maangi jaati hai. India mein dahej dena, lena aur maangna teeno illegal hain, phir bhi yeh common hai, bas naam badalkar 'gifts' ya 'rivaaz' ho jaata hai. Demand shaadi ke saath shayad hi khatam hoti hai. Woh saalon tak taanon, paisa rokne, maarpeet aur maayke wapas bhej dene ki dhamkiyon ke roop mein chal sakti hai, aur worst cases mein woman ki maut par khatam hoti hai. Husband aur uske rishtedaar, women bhi aur men bhi, isme shaamil ho sakte hain. Dahej men ko bhi trap karta hai: beton ka price assets ki tarah lagaya jaata hai, aur jo mana karte hain unki baat aksar unki family hi nahi maanti. Wife ke saath cruelty aur dowry deaths serious crimes hain."
     }
    },
    {
     "h": {
      "en": "Punished for choosing: 'honour' violence and acid attacks",
-     "hi": "अपनी पसंद की सज़ा: 'इज़्ज़त' के नाम पर हिंसा और तेज़ाब के हमले",
      "hg": "Apni choice ki saza: 'izzat' ke naam par violence aur acid attacks"
     },
     "body": {
      "en": "'Honour' violence is harm done by relatives, sometimes backed by community groups, to punish someone for choosing a partner of another caste, religion or the same gender, or for refusing a match. It includes confinement, beatings and murder, and young men are killed as well as young women. The word 'honour' only hides a crime. The Supreme Court has said two adults need nobody's approval to choose each other, and that police must protect them. Acid attacks follow the same logic of punishment, often after a rejected proposal. Many survivors are women who said no, but men and children are attacked too. It is a specific, heavily punished offence.",
-     "hi": "'ऑनर' या 'इज़्ज़त' के नाम पर हिंसा वह नुक़सान है जो रिश्तेदार, कभी-कभी समुदाय के समूहों के साथ मिलकर, किसी को इस बात की सज़ा देने के लिए करते हैं कि उसने दूसरी जाति, दूसरे धर्म या अपने ही जेंडर का साथी चुना, या तय किया हुआ रिश्ता ठुकरा दिया। इसमें क़ैद करके रखना, मारपीट और हत्या शामिल हैं, और इसमें युवा लड़के भी मारे जाते हैं, सिर्फ़ लड़कियाँ नहीं। 'इज़्ज़त' शब्द सिर्फ़ एक अपराध को ढकता है। सुप्रीम कोर्ट कह चुका है कि दो वयस्कों को एक-दूसरे को चुनने के लिए किसी की मंज़ूरी नहीं चाहिए, और पुलिस को उनकी सुरक्षा करनी चाहिए। तेज़ाब के हमलों के पीछे भी सज़ा देने की यही सोच होती है, अक्सर किसी ठुकराए गए प्रस्ताव के बाद। बहुत-से सर्वाइवर वे महिलाएँ हैं जिन्होंने 'ना' कहा, लेकिन पुरुषों और बच्चों पर भी हमले होते हैं। यह अलग से दर्ज, कड़ी सज़ा वाला अपराध है।",
      "hg": "'Honour' ya 'izzat' ke naam par violence woh harm hai jo rishtedaar, kabhi-kabhi community groups ke saath milkar, kisi ko is baat ki saza dene ke liye karte hain ki usne doosri caste, doosre religion ya same gender ka partner chuna, ya fix kiya hua rishta thukra diya. Isme band karke rakhna, maarpeet aur murder shaamil hain, aur isme young men bhi maare jaate hain, sirf young women nahi. 'Izzat' word sirf ek crime ko chhupata hai. Supreme Court keh chuka hai ki do adults ko ek-doosre ko choose karne ke liye kisi ki approval nahi chahiye, aur police ko unhe protect karna chahiye. Acid attacks ke peeche bhi saza dene ki yahi soch hoti hai, aksar kisi reject kiye gaye proposal ke baad. Bahut se survivors woh women hain jinhone 'na' kaha, lekin men aur bachchon par bhi attacks hote hain. Yeh ek specific, kadi saza wala offence hai."
     }
    },
    {
     "h": {
      "en": "Forced marriage and child marriage",
-     "hi": "जबरन शादी और बाल विवाह",
      "hg": "Forced marriage aur child marriage"
     },
     "body": {
      "en": "In a forced marriage, at least one person has not freely agreed. The force can be emotional blackmail, threats, taking away a phone, stopping college, or a sudden 'visit to relatives'. It happens to women, men, and LGBTQ+ people married off to 'fix' them. Consent obtained by force or fraud is a ground for a court to cancel a marriage. Child marriage means the woman is under 18 or the man under 21, and arranging or performing one is illegal. It cuts short schooling, brings early and riskier pregnancy, and raises the risk of violence. Marriage does not change POCSO: sexual activity with anyone under 18 remains an offence.",
-     "hi": "जबरन शादी में कम से कम एक व्यक्ति ने अपनी मर्ज़ी से हाँ नहीं कही होती। ज़बरदस्ती भावनात्मक ब्लैकमेल, धमकी, फ़ोन छीन लेना, कॉलेज छुड़वा देना, या अचानक 'रिश्तेदारों के यहाँ चलने' की बात भी हो सकती है। यह महिलाओं, पुरुषों और उन LGBTQ+ लोगों के साथ होता है जिनकी शादी उन्हें 'ठीक करने' के लिए कर दी जाती है। ज़बरदस्ती या धोखे से ली गई सहमति वह आधार है जिस पर अदालत शादी को रद्द कर सकती है। बाल विवाह का मतलब है कि लड़की 18 से कम या लड़का 21 से कम उम्र का हो, और ऐसी शादी तय करना या करवाना ग़ैरक़ानूनी है। इससे पढ़ाई छूट जाती है, कम उम्र में ज़्यादा जोखिम भरा गर्भ ठहरता है, और हिंसा का ख़तरा बढ़ता है। शादी से पॉक्सो (POCSO) नहीं बदलता: 18 से कम उम्र के किसी भी व्यक्ति के साथ यौन गतिविधि अपराध ही रहती है।",
      "hg": "Forced marriage mein kam se kam ek insaan ne apni marzi se haan nahi kaha hota. Zabardasti emotional blackmail, dhamki, phone chheen lena, college chhudwa dena, ya achanak 'rishtedaaron ke yahan chalne' ki baat bhi ho sakti hai. Yeh women, men aur un LGBTQ+ logon ke saath hota hai jinki shaadi unhe 'theek karne' ke liye kar di jaati hai. Zabardasti ya dhoke se li gayi consent woh ground hai jis par court shaadi ko cancel kar sakti hai. Child marriage ka matlab hai ki ladki 18 se kam ya ladka 21 se kam umar ka ho, aur aisi shaadi fix karna ya karwana illegal hai. Isse padhai chhoot jaati hai, kam umar mein zyada risky pregnancy hoti hai, aur violence ka khatra badhta hai. Shaadi se POCSO nahi badalta: 18 se kam umar ke kisi bhi insaan ke saath sexual activity offence hi rehti hai."
     }
    },
    {
     "h": {
      "en": "Why families cover it up, and where to go",
-     "hi": "परिवार इसे क्यों छिपाते हैं, और मदद कहाँ मिलेगी",
      "hg": "Families ise kyun chhupati hain, aur help kahan milegi"
     },
     "body": {
      "en": "Families hide this violence for reasons that feel powerful: fear of what people will say, money spent on a wedding, a sibling's marriage prospects, dependence on the abuser, and the belief that a daughter must 'adjust'. Silence protects the abuser, never the person being hurt. In danger call 112; women can call 181; anyone under 18 can call 1098, including to stop a child marriage. Any police station can take a complaint. Protection Officers under the domestic violence law, and One Stop Centres reached through 181, help women with shelter, medical care and court orders. NALSA gives free legal aid on 15100. Tell one trusted person outside the home.",
-     "hi": "परिवार इस हिंसा को उन वजहों से छिपाते हैं जो बहुत बड़ी लगती हैं: लोग क्या कहेंगे का डर, शादी पर ख़र्च हुआ पैसा, भाई-बहन के रिश्ते की चिंता, हिंसा करने वाले पर निर्भरता, और यह सोच कि बेटी को 'एडजस्ट' करना ही होगा। चुप्पी हिंसा करने वाले को बचाती है, उसे कभी नहीं जिसे चोट पहुँच रही है। ख़तरे में 112 पर कॉल करें; महिलाएँ 181 पर कॉल कर सकती हैं; 18 से कम उम्र का कोई भी व्यक्ति 1098 पर कॉल कर सकता है, बाल विवाह रुकवाने के लिए भी। शिकायत किसी भी पुलिस थाने में दी जा सकती है। घरेलू हिंसा क़ानून के तहत संरक्षण अधिकारी (Protection Officer), और 181 के ज़रिए मिलने वाले वन स्टॉप सेंटर, महिलाओं को आश्रय, इलाज और अदालती आदेश दिलाने में मदद करते हैं। नालसा (NALSA) 15100 पर मुफ़्त क़ानूनी सहायता देता है। घर के बाहर के किसी एक भरोसेमंद व्यक्ति को ज़रूर बताएँ।",
      "hg": "Families is violence ko un reasons se chhupati hain jo bahut powerful lagte hain: log kya kahenge ka darr, shaadi par kharch hua paisa, bhai-behen ke rishte ki chinta, abuser par dependence, aur yeh soch ki beti ko 'adjust' karna hi hoga. Chuppi abuser ko bachati hai, use kabhi nahi jise hurt kiya ja raha hai. Danger mein 112 par call karo; women 181 par call kar sakti hain; 18 se kam umar ka koi bhi insaan 1098 par call kar sakta hai, child marriage rukwane ke liye bhi. Complaint kisi bhi police station mein di ja sakti hai. Domestic violence law ke under Protection Officers, aur 181 ke through milne wale One Stop Centres, women ko shelter, medical care aur court orders dilane mein help karte hain. NALSA 15100 par free legal aid deta hai. Ghar ke bahar ke kisi ek trusted insaan ko zaroor batao."
     }
    }
@@ -1382,35 +1185,29 @@
   "myth": {
    "claim": {
     "en": "What happens inside a family is a private matter, and outsiders should stay out of it.",
-    "hi": "परिवार के भीतर जो होता है वह निजी मामला है, बाहर वालों को उसमें नहीं पड़ना चाहिए।",
     "hg": "Family ke andar jo hota hai woh private maamla hai, bahar walon ko usme nahi padna chahiye."
    },
    "fact": {
     "en": "Violence does not become private because relatives commit it. Dowry harassment, forced or child marriage, confinement and 'honour' attacks are crimes, and the law allows neighbours, friends, teachers and relatives to alert the police or a helpline. Stepping in can save a life.",
-    "hi": "हिंसा इसलिए निजी नहीं हो जाती कि उसे रिश्तेदार कर रहे हैं। दहेज के लिए सताना, जबरन शादी या बाल विवाह, क़ैद करके रखना और 'इज़्ज़त' के नाम पर हमले अपराध हैं, और क़ानून पड़ोसियों, दोस्तों, शिक्षकों और रिश्तेदारों को पुलिस या हेल्पलाइन को ख़बर देने की इजाज़त देता है। दख़ल देने से किसी की जान बच सकती है।",
     "hg": "Violence isliye private nahi ho jaati ki use rishtedaar kar rahe hain. Dahej ke liye harass karna, forced ya child marriage, band karke rakhna aur 'izzat' ke naam par attacks crimes hain, aur law padosiyon, doston, teachers aur rishtedaaron ko police ya helpline ko inform karne ki permission deta hai. Beech mein aane se kisi ki jaan bach sakti hai."
    }
   },
   "takeaways": [
    {
     "en": "Dowry, 'honour' violence, forced marriage, child marriage and acid attacks are crimes under Indian law, whatever a family calls them.",
-    "hi": "दहेज, 'इज़्ज़त' के नाम पर हिंसा, जबरन शादी, बाल विवाह और तेज़ाब के हमले भारतीय क़ानून में अपराध हैं, परिवार उन्हें चाहे जो नाम दे।",
     "hg": "Dahej, 'izzat' ke naam par violence, forced marriage, child marriage aur acid attacks Indian law mein crimes hain, family unhe chahe jo naam de."
    },
    {
     "en": "They harm women most often, but men, boys and LGBTQ+ people are targeted too, and relatives of any gender can be the ones doing harm.",
-    "hi": "इनका सबसे ज़्यादा नुक़सान महिलाओं को होता है, लेकिन पुरुष, लड़के और LGBTQ+ लोग भी निशाना बनते हैं, और नुक़सान पहुँचाने वाले रिश्तेदार किसी भी जेंडर के हो सकते हैं।",
     "hg": "Inka sabse zyada harm women ko hota hai, lekin men, boys aur LGBTQ+ log bhi target hote hain, aur harm karne wale rishtedaar kisi bhi gender ke ho sakte hain."
    },
    {
     "en": "Help exists outside the family: 112, 181, 1098, the police, Protection Officers and free legal aid on 15100.",
-    "hi": "मदद परिवार के बाहर मौजूद है: 112, 181, 1098, पुलिस, संरक्षण अधिकारी और 15100 पर मुफ़्त क़ानूनी सहायता।",
     "hg": "Help family ke bahar available hai: 112, 181, 1098, police, Protection Officers aur 15100 par free legal aid."
    }
   ],
   "activity": {
    "en": "Privately, write down the phone number of one adult outside your household whom you would trust in a family crisis, and save 112, 181, 1098 and 15100 in your phone. Then think of one sentence you could say to a friend who tells you they are being forced into a marriage.",
-   "hi": "अकेले में, घर के बाहर के किसी एक ऐसे वयस्क का फ़ोन नंबर लिखें जिस पर आप पारिवारिक संकट में भरोसा कर सकें, और 112, 181, 1098 और 15100 अपने फ़ोन में सेव करें। फिर एक ऐसा वाक्य सोचें जो आप उस दोस्त से कह सकें जो बताए कि उसकी शादी ज़बरदस्ती करवाई जा रही है।",
    "hg": "Privately, ghar ke bahar ke kisi ek aise adult ka phone number likho jis par tum family crisis mein trust kar sako, aur 112, 181, 1098 aur 15100 apne phone mein save karo. Phir ek aisa sentence socho jo tum us friend se keh sako jo bataye ki uski shaadi zabardasti karwayi ja rahi hai."
   },
   "interactive": "support_circle",
@@ -1420,35 +1217,29 @@
     "type": "scenario",
     "q": {
      "en": "Pooja is 17. Her parents have fixed her wedding for next month and say she has no say in it. Which step fits both her safety and the law?",
-     "hi": "पूजा 17 साल की है। उसके माता-पिता ने अगले महीने उसकी शादी तय कर दी है और कहते हैं कि इसमें उसकी कोई राय नहीं चलेगी। कौन सा क़दम उसकी सुरक्षा और क़ानून दोनों के हिसाब से सही है?",
      "hg": "Pooja 17 saal ki hai. Uske parents ne agle mahine uski shaadi fix kar di hai aur kehte hain ki isme uski koi say nahi hai. Kaun sa step uski safety aur law dono ke hisaab se sahi hai?"
     },
     "options": [
      {
       "en": "Agree for now and plan to ask for a divorce after a few years",
-      "hi": "अभी मान जाए और कुछ साल बाद तलाक़ माँगने की सोचे",
       "hg": "Abhi maan jaye aur kuch saal baad divorce maangne ka plan kare"
      },
      {
       "en": "Call 1098 or tell a trusted teacher, because a marriage under 18 is illegal and can be stopped",
-      "hi": "1098 पर कॉल करे या किसी भरोसेमंद शिक्षक को बताए, क्योंकि 18 से कम उम्र में शादी ग़ैरक़ानूनी है और रुकवाई जा सकती है",
       "hg": "1098 par call kare ya kisi trusted teacher ko bataye, kyunki 18 se kam umar mein shaadi illegal hai aur rukwayi ja sakti hai"
      },
      {
       "en": "Leave home alone for another city without telling anyone",
-      "hi": "किसी को बताए बिना अकेले दूसरे शहर चली जाए",
       "hg": "Kisi ko bataye bina akele doosre sheher chali jaye"
      },
      {
       "en": "Wait until she turns 18, since nothing can be done before that",
-      "hi": "18 की होने तक इंतज़ार करे, क्योंकि उससे पहले कुछ नहीं हो सकता",
       "hg": "18 ki hone tak wait kare, kyunki usse pehle kuch nahi ho sakta"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "A marriage where the woman is under 18 is a child marriage. Childline 1098, the police or a Child Marriage Prohibition Officer can act to stop it, and a court can order that it must not take place.",
-     "hi": "जिस शादी में लड़की 18 से कम उम्र की हो, वह बाल विवाह है। चाइल्डलाइन 1098, पुलिस या बाल विवाह निषेध अधिकारी इसे रुकवाने के लिए क़दम उठा सकते हैं, और अदालत आदेश दे सकती है कि यह शादी न हो।",
      "hg": "Jis shaadi mein ladki 18 se kam umar ki ho, woh child marriage hai. Childline 1098, police ya Child Marriage Prohibition Officer ise rukwane ke liye action le sakte hain, aur court order de sakti hai ki yeh shaadi na ho."
     }
    },
@@ -1457,35 +1248,29 @@
     "type": "mcq",
     "q": {
      "en": "Someone has had acid thrown on them. While help is on the way, what is the right first aid?",
-     "hi": "किसी पर तेज़ाब फेंका गया है। मदद पहुँचने तक सही प्राथमिक उपचार क्या है?",
      "hg": "Kisi par acid phenka gaya hai. Help aane tak sahi first aid kya hai?"
     },
     "options": [
      {
       "en": "Apply ice and a thick layer of ointment",
-      "hi": "बर्फ़ और मरहम की मोटी परत लगाना",
       "hg": "Ice aur ointment ki moti layer lagana"
      },
      {
       "en": "Cover the area tightly with cloth and wait",
-      "hi": "उस हिस्से को कपड़े से कसकर ढककर इंतज़ार करना",
       "hg": "Us area ko kapde se kaskar dhakkar wait karna"
      },
      {
       "en": "Rub in milk or oil to neutralise the acid",
-      "hi": "तेज़ाब का असर ख़त्म करने के लिए दूध या तेल मलना",
       "hg": "Acid ka asar khatam karne ke liye doodh ya tel malna"
      },
      {
       "en": "Rinse with plenty of clean running water for at least 20 minutes",
-      "hi": "कम से कम 20 मिनट तक ख़ूब सारे साफ़ बहते पानी से धोना",
       "hg": "Kam se kam 20 minute tak khoob saare saaf behte paani se dhona"
      }
     ],
     "answer": 3,
     "explain": {
      "en": "Flushing with lots of clean running water dilutes and removes the chemical and limits how deep the burn goes. Creams, oil and ice can make it worse. Call 112 and get to a hospital.",
-     "hi": "ख़ूब सारे साफ़ बहते पानी से धोने पर रसायन पतला होकर हट जाता है और जलन गहराई तक कम पहुँचती है। क्रीम, तेल और बर्फ़ हालत बिगाड़ सकते हैं। 112 पर कॉल करें और अस्पताल पहुँचें।",
      "hg": "Khoob saare saaf behte paani se dhone par chemical dilute hokar hat jaata hai aur burn kam gehra hota hai. Cream, tel aur ice haalat bigaad sakte hain. 112 par call karo aur hospital pahuncho."
     }
    }
@@ -1501,7 +1286,6 @@
   ],
   "warning": {
    "en": "If someone is in danger now, call 112. For an acid burn, rinse the area with plenty of clean running water for at least 20 minutes, remove contaminated clothing carefully and get to a hospital; do not apply creams, oil or ice. Legal points here are general information as of 14 November 2026, not legal advice, and not yet reviewed by a lawyer; laws can change.",
-   "hi": "अगर कोई अभी ख़तरे में है, तो 112 पर कॉल करें। तेज़ाब से जलने पर उस हिस्से को कम से कम 20 मिनट तक ख़ूब सारे साफ़ बहते पानी से धोएँ, तेज़ाब लगे कपड़े सावधानी से हटाएँ और अस्पताल पहुँचें; क्रीम, तेल या बर्फ़ न लगाएँ। यहाँ दी गई क़ानूनी बातें 14 नवंबर 2026 तक की सामान्य जानकारी हैं, क़ानूनी सलाह नहीं, और अभी किसी वकील ने इनकी समीक्षा नहीं की है; क़ानून बदल सकते हैं।",
    "hg": "Agar koi abhi danger mein hai, toh 112 par call karo. Acid burn hone par us area ko kam se kam 20 minute tak khoob saare saaf behte paani se dho, acid lage kapde carefully hatao aur hospital pahuncho; cream, tel ya ice mat lagao. Yahan di gayi legal baatein 14 November 2026 tak ki general information hain, legal advice nahi, aur abhi kisi lawyer ne inhe review nahi kiya hai; laws badal sakte hain."
   },
   "sensitive": true,
@@ -1527,33 +1311,27 @@
   ],
   "title": {
    "en": "Boys and Men Are Survivors Too",
-   "hi": "लड़के और पुरुष भी सर्वाइवर होते हैं",
    "hg": "Ladke aur Men bhi Survivors Hote Hain"
   },
   "subtitle": {
    "en": "The abuse nobody asks about, and the silence around it",
-   "hi": "वह शोषण जिसके बारे में कोई पूछता नहीं, और उसके चारों ओर की चुप्पी",
    "hg": "Woh abuse jiske baare mein koi poochta nahi, aur uske around ki chuppi"
   },
   "hook": {
    "en": "Boys are told to be careful about many things. Almost nobody tells them that sexual abuse can happen to them too, so when it does, most say nothing for years.",
-   "hi": "लड़कों को बहुत-सी बातों में सावधान रहना सिखाया जाता है। पर लगभग कोई उन्हें यह नहीं बताता कि यौन शोषण उनके साथ भी हो सकता है, इसलिए जब होता है तो ज़्यादातर बरसों तक कुछ नहीं कहते।",
    "hg": "Ladkon ko bahut si cheezon mein careful rehna sikhaya jaata hai. Par almost koi unhe yeh nahi batata ki sexual abuse unke saath bhi ho sakta hai, isliye jab hota hai toh zyada-tar saalon tak kuch nahi bolte."
   },
   "objectives": [
    {
     "en": "Understand that sexual abuse and assault happen to boys and men, and who commits them.",
-    "hi": "समझना कि यौन शोषण और यौन हमला लड़कों और पुरुषों के साथ भी होता है, और इसे कौन करता है।",
     "hg": "Samajhna ki sexual abuse aur assault ladkon aur men ke saath bhi hota hai, aur ise kaun karta hai."
    },
    {
     "en": "Replace common myths about male bodies, strength and consent with facts.",
-    "hi": "पुरुष शरीर, ताक़त और सहमति से जुड़े आम मिथकों की जगह तथ्य रखना।",
     "hg": "Male body, strength aur consent se jude common myths ki jagah facts rakhna."
    },
    {
     "en": "Know what the law covers, where it falls short, and where a male survivor can get help.",
-    "hi": "जानना कि क़ानून क्या कवर करता है, कहाँ कमज़ोर पड़ता है, और पुरुष सर्वाइवर को मदद कहाँ मिल सकती है।",
     "hg": "Jaanna ki law kya cover karta hai, kahan kamzor padta hai, aur male survivor ko help kahan mil sakti hai."
    }
   ],
@@ -1562,48 +1340,40 @@
    {
     "h": {
      "en": "It happens, and it stays hidden",
-     "hi": "यह होता है, और छिपा रह जाता है",
      "hg": "Yeh hota hai, aur chhupa reh jaata hai"
     },
     "body": {
      "en": "Sexual abuse of boys is common in India and worldwide, and is reported far less often than it happens. The person responsible is usually someone known: a relative, neighbour, older student, teacher, coach, religious teacher, hostel warden or employer. It also happens as ragging and 'initiation' in hostels and teams, where sexual humiliation is passed off as a joke. Adult men are sexually assaulted too, by partners, acquaintances, groups and strangers, and in places such as hostels and custody. Most of those who do this are men, but some are women. A survivor's gender does not change what was done to him or how seriously it should be taken.",
-     "hi": "लड़कों का यौन शोषण भारत और पूरी दुनिया में आम है, और जितना होता है उससे बहुत कम दर्ज होता है। ज़िम्मेदार व्यक्ति आम तौर पर कोई जान-पहचान का होता है: रिश्तेदार, पड़ोसी, बड़ा छात्र, शिक्षक, कोच, धर्म-शिक्षक, हॉस्टल वार्डन या काम देने वाला। यह हॉस्टलों और टीमों में रैगिंग और 'इनिशिएशन' के नाम पर भी होता है, जहाँ यौन अपमान को मज़ाक़ कहकर टाल दिया जाता है। वयस्क पुरुषों पर भी यौन हमले होते हैं, पार्टनर, परिचितों, गिरोहों और अजनबियों द्वारा, और हॉस्टल व हिरासत जैसी जगहों में। ऐसा करने वाले ज़्यादातर पुरुष होते हैं, लेकिन कुछ महिलाएँ भी होती हैं। सर्वाइवर का जेंडर इस बात को नहीं बदलता कि उसके साथ क्या किया गया और उसे कितनी गंभीरता से लिया जाना चाहिए।",
      "hg": "Ladkon ka sexual abuse India aur poori duniya mein common hai, aur jitna hota hai usse bahut kam report hota hai. Responsible insaan usually koi jaan-pehchaan ka hota hai: rishtedaar, padosi, senior student, teacher, coach, religious teacher, hostel warden ya employer. Yeh hostels aur teams mein ragging aur 'initiation' ke naam par bhi hota hai, jahan sexual humiliation ko mazaak bolkar taal diya jaata hai. Adult men par bhi sexual assault hota hai, partners, jaan-pehchaan walon, groups aur strangers dwara, aur hostel aur custody jaisi jagahon mein. Aisa karne wale zyada-tar men hote hain, lekin kuch women bhi hoti hain. Survivor ka gender is baat ko nahi badalta ki uske saath kya kiya gaya aur use kitni seriously liya jaana chahiye."
     }
    },
    {
     "h": {
      "en": "Myths about bodies and 'real men'",
-     "hi": "शरीर और 'असली मर्द' से जुड़े मिथक",
      "hg": "Body aur 'asli mard' wale myths"
     },
     "body": {
      "en": "An erection or ejaculation is a reflex. It can happen with fear, stress or touch, and it says nothing about consent or enjoyment; abusers often use it to confuse a boy into silence. Size and strength do not prevent assault, because it usually works through trust, authority, threats, shock, intoxication or being outnumbered. Freezing instead of fighting is a normal survival response. Being assaulted by a man does not change or reveal anyone's sexual orientation. Sexual contact between a woman and a boy under 18 is abuse, not luck. Most boys who are abused never go on to abuse anyone; that fear keeps many survivors silent for no reason.",
-     "hi": "इरेक्शन (लिंग में तनाव) या वीर्य निकलना एक रिफ़्लेक्स है। यह डर, तनाव या शारीरिक छुअन से हो सकता है, और सहमति या आनंद के बारे में कुछ नहीं बताता; शोषण करने वाले अक्सर इसी का इस्तेमाल लड़के को उलझाकर चुप कराने के लिए करते हैं। क़द-काठी और ताक़त हमले को नहीं रोकतीं, क्योंकि वह आम तौर पर भरोसे, अधिकार, धमकी, सदमे, नशे या संख्या में ज़्यादा होने के सहारे होता है। लड़ने की जगह सुन्न पड़ जाना बचाव की एक सामान्य प्रतिक्रिया है। किसी पुरुष द्वारा हमला होने से किसी का यौन रुझान न बदलता है, न ज़ाहिर होता है। किसी महिला और 18 से कम उम्र के लड़के के बीच यौन संपर्क शोषण है, क़िस्मत नहीं। और जिन लड़कों का शोषण होता है उनमें से ज़्यादातर कभी किसी का शोषण नहीं करते; यह डर बहुत-से सर्वाइवर को बेवजह चुप रखता है।",
      "hg": "Erection ya ejaculation ek reflex hai. Yeh darr, stress ya physical contact se ho sakta hai, aur consent ya enjoyment ke baare mein kuch nahi batata; abusers aksar isi ko use karke ladke ko confuse karte hain taaki woh chup rahe. Size aur strength assault ko nahi rokte, kyunki woh usually trust, authority, dhamki, shock, nashe ya numbers mein zyada hone ke through hota hai. Fight karne ki jagah freeze ho jaana ek normal survival response hai. Kisi man dwara assault hone se kisi ki sexual orientation na badalti hai, na reveal hoti hai. Kisi woman aur 18 se kam umar ke ladke ke beech sexual contact abuse hai, luck nahi. Aur jin ladkon ka abuse hota hai unme se zyada-tar kabhi kisi ko abuse nahi karte; yeh darr bahut se survivors ko bina wajah chup rakhta hai."
     }
    },
    {
     "h": {
      "en": "Why men stay silent, and what silence costs",
-     "hi": "पुरुष चुप क्यों रहते हैं, और चुप्पी की क़ीमत",
      "hg": "Men chup kyun rehte hain, aur chuppi ki keemat"
     },
     "body": {
      "en": "Boys learn early that men do not cry, do not complain and are never victims. So a male survivor may fear being laughed at, called weak, having his sexuality questioned, or not being believed. Many have no words for what happened and tell no one for decades. The harm is real anyway: shame, anger, anxiety, depression, poor sleep, flashbacks, heavy drinking or drugs, trouble with trust and intimacy, and sometimes thoughts of self-harm. These are injuries, not weakness. They respond to support, and recovery is possible at any age. Speaking to one safe person, a counsellor, or Tele-MANAS on 14416 is a strong first step, however long ago it happened.",
-     "hi": "लड़के बचपन से सीख लेते हैं कि मर्द रोते नहीं, शिकायत नहीं करते और कभी पीड़ित नहीं होते। इसलिए पुरुष सर्वाइवर को डर हो सकता है कि उस पर हँसा जाएगा, उसे कमज़ोर कहा जाएगा, उसकी सेक्शुअलिटी पर सवाल उठेंगे, या बस उसकी बात मानी ही नहीं जाएगी। बहुतों के पास जो हुआ उसके लिए शब्द ही नहीं होते, और बहुत-से दशकों तक किसी को नहीं बताते। नुक़सान फिर भी असली होता है: शर्म, ग़ुस्सा, घबराहट, डिप्रेशन, ख़राब नींद, फ़्लैशबैक, ज़्यादा शराब या नशा, भरोसे और नज़दीकी में मुश्किल, और कभी-कभी ख़ुद को नुक़सान पहुँचाने के ख़याल। ये चोटें हैं, कमज़ोरी नहीं। सहारा मिलने पर ये ठीक होने लगती हैं, और किसी भी उम्र में उबरना मुमकिन है। किसी एक सुरक्षित व्यक्ति, काउंसलर या टेली-मानस (14416) से बात करना एक मज़बूत पहला क़दम है, बात चाहे कितनी भी पुरानी हो।",
      "hg": "Ladke bachpan se seekh lete hain ki mard rote nahi, complain nahi karte aur kabhi victim nahi hote. Isliye male survivor ko darr ho sakta hai ki us par hansa jayega, use weak bola jayega, uski sexuality par sawaal uthenge, ya bas uski baat maani hi nahi jayegi. Bahuton ke paas jo hua uske liye words hi nahi hote, aur bahut se log decades tak kisi ko nahi batate. Harm phir bhi real hota hai: sharam, gussa, anxiety, depression, kharab neend, flashbacks, zyada sharaab ya drugs, trust aur intimacy mein mushkil, aur kabhi-kabhi self-harm ke thoughts. Yeh injuries hain, weakness nahi. Support milne par yeh theek hone lagti hain, aur kisi bhi umar mein recovery possible hai. Kisi ek safe insaan, counsellor ya Tele-MANAS (14416) se baat karna ek strong first step hai, baat chahe kitni bhi purani ho."
     }
    },
    {
     "h": {
      "en": "The law, honestly, and where to get help",
-     "hi": "क़ानून की सच्ची तस्वीर, और मदद कहाँ मिलेगी",
      "hg": "Law ki honest picture, aur help kahan milegi"
     },
     "body": {
      "en": "POCSO protects every child under 18, whatever the child's or abuser's gender, and adults who learn of abuse must report it. For adults the law is weaker: the Bharatiya Nyaya Sanhita defines rape as committed by a man against a woman, and an older provision used for assaults on men was dropped. Adult men may rely on offences such as hurt, confinement or intimidation; the transgender rights law punishes sexual abuse far more lightly than rape. Ask a lawyer. Adults can get counselling and legal aid without a police case: 112 in danger, 14416, 15100. Under 18, call 1098; helpers must report. Hospitals start HIV prevention within 72 hours.",
-     "hi": "पॉक्सो (POCSO) 18 से कम उम्र के हर बच्चे की सुरक्षा करता है, बच्चे या शोषण करने वाले का जेंडर चाहे जो हो, और जिन वयस्कों को शोषण का पता चले उन्हें इसकी सूचना देनी होती है। वयस्कों के लिए क़ानून कमज़ोर है: भारतीय न्याय संहिता बलात्कार को पुरुष द्वारा महिला के ख़िलाफ़ किया गया अपराध मानती है, और जो पुराना प्रावधान पुरुषों पर हमले के मामलों में काम आता था, वह हटा दिया गया। वयस्क पुरुष को चोट पहुँचाने, बंधक बनाने या धमकी जैसे अपराधों का सहारा लेना पड़ सकता है; ट्रांसजेंडर अधिकार क़ानून यौन शोषण को अपराध मानता है, लेकिन सज़ा बलात्कार से बहुत कम है। इस पर वकील की सलाह लें। वयस्क बिना पुलिस केस के काउंसलिंग और क़ानूनी सलाह ले सकते हैं: ख़तरे में 112, 14416, 15100। 18 से कम उम्र हो तो 1098 पर कॉल करें; मदद करने वाले बड़ों को सूचना देनी होती है। अस्पताल 72 घंटे के भीतर एचआईवी से बचाव की दवा भी शुरू करते हैं।",
      "hg": "POCSO 18 se kam umar ke har child ko protect karta hai, child ya abuser ka gender chahe jo ho, aur jin adults ko abuse ka pata chale unhe report karna hota hai. Adults ke liye law kamzor hai: Bharatiya Nyaya Sanhita rape ko man dwara woman ke against kiya gaya offence maanti hai, aur jo purana provision men par assault ke cases mein use hota tha, woh hata diya gaya. Adult man ko hurt, confinement ya intimidation jaise offences ka sahara lena pad sakta hai; transgender rights law sexual abuse ko offence maanta hai, lekin saza rape se bahut kam hai. Is par lawyer ki advice lo. Adults bina police case ke counselling aur legal advice le sakte hain: danger mein 112, 14416, 15100. 18 se kam ho toh 1098 par call karo; help karne wale adults ko report karna hota hai. Hospitals 72 ghante ke andar HIV prevention medicine bhi start karte hain."
     }
    }
@@ -1611,35 +1381,29 @@
   "myth": {
    "claim": {
     "en": "A real man can always fight off an attacker, so a man cannot be sexually assaulted.",
-    "hi": "असली मर्द हमेशा हमलावर से लड़कर बच सकता है, इसलिए किसी पुरुष पर यौन हमला हो ही नहीं सकता।",
     "hg": "Asli mard hamesha attacker se ladkar bach sakta hai, isliye kisi man par sexual assault ho hi nahi sakta."
    },
    "fact": {
     "en": "Assault rarely depends on physical strength. It works through trust, authority, threats, intoxication, surprise or numbers, and freezing is a normal reaction to danger. Men and boys of every build are assaulted, and it is never a measure of their manhood.",
-    "hi": "हमला शायद ही कभी शारीरिक ताक़त पर टिका होता है। वह भरोसे, अधिकार, धमकी, नशे, अचानक होने या संख्या के सहारे होता है, और ख़तरे में सुन्न पड़ जाना एक सामान्य प्रतिक्रिया है। हर क़द-काठी के पुरुषों और लड़कों पर हमले होते हैं, और यह कभी उनकी मर्दानगी का पैमाना नहीं है।",
     "hg": "Assault shayad hi kabhi physical strength par depend karta hai. Woh trust, authority, dhamki, nashe, surprise ya numbers ke through hota hai, aur danger mein freeze ho jaana ek normal reaction hai. Har build ke men aur boys par assault hota hai, aur yeh kabhi unki mardangi ka measure nahi hai."
    }
   },
   "takeaways": [
    {
     "en": "Sexual abuse and assault happen to boys and men, usually by someone they know, and are reported far less than they occur.",
-    "hi": "यौन शोषण और यौन हमला लड़कों और पुरुषों के साथ भी होता है, आम तौर पर किसी जान-पहचान वाले द्वारा, और जितना होता है उससे बहुत कम दर्ज होता है।",
     "hg": "Sexual abuse aur assault ladkon aur men ke saath bhi hota hai, usually kisi jaan-pehchaan wale dwara, aur jitna hota hai usse bahut kam report hota hai."
    },
    {
     "en": "An erection, freezing or staying silent afterwards is never consent and never the survivor's fault.",
-    "hi": "इरेक्शन, सुन्न पड़ जाना या बाद में चुप रहना कभी सहमति नहीं है और कभी सर्वाइवर की ग़लती नहीं है।",
     "hg": "Erection, freeze ho jaana ya baad mein chup rehna kabhi consent nahi hai aur kabhi survivor ki galti nahi hai."
    },
    {
     "en": "POCSO protects boys under 18 fully; the law for adult men is weaker, but medical care, counselling and legal aid are still available.",
-    "hi": "पॉक्सो 18 से कम उम्र के लड़कों की पूरी सुरक्षा करता है; वयस्क पुरुषों के लिए क़ानून कमज़ोर है, फिर भी इलाज, काउंसलिंग और क़ानूनी सहायता उपलब्ध है।",
     "hg": "POCSO 18 se kam umar ke ladkon ko poori tarah protect karta hai; adult men ke liye law kamzor hai, phir bhi medical care, counselling aur legal aid available hai."
    }
   ],
   "activity": {
    "en": "Think about the last time you heard a joke about a boy or man being assaulted, or 'getting lucky' with an older woman. Privately, write one sentence you could say next time instead of laughing. Then save 14416 and 1098 in your phone.",
-   "hi": "याद करें कि पिछली बार आपने किसी लड़के या पुरुष पर हमले का, या बड़ी उम्र की महिला के साथ उसकी 'क़िस्मत खुलने' का मज़ाक़ कब सुना था। अकेले में एक ऐसा वाक्य लिखें जो आप अगली बार हँसने की जगह कह सकें। फिर 14416 और 1098 अपने फ़ोन में सेव करें।",
    "hg": "Yaad karo ki last time tumne kisi ladke ya man par assault ka, ya older woman ke saath uske 'lucky' hone ka joke kab suna tha. Privately ek aisa sentence likho jo tum next time hansne ki jagah bol sako. Phir 14416 aur 1098 apne phone mein save karo."
   },
   "interactive": "myth_buster",
@@ -1649,35 +1413,29 @@
     "type": "scenario",
     "q": {
      "en": "Kabir, 19, tells his roommate that a senior sexually assaulted him last month. Which response helps most?",
-     "hi": "कबीर, 19, अपने रूममेट को बताता है कि पिछले महीने एक सीनियर ने उस पर यौन हमला किया था। कौन सा जवाब सबसे ज़्यादा मदद करेगा?",
      "hg": "Kabir, 19, apne roommate ko batata hai ki last month ek senior ne us par sexual assault kiya tha. Kaun sa response sabse zyada help karega?"
     },
     "options": [
      {
       "en": "Say 'I believe you, it was not your fault' and ask what he needs, including a doctor or counsellor",
-      "hi": "कहना 'मुझे तुम पर यक़ीन है, तुम्हारी कोई ग़लती नहीं थी' और पूछना कि उसे क्या चाहिए, डॉक्टर या काउंसलर समेत",
       "hg": "Bolna 'Mujhe tum par yakeen hai, tumhari koi galti nahi thi' aur poochna ki use kya chahiye, doctor ya counsellor samet"
      },
      {
       "en": "Ask why he did not fight back, since he is stronger than the senior",
-      "hi": "पूछना कि उसने मुक़ाबला क्यों नहीं किया, जबकि वह सीनियर से ज़्यादा ताक़तवर है",
       "hg": "Poochna ki usne fight back kyun nahi kiya, jabki woh senior se zyada strong hai"
      },
      {
       "en": "Tell the rest of the hostel so that the senior is exposed",
-      "hi": "पूरे हॉस्टल को बता देना ताकि सीनियर की पोल खुल जाए",
       "hg": "Poore hostel ko bata dena taaki senior expose ho jaye"
      },
      {
       "en": "Advise him to forget it, because nothing can be done for men",
-      "hi": "उसे भूल जाने की सलाह देना, क्योंकि पुरुषों के लिए कुछ नहीं किया जा सकता",
       "hg": "Use bhool jaane ki advice dena, kyunki men ke liye kuch nahi ho sakta"
      }
     ],
     "answer": 0,
     "explain": {
      "en": "Being believed is what most survivors need first. Asking why he did not fight adds blame, spreading his story takes away his control, and medical care, counselling and legal advice do exist for men.",
-     "hi": "ज़्यादातर सर्वाइवर को सबसे पहले इसी की ज़रूरत होती है कि उनकी बात पर यक़ीन किया जाए। मुक़ाबला न करने का सवाल दोष जोड़ता है, उसकी बात फैलाना उससे उसका नियंत्रण छीन लेता है, और इलाज, काउंसलिंग व क़ानूनी सलाह पुरुषों के लिए भी मौजूद हैं।",
      "hg": "Zyada-tar survivors ko sabse pehle yahi chahiye hota hai ki unki baat par yakeen kiya jaye. Fight na karne ka sawaal blame add karta hai, uski story failana usse uska control chheen leta hai, aur medical care, counselling aur legal advice men ke liye bhi available hain."
     }
    },
@@ -1686,25 +1444,21 @@
     "type": "tf",
     "q": {
      "en": "If a boy or man had an erection during unwanted sexual contact, it means he consented.",
-     "hi": "अगर अनचाहे यौन संपर्क के दौरान किसी लड़के या पुरुष को इरेक्शन हुआ, तो इसका मतलब है कि उसकी सहमति थी।",
      "hg": "Agar unwanted sexual contact ke dauraan kisi ladke ya man ko erection hua, toh iska matlab hai ki uski consent thi."
     },
     "options": [
      {
       "en": "True",
-      "hi": "सही",
       "hg": "Sahi"
      },
      {
       "en": "False",
-      "hi": "ग़लत",
       "hg": "Galat"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "An erection or ejaculation is a physical reflex that can happen under fear or stress. Consent is a free and clear agreement, and a reflex is not that.",
-     "hi": "इरेक्शन या वीर्य निकलना एक शारीरिक रिफ़्लेक्स है जो डर या तनाव में भी हो सकता है। सहमति का मतलब है अपनी मर्ज़ी से दी गई साफ़ हामी, और रिफ़्लेक्स वह नहीं है।",
      "hg": "Erection ya ejaculation ek physical reflex hai jo darr ya stress mein bhi ho sakta hai. Consent ka matlab hai free aur clear agreement, aur reflex woh nahi hai."
     }
    }
@@ -1720,7 +1474,6 @@
   ],
   "warning": {
    "en": "If you are in danger, call 112; if you are under 18, call 1098. After a sexual assault, reach a hospital quickly, because HIV prevention medicine must start within 72 hours. If you are having thoughts of harming yourself, call Tele-MANAS on 14416 or tell someone near you now. Legal points here are general information as of 14 November 2026, not legal advice, and not yet reviewed by a lawyer.",
-   "hi": "अगर आप ख़तरे में हैं तो 112 पर कॉल करें; अगर आपकी उम्र 18 से कम है तो 1098 पर। यौन हमले के बाद जल्दी अस्पताल पहुँचें, क्योंकि एचआईवी से बचाव की दवा 72 घंटे के भीतर शुरू करनी होती है। अगर ख़ुद को नुक़सान पहुँचाने के ख़याल आ रहे हैं, तो टेली-मानस 14416 पर कॉल करें या अभी अपने पास के किसी व्यक्ति को बताएँ। यहाँ दी गई क़ानूनी बातें 14 नवंबर 2026 तक की सामान्य जानकारी हैं, क़ानूनी सलाह नहीं, और अभी किसी वकील ने इनकी समीक्षा नहीं की है।",
    "hg": "Agar tum danger mein ho toh 112 par call karo; agar tum 18 se kam ho toh 1098 par. Sexual assault ke baad jaldi hospital pahuncho, kyunki HIV prevention medicine 72 ghante ke andar start karni hoti hai. Agar khud ko harm karne ke thoughts aa rahe hain, toh Tele-MANAS 14416 par call karo ya abhi apne paas ke kisi insaan ko batao. Yahan di gayi legal baatein 14 November 2026 tak ki general information hain, legal advice nahi, aur abhi kisi lawyer ne inhe review nahi kiya hai."
   },
   "sensitive": true,
@@ -1748,33 +1501,27 @@
   ],
   "title": {
    "en": "Coercion That Does Not Look Like Violence",
-   "hi": "वह ज़बरदस्ती जो हिंसा जैसी नहीं दिखती",
    "hg": "Woh Coercion jo Violence Jaisa Nahi Dikhta"
   },
   "subtitle": {
    "en": "Pressure, stealthing, reproductive control, spiked drinks and deceit",
-   "hi": "दबाव, स्टेल्थिंग, प्रजनन पर नियंत्रण, नशीली ड्रिंक और धोखा",
    "hg": "Pressure, stealthing, reproductive control, spiked drinks aur dhoka"
   },
   "hook": {
    "en": "No bruises, no shouting, sometimes not even a clear 'no'. Consent can still be missing.",
-   "hi": "न कोई चोट, न चीख़, कई बार साफ़ 'ना' भी नहीं। फिर भी सहमति ग़ायब हो सकती है।",
    "hg": "Na koi bruise, na chillana, kabhi-kabhi clear 'na' bhi nahi. Phir bhi consent missing ho sakti hai."
   },
   "objectives": [
    {
     "en": "Recognise pressure, stealthing, reproductive coercion, drink spiking and deceit as violations of consent.",
-    "hi": "दबाव, स्टेल्थिंग, प्रजनन संबंधी ज़बरदस्ती, ड्रिंक में नशा मिलाने और धोखे को सहमति के उल्लंघन के रूप में पहचानना।",
     "hg": "Pressure, stealthing, reproductive coercion, drink spiking aur dhoke ko consent ke violation ke roop mein pehchanna."
    },
    {
     "en": "Understand how Indian law treats these situations, including where it is unclear or unequal.",
-    "hi": "समझना कि भारतीय क़ानून इन स्थितियों को कैसे देखता है, और कहाँ वह अस्पष्ट या ग़ैर-बराबर है।",
     "hg": "Samajhna ki Indian law in situations ko kaise dekhta hai, aur kahan woh unclear ya unequal hai."
    },
    {
     "en": "Know the time-sensitive medical steps and support options afterwards.",
-    "hi": "जानना कि बाद में कौन से इलाज समय-सीमा वाले हैं और सहारा कहाँ मिलता है।",
     "hg": "Jaanna ki baad mein kaun se medical steps time-sensitive hain aur support kahan milta hai."
    }
   ],
@@ -1783,48 +1530,40 @@
    {
     "h": {
      "en": "A yes that was worn down is not consent",
-     "hi": "थकाकर ली गई 'हाँ' सहमति नहीं है",
      "hg": "Thakakar li gayi 'haan' consent nahi hai"
     },
     "body": {
      "en": "Consent is a free choice. It is not free when it follows hours of pressure, sulking, guilt ('if you loved me'), insults, threats to leave or tell others, or control over money or housing. This happens to every gender; men are often mocked into unwanted sex because a 'real man' never refuses. It happens in marriage too, where sex is called a duty; ethically and medically, marriage is not consent. Indian criminal law still does not call a husband's forced intercourse with his adult wife rape; this exception is contested and under challenge. The domestic violence law recognises sexual abuse in marriage, and a wife can seek protection orders.",
-     "hi": "सहमति अपनी मर्ज़ी का फ़ैसला है। वह अपनी मर्ज़ी की नहीं रहती जब वह घंटों के दबाव, रूठने, अपराध-बोध ('अगर तुम्हें मुझसे प्यार होता'), अपमान, छोड़ देने या दूसरों को बता देने की धमकी, या पैसे और रहने की जगह पर क़ाबू के बाद मिली हो। यह हर जेंडर के साथ होता है; पुरुषों को अक्सर ताने देकर अनचाहे सेक्स के लिए मजबूर किया जाता है, क्योंकि 'असली मर्द' कभी मना नहीं करता। यह शादी के भीतर भी होता है, जहाँ सेक्स को फ़र्ज़ कहा जाता है; नैतिक और चिकित्सा की नज़र से शादी सहमति नहीं है। भारतीय आपराधिक क़ानून अब भी पति द्वारा अपनी वयस्क पत्नी के साथ जबरन संभोग को बलात्कार नहीं कहता; यह अपवाद विवादित है और इसे चुनौती दी गई है। घरेलू हिंसा क़ानून शादी के भीतर यौन दुर्व्यवहार को मानता है, और पत्नी सुरक्षा आदेश माँग सकती है।",
      "hg": "Consent ek free choice hai. Woh free nahi rehti jab woh ghanton ke pressure, roothne, guilt ('agar tumhe mujhse pyaar hota'), insults, chhod dene ya doosron ko bata dene ki dhamki, ya paise aur rehne ki jagah par control ke baad mili ho. Yeh har gender ke saath hota hai; men ko aksar taane dekar unwanted sex ke liye majboor kiya jaata hai, kyunki 'asli mard' kabhi mana nahi karta. Yeh shaadi ke andar bhi hota hai, jahan sex ko duty bola jaata hai; ethically aur medically shaadi consent nahi hai. Indian criminal law abhi bhi husband dwara apni adult wife ke saath forced intercourse ko rape nahi kehta; yeh exception contested hai aur ise challenge kiya gaya hai. Domestic violence law shaadi ke andar sexual abuse ko recognise karta hai, aur wife protection orders maang sakti hai."
     }
    },
    {
     "h": {
      "en": "Stealthing and reproductive coercion",
-     "hi": "स्टेल्थिंग और प्रजनन संबंधी ज़बरदस्ती",
      "hg": "Stealthing aur reproductive coercion"
     },
     "body": {
      "en": "Stealthing is removing or damaging a condom during sex without the partner's agreement. Sex with a condom was what was agreed, so this breaks consent and risks pregnancy and infection. Indian law does not name stealthing, and how courts would treat it is not settled. Reproductive coercion is control over whether someone becomes pregnant: hiding pills, refusing or lying about contraception, pressure to conceive, or forcing someone to continue or end a pregnancy. Partners of any gender do it, and so do in-laws demanding a child or son. Under abortion law the decision belongs to the adult woman herself. A doctor can suggest contraception a partner cannot interfere with.",
-     "hi": "स्टेल्थिंग का मतलब है सेक्स के दौरान पार्टनर की रज़ामंदी के बिना कंडोम हटा देना या उसे ख़राब कर देना। हामी कंडोम के साथ सेक्स की थी, इसलिए यह सहमति तोड़ता है और गर्भ व संक्रमण का जोखिम पैदा करता है। भारतीय क़ानून में स्टेल्थिंग का नाम नहीं है, और अदालतें इसे कैसे देखेंगी यह तय नहीं है। प्रजनन संबंधी ज़बरदस्ती (reproductive coercion) का मतलब है इस पर क़ाबू करना कि कोई गर्भवती हो या नहीं: गोलियाँ छिपाना, गर्भनिरोधक से इनकार करना या उसके बारे में झूठ बोलना, गर्भ ठहराने का दबाव, या किसी को गर्भ जारी रखने या गिराने के लिए मजबूर करना। यह किसी भी जेंडर के पार्टनर करते हैं, और बच्चा या बेटा माँगने वाले ससुराल वाले भी। गर्भपात क़ानून के तहत फ़ैसला वयस्क महिला का अपना है। डॉक्टर ऐसा गर्भनिरोधक सुझा सकता है जिसमें पार्टनर दख़ल न दे सके।",
      "hg": "Stealthing ka matlab hai sex ke dauraan partner ke agreement ke bina condom hata dena ya use damage kar dena. Haan condom ke saath sex ke liye thi, isliye yeh consent todta hai aur pregnancy aur infection ka risk paida karta hai. Indian law mein stealthing ka naam nahi hai, aur courts ise kaise treat karengi yeh settled nahi hai. Reproductive coercion ka matlab hai is par control karna ki koi pregnant ho ya nahi: pills chhupana, contraception se mana karna ya uske baare mein jhooth bolna, conceive karne ka pressure, ya kisi ko pregnancy continue karne ya khatam karne ke liye force karna. Yeh kisi bhi gender ke partners karte hain, aur bachcha ya beta maangne wale sasural wale bhi. Abortion law ke under decision adult woman ka apna hai. Doctor aisa contraception suggest kar sakta hai jisme partner interfere na kar sake."
     }
    },
    {
     "h": {
      "en": "Spiked drinks and sex by deceit",
-     "hi": "ड्रिंक में नशा मिलाना और धोखे से सेक्स",
      "hg": "Spiked drinks aur dhoke se sex"
     },
     "body": {
      "en": "Drink spiking means secretly adding alcohol or a drug to someone's drink. It is done to every gender, to assault or rob, and is a crime. Signs: feeling far drunker than your drinks explain, sudden dizziness, confusion, memory gaps. Tell a trusted person, do not leave alone, and get medical help; call 112 if someone cannot be woken. Nobody who is heavily intoxicated or unconscious can consent, whoever poured the drink. Deceit undermines consent too: under the Bharatiya Nyaya Sanhita, a man who obtains sex from a woman by deceit, such as a marriage or job promise he never meant to keep, commits an offence. Deceived men are not covered.",
-     "hi": "ड्रिंक स्पाइकिंग का मतलब है किसी की ड्रिंक में चुपके से शराब या कोई नशीला पदार्थ मिला देना। यह हर जेंडर के लोगों के साथ किया जाता है, हमला करने या लूटने के लिए, और यह अपराध है। संकेत: जितना पिया उससे कहीं ज़्यादा नशा महसूस होना, अचानक चक्कर, उलझन, याददाश्त में ख़ाली जगहें। किसी भरोसेमंद व्यक्ति को बताएँ, अकेले न निकलें, और डॉक्टरी मदद लें; अगर किसी को जगाया न जा सके तो 112 पर कॉल करें। जो बहुत नशे में या बेहोश है वह सहमति नहीं दे सकता, ड्रिंक चाहे किसी ने भी डाली हो। धोखा भी सहमति को कमज़ोर करता है: भारतीय न्याय संहिता के तहत जो पुरुष किसी महिला से धोखे से सेक्स हासिल करता है, जैसे शादी या नौकरी का ऐसा वादा करके जिसे निभाने का उसका इरादा ही नहीं था, वह अपराध करता है। जिन पुरुषों के साथ धोखा हुआ हो, वे इसके दायरे में नहीं आते।",
      "hg": "Drink spiking ka matlab hai kisi ki drink mein chupke se alcohol ya koi drug mila dena. Yeh har gender ke logon ke saath kiya jaata hai, assault karne ya lootne ke liye, aur yeh crime hai. Signs: jitna piya usse kahin zyada nasha feel hona, achanak chakkar, confusion, memory gaps. Kisi trusted insaan ko batao, akele mat niklo, aur medical help lo; agar kisi ko jagaya na ja sake toh 112 par call karo. Jo bahut nashe mein ya behosh hai woh consent nahi de sakta, drink chahe kisi ne bhi daali ho. Dhoka bhi consent ko kamzor karta hai: Bharatiya Nyaya Sanhita ke under jo man kisi woman se dhoke se sex haasil karta hai, jaise shaadi ya job ka aisa promise karke jise nibhane ka uska intention hi nahi tha, woh offence karta hai. Jin men ke saath dhoka hua ho, woh isme cover nahi hote."
     }
    },
    {
     "h": {
      "en": "Afterwards: what you can do",
-     "hi": "उसके बाद: आप क्या कर सकते हैं",
      "hg": "Uske baad: tum kya kar sakte ho"
     },
     "body": {
      "en": "What happened was not your fault, even if you had been drinking, were dating them or never said no aloud. Emergency contraception works up to 5 days after unprotected sex, the sooner the better, and a copper IUD is the most effective form. HIV prevention medicine (PEP) needs a doctor's assessment and must start within 72 hours. Ask about tests for other infections; some need repeating later. If you suspect spiking, go early: some substances leave the body quickly. You can get care before deciding about the police; ask the doctor what they must report. Call 181 or 14416 for support, 112 in danger, 15100 for legal advice.",
-     "hi": "जो हुआ उसमें आपकी ग़लती नहीं थी, तब भी नहीं जब आपने शराब पी थी, आप उस व्यक्ति को डेट कर रहे थे या आपने मुँह से 'ना' कहा ही नहीं। इमरजेंसी गर्भनिरोधक असुरक्षित सेक्स के 5 दिन बाद तक काम करता है, जितना जल्दी उतना बेहतर, और कॉपर आईयूडी इसका सबसे असरदार रूप है। एचआईवी से बचाव की दवा (PEP) के लिए डॉक्टर की जाँच ज़रूरी है और इसे 72 घंटे के भीतर शुरू करना होता है। दूसरे संक्रमणों की जाँच के बारे में पूछें; कुछ जाँचें बाद में दोहरानी पड़ती हैं। अगर ड्रिंक में कुछ मिलाए जाने का शक है तो जल्दी जाएँ: कुछ पदार्थ शरीर से जल्दी निकल जाते हैं। पुलिस के बारे में फ़ैसला करने से पहले भी आप इलाज ले सकते हैं; डॉक्टर से पूछ लें कि उन्हें किस बात की सूचना देनी होती है। सहारे के लिए 181 या 14416, ख़तरे में 112 और क़ानूनी सलाह के लिए 15100 पर कॉल करें।",
      "hg": "Jo hua usme tumhari galti nahi thi, tab bhi nahi jab tumne drink ki thi, tum us insaan ko date kar rahe the ya tumne bolkar 'na' kaha hi nahi. Emergency contraception unprotected sex ke 5 din baad tak kaam karta hai, jitna jaldi utna better, aur copper IUD iska sabse effective form hai. HIV prevention medicine (PEP) ke liye doctor ka assessment zaroori hai aur ise 72 ghante ke andar start karna hota hai. Doosre infections ke tests ke baare mein poocho; kuch tests baad mein repeat karne padte hain. Agar spiking ka shak hai toh jaldi jao: kuch substances body se jaldi nikal jaate hain. Police ke baare mein decide karne se pehle bhi tum care le sakte ho; doctor se pooch lo ki unhe kya report karna hota hai. Support ke liye 181 ya 14416, danger mein 112 aur legal advice ke liye 15100 par call karo."
     }
    }
@@ -1832,35 +1571,29 @@
   "myth": {
    "claim": {
     "en": "If they finally said yes, it was consent.",
-    "hi": "अगर उसने आख़िर में हाँ कह दी, तो वह सहमति थी।",
     "hg": "Agar usne finally haan bol diya, toh woh consent thi."
    },
    "fact": {
     "en": "A yes given to stop pressure, threats, guilt or fear is not a free choice. Consent has to be voluntary, and it can come with conditions, such as using a condom. Wearing someone down is coercion, even when no force is used.",
-    "hi": "दबाव, धमकी, अपराध-बोध या डर से पीछा छुड़ाने के लिए कही गई 'हाँ' अपनी मर्ज़ी का फ़ैसला नहीं है। सहमति स्वेच्छा से होनी चाहिए, और उसके साथ शर्तें जुड़ी हो सकती हैं, जैसे कंडोम का इस्तेमाल। किसी को थका-थकाकर मनवाना ज़बरदस्ती है, भले ही कोई बल न लगाया गया हो।",
     "hg": "Pressure, dhamki, guilt ya darr ko rokne ke liye boli gayi 'haan' free choice nahi hai. Consent voluntary honi chahiye, aur uske saath conditions ho sakti hain, jaise condom use karna. Kisi ko thaka-thakakar manwana coercion hai, chahe koi force use na hua ho."
    }
   },
   "takeaways": [
    {
     "en": "Consent must be free, informed and specific; pressure, deceit, intoxication and removing agreed protection all undermine it.",
-    "hi": "सहमति अपनी मर्ज़ी से, पूरी जानकारी के साथ और किसी ख़ास बात के लिए होनी चाहिए; दबाव, धोखा, नशा और तय किए गए बचाव को हटाना, ये सब उसे कमज़ोर करते हैं।",
     "hg": "Consent free, informed aur specific honi chahiye; pressure, dhoka, nasha aur agreed protection ko hatana, yeh sab use kamzor karte hain."
    },
    {
     "en": "Controlling someone's contraception or pregnancy is abuse, and under Indian abortion law the decision belongs to the adult woman herself.",
-    "hi": "किसी के गर्भनिरोधक या गर्भ पर क़ाबू करना दुर्व्यवहार है, और भारतीय गर्भपात क़ानून के तहत फ़ैसला वयस्क महिला का अपना है।",
     "hg": "Kisi ke contraception ya pregnancy ko control karna abuse hai, aur Indian abortion law ke under decision adult woman ka apna hai."
    },
    {
     "en": "After any unwanted or unprotected sex, time matters: PEP within 72 hours and emergency contraception within 5 days.",
-    "hi": "किसी भी अनचाहे या असुरक्षित सेक्स के बाद समय अहम है: PEP 72 घंटे के भीतर और इमरजेंसी गर्भनिरोधक 5 दिन के भीतर।",
     "hg": "Kisi bhi unwanted ya unprotected sex ke baad time matter karta hai: PEP 72 ghante ke andar aur emergency contraception 5 din ke andar."
    }
   ],
   "activity": {
    "en": "Privately, finish this sentence in your own words: 'In my relationships, a yes only counts when...'. Then note one person you could call at any hour if a night out went wrong, and save 112, 181 and 14416.",
-   "hi": "अकेले में इस वाक्य को अपने शब्दों में पूरा करें: 'मेरे रिश्तों में हाँ तभी मायने रखती है जब...'। फिर एक ऐसे व्यक्ति का नाम लिखें जिसे आप किसी भी समय फ़ोन कर सकें अगर बाहर बिताई कोई रात बिगड़ जाए, और 112, 181 और 14416 सेव करें।",
    "hg": "Privately is sentence ko apne words mein complete karo: 'Mere relationships mein haan tabhi count hoti hai jab...'. Phir ek aise insaan ka naam note karo jise tum kisi bhi time call kar sako agar koi night out bigad jaye, aur 112, 181 aur 14416 save karo."
   },
   "interactive": "consent_sim",
@@ -1870,35 +1603,29 @@
     "type": "scenario",
     "q": {
      "en": "Tanvi, 23, wakes up after a party with large memory gaps, feels unusually ill and suspects her drink was spiked. What should she do first?",
-     "hi": "तन्वी, 23, एक पार्टी के बाद उठती है तो उसे शाम का बड़ा हिस्सा याद नहीं है, तबीयत अजीब तरह से ख़राब है और उसे शक है कि उसकी ड्रिंक में कुछ मिलाया गया था। उसे सबसे पहले क्या करना चाहिए?",
      "hg": "Tanvi, 23, ek party ke baad uthti hai toh use evening ka bada hissa yaad nahi hai, tabiyat unusual tarah se kharab hai aur use shak hai ki uski drink spike ki gayi thi. Use sabse pehle kya karna chahiye?"
     },
     "options": [
      {
       "en": "Wait a few days to see whether her memory returns",
-      "hi": "कुछ दिन रुककर देखना कि याददाश्त लौटती है या नहीं",
       "hg": "Kuch din wait karke dekhna ki memory wapas aati hai ya nahi"
      },
      {
       "en": "Ask about it in the party group chat before doing anything else",
-      "hi": "कुछ और करने से पहले पार्टी के ग्रुप चैट में इसके बारे में पूछना",
       "hg": "Kuch aur karne se pehle party ke group chat mein iske baare mein poochna"
      },
      {
       "en": "Tell a trusted person and get medical care the same day",
-      "hi": "किसी भरोसेमंद व्यक्ति को बताना और उसी दिन डॉक्टरी मदद लेना",
       "hg": "Kisi trusted insaan ko batana aur usi din medical care lena"
      },
      {
       "en": "Keep it to herself, because she had chosen to drink",
-      "hi": "बात अपने तक रखना, क्योंकि पीने का फ़ैसला उसका अपना था",
       "hg": "Baat apne tak rakhna, kyunki drink karne ka decision uska apna tha"
      }
     ],
     "answer": 2,
     "explain": {
      "en": "Early medical care matters: some substances leave the body quickly, emergency contraception works up to 5 days and HIV prevention medicine must start within 72 hours. A trusted person can help her stay safe and decide what to do next.",
-     "hi": "जल्दी इलाज अहम है: कुछ पदार्थ शरीर से जल्दी निकल जाते हैं, इमरजेंसी गर्भनिरोधक 5 दिन तक काम करता है और एचआईवी से बचाव की दवा 72 घंटे के भीतर शुरू करनी होती है। कोई भरोसेमंद व्यक्ति उसे सुरक्षित रहने और आगे का फ़ैसला करने में मदद कर सकता है।",
      "hg": "Early medical care matter karti hai: kuch substances body se jaldi nikal jaate hain, emergency contraception 5 din tak kaam karta hai aur HIV prevention medicine 72 ghante ke andar start karni hoti hai. Ek trusted insaan use safe rehne aur aage ka decision lene mein help kar sakta hai."
     }
    },
@@ -1907,25 +1634,21 @@
     "type": "tf",
     "q": {
      "en": "A partner who agreed to sex with a condom has also agreed to sex without one.",
-     "hi": "जिस पार्टनर ने कंडोम के साथ सेक्स के लिए हाँ कही, उसने बिना कंडोम के सेक्स के लिए भी हाँ कह दी है।",
      "hg": "Jis partner ne condom ke saath sex ke liye haan kaha, usne bina condom ke sex ke liye bhi haan keh diya hai."
     },
     "options": [
      {
       "en": "True",
-      "hi": "सही",
       "hg": "Sahi"
      },
      {
       "en": "False",
-      "hi": "ग़लत",
       "hg": "Galat"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "Consent is specific. Removing or damaging a condom without agreement, known as stealthing, breaks the condition on which consent was given and exposes the partner to pregnancy and infection.",
-     "hi": "सहमति किसी ख़ास बात के लिए होती है। रज़ामंदी के बिना कंडोम हटाना या ख़राब करना, जिसे स्टेल्थिंग कहते हैं, उस शर्त को तोड़ता है जिस पर सहमति दी गई थी और पार्टनर को गर्भ और संक्रमण के जोखिम में डालता है।",
      "hg": "Consent specific hoti hai. Agreement ke bina condom hatana ya damage karna, jise stealthing kehte hain, us condition ko todta hai jis par consent di gayi thi aur partner ko pregnancy aur infection ke risk mein daalta hai."
     }
    }
@@ -1942,7 +1665,6 @@
   ],
   "warning": {
    "en": "If someone is unconscious, cannot be woken or is struggling to breathe after drinking, call 112 immediately. After unprotected or unwanted sex, emergency contraception works up to 5 days and HIV prevention medicine must start within 72 hours, so see a doctor early. Legal points are general information as of 14 November 2026, not legal advice, and not yet reviewed by a lawyer; laws can change.",
-   "hi": "अगर शराब पीने के बाद कोई बेहोश है, जगाने पर नहीं जाग रहा या साँस लेने में तकलीफ़ है, तो तुरंत 112 पर कॉल करें। असुरक्षित या अनचाहे सेक्स के बाद इमरजेंसी गर्भनिरोधक 5 दिन तक काम करता है और एचआईवी से बचाव की दवा 72 घंटे के भीतर शुरू करनी होती है, इसलिए जल्दी डॉक्टर से मिलें। क़ानूनी बातें 14 नवंबर 2026 तक की सामान्य जानकारी हैं, क़ानूनी सलाह नहीं, और अभी किसी वकील ने इनकी समीक्षा नहीं की है; क़ानून बदल सकते हैं।",
    "hg": "Agar drink karne ke baad koi behosh hai, jagane par nahi jaag raha ya saans lene mein dikkat hai, toh turant 112 par call karo. Unprotected ya unwanted sex ke baad emergency contraception 5 din tak kaam karta hai aur HIV prevention medicine 72 ghante ke andar start karni hoti hai, isliye jaldi doctor se milo. Legal baatein 14 November 2026 tak ki general information hain, legal advice nahi, aur abhi kisi lawyer ne inhe review nahi kiya hai; laws badal sakte hain."
   },
   "sensitive": true,

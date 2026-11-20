@@ -77,20 +77,18 @@ def words(s):
 
 def check_l(where, v, min_en_words=1, max_en_words=None):
     if not isinstance(v, dict):
-        err(where, "expected localized object {en,hi,hg}")
+        err(where, "expected localized object {en,hg}")
         return
-    for k in ("en", "hi", "hg"):
+    for k in ("en", "hg"):
         s = v.get(k)
         if not isinstance(s, str) or not s.strip():
             err(where, f"missing/empty '{k}'")
             return
         if "\n" in s:
             err(where, f"'{k}' contains a newline")
-    extra = set(v.keys()) - {"en", "hi", "hg"}
+    extra = set(v.keys()) - {"en", "hg"}
     if extra:
         err(where, f"unexpected keys {sorted(extra)}")
-    if not DEVA.search(v["hi"]):
-        err(where, "'hi' has no Devanagari text")
     if DEVA.search(v["hg"]):
         err(where, "'hg' (Hinglish) must be Roman script, found Devanagari")
     if DEVA.search(v["en"]):
@@ -100,9 +98,9 @@ def check_l(where, v, min_en_words=1, max_en_words=None):
         err(where, f"'en' too short ({n} words, need >= {min_en_words})")
     if max_en_words and n > max_en_words:
         err(where, f"'en' too long ({n} words, max {max_en_words})")
-    # the other languages must not be drastically thinner than English
+    # Hinglish must not be drastically thinner than English
     if n >= 20:
-        for k in ("hi", "hg"):
+        for k in ("hg",):
             if words(v[k]) < n * 0.55:
                 err(where, f"'{k}' looks much shorter than 'en' ({words(v[k])} vs {n} words)")
 

@@ -9,16 +9,34 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:unfiltered/app.dart';
 import 'package:unfiltered/core/l10n.dart';
 import 'package:unfiltered/data/content.dart';
+import 'package:unfiltered/data/magazine.dart';
 import 'package:unfiltered/data/store.dart';
 
 ContentRepository? _content;
 
 /// Loads the real bundled curriculum straight from `assets/content/`.
-Future<ContentRepository> loadContent() async =>
-    _content ??= await ContentRepository.load((p) async {
-      final f = File('assets/content/$p');
-      return f.existsSync() ? f.readAsString() : null;
-    });
+Future<ContentRepository> loadContent() async {
+  _loadMagazineFiles();
+  return _content ??= await ContentRepository.load((p) async {
+    final f = File('assets/content/$p');
+    return f.existsSync() ? f.readAsString() : null;
+  });
+}
+
+/// Magazine files, read once up front: real file IO cannot run inside
+/// testWidgets' fake async zone, so the app reads them from memory.
+final magazineFiles = <String, String>{};
+void _loadMagazineFiles() {
+  if (magazineFiles.isNotEmpty) return;
+  final root = Directory('assets/content/magazine');
+  if (!root.existsSync()) return;
+  for (final f in root.listSync(recursive: true).whereType<File>()) {
+    final rel = f.path.replaceFirst('assets/content/', '');
+    magazineFiles[rel] = f.readAsStringSync();
+  }
+}
+
+Future<String?> readMagazineFile(String p) async => magazineFiles[p];
 
 /// Registers the real fonts so layout in widget tests matches the device.
 Future<void> loadFonts() async {
@@ -33,10 +51,6 @@ Future<void> loadFonts() async {
 
   await family('PlusJakartaSans', [
     for (final w in [400, 500, 600, 700, 800]) 'PlusJakartaSans-$w.ttf',
-  ]);
-  await family('Mukta', [
-    for (final w in ['Regular', 'Medium', 'SemiBold', 'Bold', 'ExtraBold'])
-      'Mukta-$w.ttf',
   ]);
 }
 
@@ -87,6 +101,7 @@ Future<TestApp> pumpApp(
     overrides: [
       storeProvider.overrideWithValue(store),
       contentProvider.overrideWithValue(content),
+      magazineReaderProvider.overrideWithValue(readMagazineFile),
     ],
   );
   addTearDown(container.dispose);

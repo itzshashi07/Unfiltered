@@ -12,35 +12,29 @@
   "type": "mcq",
   "q": {
    "en": "What does a label like 'sponsored' or 'paid partnership' on a post tell you?",
-   "hi": "किसी पोस्ट पर 'sponsored' या 'paid partnership' जैसा लेबल तुम्हें क्या बताता है?",
    "hg": "Kisi post pe 'sponsored' ya 'paid partnership' jaisa label tumhe kya batata hai?"
   },
   "options": [
    {
     "en": "The post has been checked and is true",
-    "hi": "पोस्ट की जाँच हो चुकी है और वह सच है",
     "hg": "Post check ho chuki hai aur sach hai"
    },
    {
     "en": "The creator is a doctor or an expert",
-    "hi": "क्रिएटर डॉक्टर या विशेषज्ञ है",
     "hg": "Creator doctor ya expert hai"
    },
    {
     "en": "A brand paid or rewarded the creator to promote something",
-    "hi": "किसी ब्रांड ने कुछ प्रमोट करने के लिए क्रिएटर को पैसे या इनाम दिया है",
     "hg": "Kisi brand ne kuch promote karne ke liye creator ko paise ya reward diya hai"
    },
    {
     "en": "The post is only for adults",
-    "hi": "पोस्ट सिर्फ़ बड़ों के लिए है",
     "hg": "Post sirf adults ke liye hai"
    }
   ],
   "answer": 2,
   "explain": {
    "en": "The label means it is an advertisement. The creator has a reason to praise the product, so their opinion may not be neutral.",
-   "hi": "इस लेबल का मतलब है कि यह एक विज्ञापन है। क्रिएटर के पास प्रोडक्ट की तारीफ़ करने की वजह है, इसलिए उसकी राय निष्पक्ष नहीं भी हो सकती।",
    "hg": "Is label ka matlab hai ki yeh ad hai. Creator ke paas product ki tareef karne ki wajah hai, isliye uski opinion neutral nahi bhi ho sakti."
   }
  },
@@ -57,25 +51,21 @@
   "type": "tf",
   "q": {
    "en": "Apps use an algorithm that shows you more of what you tap and watch, so that you keep scrolling.",
-   "hi": "ऐप एक एल्गोरिदम इस्तेमाल करते हैं जो तुम्हें वही और दिखाता है जिस पर तुम टैप करते और जिसे देखते हो, ताकि तुम स्क्रॉल करते रहो।",
    "hg": "Apps ek algorithm use karte hain jo tumhe wahi aur dikhata hai jis pe tum tap karte aur jo dekhte ho, taaki tum scroll karte raho."
   },
   "options": [
    {
     "en": "True",
-    "hi": "सही",
     "hg": "Sahi"
    },
    {
     "en": "False",
-    "hi": "ग़लत",
     "hg": "Galat"
    }
   ],
   "answer": 0,
   "explain": {
    "en": "Feeds are arranged by an algorithm designed to hold your attention. What appears next is chosen to keep you watching, not because it is true or good for you.",
-   "hi": "फ़ीड एक एल्गोरिदम से सजाई जाती है जो तुम्हारा ध्यान बाँधे रखने के लिए बना है। अगली चीज़ इसलिए चुनी जाती है कि तुम देखते रहो, इसलिए नहीं कि वह सच या तुम्हारे लिए अच्छी है।",
    "hg": "Feed ek algorithm se arrange hoti hai jo tumhara attention pakde rakhne ke liye bana hai. Agli cheez isliye chuni jaati hai ki tum dekhte raho, isliye nahi ki woh sach ya tumhare liye achhi hai."
   }
  },
@@ -93,35 +83,29 @@
   "type": "mcq",
   "q": {
    "en": "Which of these is usually missing from pornography but essential in real, respectful relationships?",
-   "hi": "इनमें से कौन-सी चीज़ पोर्नोग्राफ़ी में आमतौर पर नहीं होती लेकिन असली, सम्मान वाले रिश्तों में ज़रूरी है?",
    "hg": "Inmein se kaun-si cheez pornography mein aksar missing hoti hai lekin real, respectful relationships mein zaroori hai?"
   },
   "options": [
    {
     "en": "Asking for and respecting consent",
-    "hi": "सहमति माँगना और उसका सम्मान करना",
     "hg": "Consent maangna aur uska respect karna"
    },
    {
     "en": "Careful lighting",
-    "hi": "ध्यान से की गई लाइटिंग",
     "hg": "Dhyan se ki gayi lighting"
    },
    {
     "en": "A planned script",
-    "hi": "पहले से तय स्क्रिप्ट",
     "hg": "Pehle se planned script"
    },
    {
     "en": "Edited scenes",
-    "hi": "एडिट किए हुए सीन",
     "hg": "Edited scenes"
    }
   ],
   "answer": 0,
   "explain": {
    "en": "Porn has plenty of lighting, scripting and editing. What it leaves out is people asking, checking in and accepting a no, which real relationships depend on.",
-   "hi": "पोर्न में लाइटिंग, स्क्रिप्ट और एडिटिंग भरपूर होती है। जो छूट जाता है वह है लोगों का पूछना, हाल जानना और ना को मानना — जिस पर असली रिश्ते टिके होते हैं।",
    "hg": "Porn mein lighting, script aur editing bharpoor hoti hai. Jo chhoot jaata hai woh hai logon ka puchna, check-in karna aur na ko accept karna — jis pe real relationships tike hote hain."
   }
  },
@@ -140,35 +124,29 @@
   "type": "mcq",
   "q": {
    "en": "Which is a common warning sign of a sextortion attempt?",
-   "hi": "सेक्सटॉर्शन की कोशिश का आम चेतावनी संकेत कौन-सा है?",
    "hg": "Sextortion attempt ka common warning sign kaun-sa hai?"
   },
   "options": [
    {
     "en": "A website keeps showing pop-up adverts",
-    "hi": "कोई वेबसाइट बार-बार पॉप-अप विज्ञापन दिखाती है",
     "hg": "Koi website baar-baar pop-up ads dikhati hai"
    },
    {
     "en": "A new online contact quickly pushes for a private video call or intimate photos",
-    "hi": "कोई नया ऑनलाइन संपर्क जल्दी ही प्राइवेट वीडियो कॉल या अंतरंग फ़ोटो के लिए ज़ोर देता है",
     "hg": "Koi naya online contact jaldi hi private video call ya intimate photos ke liye push karta hai"
    },
    {
     "en": "An app asks for permission to use your location",
-    "hi": "कोई ऐप तुम्हारी लोकेशन इस्तेमाल करने की इजाज़त माँगता है",
     "hg": "Koi app tumhari location use karne ki permission maangta hai"
    },
    {
     "en": "A school friend tags you in a group photo",
-    "hi": "स्कूल का कोई दोस्त तुम्हें ग्रुप फ़ोटो में टैग करता है",
     "hg": "School ka koi dost tumhe group photo mein tag karta hai"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "Fast intimacy from a stranger, a move to a private app and requests for intimate images or calls are the typical opening steps of sextortion.",
-   "hi": "किसी अजनबी का जल्दी नज़दीकी बढ़ाना, प्राइवेट ऐप पर ले जाना और अंतरंग तस्वीरें या कॉल माँगना सेक्सटॉर्शन के शुरुआती आम क़दम हैं।",
    "hg": "Stranger ka fast closeness banana, private app pe le jaana aur intimate images ya calls maangna sextortion ke typical shuruaati steps hain."
   }
  },
@@ -186,35 +164,29 @@
   "type": "mcq",
   "q": {
    "en": "Which pattern suggests that porn use may have become compulsive?",
-   "hi": "कौन-सा पैटर्न बताता है कि पोर्न देखना शायद बेक़ाबू हो चुका है?",
    "hg": "Kaun-sa pattern batata hai ki porn use shayad compulsive ho chuka hai?"
   },
   "options": [
    {
     "en": "Feeling curious about it once",
-    "hi": "एक बार इसके बारे में जिज्ञासा होना",
     "hg": "Ek baar iske baare mein curious hona"
    },
    {
     "en": "Repeatedly failing to cut down while sleep, studies or work suffer",
-    "hi": "कम करने में बार-बार नाकाम होना और नींद, पढ़ाई या काम पर असर पड़ना",
     "hg": "Kam karne mein baar-baar fail hona aur neend, padhai ya kaam pe asar padna"
    },
    {
     "en": "Choosing not to watch it",
-    "hi": "इसे न देखने का फ़ैसला करना",
     "hg": "Ise na dekhne ka decision lena"
    },
    {
     "en": "Finding it unrealistic",
-    "hi": "इसे असलियत से दूर पाना",
     "hg": "Ise unrealistic paana"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "Loss of control plus harm to daily life is the key sign. Curiosity alone is not a problem, and help from a counsellor or Tele-MANAS (14416) works.",
-   "hi": "क़ाबू का छूटना और रोज़ की ज़िंदगी को नुक़सान, यही मुख्य संकेत है। सिर्फ़ जिज्ञासा कोई समस्या नहीं है, और काउंसलर या टेली-मानस (14416) की मदद से फ़र्क़ पड़ता है।",
    "hg": "Control ka chhootna aur daily life ko nuksaan, yahi main sign hai. Sirf curiosity koi problem nahi hai, aur counsellor ya Tele-MANAS (14416) ki help kaam karti hai."
   }
  },
@@ -232,25 +204,21 @@
   "type": "tf",
   "q": {
    "en": "Under Indian law, sharing someone's private intimate image without their consent can be an offence even if you received it from someone else.",
-   "hi": "भारतीय क़ानून में किसी की निजी अंतरंग तस्वीर उसकी सहमति के बिना शेयर करना अपराध हो सकता है, भले ही वह तुम्हें किसी और से मिली हो।",
    "hg": "Indian law mein kisi ki private intimate image uski consent ke bina share karna offence ho sakta hai, chahe woh tumhe kisi aur se mili ho."
   },
   "options": [
    {
     "en": "True",
-    "hi": "सही",
     "hg": "Sahi"
    },
    {
     "en": "False",
-    "hi": "ग़लत",
     "hg": "Galat"
    }
   ],
   "answer": 0,
   "explain": {
    "en": "The IT Act covers sharing private and sexually explicit images without consent. Passing on what you received is still sharing, so do not forward; report instead.",
-   "hi": "आईटी एक्ट के दायरे में बिना सहमति निजी और यौन रूप से स्पष्ट तस्वीरें शेयर करना आता है। जो तुम्हें मिला उसे आगे बढ़ाना भी शेयर करना ही है, इसलिए फ़ॉरवर्ड मत करो; रिपोर्ट करो।",
    "hg": "IT Act mein bina consent private aur sexually explicit images share karna cover hota hai. Jo tumhe mila use aage badhana bhi sharing hi hai, isliye forward mat karo; report karo."
   }
  }

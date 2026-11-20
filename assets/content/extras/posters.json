@@ -1,0 +1,310 @@
+[
+ {
+  "id": "known-offender",
+  "type": "stat",
+  "section": "violence",
+  "kicker": {
+   "en": "Rape cases, India, 2024",
+   "hg": "Rape cases, India, 2024"
+  },
+  "title": {
+   "en": "He was not a stranger.",
+   "hg": "Woh koi ajnabi nahi tha."
+  },
+  "source": "NCRB, Crime in India 2024"
+ },
+ {
+  "id": "every-18-minutes",
+  "type": "stat",
+  "section": "violence",
+  "kicker": {
+   "en": "Rape cases registered by police, India, 2024",
+   "hg": "Police mein register rape cases, India, 2024"
+  },
+  "title": {
+   "en": "One every 18 minutes.",
+   "hg": "Har 18 minute mein ek."
+  },
+  "source": "NCRB, Crime in India 2024; NFHS-5 (2019–21)"
+ },
+ {
+  "id": "conviction-rate",
+  "type": "stat",
+  "section": "justice",
+  "kicker": {
+   "en": "Conviction rate, rape trials completed in 2024",
+   "hg": "Conviction rate, 2024 mein complete hue rape trials"
+  },
+  "title": {
+   "en": "3 in 4 trials end without a conviction.",
+   "hg": "4 mein se 3 trials mein saza nahi."
+  },
+  "source": "NCRB, Crime in India 2024"
+ },
+ {
+  "id": "pending-trials",
+  "type": "stat",
+  "section": "justice",
+  "kicker": {
+   "en": "Rape cases waiting for trial, end of 2024",
+   "hg": "Trial ke wait mein rape cases, 2024 ke end mein"
+  },
+  "title": {
+   "en": "Justice is still waiting.",
+   "hg": "Insaaf abhi bhi wait kar raha hai."
+  },
+  "source": "NCRB, Crime in India 2024"
+ },
+ {
+  "id": "never-told",
+  "type": "stat",
+  "section": "violence",
+  "kicker": {
+   "en": "Women who faced physical or sexual violence",
+   "hg": "Physical ya sexual violence face karne wali women"
+  },
+  "title": {
+   "en": "She never told anyone.",
+   "hg": "Usne kabhi kisi ko nahi bataya."
+  },
+  "source": "National Family Health Survey (NFHS-5), 2019–21"
+ },
+ {
+  "id": "dowry-deaths",
+  "type": "stat",
+  "section": "home",
+  "kicker": {
+   "en": "Dowry deaths registered, India, 2024",
+   "hg": "Register hue dowry death cases, India, 2024"
+  },
+  "title": {
+   "en": "Dowry still kills.",
+   "hg": "Dowry aaj bhi jaan le raha hai."
+  },
+  "source": "NCRB, Crime in India 2024"
+ },
+ {
+  "id": "pocso-girls",
+  "type": "stat",
+  "section": "children",
+  "kicker": {
+   "en": "POCSO cases, girls under 18, 2024",
+   "hg": "POCSO cases, 18 se kam umar ki ladkiyan, 2024"
+  },
+  "title": {
+   "en": "Children. Not statistics.",
+   "hg": "Bachche hain, statistics nahi."
+  },
+  "source": "NCRB, Crime in India 2024"
+ },
+ {
+  "id": "child-marriage",
+  "type": "stat",
+  "section": "children",
+  "kicker": {
+   "en": "Women aged 20–24, NFHS-5",
+   "hg": "20–24 saal ki women, NFHS-5"
+  },
+  "title": {
+   "en": "Married before 18.",
+   "hg": "18 se pehle shaadi."
+  },
+  "source": "NFHS-5 (2019–21); NCRB, Crime in India 2024"
+ },
+ {
+  "id": "unsafe-abortion",
+  "type": "stat",
+  "section": "abortion",
+  "kicker": {
+   "en": "Maternal deaths in India",
+   "hg": "India mein maternal deaths"
+  },
+  "title": {
+   "en": "Abortion is legal. Unsafe abortion kills.",
+   "hg": "Abortion legal hai. Unsafe abortion jaanleva hai."
+  },
+  "source": "MoHFW, Comprehensive Abortion Care guidelines, 2023"
+ },
+ {
+  "id": "marital-rape",
+  "type": "law",
+  "section": "home",
+  "kicker": {
+   "en": "Bharatiya Nyaya Sanhita, Section 63",
+   "hg": "Bharatiya Nyaya Sanhita, Section 63"
+  },
+  "title": {
+   "en": "Forced sex by a husband is still not 'rape' in Indian law.",
+   "hg": "Husband ka zabardasti sex aaj bhi law mein 'rape' nahi."
+  },
+  "source": "Bharatiya Nyaya Sanhita, 2023, s.63"
+ },
+ {
+  "id": "two-finger-test",
+  "type": "case",
+  "section": "case-files",
+  "kicker": {
+   "en": "Case file: the two-finger test",
+   "hg": "Case file: two-finger test"
+  },
+  "title": {
+   "en": "Condemned in 2013. Still being banned in 2026.",
+   "hg": "2013 mein condemn. 2026 mein phir ban ki zaroorat."
+  },
+  "source": "Supreme Court, Lillu v. State of Haryana (2013); State of Jharkhand v. Shailendra Kumar Rai (2022); Jharkhand High Court (2026)"
+ },
+ {
+  "id": "zero-fir",
+  "type": "rights",
+  "section": "help",
+  "kicker": {
+   "en": "Know your rights",
+   "hg": "Apne rights jaano"
+  },
+  "title": {
+   "en": "No police station can send you away.",
+   "hg": "Koi police station tumhe wapas nahi bhej sakta."
+  },
+  "source": "BNSS, 2023, s.173 and s.397; BNS, 2023, s.199"
+ },
+ {
+  "id": "identity-crime",
+  "type": "law",
+  "section": "justice",
+  "kicker": {
+   "en": "Bharatiya Nyaya Sanhita, Section 72",
+   "hg": "Bharatiya Nyaya Sanhita, Section 72"
+  },
+  "title": {
+   "en": "Sharing a survivor's name is a crime.",
+   "hg": "Survivor ka naam share karna crime hai."
+  },
+  "source": "BNS, 2023, s.72; Supreme Court, Nipun Saxena v. Union of India (2018)"
+ },
+ {
+  "id": "sextortion",
+  "type": "stat",
+  "section": "digital",
+  "kicker": {
+   "en": "Sextortion cases that reach the police (estimate)",
+   "hg": "Police tak pahunchne wale sextortion cases (estimate)"
+  },
+  "title": {
+   "en": "Paying will not make it stop.",
+   "hg": "Paise dene se yeh nahi rukega."
+  },
+  "source": "Maharashtra Cyber police estimate, via Rest of World (2022)"
+ },
+ {
+  "id": "acid-attacks",
+  "type": "stat",
+  "section": "home",
+  "kicker": {
+   "en": "Acid attacks registered, India, 2024",
+   "hg": "Register hue acid attacks, India, 2024"
+  },
+  "title": {
+   "en": "Thrown in seconds. Carried for life.",
+   "hg": "Seconds ka attack. Zindagi bhar ka dard."
+  },
+  "source": "NCRB, Crime in India 2024; BNSS, 2023, s.397"
+ },
+ {
+  "id": "hiv",
+  "type": "stat",
+  "section": "health",
+  "kicker": {
+   "en": "People living with HIV in India, 2024",
+   "hg": "India mein HIV ke saath jee rahe log, 2024"
+  },
+  "title": {
+   "en": "Treatment works. Discrimination is illegal.",
+   "hg": "Treatment kaam karta hai. Discrimination illegal hai."
+  },
+  "source": "NACO, Sankalak 2025; HIV and AIDS Act, 2017"
+ },
+ {
+  "id": "myth-strangers",
+  "type": "myth",
+  "section": "myths",
+  "kicker": {
+   "en": "Correction",
+   "hg": "Correction"
+  },
+  "title": {
+   "en": "Rapists are strangers who attack on dark roads.",
+   "hg": "Rapists ajnabi hote hain jo andheri sadkon pe attack karte hain."
+  },
+  "source": "NCRB, Crime in India 2024"
+ },
+ {
+  "id": "myth-marriage",
+  "type": "myth",
+  "section": "myths",
+  "kicker": {
+   "en": "Correction",
+   "hg": "Correction"
+  },
+  "title": {
+   "en": "Once she is your wife, she cannot say no.",
+   "hg": "Wife ban gayi toh woh mana nahi kar sakti."
+  },
+  "source": "Protection of Women from Domestic Violence Act, 2005"
+ },
+ {
+  "id": "myth-boys",
+  "type": "myth",
+  "section": "myths",
+  "kicker": {
+   "en": "Correction",
+   "hg": "Correction"
+  },
+  "title": {
+   "en": "Boys can't be sexually abused.",
+   "hg": "Ladkon ka sexual abuse nahi ho sakta."
+  },
+  "source": "POCSO Act, 2012; NCMEC"
+ },
+ {
+  "id": "myth-false-cases",
+  "type": "myth",
+  "section": "myths",
+  "kicker": {
+   "en": "Correction",
+   "hg": "Correction"
+  },
+  "title": {
+   "en": "Most rape complaints are false.",
+   "hg": "Rape ki zyadatar complaints jhoothi hoti hain."
+  },
+  "source": "NCRB, Crime in India 2024"
+ },
+ {
+  "id": "helplines",
+  "type": "helpline",
+  "section": "help",
+  "kicker": {
+   "en": "Save these numbers. Share them.",
+   "hg": "Yeh numbers save karo. Share karo."
+  },
+  "title": {
+   "en": "You are not alone.",
+   "hg": "Tum akele nahi ho."
+  },
+  "source": "Government of India helplines"
+ },
+ {
+  "id": "body-safety",
+  "type": "rights",
+  "section": "children",
+  "kicker": {
+   "en": "For every parent",
+   "hg": "Har parent ke liye"
+  },
+  "title": {
+   "en": "Silence protects abusers. Words protect children.",
+   "hg": "Chuppi abuser ko bachati hai. Words bachche ko."
+  },
+  "source": "UNESCO ITGSE; POCSO Act, 2012; NCRB, Crime in India 2024"
+ }
+]

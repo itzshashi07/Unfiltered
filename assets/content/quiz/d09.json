@@ -12,35 +12,29 @@
   "type": "mcq",
   "q": {
    "en": "What is the only way to know for sure whether a person has an STI?",
-   "hi": "किसी व्यक्ति को एसटीआई है या नहीं, यह पक्के तौर पर जानने का इकलौता तरीक़ा क्या है?",
    "hg": "Kisi insaan ko STI hai ya nahi, yeh pakka jaanne ka only tareeka kya hai?"
   },
   "options": [
    {
     "en": "Checking whether they look healthy",
-    "hi": "यह देखना कि वे स्वस्थ दिखते हैं या नहीं",
     "hg": "Yeh dekhna ki woh healthy dikhte hain ya nahi"
    },
    {
     "en": "Asking how many partners they have had",
-    "hi": "यह पूछना कि उनके कितने पार्टनर रहे हैं",
     "hg": "Yeh poochna ki unke kitne partners rahe hain"
    },
    {
     "en": "A test arranged through a health worker",
-    "hi": "स्वास्थ्यकर्मी के ज़रिए कराई गई जाँच",
     "hg": "Health worker ke through karaya gaya test"
    },
    {
     "en": "Waiting to see whether symptoms appear",
-    "hi": "इंतज़ार करना कि लक्षण दिखते हैं या नहीं",
     "hg": "Wait karna ki symptoms dikhte hain ya nahi"
    }
   ],
   "answer": 2,
   "explain": {
    "en": "Many STIs never cause symptoms, and appearance or history cannot reveal an infection. Only testing can.",
-   "hi": "बहुत से एसटीआई में कभी लक्षण नहीं आते, और दिखावट या पिछला इतिहास संक्रमण नहीं बता सकते। यह सिर्फ़ जाँच से पता चलता है।",
    "hg": "Bahut se STIs mein kabhi symptoms nahi aate, aur looks ya history infection nahi bata sakte. Yeh sirf testing se pata chalta hai."
   }
  },
@@ -59,35 +53,29 @@
   "type": "mcq",
   "q": {
    "en": "Which number is India's national HIV/AIDS helpline?",
-   "hi": "भारत की राष्ट्रीय एचआईवी/एड्स हेल्पलाइन का नंबर कौन सा है?",
    "hg": "India ki national HIV/AIDS helpline ka number kaun sa hai?"
   },
   "options": [
    {
     "en": "Number 1098",
-    "hi": "नंबर 1098",
     "hg": "Number 1098"
    },
    {
     "en": "Number 1097",
-    "hi": "नंबर 1097",
     "hg": "Number 1097"
    },
    {
     "en": "Number 1930",
-    "hi": "नंबर 1930",
     "hg": "Number 1930"
    },
    {
     "en": "Number 14416",
-    "hi": "नंबर 14416",
     "hg": "Number 14416"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "1097 is the NACO HIV/AIDS helpline. 1098 is the Child Helpline, 1930 is for cybercrime and 14416 is Tele-MANAS for mental health.",
-   "hi": "1097 NACO की एचआईवी/एड्स हेल्पलाइन है। 1098 चाइल्ड हेल्पलाइन है, 1930 साइबर अपराध के लिए है और 14416 मानसिक स्वास्थ्य के लिए टेली-मानस है।",
    "hg": "1097 NACO ki HIV/AIDS helpline hai. 1098 Child Helpline hai, 1930 cybercrime ke liye hai aur 14416 mental health ke liye Tele-MANAS hai."
   }
  },
@@ -106,35 +94,29 @@
   "type": "mcq",
   "q": {
    "en": "Which part of the body does HIV mainly attack?",
-   "hi": "एचआईवी मुख्य रूप से शरीर के किस हिस्से पर हमला करता है?",
    "hg": "HIV mainly body ke kis part par attack karta hai?"
   },
   "options": [
    {
     "en": "The liver",
-    "hi": "लिवर",
     "hg": "Liver"
    },
    {
     "en": "The lungs",
-    "hi": "फेफड़े",
     "hg": "Lungs"
    },
    {
     "en": "The skin",
-    "hi": "त्वचा",
     "hg": "Skin"
    },
    {
     "en": "The immune system",
-    "hi": "प्रतिरक्षा तंत्र (इम्यून सिस्टम)",
     "hg": "Immune system"
    }
   ],
   "answer": 3,
   "explain": {
    "en": "HIV weakens the immune system, the body's defence against infections. Hepatitis B is the virus that mainly affects the liver.",
-   "hi": "एचआईवी प्रतिरक्षा तंत्र को कमज़ोर करता है, जो संक्रमणों के ख़िलाफ़ शरीर की ढाल है। लिवर पर मुख्य असर डालने वाला वायरस हेपेटाइटिस बी है।",
    "hg": "HIV immune system ko weak karta hai, jo infections ke khilaaf body ka defence hai. Liver ko mainly affect karne wala virus hepatitis B hai."
   }
  },
@@ -152,35 +134,29 @@
   "type": "mcq",
   "q": {
    "en": "Trichomoniasis is caused by which kind of germ?",
-   "hi": "ट्राइकोमोनिएसिस किस तरह के कीटाणु से होता है?",
    "hg": "Trichomoniasis kis type ke germ se hota hai?"
   },
   "options": [
    {
     "en": "A parasite",
-    "hi": "परजीवी (पैरासाइट)",
     "hg": "Parasite"
    },
    {
     "en": "A virus",
-    "hi": "वायरस",
     "hg": "Virus"
    },
    {
     "en": "A bacterium",
-    "hi": "बैक्टीरिया",
     "hg": "Bacteria"
    },
    {
     "en": "A fungus",
-    "hi": "फफूँद (फ़ंगस)",
     "hg": "Fungus"
    }
   ],
   "answer": 0,
   "explain": {
    "en": "Trichomoniasis is caused by a tiny parasite and is curable with prescribed medicine. Yeast infections, which can feel similar, are caused by a fungus and are not STIs.",
-   "hi": "ट्राइकोमोनिएसिस एक सूक्ष्म परजीवी से होता है और डॉक्टर की लिखी दवा से ठीक हो जाता है। यीस्ट इन्फ़ेक्शन, जो मिलता-जुलता महसूस हो सकता है, फफूँद से होता है और एसटीआई नहीं है।",
    "hg": "Trichomoniasis ek tiny parasite se hota hai aur prescribed medicine se cure ho jaata hai. Yeast infection, jo similar feel ho sakta hai, fungus se hota hai aur STI nahi hai."
   }
  },
@@ -198,35 +174,29 @@
   "type": "mcq",
   "q": {
    "en": "For how long is a course of PEP taken?",
-   "hi": "PEP का कोर्स कितने समय तक लिया जाता है?",
    "hg": "PEP ka course kitne time tak liya jaata hai?"
   },
   "options": [
    {
     "en": "A single dose",
-    "hi": "सिर्फ़ एक ख़ुराक",
     "hg": "Sirf ek dose"
    },
    {
     "en": "3 days",
-    "hi": "3 दिन",
     "hg": "3 din"
    },
    {
     "en": "28 days",
-    "hi": "28 दिन",
     "hg": "28 din"
    },
    {
     "en": "For life",
-    "hi": "ज़िंदगी भर",
     "hg": "Life bhar"
    }
   ],
   "answer": 2,
   "explain": {
    "en": "PEP is taken every day for 28 days after a possible HIV exposure. Stopping early can make it fail, so the full course matters.",
-   "hi": "एचआईवी के संभावित संपर्क के बाद PEP 28 दिन तक रोज़ लिया जाता है। बीच में छोड़ने से यह नाकाम हो सकता है, इसलिए पूरा कोर्स ज़रूरी है।",
    "hg": "HIV ke possible exposure ke baad PEP 28 din tak roz liya jaata hai. Beech mein chhodne se yeh fail ho sakta hai, isliye poora course zaroori hai."
   }
  },
@@ -243,35 +213,29 @@
   "type": "scenario",
   "q": {
    "en": "Before you become intimate, your partner tells you that they have genital herpes. Which response is both respectful and informed?",
-   "hi": "शारीरिक नज़दीकी से पहले आपका पार्टनर बताता है कि उसे जननांग हर्पीज़ है। कौन सा जवाब सम्मानजनक भी है और जानकारी पर आधारित भी?",
    "hg": "Intimate hone se pehle aapka partner batata hai ki use genital herpes hai. Kaun sa response respectful bhi hai aur informed bhi?"
   },
   "options": [
    {
     "en": "Thank them for telling you, and learn together about antivirals, condoms and avoiding contact during outbreaks",
-    "hi": "बताने के लिए शुक्रिया कहें, और साथ मिलकर एंटीवायरल दवाओं, कंडोम और छालों के दौरान संपर्क से बचने के बारे में जानें",
     "hg": "Batane ke liye thank you bolo, aur saath milkar antivirals, condoms aur outbreaks ke dauraan contact avoid karne ke baare mein jaano"
    },
    {
     "en": "End things at once, because herpes means they were careless",
-    "hi": "फ़ौरन रिश्ता ख़त्म कर दें, क्योंकि हर्पीज़ का मतलब है कि वे लापरवाह थे",
     "hg": "Turant sab khatam kar do, kyunki herpes ka matlab hai woh careless the"
    },
    {
     "en": "Tell mutual friends so that other people can be warned",
-    "hi": "साझा दोस्तों को बता दें ताकि बाक़ी लोग सावधान हो जाएँ",
     "hg": "Mutual friends ko bata do taaki baaki log warn ho jayein"
    },
    {
     "en": "Say it does not matter and ignore precautions altogether",
-    "hi": "कह दें कि कोई फ़र्क़ नहीं पड़ता और सावधानियों को पूरी तरह नज़रअंदाज़ करें",
     "hg": "Bol do koi farak nahi padta aur precautions ko totally ignore karo"
    }
   ],
   "answer": 0,
   "explain": {
    "en": "Telling a partner takes honesty and deserves respect and privacy. Herpes is common and manageable, and a clinician can explain how medicine and precautions lower the chance of passing it on.",
-   "hi": "पार्टनर को बताने के लिए ईमानदारी चाहिए, और इसके बदले सम्मान और गोपनीयता मिलनी चाहिए। हर्पीज़ आम है और क़ाबू में रखा जा सकता है, और डॉक्टर समझा सकते हैं कि दवा और सावधानियाँ इसके फैलने की संभावना कैसे घटाती हैं।",
    "hg": "Partner ko batane ke liye honesty chahiye, aur iske badle respect aur privacy milni chahiye. Herpes common hai aur manage ho sakta hai, aur clinician samjha sakte hain ki medicine aur precautions iske pass hone ka chance kaise kam karte hain."
   }
  }

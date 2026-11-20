@@ -17,33 +17,27 @@
   ],
   "title": {
    "en": "My Body Belongs to Me",
-   "hi": "मेरा शरीर मेरा अपना है",
    "hg": "Meri Body Meri Apni Hai"
   },
   "subtitle": {
    "en": "You are the boss of your own body",
-   "hi": "अपने शरीर के बॉस तुम ख़ुद हो",
    "hg": "Apni body ke boss tum khud ho"
   },
   "hook": {
    "en": "Your body is yours. You get to say who can hug you, tickle you or hold your hand.",
-   "hi": "तुम्हारा शरीर तुम्हारा है। कौन तुम्हें गले लगाए, गुदगुदी करे या हाथ पकड़े, यह तुम तय करते हो।",
    "hg": "Tumhari body tumhari hai. Kaun hug kare, gudgudi kare ya haath pakde, yeh tum decide karte ho."
   },
   "objectives": [
    {
     "en": "Say that my body belongs to me.",
-    "hi": "कह पाना कि मेरा शरीर मेरा है।",
     "hg": "Bol paana ki meri body meri hai."
    },
    {
     "en": "Ask before touching others, and stop when they say no.",
-    "hi": "दूसरों को छूने से पहले पूछना और 'ना' सुनते ही रुक जाना।",
     "hg": "Doosron ko touch karne se pehle poochna aur 'no' sunte hi ruk jaana."
    },
    {
     "en": "Name grown-ups I can tell when something feels wrong.",
-    "hi": "उन बड़ों के नाम बता पाना जिन्हें मैं कुछ ग़लत लगने पर बता सकता/सकती हूँ।",
     "hg": "Un bade logon ke naam bata paana jinhe main kuch galat lagne par bata sakta/sakti hoon."
    }
   ],
@@ -52,48 +46,40 @@
    {
     "h": {
      "en": "You are the boss of your body",
-     "hi": "अपने शरीर के बॉस तुम हो",
      "hg": "Apni body ke boss tum ho"
     },
     "body": {
      "en": "Your body belongs to you. Your hands, your hair, your tummy, all of you. If you do not want a hug, a kiss or a tickle, you can say 'No, thank you.' You can say it to friends. You can say it to grown-ups too. Saying no about your body is not rude.",
-     "hi": "तुम्हारा शरीर तुम्हारा अपना है। तुम्हारे हाथ, तुम्हारे बाल, तुम्हारा पेट, सब कुछ। अगर तुम्हें गले लगना, पप्पी या गुदगुदी नहीं चाहिए, तो तुम कह सकते हो, 'नहीं, धन्यवाद।' यह तुम दोस्तों से कह सकते हो। बड़ों से भी कह सकते हो। अपने शरीर के बारे में 'ना' कहना बदतमीज़ी नहीं है।",
      "hg": "Tumhari body tumhari apni hai. Tumhare haath, tumhare baal, tumhara pet, sab kuch. Agar tumhe hug, pappi ya gudgudi nahi chahiye, toh tum bol sakte ho, 'Nahi, thank you.' Yeh tum doston se bol sakte ho. Bade logon se bhi bol sakte ho. Apni body ke baare mein 'no' bolna badtameezi nahi hai."
     }
    },
    {
     "h": {
      "en": "Ask first, then listen",
-     "hi": "पहले पूछो, फिर सुनो",
      "hg": "Pehle poocho, phir suno"
     },
     "body": {
      "en": "Other people are the boss of their bodies. So ask before you hug or hold hands. 'Can I hug you?' If your friend says no, pulls away or looks unhappy, stop. No means stop. You can wave, smile or give a high-five instead, if they want that.",
-     "hi": "दूसरे लोग अपने शरीर के बॉस हैं। इसलिए गले लगाने या हाथ पकड़ने से पहले पूछो। 'क्या मैं तुम्हें गले लगा लूँ?' अगर तुम्हारा दोस्त 'ना' कहे, पीछे हटे या उदास दिखे, तो रुक जाओ। 'ना' का मतलब है रुकना। अगर वह चाहे, तो तुम हाथ हिला सकते हो, मुस्कुरा सकते हो या हाई-फ़ाइव दे सकते हो।",
      "hg": "Doosre log apni body ke boss hain. Isliye hug karne ya haath pakadne se pehle poocho. 'Kya main tumhe hug kar loon?' Agar tumhara dost 'no' bole, peeche hate ya udaas dikhe, toh ruk jao. No ka matlab hai ruk jaana. Agar woh chahe, toh tum haath hila sakte ho, smile kar sakte ho ya high-five de sakte ho."
     }
    },
    {
     "h": {
      "en": "Private parts stay private",
-     "hi": "निजी अंग निजी रहते हैं",
      "hg": "Private parts private rehte hain"
     },
     "body": {
      "en": "The parts covered by your underwear are private. Their real names are penis, vulva and bottom. Nobody should touch them or ask to see them. Nobody should ask you to touch theirs. A parent may help you wash. A doctor may check you with your parent there. That is to keep you clean and healthy.",
-     "hi": "जो अंग तुम्हारी चड्डी से ढके रहते हैं, वे निजी अंग (private parts) हैं। इनके सही नाम हैं लिंग (penis), वल्वा (vulva) और नितंब (bottom)। कोई इन्हें न छुए और न दिखाने को कहे। कोई तुमसे अपने निजी अंग छूने को भी न कहे। मम्मी-पापा नहलाने में मदद कर सकते हैं। डॉक्टर मम्मी या पापा के सामने जाँच कर सकते हैं। यह तुम्हें साफ़ और स्वस्थ रखने के लिए है।",
      "hg": "Jo parts tumhare underwear se dhake rehte hain, woh private parts hain. Inke sahi naam hain penis, vulva aur bottom. Koi inhe touch na kare aur dikhane ko bhi na bole. Koi tumse apne private parts touch karne ko bhi na bole. Mummy-papa nehlane mein help kar sakte hain. Doctor mummy ya papa ke saamne check kar sakte hain. Yeh tumhe saaf aur healthy rakhne ke liye hai."
     }
    },
    {
     "h": {
      "en": "Unsafe secrets and who to tell",
-     "hi": "असुरक्षित राज़ और किसे बताना है",
      "hg": "Unsafe secrets aur kisko batana hai"
     },
     "body": {
      "en": "A surprise gift is a safe secret. Everyone finds out soon. A secret that makes you scared, sad or yucky inside is an unsafe secret. Do not keep it, even if someone says you must. Tell a grown-up you trust, like mummy, papa, dadi or your teacher. If they do not listen, tell another one. It is never your fault.",
-     "hi": "सरप्राइज़ गिफ़्ट एक सुरक्षित राज़ है। जल्दी ही सबको पता चल जाता है। जो राज़ तुम्हें डराए, उदास करे या अंदर से गंदा-सा महसूस कराए, वह असुरक्षित राज़ है। उसे मत रखो, चाहे कोई कहे कि रखना ही है। किसी भरोसेमंद बड़े को बताओ, जैसे मम्मी, पापा, दादी या टीचर। अगर वे न सुनें, तो किसी और को बताओ। इसमें तुम्हारी ग़लती कभी नहीं होती।",
      "hg": "Surprise gift ek safe secret hai. Jaldi hi sabko pata chal jaata hai. Jo secret tumhe daraye, udaas kare ya andar se ganda-sa feel karaye, woh unsafe secret hai. Usse mat rakho, chahe koi bole ki rakhna hi hai. Kisi bharosemand bade ko batao, jaise mummy, papa, dadi ya teacher. Agar woh na sunein, toh kisi aur ko batao. Isme tumhari galti kabhi nahi hoti."
     }
    }
@@ -101,35 +87,29 @@
   "myth": {
    "claim": {
     "en": "Grown-ups are always right, so children cannot say no to them.",
-    "hi": "बड़े हमेशा सही होते हैं, इसलिए बच्चे उन्हें 'ना' नहीं कह सकते।",
     "hg": "Bade hamesha sahi hote hain, isliye bachche unhe 'no' nahi bol sakte."
    },
    "fact": {
     "en": "Listen to grown-ups about things like bedtime and homework. But about your body, you can say no to anyone, and a safe grown-up will listen.",
-    "hi": "सोने के समय और होमवर्क जैसी बातों में बड़ों की सुनो। लेकिन अपने शरीर के बारे में तुम किसी को भी 'ना' कह सकते हो, और एक सुरक्षित बड़ा तुम्हारी बात सुनेगा।",
     "hg": "Sone ke time aur homework jaisi baaton mein badon ki suno. Lekin apni body ke baare mein tum kisi ko bhi 'no' bol sakte ho, aur ek safe bada tumhari baat sunega."
    }
   },
   "takeaways": [
    {
     "en": "My body belongs to me.",
-    "hi": "मेरा शरीर मेरा अपना है।",
     "hg": "Meri body meri apni hai."
    },
    {
     "en": "I ask before I touch, and I stop when someone says no.",
-    "hi": "मैं छूने से पहले पूछता/पूछती हूँ, और कोई 'ना' कहे तो रुक जाता/जाती हूँ।",
     "hg": "Main touch karne se pehle poochta/poochti hoon, aur koi 'no' bole toh ruk jaata/jaati hoon."
    },
    {
     "en": "If a touch or a secret feels wrong, I tell a grown-up I trust.",
-    "hi": "अगर कोई छूना या कोई राज़ ग़लत लगे, तो मैं किसी भरोसेमंद बड़े को बताता/बताती हूँ।",
     "hg": "Agar koi touch ya koi secret galat lage, toh main kisi bharosemand bade ko batata/batati hoon."
    }
   ],
   "activity": {
    "en": "Draw around your hand. On each finger, write or draw one grown-up you trust. Show your 'helping hand' to someone at home.",
-   "hi": "काग़ज़ पर अपने हाथ की छाप बनाओ। हर उँगली पर एक भरोसेमंद बड़े का नाम लिखो या उनकी तस्वीर बनाओ। अपना 'मदद वाला हाथ' घर में किसी को दिखाओ।",
    "hg": "Paper par apne haath ka outline banao. Har ungli par ek bharosemand bade ka naam likho ya unki drawing banao. Apna 'helping hand' ghar mein kisi ko dikhao."
   },
   "interactive": "support_circle",
@@ -139,30 +119,25 @@
     "type": "scenario",
     "q": {
      "en": "An uncle wants a hug, but you do not feel like hugging. What can you do?",
-     "hi": "एक अंकल गले लगाना चाहते हैं, पर तुम्हारा मन नहीं है। तुम क्या कर सकते हो?",
      "hg": "Ek uncle hug karna chahte hain, par tumhara mann nahi hai. Tum kya kar sakte ho?"
     },
     "options": [
      {
       "en": "Hug him anyway so he does not feel sad",
-      "hi": "फिर भी गले लग जाओ ताकि उन्हें बुरा न लगे",
       "hg": "Phir bhi hug kar lo taaki unhe bura na lage"
      },
      {
       "en": "Say 'No, thank you' and offer a namaste instead",
-      "hi": "'नहीं, धन्यवाद' कहो और नमस्ते कर दो",
       "hg": "'Nahi, thank you' bolo aur namaste kar do"
      },
      {
       "en": "Say nothing and hide in your room",
-      "hi": "कुछ मत कहो और कमरे में छिप जाओ",
       "hg": "Kuch mat bolo aur room mein chhup jao"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "Your body is yours, so you can say no politely. A namaste or a wave is still a kind hello.",
-     "hi": "तुम्हारा शरीर तुम्हारा है, इसलिए तुम प्यार से 'ना' कह सकते हो। नमस्ते या हाथ हिलाना भी प्यार भरा हैलो है।",
      "hg": "Tumhari body tumhari hai, isliye tum pyaar se 'no' bol sakte ho. Namaste ya wave bhi ek pyaara hello hai."
     }
    },
@@ -171,25 +146,21 @@
     "type": "tf",
     "q": {
      "en": "If a secret makes you feel scared, you should still keep it.",
-     "hi": "अगर कोई राज़ तुम्हें डराता है, तब भी उसे छिपाकर रखना चाहिए।",
      "hg": "Agar koi secret tumhe darata hai, tab bhi usse chhupa kar rakhna chahiye."
     },
     "options": [
      {
       "en": "True",
-      "hi": "सही",
       "hg": "Sahi"
      },
      {
       "en": "False",
-      "hi": "ग़लत",
       "hg": "Galat"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "A secret that scares you is an unsafe secret. Tell a grown-up you trust.",
-     "hi": "जो राज़ डराए, वह असुरक्षित राज़ है। किसी भरोसेमंद बड़े को बताओ।",
      "hg": "Jo secret daraye, woh unsafe secret hai. Kisi bharosemand bade ko batao."
     }
    }
@@ -200,7 +171,6 @@
   ],
   "warning": {
    "en": "If someone has touched you in a way that feels wrong, tell a grown-up you trust. You or that grown-up can call 1098, the Child Helpline, at any time.",
-   "hi": "अगर किसी ने तुम्हें ऐसे छुआ है जो ग़लत लगा, तो किसी भरोसेमंद बड़े को बताओ। तुम या वह बड़ा कभी भी 1098, चाइल्ड हेल्पलाइन, पर फ़ोन कर सकते हो।",
    "hg": "Agar kisi ne tumhe aise touch kiya hai jo galat laga, toh kisi bharosemand bade ko batao. Tum ya woh bada kabhi bhi 1098, Child Helpline, par call kar sakte ho."
   },
   "sensitive": false,
@@ -225,33 +195,27 @@
   ],
   "title": {
    "en": "Boundaries, Permission and the Power of No",
-   "hi": "सीमाएँ, इजाज़त और 'ना' की ताक़त",
    "hg": "Boundaries, Permission aur 'No' ki Power"
   },
   "subtitle": {
    "en": "How to draw your line and respect someone else's",
-   "hi": "अपनी सीमा कैसे तय करें और दूसरों की सीमा का सम्मान कैसे करें",
    "hg": "Apni line kaise kheenche aur doosron ki line kaise respect karein"
   },
   "hook": {
    "en": "'I don't like that' is a complete sentence. You don't owe anyone a longer explanation.",
-   "hi": "'मुझे यह पसंद नहीं' अपने आप में पूरा वाक्य है। इससे लंबी सफ़ाई तुम्हें किसी को नहीं देनी।",
    "hg": "'Mujhe yeh pasand nahi' ek complete sentence hai. Isse lambi safai tumhe kisi ko nahi deni."
   },
   "objectives": [
    {
     "en": "Explain what a personal boundary is, for your body, your things and your feelings.",
-    "hi": "समझा पाना कि शरीर, सामान और भावनाओं के लिए निजी सीमा क्या होती है।",
     "hg": "Samjha paana ki body, saamaan aur feelings ke liye personal boundary kya hoti hai."
    },
    {
     "en": "Tell a real yes apart from a pressured or unsure one.",
-    "hi": "असली 'हाँ' और दबाव वाली या अधूरी 'हाँ' में फ़र्क़ कर पाना।",
     "hg": "Real 'yes' aur pressure wali ya unsure 'yes' mein fark kar paana."
    },
    {
     "en": "Know what to do when someone uses tricks, gifts or secrets to cross your boundary.",
-    "hi": "जानना कि जब कोई चालाकी, तोहफ़ों या राज़ के सहारे तुम्हारी सीमा लाँघे तो क्या करना है।",
     "hg": "Jaanna ki jab koi tricks, gifts ya secrets se tumhari boundary cross kare toh kya karna hai."
    }
   ],
@@ -260,48 +224,40 @@
    {
     "h": {
      "en": "What a boundary is",
-     "hi": "सीमा (boundary) क्या होती है",
      "hg": "Boundary hoti kya hai"
     },
     "body": {
      "en": "A boundary is your personal line between what is okay for you and what is not. It covers your body (who can hug you, sit close or play-fight with you), your things (your bag, diary or phone) and your feelings (teasing that hurts). Boundaries differ from person to person, and yours can change with the day or the person. You might love a hug from your best friend and not want one from a cousin you barely know. Both are fine. You do not need a big reason. 'I don't like that' is reason enough.",
-     "hi": "सीमा तुम्हारी अपनी लकीर है, जो बताती है कि तुम्हारे लिए क्या ठीक है और क्या नहीं। इसमें तुम्हारा शरीर आता है (कौन तुम्हें गले लगाए, पास बैठे या मस्ती में धक्का-मुक्की करे), तुम्हारा सामान (बैग, डायरी या फ़ोन) और तुम्हारी भावनाएँ (ऐसा मज़ाक़ जो चुभता है)। हर इंसान की सीमा अलग होती है, और तुम्हारी सीमा दिन या इंसान के हिसाब से बदल भी सकती है। हो सकता है पक्के दोस्त का गले लगना तुम्हें अच्छा लगे, पर किसी दूर के कज़िन का नहीं। दोनों बातें ठीक हैं। बड़ी वजह देने की ज़रूरत नहीं। 'मुझे यह पसंद नहीं' कहना ही काफ़ी है।",
      "hg": "Boundary tumhari personal line hai jo batati hai ki tumhare liye kya okay hai aur kya nahi. Isme tumhari body aati hai (kaun hug kare, paas baithe ya masti mein dhakka-mukki kare), tumhari cheezein (bag, diary ya phone) aur tumhari feelings (aisa mazaak jo hurt karta hai). Har insaan ki boundary alag hoti hai, aur tumhari boundary din ya insaan ke hisaab se badal bhi sakti hai. Ho sakta hai best friend ka hug accha lage, par kisi door ke cousin ka nahi. Dono theek hain. Badi wajah dene ki zaroorat nahi. 'Mujhe yeh pasand nahi' bolna hi kaafi hai."
     }
    },
    {
     "h": {
      "en": "Permission: asking and really listening",
-     "hi": "इजाज़त: पूछना और सच में सुनना",
      "hg": "Permission: poochna aur sach mein sunna"
     },
     "body": {
      "en": "Permission means asking before you do something that affects another person, and then waiting for the answer. 'Can I borrow your pen?' 'Can I post this photo of us?' 'Want to arm-wrestle?' A real yes is said freely and sounds happy. A shrug, silence, a nervous laugh, or 'umm, okay' after a lot of begging is not a real yes. A yes can also change. Someone who agreed to play-fighting can say 'stop' in the middle, and the game ends right there, with no argument.",
-     "hi": "इजाज़त का मतलब है कि ऐसा कुछ करने से पहले पूछना जिसका असर दूसरे पर पड़े, और फिर जवाब का इंतज़ार करना। 'क्या मैं तुम्हारा पेन ले सकता हूँ?' 'क्या मैं हमारी यह फ़ोटो पोस्ट कर दूँ?' 'पंजा लड़ाओगे?' असली 'हाँ' अपनी मर्ज़ी से और ख़ुशी से कही जाती है। कंधे उचकाना, चुप रहना, घबराई हुई हँसी, या बहुत मिन्नतों के बाद 'हम्म, ठीक है' कहना असली 'हाँ' नहीं है। 'हाँ' बदल भी सकती है। जिसने मस्ती वाली लड़ाई के लिए हाँ कही थी, वह बीच में 'रुको' कह सकता है, और खेल वहीं बिना बहस के ख़त्म हो जाता है।",
      "hg": "Permission ka matlab hai aisa kuch karne se pehle poochna jiska asar doosre par pade, aur phir jawab ka wait karna. 'Kya main tumhara pen le sakta hoon?' 'Kya main hamari yeh photo post kar doon?' 'Panja ladaoge?' Real 'yes' apni marzi se aur khushi se boli jaati hai. Kandhe uchkana, chup rehna, nervous hasi, ya bahut request ke baad 'umm, okay' bolna real yes nahi hai. Yes badal bhi sakti hai. Jisne masti wali fight ke liye haan bola tha, woh beech mein 'ruko' bol sakta hai, aur game wahin bina behes ke khatam ho jaata hai."
     }
    },
    {
     "h": {
      "en": "Saying no, and hearing no",
-     "hi": "'ना' कहना और 'ना' सुनना",
      "hg": "'No' bolna aur 'no' sunna"
     },
     "body": {
      "en": "Saying no can feel scary, especially to a close friend or someone older. Use a clear voice and short words: 'No. Stop. I don't like it.' You may move away, and you may repeat it. That is not being rude or dramatic. Hearing no stings a little, and that is normal. A respectful person says 'okay' and moves on. They do not sulk, tease, keep asking or say 'you're no fun'. When you hear a no, it is about the other person's comfort. It does not mean something is wrong with you.",
-     "hi": "'ना' कहना डरावना लग सकता है, ख़ासकर किसी पक्के दोस्त या अपने से बड़े को। साफ़ आवाज़ और छोटे शब्द इस्तेमाल करो: 'नहीं। रुको। मुझे यह पसंद नहीं।' तुम वहाँ से हट सकते हो और अपनी बात दोहरा भी सकते हो। यह बदतमीज़ी या नाटक नहीं है। 'ना' सुनना थोड़ा चुभता है, और यह स्वाभाविक है। सम्मान करने वाला इंसान 'ठीक है' कहकर आगे बढ़ जाता है। वह मुँह नहीं फुलाता, चिढ़ाता नहीं, बार-बार नहीं पूछता और 'तू बोरिंग है' नहीं कहता। जब तुम्हें 'ना' सुनने को मिले, तो वह सामने वाले के आराम की बात है। इसका मतलब यह नहीं कि तुममें कोई कमी है।",
      "hg": "'No' bolna scary lag sakta hai, khaaskar kisi close friend ya apne se bade ko. Clear awaaz aur chhote words use karo: 'Nahi. Ruko. Mujhe yeh pasand nahi.' Tum wahan se hat sakte ho aur apni baat repeat bhi kar sakte ho. Yeh rude ya drama hona nahi hai. 'No' sunna thoda chubhta hai, aur yeh normal hai. Respect karne wala insaan 'okay' bolkar aage badh jaata hai. Woh muh nahi phulata, chidhata nahi, baar-baar nahi poochta aur 'tu boring hai' nahi bolta. Jab tumhe 'no' sunne ko mile, toh woh saamne wale ke comfort ki baat hai. Iska matlab yeh nahi ki tum mein koi kami hai."
     }
    },
    {
     "h": {
      "en": "Pressure, tricks and unsafe secrets",
-     "hi": "दबाव, चालाकी और असुरक्षित राज़",
      "hg": "Pressure, tricks aur unsafe secrets"
     },
     "body": {
      "en": "Some people push past a no with tricks: gifts or treats, 'everyone does it', 'you will get into trouble', or 'this is our secret, don't tell your parents'. It can be someone you know and like, and it can happen online. Safe adults do not ask children to keep secrets about touching, photos, gifts or chats. If anyone touches your private parts, asks to see them, shows you theirs, or leaves you feeling uneasy, get away if you can and tell a trusted adult. Keep telling until someone helps, or call 1098. It is never your fault, even if you said nothing at the time.",
-     "hi": "कुछ लोग 'ना' को चालाकी से पार करने की कोशिश करते हैं: तोहफ़े या चीज़ें देकर, 'सब करते हैं' कहकर, 'तुम्हें डाँट पड़ेगी' कहकर, या 'यह हमारा राज़ है, मम्मी-पापा को मत बताना' कहकर। ऐसा करने वाला कोई जान-पहचान का और पसंद का इंसान भी हो सकता है, और यह ऑनलाइन भी हो सकता है। सुरक्षित बड़े बच्चों से छूने, फ़ोटो, तोहफ़ों या चैट के बारे में राज़ रखने को नहीं कहते। अगर कोई तुम्हारे निजी अंग छुए, उन्हें देखने को कहे, अपने दिखाए, या तुम्हें बेचैन कर दे, तो हो सके तो वहाँ से हट जाओ और किसी भरोसेमंद बड़े को बताओ। जब तक कोई मदद न करे, बताते रहो, या 1098 पर फ़ोन करो। ग़लती तुम्हारी कभी नहीं होती, चाहे उस वक़्त तुम कुछ न कह पाए हो।",
      "hg": "Kuch log 'no' ko tricks se cross karne ki koshish karte hain: gifts ya treats dekar, 'sab karte hain' bolkar, 'tumhe daant padegi' bolkar, ya 'yeh hamara secret hai, mummy-papa ko mat batana' bolkar. Aisa karne wala koi jaan-pehchaan ka aur pasand ka insaan bhi ho sakta hai, aur yeh online bhi ho sakta hai. Safe adults bachchon se touch, photos, gifts ya chats ke baare mein secret rakhne ko nahi bolte. Agar koi tumhare private parts touch kare, unhe dekhne ko bole, apne dikhaye, ya tumhe uneasy feel karaye, toh ho sake toh wahan se hat jao aur kisi trusted adult ko batao. Jab tak koi help na kare, batate raho, ya 1098 par call karo. Galti tumhari kabhi nahi hoti, chahe us waqt tum kuch na bol paaye ho."
     }
    }
@@ -309,35 +265,29 @@
   "myth": {
    "claim": {
     "en": "A good friend never says no.",
-    "hi": "अच्छा दोस्त कभी 'ना' नहीं कहता।",
     "hg": "Accha dost kabhi 'no' nahi bolta."
    },
    "fact": {
     "en": "Good friends say no to each other all the time and stay friends. A friendship where one person is never allowed to refuse is not friendship, it is pressure.",
-    "hi": "अच्छे दोस्त एक-दूसरे को अक्सर 'ना' कहते हैं और फिर भी दोस्त रहते हैं। जिस दोस्ती में एक को मना करने की छूट ही न हो, वह दोस्ती नहीं, दबाव है।",
     "hg": "Acche dost ek-doosre ko aksar 'no' bolte hain aur phir bhi dost rehte hain. Jis dosti mein ek ko mana karne ki chhoot hi na ho, woh dosti nahi, pressure hai."
    }
   },
   "takeaways": [
    {
     "en": "My boundaries cover my body, my things and my feelings, and I do not need a big reason for them.",
-    "hi": "मेरी सीमाएँ मेरे शरीर, सामान और भावनाओं के लिए हैं, और इनके लिए मुझे कोई बड़ी वजह नहीं चाहिए।",
     "hg": "Meri boundaries meri body, cheezon aur feelings ke liye hain, aur inke liye mujhe koi badi wajah nahi chahiye."
    },
    {
     "en": "Only a free, happy yes counts, and a yes can change to a no at any time.",
-    "hi": "सिर्फ़ अपनी मर्ज़ी और ख़ुशी से कही 'हाँ' मायने रखती है, और 'हाँ' कभी भी 'ना' में बदल सकती है।",
     "hg": "Sirf apni marzi aur khushi wali 'yes' count hoti hai, aur yes kabhi bhi no mein badal sakti hai."
    },
    {
     "en": "Secrets about touching, photos, gifts or chats are unsafe secrets, so I tell a trusted adult.",
-    "hi": "छूने, फ़ोटो, तोहफ़ों या चैट के राज़ असुरक्षित राज़ हैं, इसलिए मैं किसी भरोसेमंद बड़े को बताता/बताती हूँ।",
     "hg": "Touch, photos, gifts ya chats wale secrets unsafe secrets hain, isliye main kisi trusted adult ko batata/batati hoon."
    }
   ],
   "activity": {
    "en": "In a notebook only you read, list three things that are okay for you, three that are not, and one sentence you will use to say no. Practise saying that sentence aloud in front of a mirror.",
-   "hi": "अपनी निजी कॉपी में तीन ऐसी बातें लिखो जो तुम्हारे लिए ठीक हैं, तीन जो ठीक नहीं हैं, और एक वाक्य जिससे तुम 'ना' कहोगे। वह वाक्य शीशे के सामने ज़ोर से बोलकर अभ्यास करो।",
    "hg": "Apni private notebook mein teen cheezein likho jo tumhare liye okay hain, teen jo okay nahi hain, aur ek sentence jisse tum 'no' bologe. Woh sentence mirror ke saamne zor se bolkar practice karo."
   },
   "interactive": "consent_sim",
@@ -347,35 +297,29 @@
     "type": "mcq",
     "q": {
      "en": "Which of these is a real yes?",
-     "hi": "इनमें से असली 'हाँ' कौन-सी है?",
      "hg": "Inme se real 'yes' kaun si hai?"
     },
     "options": [
      {
       "en": "Staying silent and looking at the floor",
-      "hi": "चुप रहना और ज़मीन की ओर देखना",
       "hg": "Chup rehna aur zameen ki taraf dekhna"
      },
      {
       "en": "'Okay, fine' after being asked ten times",
-      "hi": "दस बार पूछे जाने के बाद 'ठीक है, चलो'",
       "hg": "Dus baar pooche jaane ke baad 'okay, theek hai'"
      },
      {
       "en": "A clear, cheerful 'Yes, sure!'",
-      "hi": "साफ़ और ख़ुशी से कहा गया 'हाँ, बिल्कुल!'",
       "hg": "Clear aur khushi se bola gaya 'Haan, bilkul!'"
      },
      {
       "en": "A shrug and a nervous laugh",
-      "hi": "कंधे उचकाना और घबराई हुई हँसी",
       "hg": "Kandhe uchkana aur nervous hasi"
      }
     ],
     "answer": 2,
     "explain": {
      "en": "A real yes is given freely and clearly. Silence, shrugs and a yes squeezed out by begging do not count.",
-     "hi": "असली 'हाँ' अपनी मर्ज़ी से और साफ़ कही जाती है। चुप्पी, कंधे उचकाना और मिन्नतों से निकलवाई गई 'हाँ' नहीं गिनी जाती।",
      "hg": "Real yes apni marzi se aur clearly boli jaati hai. Chuppi, shrug aur request kar-kar ke nikalwayi gayi yes count nahi hoti."
     }
    },
@@ -384,25 +328,21 @@
     "type": "tf",
     "q": {
      "en": "If you said yes to a game, you must keep playing even after you stop liking it.",
-     "hi": "अगर तुमने किसी खेल के लिए 'हाँ' कह दी, तो पसंद न आने पर भी खेलते रहना ज़रूरी है।",
      "hg": "Agar tumne kisi game ke liye 'yes' bol diya, toh pasand na aane par bhi khelte rehna zaroori hai."
     },
     "options": [
      {
       "en": "True",
-      "hi": "सही",
       "hg": "Sahi"
      },
      {
       "en": "False",
-      "hi": "ग़लत",
       "hg": "Galat"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "You can change your mind at any point. Once you say stop, the other person should stop.",
-     "hi": "तुम किसी भी पल अपना मन बदल सकते हो। 'रुको' कहने के बाद सामने वाले को रुक जाना चाहिए।",
      "hg": "Tum kisi bhi point par mann badal sakte ho. 'Stop' bolne ke baad saamne wale ko ruk jaana chahiye."
     }
    }
@@ -413,7 +353,6 @@
   ],
   "warning": {
    "en": "If someone is touching you in ways you do not want, or asking you to keep a secret about it, tell a trusted adult today or call the Child Helpline 1098. In danger right now, call 112.",
-   "hi": "अगर कोई तुम्हें ऐसे छू रहा है जो तुम्हें नहीं चाहिए, या उस बारे में राज़ रखने को कह रहा है, तो आज ही किसी भरोसेमंद बड़े को बताओ या चाइल्ड हेल्पलाइन 1098 पर फ़ोन करो। अभी ख़तरा हो तो 112 पर कॉल करो।",
    "hg": "Agar koi tumhe aise touch kar raha hai jo tumhe nahi chahiye, ya us baare mein secret rakhne ko bol raha hai, toh aaj hi kisi trusted adult ko batao ya Child Helpline 1098 par call karo. Abhi danger ho toh 112 par call karo."
   },
   "sensitive": false,
@@ -439,33 +378,27 @@
   ],
   "title": {
    "en": "Consent Decoded: What a Real Yes Looks Like",
-   "hi": "सहमति का असली मतलब: सच्ची 'हाँ' कैसी होती है",
    "hg": "Consent Decoded: Real 'Yes' Kaisi Dikhti Hai"
   },
   "subtitle": {
    "en": "Free, clear, specific and always reversible",
-   "hi": "अपनी मर्ज़ी से, साफ़, किसी एक बात के लिए, और कभी भी वापस ली जा सकने वाली",
    "hg": "Apni marzi se, clear, specific aur kabhi bhi wapas li ja sakne wali"
   },
   "hook": {
    "en": "'They didn't say no' is not the test. The test is whether they freely said yes.",
-   "hi": "'उसने मना तो नहीं किया' कोई कसौटी नहीं है। कसौटी यह है कि क्या उसने अपनी मर्ज़ी से 'हाँ' कही।",
    "hg": "'Usne mana toh nahi kiya' koi test nahi hai. Test yeh hai ki kya usne apni marzi se 'yes' bola."
   },
   "objectives": [
    {
     "en": "List the features that make agreement real consent.",
-    "hi": "वे बातें गिना पाना जो किसी रज़ामंदी को असली सहमति बनाती हैं।",
     "hg": "Woh features gina paana jo kisi agreement ko real consent banate hain."
    },
    {
     "en": "Recognise pressure, guilt-tripping and coercion, and respond respectfully to a no.",
-    "hi": "दबाव, अपराध-बोध कराने और ज़बरदस्ती को पहचानना, और 'ना' का सम्मान से जवाब देना।",
     "hg": "Pressure, guilt-tripping aur coercion ko pehchanna, aur 'no' ka respect se jawab dena."
    },
    {
     "en": "State what Indian law says about sexual activity and people under 18.",
-    "hi": "बता पाना कि 18 से कम उम्र और यौन गतिविधि के बारे में भारतीय क़ानून क्या कहता है।",
     "hg": "Bata paana ki 18 se kam umar aur sexual activity ke baare mein Indian law kya kehta hai."
    }
   ],
@@ -474,48 +407,40 @@
    {
     "h": {
      "en": "What consent actually means",
-     "hi": "सहमति का सही मतलब",
      "hg": "Consent ka actual matlab"
     },
     "body": {
      "en": "Consent is a clear, free agreement to something that involves your body, your space or your private information. It applies to hugs, holding hands, kissing, photos, sharing someone's secret and any sexual touch. Real consent has five features. It is freely given, with no pressure, threat or guilt. It is informed, so you know what you are agreeing to. It is specific, so yes to one thing is not yes to everything. It is clearly willing, not reluctant. And it is reversible: you can change your mind at any moment. If even one of these is missing, it is not consent.",
-     "hi": "सहमति (consent) का मतलब है किसी ऐसी बात के लिए साफ़ और अपनी मर्ज़ी से दी गई रज़ामंदी, जिसमें तुम्हारा शरीर, तुम्हारी जगह या तुम्हारी निजी जानकारी शामिल हो। यह गले लगने, हाथ पकड़ने, चूमने, फ़ोटो, किसी का राज़ बताने और हर तरह के यौन स्पर्श पर लागू होती है। असली सहमति की पाँच पहचान हैं। वह बिना दबाव, धमकी या अपराध-बोध के, अपनी मर्ज़ी से दी जाती है। वह जानकारी के साथ दी जाती है, यानी तुम्हें पता है कि किस बात के लिए हाँ कह रहे हो। वह किसी एक बात के लिए होती है, एक चीज़ की हाँ हर चीज़ की हाँ नहीं है। वह साफ़ रज़ामंदी होती है, बेमन की नहीं। और वह वापस ली जा सकती है: तुम किसी भी पल मन बदल सकते हो। इनमें से एक भी बात न हो, तो वह सहमति नहीं है।",
      "hg": "Consent ka matlab hai kisi aisi cheez ke liye clear aur apni marzi se diya gaya agreement, jisme tumhari body, tumhara space ya tumhari private information involved ho. Yeh hugs, haath pakadne, kiss, photos, kisi ka secret share karne aur har tarah ke sexual touch par apply hota hai. Real consent ke paanch features hain. Woh freely given hota hai, bina pressure, dhamki ya guilt ke. Woh informed hota hai, yaani tumhe pata hai kis cheez ke liye haan bol rahe ho. Woh specific hota hai, ek cheez ki yes har cheez ki yes nahi hai. Woh clearly willing hota hai, bemann se nahi. Aur woh reversible hai: tum kisi bhi moment mann badal sakte ho. Inme se ek bhi missing ho, toh woh consent nahi hai."
     }
    },
    {
     "h": {
      "en": "Silence, freezing and 'maybe'",
-     "hi": "चुप्पी, सुन्न पड़ जाना और 'शायद'",
      "hg": "Chuppi, freeze ho jaana aur 'maybe'"
     },
     "body": {
      "en": "Only a clear yes means yes. Silence, 'I don't know', 'maybe later', a nervous laugh, going stiff, or not pushing someone away are not consent. When people feel scared or shocked, many freeze and cannot speak or move. That is an automatic reaction of the body, not agreement. A person who is asleep, unconscious, or very drunk or drugged cannot consent at all. The responsibility sits with the person who wants something to happen. They must ask, pay attention to the answer in words and body language, and stop if the answer is unclear.",
-     "hi": "सिर्फ़ साफ़ 'हाँ' का मतलब हाँ है। चुप रहना, 'पता नहीं', 'शायद बाद में', घबराई हुई हँसी, शरीर का अकड़ जाना, या सामने वाले को धक्का न देना सहमति नहीं है। डर या सदमे में बहुत से लोग सुन्न पड़ जाते हैं और न बोल पाते हैं, न हिल पाते हैं। यह शरीर की अपने आप होने वाली प्रतिक्रिया है, रज़ामंदी नहीं। जो इंसान सो रहा है, बेहोश है, या बहुत ज़्यादा नशे में है, वह सहमति दे ही नहीं सकता। ज़िम्मेदारी उसकी है जो कुछ करना चाहता है। उसे पूछना होगा, जवाब को शब्दों और हाव-भाव दोनों में ध्यान से समझना होगा, और जवाब साफ़ न हो तो रुक जाना होगा।",
      "hg": "Sirf clear 'yes' ka matlab yes hai. Chup rehna, 'pata nahi', 'shayad baad mein', nervous hasi, body ka stiff ho jaana, ya saamne wale ko push na karna consent nahi hai. Darr ya shock mein bahut log freeze ho jaate hain aur na bol paate hain, na hil paate hain. Yeh body ka automatic reaction hai, agreement nahi. Jo insaan so raha hai, behosh hai, ya bahut zyada nashe mein hai, woh consent de hi nahi sakta. Zimmedari uski hai jo kuch karna chahta hai. Usse poochna hoga, jawab ko words aur body language dono mein dhyan se samajhna hoga, aur jawab clear na ho toh ruk jaana hoga."
     }
    },
    {
     "h": {
      "en": "Pressure is not persuasion",
-     "hi": "दबाव डालना मनाना नहीं है",
      "hg": "Pressure daalna manana nahi hai"
     },
     "body": {
      "en": "Coercion means getting a yes by wearing someone down. It sounds like: 'If you loved me, you would', 'everyone in our class has', 'I'll break up with you', 'I'll tell everyone', or the same request again and again after a no. Sulking, the silent treatment and guilt-tripping are pressure too. A yes produced this way is not consent. If you are the one hearing no, the respectful reply is 'Okay, thanks for telling me', without anger or revenge. Rejection hurts, but it is not an insult. Nobody owes anyone touch, a photo or a relationship.",
-     "hi": "ज़बरदस्ती (coercion) का मतलब है किसी को थका-थकाकर 'हाँ' निकलवाना। यह कुछ ऐसा सुनाई देता है: 'प्यार करते तो मान जाते', 'हमारी क्लास में सबने किया है', 'मैं ब्रेकअप कर लूँगा', 'मैं सबको बता दूँगी', या 'ना' सुनने के बाद भी वही बात बार-बार कहना। मुँह फुलाना, बात करना बंद कर देना और अपराध-बोध कराना भी दबाव ही है। इस तरह निकली 'हाँ' सहमति नहीं है। अगर 'ना' तुम्हें सुननी पड़े, तो सम्मान वाला जवाब है, 'ठीक है, बताने के लिए शुक्रिया', बिना ग़ुस्से या बदले के। ठुकराया जाना दुखता है, पर यह अपमान नहीं है। कोई किसी का स्पर्श, फ़ोटो या रिश्ते का क़र्ज़दार नहीं होता।",
      "hg": "Coercion ka matlab hai kisi ko thaka-thaka kar 'yes' nikalwana. Yeh kuch aisa sunai deta hai: 'Pyaar karte toh maan jaate', 'hamari class mein sabne kiya hai', 'main breakup kar loonga', 'main sabko bata doongi', ya 'no' sunne ke baad bhi wahi baat baar-baar bolna. Muh phulana, silent treatment aur guilt-trip karna bhi pressure hi hai. Is tarah nikli 'yes' consent nahi hai. Agar 'no' tumhe sunni pade, toh respectful jawab hai, 'Okay, batane ke liye thanks', bina gusse ya badle ke. Rejection hurt karta hai, par yeh insult nahi hai. Koi kisi ko touch, photo ya relationship owe nahi karta."
     }
    },
    {
     "h": {
      "en": "The age-18 line in Indian law",
-     "hi": "भारतीय क़ानून में 18 साल की लकीर",
      "hg": "Indian law mein 18 saal ki line"
     },
     "body": {
      "en": "In India, the POCSO Act, 2012 treats everyone under 18 as a child. Any sexual act with a person under 18 is an offence, even if that person said yes. So at your age the law does not recognise consent to sexual activity at all. The aim is protection, not shaming feelings: crushes and attraction are a normal part of growing up. Choosing to wait is a completely valid choice, and nobody has the right to rush you. Consent skills still matter every day, for hugs, photos and privacy. Laws can change, and this is general information, not legal advice.",
-     "hi": "भारत में पॉक्सो क़ानून (POCSO Act, 2012) 18 साल से कम उम्र के हर इंसान को बच्चा मानता है। 18 से कम उम्र के किसी भी व्यक्ति के साथ कोई भी यौन कृत्य अपराध है, चाहे उसने 'हाँ' कही हो। यानी तुम्हारी उम्र में क़ानून यौन गतिविधि के लिए सहमति को मानता ही नहीं। इसका मक़सद सुरक्षा है, भावनाओं को शर्मिंदा करना नहीं: किसी पर क्रश होना और आकर्षण महसूस करना बड़े होने का सामान्य हिस्सा है। इंतज़ार करने का फ़ैसला पूरी तरह सही फ़ैसला है, और किसी को तुम पर जल्दबाज़ी थोपने का हक़ नहीं। सहमति की समझ फिर भी रोज़ काम आती है, गले लगने, फ़ोटो और निजता में। क़ानून बदल सकते हैं, और यह सामान्य जानकारी है, क़ानूनी सलाह नहीं।",
      "hg": "India mein POCSO Act, 2012 18 saal se kam umar ke har insaan ko child maanta hai. 18 se kam umar ke kisi bhi person ke saath koi bhi sexual act offence hai, chahe us person ne 'yes' bola ho. Yaani tumhari age mein law sexual activity ke liye consent ko maanta hi nahi. Iska aim protection hai, feelings ko shame karna nahi: crush aur attraction bade hone ka normal part hain. Wait karne ka decision poori tarah valid choice hai, aur kisi ko tum par jaldi karne ka pressure daalne ka haq nahi. Consent skills phir bhi roz kaam aati hain, hugs, photos aur privacy mein. Laws badal sakte hain, aur yeh general information hai, legal advice nahi."
     }
    }
@@ -523,35 +448,29 @@
   "myth": {
    "claim": {
     "en": "If two people are dating, they don't need to ask each other.",
-    "hi": "अगर दो लोग रिलेशनशिप में हैं, तो उन्हें एक-दूसरे से पूछने की ज़रूरत नहीं।",
     "hg": "Agar do log dating kar rahe hain, toh unhe ek-doosre se poochne ki zaroorat nahi."
    },
    "fact": {
     "en": "Being someone's boyfriend or girlfriend gives no automatic permission for anything. Each person keeps the right to say no to a hug, a kiss, a photo or anything else, every single time.",
-    "hi": "किसी का बॉयफ्रेंड या गर्लफ्रेंड होने से किसी भी चीज़ की अपने आप इजाज़त नहीं मिल जाती। गले लगने, चूमने, फ़ोटो या किसी भी और बात के लिए 'ना' कहने का हक़ हर इंसान के पास हर बार रहता है।",
     "hg": "Kisi ka boyfriend ya girlfriend hone se kisi bhi cheez ki automatic permission nahi mil jaati. Hug, kiss, photo ya kisi bhi aur cheez ke liye 'no' bolne ka right har insaan ke paas har baar rehta hai."
    }
   },
   "takeaways": [
    {
     "en": "Consent is free, informed, specific, clearly willing and reversible.",
-    "hi": "सहमति अपनी मर्ज़ी से, जानकारी के साथ, किसी एक बात के लिए, साफ़ रज़ामंदी वाली और वापस ली जा सकने वाली होती है।",
     "hg": "Consent free, informed, specific, clearly willing aur reversible hota hai."
    },
    {
     "en": "Silence, freezing or a yes squeezed out by pressure is not consent.",
-    "hi": "चुप्पी, सुन्न पड़ जाना या दबाव से निकलवाई गई 'हाँ' सहमति नहीं है।",
     "hg": "Chuppi, freeze ho jaana ya pressure se nikalwayi gayi yes consent nahi hai."
    },
    {
     "en": "Under POCSO, a person under 18 cannot legally consent to sexual activity, and waiting is always a valid choice.",
-    "hi": "पॉक्सो के तहत 18 से कम उम्र का व्यक्ति यौन गतिविधि के लिए क़ानूनी सहमति नहीं दे सकता, और इंतज़ार करना हमेशा एक सही विकल्प है।",
     "hg": "POCSO ke under 18 se kam umar ka person sexual activity ke liye legally consent nahi de sakta, aur wait karna hamesha ek valid choice hai."
    }
   ],
   "activity": {
    "en": "Write down three pressure lines you have heard in films, reels or at school, such as 'if you loved me...'. Next to each, write one calm reply you could give. Keep the list for yourself.",
-   "hi": "फ़िल्मों, रील्स या स्कूल में सुनी तीन दबाव वाली लाइनें लिखो, जैसे 'प्यार करते तो...'। हर लाइन के आगे एक शांत जवाब लिखो जो तुम दे सकते हो। यह सूची अपने पास रखो।",
    "hg": "Films, reels ya school mein suni teen pressure lines likho, jaise 'pyaar karte toh...'. Har line ke aage ek calm reply likho jo tum de sakte ho. Yeh list apne paas rakho."
   },
   "interactive": "consent_sim",
@@ -561,35 +480,29 @@
     "type": "mcq",
     "q": {
      "en": "Which of these is NOT a feature of real consent?",
-     "hi": "इनमें से कौन-सी बात असली सहमति की पहचान नहीं है?",
      "hg": "Inme se kaun sa real consent ka feature NAHI hai?"
     },
     "options": [
      {
       "en": "It is given freely, without pressure",
-      "hi": "यह बिना दबाव के, अपनी मर्ज़ी से दी जाती है",
       "hg": "Yeh bina pressure ke, apni marzi se diya jaata hai"
      },
      {
       "en": "It is specific to one thing",
-      "hi": "यह किसी एक बात के लिए होती है",
       "hg": "Yeh kisi ek cheez ke liye specific hota hai"
      },
      {
       "en": "It can be taken back at any time",
-      "hi": "इसे कभी भी वापस लिया जा सकता है",
       "hg": "Isse kabhi bhi wapas liya ja sakta hai"
      },
      {
       "en": "Once given, it stays valid forever",
-      "hi": "एक बार दे दी तो हमेशा के लिए मान्य रहती है",
       "hg": "Ek baar de diya toh hamesha ke liye valid rehta hai"
      }
     ],
     "answer": 3,
     "explain": {
      "en": "Consent is reversible. A yes given earlier can be withdrawn at any moment, and then the other person must stop.",
-     "hi": "सहमति वापस ली जा सकती है। पहले कही 'हाँ' किसी भी पल वापस ली जा सकती है, और तब सामने वाले को रुकना होगा।",
      "hg": "Consent reversible hai. Pehle boli gayi yes kisi bhi moment wapas li ja sakti hai, aur tab saamne wale ko rukna hoga."
     }
    },
@@ -598,30 +511,25 @@
     "type": "scenario",
     "q": {
      "en": "Dev asks his classmate Sana for a hug after her team wins. She goes quiet and looks down. What should Dev do?",
-     "hi": "देव अपनी क्लासमेट सना से, उसकी टीम जीतने के बाद, गले लगने को पूछता है। सना चुप हो जाती है और नीचे देखने लगती है। देव को क्या करना चाहिए?",
      "hg": "Dev apni classmate Sana se, uski team jeetne ke baad, hug ke liye poochta hai. Sana chup ho jaati hai aur neeche dekhne lagti hai. Dev ko kya karna chahiye?"
     },
     "options": [
      {
       "en": "Treat it as a no and say 'No problem, congrats!'",
-      "hi": "इसे 'ना' समझे और कहे, 'कोई बात नहीं, बधाई हो!'",
       "hg": "Isse 'no' samjhe aur bole, 'Koi baat nahi, congrats!'"
      },
      {
       "en": "Hug her, because she did not say no",
-      "hi": "गले लगा ले, क्योंकि उसने मना नहीं किया",
       "hg": "Hug kar le, kyunki usne mana nahi kiya"
      },
      {
       "en": "Keep asking until she gives an answer",
-      "hi": "तब तक पूछता रहे जब तक वह जवाब न दे",
       "hg": "Tab tak poochta rahe jab tak woh jawab na de"
      }
     ],
     "answer": 0,
     "explain": {
      "en": "Silence and looking away are not a yes. Backing off kindly respects her and keeps the friendship comfortable.",
-     "hi": "चुप्पी और नज़रें फेर लेना 'हाँ' नहीं है। प्यार से पीछे हट जाना उसका सम्मान है और दोस्ती को सहज रखता है।",
      "hg": "Chuppi aur nazar hata lena yes nahi hai. Pyaar se peeche hat jaana uski respect hai aur dosti ko comfortable rakhta hai."
     }
    }
@@ -633,7 +541,6 @@
   ],
   "warning": {
    "en": "If someone is pressuring, threatening or touching you against your will, it is not your fault. Tell a trusted adult or call the Child Helpline 1098. In immediate danger, call 112.",
-   "hi": "अगर कोई तुम पर दबाव डाल रहा है, धमका रहा है या तुम्हारी मर्ज़ी के बिना छू रहा है, तो ग़लती तुम्हारी नहीं है। किसी भरोसेमंद बड़े को बताओ या चाइल्ड हेल्पलाइन 1098 पर फ़ोन करो। तुरंत ख़तरा हो तो 112 पर कॉल करो।",
    "hg": "Agar koi tum par pressure daal raha hai, dhamka raha hai ya tumhari marzi ke bina touch kar raha hai, toh galti tumhari nahi hai. Kisi trusted adult ko batao ya Child Helpline 1098 par call karo. Immediate danger ho toh 112 par call karo."
   },
   "sensitive": false,
@@ -658,33 +565,27 @@
   ],
   "title": {
    "en": "Pressure, Power and the Law",
-   "hi": "दबाव, ताक़त और क़ानून",
    "hg": "Pressure, Power aur Law"
   },
   "subtitle": {
    "en": "Why some 'yeses' are not free, offline or online",
-   "hi": "कुछ 'हाँ' आज़ाद क्यों नहीं होतीं, चाहे ऑफ़लाइन हों या ऑनलाइन",
    "hg": "Kuch 'yes' free kyun nahi hoti, offline ho ya online"
   },
   "hook": {
    "en": "A yes only counts if no was a real option. Power, manipulation and alcohol can quietly take that option away.",
-   "hi": "'हाँ' तभी मायने रखती है जब 'ना' कहना सच में मुमकिन हो। ताक़त, चालाकी और शराब चुपचाप यह रास्ता बंद कर सकते हैं।",
    "hg": "Yes tabhi count hoti hai jab no bolna sach mein possible ho. Power, manipulation aur alcohol chupchaap yeh option hata sakte hain."
   },
   "objectives": [
    {
     "en": "Explain how a power imbalance affects a person's freedom to refuse.",
-    "hi": "समझा पाना कि ताक़त का असंतुलन किसी के मना करने की आज़ादी पर कैसे असर डालता है।",
     "hg": "Samjha paana ki power imbalance kisi ke mana karne ki freedom par kaise asar daalta hai."
    },
    {
     "en": "Spot common manipulation tactics and the effect of alcohol or drugs on consent.",
-    "hi": "चालाकी के आम तरीक़े और सहमति पर शराब या नशे का असर पहचान पाना।",
     "hg": "Common manipulation tactics aur consent par alcohol ya drugs ka asar pehchaan paana."
    },
    {
     "en": "Describe what Indian law says about under-18s, private images and harassment.",
-    "hi": "बता पाना कि 18 से कम उम्र, निजी तस्वीरों और उत्पीड़न के बारे में भारतीय क़ानून क्या कहता है।",
     "hg": "Bata paana ki under-18, private images aur harassment ke baare mein Indian law kya kehta hai."
    }
   ],
@@ -693,48 +594,40 @@
    {
     "h": {
      "en": "When one person holds the power",
-     "hi": "जब ताक़त एक ही के हाथ में हो",
      "hg": "Jab power ek hi ke haath mein ho"
     },
     "body": {
      "en": "Consent needs both people to be equally free to say no. That freedom shrinks when one person has power over the other: a teacher, tutor, coach, employer, landlord, religious or community leader, a much older person, or anyone who controls your marks, money or reputation. Refusing them has a cost, so a 'yes' may really be fear. Responsibility lies with the person holding power, and Indian law treats abuse by people in positions of trust more seriously. Any sexual advance by an adult towards someone under 18 is an offence, however 'mature' they say you are, and an adult seeking a secret romance with a teenager is a red flag.",
-     "hi": "सहमति के लिए ज़रूरी है कि दोनों लोग 'ना' कहने के लिए बराबर आज़ाद हों। यह आज़ादी तब घट जाती है जब एक के पास दूसरे पर ताक़त हो: टीचर, ट्यूटर, कोच, नौकरी देने वाला, मकान-मालिक, धार्मिक या सामाजिक नेता, उम्र में बहुत बड़ा इंसान, या कोई भी जो आपके नंबर, पैसे या इज़्ज़त पर क़ाबू रखता हो। ऐसे इंसान को मना करने की क़ीमत चुकानी पड़ सकती है, इसलिए 'हाँ' असल में डर हो सकती है। ज़िम्मेदारी उसकी है जिसके पास ताक़त है, और भारतीय क़ानून भरोसे की जगह पर बैठे लोगों के शोषण को ज़्यादा गंभीर मानता है। किसी वयस्क की 18 से कम उम्र के इंसान की ओर कोई भी यौन पहल अपराध है, चाहे वह आपको कितना भी 'समझदार' बताए, और किसी किशोर से छिपकर रोमांटिक रिश्ता चाहने वाला वयस्क ख़तरे का गंभीर संकेत है।",
      "hg": "Consent ke liye zaroori hai ki dono log 'no' bolne ke liye barabar free hon. Yeh freedom tab kam ho jaati hai jab ek ke paas doosre par power ho: teacher, tutor, coach, employer, landlord, religious ya community leader, umar mein bahut bada insaan, ya koi bhi jo tumhare marks, paise ya reputation ko control karta ho. Aise insaan ko mana karne ki keemat chukani pad sakti hai, isliye 'yes' asal mein darr ho sakti hai. Zimmedari uski hai jiske paas power hai, aur Indian law trust ki position wale logon ke abuse ko zyada serious maanta hai. Kisi adult ka 18 se kam umar ke insaan ki taraf koi bhi sexual advance offence hai, chahe woh tumhe kitna bhi 'mature' bole, aur kisi teenager se chhupa kar romance chahne wala adult red flag hai."
     }
    },
    {
     "h": {
      "en": "How manipulation works",
-     "hi": "चालाकी कैसे काम करती है",
      "hg": "Manipulation kaise kaam karta hai"
     },
     "body": {
      "en": "Manipulation rarely looks like a threat at first. Common patterns: flooding you with attention and gifts, then saying you 'owe' something; small boundary-pushes disguised as jokes to test your reaction; 'you led me on' or 'you came to my room, what did you expect'; cutting you off from friends who would notice; threatening self-harm, a break-up or leaking your chats if you refuse; and insisting on secrecy. Grooming of teenagers by older people follows the same steps, slowly. None of these create consent. A useful check is to ask yourself: could I say no right now without being punished for it?",
-     "hi": "चालाकी शुरू में धमकी जैसी शायद ही दिखती है। इसके आम तरीक़े हैं: पहले ढेर सारा ध्यान और तोहफ़े देना, फिर कहना कि आप पर 'एहसान' है; मज़ाक़ के बहाने छोटी-छोटी सीमाएँ लाँघकर आपकी प्रतिक्रिया परखना; 'तुमने ही इशारा दिया था' या 'मेरे कमरे में आई थीं, तो क्या सोचा था' कहना; आपको उन दोस्तों से काट देना जो गड़बड़ भाँप सकते हैं; मना करने पर ख़ुद को नुक़सान पहुँचाने, ब्रेकअप करने या चैट लीक करने की धमकी देना; और हर बात छिपाकर रखने पर ज़ोर देना। बड़ी उम्र के लोग किशोरों की ग्रूमिंग भी इन्हीं क़दमों से, धीरे-धीरे करते हैं। इनमें से किसी से भी सहमति नहीं बनती। ख़ुद से एक सवाल पूछना काम आता है: क्या मैं अभी, बिना सज़ा भुगते, 'ना' कह सकता/सकती हूँ?",
      "hg": "Manipulation shuru mein dhamki jaisa shayad hi dikhta hai. Common patterns: pehle dher saara attention aur gifts dena, phir bolna ki tum kuch 'owe' karte ho; mazaak ke bahane chhoti-chhoti boundaries push karke tumhara reaction test karna; 'tumne hi signal diya tha' ya 'mere room mein aayi thi, toh kya socha tha' bolna; tumhe un doston se kaat dena jo gadbad notice kar sakte hain; mana karne par self-harm, breakup ya chats leak karne ki dhamki dena; aur har baat secret rakhne par zor dena. Bade log teenagers ki grooming bhi inhi steps se, dheere-dheere karte hain. Inme se kisi se bhi consent nahi banta. Khud se ek sawaal poochna kaam aata hai: kya main abhi, bina saza bhugte, 'no' bol sakta/sakti hoon?"
     }
    },
    {
     "h": {
      "en": "Alcohol, drugs and impaired judgement",
-     "hi": "शराब, नशा और धुँधली समझ",
      "hg": "Alcohol, drugs aur impaired judgement"
     },
     "body": {
      "en": "Alcohol and drugs slow thinking, blur judgement and make it harder both to express a no and to notice one. A person who is heavily intoxicated, drifting in and out, vomiting, or unable to stand or speak clearly cannot consent. Being drunk or high yourself is no excuse: you remain responsible for what you do to another person. Deliberately getting someone drunk, or spiking a drink, to lower their resistance is a serious offence. If a friend is badly intoxicated, stay with them, get them home with people you trust, and call 112 if they cannot be woken or their breathing seems wrong.",
-     "hi": "शराब और नशा सोचने की रफ़्तार घटा देते हैं, समझ धुँधली कर देते हैं, और 'ना' कहना भी मुश्किल कर देते हैं और सामने वाले की 'ना' समझना भी। जो इंसान बहुत ज़्यादा नशे में है, बार-बार होश खो रहा है, उल्टी कर रहा है, या ठीक से खड़ा नहीं हो पा रहा और साफ़ बोल नहीं पा रहा, वह सहमति नहीं दे सकता। ख़ुद नशे में होना कोई बहाना नहीं है: आप दूसरे के साथ जो करते हैं उसकी ज़िम्मेदारी आपकी ही रहती है। किसी का विरोध कमज़ोर करने के लिए उसे जानबूझकर शराब पिलाना या उसके ड्रिंक में कुछ मिलाना गंभीर अपराध है। अगर कोई दोस्त बुरी तरह नशे में है, तो उसके साथ रहिए, भरोसेमंद लोगों के साथ उसे घर पहुँचाइए, और अगर वह जगाने पर न उठे या उसकी साँस ठीक न लगे तो 112 पर कॉल कीजिए।",
      "hg": "Alcohol aur drugs sochne ki speed kam kar dete hain, judgement blur kar dete hain, aur 'no' bolna bhi mushkil kar dete hain aur saamne wale ki 'no' notice karna bhi. Jo insaan bahut zyada nashe mein hai, baar-baar hosh kho raha hai, ulti kar raha hai, ya theek se khada nahi ho pa raha aur clearly bol nahi pa raha, woh consent nahi de sakta. Khud drunk ya high hona koi excuse nahi hai: tum doosre ke saath jo karte ho uski zimmedari tumhari hi rehti hai. Kisi ka resistance kam karne ke liye usse jaan-boojhkar sharaab pilana ya uski drink spike karna serious offence hai. Agar koi dost buri tarah nashe mein hai, toh uske saath raho, trusted logon ke saath usse ghar pahunchao, aur agar woh jagaane par na uthe ya uski saans theek na lage toh 112 par call karo."
     }
    },
    {
     "h": {
      "en": "Photos, chats and what Indian law says",
-     "hi": "फ़ोटो, चैट और भारतीय क़ानून",
      "hg": "Photos, chats aur Indian law"
     },
     "body": {
      "en": "Consent applies on screens too: never take, post or forward someone's photo or chat without asking. Under POCSO, a person under 18 cannot legally consent to sexual activity, and any sexual image of someone under 18 is child sexual abuse material: creating, keeping or forwarding it is an offence under the IT Act and POCSO. If you sent one and are now pressured or threatened, the law protects you: tell a trusted adult or call 1098 or 1930. Sharing anyone's private images without consent is an IT Act offence. The BNS stalking and harassment offences protect women; POCSO protects every under-18. Laws change; this is not legal advice.",
-     "hi": "सहमति स्क्रीन पर भी लागू होती है: किसी की फ़ोटो या चैट बिना पूछे न लीजिए, न पोस्ट कीजिए, न आगे भेजिए। पॉक्सो के तहत 18 से कम उम्र का व्यक्ति यौन गतिविधि के लिए क़ानूनी सहमति नहीं दे सकता, और 18 से कम उम्र के किसी भी इंसान की यौन तस्वीर बाल यौन शोषण सामग्री है: उसे बनाना, रखना या आगे भेजना IT Act और पॉक्सो के तहत अपराध है। अगर आपने ऐसी तस्वीर भेज दी है और अब आप पर दबाव डाला जा रहा है या धमकी मिल रही है, तो क़ानून आपकी हिफ़ाज़त के लिए है: किसी भरोसेमंद बड़े को बताइए या 1098 या 1930 पर फ़ोन कीजिए। किसी की भी निजी तस्वीरें बिना सहमति फैलाना IT Act के तहत अपराध है। भारतीय न्याय संहिता में पीछा करने और यौन उत्पीड़न के अपराध महिलाओं की सुरक्षा के लिए हैं; पॉक्सो 18 से कम उम्र के हर बच्चे की रक्षा करता है। क़ानून बदल सकते हैं; यह क़ानूनी सलाह नहीं है।",
      "hg": "Consent screens par bhi apply hota hai: kisi ki photo ya chat bina pooche na lo, na post karo, na forward karo. POCSO Act ke under 18 se kam umar ka person sexual activity ke liye legally consent nahi de sakta, aur 18 se kam umar ke kisi bhi insaan ki sexual image child sexual abuse material hai: usse banana, rakhna ya forward karna IT Act aur POCSO ke under offence hai. Agar tumne aisi image bhej di hai aur ab tum par pressure ya dhamki aa rahi hai, toh law tumhari protection ke liye hai: kisi trusted adult ko batao ya 1098 ya 1930 par call karo. Kisi ki bhi private images bina consent share karna IT Act ke under offence hai. BNS mein stalking aur sexual harassment ke offences women ki protection ke liye hain; POCSO har under-18 ko protect karta hai. Laws badal sakte hain; yeh legal advice nahi hai."
     }
    }
@@ -742,35 +635,29 @@
   "myth": {
    "claim": {
     "en": "If someone accepted gifts, flirted or came over to your place, they owe you a yes.",
-    "hi": "अगर किसी ने तोहफ़े लिए, फ़्लर्ट किया या आपके घर आया, तो अब उसे 'हाँ' कहनी ही पड़ेगी।",
     "hg": "Agar kisi ne gifts liye, flirt kiya ya tumhare ghar aaya, toh ab usse 'yes' bolna hi padega."
    },
    "fact": {
     "en": "Nothing creates a debt of consent. Gifts, flirting, a date, an earlier kiss or going to someone's home are not agreement to anything further, and each new step needs its own free yes.",
-    "hi": "सहमति का कोई क़र्ज़ नहीं होता। तोहफ़े, फ़्लर्ट करना, डेट पर जाना, पहले का कोई चुंबन या किसी के घर जाना आगे की किसी भी बात की रज़ामंदी नहीं है, और हर नए क़दम के लिए अलग से, अपनी मर्ज़ी की 'हाँ' चाहिए।",
     "hg": "Consent ka koi karz nahi hota. Gifts, flirting, date, pehle ka koi kiss ya kisi ke ghar jaana aage ki kisi bhi cheez ka agreement nahi hai, aur har naye step ke liye alag se, apni marzi ki 'yes' chahiye."
    }
   },
   "takeaways": [
    {
     "en": "When one person holds power over another, a yes may be fear, and the responsibility lies with the powerful person.",
-    "hi": "जब एक के पास दूसरे पर ताक़त हो, तो 'हाँ' डर भी हो सकती है, और ज़िम्मेदारी ताक़त वाले की होती है।",
     "hg": "Jab ek ke paas doosre par power ho, toh yes darr bhi ho sakti hai, aur zimmedari power wale ki hoti hai."
    },
    {
     "en": "A heavily intoxicated person cannot consent, and being drunk yourself excuses nothing.",
-    "hi": "बहुत ज़्यादा नशे में डूबा इंसान सहमति नहीं दे सकता, और ख़ुद नशे में होना कोई बहाना नहीं है।",
     "hg": "Bahut zyada nashe mein insaan consent nahi de sakta, aur khud drunk hona koi excuse nahi hai."
    },
    {
     "en": "Any sexual image of a person under 18 is illegal to create, keep or forward in India.",
-    "hi": "भारत में 18 से कम उम्र के किसी भी इंसान की यौन तस्वीर बनाना, रखना या आगे भेजना ग़ैर-क़ानूनी है।",
     "hg": "India mein 18 se kam umar ke kisi bhi insaan ki sexual image banana, rakhna ya forward karna illegal hai."
    }
   ],
   "activity": {
    "en": "Think of three people who have some power over you, such as a teacher, a coach or an older cousin. For each, note privately one adult you could go to if that person ever made you uncomfortable.",
-   "hi": "ऐसे तीन लोगों के बारे में सोचिए जिनके पास आप पर कुछ ताक़त है, जैसे टीचर, कोच या बड़ा कज़िन। हर एक के लिए अपने पास लिखिए कि अगर वह कभी आपको असहज करे, तो आप किस बड़े के पास जा सकते हैं।",
    "hg": "Aise teen logon ke baare mein socho jinke paas tum par kuch power hai, jaise teacher, coach ya bada cousin. Har ek ke liye privately note karo ki agar woh kabhi tumhe uncomfortable kare, toh tum kis adult ke paas ja sakte ho."
   },
   "interactive": "consent_sim",
@@ -780,35 +667,29 @@
     "type": "mcq",
     "q": {
      "en": "Why does a power imbalance matter for consent?",
-     "hi": "सहमति के मामले में ताक़त का असंतुलन क्यों मायने रखता है?",
      "hg": "Consent ke liye power imbalance kyun matter karta hai?"
     },
     "options": [
      {
       "en": "The less powerful person may agree out of fear of the consequences of refusing",
-      "hi": "कमज़ोर स्थिति वाला इंसान मना करने के नतीजों के डर से हाँ कह सकता है",
       "hg": "Kam power wala insaan mana karne ke consequences ke darr se haan bol sakta hai"
      },
      {
       "en": "Powerful people are usually more trustworthy",
-      "hi": "ताक़तवर लोग आम तौर पर ज़्यादा भरोसेमंद होते हैं",
       "hg": "Powerful log usually zyada trustworthy hote hain"
      },
      {
       "en": "It only matters if the two people are strangers",
-      "hi": "यह तभी मायने रखता है जब दोनों अजनबी हों",
       "hg": "Yeh tabhi matter karta hai jab dono strangers hon"
      },
      {
       "en": "It matters only at work, never in school or coaching",
-      "hi": "यह सिर्फ़ नौकरी में मायने रखता है, स्कूल या कोचिंग में कभी नहीं",
       "hg": "Yeh sirf job mein matter karta hai, school ya coaching mein kabhi nahi"
      }
     ],
     "answer": 0,
     "explain": {
      "en": "If refusing could cost marks, a job or safety, the yes is not freely given, so it is not real consent.",
-     "hi": "अगर मना करने से नंबर, नौकरी या सुरक्षा पर आँच आ सकती है, तो वह 'हाँ' अपनी मर्ज़ी की नहीं है, इसलिए असली सहमति नहीं है।",
      "hg": "Agar mana karne se marks, job ya safety par asar pad sakta hai, toh woh yes freely given nahi hai, isliye real consent nahi hai."
     }
    },
@@ -817,25 +698,21 @@
     "type": "tf",
     "q": {
      "en": "If a 16-year-old took a nude or sexual photo of themselves and sent it willingly, it is legal for the receiver to forward it.",
-     "hi": "अगर 16 साल के किसी इंसान ने अपनी नग्न या यौन फ़ोटो ख़ुद ली और अपनी मर्ज़ी से भेजी, तो पाने वाले के लिए उसे आगे भेजना क़ानूनी है।",
      "hg": "Agar 16 saal ke kisi insaan ne apni nude ya sexual photo khud li aur apni marzi se bheji, toh receiver ke liye usse forward karna legal hai."
     },
     "options": [
      {
       "en": "True",
-      "hi": "सही",
       "hg": "Sahi"
      },
      {
       "en": "False",
-      "hi": "ग़लत",
       "hg": "Galat"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "A sexual image of anyone under 18 is child sexual abuse material. Keeping or forwarding it is an offence, whoever took it.",
-     "hi": "18 से कम उम्र के किसी भी इंसान की यौन तस्वीर बाल यौन शोषण सामग्री है। उसे रखना या आगे भेजना अपराध है, चाहे उसे किसी ने भी लिया हो।",
      "hg": "18 se kam umar ke kisi bhi insaan ki sexual image child sexual abuse material hai. Usse rakhna ya forward karna offence hai, chahe kisi ne bhi li ho."
     }
    }
@@ -848,7 +725,6 @@
   ],
   "warning": {
    "en": "If an adult in authority is pressuring you, or someone is threatening to share your images, do not handle it alone. Tell a trusted adult, call 1098, or report online abuse at cybercrime.gov.in or 1930. In danger, call 112.",
-   "hi": "अगर कोई अधिकार वाला वयस्क आप पर दबाव डाल रहा है, या कोई आपकी तस्वीरें फैलाने की धमकी दे रहा है, तो इसे अकेले मत झेलिए। किसी भरोसेमंद बड़े को बताइए, 1098 पर फ़ोन कीजिए, या ऑनलाइन शोषण की शिकायत cybercrime.gov.in या 1930 पर कीजिए। ख़तरा हो तो 112 पर कॉल कीजिए।",
    "hg": "Agar koi authority wala adult tum par pressure daal raha hai, ya koi tumhari images share karne ki dhamki de raha hai, toh isse akele handle mat karo. Kisi trusted adult ko batao, 1098 par call karo, ya online abuse cybercrime.gov.in ya 1930 par report karo. Danger ho toh 112 par call karo."
   },
   "sensitive": true,
@@ -857,17 +733,14 @@
   "laws": [
    {
     "en": "POCSO Act, 2012",
-    "hi": "लैंगिक अपराधों से बालकों का संरक्षण (पॉक्सो) अधिनियम, 2012",
     "hg": "POCSO Act, 2012"
    },
    {
     "en": "Bharatiya Nyaya Sanhita, 2023",
-    "hi": "भारतीय न्याय संहिता, 2023",
     "hg": "Bharatiya Nyaya Sanhita (BNS), 2023"
    },
    {
     "en": "Information Technology Act, 2000",
-    "hi": "सूचना प्रौद्योगिकी अधिनियम, 2000",
     "hg": "IT Act, 2000"
    }
   ]
@@ -891,33 +764,27 @@
   ],
   "title": {
    "en": "Consent Between Adults: Partners, Marriage and Alcohol",
-   "hi": "वयस्कों के बीच सहमति: पार्टनर, शादी और शराब",
    "hg": "Adults ke Beech Consent: Partners, Shaadi aur Alcohol"
   },
   "subtitle": {
    "en": "Asked every time, in every kind of relationship",
-   "hi": "हर बार पूछी जाती है, हर तरह के रिश्ते में",
    "hg": "Har baar poocha jaata hai, har tarah ke relationship mein"
   },
   "hook": {
    "en": "A relationship status is not a permission slip. Neither is a wedding, and neither is last night.",
-   "hi": "रिश्ते का नाम कोई इजाज़तनामा नहीं है। शादी भी नहीं, और कल रात की 'हाँ' भी नहीं।",
    "hg": "Relationship status koi permission slip nahi hai. Shaadi bhi nahi, aur kal raat ki 'yes' bhi nahi."
   },
   "objectives": [
    {
     "en": "Explain why consent is needed each time, including in long-term relationships and marriage.",
-    "hi": "समझा पाना कि सहमति हर बार क्यों ज़रूरी है, लंबे रिश्तों और शादी में भी।",
     "hg": "Samjha paana ki consent har baar kyun zaroori hai, long-term relationships aur shaadi mein bhi."
    },
    {
     "en": "Use plain, practical ways to ask, check in and stop.",
-    "hi": "पूछने, बीच में हाल जानने और रुकने के सीधे, व्यावहारिक तरीक़े अपनाना।",
     "hg": "Poochne, check-in karne aur rukne ke seedhe, practical tareeke use karna."
    },
    {
     "en": "Describe how intoxication affects capacity, and where Indian law currently stands on marriage and consent.",
-    "hi": "बता पाना कि नशा फ़ैसला लेने की क्षमता पर कैसे असर डालता है, और शादी व सहमति पर भारतीय क़ानून अभी कहाँ खड़ा है।",
     "hg": "Bata paana ki intoxication capacity par kaise asar daalta hai, aur shaadi aur consent par Indian law abhi kahan khada hai."
    }
   ],
@@ -926,48 +793,40 @@
    {
     "h": {
      "en": "Consent is ongoing, not a one-time contract",
-     "hi": "सहमति चलती रहने वाली चीज़ है, एक बार का क़रार नहीं",
      "hg": "Consent ongoing hai, one-time contract nahi"
     },
     "body": {
      "en": "Between adults, consent is needed each time and for each activity, whether you met last month or have been married for ten years. Yes last night is not yes tonight. Yes to kissing is not yes to intercourse. Yes with a condom is not yes without one, and removing a condom without telling your partner breaks their consent. Desire also differs between partners and shifts with stress, illness, pain, pregnancy, medication and mood. A partner who says 'not today' is giving you information about how they feel. They are not rejecting you as a person, and they do not owe you an explanation.",
-     "hi": "वयस्कों के बीच सहमति हर बार और हर गतिविधि के लिए चाहिए, चाहे आप पिछले महीने मिले हों या शादी को दस साल हो गए हों। कल रात की 'हाँ' आज रात की 'हाँ' नहीं है। चूमने की 'हाँ' संभोग की 'हाँ' नहीं है। कंडोम के साथ कही 'हाँ' बिना कंडोम की 'हाँ' नहीं है, और पार्टनर को बताए बिना कंडोम हटा देना उसकी सहमति तोड़ना है। इच्छा भी दोनों पार्टनर में अलग-अलग होती है और तनाव, बीमारी, दर्द, गर्भावस्था, दवाओं और मूड के साथ बदलती रहती है। जो पार्टनर 'आज नहीं' कहता है, वह आपको अपनी हालत की जानकारी दे रहा है। वह आपको इंसान के तौर पर ठुकरा नहीं रहा, और उस पर सफ़ाई देने का कोई क़र्ज़ नहीं है।",
      "hg": "Adults ke beech consent har baar aur har activity ke liye chahiye, chahe tum pichhle mahine mile ho ya shaadi ko dus saal ho gaye hon. Kal raat ki yes aaj raat ki yes nahi hai. Kiss ki yes intercourse ki yes nahi hai. Condom ke saath boli yes bina condom ki yes nahi hai, aur partner ko bataye bina condom hata dena unka consent todna hai. Desire bhi dono partners mein alag hoti hai aur stress, bimari, pain, pregnancy, medicines aur mood ke saath badalti rehti hai. Jo partner 'aaj nahi' bolta hai, woh tumhe apni feeling ki information de raha hai. Woh tumhe as a person reject nahi kar raha, aur woh tumhe koi explanation owe nahi karta."
     }
    },
    {
     "h": {
      "en": "How adults actually ask",
-     "hi": "वयस्क असल में कैसे पूछते हैं",
      "hg": "Adults actually kaise poochte hain"
     },
     "body": {
      "en": "Asking does not have to be formal. Short questions work: 'Do you want to?', 'Is this okay?', 'Should we slow down or stop?' Have the bigger conversations outside the bedroom, when nobody is rushed: what each of you is comfortable with, contraception, STI protection and testing, and what is off limits. Watch the body as well as the words. Pulling away, going silent, tensing up or looking distressed means pause and check in. If your partner says stop, stop immediately, without argument, sulking or bargaining. Stopping when asked is not a favour you are doing them. It is the minimum.",
-     "hi": "पूछना कोई औपचारिक रस्म नहीं है। छोटे सवाल काफ़ी हैं: 'क्या तुम्हारा मन है?', 'यह ठीक लग रहा है?', 'धीरे चलें या रुक जाएँ?' बड़ी बातचीत बेडरूम के बाहर कीजिए, जब कोई जल्दी में न हो: दोनों किस बात में सहज हैं, गर्भनिरोध, यौन संक्रमणों (STI) से बचाव और जाँच, और क्या बिल्कुल मंज़ूर नहीं। शब्दों के साथ शरीर को भी पढ़िए। पीछे हटना, चुप हो जाना, शरीर का कस जाना या परेशान दिखना इस बात का इशारा है कि रुककर पूछ लिया जाए। अगर पार्टनर 'रुको' कहे, तो तुरंत रुकिए, बिना बहस, बिना मुँह फुलाए, बिना मोल-भाव के। कहने पर रुक जाना कोई एहसान नहीं है। यह कम से कम ज़रूरी बात है।",
      "hg": "Poochna koi formal ritual nahi hai. Chhote sawaal kaafi hain: 'Tumhara mann hai?', 'Yeh okay lag raha hai?', 'Slow karein ya ruk jaayein?' Badi baatein bedroom ke bahar karo, jab koi jaldi mein na ho: dono kis cheez mein comfortable hain, contraception, STI protection aur testing, aur kya bilkul off limits hai. Words ke saath body ko bhi padho. Peeche hatna, chup ho jaana, body ka tense ho jaana ya pareshan dikhna matlab ruk kar check-in karo. Agar partner 'stop' bole, toh turant ruko, bina behes, bina muh phulaye, bina bargaining ke. Bolne par ruk jaana koi favour nahi hai. Yeh minimum hai."
     }
    },
    {
     "h": {
      "en": "Marriage is not consent",
-     "hi": "शादी सहमति नहीं है",
      "hg": "Shaadi consent nahi hai"
     },
     "body": {
      "en": "A wedding does not hand over anyone's body. Ethically and medically, sex forced on a spouse is sexual violence that can cause injury, trauma and unwanted pregnancy. Indian criminal law currently has a gap. The Bharatiya Nyaya Sanhita, 2023 keeps an exception under which intercourse by a man with his own wife, if she is not under 18, is not treated as 'rape'. That exception is contested and under legal challenge. Other remedies exist, including the Protection of Women from Domestic Violence Act, 2005, which covers sexual abuse within the home, and help through 181 or 112. Laws can change; this is general information, not legal advice.",
-     "hi": "शादी किसी का शरीर किसी के हवाले नहीं कर देती। नैतिक और चिकित्सा, दोनों नज़रियों से, जीवनसाथी पर थोपा गया सेक्स यौन हिंसा है, और इससे चोट, मानसिक आघात और अनचाहा गर्भ हो सकता है। भारतीय आपराधिक क़ानून में यहाँ अभी एक कमी है। भारतीय न्याय संहिता, 2023 में एक अपवाद बना हुआ है, जिसके तहत पुरुष का अपनी पत्नी के साथ संभोग, अगर पत्नी 18 से कम उम्र की नहीं है, 'बलात्कार' नहीं माना जाता। इस अपवाद पर विवाद है और इसे अदालत में चुनौती दी गई है। दूसरे रास्ते मौजूद हैं, जैसे घरेलू हिंसा से महिलाओं का संरक्षण अधिनियम, 2005, जो घर के भीतर यौन शोषण को भी शामिल करता है, और 181 या 112 से मिलने वाली मदद। क़ानून बदलते रहते हैं; इसे सामान्य जानकारी समझिए, क़ानूनी सलाह नहीं।",
      "hg": "Shaadi kisi ki body kisi ke hawale nahi kar deti. Ethically aur medically, spouse par force kiya gaya sex sexual violence hai, aur isse injury, trauma aur unwanted pregnancy ho sakti hai. Indian criminal law mein yahan abhi ek gap hai. Bharatiya Nyaya Sanhita, 2023 mein ek exception bana hua hai, jiske under ek aadmi ka apni wife ke saath intercourse, agar wife 18 se kam umar ki nahi hai, 'rape' nahi maana jaata. Yeh exception contested hai aur isse court mein challenge kiya gaya hai. Doosre remedies maujood hain, jaise Protection of Women from Domestic Violence Act, 2005, jo ghar ke andar sexual abuse ko bhi cover karta hai, aur 181 ya 112 se milne wali help. Laws badalte rehte hain; isse general information samjho, legal advice nahi."
     }
    },
    {
     "h": {
      "en": "Alcohol, substances and capacity",
-     "hi": "शराब, नशा और फ़ैसला लेने की क्षमता",
      "hg": "Alcohol, substances aur capacity"
     },
     "body": {
      "en": "Alcohol is part of many adult social settings, so be precise. One drink does not automatically cancel consent, but loss of capacity does. A person must understand what is happening and be able to choose and communicate. Slurred speech, stumbling, confusion, vomiting, drifting off to sleep or patchy awareness mean they cannot consent, whatever they said earlier. If you are unsure, treat it as a no for now; nothing is lost by waiting until you are both sober. Your own drinking does not reduce your responsibility. The BNS defines consent as an unequivocal voluntary agreement, and agreement from someone too intoxicated to understand the act does not count.",
-     "hi": "शराब वयस्कों की कई महफ़िलों का हिस्सा है, इसलिए इस पर साफ़ बात ज़रूरी है। एक ड्रिंक से सहमति अपने आप रद्द नहीं होती, लेकिन फ़ैसला लेने की क्षमता खो जाए तो हो जाती है। इंसान को समझ होनी चाहिए कि क्या हो रहा है, और वह चुन सके और अपनी बात कह सके। लड़खड़ाती ज़बान, डगमगाते क़दम, उलझन, उल्टी, नींद में ढुलक जाना या टूटा-फूटा होश बताते हैं कि वह सहमति नहीं दे सकता, चाहे शाम को पहले उसने कुछ भी कहा हो। शक हो तो फ़िलहाल इसे 'ना' मानिए; दोनों के होश में आने तक रुकने से कुछ नहीं बिगड़ता। आपका ख़ुद पीना आपकी ज़िम्मेदारी कम नहीं करता। भारतीय न्याय संहिता सहमति को साफ़ और स्वेच्छा से दी गई रज़ामंदी बताती है, और जो इंसान नशे के कारण कृत्य को समझ ही नहीं पा रहा, उसकी रज़ामंदी मान्य नहीं है।",
      "hg": "Alcohol adults ke kaafi social settings ka part hai, isliye is par precise rehna zaroori hai. Ek drink se consent automatically cancel nahi hota, lekin capacity chali jaaye toh ho jaata hai. Insaan ko samajh honi chahiye ki kya ho raha hai, aur woh choose aur communicate kar sake. Slurred speech, ladkhadana, confusion, ulti, neend mein dhulak jaana ya toota-phoota hosh batate hain ki woh consent nahi de sakta, chahe shaam ko pehle usne kuch bhi bola ho. Doubt ho toh abhi ke liye isse 'no' maano; dono ke sober hone tak wait karne se kuch nahi bigadta. Tumhara khud peena tumhari zimmedari kam nahi karta. BNS consent ko unequivocal voluntary agreement define karti hai, aur jo insaan nashe ki wajah se act ko samajh hi nahi pa raha, uska agreement count nahi hota."
     }
    }
@@ -975,35 +834,29 @@
   "myth": {
    "claim": {
     "en": "Asking for consent kills the mood, and long-term partners just know.",
-    "hi": "सहमति पूछने से माहौल बिगड़ जाता है, और पुराने पार्टनर तो बिना पूछे समझ जाते हैं।",
     "hg": "Consent poochne se mood kharab ho jaata hai, aur long-term partners toh bina pooche samajh jaate hain."
    },
    "fact": {
     "en": "Nobody can read minds, however long they have been together. A quick 'Is this okay?' takes two seconds and builds trust, while guessing wrong can cause real harm. Talking openly is how partners find out what the other person actually wants.",
-    "hi": "कोई किसी का मन नहीं पढ़ सकता, चाहे साथ कितना भी पुराना हो। 'यह ठीक है?' पूछने में दो सेकंड लगते हैं और इससे भरोसा बनता है, जबकि ग़लत अंदाज़ा असली नुक़सान कर सकता है। खुलकर बात करने से ही पार्टनर जान पाते हैं कि सामने वाला असल में क्या चाहता है।",
     "hg": "Koi kisi ka mind nahi padh sakta, chahe saath kitna bhi purana ho. 'Yeh okay hai?' poochne mein do second lagte hain aur isse trust banta hai, jabki galat guess real harm kar sakta hai. Openly baat karne se hi partners jaan paate hain ki saamne wala actually kya chahta hai."
    }
   },
   "takeaways": [
    {
     "en": "Consent is needed each time and for each activity, in dating, live-in relationships and marriage alike.",
-    "hi": "सहमति हर बार और हर गतिविधि के लिए चाहिए, चाहे डेटिंग हो, लिव-इन हो या शादी।",
     "hg": "Consent har baar aur har activity ke liye chahiye, chahe dating ho, live-in ho ya shaadi."
    },
    {
     "en": "A person who has lost capacity through alcohol or drugs cannot consent, whatever they said earlier.",
-    "hi": "जिसने शराब या नशे से फ़ैसला लेने की क्षमता खो दी है, वह सहमति नहीं दे सकता, चाहे पहले कुछ भी कहा हो।",
     "hg": "Jisne alcohol ya drugs se capacity kho di hai, woh consent nahi de sakta, chahe pehle kuch bhi bola ho."
    },
    {
     "en": "The BNS still has a marital exception that is under legal challenge, but ethically and medically marriage is never consent.",
-    "hi": "भारतीय न्याय संहिता में वैवाहिक अपवाद अब भी है और उसे अदालत में चुनौती दी गई है, लेकिन नैतिक और चिकित्सा नज़रिए से शादी कभी सहमति नहीं है।",
     "hg": "BNS mein marital exception abhi bhi hai aur usse court mein challenge kiya gaya hai, lekin ethically aur medically shaadi kabhi consent nahi hai."
    }
   ],
   "activity": {
    "en": "Privately write two sentences you would be comfortable using to check in with a partner, and two you would use to say 'not now'. Notice which pair feels harder, and why.",
-   "hi": "अपने लिए दो ऐसे वाक्य लिखिए जिनसे आप पार्टनर से सहजता से पूछ सकें, और दो ऐसे जिनसे आप 'अभी नहीं' कह सकें। ग़ौर कीजिए कि कौन-सी जोड़ी ज़्यादा मुश्किल लगती है, और क्यों।",
    "hg": "Privately do sentences likho jinse tum partner se comfortably check-in kar sako, aur do jinse tum 'abhi nahi' bol sako. Notice karo ki kaun sa pair zyada mushkil lagta hai, aur kyun."
   },
   "interactive": "communication",
@@ -1013,30 +866,25 @@
     "type": "scenario",
     "q": {
      "en": "Meher and Kunal have been married for three years. Meher says she is exhausted and not in the mood tonight. What is the respectful response from Kunal?",
-     "hi": "मेहर और कुणाल की शादी को तीन साल हो चुके हैं। मेहर कहती है कि वह थकी हुई है और आज उसका मन नहीं है। कुणाल का सम्मान भरा जवाब क्या होगा?",
      "hg": "Meher aur Kunal ki shaadi ko teen saal ho chuke hain. Meher bolti hai ki woh thaki hui hai aur aaj uska mann nahi hai. Kunal ka respectful response kya hoga?"
     },
     "options": [
      {
       "en": "Remind her that it is her duty as a wife",
-      "hi": "उसे याद दिलाए कि पत्नी होने के नाते यह उसका फ़र्ज़ है",
       "hg": "Usse yaad dilaye ki wife hone ke naate yeh uski duty hai"
      },
      {
       "en": "Stay silent and distant until she changes her mind",
-      "hi": "चुप और रूखा रहे जब तक वह मन न बदल ले",
       "hg": "Chup aur distant rahe jab tak woh mann na badal le"
      },
      {
       "en": "Accept it without sulking and let her rest",
-      "hi": "बिना मुँह फुलाए बात मान ले और उसे आराम करने दे",
       "hg": "Bina muh phulaye baat maan le aur usse rest karne de"
      }
     ],
     "answer": 2,
     "explain": {
      "en": "Marriage creates no duty to have sex. Sulking and silence are pressure, so the only respectful answer is to accept the no.",
-     "hi": "शादी से सेक्स का कोई फ़र्ज़ नहीं बनता। मुँह फुलाना और चुप्पी साधना दबाव है, इसलिए सम्मान वाला अकेला जवाब 'ना' को मान लेना है।",
      "hg": "Shaadi se sex ki koi duty nahi banti. Muh phulana aur silence pressure hai, isliye respectful jawab sirf ek hai: no ko accept karna."
     }
    },
@@ -1045,25 +893,21 @@
     "type": "tf",
     "q": {
      "en": "If a partner agreed to sex with a condom, removing it without telling them still respects their consent.",
-     "hi": "अगर पार्टनर ने कंडोम के साथ सेक्स के लिए हाँ कही थी, तो उसे बताए बिना कंडोम हटा देना भी उसकी सहमति का सम्मान है।",
      "hg": "Agar partner ne condom ke saath sex ke liye haan bola tha, toh usse bataye bina condom hata dena bhi unke consent ki respect hai."
     },
     "options": [
      {
       "en": "True",
-      "hi": "सही",
       "hg": "Sahi"
      },
      {
       "en": "False",
-      "hi": "ग़लत",
       "hg": "Galat"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "Consent is specific. They agreed to sex with protection, so changing that without their knowledge breaks consent and exposes them to pregnancy and STI risk.",
-     "hi": "सहमति किसी ख़ास बात के लिए होती है। उन्होंने सुरक्षा के साथ सेक्स के लिए हाँ कही थी, इसलिए बिना बताए इसे बदलना सहमति तोड़ना है और उन्हें गर्भ व यौन संक्रमण के ख़तरे में डालता है।",
      "hg": "Consent specific hota hai. Unhone protection ke saath sex ke liye haan bola tha, isliye bina bataye isse badalna consent todna hai aur unhe pregnancy aur STI risk mein daalta hai."
     }
    }
@@ -1076,7 +920,6 @@
   ],
   "warning": {
    "en": "If a partner or spouse forces, threatens or pressures you into sex, that is abuse, whatever the relationship. Women can call 181; anyone in danger can call 112. Tele-MANAS (14416) offers free mental health support.",
-   "hi": "अगर कोई पार्टनर या जीवनसाथी आपको सेक्स के लिए मजबूर करता है, धमकाता है या दबाव डालता है, तो यह शोषण है, रिश्ता चाहे जो हो। महिलाएँ 181 पर फ़ोन कर सकती हैं; ख़तरे में कोई भी 112 पर कॉल कर सकता है। टेली-मानस (14416) मुफ़्त मानसिक स्वास्थ्य सहायता देता है।",
    "hg": "Agar koi partner ya spouse tumhe sex ke liye force karta hai, dhamkata hai ya pressure daalta hai, toh yeh abuse hai, relationship chahe jo ho. Women 181 par call kar sakti hain; danger mein koi bhi 112 par call kar sakta hai. Tele-MANAS (14416) free mental health support deta hai."
   },
   "sensitive": true,
@@ -1103,33 +946,27 @@
   ],
   "title": {
    "en": "When Consent Is Violated: Believe, Support, Report",
-   "hi": "जब सहमति तोड़ी जाए: यक़ीन करें, साथ दें, शिकायत करें",
    "hg": "Jab Consent Toda Jaaye: Believe, Support, Report"
   },
   "subtitle": {
    "en": "What harassment and assault are, and what actually helps afterwards",
-   "hi": "उत्पीड़न और यौन हमला क्या हैं, और उसके बाद सच में क्या मदद करता है",
    "hg": "Harassment aur assault kya hain, aur uske baad actually kya help karta hai"
   },
   "hook": {
    "en": "The first thing a survivor hears often decides whether they ever speak again. Make it 'I believe you.'",
-   "hi": "पीड़ित इंसान जो पहली बात सुनता है, अक्सर वही तय करती है कि वह दोबारा कभी बोलेगा या नहीं। वह बात हो: 'मुझे तुम पर यक़ीन है।'",
    "hg": "Survivor jo pehli baat sunta hai, aksar wahi decide karti hai ki woh dobara kabhi bolega ya nahi. Woh baat ho: 'Mujhe tum par yakeen hai.'"
   },
   "objectives": [
    {
     "en": "Describe sexual harassment and sexual assault in plain words, and say who is responsible.",
-    "hi": "यौन उत्पीड़न और यौन हमले को सीधे शब्दों में बता पाना, और यह कि ज़िम्मेदार कौन है।",
     "hg": "Sexual harassment aur sexual assault ko seedhe words mein bata paana, aur yeh ki zimmedar kaun hai."
    },
    {
     "en": "Respond helpfully when someone tells you they were harmed.",
-    "hi": "जब कोई बताए कि उसके साथ ग़लत हुआ है, तो मददगार ढंग से जवाब देना।",
     "hg": "Jab koi bataye ki uske saath galat hua hai, toh helpful tareeke se respond karna."
    },
    {
     "en": "Know where to get urgent help in India and what the limits of secrecy are.",
-    "hi": "जानना कि भारत में तुरंत मदद कहाँ मिलती है और गोपनीयता की सीमाएँ क्या हैं।",
     "hg": "Jaanna ki India mein urgent help kahan milti hai aur secrecy ki limits kya hain."
    }
   ],
@@ -1138,48 +975,40 @@
    {
     "h": {
      "en": "Naming what happened",
-     "hi": "जो हुआ उसे नाम देना",
      "hg": "Jo hua usse naam dena"
     },
     "body": {
      "en": "Sexual harassment is unwanted sexual attention: comments about someone's body, staring, following, showing sexual pictures, unwanted touching, or repeated messages after a no. Sexual assault is any sexual touching or act done without consent, whether through force, threats, tricks, or when the person could not consent. It is sometimes done by a stranger, but more often by someone known: a relative, partner, friend, neighbour or teacher. It can happen to anyone, boys and men included, and women can also be the ones who do it. Whatever the person was wearing, drinking or doing, or whether they fought back, the responsibility belongs only to the one who chose to do it.",
-     "hi": "यौन उत्पीड़न का मतलब है अनचाहा यौन ध्यान: किसी के शरीर पर टिप्पणी, घूरना, पीछा करना, यौन तस्वीरें दिखाना, अनचाहा छूना, या 'ना' के बाद भी बार-बार मैसेज करना। यौन हमला वह हर यौन स्पर्श या कृत्य है जो बिना सहमति के किया जाए, चाहे ज़ोर-ज़बरदस्ती से, धमकी से, धोखे से, या तब जब इंसान सहमति देने की हालत में ही न हो। कभी-कभी यह कोई अजनबी करता है, पर ज़्यादातर कोई जान-पहचान वाला: रिश्तेदार, पार्टनर, दोस्त, पड़ोसी या टीचर। यह किसी के भी साथ हो सकता है, लड़कों और पुरुषों के साथ भी, और ऐसा करने वाली महिला भी हो सकती है। उस इंसान ने क्या पहना था, क्या पिया था या क्या कर रहा था, और उसने विरोध किया या नहीं, इससे कुछ नहीं बदलता: ज़िम्मेदारी सिर्फ़ उसकी है जिसने ऐसा करना चुना।",
      "hg": "Sexual harassment ka matlab hai unwanted sexual attention: kisi ki body par comments, ghoorna, peecha karna, sexual pictures dikhana, unwanted touch, ya 'no' ke baad bhi baar-baar messages. Sexual assault woh har sexual touch ya act hai jo bina consent ke kiya jaaye, chahe force se, dhamki se, dhokhe se, ya tab jab insaan consent dene ki haalat mein hi na ho. Kabhi-kabhi yeh koi stranger karta hai, par zyadatar koi jaan-pehchaan wala: relative, partner, dost, padosi ya teacher. Yeh kisi ke bhi saath ho sakta hai, ladkon aur mardon ke saath bhi, aur aisa karne wali ek aurat bhi ho sakti hai. Us insaan ne kya pehna tha, kya piya tha ya kya kar raha tha, aur usne fight back kiya ya nahi, isse kuch nahi badalta: zimmedari sirf uski hai jisne aisa karna choose kiya."
     }
    },
    {
     "h": {
      "en": "If someone tells you",
-     "hi": "अगर कोई आपको बताए",
      "hg": "Agar koi tumhe bataye"
     },
     "body": {
      "en": "Stay calm and listen. Say: 'I believe you. It is not your fault. Thank you for telling me.' Do not ask 'why' questions such as 'Why did you go there?' or 'Why didn't you shout?', because they sound like blame. Do not push for details, and do not confront the person who did it, which can put both of you at risk. Do not promise to keep it secret if your friend is under 18 or in danger. Say instead: 'I can't keep this only between us, but I will stay with you while we tell someone who can help.' Ask what they need right now.",
-     "hi": "शांत रहिए और सुनिए। कहिए: 'मुझे तुम पर यक़ीन है। इसमें तुम्हारी ग़लती नहीं है। मुझे बताने के लिए शुक्रिया।' 'क्यों' वाले सवाल मत पूछिए, जैसे 'तुम वहाँ गए ही क्यों?' या 'चिल्लाए क्यों नहीं?', क्योंकि ये इल्ज़ाम जैसे लगते हैं। ब्योरे के लिए ज़ोर मत डालिए, और जिसने यह किया उससे भिड़ने मत जाइए, इससे आप दोनों ख़तरे में पड़ सकते हैं। अगर आपका दोस्त 18 से कम उम्र का है या ख़तरे में है, तो बात को राज़ रखने का वादा मत कीजिए। इसकी जगह कहिए: 'मैं इसे सिर्फ़ हम दोनों के बीच नहीं रख सकता/सकती, पर जब हम किसी मदद करने वाले को बताएँगे, तब मैं तुम्हारे साथ रहूँगा/रहूँगी।' पूछिए कि उसे इस वक़्त क्या चाहिए।",
      "hg": "Calm raho aur suno. Bolo: 'Mujhe tum par yakeen hai. Isme tumhari galti nahi hai. Mujhe batane ke liye thank you.' 'Kyun' wale sawaal mat poocho, jaise 'Tum wahan gaye hi kyun?' ya 'Chillaye kyun nahi?', kyunki yeh blame jaise lagte hain. Details ke liye push mat karo, aur jisne yeh kiya usse confront karne mat jao, isse tum dono risk mein pad sakte ho. Agar tumhara dost 18 se kam umar ka hai ya danger mein hai, toh baat ko secret rakhne ka promise mat karo. Iski jagah bolo: 'Main isse sirf hum dono ke beech nahi rakh sakta/sakti, par jab hum kisi help karne wale ko batayenge, tab main tumhare saath rahunga/rahungi.' Poocho ki usse abhi kya chahiye."
     }
    },
    {
     "h": {
      "en": "Getting help quickly",
-     "hi": "जल्दी मदद पाना",
      "hg": "Jaldi help lena"
     },
     "body": {
      "en": "In danger right now, call 112. If the person is under 18, call the Child Helpline 1098 or tell a trusted adult. Women can call 181. For abuse through phones or the internet, use 1930 or cybercrime.gov.in. After a sexual assault, see a doctor or go to a hospital as soon as possible, even with no visible injury. Doctors can treat injuries and give medicines that lower the chance of pregnancy and HIV, but these are time-limited: HIV-prevention medicine must start within 72 hours, and emergency contraception works up to 5 days, the sooner the better. For the emotional aftermath, Tele-MANAS on 14416 offers free support.",
-     "hi": "अभी ख़तरा हो तो 112 पर कॉल कीजिए। अगर इंसान 18 से कम उम्र का है, तो चाइल्ड हेल्पलाइन 1098 पर फ़ोन कीजिए या किसी भरोसेमंद बड़े को बताइए। महिलाएँ 181 पर फ़ोन कर सकती हैं। फ़ोन या इंटरनेट के ज़रिए हुए शोषण के लिए 1930 या cybercrime.gov.in का इस्तेमाल कीजिए। यौन हमले के बाद जितनी जल्दी हो सके डॉक्टर को दिखाइए या अस्पताल जाइए, चाहे कोई चोट दिखाई न दे। डॉक्टर चोटों का इलाज कर सकते हैं और ऐसी दवाएँ दे सकते हैं जो गर्भ ठहरने और एचआईवी (HIV) की आशंका घटाती हैं, लेकिन इनके लिए समय सीमित है: एचआईवी से बचाव की दवा 72 घंटे के भीतर शुरू होनी चाहिए, और आपातकालीन गर्भनिरोधक 5 दिन तक काम करता है, जितनी जल्दी उतना बेहतर। मन पर पड़े असर के लिए टेली-मानस 14416 पर मुफ़्त सहायता देता है।",
      "hg": "Abhi danger ho toh 112 par call karo. Agar person 18 se kam umar ka hai, toh Child Helpline 1098 par call karo ya kisi trusted adult ko batao. Women 181 par call kar sakti hain. Phone ya internet ke through hue abuse ke liye 1930 ya cybercrime.gov.in use karo. Sexual assault ke baad jitni jaldi ho sake doctor ko dikhao ya hospital jao, chahe koi injury dikhe na dikhe. Doctors injuries treat kar sakte hain aur aisi medicines de sakte hain jo pregnancy aur HIV ka chance kam karti hain, lekin inke liye time limited hai: HIV-prevention medicine 72 ghante ke andar start honi chahiye, aur emergency contraception 5 din tak kaam karta hai, jitni jaldi utna better. Emotional asar ke liye Tele-MANAS 14416 par free support deta hai."
     }
    },
    {
     "h": {
      "en": "Reporting in India and the limits of secrecy",
-     "hi": "भारत में शिकायत और गोपनीयता की सीमाएँ",
      "hg": "India mein reporting aur secrecy ki limits"
     },
     "body": {
      "en": "Under the POCSO Act, anyone who knows of a sexual offence against a person under 18 must report it to the police or the Special Juvenile Police Unit. So doctors, teachers and counsellors cannot promise a minor total secrecy. A good one says so first. The media may not reveal the child's identity. Hospitals are also required to inform the police when they treat a survivor of rape, so adults too can ask at the start what will be reported. Reporting can feel frightening, but it is how protection and justice begin, and you can bring someone you trust. Treat this as general information, not legal advice; laws can change.",
-     "hi": "पॉक्सो क़ानून के तहत, जिसे भी 18 से कम उम्र के किसी इंसान के ख़िलाफ़ यौन अपराध की जानकारी हो, उसे पुलिस या विशेष किशोर पुलिस इकाई (SJPU) को बताना ही होगा। इसलिए डॉक्टर, टीचर और काउंसलर किसी नाबालिग से पूरी गोपनीयता का वादा नहीं कर सकते। एक अच्छा पेशेवर यह बात पहले ही बता देता है। मीडिया बच्चे की पहचान उजागर नहीं कर सकता। अस्पतालों के लिए भी ज़रूरी है कि बलात्कार पीड़ित का इलाज करते समय वे पुलिस को सूचना दें, इसलिए वयस्क भी शुरू में पूछ सकते हैं कि क्या-क्या बताया जाएगा। शिकायत करना डरावना लग सकता है, लेकिन सुरक्षा और न्याय की शुरुआत यहीं से होती है, और आप किसी भरोसेमंद इंसान को साथ ले जा सकते हैं। इसे सामान्य जानकारी मानिए, क़ानूनी सलाह नहीं; क़ानून बदल सकते हैं।",
      "hg": "POCSO Act ke under, jise bhi 18 se kam umar ke kisi insaan ke khilaaf sexual offence ka pata ho, usse police ya Special Juvenile Police Unit ko report karna hi hoga. Isliye doctors, teachers aur counsellors kisi minor se total secrecy ka promise nahi kar sakte. Ek accha professional yeh baat pehle hi bata deta hai. Media child ki identity reveal nahi kar sakta. Hospitals ke liye bhi zaroori hai ki rape survivor ka treatment karte waqt woh police ko inform karein, isliye adults bhi shuru mein pooch sakte hain ki kya-kya report hoga. Report karna scary lag sakta hai, lekin protection aur justice ki shuruaat yahin se hoti hai, aur tum kisi trusted insaan ko saath le ja sakte ho. Isse general information maano, legal advice nahi; laws badal sakte hain."
     }
    }
@@ -1187,35 +1016,29 @@
   "myth": {
    "claim": {
     "en": "What someone wore, or being out late, is what causes sexual assault.",
-    "hi": "यौन हमला इसलिए होता है कि किसी ने क्या पहना था या वह देर रात बाहर था।",
     "hg": "Sexual assault isliye hota hai ki kisi ne kya pehna tha ya woh late night bahar tha."
    },
    "fact": {
     "en": "Assault happens to people in school uniforms, saris, burqas and pyjamas, at home and in daylight. The only cause is a person deciding to ignore someone else's consent.",
-    "hi": "यौन हमला स्कूल यूनिफ़ॉर्म, साड़ी, बुर्क़े और पजामे में भी होता है, घर के भीतर भी और दिन के उजाले में भी। इसकी अकेली वजह वह इंसान है जो किसी की सहमति को अनदेखा करने का फ़ैसला करता है।",
     "hg": "Assault school uniform, saree, burqa aur pyjama mein bhi hota hai, ghar ke andar bhi aur din ke ujaale mein bhi. Iski ek hi wajah hai: woh insaan jo kisi ke consent ko ignore karne ka decision leta hai."
    }
   },
   "takeaways": [
    {
     "en": "Harassment and assault are never the fault of the person they were done to.",
-    "hi": "उत्पीड़न और यौन हमला कभी उस इंसान की ग़लती नहीं होते जिसके साथ ये हुए।",
     "hg": "Harassment aur assault kabhi us insaan ki galti nahi hote jiske saath yeh hue."
    },
    {
     "en": "Believe, listen, avoid 'why' questions, and help the person reach someone who can act.",
-    "hi": "यक़ीन कीजिए, सुनिए, 'क्यों' वाले सवालों से बचिए, और उस इंसान को ऐसे व्यक्ति तक पहुँचने में मदद कीजिए जो कुछ कर सके।",
     "hg": "Believe karo, suno, 'kyun' wale sawaalon se bacho, aur us insaan ko aise person tak pahunchne mein help karo jo action le sake."
    },
    {
     "en": "Medical care after assault is time-sensitive, and nobody can promise a minor total secrecy.",
-    "hi": "यौन हमले के बाद इलाज में समय की बड़ी अहमियत है, और कोई भी किसी नाबालिग से पूरी गोपनीयता का वादा नहीं कर सकता।",
     "hg": "Assault ke baad medical care time-sensitive hai, aur koi bhi kisi minor se total secrecy ka promise nahi kar sakta."
    }
   ],
   "activity": {
    "en": "Save 112, 1098, 181, 1930 and 14416 in your phone or write them on a card. Then practise saying aloud the three sentences: 'I believe you. It's not your fault. Thank you for telling me.'",
-   "hi": "112, 1098, 181, 1930 और 14416 अपने फ़ोन में सेव कीजिए या एक कार्ड पर लिख लीजिए। फिर ये तीन वाक्य ज़ोर से बोलने का अभ्यास कीजिए: 'मुझे तुम पर यक़ीन है। इसमें तुम्हारी ग़लती नहीं है। बताने के लिए शुक्रिया।'",
    "hg": "112, 1098, 181, 1930 aur 14416 apne phone mein save karo ya ek card par likh lo. Phir yeh teen sentences zor se bolne ki practice karo: 'Mujhe tum par yakeen hai. Isme tumhari galti nahi hai. Batane ke liye thank you.'"
   },
   "interactive": "support_circle",
@@ -1225,35 +1048,29 @@
     "type": "scenario",
     "q": {
      "en": "Your friend Kabir tells you an older cousin touched him in a way he did not want. Which reply helps most?",
-     "hi": "आपका दोस्त कबीर बताता है कि एक बड़े कज़िन ने उसे ऐसे छुआ जो वह नहीं चाहता था। कौन-सा जवाब सबसे ज़्यादा मदद करेगा?",
      "hg": "Tumhara dost Kabir batata hai ki ek bade cousin ne usse aise touch kiya jo woh nahi chahta tha. Kaun sa reply sabse zyada help karega?"
     },
     "options": [
      {
       "en": "'Are you sure? Your cousin seems like such a nice person.'",
-      "hi": "'पक्का? तुम्हारा कज़िन तो बड़ा भला इंसान लगता है।'",
       "hg": "'Pakka? Tumhara cousin toh bada accha insaan lagta hai.'"
      },
      {
       "en": "'I believe you. It's not your fault. Let's tell an adult you trust.'",
-      "hi": "'मुझे तुम पर यक़ीन है। तुम्हारी ग़लती नहीं है। चलो किसी भरोसेमंद बड़े को बताते हैं।'",
       "hg": "'Mujhe tum par yakeen hai. Tumhari galti nahi hai. Chalo kisi trusted adult ko batate hain.'"
      },
      {
       "en": "'Why didn't you push them away or shout?'",
-      "hi": "'तुमने धक्का क्यों नहीं दिया या चिल्लाए क्यों नहीं?'",
       "hg": "'Tumne dhakka kyun nahi diya ya chillaye kyun nahi?'"
      },
      {
       "en": "'I promise I will never tell anyone, whatever happens.'",
-      "hi": "'वादा, चाहे कुछ हो जाए, यह बात किसी को पता नहीं चलेगी।'",
       "hg": "'Promise, chahe kuch ho jaaye, yeh baat kisi ko pata nahi chalegi.'"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "Belief and no blame come first. Promising total secrecy can leave him unprotected, so help him reach a trusted adult.",
-     "hi": "सबसे पहले यक़ीन और कोई इल्ज़ाम नहीं। पूरी गोपनीयता का वादा उसे बिना सुरक्षा के छोड़ सकता है, इसलिए उसे भरोसेमंद बड़े तक पहुँचने में मदद कीजिए।",
      "hg": "Sabse pehle belief aur zero blame. Total secrecy ka promise usse unprotected chhod sakta hai, isliye usse trusted adult tak pahunchne mein help karo."
     }
    },
@@ -1262,25 +1079,21 @@
     "type": "tf",
     "q": {
      "en": "After a sexual assault, medicine to help prevent HIV can be started at any time in the following month.",
-     "hi": "यौन हमले के बाद एचआईवी से बचाव की दवा अगले एक महीने में कभी भी शुरू की जा सकती है।",
      "hg": "Sexual assault ke baad HIV se bachaav ki medicine agle ek mahine mein kabhi bhi start ki ja sakti hai."
     },
     "options": [
      {
       "en": "True",
-      "hi": "सही",
       "hg": "Sahi"
      },
      {
       "en": "False",
-      "hi": "ग़लत",
       "hg": "Galat"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "HIV post-exposure medicine must be started as soon as possible and no later than 72 hours, which is why going to a doctor quickly matters.",
-     "hi": "एचआईवी से बचाव की यह दवा जितनी जल्दी हो सके, और ज़्यादा से ज़्यादा 72 घंटे के भीतर शुरू होनी चाहिए, इसीलिए जल्दी डॉक्टर के पास जाना ज़रूरी है।",
      "hg": "HIV post-exposure medicine jitni jaldi ho sake, aur maximum 72 ghante ke andar start honi chahiye, isiliye jaldi doctor ke paas jaana zaroori hai."
     }
    }
@@ -1295,7 +1108,6 @@
   ],
   "warning": {
    "en": "After a sexual assault, get medical care as early as you can: HIV-prevention medicine must start within 72 hours and emergency contraception within 5 days. Call 112 in an emergency and 1098 if the person is under 18.",
-   "hi": "यौन हमले के बाद जितनी जल्दी हो सके इलाज कराइए: एचआईवी से बचाव की दवा 72 घंटे के भीतर और आपातकालीन गर्भनिरोधक 5 दिन के भीतर शुरू होना चाहिए। आपात स्थिति में 112 पर और इंसान 18 से कम उम्र का हो तो 1098 पर फ़ोन कीजिए।",
    "hg": "Sexual assault ke baad jitni jaldi ho sake medical care lo: HIV-prevention medicine 72 ghante ke andar aur emergency contraception 5 din ke andar start hona chahiye. Emergency mein 112 par aur person 18 se kam umar ka ho toh 1098 par call karo."
   },
   "sensitive": true,

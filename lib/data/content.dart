@@ -56,6 +56,7 @@ class ContentRepository {
   final List<L> safeguarding;
   final L questionBox;
   final List<SafetyGuide> safetyGuidance;
+  final List<Poster> posters;
 
   /// "At a glance" infographic per lesson id.
   final Map<String, LessonVisual> visuals;
@@ -102,6 +103,7 @@ class ContentRepository {
     this.safeguarding = const [],
     this.questionBox = L.empty,
     this.safetyGuidance = const [],
+    this.posters = const [],
     this.visuals = const {},
     this.images = const [],
     this.legalChecked,
@@ -236,6 +238,12 @@ class ContentRepository {
       safetyGuidance: [
         for (final m in jsonMaps(social['safety_guidance']))
           SafetyGuide.fromJson(m),
+      ],
+      posters: [
+        for (final m in jsonMaps(
+          await j('extras/posters.json', optional: true),
+        ))
+          Poster.fromJson(m),
       ],
       visuals: {
         for (final v in visuals)
@@ -410,6 +418,10 @@ class ContentRepository {
       'digital_safety',
     if (track.index >= Track.c.index && stiMatch.length >= 4) 'sti_match',
     if (visible(supportCircle, track).isNotEmpty) 'support_circle',
+    // The magazine and Data Desk (website content, bundled) are for 16+.
+    if (track.index >= Track.d.index) 'magazine',
+    if (track.index >= Track.d.index) 'data_desk',
+    if (track.index >= Track.d.index && posters.isNotEmpty) 'poster_wall',
     if (scenariosFor(track, module: 'communication').isNotEmpty)
       'communication',
   ];

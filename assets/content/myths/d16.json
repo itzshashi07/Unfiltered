@@ -12,18 +12,15 @@
   "body": [],
   "claim": {
    "en": "If I tell someone about abuse, I am the one who will be punished.",
-   "hi": "अगर मैं शोषण के बारे में किसी को बताऊँगा/बताऊँगी, तो सज़ा मुझे ही मिलेगी।",
    "hg": "Agar main abuse ke baare mein kisi ko bataunga/bataungi, toh saza mujhe hi milegi."
   },
   "verdict": "myth",
   "fact": {
    "en": "The law punishes the person who abused, never the child who was harmed. A child is not punished for telling, for telling late, or for having been tricked or frightened into keeping quiet. Under POCSO the process is meant to protect the child: privacy from the media, a trusted adult present, and special courts.",
-   "hi": "क़ानून शोषण करने वाले को सज़ा देता है, उस बच्चे को कभी नहीं जिसे नुक़सान पहुँचा। बताने पर, देर से बताने पर, या बहलाकर या डराकर चुप कराए जाने पर बच्चे को कोई सज़ा नहीं मिलती। पॉक्सो के तहत पूरी प्रक्रिया बच्चे की हिफ़ाज़त के लिए बनी है: मीडिया से निजता, किसी भरोसेमंद बड़े की मौजूदगी, और विशेष अदालतें।",
    "hg": "Law abuse karne wale ko saza deta hai, us bachche ko kabhi nahi jise harm hua. Batane par, der se batane par, ya behla kar ya dara kar chup karaye jaane par bachche ko koi saza nahi milti. POCSO ke under poora process bachche ki protection ke liye bana hai: media se privacy, kisi trusted adult ki maujoodgi, aur special courts."
   },
   "why": {
    "en": "People who harm children often threaten that the child will be blamed, and children see adults get angry about much smaller things.",
-   "hi": "बच्चों को नुक़सान पहुँचाने वाले लोग अक्सर धमकाते हैं कि इल्ज़ाम बच्चे पर ही आएगा, और बच्चे देखते हैं कि बड़े कहीं छोटी बातों पर भी ग़ुस्सा हो जाते हैं।",
    "hg": "Bachchon ko harm karne wale log aksar dhamkate hain ki blame bachche par hi aayega, aur bachche dekhte hain ki bade isse bahut chhoti baaton par bhi gussa ho jaate hain."
   },
   "refs": [
@@ -47,18 +44,15 @@
   "body": [],
   "claim": {
    "en": "In Indian law, a 17-year-old is still a 'child'.",
-   "hi": "भारतीय क़ानून में 17 साल का इंसान भी 'बच्चा' ही है।",
    "hg": "Indian law mein 17 saal ka insaan bhi 'child' hi hai."
   },
   "verdict": "fact",
   "fact": {
    "en": "True. The POCSO Act defines a child as any person under 18, so a 17-year-old has the same legal protection from sexual offences as a 7-year-old. It also means the law does not accept a 17-year-old's agreement as consent to sexual activity. The legal age of marriage is 18 for women and 21 for men.",
-   "hi": "सही है। पॉक्सो क़ानून 18 से कम उम्र के हर इंसान को बच्चा मानता है, इसलिए 17 साल के इंसान को यौन अपराधों से वही क़ानूनी सुरक्षा मिलती है जो 7 साल के बच्चे को। इसका यह भी मतलब है कि क़ानून 17 साल के इंसान की रज़ामंदी को यौन गतिविधि के लिए सहमति नहीं मानता। शादी की क़ानूनी उम्र महिलाओं के लिए 18 और पुरुषों के लिए 21 साल है।",
    "hg": "Sahi hai. POCSO Act 18 se kam umar ke har insaan ko child maanta hai, isliye 17 saal ke insaan ko sexual offences se wahi legal protection milti hai jo 7 saal ke bachche ko. Iska yeh bhi matlab hai ki law 17 saal ke insaan ke agreement ko sexual activity ke liye consent nahi maanta. Shaadi ki legal age women ke liye 18 aur men ke liye 21 saal hai."
   },
   "why": {
    "en": "Seventeen-year-olds often look and feel grown up, may be in college or working, and everyday language rarely calls them children.",
-   "hi": "सत्रह साल के लोग अक्सर बड़े दिखते और महसूस करते हैं, कॉलेज में या काम पर हो सकते हैं, और आम बोलचाल में उन्हें शायद ही कोई बच्चा कहता है।",
    "hg": "Satrah saal ke log aksar bade dikhte aur feel karte hain, college mein ya kaam par ho sakte hain, aur roz ki bhasha mein unhe shayad hi koi bachcha kehta hai."
   },
   "refs": [
@@ -79,18 +73,15 @@
   "body": [],
   "claim": {
    "en": "If both people are under 18 and both agree, the law does not apply.",
-   "hi": "अगर दोनों 18 से कम उम्र के हैं और दोनों राज़ी हैं, तो क़ानून लागू नहीं होता।",
    "hg": "Agar dono 18 se kam umar ke hain aur dono raazi hain, toh law apply nahi hota."
   },
   "verdict": "myth",
   "fact": {
    "en": "POCSO has no exception for two minors who agree or are close in age. Any sexual act with a person under 18 remains an offence, and a case can be registered if it is reported, often by a parent, doctor or school. An accused person under 18 is dealt with under juvenile justice law, but for the most serious offences a 16- or 17-year-old can be tried as an adult. Friendship and dating are not offences.",
-   "hi": "पॉक्सो में ऐसे दो नाबालिगों के लिए कोई छूट नहीं है जो राज़ी हों या उम्र में क़रीब हों। 18 से कम उम्र के इंसान के साथ कोई भी यौन कृत्य अपराध ही रहता है, और सूचना मिलने पर मामला दर्ज हो सकता है, जो अक्सर माता-पिता, डॉक्टर या स्कूल की ओर से दी जाती है। 18 से कम उम्र के आरोपी का मामला किशोर न्याय क़ानून के तहत चलता है, लेकिन सबसे गंभीर अपराधों में 16 या 17 साल के आरोपी पर वयस्क की तरह मुक़दमा चल सकता है। दोस्ती और डेटिंग अपराध नहीं हैं।",
    "hg": "POCSO mein aise do minors ke liye koi exception nahi hai jo raazi hon ya age mein close hon. 18 se kam umar ke insaan ke saath koi bhi sexual act offence hi rehta hai, aur report hone par case register ho sakta hai, jo aksar parents, doctor ya school ki taraf se hoti hai. 18 se kam umar ke accused ka case juvenile justice law ke under chalta hai, lekin sabse serious offences mein 16 ya 17 saal ke accused par adult ki tarah trial chal sakta hai. Dosti aur dating offences nahi hain."
   },
   "why": {
    "en": "It feels unfair that the law treats a willing teenage relationship like abuse, and films and social media rarely mention this rule.",
-   "hi": "यह नाइंसाफ़ी जैसा लगता है कि क़ानून किशोरों के रज़ामंदी वाले रिश्ते को शोषण की तरह देखे, और फ़िल्में व सोशल मीडिया इस नियम का ज़िक्र शायद ही करते हैं।",
    "hg": "Yeh unfair lagta hai ki law teenagers ke willing relationship ko abuse ki tarah treat kare, aur films aur social media is rule ka mention shayad hi karte hain."
   },
   "refs": [
@@ -112,18 +103,15 @@
   "body": [],
   "claim": {
    "en": "Forwarding a classmate's nude photo is not a crime if you were not the one who took it.",
-   "hi": "अगर फ़ोटो तुमने नहीं ली थी, तो क्लासमेट की नग्न फ़ोटो आगे भेजना अपराध नहीं है।",
    "hg": "Agar photo tumne nahi li thi, toh classmate ki nude photo forward karna crime nahi hai."
   },
   "verdict": "myth",
   "fact": {
    "en": "Under the IT Act and POCSO, sharing, storing or downloading a sexual image of a person under 18 is an offence for every person in the chain, not only the one who created it. Sharing an adult's private images without consent is also an offence. If one reaches you, do not forward or save it, do not delete the chat, and report it at cybercrime.gov.in or on 1930, with a trusted adult or 1098 if you are under 18.",
-   "hi": "IT Act और पॉक्सो के तहत 18 से कम उम्र के इंसान की यौन तस्वीर शेयर करना, रखना या डाउनलोड करना भी इस कड़ी के हर इंसान के लिए अपराध है, सिर्फ़ उसे बनाने वाले के लिए नहीं। किसी वयस्क की निजी तस्वीरें उसकी सहमति के बिना फैलाना भी अपराध है। अगर ऐसी तस्वीर आप तक पहुँचे, तो उसे न आगे भेजिए, न सेव कीजिए, चैट डिलीट मत कीजिए, और cybercrime.gov.in या 1930 पर शिकायत कीजिए; 18 से कम उम्र हो तो किसी भरोसेमंद बड़े के साथ या 1098 पर।",
    "hg": "IT Act aur POCSO ke under 18 se kam umar ke insaan ki sexual image share karna, store karna ya download karna bhi is chain ke har insaan ke liye offence hai, sirf usse banane wale ke liye nahi. Kisi adult ki private images uske consent ke bina share karna bhi offence hai. Agar aisi image tum tak pahunche, toh usse na forward karo, na save karo, chat delete mat karo, aur cybercrime.gov.in ya 1930 par report karo; 18 se kam ho toh kisi trusted adult ke saath ya 1098 par."
   },
   "why": {
    "en": "Forwarding feels passive, like passing on a meme, and many people assume that only the original sender is legally responsible.",
-   "hi": "फ़ॉरवर्ड करना मामूली-सा लगता है, जैसे कोई मीम आगे बढ़ा देना, और लोग मान लेते हैं कि ज़िम्मेदार सिर्फ़ वही है जिसने सबसे पहले भेजा।",
    "hg": "Forward karna passive-sa lagta hai, jaise koi meme aage badha dena, aur log maan lete hain ki zimmedar sirf wahi hai jisne sabse pehle bheja."
   },
   "refs": [
@@ -147,18 +135,15 @@
   ],
   "claim": {
    "en": "Abortion is illegal in India unless you are married.",
-   "hi": "भारत में गर्भपात ग़ैर-क़ानूनी है, जब तक आप शादीशुदा न हों।",
    "hg": "India mein abortion illegal hai, jab tak tum married na ho."
   },
   "verdict": "myth",
   "fact": {
    "en": "Abortion has been legal in India under conditions since the MTP Act of 1971, and the 2021 amendment made clear that it applies to unmarried women too. It is allowed up to 20 weeks on one doctor's opinion and up to 24 weeks for specified categories on two doctors' opinions, at approved facilities. An adult woman consents for herself.",
-   "hi": "भारत में गर्भपात 1971 के MTP Act के समय से कुछ शर्तों के साथ क़ानूनी है, और 2021 के संशोधन ने साफ़ कर दिया कि यह अविवाहित महिलाओं पर भी लागू होता है। 20 हफ़्ते तक यह एक डॉक्टर की राय पर, और तय श्रेणियों के लिए 24 हफ़्ते तक दो डॉक्टरों की राय पर, मान्यता प्राप्त केंद्रों में हो सकता है। वयस्क महिला अपनी सहमति ख़ुद देती है।",
    "hg": "India mein abortion 1971 ke MTP Act ke time se kuch conditions ke saath legal hai, aur 2021 ke amendment ne clear kar diya ki yeh unmarried women par bhi apply hota hai. 20 weeks tak yeh ek doctor ki opinion par, aur specified categories ke liye 24 weeks tak do doctors ki opinion par, approved facilities mein ho sakta hai. Adult woman apna consent khud deti hai."
   },
   "why": {
    "en": "Abortion is rarely discussed openly, some providers wrongly turn unmarried women away, and news from countries where it is banned adds to the confusion.",
-   "hi": "गर्भपात पर खुलकर बात कम ही होती है, कुछ डॉक्टर और क्लिनिक अविवाहित महिलाओं को ग़लत तरीक़े से लौटा देते हैं, और जिन देशों में इस पर रोक है वहाँ की ख़बरें उलझन बढ़ा देती हैं।",
    "hg": "Abortion par openly baat kam hi hoti hai, kuch providers unmarried women ko galat tareeke se lauta dete hain, aur jin countries mein yeh banned hai wahan ki news confusion badha deti hai."
   },
   "refs": [
@@ -181,18 +166,15 @@
   "body": [],
   "claim": {
    "en": "Whatever you tell a doctor stays completely confidential.",
-   "hi": "डॉक्टर को जो भी बताओ, वह पूरी तरह गोपनीय रहता है।",
    "hg": "Doctor ko jo bhi batao, woh poori tarah confidential rehta hai."
   },
   "verdict": "partly",
   "fact": {
    "en": "Partly true. Doctors and counsellors must keep your information private, and most of it stays between you. But the law sets limits. If a patient under 18 discloses sexual abuse or sexual activity, POCSO requires the professional to inform the police, and hospitals must inform the police when treating a survivor of rape. Hospitals must still treat a survivor immediately and free of cost, so this is never a reason to avoid care. Ask about the limits at the start.",
-   "hi": "आंशिक रूप से सही। डॉक्टरों और काउंसलरों को आपकी जानकारी निजी रखनी होती है, और ज़्यादातर बातें आप दोनों के बीच ही रहती हैं। लेकिन क़ानून इसकी सीमाएँ तय करता है। अगर 18 से कम उम्र का मरीज़ यौन शोषण या यौन गतिविधि के बारे में बताता है, तो पॉक्सो के तहत उस पेशेवर को पुलिस को सूचना देनी होती है, और बलात्कार पीड़ित का इलाज करते समय अस्पतालों को पुलिस को बताना होता है। फिर भी अस्पतालों को पीड़ित का इलाज तुरंत और मुफ़्त करना होता है, इसलिए यह इलाज से बचने की वजह कभी नहीं है। शुरू में ही इन सीमाओं के बारे में पूछ लीजिए।",
    "hg": "Partly sahi. Doctors aur counsellors ko tumhari information private rakhni hoti hai, aur zyadatar baatein tum dono ke beech hi rehti hain. Lekin law iski limits set karta hai. Agar 18 se kam umar ka patient sexual abuse ya sexual activity ke baare mein batata hai, toh POCSO ke under us professional ko police ko inform karna hota hai, aur rape survivor ka treatment karte waqt hospitals ko police ko batana hota hai. Phir bhi hospitals ko survivor ka treatment turant aur free karna hota hai, isliye yeh care se bachne ki wajah kabhi nahi hai. Shuru mein hi in limits ke baare mein pooch lo."
   },
   "why": {
    "en": "Confidentiality is the general rule and the part that films and posters emphasise, while the legal exceptions are rarely explained to patients.",
-   "hi": "गोपनीयता आम नियम है और फ़िल्में व पोस्टर इसी पर ज़ोर देते हैं, जबकि क़ानूनी अपवाद मरीज़ों को शायद ही कभी समझाए जाते हैं।",
    "hg": "Confidentiality general rule hai aur films aur posters isi par zor dete hain, jabki legal exceptions patients ko shayad hi kabhi samjhaye jaate hain."
   },
   "refs": [
@@ -215,18 +197,15 @@
   "body": [],
   "claim": {
    "en": "POCSO only protects girls.",
-   "hi": "पॉक्सो सिर्फ़ लड़कियों की हिफ़ाज़त करता है।",
    "hg": "POCSO sirf ladkiyon ko protect karta hai."
   },
   "verdict": "myth",
   "fact": {
    "en": "POCSO is gender-neutral about the child. It protects every person under 18, including boys and transgender and intersex children. Boys are sexually abused too, and often stay silent because they fear being mocked or not believed. The same reporting duties, privacy protections and helplines, such as 1098, apply to them.",
-   "hi": "बच्चे के मामले में पॉक्सो जेंडर का भेद नहीं करता। यह 18 से कम उम्र के हर इंसान की हिफ़ाज़त करता है, जिनमें लड़के और ट्रांसजेंडर व इंटरसेक्स बच्चे भी शामिल हैं। लड़कों का भी यौन शोषण होता है, और वे अक्सर इस डर से चुप रहते हैं कि उनका मज़ाक़ उड़ेगा या कोई यक़ीन नहीं करेगा। सूचना देने का वही फ़र्ज़, निजता की वही सुरक्षा और वही हेल्पलाइन, जैसे 1098, उन पर भी लागू होती हैं।",
    "hg": "Child ke case mein POCSO gender-neutral hai. Yeh 18 se kam umar ke har insaan ko protect karta hai, jisme ladke aur transgender aur intersex bachche bhi shaamil hain. Ladkon ka bhi sexual abuse hota hai, aur woh aksar is darr se chup rehte hain ki unka mazaak udega ya koi yakeen nahi karega. Wahi reporting duties, wahi privacy protection aur wahi helplines, jaise 1098, un par bhi apply hoti hain."
   },
   "why": {
    "en": "Public conversation about sexual violence mostly centres on girls and women, and boys are often taught that being a victim is shameful or impossible.",
-   "hi": "यौन हिंसा पर होने वाली आम चर्चा ज़्यादातर लड़कियों और महिलाओं पर टिकी रहती है, और लड़कों को अक्सर सिखाया जाता है कि पीड़ित होना शर्म की बात है या मुमकिन ही नहीं।",
    "hg": "Sexual violence par public conversation zyadatar ladkiyon aur women par centred rehti hai, aur ladkon ko aksar sikhaya jaata hai ki victim hona sharam ki baat hai ya possible hi nahi."
   },
   "refs": [
@@ -248,18 +227,15 @@
   "body": [],
   "claim": {
    "en": "The law on sexual harassment at work only applies to big companies with an HR department.",
-   "hi": "कार्यस्थल पर यौन उत्पीड़न का क़ानून सिर्फ़ उन बड़ी कंपनियों पर लागू होता है जिनमें एचआर विभाग हो।",
    "hg": "Workplace sexual harassment ka law sirf un badi companies par apply hota hai jinme HR department ho."
   },
   "verdict": "myth",
   "fact": {
    "en": "The POSH Act, 2013 covers almost every workplace: offices, shops, factories, hospitals, colleges, NGOs, and homes where domestic workers are employed. Workplaces with ten or more workers must set up an Internal Committee; for smaller ones, a Local Committee in each district hears complaints, and SHe-Box takes them online. The Act protects women only. This is general information, not legal advice; laws change.",
-   "hi": "पॉश अधिनियम, 2013 लगभग हर कार्यस्थल को कवर करता है: दफ़्तर, दुकानें, कारख़ाने, अस्पताल, कॉलेज, एनजीओ, और वे घर भी जहाँ घरेलू कामगार काम करते हैं। दस या उससे ज़्यादा कर्मचारियों वाले कार्यस्थलों को आंतरिक समिति बनानी होती है; छोटे कार्यस्थलों की शिकायतें हर ज़िले की स्थानीय समिति सुनती है, और शी-बॉक्स पर ऑनलाइन शिकायत होती है। यह अधिनियम सिर्फ़ महिलाओं की रक्षा करता है। यह सामान्य जानकारी है, क़ानूनी सलाह नहीं; क़ानून बदलते हैं।",
    "hg": "POSH Act, 2013 almost har workplace ko cover karta hai: offices, shops, factories, hospitals, colleges, NGOs, aur woh ghar bhi jahan domestic workers kaam karte hain. Das ya usse zyada workers wale workplaces ko Internal Committee banani hoti hai; chhote workplaces ki complaints har district ki Local Committee sunti hai, aur SHe-Box par online complaint hoti hai. Yeh Act sirf women ko protect karta hai. Yeh general information hai, legal advice nahi; laws badalte hain."
   },
   "why": {
    "en": "Awareness sessions and posters about the Act are mostly seen in large corporate offices, so people in small shops, informal jobs and domestic work rarely hear that it covers them too.",
-   "hi": "इस अधिनियम पर जागरूकता सत्र और पोस्टर ज़्यादातर बड़े कॉर्पोरेट दफ़्तरों में ही दिखते हैं, इसलिए छोटी दुकानों, असंगठित काम और घरेलू काम में लगे लोगों को शायद ही पता चलता है कि यह उन्हें भी कवर करता है।",
    "hg": "Is Act ke awareness sessions aur posters zyada-tar bade corporate offices mein hi dikhte hain, isliye chhoti shops, informal jobs aur domestic work mein lage logon ko shayad hi pata chalta hai ki yeh unhe bhi cover karta hai."
   },
   "refs": [
@@ -281,18 +257,15 @@
   "body": [],
   "claim": {
    "en": "An adult man who is sexually assaulted cannot file a rape case under India's main criminal code.",
-   "hi": "जिस वयस्क पुरुष पर यौन हमला हुआ हो, वह भारत की मुख्य आपराधिक संहिता के तहत बलात्कार का केस दर्ज नहीं करा सकता।",
    "hg": "Jis adult man par sexual assault hua ho, woh India ke main criminal code ke under rape ka case file nahi kar sakta."
   },
   "verdict": "fact",
   "fact": {
    "en": "True, a recognised gap. The BNS defines rape as an act by a man against a woman. An adult man may have to rely on offences such as hurt or criminal intimidation, and a transgender person on the sexual abuse offence in the Transgender Persons Act; none treats the act as rape. It can still be reported to police. POCSO protects every child under 18 regardless of gender. NALSA on 15100 can advise. Not legal advice; laws change.",
-   "hi": "सही, और यह एक मानी हुई कमी है। भारतीय न्याय संहिता (BNS) बलात्कार को पुरुष द्वारा महिला के ख़िलाफ़ किया गया कृत्य मानती है। वयस्क पुरुष को चोट पहुँचाने या आपराधिक धमकी जैसे अपराधों का, और ट्रांसजेंडर व्यक्ति को ट्रांसजेंडर व्यक्ति अधिनियम के यौन शोषण वाले अपराध का सहारा लेना पड़ सकता है; इनमें से कोई भी उस कृत्य को बलात्कार नहीं मानता। फिर भी पुलिस में शिकायत की जा सकती है। पॉक्सो 18 से कम उम्र के हर बच्चे की रक्षा करता है, जेंडर चाहे जो हो। नालसा (15100) सलाह दे सकता है। यह क़ानूनी सलाह नहीं है; क़ानून बदलते हैं।",
    "hg": "Sahi, aur yeh ek recognised gap hai. Bharatiya Nyaya Sanhita rape ko man dwara woman ke against kiya gaya act maanti hai. Adult man ko hurt ya criminal intimidation jaise offences ka, aur transgender person ko Transgender Persons Act ke sexual abuse wale offence ka sahara lena pad sakta hai; inme se koi bhi us act ko rape nahi maanta. Phir bhi police mein report kiya ja sakta hai. POCSO 18 se kam umar ke har child ko protect karta hai, gender chahe jo ho. NALSA (15100) advice de sakta hai. Yeh legal advice nahi hai; laws badalte hain."
   },
   "why": {
    "en": "Most people assume that a crime this serious must be covered equally for everyone, and the shame around male and transgender survivors means the gap is rarely discussed in public.",
-   "hi": "ज़्यादातर लोग मानकर चलते हैं कि इतना गंभीर अपराध सबके लिए बराबर कवर होगा, और पुरुष व ट्रांसजेंडर सर्वाइवर से जुड़ी शर्म के कारण इस कमी पर खुलकर बात कम ही होती है।",
    "hg": "Zyada-tar log maankar chalte hain ki itna serious crime sabke liye equally cover hoga, aur male aur transgender survivors se judi sharam ki wajah se is gap par publicly baat kam hi hoti hai."
   },
   "refs": [

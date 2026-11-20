@@ -115,7 +115,6 @@ extension ThemeContext on BuildContext {
 }
 
 const kFont = 'PlusJakartaSans';
-const kFontHi = 'Mukta';
 
 ThemeData buildTheme({
   required bool dark,
@@ -125,10 +124,8 @@ ThemeData buildTheme({
   final c = dark
       ? AppColors.dark(highContrast: highContrast)
       : AppColors.light(highContrast: highContrast);
-  final hindi = lang == Lang.hi;
-  final family = hindi ? kFontHi : kFont;
-  final fallback = hindi ? const [kFont] : const [kFontHi];
-  final lh = hindi ? 1.45 : 1.35;
+  const family = kFont;
+  const lh = 1.35;
 
   TextStyle s(
     double size,
@@ -138,7 +135,6 @@ ThemeData buildTheme({
     Color? color,
   }) => TextStyle(
     fontFamily: family,
-    fontFamilyFallback: fallback,
     fontSize: size,
     fontWeight: w,
     height: height ?? lh,
@@ -155,8 +151,8 @@ ThemeData buildTheme({
     titleLarge: s(18, FontWeight.w700, height: 1.3),
     titleMedium: s(16, FontWeight.w700, height: 1.3),
     titleSmall: s(14, FontWeight.w700, height: 1.3),
-    bodyLarge: s(16.5, FontWeight.w500, height: hindi ? 1.6 : 1.55),
-    bodyMedium: s(14.5, FontWeight.w500, height: hindi ? 1.55 : 1.5),
+    bodyLarge: s(16.5, FontWeight.w500, height: 1.55),
+    bodyMedium: s(14.5, FontWeight.w500, height: 1.5),
     bodySmall: s(12.5, FontWeight.w500, height: 1.45, color: c.inkSoft),
     labelLarge: s(15, FontWeight.w700, height: 1.2),
     labelMedium: s(12.5, FontWeight.w700, height: 1.2, ls: 0.2),
@@ -184,7 +180,6 @@ ThemeData buildTheme({
     scaffoldBackgroundColor: c.bg,
     textTheme: text,
     fontFamily: family,
-    fontFamilyFallback: fallback,
     extensions: [c],
     splashFactory: InkSparkle.splashFactory,
     appBarTheme: AppBarTheme(

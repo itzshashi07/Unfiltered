@@ -14,25 +14,21 @@
   "type": "tf",
   "q": {
    "en": "It is safe to exercise and to take a bath during a period.",
-   "hi": "पीरियड के दौरान कसरत करना और नहाना सुरक्षित है।",
    "hg": "Period ke dauraan exercise karna aur nahana safe hai."
   },
   "options": [
    {
     "en": "True",
-    "hi": "सही",
     "hg": "Sahi"
    },
    {
     "en": "False",
-    "hi": "ग़लत",
     "hg": "Galat"
    }
   ],
   "answer": 0,
   "explain": {
    "en": "Both are safe and healthy. Gentle movement and warm water can even ease cramps for many people.",
-   "hi": "दोनों सुरक्षित और सेहत के लिए अच्छे हैं। हल्की-फुल्की हरकत और गुनगुना पानी तो बहुत से लोगों की ऐंठन भी कम कर देते हैं।",
    "hg": "Dono safe aur healthy hain. Halki movement aur gunguna paani toh bahut logon ke cramps bhi kam kar dete hain."
   }
  },
@@ -52,35 +48,29 @@
   "type": "mcq",
   "q": {
    "en": "Which of these is a good reason to see a doctor about puberty?",
-   "hi": "इनमें से कौन सी बात प्यूबर्टी को लेकर डॉक्टर को दिखाने की सही वजह है?",
    "hg": "Inme se kaun si baat puberty ko lekar doctor ko dikhane ka sahi reason hai?"
   },
   "options": [
    {
     "en": "A boy's voice starts changing at 12",
-    "hi": "किसी लड़के की आवाज़ 12 साल में बदलने लगे",
     "hg": "Kisi ladke ki awaaz 12 saal mein badalne lage"
    },
    {
     "en": "A girl starts growing taller at 10",
-    "hi": "कोई लड़की 10 साल में लंबी होने लगे",
     "hg": "Koi ladki 10 saal mein lambi hone lage"
    },
    {
     "en": "A boy has a wet dream at 13",
-    "hi": "किसी लड़के को 13 साल में स्वप्नदोष हो",
     "hg": "Kisi ladke ko 13 saal mein wet dream ho"
    },
    {
     "en": "A girl has not had her first period by 15",
-    "hi": "किसी लड़की को 15 साल तक पहला पीरियड न आए",
     "hg": "Kisi ladki ko 15 saal tak pehla period na aaye"
    }
   ],
   "answer": 3,
   "explain": {
    "en": "The first three are within the normal range. No period by 15 is worth a doctor's check, usually just to make sure all is well.",
-   "hi": "पहली तीन बातें सामान्य दायरे में आती हैं। 15 साल तक पीरियड न आए तो डॉक्टर से जाँच कराना ठीक है, ज़्यादातर बस यह पक्का करने के लिए कि सब ठीक है।",
    "hg": "Pehli teen baatein normal range mein aati hain. 15 saal tak period na aaye toh doctor se check karana theek hai, zyadatar bas yeh confirm karne ke liye ki sab theek hai."
   }
  },
@@ -100,35 +90,29 @@
   "type": "mcq",
   "q": {
    "en": "What is 'dhat' anxiety?",
-   "hi": "'धात' की चिंता क्या है?",
    "hg": "'Dhat' anxiety kya hai?"
   },
   "options": [
    {
     "en": "A blood disease caused by losing semen",
-    "hi": "वीर्य निकलने से होने वाली ख़ून की बीमारी",
     "hg": "Semen nikalne se hone wali blood ki bimari"
    },
    {
     "en": "A sexually transmitted infection",
-    "hi": "एक यौन संचारित संक्रमण",
     "hg": "Ek sexually transmitted infection"
    },
    {
     "en": "A recognised, treatable worry about semen loss that is common in South Asia",
-    "hi": "वीर्य निकलने को लेकर एक जानी-पहचानी फ़िक्र, जिसका इलाज हो सकता है और जो दक्षिण एशिया में आम है",
     "hg": "Semen loss ko lekar ek recognised, treatable worry jo South Asia mein common hai"
    },
    {
     "en": "A vitamin deficiency seen in teenagers",
-    "hi": "किशोरों में दिखने वाली विटामिन की कमी",
     "hg": "Teenagers mein dikhne wali vitamin ki kami"
    }
   ],
   "answer": 2,
   "explain": {
    "en": "Dhat anxiety is distress about semen loss, not physical damage. Talking to a qualified doctor helps.",
-   "hi": "धात की चिंता वीर्य निकलने को लेकर होने वाली मानसिक परेशानी है, शरीर का कोई नुकसान नहीं। किसी योग्य डॉक्टर से बात करने पर आराम मिलता है।",
    "hg": "Dhat anxiety semen loss ko lekar hone wala distress hai, body ka koi physical damage nahi. Kisi qualified doctor se baat karne pe help milti hai."
   }
  },
@@ -149,25 +133,21 @@
   "type": "tf",
   "q": {
    "en": "The 'two-finger test' is a scientific way to check whether someone has had sex.",
-   "hi": "'टू-फ़िंगर टेस्ट' यह जाँचने का वैज्ञानिक तरीका है कि किसी ने सेक्स किया है या नहीं।",
    "hg": "'Two-finger test' yeh check karne ka scientific tareeka hai ki kisi ne sex kiya hai ya nahi."
   },
   "options": [
    {
     "en": "True",
-    "hi": "सही",
     "hg": "Sahi"
    },
    {
     "en": "False",
-    "hi": "ग़लत",
     "hg": "Galat"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "It has no scientific basis. WHO has condemned virginity testing, and the Supreme Court of India has prohibited the two-finger test.",
-   "hi": "इसका कोई वैज्ञानिक आधार नहीं है। WHO ने वर्जिनिटी टेस्ट की निंदा की है, और भारत के सुप्रीम कोर्ट ने टू-फ़िंगर टेस्ट पर रोक लगाई है।",
    "hg": "Iska koi scientific basis nahi hai. WHO ne virginity testing ko condemn kiya hai, aur Supreme Court of India ne two-finger test ko prohibit kiya hai."
   }
  },
@@ -187,35 +167,29 @@
   "type": "mcq",
   "q": {
    "en": "Up to how long after unprotected sex can emergency contraception be used?",
-   "hi": "असुरक्षित सेक्स के कितने समय बाद तक इमरजेंसी गर्भनिरोधक इस्तेमाल किया जा सकता है?",
    "hg": "Unprotected sex ke kitne time baad tak emergency contraception use kiya ja sakta hai?"
   },
   "options": [
    {
     "en": "Only within 24 hours",
-    "hi": "सिर्फ़ 24 घंटे के अंदर",
     "hg": "Sirf 24 ghante ke andar"
    },
    {
     "en": "Up to 5 days (120 hours), the sooner the better",
-    "hi": "5 दिन (120 घंटे) तक, जितनी जल्दी उतना बेहतर",
     "hg": "5 din (120 ghante) tak, jitni jaldi utna better"
    },
    {
     "en": "Up to 2 weeks",
-    "hi": "2 हफ़्ते तक",
     "hg": "2 hafte tak"
    },
    {
     "en": "Any time before the next period",
-    "hi": "अगले पीरियड से पहले कभी भी",
     "hg": "Agle period se pehle kabhi bhi"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "Emergency contraception can be used up to 5 days after unprotected sex, and it is more effective the earlier it is used.",
-   "hi": "इमरजेंसी गर्भनिरोधक असुरक्षित सेक्स के बाद 5 दिन तक इस्तेमाल किया जा सकता है, और जितनी जल्दी लिया जाए उतना ज़्यादा असरदार होता है।",
    "hg": "Emergency contraception unprotected sex ke baad 5 din tak use kiya ja sakta hai, aur jitni jaldi use ho utna zyada effective hota hai."
   }
  },
@@ -232,30 +206,25 @@
   "type": "scenario",
   "q": {
    "en": "A newly married couple have not had sex because one partner feels anxious and not ready. Relatives keep asking for 'good news'. What is the healthiest approach?",
-   "hi": "एक नए शादीशुदा जोड़े ने अब तक सेक्स नहीं किया है क्योंकि एक साथी घबराया हुआ है और तैयार महसूस नहीं करता। रिश्तेदार बार-बार 'ख़ुशख़बरी' पूछ रहे हैं। सबसे सेहतमंद रास्ता क्या है?",
    "hg": "Ek newly married couple ne ab tak sex nahi kiya hai kyunki ek partner anxious hai aur ready feel nahi karta. Relatives baar-baar 'good news' poochh rahe hain. Sabse healthy approach kya hai?"
   },
   "options": [
    {
     "en": "Go ahead anyway, because it is expected after marriage",
-    "hi": "फिर भी कर लेना, क्योंकि शादी के बाद यही उम्मीद की जाती है",
     "hg": "Phir bhi kar lena, kyunki shaadi ke baad yahi expected hai"
    },
    {
     "en": "The partner who is ready should insist, since marriage means consent",
-    "hi": "जो साथी तैयार है उसे ज़ोर देना चाहिए, क्योंकि शादी का मतलब ही सहमति है",
     "hg": "Jo partner ready hai usse insist karna chahiye, kyunki shaadi ka matlab hi consent hai"
    },
    {
     "en": "Talk openly, go at a pace both are comfortable with, and see a doctor or counsellor if anxiety or pain continues",
-    "hi": "खुलकर बात करना, उस रफ़्तार से चलना जिसमें दोनों सहज हों, और घबराहट या दर्द बना रहे तो डॉक्टर या काउंसलर से मिलना",
     "hg": "Openly baat karna, us pace pe chalna jisme dono comfortable hon, aur anxiety ya pain bana rahe toh doctor ya counsellor se milna"
    }
   ],
   "answer": 2,
   "explain": {
    "en": "Marriage does not create consent or a deadline. Readiness is decided by the couple, not by relatives, and professional help is available.",
-   "hi": "शादी से न सहमति अपने आप बनती है, न कोई समय-सीमा तय होती है। तैयार होना जोड़ा ख़ुद तय करता है, रिश्तेदार नहीं, और पेशेवर मदद मौजूद है।",
    "hg": "Shaadi se na consent apne aap banti hai, na koi deadline. Readiness couple khud decide karta hai, relatives nahi, aur professional help available hai."
   }
  }

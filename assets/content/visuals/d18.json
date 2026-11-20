@@ -4,7 +4,6 @@
   "type": "grid",
   "title": {
    "en": "My voice is strong",
-   "hi": "मेरी आवाज़ में दम है",
    "hg": "Meri awaaz mein dum hai"
   },
   "items": [
@@ -12,12 +11,10 @@
     "icon": "no",
     "label": {
      "en": "You can say no",
-     "hi": "तुम 'ना' कह सकते हो",
      "hg": "Tum 'no' bol sakte ho"
     },
     "text": {
      "en": "If a touch, game or dare feels bad or scary, say, 'No. I don't like that.'",
-     "hi": "अगर कोई छूना, खेल या चुनौती बुरी या डरावनी लगे, तो कहो, 'नहीं। मुझे यह पसंद नहीं।'",
      "hg": "Agar koi touch, game ya dare bura ya scary lage, toh bolo, 'Nahi. Mujhe yeh pasand nahi.'"
     }
    },
@@ -25,12 +22,10 @@
     "icon": "stop",
     "label": {
      "en": "Stop when you hear no",
-     "hi": "'ना' सुनो तो रुक जाओ",
      "hg": "'No' suno toh ruk jao"
     },
     "text": {
      "en": "If a friend says 'Stop', stop right away and say, 'Okay.'",
-     "hi": "अगर दोस्त कहे 'रुको', तो तुरंत रुक जाओ और कहो, 'ठीक है।'",
      "hg": "Agar dost bole 'Ruko', toh turant ruk jao aur bolo, 'Okay.'"
     }
    },
@@ -38,12 +33,10 @@
     "icon": "ask",
     "label": {
      "en": "Questions are good",
-     "hi": "सवाल पूछना अच्छा है",
      "hg": "Sawaal poochna achha hai"
     },
     "text": {
      "en": "No question about your body or your feelings is silly or dirty.",
-     "hi": "अपने शरीर या अपनी भावनाओं के बारे में कोई भी सवाल बेवक़ूफ़ी भरा या गंदा नहीं होता।",
      "hg": "Apni body ya apni feelings ke baare mein koi bhi sawaal silly ya ganda nahi hota."
     }
    },
@@ -51,12 +44,10 @@
     "icon": "support",
     "label": {
      "en": "Tell a grown-up you trust",
-     "hi": "भरोसे वाले बड़े को बताओ",
      "hg": "Bharose wale bade ko batao"
     },
     "text": {
      "en": "If you feel scared, sad or mixed up, say, 'I need help. Something happened.'",
-     "hi": "अगर डर लगे, दुख हो या उलझन हो, तो कहो, 'मुझे मदद चाहिए। कुछ हुआ है।'",
      "hg": "Agar darr lage, dukh ho ya confusion ho, toh bolo, 'Mujhe help chahiye. Kuch hua hai.'"
     }
    },
@@ -64,12 +55,10 @@
     "icon": "repeat",
     "label": {
      "en": "Keep telling",
-     "hi": "बताते रहो",
      "hg": "Batate raho"
     },
     "text": {
      "en": "If one grown-up does not listen, tell another, until someone helps.",
-     "hi": "अगर एक बड़ा न सुने, तो दूसरे को बताओ, जब तक कोई मदद न करे।",
      "hg": "Agar ek bada na sune, toh doosre ko batao, jab tak koi help na kare."
     }
    }
@@ -80,7 +69,6 @@
   "type": "steps",
   "title": {
    "en": "How to fix a fight",
-   "hi": "झगड़ा कैसे सुलझाएँ",
    "hg": "Fight kaise sort out karein"
   },
   "items": [
@@ -88,12 +76,10 @@
     "icon": "calm",
     "label": {
      "en": "Cool down",
-     "hi": "शांत हो जाओ",
      "hg": "Cool down karo"
     },
     "text": {
      "en": "Breathe slowly, drink water and wait until your body feels calm.",
-     "hi": "धीरे-धीरे साँस लो, पानी पियो और तब तक रुको जब तक शरीर शांत न लगे।",
      "hg": "Dheere saans lo, paani piyo aur tab tak ruko jab tak body calm na lage."
     }
    },
@@ -101,12 +87,10 @@
     "icon": "listen",
     "label": {
      "en": "Listen to their side",
-     "hi": "उनकी बात सुनो",
      "hg": "Unki side suno"
     },
     "text": {
      "en": "Do not interrupt. Repeat it back: 'So you felt I ignored you.'",
-     "hi": "बीच में मत टोको। उनकी बात दोहराकर बताओ: 'तो तुम्हें लगा कि मैंने तुम्हें अनदेखा किया।'",
      "hg": "Beech mein mat toko. Unki baat repeat karke batao: 'Toh tumhe laga maine tumhe ignore kiya.'"
     }
    },
@@ -114,12 +98,10 @@
     "icon": "talk",
     "label": {
      "en": "Say your side",
-     "hi": "अपनी बात कहो",
      "hg": "Apni side bolo"
     },
     "text": {
      "en": "Use an 'I' sentence: 'I feel... when... I need...'",
-     "hi": "'मैं' वाला वाक्य बोलो: 'मुझे लगता है... जब... मुझे चाहिए...'",
      "hg": "'Main' wala sentence bolo: 'Mujhe feel hota hai... jab... mujhe chahiye...'"
     }
    },
@@ -127,12 +109,10 @@
     "icon": "handshake",
     "label": {
      "en": "Own your part",
-     "hi": "अपने हिस्से की ग़लती मानो",
      "hg": "Apna part own karo"
     },
     "text": {
      "en": "A real sorry names what you did, like 'Sorry I shared your secret', with no 'but'.",
-     "hi": "सच्ची माफ़ी में वह बात कही जाती है जो तुमने की, जैसे 'सॉरी, मैंने तुम्हारा राज़ बता दिया', बिना 'लेकिन' के।",
      "hg": "Asli sorry mein woh cheez boli jaati hai jo tumne ki, jaise 'Sorry, maine tumhara secret bata diya', bina 'but' ke."
     }
    },
@@ -140,12 +120,10 @@
     "icon": "check",
     "label": {
      "en": "Agree on a change",
-     "hi": "बदलाव तय करो",
      "hg": "Change decide karo"
     },
     "text": {
      "en": "Decide together what will be different from now on.",
-     "hi": "मिलकर तय करो कि आगे से क्या बदलेगा।",
      "hg": "Milkar decide karo ki aage se kya change hoga."
     }
    }
@@ -156,13 +134,11 @@
   "type": "compare",
   "title": {
    "en": "Pressure tactics versus a firm no",
-   "hi": "दबाव की चालें बनाम पक्की 'ना'",
    "hg": "Pressure tactics vs pakki 'no'"
   },
   "left": {
    "title": {
     "en": "Pressure tactics",
-    "hi": "दबाव की चालें",
     "hg": "Pressure tactics"
    },
    "tone": "bad",
@@ -170,22 +146,18 @@
    "points": [
     {
      "en": "Guilt: 'If you really cared, you would.'",
-     "hi": "अपराध-बोध: 'अगर तुम्हें सच में परवाह होती, तो तुम कर देते।'",
      "hg": "Guilt: 'Agar tumhe sach mein parwah hoti, toh tum kar dete.'"
     },
     {
      "en": "Rushing: 'Decide now or forget it.'",
-     "hi": "जल्दबाज़ी: 'अभी तय करो वरना भूल जाओ।'",
      "hg": "Rushing: 'Abhi decide karo warna bhool jao.'"
     },
     {
      "en": "Secrecy: 'Don't tell anyone, they won't understand.'",
-     "hi": "राज़दारी: 'किसी को मत बताना, वे नहीं समझेंगे।'",
      "hg": "Secrecy: 'Kisi ko mat batana, woh nahi samjhenge.'"
     },
     {
      "en": "Threats: 'I'll leave you' or 'I'll tell people.'",
-     "hi": "धमकी: 'मैं तुम्हें छोड़ दूँगा' या 'मैं सबको बता दूँगा।'",
      "hg": "Threats: 'Main tumhe chhod dunga' ya 'Main sabko bata dunga.'"
     }
    ]
@@ -193,7 +165,6 @@
   "right": {
    "title": {
     "en": "Holding your no",
-    "hi": "अपनी 'ना' पर टिके रहना",
     "hg": "Apni 'no' par tike rehna"
    },
    "tone": "good",
@@ -201,22 +172,18 @@
    "points": [
     {
      "en": "'No, I'm not comfortable with that.'",
-     "hi": "'नहीं, मैं इसमें सहज नहीं हूँ।'",
      "hg": "'Nahi, main isme comfortable nahi hoon.'"
     },
     {
      "en": "'I need time; if you need an answer now, it's no.'",
-     "hi": "'मुझे समय चाहिए; अगर जवाब अभी चाहिए, तो जवाब ना है।'",
      "hg": "'Mujhe time chahiye; agar answer abhi chahiye, toh answer no hai.'"
     },
     {
      "en": "No explanation owed: repeat it, then leave or end the chat.",
-     "hi": "सफ़ाई देना ज़रूरी नहीं: वही बात दोहराओ, फिर वहाँ से हट जाओ या चैट बंद कर दो।",
      "hg": "Explanation dena zaroori nahi: wahi line repeat karo, phir wahan se nikal jao ya chat band kar do."
     },
     {
      "en": "If a no is met with threats, tell a trusted adult.",
-     "hi": "अगर 'ना' के जवाब में धमकी मिले, तो किसी भरोसे वाले बड़े को बताओ।",
      "hg": "Agar 'no' ke jawab mein dhamki mile, toh kisi trusted adult ko batao."
     }
    ]
@@ -227,7 +194,6 @@
   "type": "steps",
   "title": {
    "en": "Before and during a doctor visit",
-   "hi": "डॉक्टर के पास जाने से पहले और वहाँ",
    "hg": "Doctor visit se pehle aur wahan"
   },
   "items": [
@@ -235,12 +201,10 @@
     "icon": "document",
     "label": {
      "en": "Write it down first",
-     "hi": "पहले लिख लो",
      "hg": "Pehle likh lo"
     },
     "text": {
      "en": "The problem, when it started, what makes it better or worse, your medicines and, if you have periods, your last period date.",
-     "hi": "परेशानी क्या है, कब शुरू हुई, किससे बढ़ती या घटती है, कौन-सी दवाइयाँ लेते हो, और पीरियड आते हैं तो पिछले पीरियड की तारीख़।",
      "hg": "Problem kya hai, kab shuru hui, kisse better ya worse hoti hai, kaun-si medicines lete ho, aur periods aate hain toh last period ki date."
     }
    },
@@ -248,12 +212,10 @@
     "icon": "talk",
     "label": {
      "en": "Use plain body words",
-     "hi": "शरीर के सीधे शब्द बोलो",
      "hg": "Body ke seedhe words bolo"
     },
     "text": {
      "en": "Penis, vulva, vagina, breast: doctors hear them all day. Try: 'This is awkward, but I need to ask...'",
-     "hi": "लिंग (penis), योनिमुख (vulva), योनि (vagina), स्तन: डॉक्टर ये शब्द दिन भर सुनते हैं। ऐसे शुरू करो: 'मुझे झिझक हो रही है, पर मुझे पूछना है...'",
      "hg": "Penis, vulva, vagina, breast: doctors ye words din bhar sunte hain. Aise start karo: 'Yeh thoda awkward hai, par mujhe poochna hai...'"
     }
    },
@@ -261,12 +223,10 @@
     "icon": "ask",
     "label": {
      "en": "Ask until you understand",
-     "hi": "समझ आने तक पूछो",
      "hg": "Samajh aane tak poocho"
     },
     "text": {
      "en": "What is this? What is the medicine for? What side effects? When should I come back?",
-     "hi": "यह क्या है? यह दवा किसलिए है? किन साइड इफ़ेक्ट पर नज़र रखूँ? दोबारा कब आऊँ?",
      "hg": "Yeh kya hai? Yeh medicine kis liye hai? Kin side effects pe nazar rakhun? Dobara kab aaun?"
     }
    },
@@ -274,12 +234,10 @@
     "icon": "lock",
     "label": {
      "en": "Ask about privacy",
-     "hi": "गोपनीयता के बारे में पूछो",
      "hg": "Privacy ke baare mein poocho"
     },
     "text": {
      "en": "Ask who it will be shared with. Under 18, nobody can promise total secrecy about sexual abuse or sexual activity.",
-     "hi": "पूछो कि बात किस-किस को बताई जाएगी। 18 से कम उम्र में यौन शोषण या यौन गतिविधि के बारे में कोई पूरी राज़दारी का वादा नहीं कर सकता।",
      "hg": "Poocho ki baat kis-kis ke saath share hogi. 18 se kam age mein sexual abuse ya sexual activity ke baare mein koi total secrecy ka promise nahi kar sakta."
     }
    },
@@ -287,12 +245,10 @@
     "icon": "repeat",
     "label": {
      "en": "Repeat the plan back",
-     "hi": "प्लान दोहराकर जाँचो",
      "hg": "Plan repeat karke check karo"
     },
     "text": {
      "en": "Say the plan in your own words to check you understood it.",
-     "hi": "पूरा प्लान अपने शब्दों में दोहराकर जाँच लो कि तुमने सही समझा है।",
      "hg": "Poora plan apne words mein repeat karke check kar lo ki tumne sahi samjha hai."
     }
    }
@@ -303,13 +259,11 @@
   "type": "compare",
   "title": {
    "en": "Trust signs versus red flags",
-   "hi": "भरोसे के संकेत बनाम ख़तरे की घंटी",
    "hg": "Trust signs vs red flags"
   },
   "left": {
    "title": {
     "en": "Signs you can trust",
-    "hi": "भरोसे के संकेत",
     "hg": "Bharose layak signs"
    },
    "tone": "good",
@@ -317,22 +271,18 @@
    "points": [
     {
      "en": "A named, qualified source: a registered doctor, hospital, government programme or WHO.",
-     "hi": "नाम वाला, योग्य स्रोत: रजिस्टर्ड डॉक्टर, अस्पताल, सरकारी स्वास्थ्य कार्यक्रम या WHO।",
      "hg": "Naam wala, qualified source: registered doctor, hospital, government health programme ya WHO."
     },
     {
      "en": "Explains the evidence and admits what is uncertain.",
-     "hi": "सबूत समझाता है और मानता है कि क्या अभी पक्का नहीं है।",
      "hg": "Evidence samjhata hai aur maanta hai ki kya abhi pakka nahi hai."
     },
     {
      "en": "Shows a date, because medical advice gets updated.",
-     "hi": "तारीख़ दिखाता है, क्योंकि मेडिकल सलाह बदलती रहती है।",
      "hg": "Date dikhata hai, kyunki medical advice update hoti rehti hai."
     },
     {
      "en": "At least two independent, reliable sources agree.",
-     "hi": "कम से कम दो अलग-अलग, भरोसेमंद स्रोत यही कहते हैं।",
      "hg": "Kam se kam do independent, reliable sources yahi kehte hain."
     }
    ]
@@ -340,7 +290,6 @@
   "right": {
    "title": {
     "en": "Red flags",
-    "hi": "ख़तरे की घंटी",
     "hg": "Red flags"
    },
    "tone": "bad",
@@ -348,22 +297,18 @@
    "points": [
     {
      "en": "'Guaranteed', '100 percent cure' or 'results in seven days'.",
-     "hi": "'गारंटी', '100 प्रतिशत इलाज' या 'सात दिन में नतीजा'।",
      "hg": "'Guaranteed', '100 percent cure' ya 'saat din mein result'."
     },
     {
      "en": "One product that claims to fix many unrelated problems.",
-     "hi": "एक ही प्रोडक्ट जो कई बेमेल परेशानियाँ ठीक करने का दावा करे।",
      "hg": "Ek hi product jo kai unrelated problems fix karne ka claim kare."
     },
     {
      "en": "'Doctors don't want you to know this.'",
-     "hi": "'डॉक्टर नहीं चाहते कि तुम्हें यह पता चले।'",
      "hg": "'Doctors nahi chahte ki tumhe yeh pata chale.'"
     },
     {
      "en": "It ends with 'buy this' or 'DM for the course'.",
-     "hi": "आख़िर में 'यह ख़रीदो' या 'कोर्स के लिए DM करो' लिखा हो।",
      "hg": "End mein 'yeh kharido' ya 'course ke liye DM karo' likha ho."
     }
    ]

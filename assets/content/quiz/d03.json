@@ -14,35 +14,29 @@
   "type": "mcq",
   "q": {
    "en": "How long does bleeding usually last in one period?",
-   "hi": "एक पीरियड में खून आम तौर पर कितने दिन आता है?",
    "hg": "Ek period mein bleeding usually kitne din chalti hai?"
   },
   "options": [
    {
     "en": "A few hours",
-    "hi": "कुछ घंटे",
     "hg": "Kuch ghante"
    },
    {
     "en": "2 to 7 days",
-    "hi": "2 से 7 दिन",
     "hg": "2 se 7 din"
    },
    {
     "en": "10 to 14 days",
-    "hi": "10 से 14 दिन",
     "hg": "10 se 14 din"
    },
    {
     "en": "A full month",
-    "hi": "पूरा महीना",
     "hg": "Poora mahina"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "Bleeding for 2 to 7 days is typical. Bleeding that goes on for more than 7 days should be checked by a doctor.",
-   "hi": "2 से 7 दिन खून आना सामान्य है। 7 दिन से ज़्यादा खून आए तो डॉक्टर को दिखाना चाहिए।",
    "hg": "2 se 7 din bleeding typical hai. 7 din se zyada bleeding chale toh doctor ko dikhana chahiye."
   }
  },
@@ -63,35 +57,29 @@
   "type": "mcq",
   "q": {
    "en": "What is the best way to keep the genital area clean during a period?",
-   "hi": "पीरियड में जननांगों की सफ़ाई का सबसे अच्छा तरीक़ा क्या है?",
    "hg": "Period mein genital area ko clean rakhne ka best tareeka kya hai?"
   },
   "options": [
    {
     "en": "Wash the outside (vulva) with plain water",
-    "hi": "बाहरी हिस्से (vulva) को सादे पानी से धोना",
     "hg": "Bahar ke hisse (vulva) ko plain paani se dhona"
    },
    {
     "en": "Use a scented wash inside the vagina",
-    "hi": "योनि के अंदर ख़ुशबूदार वॉश इस्तेमाल करना",
     "hg": "Vagina ke andar scented wash use karna"
    },
    {
     "en": "Add antiseptic liquid to the bath water",
-    "hi": "नहाने के पानी में एंटीसेप्टिक लिक्विड मिलाना",
     "hg": "Nahane ke paani mein antiseptic liquid milana"
    },
    {
     "en": "Avoid washing until the period ends",
-    "hi": "पीरियड ख़त्म होने तक न धोना",
     "hg": "Period khatam hone tak na dhona"
    }
   ],
   "answer": 0,
   "explain": {
    "en": "The vagina cleans itself from inside, so only the outer area needs plain water. Scented or antiseptic products can irritate the skin.",
-   "hi": "योनि अंदर से ख़ुद को साफ़ रखती है, इसलिए सिर्फ़ बाहरी हिस्से को सादे पानी से धोना काफ़ी है। ख़ुशबूदार या एंटीसेप्टिक प्रोडक्ट से त्वचा में जलन हो सकती है।",
    "hg": "Vagina andar se khud ko clean rakhti hai, isliye sirf bahar ke area ko plain paani chahiye. Scented ya antiseptic products se skin irritate ho sakti hai."
   }
  },
@@ -112,35 +100,29 @@
   "type": "mcq",
   "q": {
    "en": "What triggers an ovary to release an egg?",
-   "hi": "अंडाशय से अंडा निकलने की शुरुआत किससे होती है?",
    "hg": "Ovary se egg release hona kis cheez se trigger hota hai?"
   },
   "options": [
    {
     "en": "A fall in progesterone",
-    "hi": "प्रोजेस्टेरोन का गिरना",
     "hg": "Progesterone ka girna"
    },
    {
     "en": "The first day of bleeding",
-    "hi": "खून आने का पहला दिन",
     "hg": "Bleeding ka pehla din"
    },
    {
     "en": "A sudden surge of LH",
-    "hi": "LH का अचानक उछाल",
     "hg": "LH ka achanak surge"
    },
    {
     "en": "Eating iron-rich food",
-    "hi": "आयरन वाला खाना खाना",
     "hg": "Iron-rich khana khana"
    }
   ],
   "answer": 2,
   "explain": {
    "en": "When estrogen peaks, the pituitary gland releases a surge of luteinising hormone (LH), and that surge causes ovulation.",
-   "hi": "जब एस्ट्रोजन चरम पर पहुँचता है, तो पिट्यूटरी ग्रंथि ल्यूटिनाइज़िंग हार्मोन (LH) का उछाल छोड़ती है, और इसी से ओव्यूलेशन होता है।",
    "hg": "Jab estrogen peak pe pahunchta hai, toh pituitary gland luteinising hormone (LH) ka surge release karti hai, aur isi se ovulation hota hai."
   }
  },
@@ -161,35 +143,29 @@
   "type": "scenario",
   "q": {
    "en": "Meher, 16, has not had a period for four months. She has never had sex. What should she do?",
-   "hi": "16 साल की मेहर को चार महीने से पीरियड नहीं आया है। उसने कभी सेक्स नहीं किया। उसे क्या करना चाहिए?",
    "hg": "16 saal ki Meher ko chaar mahine se period nahi aaya. Usne kabhi sex nahi kiya. Use kya karna chahiye?"
   },
   "options": [
    {
     "en": "Wait a year, since teenage cycles are irregular",
-    "hi": "एक साल इंतज़ार करे, क्योंकि किशोर उम्र में चक्र अनियमित होते हैं",
     "hg": "Ek saal wait kare, kyunki teenage cycles irregular hote hain"
    },
    {
     "en": "Take a friend's hormone tablets to bring the period on",
-    "hi": "पीरियड लाने के लिए सहेली की हार्मोन की गोलियाँ ले ले",
     "hg": "Period laane ke liye friend ki hormone tablets le le"
    },
    {
     "en": "Start a crash diet to reset her hormones",
-    "hi": "हार्मोन ठीक करने के लिए क्रैश डाइट शुरू कर दे",
     "hg": "Hormones theek karne ke liye crash diet start kar de"
    },
    {
     "en": "See a doctor, because a gap of three months or more needs a check-up",
-    "hi": "डॉक्टर को दिखाए, क्योंकि तीन महीने या उससे ज़्यादा के अंतर की जाँच ज़रूरी है",
     "hg": "Doctor ko dikhaye, kyunki teen mahine ya usse zyada ke gap ka check-up zaroori hai"
    }
   ],
   "answer": 3,
   "explain": {
    "en": "Periods that stop for three months or more should be evaluated. Someone else's medicines and crash diets can make things worse.",
-   "hi": "तीन महीने या उससे ज़्यादा पीरियड बंद रहें तो जाँच होनी चाहिए। किसी और की दवाएँ और क्रैश डाइट हालत बिगाड़ सकती हैं।",
    "hg": "Teen mahine ya usse zyada periods band rahein toh check-up hona chahiye. Kisi aur ki medicines aur crash diets cheezein aur bigaad sakti hain."
   }
  },
@@ -209,35 +185,29 @@
   "type": "scenario",
   "q": {
    "en": "Ananya is using a tampon and suddenly develops a high fever, vomiting and a rash. What should she do first?",
-   "hi": "अनन्या ने टैम्पोन लगाया हुआ है और उसे अचानक तेज़ बुख़ार, उल्टी और चकत्ते हो जाते हैं। उसे सबसे पहले क्या करना चाहिए?",
    "hg": "Ananya ne tampon lagaya hua hai aur use achanak tez bukhaar, ulti aur rash ho jaata hai. Use sabse pehle kya karna chahiye?"
   },
   "options": [
    {
     "en": "Take a fever tablet and sleep it off",
-    "hi": "बुख़ार की गोली लेकर सो जाए",
     "hg": "Bukhaar ki tablet lekar so jaye"
    },
    {
     "en": "Switch to a higher-absorbency tampon",
-    "hi": "ज़्यादा सोखने वाला टैम्पोन लगा ले",
     "hg": "Zyada absorbency wala tampon laga le"
    },
    {
     "en": "Remove the tampon and get urgent medical care",
-    "hi": "टैम्पोन निकाले और तुरंत डॉक्टरी मदद ले",
     "hg": "Tampon nikaale aur turant medical care le"
    },
    {
     "en": "Drink water and wait until morning",
-    "hi": "पानी पिए और सुबह तक इंतज़ार करे",
     "hg": "Paani piye aur subah tak wait kare"
    }
   ],
   "answer": 2,
   "explain": {
    "en": "These are warning signs of toxic shock syndrome, which is rare but serious. The product must come out and she needs urgent care.",
-   "hi": "ये टॉक्सिक शॉक सिंड्रोम के चेतावनी-संकेत हैं, जो दुर्लभ पर गंभीर है। प्रोडक्ट तुरंत निकालना और फ़ौरन इलाज लेना ज़रूरी है।",
    "hg": "Yeh toxic shock syndrome ke warning signs hain, jo rare par serious hai. Product turant nikaalna aur urgent care lena zaroori hai."
   }
  },
@@ -258,25 +228,21 @@
   "type": "tf",
   "q": {
    "en": "Endometriosis is just a low tolerance for ordinary period cramps.",
-   "hi": "एंडोमेट्रियोसिस का मतलब बस इतना है कि किसी में मामूली ऐंठन सहने की क्षमता कम है।",
    "hg": "Endometriosis ka matlab bas itna hai ki kisi mein ordinary cramps sehne ki capacity kam hai."
   },
   "options": [
    {
     "en": "True",
-    "hi": "सही",
     "hg": "Sahi"
    },
    {
     "en": "False",
-    "hi": "ग़लत",
     "hg": "Galat"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "Endometriosis is a medical condition in which tissue similar to the uterus lining grows outside the uterus and causes inflammation and pain.",
-   "hi": "एंडोमेट्रियोसिस एक बीमारी है, जिसमें गर्भाशय की परत जैसा ऊतक गर्भाशय के बाहर उगता है और सूजन व दर्द पैदा करता है।",
    "hg": "Endometriosis ek medical condition hai, jisme uterus ki lining jaisa tissue uterus ke bahar grow karta hai aur inflammation aur pain karta hai."
   }
  }

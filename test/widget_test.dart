@@ -253,13 +253,7 @@ void main() {
     app.push('/settings');
     await tester.pumpAndSettle();
     expect(find.text(en('me.settings.title')), findsOneWidget);
-    await tester.tap(find.byKey(const Key('set-lang-hi')));
-    await tester.pumpAndSettle();
-    expect(
-      find.text(Strings.get('me.settings.title', Lang.hi)),
-      findsOneWidget,
-    );
-    expect(app.settings.lang, Lang.hi);
+    expect(find.byKey(const Key('set-lang-hi')), findsNothing);
     await tester.tap(find.byKey(const Key('set-lang-hg')));
     await tester.pumpAndSettle();
     expect(
@@ -271,9 +265,9 @@ void main() {
     app.go('/lesson/${lesson.id}');
     await tester.pumpAndSettle();
     expect(find.text(lesson.title.hg), findsOneWidget);
-    app.container.read(settingsProvider.notifier).setLang(Lang.hi);
+    app.container.read(settingsProvider.notifier).setLang(Lang.en);
     await tester.pumpAndSettle();
-    expect(find.text(lesson.title.hi), findsOneWidget);
+    expect(find.text(lesson.title.en), findsOneWidget);
   });
 
   testWidgets('settings: delete all local data returns to a clean first run', (
@@ -463,12 +457,12 @@ void main() {
   );
 
   testWidgets(
-    'layout holds with large text, Hindi and dark mode on a small phone',
+    'layout holds with large text, Hinglish and dark mode on a small phone',
     (tester) async {
       final app = await pumpApp(
         tester,
         settings: const AppSettings(
-          lang: Lang.hi,
+          lang: Lang.hg,
           track: Track.d,
           onboarded: true,
           reducedMotion: true,

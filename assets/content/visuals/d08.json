@@ -4,7 +4,6 @@
   "type": "steps",
   "title": {
    "en": "From egg to birth",
-   "hi": "अंडे से जन्म तक",
    "hg": "Egg se birth tak"
   },
   "items": [
@@ -12,12 +11,10 @@
     "icon": "egg",
     "label": {
      "en": "Ovulation",
-     "hi": "ओव्यूलेशन",
      "hg": "Ovulation"
     },
     "text": {
      "en": "About once each cycle, an ovary releases an egg into the fallopian tube.",
-     "hi": "हर चक्र में लगभग एक बार अंडाशय एक अंडा फ़ैलोपियन ट्यूब में छोड़ता है।",
      "hg": "Har cycle mein lagbhag ek baar ovary ek egg fallopian tube mein release karti hai."
     }
    },
@@ -25,12 +22,10 @@
     "icon": "plus",
     "label": {
      "en": "Fertilisation",
-     "hi": "निषेचन (fertilisation)",
      "hg": "Fertilisation"
     },
     "text": {
      "en": "One sperm joins the egg, usually in the tube, and one new cell is formed.",
-     "hi": "एक शुक्राणु अंडे से मिलता है, आम तौर पर ट्यूब में, और एक नई कोशिका बनती है।",
      "hg": "Ek sperm egg se milta hai, aam taur par tube mein, aur ek nayi cell banti hai."
     }
    },
@@ -38,12 +33,10 @@
     "icon": "home",
     "label": {
      "en": "Implantation",
-     "hi": "इम्प्लांटेशन",
      "hg": "Implantation"
     },
     "text": {
      "en": "About a week later, it settles into the soft lining of the uterus, and periods stop.",
-     "hi": "लगभग एक हफ़्ते बाद यह गर्भाशय की नरम परत में टिक जाता है, और पीरियड्स रुक जाते हैं।",
      "hg": "Lagbhag ek hafte baad yeh uterus ki soft lining mein settle ho jaata hai, aur periods ruk jaate hain."
     }
    },
@@ -51,12 +44,10 @@
     "icon": "care",
     "label": {
      "en": "The placenta forms",
-     "hi": "प्लेसेंटा बनता है",
      "hg": "Placenta banta hai"
     },
     "text": {
      "en": "The placenta and umbilical cord carry oxygen and nutrients from the pregnant person's blood to the baby.",
-     "hi": "प्लेसेंटा और गर्भनाल गर्भवती व्यक्ति के ख़ून से ऑक्सीजन और पोषण बच्चे तक पहुँचाते हैं।",
      "hg": "Placenta aur umbilical cord pregnant person ke blood se oxygen aur nutrients baby tak pahunchate hain."
     }
    },
@@ -64,12 +55,10 @@
     "icon": "baby",
     "label": {
      "en": "Birth",
-     "hi": "जन्म",
      "hg": "Birth"
     },
     "text": {
      "en": "About 40 weeks after the last period began, the baby is born through the vagina or by caesarean section.",
-     "hi": "आख़िरी पीरियड शुरू होने से लगभग 40 हफ़्ते बाद, बच्चा योनि के रास्ते या सिज़ेरियन ऑपरेशन से पैदा होता है।",
      "hg": "Last period shuru hone se lagbhag 40 hafte baad, baby vagina ke raaste ya caesarean section se paida hota hai."
     }
    }
@@ -80,13 +69,11 @@
   "type": "compare",
   "title": {
    "en": "What a home test can and cannot tell",
-   "hi": "होम टेस्ट क्या बता सकता है, क्या नहीं",
    "hg": "Home test kya bata sakta hai, kya nahi"
   },
   "left": {
    "title": {
     "en": "It can tell",
-    "hi": "ये बता सकता है",
     "hg": "Yeh bata sakta hai"
    },
    "tone": "good",
@@ -94,17 +81,14 @@
    "points": [
     {
      "en": "Whether hCG, the pregnancy hormone, is in your urine",
-     "hi": "पेशाब में गर्भावस्था का हार्मोन hCG है या नहीं",
      "hg": "Urine mein pregnancy hormone hCG hai ya nahi"
     },
     {
      "en": "Most reliable from the first day of a missed period",
-     "hi": "पीरियड मिस होने के पहले दिन से सबसे भरोसेमंद",
      "hg": "Period miss hone ke pehle din se sabse reliable"
     },
     {
      "en": "A positive is very likely right; a too-early negative can be wrong",
-     "hi": "पॉज़िटिव नतीजा लगभग पक्का सही; बहुत जल्दी किया नेगेटिव ग़लत हो सकता है",
      "hg": "Positive result almost pakka sahi; bahut jaldi kiya negative galat ho sakta hai"
     }
    ]
@@ -112,7 +96,6 @@
   "right": {
    "title": {
     "en": "It cannot tell",
-    "hi": "ये नहीं बता सकता",
     "hg": "Yeh nahi bata sakta"
    },
    "tone": "neutral",
@@ -120,22 +103,18 @@
    "points": [
     {
      "en": "How many weeks along the pregnancy is",
-     "hi": "गर्भ कितने हफ़्ते का है",
      "hg": "Pregnancy kitne hafte ki hai"
     },
     {
      "en": "Whether it is in the uterus or in the wrong place",
-     "hi": "गर्भ गर्भाशय में है या ग़लत जगह पर",
      "hg": "Pregnancy uterus mein hai ya galat jagah par"
     },
     {
      "en": "Whether it is developing normally",
-     "hi": "गर्भ ठीक से बढ़ रहा है या नहीं",
      "hg": "Pregnancy theek se develop ho rahi hai ya nahi"
     },
     {
      "en": "A doctor can check these, so go early after a positive test",
-     "hi": "ये डॉक्टर जाँच सकते हैं, इसलिए पॉज़िटिव टेस्ट के बाद जल्दी जाओ",
      "hg": "Yeh doctor check kar sakte hain, isliye positive test ke baad jaldi jao"
     }
    ]
@@ -146,7 +125,6 @@
   "type": "steps",
   "title": {
    "en": "Pregnancy care and warning signs",
-   "hi": "गर्भावस्था की देखभाल और चेतावनी संकेत",
    "hg": "Pregnancy care aur warning signs"
   },
   "items": [
@@ -154,12 +132,10 @@
     "icon": "clinic",
     "label": {
      "en": "Start check-ups early",
-     "hi": "जाँचें जल्दी शुरू करो",
      "hg": "Check-ups jaldi shuru karo"
     },
     "text": {
      "en": "Begin in the first three months; check-ups are free at government health centres.",
-     "hi": "पहले तीन महीनों में ही शुरू करो; सरकारी स्वास्थ्य केंद्रों पर जाँचें मुफ़्त होती हैं।",
      "hg": "Pehle teen mahinon mein hi shuru karo; government health centres par check-ups free hote hain."
     }
    },
@@ -167,12 +143,10 @@
     "icon": "warning",
     "label": {
      "en": "Know the danger signs",
-     "hi": "ख़तरे के संकेत पहचानो",
      "hg": "Danger signs pehchano"
     },
     "text": {
      "en": "Severe headache, blurred vision, swollen face or hands, bleeding, fever or less baby movement need a doctor.",
-     "hi": "तेज़ सिरदर्द, धुंधला दिखना, चेहरे या हाथों पर सूजन, ब्लीडिंग, बुख़ार या बच्चे की हलचल कम होना: डॉक्टर को दिखाओ।",
      "hg": "Tez sir dard, dhundhla dikhna, chehre ya haathon par sujan, bleeding, bukhaar ya baby ki movement kam hona: doctor ko dikhao."
     }
    },
@@ -180,12 +154,10 @@
     "icon": "hospital",
     "label": {
      "en": "Ectopic signs: hospital now",
-     "hi": "एक्टोपिक के संकेत: अभी अस्पताल",
      "hg": "Ectopic signs: abhi hospital"
     },
     "text": {
      "en": "One-sided lower abdominal pain, bleeding, shoulder-tip pain or fainting in early pregnancy means hospital now; call 112 if someone collapses.",
-     "hi": "शुरुआती गर्भावस्था में पेट के निचले हिस्से में एक तरफ़ दर्द, ब्लीडिंग, कंधे की नोक में दर्द या बेहोशी हो, तो अभी अस्पताल जाओ; कोई गिर पड़े तो 112 पर कॉल करो।",
      "hg": "Early pregnancy mein lower abdomen mein ek taraf dard, bleeding, shoulder-tip pain ya behoshi ho, toh abhi hospital jao; koi gir pade toh 112 par call karo."
     }
    },
@@ -193,12 +165,10 @@
     "icon": "heart",
     "label": {
      "en": "Miscarriage is nobody's fault",
-     "hi": "मिसकैरेज किसी की ग़लती नहीं",
      "hg": "Miscarriage kisi ki galti nahi"
     },
     "text": {
      "en": "It usually comes from a chance chromosome problem, not from work, stairs, travel, stress or spicy food.",
-     "hi": "इसकी आम वजह क्रोमोसोम में संयोग से हुई गड़बड़ी होती है, न कि काम, सीढ़ियाँ, सफ़र, तनाव या मसालेदार खाना।",
      "hg": "Iski usual wajah chromosomes mein chance se hui problem hoti hai, na ki kaam, seedhiyan, travel, stress ya spicy khaana."
     }
    },
@@ -206,12 +176,10 @@
     "icon": "support",
     "label": {
      "en": "Support after a loss",
-     "hi": "गर्भ खोने के बाद साथ दो",
      "hg": "Loss ke baad support do"
     },
     "text": {
      "en": "Say 'I am sorry, this was not your fault' and listen. Tele-MANAS 14416 offers free support.",
-     "hi": "कहो 'मुझे बहुत दुख है, इसमें तुम्हारी ग़लती नहीं थी' और सुनो। टेली-मानस 14416 पर मुफ़्त सहारा मिलता है।",
      "hg": "Bolo 'mujhe bahut dukh hai, isme tumhari galti nahi thi' aur suno. Tele-MANAS 14416 par free support milta hai."
     }
    }
@@ -222,13 +190,11 @@
   "type": "compare",
   "title": {
    "en": "Fertility: what people get wrong",
-   "hi": "फ़र्टिलिटी: लोग क्या ग़लत समझते हैं",
    "hg": "Fertility: log kya galat samajhte hain"
   },
   "left": {
    "title": {
     "en": "Myth",
-    "hi": "मिथक",
     "hg": "Myth"
    },
    "tone": "bad",
@@ -236,22 +202,18 @@
    "points": [
     {
      "en": "Pregnancy should happen in the very first month of trying",
-     "hi": "कोशिश के पहले ही महीने में गर्भ ठहर जाना चाहिए",
      "hg": "Try karne ke pehle hi mahine mein pregnancy ho jaani chahiye"
     },
     {
      "en": "If a couple cannot conceive, the woman is to blame",
-     "hi": "बच्चा न हो तो दोष औरत का है",
      "hg": "Baby na ho toh galti aurat ki hai"
     },
     {
      "en": "Years of contraception make you infertile",
-     "hi": "सालों तक गर्भनिरोधक लेने से बाँझपन हो जाता है",
      "hg": "Saalon tak contraception use karne se infertility ho jaati hai"
     },
     {
      "en": "A special powder or 'guaranteed' cure will fix it",
-     "hi": "कोई ख़ास चूर्ण या 'गारंटी वाला' इलाज इसे ठीक कर देगा",
      "hg": "Koi special powder ya 'guaranteed' cure ise theek kar dega"
     }
    ]
@@ -259,7 +221,6 @@
   "right": {
    "title": {
     "en": "Fact",
-    "hi": "सच",
     "hg": "Fact"
    },
    "tone": "good",
@@ -267,22 +228,18 @@
    "points": [
     {
      "en": "Several months is normal; the fertile window is only about six days",
-     "hi": "कई महीने लगना सामान्य है; फ़र्टाइल विंडो सिर्फ़ लगभग छह दिन की होती है",
      "hg": "Kai mahine lagna normal hai; fertile window sirf lagbhag chhe din ki hoti hai"
     },
     {
      "en": "The cause can lie with either partner or both, so both get checked",
-     "hi": "वजह किसी भी पार्टनर में या दोनों में हो सकती है, इसलिए जाँच दोनों की हो",
      "hg": "Wajah kisi bhi partner mein ya dono mein ho sakti hai, isliye check-up dono ka ho"
     },
     {
      "en": "Fertility returns after stopping; after the injection it can take months",
-     "hi": "बंद करने के बाद फ़र्टिलिटी लौट आती है; इंजेक्शन के बाद कुछ महीने लग सकते हैं",
      "hg": "Band karne ke baad fertility wapas aa jaati hai; injection ke baad kuch mahine lag sakte hain"
     },
     {
      "en": "Qualified specialists treat the cause, and no treatment is guaranteed",
-     "hi": "योग्य विशेषज्ञ वजह का इलाज करते हैं, और कोई भी इलाज गारंटी वाला नहीं होता",
      "hg": "Qualified specialists wajah ka treatment karte hain, aur koi bhi treatment guaranteed nahi hota"
     }
    ]
@@ -293,7 +250,6 @@
   "type": "grid",
   "title": {
    "en": "Your pregnancy, your decision",
-   "hi": "आपकी गर्भावस्था, आपका फ़ैसला",
    "hg": "Tumhari pregnancy, tumhara decision"
   },
   "items": [
@@ -301,12 +257,10 @@
     "icon": "person",
     "label": {
      "en": "Her consent decides",
-     "hi": "फ़ैसला उसकी सहमति से",
      "hg": "Faisla uski consent se"
     },
     "text": {
      "en": "The law needs an adult woman's own consent, not her husband's or parents' permission.",
-     "hi": "क़ानून को बालिग़ महिला की अपनी सहमति चाहिए, पति या माता-पिता की इजाज़त नहीं।",
      "hg": "Law ko adult woman ki apni consent chahiye, pati ya parents ki permission nahi."
     }
    },
@@ -314,12 +268,10 @@
     "icon": "baby",
     "label": {
      "en": "Parenting",
-     "hi": "बच्चे को पालना",
      "hg": "Parenting"
     },
     "text": {
      "en": "Antenatal care, delivery in government hospitals and child vaccines are free; ASHA and anganwadi workers help locally.",
-     "hi": "प्रसव-पूर्व देखभाल, सरकारी अस्पताल में डिलीवरी और बच्चों के टीके मुफ़्त हैं; आशा और आंगनवाड़ी कार्यकर्ता पास में मदद करती हैं।",
      "hg": "Antenatal care, government hospital mein delivery aur bachchon ke vaccines free hain; ASHA aur anganwadi workers local level par help karti hain."
     }
    },
@@ -327,12 +279,10 @@
     "icon": "family",
     "label": {
      "en": "Adoption",
-     "hi": "गोद देना",
      "hg": "Adoption"
     },
     "text": {
      "en": "A legal process through CARA and the Child Welfare Committee; handing a baby over privately is illegal.",
-     "hi": "CARA और बाल कल्याण समिति के ज़रिए क़ानूनी प्रक्रिया; बच्चे को निजी तौर पर किसी को सौंप देना ग़ैरक़ानूनी है।",
      "hg": "CARA aur Child Welfare Committee ke through legal process; baby ko private taur par kisi ko de dena illegal hai."
     }
    },
@@ -340,12 +290,10 @@
     "icon": "law",
     "label": {
      "en": "Abortion under the MTP Act",
-     "hi": "MTP क़ानून के तहत गर्भपात",
      "hg": "MTP Act ke under abortion"
     },
     "text": {
      "en": "Legal up to 20 weeks on one doctor's opinion, later only in specified cases; covers married and unmarried women.",
-     "hi": "20 हफ़्ते तक एक डॉक्टर की राय पर क़ानूनी, उसके बाद सिर्फ़ तय मामलों में; शादीशुदा और बिनब्याही दोनों महिलाओं पर लागू।",
      "hg": "20 hafte tak ek doctor ki opinion par legal, uske baad sirf specified cases mein; married aur unmarried dono women par laagu."
     }
    },
@@ -353,12 +301,10 @@
     "icon": "warning",
     "label": {
      "en": "No pills without a doctor",
-     "hi": "डॉक्टर के बिना गोलियाँ नहीं",
      "hg": "Doctor ke bina pills nahi"
     },
     "text": {
      "en": "Unsupervised pills or untrained providers can cause heavy bleeding, infection and death.",
-     "hi": "डॉक्टर की निगरानी के बिना गोलियाँ या अप्रशिक्षित लोग भारी ब्लीडिंग, संक्रमण और मौत तक का कारण बन सकते हैं।",
      "hg": "Doctor ki supervision ke bina pills ya untrained log heavy bleeding, infection aur maut tak ki wajah ban sakte hain."
     }
    },
@@ -366,12 +312,10 @@
     "icon": "hospital",
     "label": {
      "en": "After birth: get help fast",
-     "hi": "डिलीवरी के बाद: फ़ौरन मदद",
      "hg": "Delivery ke baad: turant help"
     },
     "text": {
      "en": "Heavy bleeding, fever, chest pain, breathlessness or thoughts of harming yourself or the baby need help immediately.",
-     "hi": "भारी ब्लीडिंग, बुख़ार, सीने में दर्द, साँस फूलना, या ख़ुद को या बच्चे को नुक़सान पहुँचाने के ख़याल हों, तो तुरंत मदद लें।",
      "hg": "Heavy bleeding, bukhaar, chest pain, saans phoolna, ya khud ko ya baby ko harm karne ke khayal aayein, toh turant help lo."
     }
    }
@@ -382,7 +326,6 @@
   "type": "grid",
   "title": {
    "en": "Sons, daughters and blame: the facts",
-   "hi": "बेटे, बेटियाँ और इल्ज़ाम: असली तथ्य",
    "hg": "Bete, betiyan aur blame: asli facts"
   },
   "items": [
@@ -390,12 +333,10 @@
     "icon": "law",
     "label": {
      "en": "Sex tests are a crime",
-     "hi": "लिंग जाँच अपराध है",
      "hg": "Sex test crime hai"
     },
     "text": {
      "en": "Finding out or revealing a foetus's sex is illegal under the PC-PNDT Act, 1994.",
-     "hi": "PC-PNDT क़ानून, 1994 के तहत भ्रूण का लिंग पता करना या बताना ग़ैरक़ानूनी है।",
      "hg": "PC-PNDT Act, 1994 ke under foetus ka sex pata karna ya batana illegal hai."
     }
    },
@@ -403,12 +344,10 @@
     "icon": "hospital",
     "label": {
      "en": "Abortion is still legal",
-     "hi": "गर्भपात अब भी क़ानूनी है",
      "hg": "Abortion ab bhi legal hai"
     },
     "text": {
      "en": "Abortion with a qualified doctor is legal healthcare under the MTP Act; choosing by sex is the crime.",
-     "hi": "MTP क़ानून के तहत योग्य डॉक्टर से गर्भपात क़ानूनी इलाज है; अपराध है लिंग देखकर चुनना।",
      "hg": "MTP Act ke under qualified doctor se abortion legal healthcare hai; crime hai sex dekh kar choose karna."
     }
    },
@@ -416,12 +355,10 @@
     "icon": "microscope",
     "label": {
      "en": "Chance sets the baby's sex",
-     "hi": "बच्चे का लिंग संयोग से तय होता है",
      "hg": "Baby ka sex chance se tay hota hai"
     },
     "text": {
      "en": "Every egg carries X; a sperm carries X or Y, by pure chance. No diet, ritual or medicine changes it.",
-     "hi": "हर अंडे में X होता है; शुक्राणु X या Y में से कोई एक लाता है, और कौन-सा, ये पूरा संयोग है। कोई ख़ास खान-पान, रस्म या दवा इसे नहीं बदल सकती।",
      "hg": "Har egg mein X hota hai; sperm X ya Y mein se koi ek laata hai, aur kaunsa, yeh pure chance hai. Koi diet, ritual ya medicine ise nahi badal sakti."
     }
    },
@@ -429,12 +366,10 @@
     "icon": "people",
     "label": {
      "en": "Infertility is not just hers",
-     "hi": "इनफ़र्टिलिटी सिर्फ़ औरत की नहीं",
      "hg": "Infertility sirf aurat ki nahi"
     },
     "text": {
      "en": "Male factors are involved roughly as often as female ones, and a semen test is simple and painless.",
-     "hi": "पुरुष से जुड़ी वजहें लगभग उतनी ही बार होती हैं जितनी महिला से जुड़ी, और वीर्य की जाँच आसान और बिना दर्द की होती है।",
      "hg": "Male factors lagbhag utni hi baar involved hote hain jitne female, aur semen test simple aur painless hota hai."
     }
    },
@@ -442,12 +377,10 @@
     "icon": "warning",
     "label": {
      "en": "Unsafe abortion can kill",
-     "hi": "असुरक्षित गर्भपात जान ले सकता है",
      "hg": "Unsafe abortion jaan le sakta hai"
     },
     "text": {
      "en": "Untrained providers or pills without a doctor's check can cause death or infertility; government hospitals give safe care.",
-     "hi": "अप्रशिक्षित लोग या डॉक्टर की जाँच के बिना गोलियाँ मौत या बाँझपन तक ला सकती हैं; सरकारी अस्पतालों में सुरक्षित इलाज मिलता है।",
      "hg": "Untrained log ya doctor ke check ke bina pills maut ya infertility tak la sakti hain; government hospitals mein safe care milti hai."
     }
    },
@@ -455,12 +388,10 @@
     "icon": "call",
     "label": {
      "en": "A decision, not a duty",
-     "hi": "फ़ैसला है, फ़र्ज़ नहीं",
      "hg": "Decision hai, duty nahi"
     },
     "text": {
      "en": "Whether and when to have a child is a decision. If you are being forced, call 181 or 112.",
-     "hi": "बच्चा हो या नहीं, और कब, ये एक फ़ैसला है। अगर तुम्हें मजबूर किया जा रहा है, तो 181 या 112 पर कॉल करो।",
      "hg": "Baby ho ya nahi, aur kab, yeh ek decision hai. Agar tumhe force kiya ja raha hai, toh 181 ya 112 par call karo."
     }
    }

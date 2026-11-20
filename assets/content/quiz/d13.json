@@ -12,30 +12,25 @@
   "type": "mcq",
   "q": {
    "en": "A video on the tablet makes you feel scared. What is the best thing to do?",
-   "hi": "टैबलेट पर एक वीडियो देखकर तुम्हें डर लगता है। सबसे अच्छा क्या करना है?",
    "hg": "Tablet pe ek video dekhkar tumhe darr lagta hai. Sabse achha kya karna hai?"
   },
   "options": [
    {
     "en": "Keep watching to see what happens",
-    "hi": "देखते रहना कि आगे क्या होता है",
     "hg": "Dekhte rehna ki aage kya hota hai"
    },
    {
     "en": "Hide the tablet and say nothing",
-    "hi": "टैबलेट छिपा देना और कुछ न कहना",
     "hg": "Tablet chhupa dena aur kuch na bolna"
    },
    {
     "en": "Stop and tell a grown-up you trust",
-    "hi": "रुक जाना और किसी भरोसेमंद बड़े को बताना",
     "hg": "Ruk jaana aur kisi bharosemand bade ko batana"
    }
   ],
   "answer": 2,
   "explain": {
    "en": "Feeling scared is your body's alarm. Stopping and telling a trusted grown-up keeps you safe, and you will not be in trouble.",
-   "hi": "डर लगना तुम्हारे शरीर का अलार्म है। रुककर किसी भरोसेमंद बड़े को बताना तुम्हें सुरक्षित रखता है, और तुम्हें डाँट नहीं पड़ेगी।",
    "hg": "Darr lagna tumhari body ka alarm hai. Rukkar kisi bharosemand bade ko batana tumhe safe rakhta hai, aur tumhe daant nahi padegi."
   }
  },
@@ -52,35 +47,29 @@
   "type": "mcq",
   "q": {
    "en": "Which of these protects an online account the best?",
-   "hi": "इनमें से क्या ऑनलाइन अकाउंट की सबसे अच्छी हिफ़ाज़त करता है?",
    "hg": "Inme se kya online account ko sabse achhe se protect karta hai?"
   },
   "options": [
    {
     "en": "A long, unique password plus two-step verification",
-    "hi": "लंबा, अलग पासवर्ड और साथ में टू-स्टेप वेरिफ़िकेशन",
     "hg": "Lamba, unique password aur saath mein two-step verification"
    },
    {
     "en": "Your name followed by your birth year",
-    "hi": "तुम्हारा नाम और उसके बाद जन्म का साल",
     "hg": "Tumhara naam aur uske baad birth year"
    },
    {
     "en": "The same password on every app so you never forget it",
-    "hi": "हर ऐप पर एक ही पासवर्ड ताकि कभी भूलो नहीं",
     "hg": "Har app pe same password taaki kabhi bhoolo nahi"
    },
    {
     "en": "Sharing the password with one close friend as a backup",
-    "hi": "बैकअप के लिए किसी एक पक्के दोस्त को पासवर्ड बता देना",
     "hg": "Backup ke liye kisi ek close friend ko password bata dena"
    }
   ],
   "answer": 0,
   "explain": {
    "en": "A long, unique password is hard to guess, and two-step verification stops someone who has the password but not your phone.",
-   "hi": "लंबे और अलग पासवर्ड का अंदाज़ा लगाना मुश्किल होता है, और टू-स्टेप वेरिफ़िकेशन उस इंसान को रोक देता है जिसके पास पासवर्ड तो है पर तुम्हारा फ़ोन नहीं।",
    "hg": "Lamba aur unique password guess karna mushkil hota hai, aur two-step verification us insaan ko rok deta hai jiske paas password toh hai par tumhara phone nahi."
   }
  },
@@ -97,35 +86,29 @@
   "type": "scenario",
   "q": {
    "en": "A classmate posts an edited, insulting photo of another student in the class group and people react with laughing emojis. What is the best response?",
-   "hi": "एक सहपाठी क्लास ग्रुप में किसी दूसरे छात्र की एडिट की हुई, बेइज़्ज़ती वाली फ़ोटो डालता है और लोग हँसने वाले इमोजी भेजते हैं। सबसे अच्छा जवाब क्या है?",
    "hg": "Ek classmate class group mein kisi doosre student ki edited, insulting photo daalta hai aur log laughing emojis bhejte hain. Best response kya hai?"
   },
   "options": [
    {
     "en": "Add a laughing emoji so you do not stand out",
-    "hi": "हँसने वाला इमोजी भेज देना ताकि तुम अलग न दिखो",
     "hg": "Laughing emoji bhej dena taaki tum alag na dikho"
    },
    {
     "en": "Do not react or forward it, report it, and check on the student privately",
-    "hi": "न रिएक्ट करना, न फ़ॉरवर्ड करना, रिपोर्ट करना और उस छात्र से अकेले में हाल पूछना",
     "hg": "Na react karna, na forward karna, report karna aur us student se privately haal poochhna"
    },
    {
     "en": "Forward it to another group to show how mean people are",
-    "hi": "दूसरे ग्रुप में फ़ॉरवर्ड करना ताकि दिखे कि लोग कितने बुरे हैं",
     "hg": "Doosre group mein forward karna taaki dikhe ki log kitne mean hain"
    },
    {
     "en": "Post an insulting photo of the classmate who started it",
-    "hi": "जिसने शुरू किया उस सहपाठी की बेइज़्ज़ती वाली फ़ोटो डाल देना",
     "hg": "Jisne shuru kiya us classmate ki insulting photo daal dena"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "Reactions and forwards feed bullying, and retaliation adds a second target. Reporting and a private check-in protect the person being bullied.",
-   "hi": "रिएक्शन और फ़ॉरवर्ड बुलिंग को हवा देते हैं, और बदला लेने से एक और इंसान निशाना बन जाता है। रिपोर्ट करना और अकेले में हाल पूछना बुली हो रहे इंसान की हिफ़ाज़त करता है।",
    "hg": "Reactions aur forwards bullying ko hawa dete hain, aur retaliation se ek aur insaan target ban jaata hai. Report karna aur privately haal poochhna bully ho rahe insaan ko protect karta hai."
   }
  },
@@ -142,35 +125,29 @@
   "type": "mcq",
   "q": {
    "en": "You have already transferred money to an online blackmailer. Which number should you call as early as possible?",
-   "hi": "तुम एक ऑनलाइन ब्लैकमेलर को पैसे भेज चुके हो। जितनी जल्दी हो सके किस नंबर पर कॉल करनी चाहिए?",
    "hg": "Tum ek online blackmailer ko paise transfer kar chuke ho. Jitni jaldi ho sake kis number pe call karna chahiye?"
   },
   "options": [
    {
     "en": "1097",
-    "hi": "नंबर 1097",
     "hg": "1097"
    },
    {
     "en": "14416",
-    "hi": "नंबर 14416",
     "hg": "14416"
    },
    {
     "en": "181",
-    "hi": "नंबर 181",
     "hg": "181"
    },
    {
     "en": "1930",
-    "hi": "नंबर 1930",
     "hg": "1930"
    }
   ],
   "answer": 3,
   "explain": {
    "en": "1930 is the national cybercrime helpline. Reporting a payment early gives the best chance of the transfer being stopped.",
-   "hi": "1930 राष्ट्रीय साइबर अपराध हेल्पलाइन है। भुगतान की जल्दी रिपोर्ट करने पर ट्रांसफ़र रुकने की सबसे ज़्यादा उम्मीद रहती है।",
    "hg": "1930 national cybercrime helpline hai. Payment ko jaldi report karne pe transfer rukne ka best chance rehta hai."
   }
  },
@@ -188,25 +165,21 @@
   "type": "tf",
   "q": {
    "en": "If a person chose to send an intimate image to a partner, that partner is allowed to show it to others.",
-   "hi": "अगर किसी ने अपनी मर्ज़ी से पार्टनर को अंतरंग तस्वीर भेजी, तो उस पार्टनर को उसे दूसरों को दिखाने की छूट है।",
    "hg": "Agar kisi ne apni marzi se partner ko intimate image bheji, toh us partner ko usse doosron ko dikhane ki permission hai."
   },
   "options": [
    {
     "en": "True",
-    "hi": "सही",
     "hg": "Sahi"
    },
    {
     "en": "False",
-    "hi": "ग़लत",
     "hg": "Galat"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "Consent is specific. Agreeing to share with one person in private is not agreement to any further sharing, which is image-based sexual abuse.",
-   "hi": "सहमति किसी ख़ास बात के लिए होती है। किसी एक इंसान को निजी तौर पर भेजने की हामी आगे शेयर करने की हामी नहीं है; आगे शेयर करना तस्वीरों के ज़रिए यौन शोषण है।",
    "hg": "Consent specific hoti hai. Kisi ek insaan ko privately bhejne ki haan aage share karne ki haan nahi hai; aage share karna image-based sexual abuse hai."
   }
  },
@@ -225,35 +198,29 @@
   "type": "mcq",
   "q": {
    "en": "Someone has created a fake account using your name and photos. Which step is NOT helpful?",
-   "hi": "किसी ने तुम्हारे नाम और फ़ोटो से फ़र्ज़ी अकाउंट बना लिया है। इनमें से कौन सा क़दम मददगार नहीं है?",
    "hg": "Kisi ne tumhare naam aur photos se fake account bana liya hai. Inme se kaun sa step helpful nahi hai?"
   },
   "options": [
    {
     "en": "Reporting the profile in the app as impersonation",
-    "hi": "ऐप में उस प्रोफ़ाइल को नकली पहचान के तौर पर रिपोर्ट करना",
     "hg": "App mein us profile ko impersonation ke taur pe report karna"
    },
    {
     "en": "Telling your contacts from your real account that it is fake",
-    "hi": "अपने असली अकाउंट से जान-पहचान वालों को बताना कि वह फ़र्ज़ी है",
     "hg": "Apne real account se contacts ko batana ki woh fake hai"
    },
    {
     "en": "Messaging the fake account to argue with them or threaten them",
-    "hi": "फ़र्ज़ी अकाउंट को मैसेज करके उससे बहस करना या उसे धमकाना",
     "hg": "Fake account ko message karke usse behes karna ya usse dhamkana"
    },
    {
     "en": "Saving the profile link and filing a complaint on cybercrime.gov.in",
-    "hi": "प्रोफ़ाइल का लिंक सँभालकर cybercrime.gov.in पर शिकायत दर्ज करना",
     "hg": "Profile ka link save karke cybercrime.gov.in pe complaint file karna"
    }
   ],
   "answer": 2,
   "explain": {
    "en": "Arguing with or threatening an impersonator gives them attention and can make things worse. Reporting, warning contacts and filing a complaint are the useful steps.",
-   "hi": "नकली पहचान बनाने वाले से बहस करने या उसे धमकाने से उसे तवज्जो मिलती है और बात बिगड़ सकती है। रिपोर्ट करना, जान-पहचान वालों को आगाह करना और शिकायत दर्ज करना ही काम के क़दम हैं।",
    "hg": "Impersonator se behes karne ya usse dhamkane se usse attention milti hai aur baat bigad sakti hai. Report karna, contacts ko warn karna aur complaint file karna hi useful steps hain."
   }
  }

@@ -13,18 +13,15 @@
   "body": [],
   "claim": {
    "en": "You can tell whether someone has an STI by looking at them.",
-   "hi": "किसी को देखकर बताया जा सकता है कि उसे एसटीआई है या नहीं।",
    "hg": "Kisi ko dekhkar bataya ja sakta hai ki use STI hai ya nahi."
   },
   "verdict": "myth",
   "fact": {
    "en": "Most STIs cause no visible signs, and a person can look and feel perfectly healthy for years while carrying one. Being well dressed, educated, 'clean' or from a 'good family' tells you nothing about infections. Only a test can show whether someone has an STI.",
-   "hi": "ज़्यादातर एसटीआई में कोई दिखने वाला संकेत नहीं होता, और संक्रमण होते हुए भी व्यक्ति बरसों तक पूरी तरह स्वस्थ दिख और महसूस कर सकता है। अच्छे कपड़े, पढ़ाई-लिखाई, 'साफ़-सुथरा' होना या 'अच्छे घर' से होना संक्रमण के बारे में कुछ नहीं बताता। किसी को एसटीआई है या नहीं, यह सिर्फ़ जाँच से पता चलता है।",
    "hg": "Zyada-tar STIs mein koi visible sign nahi hota, aur infection hote hue bhi insaan saalon tak perfectly healthy dikh aur feel kar sakta hai. Achhe kapde, education, 'clean' hona ya 'achhi family' se hona infection ke baare mein kuch nahi batata. Kisi ko STI hai ya nahi, yeh sirf test se pata chalta hai."
   },
   "why": {
    "en": "We tend to link illness with looking unwell, and old stigma paints STIs as something that only happens to certain 'types' of people.",
-   "hi": "हम अक्सर बीमारी को बीमार दिखने से जोड़ते हैं, और पुरानी सोच एसटीआई को ऐसी चीज़ बताती है जो सिर्फ़ कुछ 'क़िस्म' के लोगों को होती है।",
    "hg": "Hum aksar beemari ko beemar dikhne se jodte hain, aur purana stigma STIs ko aisi cheez batata hai jo sirf kuch 'type' ke logon ko hoti hai."
   },
   "refs": [
@@ -46,18 +43,15 @@
   "body": [],
   "claim": {
    "en": "HIV spreads through mosquito bites, sharing food or hugging.",
-   "hi": "एचआईवी मच्छर के काटने, साथ खाना खाने या गले लगने से फैलता है।",
    "hg": "HIV machhar ke kaatne, khana share karne ya hug karne se failta hai."
   },
   "verdict": "myth",
   "fact": {
    "en": "HIV cannot survive in mosquitoes and is not passed on through saliva, sweat or tears. It spreads only through specific fluids: blood, semen, vaginal and rectal fluids and breast milk. Eating, studying, playing and living with a person who has HIV is safe.",
-   "hi": "एचआईवी मच्छरों में ज़िंदा नहीं रह सकता और लार, पसीने या आँसुओं से नहीं फैलता। यह सिर्फ़ कुछ ख़ास तरल से फैलता है: ख़ून, वीर्य, योनि और मलाशय के स्राव और माँ का दूध। एचआईवी वाले व्यक्ति के साथ खाना, पढ़ना, खेलना और रहना सुरक्षित है।",
    "hg": "HIV machharon mein zinda nahi reh sakta aur saliva, paseene ya aansuon se pass nahi hota. Yeh sirf kuch specific fluids se failta hai: blood, semen, vaginal aur rectal fluids aur breast milk. HIV wale insaan ke saath khana, padhna, khelna aur rehna safe hai."
   },
   "why": {
    "en": "In the early years of the epidemic little was known and fear filled the gaps; those early rumours are still passed down in families and communities.",
-   "hi": "महामारी के शुरुआती बरसों में जानकारी कम थी और ख़ाली जगह डर ने भर दी; उस दौर की अफ़वाहें आज भी परिवारों और समुदायों में आगे बढ़ती रहती हैं।",
    "hg": "Epidemic ke shuruaati saalon mein jaankari kam thi aur gaps ko darr ne bhar diya; us time ki rumours aaj bhi families aur communities mein pass hoti rehti hain."
   },
   "refs": [
@@ -80,18 +74,15 @@
   "body": [],
   "claim": {
    "en": "A person with HIV who is on effective treatment and has an undetectable viral load does not pass HIV on through sex.",
-   "hi": "जो एचआईवी वाला व्यक्ति कारगर इलाज पर है और जिसका वायरल लोड जाँच में पकड़ में नहीं आता, वह यौन संबंध से एचआईवी नहीं फैलाता।",
    "hg": "Jo HIV wala insaan effective treatment par hai aur jiska viral load undetectable hai, woh sex ke through HIV pass nahi karta."
   },
   "verdict": "fact",
   "fact": {
    "en": "True. WHO states that people living with HIV who keep an undetectable viral load through treatment do not transmit the virus to their sexual partners. This is known as U=U: undetectable equals untransmittable. It depends on taking medicines every day and regular viral-load checks, and it does not protect against other STIs.",
-   "hi": "सही। WHO के अनुसार एचआईवी के साथ जी रहे जो लोग इलाज के ज़रिए अपना वायरल लोड जाँच में न पकड़ आने वाले स्तर पर रखते हैं, वे अपने यौन पार्टनर तक वायरस नहीं पहुँचाते। इसे U=U कहते हैं: undetectable बराबर untransmittable। यह रोज़ दवा लेने और वायरल लोड की नियमित जाँच पर टिका है, और यह दूसरे एसटीआई से नहीं बचाता।",
    "hg": "Sahi. WHO ke according HIV ke saath jee rahe jo log treatment ke through apna viral load undetectable rakhte hain, woh apne sexual partners ko virus transmit nahi karte. Ise U=U kehte hain: undetectable equals untransmittable. Yeh roz medicine lene aur regular viral-load checks par depend karta hai, aur yeh doosre STIs se protect nahi karta."
   },
   "why": {
    "en": "For decades HIV was taught as always infectious and always fatal, so this newer scientific finding still surprises many people.",
-   "hi": "दशकों तक यही सिखाया गया कि एचआईवी हमेशा फैलता है और हमेशा जानलेवा है, इसलिए विज्ञान की यह नई जानकारी आज भी बहुतों को चौंकाती है।",
    "hg": "Decades tak yahi sikhaya gaya ki HIV hamesha infectious aur hamesha fatal hai, isliye yeh newer scientific finding aaj bhi bahut logon ko surprise karti hai."
   },
   "refs": [
@@ -113,18 +104,15 @@
   "body": [],
   "claim": {
    "en": "Once you have been treated for an STI, you are immune and cannot get it again.",
-   "hi": "एक बार एसटीआई का इलाज हो जाए, तो शरीर में प्रतिरक्षा बन जाती है और वह दोबारा नहीं हो सकता।",
    "hg": "Ek baar STI ka treatment ho jaye, toh immunity ban jaati hai aur woh dobara nahi ho sakta."
   },
   "verdict": "myth",
   "fact": {
    "en": "Curing chlamydia, gonorrhoea, syphilis or trichomoniasis does not create lasting immunity. A person can be infected again straight away, often by an untreated partner. That is why partners are treated at the same time and clinicians may advise a repeat test a few months later.",
-   "hi": "क्लैमाइडिया, गोनोरिया, सिफ़लिस या ट्राइकोमोनिएसिस के ठीक हो जाने से टिकाऊ प्रतिरक्षा नहीं बनती। व्यक्ति तुरंत दोबारा संक्रमित हो सकता है, अक्सर ऐसे पार्टनर से जिसका इलाज नहीं हुआ। इसीलिए पार्टनर का इलाज साथ-साथ किया जाता है और डॉक्टर कुछ महीने बाद दोबारा जाँच की सलाह दे सकते हैं।",
    "hg": "Chlamydia, gonorrhoea, syphilis ya trichomoniasis ke cure ho jaane se lasting immunity nahi banti. Insaan turant dobara infect ho sakta hai, aksar aise partner se jiska treatment nahi hua. Isiliye partners ka treatment saath-saath kiya jaata hai aur clinicians kuch mahine baad repeat test ki advice de sakte hain."
   },
   "why": {
    "en": "People compare STIs with illnesses like chickenpox, where one infection usually protects a person for life, and assume a cured STI works the same way.",
-   "hi": "लोग एसटीआई की तुलना छोटी माता (चिकनपॉक्स) जैसी बीमारियों से करते हैं, जिनमें एक बार का संक्रमण आम तौर पर ज़िंदगी भर के लिए बचाव दे देता है, और मान लेते हैं कि ठीक हुआ एसटीआई भी ऐसा ही करता है।",
    "hg": "Log STIs ko chickenpox jaisi beemariyon se compare karte hain, jinme ek baar ka infection usually life bhar ke liye protect kar deta hai, aur maan lete hain ki cure hua STI bhi aisa hi karta hai."
   },
   "refs": [
@@ -146,18 +134,15 @@
   "body": [],
   "claim": {
    "en": "Condoms protect against all STIs.",
-   "hi": "कंडोम हर एसटीआई से बचाते हैं।",
    "hg": "Condoms har STI se protect karte hain."
   },
   "verdict": "partly",
   "fact": {
    "en": "Partly true. Used correctly every time, condoms greatly reduce the risk of infections carried in body fluids, such as HIV, gonorrhoea and chlamydia. They protect less completely against herpes, HPV and syphilis, which can spread from skin that a condom does not cover. They remain the best protection available during sex.",
-   "hi": "आंशिक रूप से सही। हर बार सही तरीक़े से इस्तेमाल किए जाएँ तो कंडोम शरीर के तरल से फैलने वाले संक्रमणों का ख़तरा बहुत घटा देते हैं, जैसे एचआईवी, गोनोरिया और क्लैमाइडिया। हर्पीज़, एचपीवी और सिफ़लिस से ये उतना पूरा बचाव नहीं देते, क्योंकि ये उस त्वचा से फैल सकते हैं जिसे कंडोम नहीं ढकता। फिर भी सेक्स के दौरान उपलब्ध सबसे अच्छा बचाव यही हैं।",
    "hg": "Partly sahi. Har baar sahi tareeke se use kiye jayein toh condoms body fluids se failne wale infections ka risk bahut kam kar dete hain, jaise HIV, gonorrhoea aur chlamydia. Herpes, HPV aur syphilis se yeh utna complete protection nahi dete, kyunki yeh us skin se fail sakte hain jise condom cover nahi karta. Phir bhi sex ke dauraan available best protection yahi hain."
   },
   "why": {
    "en": "Safer-sex messages are kept short, so 'use a condom' is often heard as a complete guarantee rather than as strong risk reduction.",
-   "hi": "सुरक्षित सेक्स के संदेश छोटे रखे जाते हैं, इसलिए 'कंडोम इस्तेमाल करो' को अक्सर पूरी गारंटी समझ लिया जाता है, जबकि असल में यह ख़तरे को बहुत घटाने का तरीक़ा है।",
    "hg": "Safer-sex messages short rakhe jaate hain, isliye 'condom use karo' ko aksar complete guarantee samajh liya jaata hai, jabki actually yeh risk ko bahut kam karne ka tareeka hai."
   },
   "refs": [
@@ -181,18 +166,15 @@
   "body": [],
   "claim": {
    "en": "Only people with many partners get STIs.",
-   "hi": "एसटीआई सिर्फ़ उन्हें होते हैं जिनके कई पार्टनर होते हैं।",
    "hg": "STIs sirf unhe hote hain jinke bahut saare partners hote hain."
   },
   "verdict": "myth",
   "fact": {
    "en": "Risk rises with more partners, but one exposure is enough. People get STIs from their first or only partner, within marriage, through sexual abuse, from shared needles, or at birth from an infected mother. Assuming it only happens to 'other people' is exactly what delays testing.",
-   "hi": "ज़्यादा पार्टनर होने से ख़तरा बढ़ता है, लेकिन एक बार का संपर्क भी काफ़ी है। लोगों को एसटीआई अपने पहले या इकलौते पार्टनर से, शादी के भीतर, यौन शोषण से, साझा सुइयों से, या जन्म के समय संक्रमित माँ से हो जाते हैं। यह मान लेना कि यह सिर्फ़ 'दूसरों' को होता है, ठीक वही बात है जो जाँच में देर कराती है।",
    "hg": "Zyada partners hone se risk badhta hai, lekin ek exposure bhi kaafi hai. Logon ko STIs apne pehle ya only partner se, shaadi ke andar, sexual abuse se, shared needles se, ya birth ke time infected maa se ho jaate hain. Yeh maan lena ki yeh sirf 'doosron' ko hota hai, exactly wahi cheez hai jo testing mein delay karati hai."
   },
   "why": {
    "en": "Linking infection to 'bad character' lets people feel safe and morally separate, and older public messaging often reinforced that link.",
-   "hi": "संक्रमण को 'ख़राब चरित्र' से जोड़ने पर लोग ख़ुद को सुरक्षित और नैतिक रूप से अलग महसूस करते हैं, और पुराने जन-संदेशों ने अक्सर इसी जोड़ को और पक्का किया।",
    "hg": "Infection ko 'bad character' se jodne par log khud ko safe aur morally alag feel karte hain, aur purani public messaging ne aksar isi link ko aur pakka kiya."
   },
   "refs": [
@@ -214,18 +196,15 @@
   "body": [],
   "claim": {
    "en": "Washing the genitals, urinating or douching straight after sex prevents STIs.",
-   "hi": "सेक्स के तुरंत बाद जननांग धोने, पेशाब करने या डूशिंग (योनि के अंदर पानी या किसी घोल से धुलाई) करने से एसटीआई नहीं होते।",
    "hg": "Sex ke turant baad genitals dhone, peshab karne ya douching (vagina ke andar paani ya kisi liquid se dhona) karne se STIs nahi hote."
   },
   "verdict": "myth",
   "fact": {
    "en": "None of these removes germs that have already entered the body's lining, so they do not prevent STIs or pregnancy. Douching can even upset the vagina's natural bacteria and make infections more likely. Condoms, vaccines and, for HIV, PEP or PrEP are the methods that actually work.",
-   "hi": "इनमें से कोई भी तरीक़ा उन कीटाणुओं को नहीं हटाता जो शरीर की भीतरी परत में पहुँच चुके हैं, इसलिए इनसे न एसटीआई रुकते हैं, न गर्भ। डूशिंग तो योनि के क़ुदरती बैक्टीरिया का संतुलन बिगाड़कर संक्रमण की संभावना बढ़ा भी सकती है। जो तरीक़े सच में काम करते हैं वे हैं कंडोम, टीके और, एचआईवी के लिए, PEP या PrEP।",
    "hg": "Inme se koi bhi tareeka un germs ko nahi hatata jo body ki lining mein pahunch chuke hain, isliye inse na STIs rukte hain, na pregnancy. Douching toh vagina ke natural bacteria ka balance bigaadkar infection ke chances badha bhi sakti hai. Jo methods actually kaam karte hain woh hain condoms, vaccines aur, HIV ke liye, PEP ya PrEP."
   },
   "why": {
    "en": "Washing feels like common-sense hygiene, and the advice is passed between friends because it is easy, private and costs nothing.",
-   "hi": "धोना सीधी-सादी साफ़-सफ़ाई जैसा लगता है, और यह सलाह दोस्तों के बीच इसलिए चलती रहती है कि यह आसान है, चुपचाप की जा सकती है और इसमें कोई ख़र्च नहीं होता।",
    "hg": "Dhona common-sense hygiene jaisa lagta hai, aur yeh advice doston ke beech isliye chalti rehti hai ki yeh easy hai, private hai aur isme koi kharcha nahi hota."
   },
   "refs": [

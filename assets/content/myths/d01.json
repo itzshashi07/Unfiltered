@@ -11,18 +11,15 @@
   "body": [],
   "claim": {
    "en": "Asking questions about my body is naughty.",
-   "hi": "अपने शरीर के बारे में सवाल पूछना शरारत है।",
    "hg": "Apni body ke baare mein sawaal poochna naughty baat hai."
   },
   "verdict": "myth",
   "fact": {
    "en": "It is good to ask! Your body is yours, and learning about it helps you look after it. You can ask Mummy, Papa, a teacher or a doctor any question about your body. No question is silly.",
-   "hi": "पूछना अच्छी बात है! तुम्हारा शरीर तुम्हारा है, और उसके बारे में सीखने से तुम उसका ख़याल रख पाते हो। तुम मम्मी, पापा, टीचर या डॉक्टर से अपने शरीर के बारे में कोई भी सवाल पूछ सकते हो। कोई भी सवाल बेवक़ूफ़ी वाला नहीं होता।",
    "hg": "Poochna achhi baat hai! Tumhari body tumhari hai, aur uske baare mein seekhne se tum uska khayal rakh paate ho. Tum Mummy, Papa, teacher ya doctor se apni body ke baare mein koi bhi sawaal pooch sakte ho. Koi bhi sawaal silly nahi hota."
   },
   "why": {
    "en": "Grown-ups sometimes feel shy, say 'chup' or change the topic. Then children think the question was wrong. It was not wrong.",
-   "hi": "कभी-कभी बड़े ख़ुद शरमा जाते हैं, 'चुप' कह देते हैं या बात बदल देते हैं। तब बच्चों को लगता है कि सवाल ग़लत था। सवाल ग़लत नहीं था।",
    "hg": "Kabhi-kabhi bade khud shy feel karte hain, 'chup' bol dete hain ya topic change kar dete hain. Tab bachchon ko lagta hai ki sawaal galat tha. Sawaal galat nahi tha."
   },
   "refs": [
@@ -45,18 +42,15 @@
   ],
   "claim": {
    "en": "The vagina and the vulva are the same thing.",
-   "hi": "योनि (vagina) और वल्वा (vulva) एक ही चीज़ हैं।",
    "hg": "Vagina aur vulva same cheez hain."
   },
   "verdict": "myth",
   "fact": {
    "en": "They are two different parts. The vulva is everything visible on the outside: the labia, the clitoris and the openings of the urethra and vagina. The vagina is the muscular passage inside the body that connects the vulva to the uterus. Using the right word matters when you describe a symptom to a doctor.",
-   "hi": "ये दो अलग हिस्से हैं। वल्वा वह सब कुछ है जो बाहर दिखता है: लेबिया, क्लिटोरिस और मूत्रमार्ग व योनि के छेद। योनि शरीर के अंदर मांसपेशियों से बना रास्ता है जो वल्वा को गर्भाशय से जोड़ता है। डॉक्टर को कोई तकलीफ़ बताते समय सही शब्द का इस्तेमाल बहुत काम आता है।",
    "hg": "Yeh do alag parts hain. Vulva woh sab kuch hai jo bahar dikhta hai: labia, clitoris aur urethra aur vagina ki openings. Vagina body ke andar ka muscular passage hai jo vulva ko uterus se connect karta hai. Doctor ko koi symptom batate time sahi word use karna bahut kaam aata hai."
   },
   "why": {
    "en": "Most people only ever hear the word vagina used for the whole area, in conversation, adverts and even some textbooks, so the mix-up gets passed on.",
-   "hi": "ज़्यादातर लोग बातचीत, विज्ञापनों और कुछ किताबों में भी पूरे हिस्से के लिए बस वजाइना शब्द ही सुनते हैं, इसलिए यह गड़बड़ी आगे बढ़ती रहती है।",
    "hg": "Zyadatar log baat-cheet, ads aur kuch textbooks mein bhi poore area ke liye bas vagina word hi sunte hain, isliye yeh mix-up aage pass hota rehta hai."
   },
   "refs": [
@@ -81,18 +75,15 @@
   ],
   "claim": {
    "en": "The mother's body decides whether the baby is a boy or a girl.",
-   "hi": "बच्चा लड़का होगा या लड़की, यह माँ के शरीर से तय होता है।",
    "hg": "Baby ladka hoga ya ladki, yeh maa ki body decide karti hai."
   },
   "verdict": "myth",
   "fact": {
    "en": "Every egg carries an X chromosome. Each sperm carries either an X or a Y. If an X sperm fertilises the egg, the baby is typically female (XX); if a Y sperm does, typically male (XY). Which sperm arrives first is pure chance, and nobody can control or cause it. Blaming a woman for having daughters has no basis in biology.",
-   "hi": "हर अंडाणु में X क्रोमोसोम होता है। हर शुक्राणु में या तो X होता है या Y। अगर X वाला शुक्राणु अंडाणु से मिलता है, तो बच्चा आम तौर पर लड़की (XX) होता है; अगर Y वाला मिलता है, तो आम तौर पर लड़का (XY)। कौन-सा शुक्राणु पहले पहुँचेगा, यह पूरी तरह संयोग है, और इसे कोई न तय कर सकता है, न इसका कारण बन सकता है। बेटियाँ होने पर औरत को दोष देने का जीव-विज्ञान में कोई आधार नहीं है।",
    "hg": "Har egg mein X chromosome hota hai. Har sperm mein ya toh X hota hai ya Y. Agar X wala sperm egg ko fertilise karta hai, toh baby typically female (XX) hota hai; agar Y wala karta hai, toh typically male (XY). Kaun sa sperm pehle pahunchega, yeh pure chance hai, aur ise koi na control kar sakta hai, na cause kar sakta hai. Betiyan hone par aurat ko blame karne ka biology mein koi base nahi hai."
   },
   "why": {
    "en": "For generations, many families valued sons and held the mother responsible for the outcome. The chromosome science is rarely explained at home, so the blame continued unchallenged.",
-   "hi": "पीढ़ियों से कई परिवार बेटों को ज़्यादा अहमियत देते आए और नतीजे की ज़िम्मेदारी माँ पर डालते रहे। क्रोमोसोम का विज्ञान घरों में शायद ही कभी समझाया जाता है, इसलिए यह दोष बिना सवाल के चलता रहा।",
    "hg": "Generations se kai families beton ko zyada value deti aayi hain aur result ki zimmedari maa par daalti rahi hain. Chromosome ka science ghar par shayad hi kabhi explain hota hai, isliye yeh blame bina sawaal ke chalta raha."
   },
   "refs": [
@@ -116,18 +107,15 @@
   ],
   "claim": {
    "en": "Most of the clitoris is hidden inside the body.",
-   "hi": "क्लिटोरिस का ज़्यादातर हिस्सा शरीर के अंदर छिपा होता है।",
    "hg": "Clitoris ka zyadatar part body ke andar chhupa hota hai."
   },
   "verdict": "fact",
   "fact": {
    "en": "True. The small visible glans is only the tip. Behind it, a shaft, two arms (crura) and two bulbs of erectile tissue extend several centimetres inside, around the vaginal opening. Anatomists described this in the 1800s, but many later textbooks drew only part of it. Dissection and MRI studies from the late 1990s onwards brought the full shape back into view, which is why many older diagrams show just a dot or leave it out.",
-   "hi": "सही है। बाहर दिखने वाला छोटा ग्लैन्स बस इसका सिरा है। उसके पीछे एक शाफ़्ट, दो भुजाएँ (क्रूरा) और इरेक्टाइल ऊतक के दो बल्ब योनि के मुँह के आसपास कई सेंटीमीटर अंदर तक फैले होते हैं। शरीर-रचना के विशेषज्ञों ने उन्नीसवीं सदी में ही इसका वर्णन कर दिया था, पर बाद की कई किताबों में इसका बस एक हिस्सा दिखाया गया। 1990 के दशक के आख़िर से हुए डिसेक्शन और MRI अध्ययनों ने इसका पूरा आकार फिर सामने रखा, इसीलिए कई पुराने चित्रों में यह बस एक बिंदु जैसा दिखता है या होता ही नहीं।",
    "hg": "Sahi hai. Bahar dikhne wala chhota glans bas iska tip hai. Uske peeche ek shaft, do arms (crura) aur erectile tissue ke do bulbs vaginal opening ke around kai centimetre andar tak phaile hote hain. Anatomists ne 1800s mein hi ise describe kar diya tha, par baad ki kai textbooks mein iska bas ek part dikhaya gaya. Late 1990s se hui dissection aur MRI studies ne iski full shape wapas saamne rakhi, isiliye kai purane diagrams mein yeh bas ek dot jaisa dikhta hai ya hota hi nahi."
   },
   "why": {
    "en": "School diagrams focus on the organs needed for reproduction, and anatomy linked to sensation in women was long treated as too embarrassing to draw or discuss.",
-   "hi": "स्कूल के चित्र प्रजनन के लिए ज़रूरी अंगों पर ही ध्यान देते हैं, और महिलाओं में संवेदना से जुड़ी शरीर-रचना को लंबे समय तक इतना शर्मनाक माना गया कि न उसे बनाया गया, न उस पर बात हुई।",
    "hg": "School ke diagrams reproduction ke liye zaroori organs par hi focus karte hain, aur women mein sensation se judi anatomy ko lambe time tak itna embarrassing maana gaya ki na use draw kiya gaya, na us par baat hui."
   },
   "refs": [
@@ -150,18 +138,15 @@
   "body": [],
   "claim": {
    "en": "Being intersex is a disease that has to be corrected.",
-   "hi": "इंटरसेक्स होना एक बीमारी है जिसे ठीक करना ज़रूरी है।",
    "hg": "Intersex hona ek bimaari hai jise theek karna zaroori hai."
   },
   "verdict": "myth",
   "fact": {
    "en": "Intersex variations are natural differences in chromosomes, hormones or anatomy. Most intersex people are physically healthy. A few specific conditions need medical care, for example for hormone or salt balance, but that is different from surgery done only to make a body look typical. Such decisions should involve the person themselves wherever possible. Being intersex is not an illness.",
-   "hi": "इंटरसेक्स भिन्नताएँ क्रोमोसोम, हार्मोन या शरीर-रचना के प्राकृतिक अंतर हैं। ज़्यादातर इंटरसेक्स लोग शारीरिक रूप से स्वस्थ होते हैं। कुछ ख़ास स्थितियों में इलाज की ज़रूरत पड़ती है, जैसे हार्मोन या नमक के संतुलन के लिए, लेकिन यह उस सर्जरी से अलग बात है जो सिर्फ़ शरीर को आम जैसा दिखाने के लिए की जाए। ऐसे फ़ैसलों में जहाँ तक हो सके उस व्यक्ति की अपनी राय शामिल होनी चाहिए। इंटरसेक्स होना कोई बीमारी नहीं है।",
    "hg": "Intersex variations chromosomes, hormones ya anatomy ke natural differences hain. Zyadatar intersex log physically healthy hote hain. Kuch specific conditions mein medical care chahiye hoti hai, jaise hormone ya salt balance ke liye, lekin yeh us surgery se alag baat hai jo sirf body ko typical dikhane ke liye ki jaye. Aise decisions mein jahan tak ho sake us insaan ki apni rai shamil honi chahiye. Intersex hona koi bimaari nahi hai."
   },
   "why": {
    "en": "Because bodies are usually sorted into just two boxes, anything outside them gets treated as a defect, and families often keep it secret out of fear of gossip.",
-   "hi": "शरीरों को आम तौर पर बस दो ख़ानों में बाँटा जाता है, इसलिए जो उनसे बाहर हो उसे कमी मान लिया जाता है, और परिवार अक्सर लोगों की बातों के डर से इसे छिपाकर रखते हैं।",
    "hg": "Bodies ko usually sirf do boxes mein sort kiya jata hai, isliye jo unse bahar ho use defect maan liya jata hai, aur families aksar logon ki baaton ke darr se ise secret rakhti hain."
   },
   "refs": [
@@ -186,18 +171,15 @@
   ],
   "claim": {
    "en": "The testicles hang outside the body because they need to stay cooler.",
-   "hi": "वृषण शरीर के बाहर इसलिए लटकते हैं क्योंकि उन्हें थोड़ा ठंडा रहना होता है।",
    "hg": "Testicles body ke bahar isliye latakte hain kyunki unhe thoda cool rehna hota hai."
   },
   "verdict": "fact",
   "fact": {
    "en": "True. Sperm develop best at a temperature slightly lower than the rest of the body, which is why the testes sit in the scrotum rather than inside the belly. The scrotum adjusts on its own: it tightens and pulls the testes closer when it is cold and hangs looser when it is warm. That changing look through the day is normal.",
-   "hi": "सही है। शुक्राणु बाकी शरीर से थोड़े कम तापमान पर सबसे अच्छी तरह बनते हैं, इसीलिए वृषण पेट के अंदर नहीं, स्क्रोटम में होते हैं। स्क्रोटम अपने आप तालमेल बिठाता है: ठंड में सिकुड़कर वृषण को शरीर के पास खींच लेता है और गर्मी में ढीला होकर लटक जाता है। दिन भर में इसका इस तरह बदलते रहना सामान्य है।",
    "hg": "Sahi hai. Sperm baaki body se thode kam temperature par best develop hote hain, isiliye testes pet ke andar nahi, scrotum mein hote hain. Scrotum apne aap adjust karta hai: thand mein tight hokar testes ko body ke paas kheench leta hai aur garmi mein loose hokar latak jata hai. Din bhar mein iska aise badalte rehna normal hai."
   },
   "why": {
    "en": "It sounds like a joke or a guess, because most people are never told why the body is built this way. In this case the playground explanation happens to be correct.",
-   "hi": "यह मज़ाक या तुक्का जैसा लगता है, क्योंकि ज़्यादातर लोगों को कभी बताया ही नहीं जाता कि शरीर ऐसा क्यों बना है। इस मामले में दोस्तों के बीच सुनी हुई बात सच निकलती है।",
    "hg": "Yeh joke ya tukka jaisa lagta hai, kyunki zyadatar logon ko kabhi bataya hi nahi jata ki body aisi kyun bani hai. Is case mein doston se suni hui baat sach nikalti hai."
   },
   "refs": [
@@ -222,18 +204,15 @@
   ],
   "claim": {
    "en": "A bigger penis means a man is more masculine and more fertile.",
-   "hi": "लिंग जितना बड़ा, आदमी उतना ही ज़्यादा मर्द और बच्चे पैदा करने की उसकी क्षमता उतनी ही ज़्यादा।",
    "hg": "Penis jitna bada, aadmi utna hi zyada mard aur utna hi zyada fertile."
   },
   "verdict": "myth",
   "fact": {
    "en": "Penis size is decided by genes and hormones during puberty, like height or shoe size. It has no connection with sperm count, fertility, strength, courage or character. Fertility depends on the health of the sperm made in the testes. Products that promise enlargement, such as oils, tablets and pumps, do not change size, and some cause injury or skin damage.",
-   "hi": "लिंग का आकार प्यूबर्टी के दौरान जीन और हार्मोन से तय होता है, जैसे लंबाई या जूते का नाप। इसका शुक्राणुओं की संख्या, प्रजनन क्षमता, ताक़त, हिम्मत या चरित्र से कोई संबंध नहीं है। प्रजनन क्षमता वृषण में बनने वाले शुक्राणुओं की सेहत पर निर्भर करती है। आकार बढ़ाने का दावा करने वाले तेल, गोलियाँ और पंप आकार नहीं बदलते, और कुछ से चोट लग सकती है या त्वचा ख़राब हो सकती है।",
    "hg": "Penis ka size puberty ke dauraan genes aur hormones se decide hota hai, jaise height ya shoe size. Iska sperm count, fertility, taakat, himmat ya character se koi connection nahi hai. Fertility testes mein banne wale sperm ki health par depend karti hai. Enlargement ka promise karne wale tel, tablets aur pumps size nahi badalte, aur kuch se injury ya skin damage ho sakta hai."
   },
   "why": {
    "en": "Jokes, films, adult content and adverts for 'power' products all repeat the idea. Because boys rarely get accurate information, the anxiety hardens into accepted truth.",
-   "hi": "चुटकुले, फ़िल्में, वयस्कों का कंटेंट और 'ताक़त' वाले प्रोडक्ट के विज्ञापन, सब यही बात दोहराते हैं। लड़कों को सही जानकारी कम ही मिलती है, इसलिए यह घबराहट धीरे-धीरे मानी हुई सच्चाई बन जाती है।",
    "hg": "Jokes, films, adult content aur 'power' products ke ads, sab yahi idea repeat karte hain. Ladkon ko sahi information kam hi milti hai, isliye yeh anxiety dheere-dheere accepted truth ban jaati hai."
   },
   "refs": [

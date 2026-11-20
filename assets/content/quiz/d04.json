@@ -12,30 +12,25 @@
   "type": "scenario",
   "q": {
    "en": "Zoya's crush becomes known and classmates start teasing her. What is the most helpful thing you can do?",
-   "hi": "ज़ोया के क्रश की बात फैल जाती है और सहपाठी उसे चिढ़ाने लगते हैं। आप सबसे काम की मदद क्या कर सकते हैं?",
    "hg": "Zoya ke crush ki baat phail jaati hai aur classmates use tease karne lagte hain. Aap sabse helpful kya kar sakte ho?"
   },
   "options": [
    {
     "en": "Join in a little so that nobody teases you",
-    "hi": "थोड़ा आप भी चिढ़ा लें, ताकि कोई आपको न चिढ़ाए",
     "hg": "Thoda aap bhi tease kar lo, taaki koi aapko tease na kare"
    },
    {
     "en": "Stand by her, refuse to join in, and tell a teacher if it continues",
-    "hi": "उसका साथ दें, चिढ़ाने में शामिल न हों, और यह जारी रहे तो टीचर को बताएँ",
     "hg": "Uska saath do, teasing mein shaamil mat ho, aur yeh chalta rahe toh teacher ko batao"
    },
    {
     "en": "Tell her she should not have crushes",
-    "hi": "उससे कहें कि उसे क्रश होना ही नहीं चाहिए",
     "hg": "Usse bolo ki use crush hona hi nahi chahiye"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "A crush is a normal feeling, and teasing about it is a form of bullying. Supporting her and involving an adult if needed stops it faster.",
-   "hi": "क्रश एक सामान्य एहसास है, और उस पर चिढ़ाना एक तरह की बुलीइंग है। उसका साथ देने और ज़रूरत पड़ने पर किसी बड़े को बताने से यह जल्दी रुकता है।",
    "hg": "Crush ek normal feeling hai, aur us pe tease karna ek tarah ki bullying hai. Uska saath dene aur zaroorat pade toh adult ko batane se yeh jaldi rukta hai."
   }
  },
@@ -56,25 +51,21 @@
   "type": "tf",
   "q": {
    "en": "Vaginal discharge can begin some months before a girl's first period.",
-   "hi": "योनि स्राव लड़की के पहले पीरियड से कुछ महीने पहले शुरू हो सकता है।",
    "hg": "Vaginal discharge ladki ke first period se kuch mahine pehle start ho sakta hai."
   },
   "options": [
    {
     "en": "True",
-    "hi": "सही",
     "hg": "Sahi"
    },
    {
     "en": "False",
-    "hi": "ग़लत",
     "hg": "Galat"
    }
   ],
   "answer": 0,
   "explain": {
    "en": "Clear or white discharge is a normal puberty change that keeps the vagina clean, and it often appears before periods start.",
-   "hi": "साफ़ या सफ़ेद स्राव यौवन का सामान्य बदलाव है जो योनि को साफ़ रखता है, और यह अक्सर पीरियड शुरू होने से पहले दिखने लगता है।",
    "hg": "Clear ya white discharge puberty ka normal change hai jo vagina ko clean rakhta hai, aur yeh aksar periods start hone se pehle dikhne lagta hai."
   }
  },
@@ -91,35 +82,29 @@
   "type": "mcq",
   "q": {
    "en": "A person who feels little or no sexual attraction to anyone may describe themselves as:",
-   "hi": "जिस व्यक्ति को किसी के लिए भी यौन आकर्षण बहुत कम या बिल्कुल नहीं होता, वह ख़ुद को क्या कह सकता है?",
    "hg": "Jis insaan ko kisi ke liye bhi sexual attraction bahut kam ya bilkul nahi hota, woh khud ko kya bol sakta hai?"
   },
   "options": [
    {
     "en": "Bisexual",
-    "hi": "बाइसेक्शुअल",
     "hg": "Bisexual"
    },
    {
     "en": "Heterosexual",
-    "hi": "हेटेरोसेक्शुअल",
     "hg": "Heterosexual"
    },
    {
     "en": "Asexual",
-    "hi": "एसेक्शुअल",
     "hg": "Asexual"
    },
    {
     "en": "A late developer",
-    "hi": "देर से विकसित होने वाला",
     "hg": "Late developer"
    }
   ],
   "answer": 2,
   "explain": {
    "en": "Asexual describes feeling little or no sexual attraction. It is a normal variation, not a delay or an illness.",
-   "hi": "एसेक्शुअल का मतलब है यौन आकर्षण बहुत कम या बिल्कुल न होना। यह एक सामान्य विविधता है, न देरी है और न बीमारी।",
    "hg": "Asexual ka matlab hai sexual attraction bahut kam ya bilkul na hona. Yeh ek normal variation hai, na delay hai aur na bimari."
   }
  },
@@ -137,35 +122,29 @@
   "type": "mcq",
   "q": {
    "en": "Why do many people wrongly believe that masturbation causes acne?",
-   "hi": "बहुत से लोग ग़लती से क्यों मानते हैं कि हस्तमैथुन से मुँहासे होते हैं?",
    "hg": "Bahut log galti se kyun maante hain ki masturbation se acne hota hai?"
   },
   "options": [
    {
     "en": "Because semen contains oil",
-    "hi": "क्योंकि वीर्य में तेल होता है",
     "hg": "Kyunki semen mein oil hota hai"
    },
    {
     "en": "Because acne and sexual feelings both begin in puberty due to hormones",
-    "hi": "क्योंकि मुँहासे और यौन भावनाएँ, दोनों यौवन में हार्मोन की वजह से शुरू होते हैं",
     "hg": "Kyunki acne aur sexual feelings, dono puberty mein hormones ki wajah se start hote hain"
    },
    {
     "en": "Because acne affects only boys",
-    "hi": "क्योंकि मुँहासे सिर्फ़ लड़कों को होते हैं",
     "hg": "Kyunki acne sirf ladkon ko hota hai"
    },
    {
     "en": "Because doctors have proved a link",
-    "hi": "क्योंकि डॉक्टरों ने इनका संबंध साबित किया है",
     "hg": "Kyunki doctors ne inka link prove kiya hai"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "Two things that start at the same age get mistaken for cause and effect. Acne comes from hormones acting on oil glands in the skin.",
-   "hi": "एक ही उम्र में शुरू होने वाली दो चीज़ों को लोग कारण और नतीजा समझ बैठते हैं। मुँहासे त्वचा की तेल ग्रंथियों पर हार्मोन के असर से होते हैं।",
    "hg": "Ek hi age mein start hone wali do cheezon ko log cause aur effect samajh lete hain. Acne skin ki oil glands pe hormones ke asar se hota hai."
   }
  },
@@ -182,35 +161,29 @@
   "type": "scenario",
   "q": {
    "en": "Ishaan, 17, is told by friends that everyone his age has 'done it' and he is behind. Which reply is most accurate?",
-   "hi": "17 साल के ईशान से दोस्त कहते हैं कि उसकी उम्र में सबने 'कर लिया है' और वह पीछे रह गया है। कौन-सा जवाब सबसे सही है?",
    "hg": "17 saal ke Ishaan ko friends bolte hain ki uski age mein sabne 'kar liya hai' aur woh peeche reh gaya hai. Kaunsa reply sabse accurate hai?"
   },
   "options": [
    {
     "en": "They are right; 17 is late",
-    "hi": "वे ठीक कहते हैं; 17 साल देर है",
     "hg": "Woh sahi bol rahe hain; 17 late hai"
    },
    {
     "en": "He should invent a story so that they stop",
-    "hi": "उसे कोई कहानी गढ़ लेनी चाहिए ताकि वे चुप हो जाएँ",
     "hg": "Use koi story bana leni chahiye taaki woh chup ho jayein"
    },
    {
     "en": "He should find a partner quickly to catch up",
-    "hi": "उसे जल्दी से कोई साथी ढूँढ़ लेना चाहिए ताकि बराबरी हो जाए",
     "hg": "Use jaldi se koi partner dhoondh lena chahiye taaki catch up ho jaye"
    },
    {
     "en": "Many people his age have not, waiting is valid, and the law does not recognise consent under 18",
-    "hi": "उसकी उम्र के बहुत से लोगों ने नहीं किया है, इंतज़ार करना सही विकल्प है, और क़ानून 18 से कम उम्र की सहमति को नहीं मानता",
     "hg": "Uski age ke bahut logon ne nahi kiya hai, wait karna valid hai, aur law 18 se kam age ke consent ko nahi maanta"
    }
   ],
   "answer": 3,
   "explain": {
    "en": "Friends often exaggerate. Under POCSO a person under 18 cannot legally consent to sexual activity, and delaying is a fully valid choice.",
-   "hi": "दोस्त अक्सर बढ़ा-चढ़ाकर बताते हैं। पॉक्सो के तहत 18 साल से कम उम्र का व्यक्ति यौन गतिविधि के लिए क़ानूनी सहमति नहीं दे सकता, और इंतज़ार करना पूरी तरह सही विकल्प है।",
    "hg": "Friends aksar badha-chadha kar batate hain. POCSO ke under 18 saal se kam age ka insaan sexual activity ke liye legally consent nahi de sakta, aur wait karna ek poori tarah valid choice hai."
   }
  },
@@ -227,35 +200,29 @@
   "type": "mcq",
   "q": {
    "en": "Which of these commonly lowers libido?",
-   "hi": "इनमें से कौन-सी चीज़ अक्सर यौन इच्छा घटा देती है?",
    "hg": "Inme se kaunsi cheez aksar libido kam kar deti hai?"
   },
   "options": [
    {
     "en": "Long-term stress and poor sleep",
-    "hi": "लंबे समय का तनाव और कम नींद",
     "hg": "Long-term stress aur kam neend"
    },
    {
     "en": "Eating spicy food",
-    "hi": "मसालेदार खाना खाना",
     "hg": "Spicy khana khana"
    },
    {
     "en": "Regular exercise",
-    "hi": "नियमित कसरत",
     "hg": "Regular exercise"
    },
    {
     "en": "Reading about sexual health",
-    "hi": "यौन स्वास्थ्य के बारे में पढ़ना",
     "hg": "Sexual health ke baare mein padhna"
    }
   ],
   "answer": 0,
   "explain": {
    "en": "Stress and lack of sleep are among the most common reasons desire drops. Libido also shifts with health, hormones and some medicines.",
-   "hi": "तनाव और नींद की कमी इच्छा घटने की सबसे आम वजहों में से हैं। यौन इच्छा सेहत, हार्मोन और कुछ दवाओं के साथ भी बदलती है।",
    "hg": "Stress aur neend ki kami desire kam hone ke sabse common reasons mein se hain. Libido health, hormones aur kuch medicines ke saath bhi badalti hai."
   }
  }

@@ -25,10 +25,10 @@ QuizQ _q(String id, int answer, {int options = 4}) => QuizQ(
   id: id,
   domain: 'd01',
   type: QuizType.mcq,
-  q: const L('q', 'प्र', 'q'),
-  options: [for (var i = 0; i < options; i++) L('o$i', 'वि$i', 'o$i')],
+  q: const L('q', 'q'),
+  options: [for (var i = 0; i < options; i++) L('o$i', 'o$i')],
   answer: answer,
-  explain: const L('e', 'व', 'e'),
+  explain: const L('e', 'e'),
   tracks: const [Track.c],
 );
 
@@ -251,7 +251,7 @@ void main() {
     test('settings and progress survive a restart', () async {
       final c1 = await _container();
       c1.read(settingsProvider.notifier)
-        ..setLang(Lang.hi)
+        ..setLang(Lang.en)
         ..setTrack(Track.d)
         ..setTheme(ThemeMode.dark)
         ..setTextScale(1.3)
@@ -283,7 +283,7 @@ void main() {
       addTearDown(c2.dispose);
       final s = c2.read(settingsProvider);
       final p = c2.read(progressProvider);
-      expect(s.lang, Lang.hi);
+      expect(s.lang, Lang.en);
       expect(s.track, Track.d);
       expect(s.theme, ThemeMode.dark);
       expect(s.textScale, 1.3);
@@ -517,13 +517,13 @@ void main() {
   });
 
   group('localization', () {
-    test('every UI string exists in English, Hindi and Hinglish', () {
+    test('every UI string exists in English and Hinglish', () {
       final deva = RegExp(r'[ऀ-ॿ]');
       Strings.table.forEach((k, v) {
-        expect(v.length, 3, reason: k);
+        expect(v.length, 2, reason: k);
         expect(v.every((s) => s.trim().isNotEmpty), isTrue, reason: k);
         expect(
-          deva.hasMatch(v[2]),
+          deva.hasMatch(v[1]),
           isFalse,
           reason: '$k Hinglish has Devanagari',
         );
@@ -537,7 +537,6 @@ void main() {
         Strings.get('quiz.count', Lang.en, {'n': 2, 'total': 5}),
         '2 of 5',
       );
-      expect(Strings.get('nav.home', Lang.hi), 'होम');
       expect(Strings.get('missing.key', Lang.en), 'missing.key');
     });
 

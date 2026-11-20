@@ -52,6 +52,21 @@ const kLabStyle = <String, (IconData, Color, Color)>{
     Color(0xFF7FD4FF),
   ),
   'sti_match': (Icons.extension_rounded, Color(0xFF00A3B4), Color(0xFF8BE3EC)),
+  'magazine': (
+    Icons.menu_book_rounded,
+    Color(0xFFD2142B),
+    Color(0xFF2B0C12),
+  ),
+  'data_desk': (
+    Icons.query_stats_rounded,
+    Color(0xFF2E5BFF),
+    Color(0xFF14204A),
+  ),
+  'poster_wall': (
+    Icons.newspaper_rounded,
+    Color(0xFFB3141C),
+    Color(0xFF3A2F26),
+  ),
   'support_circle': (
     Icons.groups_rounded,
     Color(0xFF2BAE9E),

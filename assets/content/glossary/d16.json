@@ -1,122 +1,151 @@
 [
-  {
-    "id": "d16-g1",
-    "domain": "d16",
-    "tracks": ["B", "C"],
-    "title": {
-      "en": "Law Words Made Simple",
-      "hi": "क़ानून के शब्द, आसान भाषा में",
-      "hg": "Law ke Words, Simple Bhasha Mein"
-    },
-    "terms": [
-      {
-        "term": { "en": "Law", "hi": "क़ानून (law)", "hg": "Law (kanoon)" },
-        "def": {
-          "en": "A rule made by the government that everyone in the country must follow. Breaking it can lead to punishment.",
-          "hi": "सरकार का बनाया नियम, जिसे देश के हर इंसान को मानना होता है। इसे तोड़ने पर सज़ा हो सकती है।",
-          "hg": "Government ka banaya rule, jise desh ke har insaan ko follow karna hota hai. Isse todne par saza ho sakti hai."
-        }
-      },
-      {
-        "term": { "en": "Right", "hi": "अधिकार (right)", "hg": "Right (adhikaar)" },
-        "def": {
-          "en": "Something every person is entitled to, such as safety, education and privacy. Nobody can take it away just because you are young.",
-          "hi": "ऐसी चीज़ जिस पर हर इंसान का हक़ है, जैसे सुरक्षा, पढ़ाई और निजता। सिर्फ़ इसलिए कि तुम छोटे हो, कोई इसे छीन नहीं सकता।",
-          "hg": "Aisi cheez jis par har insaan ka haq hai, jaise safety, education aur privacy. Sirf isliye ki tum chhote ho, koi isse chheen nahi sakta."
-        }
-      },
-      {
-        "term": { "en": "POCSO Act", "hi": "पॉक्सो क़ानून (POCSO Act)", "hg": "POCSO Act" },
-        "def": {
-          "en": "India's law that protects everyone under 18 from sexual offences. Its full name is the Protection of Children from Sexual Offences Act, 2012.",
-          "hi": "भारत का वह क़ानून जो 18 से कम उम्र के हर इंसान को यौन अपराधों से बचाता है। इसका पूरा नाम है लैंगिक अपराधों से बालकों का संरक्षण अधिनियम, 2012।",
-          "hg": "India ka woh law jo 18 se kam umar ke har insaan ko sexual offences se protect karta hai. Iska poora naam hai Protection of Children from Sexual Offences Act, 2012."
-        }
-      },
-      {
-        "term": { "en": "Child (in law)", "hi": "बच्चा (क़ानून में)", "hg": "Child (law mein)" },
-        "def": {
-          "en": "Under POCSO, any person who has not yet turned 18, even if they look or feel grown up.",
-          "hi": "पॉक्सो के तहत हर वह इंसान जो अभी 18 साल का नहीं हुआ, चाहे वह बड़ा दिखता हो या बड़ा महसूस करता हो।",
-          "hg": "POCSO ke under har woh insaan jo abhi 18 saal ka nahi hua, chahe woh bada dikhta ho ya bada feel karta ho."
-        }
-      },
-      {
-        "term": { "en": "Helpline", "hi": "हेल्पलाइन", "hg": "Helpline" },
-        "def": {
-          "en": "A phone number you can call for help, such as 1098 for children or 112 in an emergency. The call is free.",
-          "hi": "ऐसा फ़ोन नंबर जिस पर मदद के लिए कॉल किया जा सकता है, जैसे बच्चों के लिए 1098 या आपात स्थिति में 112। कॉल मुफ़्त होती है।",
-          "hg": "Aisa phone number jis par help ke liye call kiya ja sakta hai, jaise bachchon ke liye 1098 ya emergency mein 112. Call free hoti hai."
-        }
-      },
-      {
-        "term": { "en": "Mandatory reporting", "hi": "अनिवार्य रिपोर्टिंग (mandatory reporting)", "hg": "Mandatory reporting" },
-        "def": {
-          "en": "The rule that an adult who knows a child has been sexually harmed must tell the police. They cannot keep it secret.",
-          "hi": "वह नियम जिसके तहत जिस बड़े को पता हो कि किसी बच्चे के साथ यौन नुक़सान हुआ है, उसे पुलिस को बताना ही होता है। वह इसे राज़ नहीं रख सकता।",
-          "hg": "Woh rule jiske under jis adult ko pata ho ki kisi bachche ke saath sexual harm hua hai, usse police ko batana hi hota hai. Woh isse secret nahi rakh sakta."
-        }
-      }
-    ]
+ {
+  "id": "d16-g1",
+  "domain": "d16",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "title": {
+   "en": "Law Words Made Simple",
+   "hg": "Law ke Words, Simple Bhasha Mein"
   },
-  {
-    "id": "d16-g2",
-    "domain": "d16",
-    "tracks": ["C", "D", "E"],
-    "title": {
-      "en": "Legal System Terms",
-      "hi": "क़ानूनी व्यवस्था के शब्द",
-      "hg": "Legal System ke Terms"
+  "terms": [
+   {
+    "term": {
+     "en": "Law",
+     "hg": "Law (kanoon)"
     },
-    "terms": [
-      {
-        "term": { "en": "FIR (First Information Report)", "hi": "प्रथम सूचना रिपोर्ट (FIR)", "hg": "FIR (First Information Report)" },
-        "def": {
-          "en": "The written record the police make when told about a serious offence. It starts the investigation, and the person reporting is entitled to a free copy.",
-          "hi": "वह लिखित रिकॉर्ड जो पुलिस किसी गंभीर अपराध की सूचना मिलने पर बनाती है। इसी से जाँच शुरू होती है, और शिकायत करने वाले को इसकी मुफ़्त प्रति पाने का हक़ है।",
-          "hg": "Woh written record jo police kisi serious offence ki information milne par banati hai. Isi se investigation shuru hoti hai, aur report karne wale ko iski free copy milne ka haq hai."
-        }
-      },
-      {
-        "term": { "en": "Bharatiya Nyaya Sanhita (BNS)", "hi": "भारतीय न्याय संहिता (BNS)", "hg": "Bharatiya Nyaya Sanhita (BNS)" },
-        "def": {
-          "en": "India's main criminal code since 1 July 2024. It replaced the Indian Penal Code and defines offences such as rape, sexual harassment, voyeurism and stalking.",
-          "hi": "1 जुलाई 2024 से भारत का मुख्य आपराधिक क़ानून। इसने भारतीय दंड संहिता की जगह ली और बलात्कार, यौन उत्पीड़न, ताक-झाँक और पीछा करने जैसे अपराधों की परिभाषा देता है।",
-          "hg": "1 July 2024 se India ka main criminal code. Isne Indian Penal Code ki jagah li aur rape, sexual harassment, voyeurism aur stalking jaise offences define karta hai."
-        }
-      },
-      {
-        "term": { "en": "Legal aid", "hi": "क़ानूनी सहायता (legal aid)", "hg": "Legal aid" },
-        "def": {
-          "en": "Free legal help, including a lawyer, provided through the Legal Services Authorities to women, children and others who qualify.",
-          "hi": "मुफ़्त क़ानूनी मदद, जिसमें वकील भी शामिल है, जो विधिक सेवा प्राधिकरणों के ज़रिए महिलाओं, बच्चों और दूसरे पात्र लोगों को मिलती है।",
-          "hg": "Free legal help, jisme lawyer bhi shaamil hai, jo Legal Services Authorities ke through women, children aur doosre eligible logon ko milti hai."
-        }
-      },
-      {
-        "term": { "en": "Confidentiality", "hi": "गोपनीयता (confidentiality)", "hg": "Confidentiality (gopniyata)" },
-        "def": {
-          "en": "A professional's duty to keep your information private. In India it has legal limits, such as mandatory reporting when someone under 18 is abused.",
-          "hi": "किसी पेशेवर का यह फ़र्ज़ कि वह आपकी जानकारी निजी रखे। भारत में इसकी क़ानूनी सीमाएँ हैं, जैसे 18 से कम उम्र के इंसान के शोषण पर अनिवार्य रिपोर्टिंग।",
-          "hg": "Kisi professional ki yeh duty ki woh tumhari information private rakhe. India mein iski legal limits hain, jaise 18 se kam umar ke insaan ke abuse par mandatory reporting."
-        }
-      },
-      {
-        "term": { "en": "MTP Act", "hi": "गर्भ का चिकित्सकीय समापन अधिनियम (MTP Act)", "hg": "MTP Act" },
-        "def": {
-          "en": "The Medical Termination of Pregnancy Act, 1971, amended in 2021, which sets the conditions under which abortion is legal in India.",
-          "hi": "गर्भ का चिकित्सकीय समापन अधिनियम, 1971, जिसमें 2021 में संशोधन हुआ, और जो तय करता है कि भारत में गर्भपात किन शर्तों पर क़ानूनी है।",
-          "hg": "Medical Termination of Pregnancy Act, 1971, jisme 2021 mein amendment hua, aur jo decide karta hai ki India mein abortion kin conditions par legal hai."
-        }
-      },
-      {
-        "term": { "en": "Special Juvenile Police Unit (SJPU)", "hi": "विशेष किशोर पुलिस इकाई (SJPU)", "hg": "Special Juvenile Police Unit (SJPU)" },
-        "def": {
-          "en": "A police unit trained to handle matters involving children. Offences under POCSO can be reported to it or to the local police.",
-          "hi": "पुलिस की वह इकाई जिसे बच्चों से जुड़े मामलों के लिए प्रशिक्षण मिला होता है। पॉक्सो के तहत अपराधों की सूचना इसे या स्थानीय पुलिस को दी जा सकती है।",
-          "hg": "Police ki woh unit jise bachchon se jude matters handle karne ki training mili hoti hai. POCSO ke under offences ki report isse ya local police ko di ja sakti hai."
-        }
-      }
-    ]
-  }
+    "def": {
+     "en": "A rule made by the government that everyone in the country must follow. Breaking it can lead to punishment.",
+     "hg": "Government ka banaya rule, jise desh ke har insaan ko follow karna hota hai. Isse todne par saza ho sakti hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Right",
+     "hg": "Right (adhikaar)"
+    },
+    "def": {
+     "en": "Something every person is entitled to, such as safety, education and privacy. Nobody can take it away just because you are young.",
+     "hg": "Aisi cheez jis par har insaan ka haq hai, jaise safety, education aur privacy. Sirf isliye ki tum chhote ho, koi isse chheen nahi sakta."
+    }
+   },
+   {
+    "term": {
+     "en": "POCSO Act",
+     "hg": "POCSO Act"
+    },
+    "def": {
+     "en": "India's law that protects everyone under 18 from sexual offences. Its full name is the Protection of Children from Sexual Offences Act, 2012.",
+     "hg": "India ka woh law jo 18 se kam umar ke har insaan ko sexual offences se protect karta hai. Iska poora naam hai Protection of Children from Sexual Offences Act, 2012."
+    }
+   },
+   {
+    "term": {
+     "en": "Child (in law)",
+     "hg": "Child (law mein)"
+    },
+    "def": {
+     "en": "Under POCSO, any person who has not yet turned 18, even if they look or feel grown up.",
+     "hg": "POCSO ke under har woh insaan jo abhi 18 saal ka nahi hua, chahe woh bada dikhta ho ya bada feel karta ho."
+    }
+   },
+   {
+    "term": {
+     "en": "Helpline",
+     "hg": "Helpline"
+    },
+    "def": {
+     "en": "A phone number you can call for help, such as 1098 for children or 112 in an emergency. The call is free.",
+     "hg": "Aisa phone number jis par help ke liye call kiya ja sakta hai, jaise bachchon ke liye 1098 ya emergency mein 112. Call free hoti hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Mandatory reporting",
+     "hg": "Mandatory reporting"
+    },
+    "def": {
+     "en": "The rule that an adult who knows a child has been sexually harmed must tell the police. They cannot keep it secret.",
+     "hg": "Woh rule jiske under jis adult ko pata ho ki kisi bachche ke saath sexual harm hua hai, usse police ko batana hi hota hai. Woh isse secret nahi rakh sakta."
+    }
+   }
+  ]
+ },
+ {
+  "id": "d16-g2",
+  "domain": "d16",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "Legal System Terms",
+   "hg": "Legal System ke Terms"
+  },
+  "terms": [
+   {
+    "term": {
+     "en": "FIR (First Information Report)",
+     "hg": "FIR (First Information Report)"
+    },
+    "def": {
+     "en": "The written record the police make when told about a serious offence. It starts the investigation, and the person reporting is entitled to a free copy.",
+     "hg": "Woh written record jo police kisi serious offence ki information milne par banati hai. Isi se investigation shuru hoti hai, aur report karne wale ko iski free copy milne ka haq hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Bharatiya Nyaya Sanhita (BNS)",
+     "hg": "Bharatiya Nyaya Sanhita (BNS)"
+    },
+    "def": {
+     "en": "India's main criminal code since 1 July 2024. It replaced the Indian Penal Code and defines offences such as rape, sexual harassment, voyeurism and stalking.",
+     "hg": "1 July 2024 se India ka main criminal code. Isne Indian Penal Code ki jagah li aur rape, sexual harassment, voyeurism aur stalking jaise offences define karta hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Legal aid",
+     "hg": "Legal aid"
+    },
+    "def": {
+     "en": "Free legal help, including a lawyer, provided through the Legal Services Authorities to women, children and others who qualify.",
+     "hg": "Free legal help, jisme lawyer bhi shaamil hai, jo Legal Services Authorities ke through women, children aur doosre eligible logon ko milti hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Confidentiality",
+     "hg": "Confidentiality (gopniyata)"
+    },
+    "def": {
+     "en": "A professional's duty to keep your information private. In India it has legal limits, such as mandatory reporting when someone under 18 is abused.",
+     "hg": "Kisi professional ki yeh duty ki woh tumhari information private rakhe. India mein iski legal limits hain, jaise 18 se kam umar ke insaan ke abuse par mandatory reporting."
+    }
+   },
+   {
+    "term": {
+     "en": "MTP Act",
+     "hg": "MTP Act"
+    },
+    "def": {
+     "en": "The Medical Termination of Pregnancy Act, 1971, amended in 2021, which sets the conditions under which abortion is legal in India.",
+     "hg": "Medical Termination of Pregnancy Act, 1971, jisme 2021 mein amendment hua, aur jo decide karta hai ki India mein abortion kin conditions par legal hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Special Juvenile Police Unit (SJPU)",
+     "hg": "Special Juvenile Police Unit (SJPU)"
+    },
+    "def": {
+     "en": "A police unit trained to handle matters involving children. Offences under POCSO can be reported to it or to the local police.",
+     "hg": "Police ki woh unit jise bachchon se jude matters handle karne ki training mili hoti hai. POCSO ke under offences ki report isse ya local police ko di ja sakti hai."
+    }
+   }
+  ]
+ }
 ]

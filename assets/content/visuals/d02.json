@@ -4,7 +4,6 @@
   "type": "grid",
   "title": {
    "en": "Puberty at a glance",
-   "hi": "प्यूबर्टी एक नज़र में",
    "hg": "Puberty ek nazar mein"
   },
   "items": [
@@ -12,12 +11,10 @@
     "icon": "growth",
     "label": {
      "en": "What it is",
-     "hi": "यह क्या है",
      "hg": "Yeh kya hai"
     },
     "text": {
      "en": "The years when a child's body slowly changes into an adult's body.",
-     "hi": "वे साल जब बच्चे का शरीर धीरे-धीरे बड़ों के शरीर में बदलता है।",
      "hg": "Woh saal jab bachche ki body dheere-dheere adult ki body mein badalti hai."
     }
    },
@@ -25,12 +22,10 @@
     "icon": "hourglass",
     "label": {
      "en": "It takes years",
-     "hi": "इसमें सालों लगते हैं",
      "hg": "Isme saalon lagte hain"
     },
     "text": {
      "en": "It is not one event. It usually takes two to five years from the first sign to the finish.",
-     "hi": "यह एक दिन की घटना नहीं है। पहले लक्षण से पूरा होने तक आम तौर पर दो से पाँच साल लगते हैं।",
      "hg": "Yeh ek din ka event nahi hai. Pehle sign se finish tak usually do se paanch saal lagte hain."
     }
    },
@@ -38,12 +33,10 @@
     "icon": "brain",
     "label": {
      "en": "The brain starts it",
-     "hi": "शुरुआत दिमाग़ से",
      "hg": "Start brain se hota hai"
     },
     "text": {
      "en": "The pituitary gland releases hormones that tell the ovaries or testes to make more oestrogen or testosterone.",
-     "hi": "पिट्यूटरी ग्रंथि हार्मोन छोड़ती है, जो अंडाशय को ज़्यादा एस्ट्रोजन या वृषण को ज़्यादा टेस्टोस्टेरोन बनाने का संदेश देते हैं।",
      "hg": "Pituitary gland hormones release karti hai, jo ovaries ko zyada oestrogen ya testes ko zyada testosterone banane ka message dete hain."
     }
    },
@@ -51,12 +44,10 @@
     "icon": "date",
     "label": {
      "en": "When it begins",
-     "hi": "कब शुरू होती है",
      "hg": "Kab start hoti hai"
     },
     "text": {
      "en": "Usually between 8 and 13 in girls and between 9 and 14 in boys. Anywhere in that range is normal.",
-     "hi": "लड़कियों में आम तौर पर 8 से 13 और लड़कों में 9 से 14 साल के बीच। इस दायरे में कभी भी शुरू होना सामान्य है।",
      "hg": "Ladkiyon mein usually 8 se 13 aur ladkon mein 9 se 14 ke beech. Is range mein kabhi bhi start hona normal hai."
     }
    },
@@ -64,12 +55,10 @@
     "icon": "family",
     "label": {
      "en": "Genes set the timing",
-     "hi": "समय जीन से तय होता है",
      "hg": "Timing genes se set hoti hai"
     },
     "text": {
      "en": "Timing depends mostly on family genes. You did not cause it, and you cannot stop it.",
-     "hi": "समय ज़्यादातर परिवार के जीन पर निर्भर है। यह तुम्हारी किसी बात से शुरू नहीं हुई, और तुम इसे रोक भी नहीं सकते।",
      "hg": "Timing zyadatar family genes par depend karti hai. Yeh tumhari wajah se start nahi hui, aur tum ise rok bhi nahi sakte."
     }
    },
@@ -77,12 +66,10 @@
     "icon": "doctor",
     "label": {
      "en": "When to get checked",
-     "hi": "कब जाँच करवानी है",
      "hg": "Kab check karwana hai"
     },
     "text": {
      "en": "If changes start before 8 in girls or 9 in boys, or have not started by 13 in girls or 14 in boys.",
-     "hi": "अगर बदलाव लड़कियों में 8 या लड़कों में 9 साल से पहले शुरू हों, या लड़कियों में 13 और लड़कों में 14 तक शुरू न हों।",
      "hg": "Agar changes ladkiyon mein 8 ya ladkon mein 9 se pehle start hon, ya ladkiyon mein 13 aur ladkon mein 14 tak start na hon."
     }
    }
@@ -93,13 +80,11 @@
   "type": "compare",
   "title": {
    "en": "Body care in puberty: do and avoid",
-   "hi": "प्यूबर्टी में शरीर की देखभाल: क्या करें, किससे बचें",
    "hg": "Puberty mein body care: kya karo, kya avoid karo"
   },
   "left": {
    "title": {
     "en": "Do",
-    "hi": "यह करो",
     "hg": "Yeh karo"
    },
    "tone": "good",
@@ -107,22 +92,18 @@
    "points": [
     {
      "en": "Bathe daily; wash armpits, groin and feet with soap, then dry well",
-     "hi": "रोज़ नहाओ; बगल, जाँघों के जोड़ और पैर साबुन से धोकर अच्छी तरह सुखाओ",
      "hg": "Roz nahao; armpits, groin aur pair soap se dhokar achhe se sukhao"
     },
     {
      "en": "Wear clean cotton underwear, socks and a fresh shirt each day",
-     "hi": "रोज़ साफ़ सूती अंडरवियर, मोज़े और धुली शर्ट पहनो",
      "hg": "Roz clean cotton underwear, socks aur fresh shirt pehno"
     },
     {
      "en": "Wash your face gently twice a day and keep your hands off pimples",
-     "hi": "दिन में दो बार चेहरा नरमी से धोओ और मुँहासों से हाथ दूर रखो",
      "hg": "Din mein do baar face gently wash karo aur pimples se haath door rakho"
     },
     {
      "en": "Eat regular meals with dal, eggs, milk or curd and vegetables, and sleep enough",
-     "hi": "दाल, अंडे, दूध या दही और सब्ज़ियों वाला नियमित खाना खाओ, और पूरी नींद लो",
      "hg": "Dal, ande, doodh ya dahi aur sabziyon wala regular khana khao, aur poori neend lo"
     }
    ]
@@ -130,7 +111,6 @@
   "right": {
    "title": {
     "en": "Avoid",
-    "hi": "इनसे बचो",
     "hg": "Yeh avoid karo"
    },
    "tone": "bad",
@@ -138,22 +118,18 @@
    "points": [
     {
      "en": "Spraying deodorant over unwashed skin; it only mixes two smells",
-     "hi": "बिना धुली त्वचा पर डिओडरेंट छिड़कना; इससे बस दो गंध मिल जाती हैं",
      "hg": "Bina dhuli skin par deodorant spray karna; isse bas do smells mix hoti hain"
     },
     {
      "en": "Squeezing pimples, which leaves scars",
-     "hi": "मुँहासे फोड़ना, जिससे दाग़ पड़ जाते हैं",
      "hg": "Pimples phodna, jisse scars pad jaate hain"
     },
     {
      "en": "Sharing a razor; if you shave, use your own clean one",
-     "hi": "रेज़र किसी के साथ बाँटना; शेव करो तो अपना साफ़ रेज़र लो",
      "hg": "Razor share karna; shave karo toh apna clean razor use karo"
     },
     {
      "en": "Counting on TV height drinks more than meals and sleep",
-     "hi": "खाने और नींद से ज़्यादा टीवी वाले हाइट ड्रिंक पर भरोसा करना",
      "hg": "Khane aur neend se zyada TV wale height drinks pe bharosa karna"
     }
    ]
@@ -164,7 +140,6 @@
   "type": "grid",
   "title": {
    "en": "Body events that arrive unannounced",
-   "hi": "बिना बताए आने वाली शरीर की घटनाएँ",
    "hg": "Body events jo bina bataye aate hain"
   },
   "items": [
@@ -172,12 +147,10 @@
     "icon": "growth",
     "label": {
      "en": "Breast buds",
-     "hi": "ब्रेस्ट बड",
      "hg": "Breast buds"
     },
     "text": {
      "en": "A small, firm, sometimes sore lump under the nipple, often one side first. Usually the first sign in girls.",
-     "hi": "निप्पल के नीचे छोटी, सख़्त, कभी-कभी दर्द वाली गाँठ, अक्सर पहले एक तरफ़। लड़कियों में आम तौर पर पहला लक्षण।",
      "hg": "Nipple ke neeche chhoti, firm, kabhi-kabhi dard wali lump, aksar pehle ek side. Ladkiyon mein usually pehla sign."
     }
    },
@@ -185,12 +158,10 @@
     "icon": "drop",
     "label": {
      "en": "The first period",
-     "hi": "पहला पीरियड",
      "hg": "Pehla period"
     },
     "text": {
      "en": "Usually about two years after breast buds. Bleeding lasts about 2 to 7 days, and early periods may be irregular.",
-     "hi": "आम तौर पर ब्रेस्ट बड के क़रीब दो साल बाद। ख़ून लगभग 2 से 7 दिन आता है, और शुरू के पीरियड अनियमित हो सकते हैं।",
      "hg": "Usually breast buds ke lagbhag do saal baad. Bleeding lagbhag 2 se 7 din chalti hai, aur shuru ke periods irregular ho sakte hain."
     }
    },
@@ -198,12 +169,10 @@
     "icon": "pad",
     "label": {
      "en": "Be ready",
-     "hi": "तैयार रहो",
      "hg": "Ready raho"
     },
     "text": {
      "en": "Whitish discharge often comes first. Keep a pad in your school bag once breasts start developing.",
-     "hi": "अक्सर पहले सफ़ेद-सा स्राव दिखता है। स्तनों का विकास शुरू होते ही स्कूल बैग में एक पैड रखो।",
      "hg": "Aksar pehle whitish discharge dikhta hai. Breast development start hote hi school bag mein ek pad rakho."
     }
    },
@@ -211,12 +180,10 @@
     "icon": "body",
     "label": {
      "en": "Genitals change too",
-     "hi": "जननांग भी बदलते हैं",
      "hg": "Genitals bhi badalte hain"
     },
     "text": {
      "en": "Testes and penis grow, labia grow and may darken, and pubic hair appears. No two people look the same.",
-     "hi": "वृषण और लिंग बढ़ते हैं, लेबिया बढ़ते हैं और गहरे हो सकते हैं, और जननांगों के पास बाल आने लगते हैं। हर किसी के जननांग अलग दिखते हैं।",
      "hg": "Testes aur penis grow karte hain, labia grow karte hain aur dark ho sakte hain, aur pubic hair aate hain. Har kisi ke genitals alag dikhte hain."
     }
    },
@@ -224,12 +191,10 @@
     "icon": "clock",
     "label": {
      "en": "Erections",
-     "hi": "इरेक्शन",
      "hg": "Erections"
     },
     "text": {
      "en": "Extra blood makes the penis firmer for a while. In puberty they come often, even randomly, and go down on their own.",
-     "hi": "ज़्यादा ख़ून भरने से लिंग कुछ देर के लिए सख़्त हो जाता है। प्यूबर्टी में ये अक्सर, बिना वजह भी होते हैं और अपने आप बैठ जाते हैं।",
      "hg": "Extra blood bharne se penis thodi der ke liye firm ho jaata hai. Puberty mein yeh aksar, bina reason bhi hote hain aur apne aap chale jaate hain."
     }
    },
@@ -237,12 +202,10 @@
     "icon": "sleep",
     "label": {
      "en": "Wet dreams",
-     "hi": "स्वप्नदोष",
      "hg": "Wet dreams"
     },
     "text": {
      "en": "Semen comes out during sleep. It is not urine, not a choice, and nothing to feel guilty about. Just change and wash.",
-     "hi": "नींद में लिंग से वीर्य निकलता है। यह पेशाब नहीं है, तुम्हारे बस में नहीं है, और इसमें अपराध-बोध की कोई बात नहीं। बस कपड़े बदलो और धो लो।",
      "hg": "Neend mein penis se semen nikalta hai. Yeh urine nahi hai, tumhare control mein nahi hai, aur guilty feel karne wali koi baat nahi. Bas kapde change karo aur wash karo."
     }
    }
@@ -253,13 +216,11 @@
   "type": "compare",
   "title": {
    "en": "Mood swing or something more?",
-   "hi": "मूड स्विंग या उससे ज़्यादा कुछ?",
    "hg": "Mood swing ya kuch zyada?"
   },
   "left": {
    "title": {
     "en": "Ordinary mood swings",
-    "hi": "आम मूड स्विंग",
     "hg": "Normal mood swings"
    },
    "tone": "neutral",
@@ -267,22 +228,18 @@
    "points": [
     {
      "en": "Feelings feel bigger because hormones rise and swing unevenly",
-     "hi": "हार्मोन बढ़ते और ऊपर-नीचे होते हैं, इसलिए भावनाएँ ज़्यादा तेज़ लगती हैं",
      "hg": "Hormones badhte aur upar-neeche hote hain, isliye feelings zyada strong lagti hain"
     },
     {
      "en": "They pass within hours or a day or two",
-     "hi": "ये कुछ घंटों या एक-दो दिन में गुज़र जाते हैं",
      "hg": "Yeh kuch ghanton ya ek-do din mein nikal jaate hain"
     },
     {
      "en": "In between, you still enjoy things",
-     "hi": "बीच-बीच में चीज़ों में मज़ा आता रहता है",
      "hg": "Beech-beech mein cheezein enjoy hoti rehti hain"
     },
     {
      "en": "Too little sleep can add irritability and low mood",
-     "hi": "कम नींद से चिड़चिड़ापन और उदासी बढ़ सकती है",
      "hg": "Kam neend se chidchidapan aur low mood badh sakta hai"
     }
    ]
@@ -290,7 +247,6 @@
   "right": {
    "title": {
     "en": "Time to get support",
-    "hi": "मदद लेने का समय",
     "hg": "Support lene ka time"
    },
    "tone": "bad",
@@ -298,22 +254,18 @@
    "points": [
     {
      "en": "Sadness, emptiness, anger or worry most of the day for two weeks or more",
-     "hi": "दो हफ़्ते या उससे ज़्यादा, दिन के ज़्यादातर समय उदासी, ख़ालीपन, ग़ुस्सा या चिंता",
      "hg": "Do hafte ya usse zyada, din ke zyadatar hisse mein sadness, khaalipan, gussa ya tension"
     },
     {
      "en": "No longer enjoying anything, or big changes in sleep or eating",
-     "hi": "किसी भी चीज़ में मज़ा न आना, या नींद या खाने में बड़ा बदलाव",
      "hg": "Kisi bhi cheez mein maza na aana, ya neend ya khane mein bada change"
     },
     {
      "en": "Avoiding school or friends",
-     "hi": "स्कूल या दोस्तों से कतराना",
      "hg": "School ya friends ko avoid karna"
     },
     {
      "en": "Any thought of hurting yourself: tell an adult now and call Tele-MANAS 14416",
-     "hi": "ख़ुद को नुक़सान पहुँचाने का कोई भी ख़याल: अभी किसी बड़े को बताओ और टेली-मानस 14416 पर फ़ोन करो",
      "hg": "Khud ko hurt karne ka koi bhi khayal: abhi kisi adult ko batao aur Tele-MANAS 14416 pe call karo"
     }
    ]
@@ -324,7 +276,6 @@
   "type": "steps",
   "title": {
    "en": "Saying no to peer pressure",
-   "hi": "दोस्तों के दबाव को 'ना' कहना",
    "hg": "Peer pressure ko no kehna"
   },
   "items": [
@@ -332,12 +283,10 @@
     "icon": "search",
     "label": {
      "en": "Spot the pressure",
-     "hi": "दबाव पहचानो",
      "hg": "Pressure pehchano"
     },
     "text": {
      "en": "It is not always a dare. Teasing, being left out or hearing 'everyone has done it' count too.",
-     "hi": "दबाव हमेशा चुनौती नहीं होता। चिढ़ाना, अलग-थलग कर देना या 'सबने कर लिया है' सुनाना भी दबाव है।",
      "hg": "Pressure hamesha dare nahi hota. Tease karna, left out kar dena ya 'sabne kar liya hai' sunana bhi pressure hai."
     }
    },
@@ -345,12 +294,10 @@
     "icon": "idea",
     "label": {
      "en": "Question the claim",
-     "hi": "दावे पर सवाल करो",
      "hg": "Claim ko check karo"
     },
     "text": {
      "en": "'Everyone is doing it' is usually exaggerated. Far fewer people are dating than the talk suggests.",
-     "hi": "'सब कर रहे हैं' अक्सर बढ़ा-चढ़ाकर कहा जाता है। जितनी बातें होती हैं, उससे कहीं कम लोग डेट कर रहे होते हैं।",
      "hg": "'Sab kar rahe hain' aksar badha-chadhakar bola jaata hai. Jitni baatein hoti hain, usse kahin kam log date kar rahe hote hain."
     }
    },
@@ -358,12 +305,10 @@
     "icon": "no",
     "label": {
      "en": "Say no, keep it short",
-     "hi": "छोटा-सा 'ना' बोलो",
      "hg": "Short mein no bolo"
     },
     "text": {
      "en": "No long explanation needed. 'Not my thing' or 'I don't want to' is enough.",
-     "hi": "लंबी सफ़ाई की ज़रूरत नहीं। 'मुझे इसमें दिलचस्पी नहीं' या 'मुझे नहीं करना' काफ़ी है।",
      "hg": "Lamba explanation zaroori nahi. 'Not my thing' ya 'mujhe nahi karna' kaafi hai."
     }
    },
@@ -371,12 +316,10 @@
     "icon": "run",
     "label": {
      "en": "Walk away or use an exit",
-     "hi": "निकल जाओ या बहाना बनाओ",
      "hg": "Nikal jao ya exit lo"
     },
     "text": {
      "en": "You can simply walk away. Blaming a strict parent is a perfectly good exit.",
-     "hi": "तुम बस वहाँ से जा सकते हो। सख़्त मम्मी-पापा का बहाना बनाना भी निकलने का बिल्कुल ठीक तरीक़ा है।",
      "hg": "Tum bas wahan se nikal sakte ho. Strict parents ka bahana banana bhi ek perfectly fine exit hai."
     }
    },
@@ -384,12 +327,10 @@
     "icon": "friends",
     "label": {
      "en": "Real friends accept a no",
-     "hi": "सच्चे दोस्त 'ना' मानते हैं",
      "hg": "Real friends no accept karte hain"
     },
     "text": {
      "en": "Friends who drop you for a no were offering membership, not friendship. Waiting is always a valid choice.",
-     "hi": "जो दोस्त एक 'ना' पर छोड़ दें, वे दोस्ती नहीं, मेंबरशिप दे रहे थे। इंतज़ार करना हमेशा एक सही विकल्प है।",
      "hg": "Jo friends ek no par drop kar dein, woh friendship nahi, membership de rahe the. Wait karna hamesha valid choice hai."
     }
    }
@@ -400,7 +341,6 @@
   "type": "steps",
   "title": {
    "en": "Checking puberty timing, step by step",
-   "hi": "प्यूबर्टी के समय की जाँच, क़दम-दर-क़दम",
    "hg": "Puberty timing ka check-up, step by step"
   },
   "items": [
@@ -408,12 +348,10 @@
     "icon": "date",
     "label": {
      "en": "Know the check-up lines",
-     "hi": "जाँच की सीमाएँ जानो",
      "hg": "Check-up lines jaano"
     },
     "text": {
      "en": "Signs before 8 in girls or 9 in boys, none by 13 or 14, or no period by 15.",
-     "hi": "लड़कियों में 8 या लड़कों में 9 से पहले लक्षण, 13 या 14 तक कोई लक्षण नहीं, या 15 तक पीरियड नहीं।",
      "hg": "Ladkiyon mein 8 ya ladkon mein 9 se pehle signs, 13 ya 14 tak koi sign nahi, ya 15 tak period nahi."
     }
    },
@@ -421,12 +359,10 @@
     "icon": "height",
     "label": {
      "en": "Questions and measuring",
-     "hi": "सवाल और नाप-जोख",
      "hg": "Sawaal aur measurement"
     },
     "text": {
      "en": "A doctor asks about growth and family history, measures height and weight, and plots them on a growth chart.",
-     "hi": "डॉक्टर बढ़त और परिवार के इतिहास के बारे में पूछते हैं, लंबाई और वज़न नापते हैं और उन्हें ग्रोथ चार्ट पर दर्ज करते हैं।",
      "hg": "Doctor growth aur family history ke baare mein poochte hain, height aur weight measure karte hain aur growth chart par plot karte hain."
     }
    },
@@ -434,12 +370,10 @@
     "icon": "doctor",
     "label": {
      "en": "Checking the stage",
-     "hi": "विकास की स्टेज की जाँच",
      "hg": "Development stage ka check"
     },
     "text": {
      "en": "They examine the stage of development. You can ask for a parent or nurse present and each step explained.",
-     "hi": "वे विकास की स्टेज जाँचते हैं। तुम कह सकते हो कि मम्मी-पापा या नर्स साथ रहें और हर क़दम पहले समझाया जाए।",
      "hg": "Woh development ki stage check karte hain. Tum bol sakte ho ki mummy-papa ya nurse saath rahein aur har step pehle explain ho."
     }
    },
@@ -447,12 +381,10 @@
     "icon": "test",
     "label": {
      "en": "Common tests",
-     "hi": "आम जाँचें",
      "hg": "Common tests"
     },
     "text": {
      "en": "Blood tests for hormone levels, and an X-ray of the left hand and wrist to estimate bone age.",
-     "hi": "हार्मोन के स्तर के लिए ख़ून की जाँच, और हड्डियों की उम्र के अंदाज़े के लिए बाएँ हाथ और कलाई का एक्स-रे।",
      "hg": "Hormone levels ke liye blood test, aur bone age estimate karne ke liye left haath aur wrist ka X-ray."
     }
    },
@@ -460,12 +392,10 @@
     "icon": "eye",
     "label": {
      "en": "Watching, or specialist care",
-     "hi": "निगरानी या विशेषज्ञ का इलाज",
      "hg": "Monitoring ya specialist care"
     },
     "text": {
      "en": "Many people need only monitoring. Any hormone treatment is prescribed and supervised by a specialist.",
-     "hi": "बहुत लोगों को सिर्फ़ निगरानी चाहिए होती है। हार्मोन का कोई भी इलाज विशेषज्ञ ही लिखते हैं और उसकी निगरानी करते हैं।",
      "hg": "Bahut logon ko sirf monitoring chahiye hoti hai. Koi bhi hormone treatment specialist hi prescribe aur supervise karte hain."
     }
    }

@@ -12,30 +12,25 @@
   "type": "scenario",
   "q": {
    "en": "Your friend Anu does not want to hold hands in the school line. What should you do?",
-   "hi": "तुम्हारी दोस्त अनु स्कूल की लाइन में हाथ नहीं पकड़ना चाहती। तुम्हें क्या करना चाहिए?",
    "hg": "Tumhari dost Anu school ki line mein haath nahi pakadna chahti. Tumhe kya karna chahiye?"
   },
   "options": [
    {
     "en": "Hold her hand anyway",
-    "hi": "फिर भी उसका हाथ पकड़ लो",
     "hg": "Phir bhi uska haath pakad lo"
    },
    {
     "en": "Say 'okay' and walk next to her",
-    "hi": "'ठीक है' कहो और उसके साथ-साथ चलो",
     "hg": "'Okay' bolo aur uske saath-saath chalo"
    },
    {
     "en": "Tell her you are not her friend any more",
-    "hi": "उससे कह दो कि अब तुम उसके दोस्त नहीं हो",
     "hg": "Usse bol do ki ab tum uske dost nahi ho"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "Anu is the boss of her body. Saying okay shows you respect her, and you can still be friends.",
-   "hi": "अनु अपने शरीर की बॉस है। 'ठीक है' कहना बताता है कि तुम उसका सम्मान करते हो, और तुम फिर भी दोस्त रह सकते हो।",
    "hg": "Anu apni body ki boss hai. 'Okay' bolna dikhata hai ki tum uski respect karte ho, aur tum phir bhi dost reh sakte ho."
   }
  },
@@ -52,30 +47,25 @@
   "type": "mcq",
   "q": {
    "en": "Which of these is a safe secret?",
-   "hi": "इनमें से सुरक्षित राज़ कौन-सा है?",
    "hg": "Inme se safe secret kaun sa hai?"
   },
   "options": [
    {
     "en": "An older girl saying 'don't tell anyone that I message you'",
-    "hi": "किसी बड़ी लड़की का कहना, 'किसी को मत बताना कि मैं तुम्हें मैसेज करती हूँ'",
     "hg": "Kisi badi ladki ka bolna, 'kisi ko mat batana ki main tumhe message karti hoon'"
    },
    {
     "en": "A neighbour giving you money to stay quiet about a 'game'",
-    "hi": "पड़ोसी का किसी 'खेल' के बारे में चुप रहने के लिए पैसे देना",
     "hg": "Padosi ka kisi 'game' ke baare mein chup rehne ke liye paise dena"
    },
    {
     "en": "Planning a surprise birthday party for your sister",
-    "hi": "अपनी बहन के लिए सरप्राइज़ बर्थडे पार्टी की तैयारी",
     "hg": "Apni behen ke liye surprise birthday party ki planning"
    }
   ],
   "answer": 2,
   "explain": {
    "en": "A safe secret ends soon and makes people happy. Secrets about messages, money or games with an older person are unsafe and should be told.",
-   "hi": "सुरक्षित राज़ जल्दी ख़त्म हो जाता है और लोगों को ख़ुशी देता है। किसी बड़े के साथ मैसेज, पैसे या खेल वाले राज़ असुरक्षित हैं और बता देने चाहिए।",
    "hg": "Safe secret jaldi khatam ho jaata hai aur logon ko khush karta hai. Kisi bade ke saath messages, paise ya game wale secrets unsafe hain aur bata dene chahiye."
   }
  },
@@ -92,35 +82,29 @@
   "type": "mcq",
   "q": {
    "en": "Which of these is an example of coercion?",
-   "hi": "इनमें से ज़बरदस्ती (coercion) का उदाहरण कौन-सा है?",
    "hg": "Inme se coercion ka example kaun sa hai?"
   },
   "options": [
    {
     "en": "Asking once and accepting the answer",
-    "hi": "एक बार पूछना और जवाब मान लेना",
     "hg": "Ek baar poochna aur jawab accept kar lena"
    },
    {
     "en": "Saying 'no problem' when someone refuses",
-    "hi": "किसी के मना करने पर 'कोई बात नहीं' कहना",
     "hg": "Kisi ke mana karne par 'koi baat nahi' bolna"
    },
    {
     "en": "Checking whether the other person is comfortable",
-    "hi": "पूछना कि सामने वाला सहज है या नहीं",
     "hg": "Check karna ki saamne wala comfortable hai ya nahi"
    },
    {
     "en": "Saying 'I'll tell everyone your secret if you don't agree'",
-    "hi": "कहना, 'नहीं माने तो मैं तुम्हारा राज़ सबको बता दूँगा'",
     "hg": "Bolna, 'nahi maane toh main tumhara secret sabko bata doonga'"
    }
   ],
   "answer": 3,
   "explain": {
    "en": "A threat takes away the freedom to refuse. Any yes that follows it is not consent.",
-   "hi": "धमकी मना करने की आज़ादी छीन लेती है। उसके बाद मिली कोई भी 'हाँ' सहमति नहीं है।",
    "hg": "Dhamki mana karne ki freedom chheen leti hai. Uske baad mili koi bhi yes consent nahi hai."
   }
  },
@@ -137,25 +121,21 @@
   "type": "tf",
   "q": {
    "en": "Under the POCSO Act, an adult's sexual activity with a 17-year-old is an offence even if the 17-year-old said yes.",
-   "hi": "पॉक्सो क़ानून के तहत किसी वयस्क का 17 साल के इंसान के साथ यौन संबंध अपराध है, चाहे 17 साल के उस इंसान ने 'हाँ' कही हो।",
    "hg": "POCSO Act ke under kisi adult ki 17 saal ke insaan ke saath sexual activity offence hai, chahe us 17 saal ke insaan ne 'yes' bola ho."
   },
   "options": [
    {
     "en": "True",
-    "hi": "सही",
     "hg": "Sahi"
    },
    {
     "en": "False",
-    "hi": "ग़लत",
     "hg": "Galat"
    }
   ],
   "answer": 0,
   "explain": {
    "en": "POCSO treats everyone under 18 as a child, and a child's agreement is not legal consent to sexual activity.",
-   "hi": "पॉक्सो 18 से कम उम्र के हर इंसान को बच्चा मानता है, और बच्चे की रज़ामंदी यौन गतिविधि के लिए क़ानूनी सहमति नहीं है।",
    "hg": "POCSO 18 se kam umar ke har insaan ko child maanta hai, aur child ka agreement sexual activity ke liye legal consent nahi hai."
   }
  },
@@ -173,35 +153,29 @@
   "type": "mcq",
   "q": {
    "en": "Which Indian law lets a married woman seek civil remedies, such as a protection order, for sexual abuse by her husband?",
-   "hi": "कौन-सा भारतीय क़ानून विवाहित महिला को पति द्वारा यौन शोषण के ख़िलाफ़ संरक्षण आदेश जैसे दीवानी उपाय माँगने देता है?",
    "hg": "Kaun sa Indian law married woman ko husband ke sexual abuse ke khilaaf protection order jaise civil remedies maangne deta hai?"
   },
   "options": [
    {
     "en": "Medical Termination of Pregnancy Act, 1971",
-    "hi": "गर्भ का चिकित्सकीय समापन अधिनियम, 1971",
     "hg": "Medical Termination of Pregnancy Act, 1971"
    },
    {
     "en": "Information Technology Act, 2000",
-    "hi": "सूचना प्रौद्योगिकी अधिनियम, 2000",
     "hg": "Information Technology Act, 2000"
    },
    {
     "en": "Protection of Women from Domestic Violence Act, 2005",
-    "hi": "घरेलू हिंसा से महिलाओं का संरक्षण अधिनियम, 2005",
     "hg": "Protection of Women from Domestic Violence Act, 2005"
    },
    {
     "en": "POCSO Act, 2012",
-    "hi": "पॉक्सो अधिनियम, 2012",
     "hg": "POCSO Act, 2012"
    }
   ],
   "answer": 2,
   "explain": {
    "en": "The domestic violence law covers physical, emotional, economic and sexual abuse within the home and offers remedies outside the criminal definition of rape.",
-   "hi": "घरेलू हिंसा क़ानून घर के भीतर शारीरिक, भावनात्मक, आर्थिक और यौन शोषण को शामिल करता है और बलात्कार की आपराधिक परिभाषा से बाहर भी उपाय देता है।",
    "hg": "Domestic violence law ghar ke andar physical, emotional, economic aur sexual abuse ko cover karta hai aur rape ki criminal definition ke bahar bhi remedies deta hai."
   }
  },
@@ -220,35 +194,29 @@
   "type": "mcq",
   "q": {
    "en": "A friend tells you they were harassed on the way home. Which question should you avoid?",
-   "hi": "एक दोस्त बताता है कि घर लौटते समय उसके साथ छेड़छाड़ हुई। कौन-सा सवाल आपको नहीं पूछना चाहिए?",
    "hg": "Ek dost batata hai ki ghar lautte waqt uske saath harassment hua. Kaun sa sawaal tumhe nahi poochna chahiye?"
   },
   "options": [
    {
     "en": "'Why were you out there alone?'",
-    "hi": "'तुम वहाँ अकेले क्या कर रहे थे?'",
     "hg": "'Tum wahan akele kya kar rahe the?'"
    },
    {
     "en": "'What do you need right now?'",
-    "hi": "'इस वक़्त तुम्हें क्या चाहिए?'",
     "hg": "'Abhi tumhe kya chahiye?'"
    },
    {
     "en": "'Do you want me to come with you to tell someone?'",
-    "hi": "'क्या मैं किसी को बताने तुम्हारे साथ चलूँ?'",
     "hg": "'Kya main kisi ko batane tumhare saath chaloon?'"
    },
    {
     "en": "'Would you like to sit somewhere quiet?'",
-    "hi": "'क्या तुम किसी शांत जगह बैठना चाहोगे?'",
     "hg": "'Kya tum kisi quiet jagah baithna chahoge?'"
    }
   ],
   "answer": 0,
   "explain": {
    "en": "'Why' questions about the survivor's choices sound like blame. The harasser is the only one responsible.",
-   "hi": "पीड़ित के फ़ैसलों पर 'क्यों' वाले सवाल इल्ज़ाम जैसे लगते हैं। ज़िम्मेदार सिर्फ़ छेड़छाड़ करने वाला है।",
    "hg": "Survivor ke choices par 'kyun' wale sawaal blame jaise lagte hain. Zimmedar sirf harass karne wala hai."
   }
  }

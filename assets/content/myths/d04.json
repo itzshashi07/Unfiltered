@@ -14,18 +14,15 @@
   ],
   "claim": {
    "en": "A wet dream means you were thinking dirty thoughts.",
-   "hi": "स्वप्नदोष का मतलब है कि आप गंदी बातें सोच रहे थे।",
    "hg": "Wet dream ka matlab hai aap gandi baatein soch rahe the."
   },
   "verdict": "myth",
   "fact": {
    "en": "Wet dreams are an automatic body event in puberty. The body has begun producing semen and releases some during sleep, with or without a dream that the person remembers. They cannot be started or stopped by willpower, and they say nothing about a person's thoughts or character. Some people have them often, some never, and both are normal.",
-   "hi": "वेट ड्रीम यौवन में शरीर की अपने-आप होने वाली घटना है। शरीर वीर्य बनाना शुरू कर चुका होता है और नींद में उसका कुछ हिस्सा बाहर निकाल देता है, चाहे कोई सपना याद रहे या न रहे। इन्हें इच्छाशक्ति से न शुरू किया जा सकता है, न रोका जा सकता है, और इनसे किसी के विचारों या चरित्र के बारे में कुछ पता नहीं चलता। कुछ लोगों को ये अक्सर होते हैं, कुछ को कभी नहीं, और दोनों सामान्य हैं।",
    "hg": "Wet dreams puberty mein body ka ek automatic event hain. Body semen banana start kar chuki hoti hai aur neend mein uska kuch hissa release kar deti hai, chahe koi sapna yaad rahe ya na rahe. Inhe willpower se na start kiya ja sakta hai, na roka ja sakta hai, aur inse kisi ke thoughts ya character ke baare mein kuch pata nahi chalta. Kuch logon ko yeh aksar hote hain, kuch ko kabhi nahi, aur dono normal hain."
   },
   "why": {
    "en": "The common Hindi word swapnadosh contains the word 'dosh', meaning fault, so the name itself suggests a boy has done something wrong. Silence at home leaves that idea uncorrected.",
-   "hi": "हिंदी के आम शब्द 'स्वप्नदोष' में ही 'दोष' यानी ग़लती शब्द है, इसलिए नाम से ही लगता है कि लड़के ने कुछ ग़लत किया है। घर में इस पर चुप्पी रहती है, तो यह धारणा सुधर नहीं पाती।",
    "hg": "Hindi ke common word 'swapnadosh' mein hi 'dosh' yaani galti word hai, isliye naam se hi lagta hai ki ladke ne kuch galat kiya hai. Ghar mein is pe chuppi rehti hai, toh yeh idea correct nahi ho paata."
   },
   "refs": [
@@ -48,18 +45,15 @@
   "body": [],
   "claim": {
    "en": "Masturbation causes weakness, memory loss and blindness.",
-   "hi": "हस्तमैथुन से कमज़ोरी आती है, याददाश्त घटती है और अंधापन होता है।",
    "hg": "Masturbation se weakness aati hai, memory kam hoti hai aur andhapan hota hai."
   },
   "verdict": "myth",
   "fact": {
    "en": "Medical science has found no evidence that masturbation damages muscles, eyes, memory, skin, hair or growth. It involves a small release of fluid and a short rise in heart rate, after which the body returns to normal. Feeling drained usually comes from guilt, poor sleep or anxiety. It becomes a health concern only if it causes distress, injury or interferes with daily life.",
-   "hi": "डॉक्टरी विज्ञान को ऐसा कोई सबूत नहीं मिला है कि हस्तमैथुन से मांसपेशियों, आँखों, याददाश्त, त्वचा, बालों या क़द को नुक़सान होता है। इसमें थोड़ा-सा तरल निकलता है और दिल की धड़कन कुछ देर के लिए बढ़ती है, जिसके बाद शरीर सामान्य हो जाता है। थका-थका लगना आम तौर पर अपराध-बोध, कम नींद या घबराहट से होता है। यह सेहत की चिंता तभी बनता है जब इससे परेशानी या चोट हो या रोज़मर्रा की ज़िंदगी में रुकावट आए।",
    "hg": "Medical science ko aisa koi evidence nahi mila hai ki masturbation se muscles, aankhon, memory, skin, baalon ya growth ko nuksaan hota hai. Isme thoda sa fluid nikalta hai aur heart rate kuch der ke liye badhti hai, jiske baad body normal ho jaati hai. Drained feel hona usually guilt, kam neend ya anxiety se hota hai. Yeh health concern tabhi banta hai jab isse distress ya injury ho ya daily life mein rukaavat aaye."
   },
   "why": {
    "en": "Old medical books and some advertisements for sex clinics spread these claims for generations, and fear was used to discourage teenagers. Because nobody talks about it openly, the claims are rarely checked.",
-   "hi": "पुरानी डॉक्टरी किताबों और सेक्स क्लिनिकों के कुछ विज्ञापनों ने पीढ़ियों तक ये दावे फैलाए, और किशोरों को रोकने के लिए डर का सहारा लिया गया। चूँकि इस पर कोई खुलकर बात नहीं करता, इसलिए इन दावों की जाँच शायद ही होती है।",
    "hg": "Purani medical books aur sex clinics ke kuch ads ne generations tak yeh claims phailaye, aur teenagers ko rokne ke liye darr ka use kiya gaya. Kyunki is pe koi khulke baat nahi karta, isliye in claims ki checking shayad hi hoti hai."
   },
   "refs": [
@@ -84,18 +78,15 @@
   ],
   "claim": {
    "en": "One drop of semen is made from many drops of blood, so losing it drains your strength.",
-   "hi": "वीर्य की एक बूँद खून की कई बूँदों से बनती है, इसलिए इसके निकलने से ताक़त ख़त्म हो जाती है।",
    "hg": "Semen ki ek boond khoon ki kai boondon se banti hai, isliye iske nikalne se taakat khatam ho jaati hai."
   },
   "verdict": "myth",
   "fact": {
    "en": "Semen is not made from blood. It is fluid from the seminal vesicles and prostate gland, mostly water with sugars and proteins, plus a small volume of sperm from the testes. The body replaces it continuously. Releasing it through wet dreams, masturbation or sex does not reduce strength, immunity or lifespan. Persistent fear about this is called dhat anxiety and is treatable.",
-   "hi": "वीर्य खून से नहीं बनता। यह सेमिनल वेसिकल और प्रोस्टेट ग्रंथि से निकलने वाला तरल है, जिसमें ज़्यादातर पानी, शर्करा और प्रोटीन होते हैं, और साथ में अंडकोष से आए थोड़े-से शुक्राणु। शरीर इसे लगातार दोबारा बनाता रहता है। वेट ड्रीम, हस्तमैथुन या सेक्स में इसके निकलने से ताक़त, रोगों से लड़ने की क्षमता या उम्र नहीं घटती। इस बारे में लगातार बना रहने वाला डर धात की चिंता (dhat anxiety) कहलाता है और इसका इलाज है।",
    "hg": "Semen blood se nahi banta. Yeh seminal vesicles aur prostate gland se nikalne wala fluid hai, jisme zyadatar paani, sugars aur proteins hote hain, aur saath mein testes se aaye thode se sperm. Body ise lagataar dobara banati rehti hai. Wet dreams, masturbation ya sex mein iske nikalne se taakat, immunity ya umar kam nahi hoti. Is baare mein lagataar rehne wala darr dhat anxiety kehlata hai aur iska treatment hai."
   },
   "why": {
    "en": "The idea appears in some traditional systems of thought that treated semen as the body's most refined essence. It has been repeated with respect for centuries, long before the glands that make semen were understood.",
-   "hi": "यह विचार कुछ पारंपरिक चिंतन-पद्धतियों में मिलता है, जिनमें वीर्य को शरीर का सबसे शुद्ध सार माना गया। इसे सदियों से आदर के साथ दोहराया जाता रहा है, उस समय से जब वीर्य बनाने वाली ग्रंथियों की समझ नहीं थी।",
    "hg": "Yeh idea kuch traditional systems of thought mein milta hai, jinme semen ko body ka sabse refined essence maana gaya. Ise sadiyon se respect ke saath repeat kiya jaata raha hai, us time se jab semen banane wali glands ki samajh nahi thi."
   },
   "refs": [
@@ -119,18 +110,15 @@
   ],
   "claim": {
    "en": "Masturbating as a teenager causes infertility or impotence after marriage.",
-   "hi": "किशोर उम्र में हस्तमैथुन करने से शादी के बाद बाँझपन या नपुंसकता हो जाती है।",
    "hg": "Teenage mein masturbation karne se shaadi ke baad infertility ya impotence ho jaati hai."
   },
   "verdict": "myth",
   "fact": {
    "en": "Masturbation has no effect on future fertility or on how the body works in adult life. Sperm are produced continuously from puberty, and eggs are not affected at all. When adults do have fertility or sexual health difficulties, the causes are medical or emotional ones that a doctor can assess, not something done in the teenage years. Ironically, the fear created by this myth can itself cause anxiety later.",
-   "hi": "हस्तमैथुन का भविष्य की प्रजनन क्षमता पर या वयस्क जीवन में शरीर के कामकाज पर कोई असर नहीं पड़ता। शुक्राणु यौवन से लगातार बनते रहते हैं, और अंडों पर तो कोई असर होता ही नहीं। जब वयस्कों को प्रजनन या यौन स्वास्थ्य की दिक़्क़तें होती हैं, तो उनकी वजहें शारीरिक या भावनात्मक होती हैं, जिनकी जाँच डॉक्टर कर सकते हैं; वे किशोर उम्र में किए गए किसी काम का नतीजा नहीं होतीं। विडंबना यह है कि इस मिथक से पैदा हुआ डर ही आगे चलकर घबराहट की वजह बन सकता है।",
    "hg": "Masturbation ka future fertility pe ya adult life mein body ke kaam karne pe koi asar nahi padta. Sperm puberty se lagataar bante rehte hain, aur eggs pe toh koi asar hota hi nahi. Jab adults ko fertility ya sexual health ki dikkatein hoti hain, toh unke reasons medical ya emotional hote hain, jinhe doctor check kar sakte hain; woh teenage mein kiye gaye kisi kaam ka result nahi hote. Irony yeh hai ki is myth se paida hua darr hi aage chalkar anxiety ki wajah ban sakta hai."
   },
   "why": {
    "en": "Roadside posters and online advertisements for sex clinics often blame 'childhood mistakes' for adult problems, because fear sells treatments. Young people rarely have anyone reliable to check the claim with.",
-   "hi": "सड़क किनारे के पोस्टर और सेक्स क्लिनिकों के ऑनलाइन विज्ञापन अक्सर बड़ों की समस्याओं का दोष 'बचपन की ग़लतियों' पर डालते हैं, क्योंकि डर से इलाज बिकता है। किशोरों के पास इस दावे को परखने के लिए शायद ही कोई भरोसेमंद व्यक्ति होता है।",
    "hg": "Roadside posters aur sex clinics ke online ads aksar adults ki problems ka blame 'bachpan ki galtiyon' pe daalte hain, kyunki darr se treatment bikta hai. Young logon ke paas is claim ko check karne ke liye shayad hi koi reliable insaan hota hai."
   },
   "refs": [
@@ -152,18 +140,15 @@
   "body": [],
   "claim": {
    "en": "Only boys have sexual feelings; a girl who has them is a bad girl.",
-   "hi": "यौन भावनाएँ सिर्फ़ लड़कों को होती हैं; जिस लड़की को होती हैं, वह बुरी लड़की है।",
    "hg": "Sexual feelings sirf ladkon ko hoti hain; jis ladki ko hoti hain, woh buri ladki hai."
   },
   "verdict": "myth",
   "fact": {
    "en": "Sexual feelings come from puberty hormones and brain development, which happen in every body. Girls experience attraction, sexual thoughts, arousal and curiosity just as boys do, though each individual differs. Having these feelings is biology, not a measure of character. The double standard mainly teaches girls shame and silence, which makes it harder for them to ask questions or report problems.",
-   "hi": "यौन भावनाएँ यौवन के हार्मोन और दिमाग़ के विकास से आती हैं, और यह हर शरीर में होता है। लड़कियों को भी लड़कों की तरह आकर्षण, यौन विचार, उत्तेजना और जिज्ञासा होती है, हालाँकि हर व्यक्ति अलग होता है। इन भावनाओं का होना जीव-विज्ञान है, चरित्र का पैमाना नहीं। यह दोहरा मापदंड लड़कियों को मुख्य रूप से शर्म और चुप्पी सिखाता है, जिससे उनके लिए सवाल पूछना या किसी परेशानी के बारे में बताना और मुश्किल हो जाता है।",
    "hg": "Sexual feelings puberty hormones aur brain development se aati hain, aur yeh har body mein hota hai. Ladkiyon ko bhi ladkon ki tarah attraction, sexual thoughts, arousal aur curiosity hoti hai, halaanki har insaan alag hota hai. In feelings ka hona biology hai, character ka measure nahi. Yeh double standard ladkiyon ko mainly shame aur chuppi sikhata hai, jisse unke liye sawaal poochna ya kisi problem ke baare mein batana aur mushkil ho jaata hai."
   },
   "why": {
    "en": "Many families praise girls for modesty and treat boys' interest as natural, so girls learn to hide what they feel. When nobody speaks, it looks as if the feelings do not exist.",
-   "hi": "बहुत से परिवार लड़कियों की तारीफ़ शर्म-लिहाज़ के लिए करते हैं और लड़कों की दिलचस्पी को स्वाभाविक मानते हैं, इसलिए लड़कियाँ अपनी भावनाएँ छिपाना सीख जाती हैं। जब कोई बोलता नहीं, तो लगता है कि ये भावनाएँ होती ही नहीं।",
    "hg": "Bahut si families ladkiyon ki tareef sharm-lihaaz ke liye karti hain aur ladkon ke interest ko natural maanti hain, isliye ladkiyan apni feelings chhupana seekh jaati hain. Jab koi bolta nahi, toh lagta hai yeh feelings hoti hi nahi."
   },
   "refs": [
@@ -188,18 +173,15 @@
   ],
   "claim": {
    "en": "Erections can happen for no reason at all.",
-   "hi": "इरेक्शन बिना किसी वजह के भी हो सकते हैं।",
    "hg": "Erections bina kisi reason ke bhi ho sakte hain."
   },
   "verdict": "fact",
   "fact": {
    "en": "True. An erection is a blood-flow reflex, and during puberty high and changing hormone levels make it happen easily. Erections can come from a full bladder, friction from clothes, the sleep cycle, nervousness or nothing identifiable. Morning erections are part of normal sleep. A random erection does not show what a person is thinking, and it passes within minutes.",
-   "hi": "सही है। इरेक्शन खून के बहाव का एक रिफ़्लेक्स है, और यौवन में हार्मोन के ऊँचे और बदलते स्तर की वजह से यह आसानी से हो जाता है। इरेक्शन भरे हुए मूत्राशय से, कपड़ों की रगड़ से, नींद के चक्र से, घबराहट से या बिना किसी पहचानी जा सकने वाली वजह के हो सकता है। सुबह का इरेक्शन सामान्य नींद का हिस्सा है। अचानक हुआ इरेक्शन यह नहीं बताता कि कोई क्या सोच रहा है, और यह कुछ मिनटों में चला जाता है।",
    "hg": "Sahi hai. Erection blood flow ka ek reflex hai, aur puberty mein hormones ke high aur badalte levels ki wajah se yeh easily ho jaata hai. Erection full bladder se, kapdon ki ragad se, sleep cycle se, nervousness se ya bina kisi pehchaane ja sakne wale reason ke ho sakta hai. Subah ka erection normal neend ka part hai. Random erection yeh nahi batata ki koi kya soch raha hai, aur yeh kuch minutes mein chala jaata hai."
   },
   "why": {
    "en": "Because films and jokes link erections only with excitement about someone, boys assume a random one reveals something about their thoughts, and feel embarrassed when it does not match.",
-   "hi": "चूँकि फ़िल्में और चुटकुले इरेक्शन को सिर्फ़ किसी के प्रति उत्तेजना से जोड़ते हैं, इसलिए लड़के मान लेते हैं कि अचानक हुआ इरेक्शन उनके विचारों की पोल खोलता है, और जब ऐसा कुछ होता नहीं तो शर्मिंदा होते हैं।",
    "hg": "Kyunki films aur jokes erections ko sirf kisi ke liye excitement se jodte hain, isliye ladke maan lete hain ki random erection unke thoughts ke baare mein kuch reveal karta hai, aur jab aisa kuch hota nahi toh embarrassed feel karte hain."
   },
   "refs": [
@@ -221,18 +203,15 @@
   "body": [],
   "claim": {
    "en": "You can get addicted to masturbation or sexual content.",
-   "hi": "हस्तमैथुन या यौन सामग्री की लत लग सकती है।",
    "hg": "Masturbation ya sexual content ki addiction ho sakti hai."
   },
   "verdict": "partly",
   "fact": {
    "en": "Partly true. Most people who worry about this do not have a disorder; frequent use alone is not addiction. But a small number develop a compulsive pattern: repeated failure to control the behaviour despite harm to health, work, studies or relationships. Health classifications recognise compulsive sexual behaviour as a condition that can be treated, usually with counselling. Moral guilt alone is not the same thing.",
-   "hi": "आधा सच। जो लोग इसकी चिंता करते हैं, उनमें से ज़्यादातर को कोई विकार नहीं होता; सिर्फ़ बार-बार करना लत नहीं है। पर कुछ लोगों में बेक़ाबू ढर्रा बन जाता है: सेहत, काम, पढ़ाई या रिश्तों को नुक़सान होने के बावजूद व्यवहार पर बार-बार क़ाबू न रख पाना। स्वास्थ्य वर्गीकरण बेक़ाबू यौन व्यवहार को एक ऐसी स्थिति मानते हैं जिसका इलाज हो सकता है, आम तौर पर काउंसलिंग से। सिर्फ़ नैतिक अपराध-बोध होना वही चीज़ नहीं है।",
    "hg": "Aadha sach. Jo log iski tension lete hain, unme se zyadatar ko koi disorder nahi hota; sirf baar-baar karna addiction nahi hai. Par kuch logon mein compulsive pattern ban jaata hai: health, kaam, padhai ya relationships ko harm hone ke bawajood behaviour ko baar-baar control na kar paana. Health classifications compulsive sexual behaviour ko ek aisi condition maante hain jiska treatment ho sakta hai, usually counselling se. Sirf moral guilt hona wahi cheez nahi hai."
   },
   "why": {
    "en": "The word 'addiction' is used loosely online, both by people selling recovery programmes and by people in real distress. That makes it hard to tell an ordinary habit from a genuine problem.",
-   "hi": "ऑनलाइन 'लत' शब्द का इस्तेमाल ढीले ढंग से होता है, 'रिकवरी प्रोग्राम' बेचने वाले भी करते हैं और सच में परेशान लोग भी। इससे आम आदत और असली समस्या में फ़र्क़ करना मुश्किल हो जाता है।",
    "hg": "Online 'addiction' word ka use loosely hota hai, 'recovery programmes' bechne wale bhi karte hain aur sach mein pareshan log bhi. Isse ordinary habit aur genuine problem mein farak karna mushkil ho jaata hai."
   },
   "refs": [
@@ -254,18 +233,15 @@
   "body": [],
   "claim": {
    "en": "Women orgasm less often than men because their bodies are simply made that way.",
-   "hi": "औरतों को मर्दों से कम ऑर्गैज़्म इसलिए होता है कि उनका शरीर बना ही ऐसा है।",
    "hg": "Women ko men se kam orgasm isliye hota hai ki unki body bani hi aisi hai."
   },
   "verdict": "myth",
   "fact": {
    "en": "The difference seen in surveys is mostly about how sex is practised, not faulty anatomy. Women reach orgasm far more reliably when the clitoris, the main organ of sexual sensation, is not left out, when they feel safe and unhurried, and when they can say what they need. The gap is much smaller between female partners. Bodies vary, but 'women are just like that' hides a fixable communication problem.",
-   "hi": "सर्वे में दिखने वाला फ़र्क़ ज़्यादातर इस बात से जुड़ा है कि सेक्स किस ढर्रे पर होता है, शरीर की किसी कमी से नहीं। औरतों को ऑर्गैज़्म कहीं ज़्यादा भरोसे से तब होता है जब क्लिटोरिस (भगशेफ), जो यौन संवेदना का मुख्य अंग है, को नज़रअंदाज़ न किया जाए, जब वे सुरक्षित महसूस करें और जल्दबाज़ी न हो, और जब वे अपनी ज़रूरत कह सकें। महिला साथियों के बीच यह फ़र्क़ काफ़ी कम होता है। शरीर अलग-अलग होते हैं, पर 'औरतें ऐसी ही होती हैं' कहना बातचीत की एक ऐसी कमी को छिपा देता है जो दूर की जा सकती है।",
    "hg": "Surveys mein dikhne wala farak zyadatar is baat se juda hai ki sex kis tareeke se hota hai, anatomy ki kisi kami se nahi. Women ko orgasm kahin zyada reliably tab hota hai jab clitoris, jo sexual sensation ka main organ hai, ko ignore na kiya jaaye, jab woh safe feel karein aur jaldbaazi na ho, aur jab woh apni zaroorat bol sakein. Female partners ke beech yeh gap kaafi kam hota hai. Bodies alag-alag hoti hain, par 'women aisi hi hoti hain' bolna communication ki ek aisi problem ko chhupa deta hai jo fix ho sakti hai."
   },
   "why": {
    "en": "Schoolbooks and films rarely mention the clitoris, and many women are raised to treat their own pleasure as unimportant or shameful. When nobody talks about it, a common pattern starts to look like biology.",
-   "hi": "स्कूल की किताबों और फ़िल्मों में क्लिटोरिस का ज़िक्र शायद ही होता है, और बहुत-सी औरतों को यह सिखाकर बड़ा किया जाता है कि उनका अपना आनंद ग़ैर-ज़रूरी या शर्म की बात है। जब कोई इस पर बात नहीं करता, तो एक आम ढर्रा क़ुदरत का नियम लगने लगता है।",
    "hg": "School ki books aur films mein clitoris ka zikr shayad hi hota hai, aur bahut si women ko yeh sikhakar bada kiya jaata hai ki unka apna pleasure unimportant ya sharam ki baat hai. Jab koi is par baat nahi karta, toh ek common pattern biology lagne lagta hai."
   },
   "refs": [
@@ -288,18 +264,15 @@
   ],
   "claim": {
    "en": "Finishing too quickly is one of the most common sexual problems in men, and doctors can treat it.",
-   "hi": "बहुत जल्दी स्खलन हो जाना मर्दों की सबसे आम यौन समस्याओं में से एक है, और डॉक्टर इसका इलाज कर सकते हैं।",
    "hg": "Bahut jaldi finish ho jaana men ki sabse common sexual problems mein se ek hai, aur doctors iska treatment kar sakte hain."
   },
   "verdict": "fact",
   "fact": {
    "en": "True. Premature ejaculation is among the most frequently reported male sexual concerns, and an occasional quick finish is common and no cause for concern. It is not caused by masturbation, 'semen loss' or weak nerves. When it is persistent and distressing, counselling, methods taught by a clinician and prescribed medicines help many men. A registered doctor, not a roadside 'sex clinic', is the right place to start.",
-   "hi": "सही। शीघ्रपतन मर्दों की सबसे ज़्यादा बताई जाने वाली यौन चिंताओं में से है, और कभी-कभार जल्दी स्खलन हो जाना आम बात है, चिंता की वजह नहीं। यह हस्तमैथुन, 'वीर्य-नाश' या 'नसों की कमज़ोरी' से नहीं होता। जब यह लगातार बना रहे और परेशान करे, तब काउंसलिंग, चिकित्सक के सिखाए तरीक़े और डॉक्टर की लिखी दवाएँ बहुत-से मर्दों की मदद करती हैं। शुरुआत के लिए सही जगह कोई पंजीकृत डॉक्टर है, सड़क किनारे का 'सेक्स क्लिनिक' नहीं।",
    "hg": "Sahi. Premature ejaculation men ke sabse zyada report hone wale sexual concerns mein se hai, aur kabhi-kabhi jaldi finish ho jaana common hai, tension ki baat nahi. Yeh masturbation, 'semen loss' ya 'nason ki kamzori' se nahi hota. Jab yeh lagataar rahe aur pareshan kare, tab counselling, clinician ke sikhaye methods aur prescribed medicines bahut se men ki help karti hain. Start karne ki sahi jagah koi registered doctor hai, roadside 'sex clinic' nahi."
   },
   "why": {
    "en": "Men are taught that lasting long is proof of manhood, so almost nobody admits to this. The silence makes each man believe he is the only one, which is exactly what sellers of miracle cures rely on.",
-   "hi": "मर्दों को सिखाया जाता है कि देर तक टिकना मर्दानगी का सबूत है, इसलिए लगभग कोई इसे मानता नहीं। इस चुप्पी से हर मर्द को लगता है कि ऐसा सिर्फ़ उसी के साथ है, और चमत्कारी इलाज बेचने वाले ठीक इसी बात का फ़ायदा उठाते हैं।",
    "hg": "Men ko sikhaya jaata hai ki der tak tikna mardangi ka proof hai, isliye lagbhag koi yeh admit nahi karta. Is chuppi se har man ko lagta hai ki aisa sirf usi ke saath hai, aur miracle cure bechne wale theek isi baat ka fayda uthate hain."
   },
   "refs": [

@@ -4,7 +4,6 @@
   "type": "steps",
   "title": {
    "en": "Before you believe a post",
-   "hi": "किसी पोस्ट पर यक़ीन करने से पहले",
    "hg": "Kisi post pe believe karne se pehle"
   },
   "items": [
@@ -12,12 +11,10 @@
     "icon": "camera",
     "label": {
      "en": "Remember the edit",
-     "hi": "एडिटिंग याद रखो",
      "hg": "Editing yaad rakho"
     },
     "text": {
      "en": "Lights, make-up, retakes and editing apps make most pictures look perfect.",
-     "hi": "लाइट, मेकअप, बार-बार के रीटेक और एडिटिंग ऐप ज़्यादातर तस्वीरों को परफ़ेक्ट दिखाते हैं।",
      "hg": "Lights, make-up, retakes aur editing apps zyadatar photos ko perfect dikhate hain."
     }
    },
@@ -25,12 +22,10 @@
     "icon": "money",
     "label": {
      "en": "Spot the ad",
-     "hi": "विज्ञापन पहचानो",
      "hg": "Ad pehchano"
     },
     "text": {
      "en": "Look for 'ad', 'sponsored' or 'paid partnership'. The label can be tiny or missing.",
-     "hi": "'ad', 'sponsored' या 'paid partnership' जैसे लेबल देखो। लेबल बहुत छोटा हो सकता है या ग़ायब भी।",
      "hg": "'Ad', 'sponsored' ya 'paid partnership' jaise labels dekho. Label bahut chhota ho sakta hai ya gayab bhi."
     }
    },
@@ -38,12 +33,10 @@
     "icon": "ask",
     "label": {
      "en": "Ask three questions",
-     "hi": "तीन सवाल पूछो",
      "hg": "Teen sawaal pucho"
     },
     "text": {
      "en": "Who made it? What do they want me to buy or do? What did they leave out?",
-     "hi": "इसे किसने बनाया? वे मुझसे क्या ख़रीदवाना या करवाना चाहते हैं? उन्होंने क्या छोड़ दिया?",
      "hg": "Ise kisne banaya? Woh mujhse kya khareedwana ya karwana chahte hain? Unhone kya chhod diya?"
     }
    },
@@ -51,12 +44,10 @@
     "icon": "search",
     "label": {
      "en": "Views are not proof",
-     "hi": "व्यूज़ सबूत नहीं हैं",
      "hg": "Views proof nahi hain"
     },
     "text": {
      "en": "Lakhs of views do not make a video true. Ask a parent, teacher or doctor instead.",
-     "hi": "लाखों व्यूज़ से कोई वीडियो सच नहीं हो जाता। इसके बजाय मम्मी-पापा, टीचर या डॉक्टर से पूछो।",
      "hg": "Lakhon views se koi video sach nahi ho jaata. Uske bajaye mummy-papa, teacher ya doctor se pucho."
     }
    },
@@ -64,12 +55,10 @@
     "icon": "eye_off",
     "label": {
      "en": "Close it and tell",
-     "hi": "बंद करो और बताओ",
      "hg": "Band karo aur batao"
     },
     "text": {
      "en": "Something for adults or upsetting pops up? Close it and tell a trusted adult. You are not in trouble.",
-     "hi": "बड़ों वाली या परेशान करने वाली कोई चीज़ सामने आ जाए? उसे बंद करो और किसी भरोसेमंद बड़े को बताओ। तुम मुसीबत में नहीं हो।",
      "hg": "Adults wali ya upset karne wali koi cheez aa jaaye? Band karo aur kisi trusted adult ko batao. Tum trouble mein nahi ho."
     }
    }
@@ -80,13 +69,11 @@
   "type": "compare",
   "title": {
    "en": "Porn script vs real life",
-   "hi": "पोर्न की स्क्रिप्ट बनाम असल ज़िंदगी",
    "hg": "Porn ki script vs real life"
   },
   "left": {
    "title": {
     "en": "On screen",
-    "hi": "स्क्रीन पर",
     "hg": "Screen pe"
    },
    "tone": "bad",
@@ -94,22 +81,18 @@
    "points": [
     {
      "en": "Performers chosen for one look; scenes scripted, cut and edited.",
-     "hi": "एक ख़ास लुक के लिए चुने गए कलाकार; सीन स्क्रिप्टेड, काटे और एडिट किए हुए।",
      "hg": "Ek khaas look ke liye chune gaye performers; scenes scripted, cut aur edited."
     },
     {
      "en": "Nobody asks or checks in, and a no gets turned into a yes.",
-     "hi": "कोई न इजाज़त पूछता है, न देखता है कि सामने वाला ठीक है, और 'ना' को 'हाँ' में बदल दिया जाता है।",
      "hg": "Koi na permission poochta hai, na check karta hai ki saamne wala theek hai, aur 'na' ko 'haan' bana diya jaata hai."
     },
     {
      "en": "Protection is invisible, and nervousness, awkwardness and care are edited out.",
-     "hi": "सुरक्षा कहीं दिखती ही नहीं, और घबराहट, झिझक और परवाह एडिट करके हटा दी जाती है।",
      "hg": "Protection kahin dikhta hi nahi, aur nervousness, awkwardness aur care edit karke hata diye jaate hain."
     },
     {
      "en": "Men always in control, women always willing: a stereotype.",
-     "hi": "मर्द हमेशा कंट्रोल में, औरतें हमेशा राज़ी: यह एक स्टीरियोटाइप है।",
      "hg": "Mard hamesha control mein, auratein hamesha raazi: yeh ek stereotype hai."
     }
    ]
@@ -117,7 +100,6 @@
   "right": {
    "title": {
     "en": "Real life",
-    "hi": "असल ज़िंदगी",
     "hg": "Real life"
    },
    "tone": "good",
@@ -125,22 +107,18 @@
    "points": [
     {
      "en": "Bodies vary hugely in shape, size, hair and skin, and all are normal.",
-     "hi": "शरीर आकार, साइज़, बालों और त्वचा में बहुत अलग होते हैं, और सब सामान्य हैं।",
      "hg": "Bodies shape, size, baal aur skin mein bahut alag hoti hain, aur sab normal hai."
     },
     {
      "en": "Pressure is not consent, and no means no.",
-     "hi": "दबाव सहमति नहीं है, और 'ना' का मतलब 'ना' है।",
      "hg": "Pressure consent nahi hai, aur 'na' ka matlab 'na' hai."
     },
     {
      "en": "Real people feel nervous, laugh, and need trust and care.",
-     "hi": "असली लोग घबराते हैं, हँसते हैं, और उन्हें भरोसे और परवाह की ज़रूरत होती है।",
      "hg": "Real log nervous hote hain, hanste hain, aur unhe trust aur care chahiye hota hai."
     },
     {
      "en": "Under 18, no one can legally consent to sexual activity; waiting is a valid choice.",
-     "hi": "18 से कम उम्र में कोई भी यौन गतिविधि के लिए क़ानूनी सहमति नहीं दे सकता; इंतज़ार करना पूरी तरह सही चुनाव है।",
      "hg": "18 se kam age mein koi bhi sexual activity ke liye legally consent nahi de sakta; wait karna bilkul valid choice hai."
     }
    ]
@@ -151,7 +129,6 @@
   "type": "grid",
   "title": {
    "en": "Your feed is not fact-checked",
-   "hi": "तुम्हारी फ़ीड की कोई फ़ैक्ट-चेकिंग नहीं होती",
    "hg": "Tumhari feed fact-checked nahi hai"
   },
   "items": [
@@ -159,12 +136,10 @@
     "icon": "camera",
     "label": {
      "en": "Screen bodies are edited",
-     "hi": "स्क्रीन के शरीर एडिटेड हैं",
      "hg": "Screen ki bodies edited hain"
     },
     "text": {
      "en": "Performers and influencers are selected, lit, filtered and edited, so rare looks start to feel normal.",
-     "hi": "कलाकार और इन्फ्लुएंसर चुने जाते हैं, ख़ास रोशनी में शूट होते हैं, फ़िल्टर और एडिट होते हैं, इसलिए दुर्लभ लुक भी आम लगने लगते हैं।",
      "hg": "Performers aur influencers selected, lit, filtered aur edited hote hain, isliye rare looks bhi normal lagne lagte hain."
     }
    },
@@ -172,12 +147,10 @@
     "icon": "diversity",
     "label": {
      "en": "Real bodies vary",
-     "hi": "असली शरीर अलग-अलग",
      "hg": "Real bodies vary karti hain"
     },
     "text": {
      "en": "Genitals and bodies vary widely in size, shape and colour, and that is healthy.",
-     "hi": "जननांग और शरीर साइज़, आकार और रंग में बहुत अलग होते हैं, और यह स्वस्थ है।",
      "hg": "Genitals aur bodies size, shape aur colour mein bahut vary karte hain, aur yeh healthy hai."
     }
    },
@@ -185,12 +158,10 @@
     "icon": "yes",
     "label": {
      "en": "Consent is a clear yes",
-     "hi": "सहमति यानी साफ़ हाँ",
      "hg": "Consent matlab clear haan"
     },
     "text": {
      "en": "Voluntary and can be withdrawn anytime. Silence, pressure and persistence are never consent.",
-     "hi": "अपनी मर्ज़ी से, और कभी भी वापस ली जा सकती है। चुप्पी, दबाव और पीछे पड़ना कभी सहमति नहीं।",
      "hg": "Apni marzi se, aur kabhi bhi wapas li ja sakti hai. Chuppi, pressure aur peeche padna kabhi consent nahi."
     }
    },
@@ -198,12 +169,10 @@
     "icon": "law",
     "label": {
      "en": "Under 18: no legal consent",
-     "hi": "18 से कम: क़ानूनी सहमति नहीं",
      "hg": "18 se kam: legal consent nahi"
     },
     "text": {
      "en": "In India a person under 18 cannot consent to sexual activity, whatever was said.",
-     "hi": "भारत में 18 से कम उम्र का कोई भी व्यक्ति यौन गतिविधि के लिए सहमति नहीं दे सकता, चाहे कुछ भी कहा गया हो।",
      "hg": "India mein 18 se kam age ka koi bhi sexual activity ke liye consent nahi de sakta, chahe kuch bhi bola gaya ho."
     }
    },
@@ -211,12 +180,10 @@
     "icon": "search",
     "label": {
      "en": "Check the creator",
-     "hi": "क्रिएटर को परखो",
      "hg": "Creator ko check karo"
     },
     "text": {
      "en": "Qualified and registered? Selling something? Promising fast results? Do WHO or doctors agree?",
-     "hi": "योग्य और रजिस्टर्ड है? कुछ बेच रहा है? जल्दी नतीजों का वादा? क्या WHO या डॉक्टर सहमत हैं?",
      "hg": "Qualified aur registered hai? Kuch bech raha hai? Fast results ka promise? Kya WHO ya doctors agree karte hain?"
     }
    },
@@ -224,12 +191,10 @@
     "icon": "support",
     "label": {
      "en": "Viewing running you?",
-     "hi": "देखना तुम्हें चला रहा है?",
      "hg": "Dekhna tumhe chala raha hai?"
     },
     "text": {
      "en": "Losing sleep, failing to cut down or feeling distressed? A counsellor or Tele-MANAS 14416 can help.",
-     "hi": "नींद जा रही है, कम नहीं कर पा रहे, या बाद में परेशान होते हो? काउंसलर या Tele-MANAS 14416 मदद कर सकते हैं।",
      "hg": "Neend kharab ho rahi hai, kam nahi kar paa rahe, ya baad mein pareshan hote ho? Counsellor ya Tele-MANAS 14416 help kar sakte hain."
     }
    }
@@ -240,7 +205,6 @@
   "type": "grid",
   "title": {
    "en": "Real intimacy runs on different rules",
-   "hi": "असली नज़दीकी के नियम अलग हैं",
    "hg": "Real intimacy ke rules alag hain"
   },
   "items": [
@@ -248,12 +212,10 @@
     "icon": "hourglass",
     "label": {
      "en": "Response varies",
-     "hi": "शरीर की प्रतिक्रिया बदलती है",
      "hg": "Response vary karta hai"
     },
     "text": {
      "en": "Arousal takes time and varies with stress, sleep, mood and trust. Using lubricant is ordinary.",
-     "hi": "उत्तेजना में समय लगता है और यह तनाव, नींद, मूड और भरोसे के साथ बदलती है। लुब्रिकेंट इस्तेमाल करना आम बात है।",
      "hg": "Arousal mein time lagta hai aur yeh stress, neend, mood aur trust ke saath badalta hai. Lubricant use karna normal baat hai."
     }
    },
@@ -261,12 +223,10 @@
     "icon": "talk",
     "label": {
      "en": "Ask, don't assume",
-     "hi": "पूछो, मान मत लो",
      "hg": "Pucho, assume mat karo"
     },
     "text": {
      "en": "Talk about what feels comfortable, what is off-limits, which protection you use and how to stop.",
-     "hi": "बात करो कि क्या ठीक लगता है, क्या बिल्कुल नहीं, कौन-सी सुरक्षा इस्तेमाल करोगे और रुकने के लिए कैसे कहोगे।",
      "hg": "Baat karo ki kya comfortable lagta hai, kya off-limits hai, kaunsa protection use karoge aur rukne ke liye kaise bologe."
     }
    },
@@ -274,12 +234,10 @@
     "icon": "stop",
     "label": {
      "en": "Marriage is not consent",
-     "hi": "शादी सहमति नहीं है",
      "hg": "Shaadi consent nahi hai"
     },
     "text": {
      "en": "Every person can say no to any act at any time, and that no must be respected.",
-     "hi": "हर इंसान किसी भी चीज़ के लिए कभी भी 'ना' कह सकता है, और उस 'ना' का सम्मान होना चाहिए।",
      "hg": "Har insaan kisi bhi cheez ko kabhi bhi 'na' bol sakta hai, aur us 'na' ki respect honi chahiye."
     }
    },
@@ -287,12 +245,10 @@
     "icon": "money",
     "label": {
      "en": "Paid closeness",
-     "hi": "पैसे वाली नज़दीकी",
      "hg": "Paid closeness"
     },
     "text": {
      "en": "Subscriptions and live chats sell a one-sided bond. Watch your budget and your loneliness honestly.",
-     "hi": "सब्सक्रिप्शन और लाइव चैट एकतरफ़ा रिश्ता बेचते हैं। अपने ख़र्च और अपने अकेलेपन पर ईमानदारी से नज़र रखो।",
      "hg": "Subscriptions aur live chats ek one-sided bond bechte hain. Apne budget aur apne akelepan pe honestly nazar rakho."
     }
    },
@@ -300,12 +256,10 @@
     "icon": "doctor",
     "label": {
      "en": "Skip the 'stamina' sellers",
-     "hi": "'स्टैमिना' बेचने वालों से बचो",
      "hg": "'Stamina' sellers ko skip karo"
     },
     "text": {
      "en": "Real treatment for erection, ejaculation, pain or desire concerns comes from a registered doctor.",
-     "hi": "इरेक्शन, स्खलन, दर्द या इच्छा से जुड़ी दिक़्क़तों का असली इलाज रजिस्टर्ड डॉक्टर से मिलता है।",
      "hg": "Erection, ejaculation, pain ya desire ki problems ka real ilaaj registered doctor se milta hai."
     }
    },
@@ -313,12 +267,10 @@
     "icon": "report",
     "label": {
      "en": "Abuse is not content",
-     "hi": "शोषण कंटेंट नहीं है",
      "hg": "Abuse content nahi hai"
     },
     "text": {
      "en": "Leaked, hidden-camera and deepfake clips are abuse; under-18 content is a serious crime. Report at cybercrime.gov.in.",
-     "hi": "लीक, छिपे कैमरे वाली और डीपफ़ेक क्लिप शोषण हैं; 18 से कम उम्र वालों का कंटेंट गंभीर अपराध है। cybercrime.gov.in पर रिपोर्ट करो।",
      "hg": "Leaked, hidden-camera aur deepfake clips abuse hain; under-18 content serious crime hai. cybercrime.gov.in pe report karo."
     }
    }
@@ -329,7 +281,6 @@
   "type": "steps",
   "title": {
    "en": "Sextortion or a leak: your action plan",
-   "hi": "सेक्सटॉर्शन या लीक: तुम्हारा एक्शन प्लान",
    "hg": "Sextortion ya leak: tumhara action plan"
   },
   "items": [
@@ -337,12 +288,10 @@
     "icon": "stop",
     "label": {
      "en": "Stop, don't pay",
-     "hi": "रुको, पैसे मत दो",
      "hg": "Ruko, paise mat do"
     },
     "text": {
      "en": "Stop replying. Do not pay, and do not send anything more.",
-     "hi": "जवाब देना बंद करो। पैसे मत दो, और कुछ भी और मत भेजो।",
      "hg": "Reply karna band karo. Paise mat do, aur kuch bhi aur mat bhejo."
     }
    },
@@ -350,12 +299,10 @@
     "icon": "document",
     "label": {
      "en": "Keep the evidence",
-     "hi": "सबूत बचाकर रखो",
      "hg": "Evidence bacha ke rakho"
     },
     "text": {
      "en": "Don't delete the chat; note the username, number or UPI ID and dates. Never forward or save the image.",
-     "hi": "चैट डिलीट मत करो; यूज़रनेम, नंबर या UPI ID और तारीख़ें नोट करो। तस्वीर कभी फ़ॉरवर्ड या सेव मत करो।",
      "hg": "Chat delete mat karo; username, number ya UPI ID aur dates note karo. Image kabhi forward ya save mat karo."
     }
    },
@@ -363,12 +310,10 @@
     "icon": "talk",
     "label": {
      "en": "Tell a trusted adult",
-     "hi": "भरोसेमंद बड़े को बताओ",
      "hg": "Trusted adult ko batao"
     },
     "text": {
      "en": "Tell a trusted adult the same day. Being tricked is not a crime, and it is not your fault.",
-     "hi": "उसी दिन किसी भरोसेमंद बड़े को बताओ। धोखा खा जाना अपराध नहीं है, और इसमें तुम्हारी ग़लती नहीं है।",
      "hg": "Usi din kisi trusted adult ko batao. Dhokha kha jaana crime nahi hai, aur ismein tumhari galti nahi hai."
     }
    },
@@ -376,12 +321,10 @@
     "icon": "report",
     "label": {
      "en": "Report it",
-     "hi": "रिपोर्ट करो",
      "hg": "Report karo"
     },
     "text": {
      "en": "Use cybercrime.gov.in, 1930, a police station or 1098 if under 18, plus the platform's report button.",
-     "hi": "cybercrime.gov.in, 1930, पुलिस स्टेशन, या 18 से कम हो तो 1098 पर रिपोर्ट करो, और प्लेटफ़ॉर्म के रिपोर्ट बटन से भी।",
      "hg": "cybercrime.gov.in, 1930, police station, ya 18 se kam ho toh 1098 pe report karo, aur platform ke report button se bhi."
     }
    },
@@ -389,12 +332,10 @@
     "icon": "call",
     "label": {
      "en": "Get support",
-     "hi": "सहारा लो",
      "hg": "Support lo"
     },
     "text": {
      "en": "Feeling panicked or hopeless? Call Tele-MANAS 14416, free. In immediate danger, call 112.",
-     "hi": "घबराहट या नाउम्मीदी लग रही है? Tele-MANAS 14416 पर मुफ़्त कॉल करो। तुरंत ख़तरा हो तो 112 पर कॉल करो।",
      "hg": "Panic ya hopeless feel ho raha hai? Tele-MANAS 14416 pe free call karo. Turant khatra ho toh 112 pe call karo."
     }
    }
@@ -405,13 +346,11 @@
   "type": "compare",
   "title": {
    "en": "Seen abuse material? Do this, not that",
-   "hi": "शोषण वाला कंटेंट दिखा? यह करो, वह नहीं",
    "hg": "Abuse wala content dikha? Yeh karo, woh nahi"
   },
   "left": {
    "title": {
     "en": "What to do",
-    "hi": "क्या करें",
     "hg": "Kya karein"
    },
    "tone": "good",
@@ -419,22 +358,18 @@
    "points": [
     {
      "en": "Note where you saw it.",
-     "hi": "नोट करो कि यह कहाँ दिखा।",
      "hg": "Note karo ki yeh kahan dikha."
     },
     {
      "en": "Report it on the platform and at cybercrime.gov.in or 1930.",
-     "hi": "प्लेटफ़ॉर्म पर और cybercrime.gov.in या 1930 पर रिपोर्ट करो।",
      "hg": "Platform pe aur cybercrime.gov.in ya 1930 pe report karo."
     },
     {
      "en": "Call 1098 for a child in danger, 112 for suspected trafficking.",
-     "hi": "ख़तरे में पड़े बच्चे के लिए 1098, और तस्करी के शक पर 112 पर कॉल करो।",
      "hg": "Khatre mein pade bachche ke liye 1098, aur trafficking ke shak pe 112 pe call karo."
     },
     {
      "en": "Women Helpline 181, NACO 1097 and free legal aid 15100 also help.",
-     "hi": "महिला हेल्पलाइन 181, NACO 1097 और मुफ़्त क़ानूनी मदद 15100 भी साथ देते हैं।",
      "hg": "Women Helpline 181, NACO 1097 aur free legal aid 15100 bhi help karte hain."
     }
    ]
@@ -442,7 +377,6 @@
   "right": {
    "title": {
     "en": "Never",
-    "hi": "कभी नहीं",
     "hg": "Kabhi nahi"
    },
    "tone": "bad",
@@ -450,22 +384,18 @@
    "points": [
     {
      "en": "Download, screenshot or forward it.",
-     "hi": "इसे डाउनलोड, स्क्रीनशॉट या फ़ॉरवर्ड करना।",
      "hg": "Ise download, screenshot ya forward karna."
     },
     {
      "en": "Assume a smile or 'verified' badge proves consent or age.",
-     "hi": "यह मान लेना कि मुस्कान या 'verified' बैज सहमति या उम्र का सबूत है।",
      "hg": "Yeh maan lena ki smile ya 'verified' badge consent ya age ka proof hai."
     },
     {
      "en": "Treat 'leaked' or 'hidden cam' clips as entertainment.",
-     "hi": "'लीक' या 'हिडन कैम' वाली क्लिप को मनोरंजन समझना।",
      "hg": "'Leaked' ya 'hidden cam' clips ko entertainment samajhna."
     },
     {
      "en": "Believe payment buys the right to force or hurt anyone.",
-     "hi": "यह मानना कि पैसे देकर किसी पर ज़बरदस्ती करने या उसे चोट पहुँचाने का हक़ मिल जाता है।",
      "hg": "Yeh maanna ki paise dekar kisi pe zabardasti karne ya use hurt karne ka haq mil jaata hai."
     }
    ]

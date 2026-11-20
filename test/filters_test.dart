@@ -168,9 +168,8 @@ void main() {
       for (final d in c.domains) {
         for (final t in [Track.a, Track.b]) {
           final title = d.titleFor(t);
-          for (final s in [title.en, title.hi, title.hg]) {
+          for (final s in [title.en, title.hg]) {
             expect(s.toLowerCase(), isNot(contains('porn')), reason: '${d.id} ${t.code}');
-            expect(s, isNot(contains('पोर्न')), reason: '${d.id} ${t.code}');
           }
         }
       }
@@ -236,6 +235,13 @@ void main() {
     test('the python validator accepts the tags (--require-topics)', () async {
       final r = await Process.run('python3', ['tools/validate_content.py', '--require-topics']);
       expect(r.exitCode, 0, reason: '${r.stdout}'.split('\n').take(12).join('\n'));
+    });
+
+    test('a count of one reads in the singular', () {
+      expect(Strings.get('explore.lessons', Lang.en, {'n': 1}), '1 lesson');
+      expect(Strings.get('explore.lessons', Lang.en, {'n': 2}), '2 lessons');
+      expect(en('filter.results.myths', {'n': 1}), '1 myth card matches your topics');
+      expect(Strings.get('domain.quiz', Lang.hg, {'n': 1}), 'Quiz · 1 question');
     });
 
     test('filter labels exist in all three languages', () {

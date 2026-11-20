@@ -8,79 +8,66 @@
   ],
   "title": {
    "en": "Friendship words",
-   "hi": "दोस्ती के शब्द",
    "hg": "Dosti ke words"
   },
   "terms": [
    {
     "term": {
      "en": "Friend",
-     "hi": "दोस्त",
      "hg": "Dost"
     },
     "def": {
      "en": "A person you like and trust, who is kind to you and enjoys spending time with you.",
-     "hi": "वो इंसान जो तुम्हें पसंद है और जिस पर तुम्हें भरोसा है, जो तुमसे प्यार से पेश आता है और तुम्हारे साथ समय बिताना पसंद करता है।",
      "hg": "Woh insaan jo tumhe pasand hai aur jis par tumhe trust hai, jo tumse pyaar se pesh aata hai aur tumhare saath time bitana pasand karta hai."
     }
    },
    {
     "term": {
      "en": "Kindness",
-     "hi": "दयालुता (kindness)",
      "hg": "Kindness"
     },
     "def": {
      "en": "Using gentle words and actions that help other people feel good and safe.",
-     "hi": "ऐसे नरम शब्द और काम जिनसे दूसरे लोग अच्छा और सुरक्षित महसूस करें।",
      "hg": "Aise gentle words aur kaam jinse doosre log achha aur safe feel karein."
     }
    },
    {
     "term": {
      "en": "Sharing",
-     "hi": "बाँटना (sharing)",
      "hg": "Sharing"
     },
     "def": {
      "en": "Letting someone else use or enjoy something of yours for a while, like a toy or a snack.",
-     "hi": "अपनी कोई चीज़, जैसे खिलौना या खाने की चीज़, थोड़ी देर के लिए किसी और को इस्तेमाल करने या मज़ा लेने देना।",
      "hg": "Apni koi cheez, jaise toy ya snack, thodi der ke liye kisi aur ko use karne ya enjoy karne dena."
     }
    },
    {
     "term": {
      "en": "Apology",
-     "hi": "माफ़ी (sorry)",
      "hg": "Sorry / maafi"
     },
     "def": {
      "en": "Saying sorry when you have hurt someone, and trying not to do it again.",
-     "hi": "जब तुमसे किसी को दुख पहुँचे तो सॉरी कहना, और कोशिश करना कि दोबारा ऐसा न हो।",
      "hg": "Jab tumse kisi ko hurt ho toh sorry bolna, aur koshish karna ki dobara aisa na ho."
     }
    },
    {
     "term": {
      "en": "Personal space",
-     "hi": "अपनी जगह (personal space)",
      "hg": "Personal space"
     },
     "def": {
      "en": "The space around your body that is yours. Others should ask before they come very close or touch you.",
-     "hi": "तुम्हारे शरीर के आसपास की वो जगह जो तुम्हारी अपनी है। बहुत पास आने या छूने से पहले दूसरों को पूछना चाहिए।",
      "hg": "Tumhari body ke aas-paas ki woh jagah jo tumhari apni hai. Bahut paas aane ya touch karne se pehle doosron ko poochna chahiye."
     }
    },
    {
     "term": {
      "en": "Trust",
-     "hi": "भरोसा",
      "hg": "Trust / bharosa"
     },
     "def": {
      "en": "Feeling sure that someone will be kind to you, tell the truth and keep their promises.",
-     "hi": "ये यक़ीन होना कि कोई तुमसे प्यार से पेश आएगा, सच बोलेगा और अपना वादा निभाएगा।",
      "hg": "Yeh yakeen hona ki koi tumse pyaar se pesh aayega, sach bolega aur apna promise nibhayega."
     }
    }
@@ -96,79 +83,66 @@
   ],
   "title": {
    "en": "Green flags and red flags",
-   "hi": "ग्रीन फ़्लैग और रेड फ़्लैग",
    "hg": "Green flags aur red flags"
   },
   "terms": [
    {
     "term": {
      "en": "Boundary",
-     "hi": "बाउंड्री / सीमा (boundary)",
      "hg": "Boundary"
     },
     "def": {
      "en": "A personal limit about what you are comfortable with, such as how you are touched, spoken to or contacted. Others should respect it.",
-     "hi": "एक निजी सीमा कि तुम किस चीज़ में सहज हो, जैसे तुम्हें कैसे छुआ जाए, तुमसे कैसे बात की जाए या कैसे संपर्क किया जाए। दूसरों को इसका सम्मान करना चाहिए।",
      "hg": "Ek personal limit ki tum kis cheez mein comfortable ho, jaise tumhe kaise touch kiya jaye, tumse kaise baat ki jaye ya kaise contact kiya jaye. Doosron ko iski respect karni chahiye."
     }
    },
    {
     "term": {
      "en": "Love bombing",
-     "hi": "लव बॉम्बिंग (love bombing)",
      "hg": "Love bombing"
     },
     "def": {
      "en": "A pattern of overwhelming attention, gifts and promises very early in a relationship, used to rush closeness or commitment and gain influence.",
-     "hi": "रिश्ते की शुरुआत में ही बहुत ज़्यादा ध्यान, तोहफ़ों और वादों का पैटर्न, जिसका इस्तेमाल जल्दी नज़दीकी या कमिटमेंट करवाने और असर जमाने के लिए होता है।",
      "hg": "Relationship ke bilkul shuru mein hi bahut zyada attention, gifts aur promises ka pattern, jiska use jaldi closeness ya commitment karwane aur influence jamane ke liye hota hai."
     }
    },
    {
     "term": {
      "en": "Gaslighting",
-     "hi": "गैसलाइटिंग (gaslighting)",
      "hg": "Gaslighting"
     },
     "def": {
      "en": "Repeatedly denying or twisting what happened so that a person starts doubting their own memory, feelings and judgement.",
-     "hi": "जो हुआ उसे बार-बार नकारना या तोड़-मरोड़ देना, ताकि इंसान अपनी ही याददाश्त, भावनाओं और समझ पर शक करने लगे।",
      "hg": "Jo hua use baar-baar deny ya twist karna, taaki insaan apni hi memory, feelings aur judgement par doubt karne lage."
     }
    },
    {
     "term": {
      "en": "Possessiveness",
-     "hi": "हक़ जताना (possessiveness)",
      "hg": "Possessiveness"
     },
     "def": {
      "en": "Treating a partner or friend as something owned: controlling who they meet, what they wear or how they spend their time.",
-     "hi": "पार्टनर या दोस्त को अपनी मिल्कियत समझना: ये कंट्रोल करना कि वो किससे मिले, क्या पहने या अपना समय कैसे बिताए।",
      "hg": "Partner ya dost ko apni property samajhna: yeh control karna ki woh kisse mile, kya pehne ya apna time kaise bitaye."
     }
    },
    {
     "term": {
      "en": "Coercion",
-     "hi": "दबाव या ज़बरदस्ती (coercion)",
      "hg": "Coercion"
     },
     "def": {
      "en": "Getting someone to agree through pressure, guilt, threats or persistence instead of free choice. Agreement obtained this way is not real consent.",
-     "hi": "किसी से आज़ाद मर्ज़ी के बजाय दबाव, अपराध-बोध, धमकी या बार-बार ज़िद करके हाँ कहलवाना। इस तरह मिली सहमति असली सहमति नहीं है।",
      "hg": "Kisi se free choice ke bajaye pressure, guilt, dhamki ya baar-baar zid karke haan bulwana. Is tarah mila agreement real consent nahi hai."
     }
    },
    {
     "term": {
      "en": "Emotional abuse",
-     "hi": "भावनात्मक दुर्व्यवहार (emotional abuse)",
      "hg": "Emotional abuse"
     },
     "def": {
      "en": "A repeated pattern of insults, humiliation, threats, control or isolation that damages a person's confidence and sense of safety.",
-     "hi": "अपमान, नीचा दिखाने, धमकियों, कंट्रोल या अकेला कर देने का बार-बार का पैटर्न, जो इंसान के आत्मविश्वास और सुरक्षा के एहसास को चोट पहुँचाता है।",
      "hg": "Insults, humiliation, dhamkiyon, control ya isolation ka baar-baar ka pattern, jo insaan ke confidence aur safety ki feeling ko damage karta hai."
     }
    }

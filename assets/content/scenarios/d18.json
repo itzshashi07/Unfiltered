@@ -8,12 +8,10 @@
   ],
   "title": {
    "en": "The Game I Don't Like",
-   "hi": "वह खेल जो मुझे पसंद नहीं",
    "hg": "Woh Game Jo Mujhe Pasand Nahi"
   },
   "intro": {
    "en": "Meera is seven. At break time her friend Kabir wants to play a pulling game that she does not like.",
-   "hi": "मीरा सात साल की है। छुट्टी के समय उसका दोस्त कबीर खींचने वाला एक खेल खेलना चाहता है, जो मीरा को पसंद नहीं।",
    "hg": "Meera saat saal ki hai. Break time mein uska dost Kabir ek kheenchne wala game khelna chahta hai, jo Meera ko pasand nahi."
   },
   "sensitive": false,
@@ -22,20 +20,17 @@
    "n1": {
     "text": {
      "en": "Kabir grabs Meera's arm and pulls. 'Come on, play!' Meera's arm hurts and she does not want to play this game. What should Meera do?",
-     "hi": "कबीर मीरा की बाँह पकड़कर खींचता है। 'चल ना, खेल!' मीरा की बाँह में दर्द होता है और उसे यह खेल नहीं खेलना। मीरा को क्या करना चाहिए?",
      "hg": "Kabir Meera ka haath pakad ke kheenchta hai. 'Chal na, khel!' Meera ke haath mein dard hota hai aur use yeh game nahi khelna. Meera ko kya karna chahiye?"
     },
     "choices": [
      {
       "label": {
        "en": "Say loudly, 'Stop. I don't like this game.'",
-       "hi": "ज़ोर से कहे, 'रुको। मुझे यह खेल पसंद नहीं।'",
        "hg": "Zor se bole, 'Ruko. Mujhe yeh game pasand nahi.'"
       },
       "tone": "good",
       "feedback": {
        "en": "Great choice. Meera used her strong voice and clear words. Now Kabir knows exactly how she feels. Saying no to something that hurts is not rude.",
-       "hi": "बहुत अच्छा फ़ैसला। मीरा ने अपनी मज़बूत आवाज़ और साफ़ शब्द इस्तेमाल किए। अब कबीर को ठीक-ठीक पता है कि उसे कैसा लग रहा है। जिस बात से दर्द हो, उसे 'ना' कहना बदतमीज़ी नहीं है।",
        "hg": "Bahut achhi choice. Meera ne apni strong awaaz aur clear words use kiye. Ab Kabir ko exactly pata hai ki use kaisa lag raha hai. Jis cheez se dard ho, use 'no' bolna rude nahi hai."
       },
       "next": "n2"
@@ -43,13 +38,11 @@
      {
       "label": {
        "en": "Stay quiet and keep playing",
-       "hi": "चुप रहे और खेलती रहे",
        "hg": "Chup rahe aur khelti rahe"
       },
       "tone": "okay",
       "feedback": {
        "en": "Meera may feel shy, and that is okay. Kabir should not pull her, and it is not her fault. Saying 'Stop, I don't like it' helps. If the words will not come, she can move away and tell the teacher.",
-       "hi": "हो सकता है मीरा को झिझक हो रही हो, और यह ठीक है। कबीर को उसे नहीं खींचना चाहिए, और इसमें मीरा की ग़लती नहीं है। 'रुको, मुझे यह पसंद नहीं' कहना मदद करता है। अगर शब्द न निकलें, तो वह वहाँ से हटकर टीचर को बता सकती है।",
        "hg": "Ho sakta hai Meera ko sharam aa rahi ho, aur yeh theek hai. Kabir ko use nahi kheenchna chahiye, aur isme Meera ki galti nahi hai. 'Ruko, mujhe yeh pasand nahi' bolna help karta hai. Agar words na niklein, toh woh wahan se hat ke teacher ko bata sakti hai."
       },
       "next": "n2"
@@ -57,13 +50,11 @@
      {
       "label": {
        "en": "Push Kabir hard",
-       "hi": "कबीर को ज़ोर से धक्का दे दे",
        "hg": "Kabir ko zor se dhakka de de"
       },
       "tone": "risky",
       "feedback": {
        "en": "Meera is upset, and that makes sense. But pushing can hurt Kabir and start a fight. Strong words work better than strong hands: 'Stop. I don't like this.'",
-       "hi": "मीरा परेशान है, और यह समझ में आता है। पर धक्का देने से कबीर को चोट लग सकती है और झगड़ा शुरू हो सकता है। मज़बूत हाथों से ज़्यादा मज़बूत शब्द काम करते हैं: 'रुको। मुझे यह पसंद नहीं।'",
        "hg": "Meera upset hai, aur yeh samajh mein aata hai. Par dhakka dene se Kabir ko chot lag sakti hai aur fight shuru ho sakti hai. Strong haathon se zyada strong words kaam karte hain: 'Ruko. Mujhe yeh pasand nahi.'"
       },
       "next": "n2"
@@ -73,20 +64,17 @@
    "n2": {
     "text": {
      "en": "Kabir laughs and pulls her arm again. He is not stopping. What should Meera do now?",
-     "hi": "कबीर हँसता है और फिर से उसकी बाँह खींचता है। वह रुक नहीं रहा। अब मीरा को क्या करना चाहिए?",
      "hg": "Kabir hansta hai aur phir se uska haath kheenchta hai. Woh ruk nahi raha. Ab Meera ko kya karna chahiye?"
     },
     "choices": [
      {
       "label": {
        "en": "Go to the teacher and say, 'Kabir is pulling me. I said stop.'",
-       "hi": "टीचर के पास जाए और कहे, 'कबीर मुझे खींच रहा है। मैंने रुकने को कहा था।'",
        "hg": "Teacher ke paas jaye aur bole, 'Kabir mujhe kheench raha hai. Maine ruko bola tha.'"
       },
       "tone": "good",
       "feedback": {
        "en": "Yes. When someone does not listen to your no, a grown-up can help. Telling the teacher is not chugli. It is how Meera stays safe.",
-       "hi": "हाँ। जब कोई तुम्हारी 'ना' न सुने, तो कोई बड़ा मदद कर सकता है। टीचर को बताना चुग़ली नहीं है। इसी तरह मीरा सुरक्षित रहती है।",
        "hg": "Haan. Jab koi tumhari 'no' na sune, toh koi bada help kar sakta hai. Teacher ko batana chugli nahi hai. Isi tarah Meera safe rehti hai."
       },
       "next": "n3"
@@ -94,13 +82,11 @@
      {
       "label": {
        "en": "Walk away and tell nobody",
-       "hi": "वहाँ से चली जाए और किसी को न बताए",
        "hg": "Wahan se chali jaye aur kisi ko na bataye"
       },
       "tone": "okay",
       "feedback": {
        "en": "Walking away keeps Meera safe right now, and that is smart. But Kabir may do it again tomorrow. Telling a teacher helps it stop for good.",
-       "hi": "वहाँ से चले जाने से मीरा अभी सुरक्षित रहती है, और यह समझदारी है। पर कबीर कल फिर ऐसा कर सकता है। टीचर को बताने से यह हमेशा के लिए रुक सकता है।",
        "hg": "Wahan se chale jaane se Meera abhi safe rehti hai, aur yeh smart hai. Par Kabir kal phir aisa kar sakta hai. Teacher ko batane se yeh hamesha ke liye ruk sakta hai."
       },
       "next": "n3"
@@ -110,20 +96,17 @@
    "n3": {
     "text": {
      "en": "The teacher talks to Kabir and he says sorry. Later, Meera wants to hold her friend Zoya's new doll. Zoya says, 'No, not now.' What should Meera do?",
-     "hi": "टीचर कबीर से बात करती हैं और वह सॉरी कहता है। बाद में, मीरा अपनी दोस्त ज़ोया की नई गुड़िया पकड़ना चाहती है। ज़ोया कहती है, 'नहीं, अभी नहीं।' मीरा को क्या करना चाहिए?",
      "hg": "Teacher Kabir se baat karti hain aur woh sorry bolta hai. Baad mein, Meera apni friend Zoya ki nayi gudiya pakadna chahti hai. Zoya bolti hai, 'Nahi, abhi nahi.' Meera ko kya karna chahiye?"
     },
     "choices": [
      {
       "label": {
        "en": "Say 'Okay' and play with something else",
-       "hi": "'ठीक है' कहे और किसी और चीज़ से खेले",
        "hg": "'Okay' bole aur kisi aur cheez se khele"
       },
       "tone": "good",
       "feedback": {
        "en": "Well done. Meera wanted her no to be heard, and she heard Zoya's no too. That is what good friends do. She can ask again another day.",
-       "hi": "शाबाश। मीरा चाहती थी कि उसकी 'ना' सुनी जाए, और उसने ज़ोया की 'ना' भी सुनी। अच्छे दोस्त यही करते हैं। वह किसी और दिन फिर पूछ सकती है।",
        "hg": "Shabaash. Meera chahti thi ki uski 'no' suni jaye, aur usne Zoya ki 'no' bhi suni. Achhe dost yahi karte hain. Woh kisi aur din phir pooch sakti hai."
       },
       "next": null
@@ -131,13 +114,11 @@
      {
       "label": {
        "en": "Keep asking, 'Please, please, please'",
-       "hi": "बार-बार कहती रहे, 'प्लीज़, प्लीज़, प्लीज़'",
        "hg": "Baar-baar bolti rahe, 'Please, please, please'"
       },
       "tone": "okay",
       "feedback": {
        "en": "Asking nicely once is fine. But asking again and again after a no is not listening. Meera can say 'Okay' and wait until Zoya is ready to share.",
-       "hi": "एक बार प्यार से पूछना ठीक है। पर 'ना' के बाद बार-बार पूछना, बात न सुनना है। मीरा 'ठीक है' कह सकती है और तब तक रुक सकती है जब तक ज़ोया ख़ुद देने को तैयार न हो।",
        "hg": "Ek baar pyaar se poochna theek hai. Par 'no' ke baad baar-baar poochna, baat na sunna hai. Meera 'Okay' bol sakti hai aur tab tak wait kar sakti hai jab tak Zoya khud share karne ko ready na ho."
       },
       "next": null
@@ -145,13 +126,11 @@
      {
       "label": {
        "en": "Take the doll anyway",
-       "hi": "फिर भी गुड़िया ले ले",
        "hg": "Phir bhi gudiya le le"
       },
       "tone": "risky",
       "feedback": {
        "en": "Meera really wants the doll, but Zoya said no. Taking it would make Zoya feel the way Meera felt when Kabir pulled her. Stopping at no is fair for everyone.",
-       "hi": "मीरा को गुड़िया सच में चाहिए, पर ज़ोया ने 'ना' कहा है। गुड़िया ले लेने से ज़ोया को वैसा ही लगेगा जैसा मीरा को तब लगा था जब कबीर ने उसे खींचा था। 'ना' पर रुक जाना सबके लिए इंसाफ़ है।",
        "hg": "Meera ko gudiya sach mein chahiye, par Zoya ne 'no' bola hai. Gudiya le lene se Zoya ko waisa hi lagega jaisa Meera ko tab laga tha jab Kabir ne use kheencha tha. 'No' pe ruk jana sabke liye fair hai."
       },
       "next": null
@@ -161,7 +140,6 @@
   },
   "debrief": {
    "en": "Your no matters, and so does your friend's no. Say it in a clear voice. If someone does not listen, tell a grown-up you trust. When someone says no to you, stop.",
-   "hi": "तुम्हारी 'ना' मायने रखती है, और तुम्हारे दोस्त की 'ना' भी। उसे साफ़ आवाज़ में कहो। अगर कोई न सुने, तो किसी भरोसे वाले बड़े को बताओ। जब कोई तुम्हें 'ना' कहे, तो रुक जाओ।",
    "hg": "Tumhari 'no' matter karti hai, aur tumhare dost ki 'no' bhi. Use clear awaaz mein bolo. Agar koi na sune, toh kisi bharose wale bade ko batao. Jab koi tumhe 'no' bole, toh ruk jao."
   },
   "refs": [
@@ -177,12 +155,10 @@
   ],
   "title": {
    "en": "The Nickname That Isn't Funny",
-   "hi": "वह नाम जो मज़ाक़ नहीं है",
    "hg": "Woh Nickname Jo Funny Nahi Hai"
   },
   "intro": {
    "en": "Ananya is eleven. Her friend Riya started calling her 'Chashmish' and now half the class is doing it. Ananya laughs along, but it hurts.",
-   "hi": "अनन्या ग्यारह साल की है। उसकी दोस्त रिया ने उसे 'चश्मिश' कहना शुरू किया और अब आधी क्लास यही कह रही है। अनन्या साथ में हँस देती है, पर उसे चुभता है।",
    "hg": "Ananya gyarah saal ki hai. Uski friend Riya ne use 'Chashmish' bolna shuru kiya aur ab aadhi class yahi bol rahi hai. Ananya saath mein hans deti hai, par use hurt hota hai."
   },
   "sensitive": false,
@@ -191,20 +167,17 @@
    "n1": {
     "text": {
      "en": "At lunch Riya says it again and everyone giggles. Ananya wants it to stop. What does she say to Riya?",
-     "hi": "लंच में रिया फिर वही कहती है और सब खिलखिला पड़ते हैं। अनन्या चाहती है कि यह बंद हो। वह रिया से क्या कहे?",
      "hg": "Lunch mein Riya phir wahi bolti hai aur sab giggle karte hain. Ananya chahti hai ki yeh band ho. Woh Riya ko kya bole?"
     },
     "choices": [
      {
       "label": {
        "en": "'Riya, I feel bad when you call me that. Please use my name.'",
-       "hi": "'रिया, जब तू मुझे ऐसे बुलाती है तो मुझे बुरा लगता है। प्लीज़ मेरा नाम ले।'",
        "hg": "'Riya, jab tu mujhe aise bulati hai toh mujhe bura lagta hai. Please mera naam le.'"
       },
       "tone": "good",
       "feedback": {
        "en": "This is an 'I' sentence: it says the feeling and what Ananya needs, without insulting Riya. It gives Riya a fair chance to stop, and most friends do.",
-       "hi": "यह 'मैं' वाला वाक्य है: इसमें अनन्या की भावना और उसकी ज़रूरत दोनों हैं, और रिया का कोई अपमान नहीं है। इससे रिया को रुकने का सही मौक़ा मिलता है, और ज़्यादातर दोस्त रुक जाते हैं।",
        "hg": "Yeh 'main' wala sentence hai: isme Ananya ki feeling aur uski need dono hain, aur Riya ki koi insult nahi hai. Isse Riya ko rukne ka fair chance milta hai, aur zyadatar dost ruk jaate hain."
       },
       "next": "n2"
@@ -212,13 +185,11 @@
      {
       "label": {
        "en": "Laugh and say nothing",
-       "hi": "हँस दे और कुछ न कहे",
        "hg": "Hans de aur kuch na bole"
       },
       "tone": "okay",
       "feedback": {
        "en": "Laughing along is a common way to hide hurt. The trouble is that Riya then thinks Ananya enjoys the joke. Nobody can fix what they do not know about.",
-       "hi": "साथ में हँस देना चोट छिपाने का आम तरीक़ा है। दिक़्क़त यह है कि फिर रिया को लगता है कि अनन्या को मज़ाक़ अच्छा लग रहा है। जिस बात का किसी को पता ही नहीं, उसे वह ठीक नहीं कर सकता।",
        "hg": "Saath mein hans dena hurt chhupane ka common tareeka hai. Problem yeh hai ki phir Riya ko lagta hai Ananya ko joke achha lag raha hai. Jis cheez ka kisi ko pata hi nahi, use woh fix nahi kar sakta."
       },
       "next": "n2"
@@ -226,13 +197,11 @@
      {
       "label": {
        "en": "'At least I'm not fat like you!'",
-       "hi": "'कम से कम मैं तेरी तरह मोटी तो नहीं हूँ!'",
        "hg": "'Kam se kam main teri tarah moti toh nahi hoon!'"
       },
       "tone": "risky",
       "feedback": {
        "en": "Hitting back is tempting when you are hurt. But an insult about Riya's body hurts her in the same way and turns one problem into a fight. Saying how you feel works better.",
-       "hi": "चोट लगने पर पलटकर वार करने का मन करता है। पर रिया के शरीर पर ताना उसे भी वैसे ही चोट पहुँचाता है और एक परेशानी को झगड़े में बदल देता है। यह बताना कि तुम्हें कैसा लग रहा है, ज़्यादा काम करता है।",
        "hg": "Hurt hone pe palat ke bolne ka mann karta hai. Par Riya ki body pe insult use bhi waise hi hurt karti hai aur ek problem ko fight mein badal deti hai. Yeh batana ki tumhe kaisa feel ho raha hai, zyada kaam karta hai."
       },
       "next": "n2"
@@ -242,20 +211,17 @@
    "n2": {
     "text": {
      "en": "Riya stops, but two boys keep saying it and write it on the board. Ananya decides she needs the class teacher. How should she do it?",
-     "hi": "रिया रुक जाती है, पर दो लड़के यही कहते रहते हैं और बोर्ड पर भी लिख देते हैं। अनन्या तय करती है कि अब क्लास टीचर की ज़रूरत है। वह यह कैसे करे?",
      "hg": "Riya ruk jaati hai, par do ladke yahi bolte rehte hain aur board pe bhi likh dete hain. Ananya decide karti hai ki ab class teacher ki zaroorat hai. Woh yeh kaise kare?"
     },
     "choices": [
      {
       "label": {
        "en": "Go after class: 'Ma'am, some classmates keep calling me a name. I asked them to stop and they didn't. I need your help.'",
-       "hi": "क्लास के बाद जाए: 'मैम, कुछ बच्चे मुझे बार-बार एक नाम से चिढ़ा रहे हैं। मैंने उन्हें रुकने को कहा, पर वे नहीं रुके। मुझे आपकी मदद चाहिए।'",
        "hg": "Class ke baad jaye: 'Ma'am, kuch classmates mujhe baar-baar ek naam se chidha rahe hain. Maine unhe rukne ko bola, par woh nahi ruke. Mujhe aapki help chahiye.'"
       },
       "tone": "good",
       "feedback": {
        "en": "Clear and complete: what is happening, what she already tried and what she needs. Teachers can act much faster when they get the facts like this. This is reporting, not complaining.",
-       "hi": "साफ़ और पूरी बात: क्या हो रहा है, उसने पहले क्या कोशिश की और उसे क्या चाहिए। जब टीचर को बात इस तरह पता चलती है तो वे बहुत जल्दी क़दम उठा पाते हैं। यह जानकारी देना है, शिकायत करना नहीं।",
        "hg": "Clear aur complete: kya ho raha hai, usne pehle kya try kiya aur use kya chahiye. Jab teachers ko facts is tarah milte hain toh woh bahut jaldi action le paate hain. Yeh reporting hai, complaining nahi."
       },
       "next": "n3"
@@ -263,13 +229,11 @@
      {
       "label": {
        "en": "Leave an unsigned note on the teacher's desk",
-       "hi": "टीचर की मेज़ पर बिना नाम की पर्ची छोड़ दे",
        "hg": "Teacher ki desk pe bina naam ka note chhod de"
       },
       "tone": "okay",
       "feedback": {
        "en": "A note is better than silence and can feel safer. But without a name the teacher cannot ask questions or check on Ananya later. Speaking, or signing the note, gets faster help.",
-       "hi": "पर्ची चुप रहने से बेहतर है और ज़्यादा सुरक्षित लग सकती है। पर नाम के बिना टीचर न सवाल पूछ सकती हैं, न बाद में अनन्या का हाल ले सकती हैं। बोलकर बताने या पर्ची पर नाम लिखने से मदद जल्दी मिलती है।",
        "hg": "Note chup rehne se better hai aur zyada safe lag sakta hai. Par naam ke bina teacher na sawaal pooch sakti hain, na baad mein Ananya ka haal le sakti hain. Bolkar batane ya note pe naam likhne se help jaldi milti hai."
       },
       "next": "n3"
@@ -277,13 +241,11 @@
      {
       "label": {
        "en": "Write mean nicknames for the boys on the board",
-       "hi": "बोर्ड पर उन लड़कों के लिए गंदे नाम लिख दे",
        "hg": "Board pe un ladkon ke liye mean nicknames likh de"
       },
       "tone": "risky",
       "feedback": {
        "en": "It may feel fair for a moment. But now Ananya could be the one in trouble, and the name-calling grows. Taking it to the teacher stops it without her breaking the rules.",
-       "hi": "एक पल के लिए यह बराबरी जैसा लग सकता है। पर अब डाँट अनन्या को पड़ सकती है, और नाम रखने का सिलसिला और बढ़ता है। बात टीचर तक ले जाने से यह रुकता है और अनन्या को कोई नियम तोड़ना नहीं पड़ता।",
        "hg": "Ek pal ke liye yeh fair lag sakta hai. Par ab trouble mein Ananya aa sakti hai, aur name-calling aur badhti hai. Baat teacher tak le jaane se yeh rukta hai aur Ananya ko koi rule todna nahi padta."
       },
       "next": "n3"
@@ -293,20 +255,17 @@
    "n3": {
     "text": {
      "en": "That evening her mother notices she is quiet and asks, 'Is everything okay?' What does Ananya say?",
-     "hi": "उस शाम उसकी मम्मी देखती हैं कि वह चुप-चुप है और पूछती हैं, 'सब ठीक है?' अनन्या क्या कहे?",
      "hg": "Us shaam uski mummy notice karti hain ki woh chup-chup hai aur poochti hain, 'Sab theek hai?' Ananya kya bole?"
     },
     "choices": [
      {
       "label": {
        "en": "'Not really. Some kids were calling me names. I told my teacher today, but I still feel upset.'",
-       "hi": "'पूरी तरह नहीं। कुछ बच्चे मुझे नाम से चिढ़ा रहे थे। आज मैंने टीचर को बता दिया, पर मुझे अब भी बुरा लग रहा है।'",
        "hg": "'Poori tarah nahi. Kuch bacche mujhe naam se chidha rahe the. Aaj maine teacher ko bata diya, par mujhe ab bhi bura lag raha hai.'"
       },
       "tone": "good",
       "feedback": {
        "en": "Sharing it at home means Ananya does not carry it alone, and her mother can follow up with the school if it starts again. Saying 'I still feel upset' is brave and honest.",
-       "hi": "घर पर बताने का मतलब है कि अनन्या यह बोझ अकेले नहीं उठा रही, और अगर यह फिर शुरू हो तो उसकी मम्मी स्कूल से बात कर सकती हैं। 'मुझे अब भी बुरा लग रहा है' कहना हिम्मत और ईमानदारी की बात है।",
        "hg": "Ghar pe batane ka matlab hai Ananya yeh akele carry nahi kar rahi, aur agar yeh phir shuru ho toh uski mummy school se follow up kar sakti hain. 'Mujhe ab bhi bura lag raha hai' bolna brave aur honest hai."
       },
       "next": null
@@ -314,13 +273,11 @@
      {
       "label": {
        "en": "'Yes, everything is fine.'",
-       "hi": "'हाँ, सब ठीक है।'",
        "hg": "'Haan, sab theek hai.'"
       },
       "tone": "okay",
       "feedback": {
        "en": "Many children say this to avoid worrying their parents. But parents usually sense something is wrong, and they cannot help with a problem they do not know about. Ananya can still tell her later.",
-       "hi": "बहुत से बच्चे मम्मी-पापा को चिंता से बचाने के लिए यही कहते हैं। पर माता-पिता को आम तौर पर महसूस हो जाता है कि कुछ गड़बड़ है, और जिस परेशानी का उन्हें पता नहीं, उसमें वे मदद नहीं कर सकते। अनन्या बाद में भी उन्हें बता सकती है।",
        "hg": "Bahut bacche parents ko worry se bachane ke liye yahi bolte hain. Par parents ko usually feel ho jata hai ki kuch gadbad hai, aur jis problem ka unhe pata nahi, usme woh help nahi kar sakte. Ananya baad mein bhi unhe bata sakti hai."
       },
       "next": null
@@ -330,7 +287,6 @@
   },
   "debrief": {
    "en": "When something hurts, say it plainly: 'I feel... when you... please...'. If the person does not stop, take it to a teacher with the facts, and tell someone at home too. Asking adults for help with repeated teasing is not weakness. It is exactly what they are there for.",
-   "hi": "जब कोई बात चुभे, तो उसे सीधे कहो: 'मुझे महसूस होता है... जब तुम... प्लीज़...'। अगर सामने वाला न रुके, तो पूरी बात के साथ टीचर के पास जाओ, और घर पर भी किसी को बताओ। बार-बार चिढ़ाए जाने पर बड़ों से मदद माँगना कमज़ोरी नहीं है। वे इसी के लिए तो हैं।",
    "hg": "Jab koi baat hurt kare, toh use seedha bolo: 'Mujhe feel hota hai... jab tum... please...'. Agar saamne wala na ruke, toh facts ke saath teacher ke paas jao, aur ghar pe bhi kisi ko batao. Baar-baar ki teasing mein badon se help maangna weakness nahi hai. Woh isi ke liye toh hain."
   },
   "refs": [
@@ -346,12 +302,10 @@
   ],
   "title": {
    "en": "Everyone's In. Are You?",
-   "hi": "सब तैयार हैं। और तुम?",
    "hg": "Sab In Hain. Aur Tu?"
   },
   "intro": {
    "en": "Arjun is fourteen. After tuition, his group plans to go to a senior's flat where, as Dev puts it, 'there'll be vapes and no parents'.",
-   "hi": "अर्जुन चौदह साल का है। ट्यूशन के बाद उसका ग्रुप एक सीनियर के फ़्लैट पर जाने की योजना बना रहा है जहाँ, देव के शब्दों में, 'वेप होंगे और मम्मी-पापा नहीं होंगे'।",
    "hg": "Arjun chaudah saal ka hai. Tuition ke baad uska group ek senior ke flat pe jaane ka plan bana raha hai jahan, Dev ke words mein, 'vapes honge aur parents nahi honge'."
   },
   "sensitive": false,
@@ -360,20 +314,17 @@
    "n1": {
     "text": {
      "en": "Dev throws an arm around Arjun. 'Everyone's coming. Don't be the only baby who goes home.' Arjun does not want to go. What does he do?",
-     "hi": "देव अर्जुन के कंधे पर हाथ रखता है। 'सब आ रहे हैं। अकेला बच्चा मत बन जो घर चला जाए।' अर्जुन जाना नहीं चाहता। वह क्या करे?",
      "hg": "Dev Arjun ke kandhe pe haath rakhta hai. 'Sab aa rahe hain. Akela baccha mat ban jo ghar chala jaye.' Arjun jaana nahi chahta. Woh kya kare?"
     },
     "choices": [
      {
       "label": {
        "en": "'No, I'm not coming. Not my scene. See you tomorrow.'",
-       "hi": "'नहीं, मैं नहीं आ रहा। यह सब मुझे पसंद नहीं। कल मिलते हैं।'",
        "hg": "'Nahi, main nahi aa raha. Not my scene. Kal milte hain.'"
       },
       "tone": "good",
       "feedback": {
        "en": "Short, calm and no long excuse, so there is nothing for Dev to argue with. Arjun refused the plan without insulting anyone, which makes it easier to stay friends.",
-       "hi": "छोटी, शांत बात और कोई लंबा बहाना नहीं, इसलिए देव के पास बहस करने को कुछ नहीं है। अर्जुन ने किसी का अपमान किए बिना प्लान को मना किया, जिससे दोस्ती बनाए रखना आसान रहता है।",
        "hg": "Short, calm aur koi lamba excuse nahi, isliye Dev ke paas argue karne ko kuch nahi hai. Arjun ne kisi ki insult kiye bina plan ko mana kiya, jisse dosti banaye rakhna easy rehta hai."
       },
       "next": "n2"
@@ -381,13 +332,11 @@
      {
       "label": {
        "en": "'Uh... my mom is calling, I have to go.'",
-       "hi": "'अरे... मम्मी का फ़ोन आ रहा है, मुझे जाना होगा।'",
        "hg": "'Arre... mummy ka call aa raha hai, mujhe jaana hoga.'"
       },
       "tone": "okay",
       "feedback": {
        "en": "An excuse gets Arjun out safely today, and that is a fair tactic. The limit is that the same pressure returns next week. A clear 'I don't want to' closes the door better.",
-       "hi": "बहाने से अर्जुन आज सुरक्षित निकल जाता है, और यह ठीक तरीक़ा है। इसकी सीमा यह है कि अगले हफ़्ते वही दबाव फिर लौट आएगा। साफ़ 'मेरा मन नहीं है' कहने से दरवाज़ा बेहतर ढंग से बंद होता है।",
        "hg": "Excuse se Arjun aaj safely nikal jata hai, aur yeh fair tactic hai. Iski limit yeh hai ki agle week wahi pressure phir aayega. Clear 'mera mann nahi hai' bolne se door better tareeke se band hota hai."
       },
       "next": "n2"
@@ -395,13 +344,11 @@
      {
       "label": {
        "en": "Go along and plan to 'just watch'",
-       "hi": "साथ चला जाए और सोचे कि 'बस देखूँगा'",
        "hg": "Saath chala jaye aur soche ki 'bas dekhunga'"
       },
       "tone": "risky",
       "feedback": {
        "en": "It is hard to be the only one who says no. But once there, the pressure usually grows, and Arjun is in a place with no adults and no easy exit. Deciding before you go is far easier than deciding there.",
-       "hi": "अकेले 'ना' कहने वाला बनना मुश्किल होता है। पर वहाँ पहुँचने के बाद दबाव आम तौर पर बढ़ता है, और अर्जुन ऐसी जगह होगा जहाँ न कोई बड़ा है, न निकलने का आसान रास्ता। जाने से पहले फ़ैसला करना वहाँ पहुँचकर फ़ैसला करने से कहीं आसान है।",
        "hg": "Akela 'no' bolne wala banna mushkil hota hai. Par wahan pahunchne ke baad pressure usually badhta hai, aur Arjun aisi jagah hoga jahan na koi adult hai, na nikalne ka easy raasta. Jaane se pehle decide karna wahan pahunch ke decide karne se kahin easy hai."
       },
       "next": "n2"
@@ -411,20 +358,17 @@
    "n2": {
     "text": {
      "en": "Dev does not let it go. 'Seriously? After I covered for you last month? Real friends show up.' The others are watching. What now?",
-     "hi": "देव बात छोड़ता नहीं। 'सच में? पिछले महीने मैंने तेरे लिए बात सँभाली थी, उसके बाद भी? असली दोस्त साथ आते हैं।' बाक़ी सब देख रहे हैं। अब क्या?",
      "hg": "Dev baat chhodta nahi. 'Seriously? Pichhle mahine maine tere liye cover kiya tha, uske baad bhi? Asli dost saath aate hain.' Baaki sab dekh rahe hain. Ab kya?"
     },
     "choices": [
      {
       "label": {
        "en": "'I'm grateful you covered for me. I'm still not coming. Stop asking.'",
-       "hi": "'तूने उस दिन मेरा साथ दिया, उसके लिए शुक्रिया। मैं फिर भी नहीं आ रहा। अब मत पूछ।'",
        "hg": "'Tune us din cover kiya, uske liye thanks. Main phir bhi nahi aa raha. Ab mat pooch.'"
       },
       "tone": "good",
       "feedback": {
        "en": "Arjun spotted the guilt trip and separated the two things: thanks for the favour, no to the plan. Calmly repeating the same no is called the broken-record technique, and it works.",
-       "hi": "अर्जुन ने अपराध-बोध वाली चाल पहचान ली और दोनों बातों को अलग कर दिया: एहसान के लिए शुक्रिया, प्लान के लिए 'ना'। शांत रहकर वही 'ना' दोहराने को अटके रिकॉर्ड वाली तकनीक कहते हैं, और यह काम करती है।",
        "hg": "Arjun ne guilt trip pakad li aur dono cheezon ko alag kar diya: favour ke liye thanks, plan ke liye 'no'. Calmly wahi 'no' repeat karne ko broken-record technique kehte hain, aur yeh kaam karti hai."
       },
       "next": "n3"
@@ -432,13 +376,11 @@
      {
       "label": {
        "en": "Say nothing and walk away",
-       "hi": "कुछ न कहे और चला जाए",
        "hg": "Kuch na bole aur chala jaye"
       },
       "tone": "okay",
       "feedback": {
        "en": "Leaving is a completely valid way to end pressure, and sometimes the safest. Adding one clear sentence before going, such as 'I said no', makes it less likely that Dev tries again tomorrow.",
-       "hi": "वहाँ से चले जाना दबाव ख़त्म करने का पूरी तरह जायज़ तरीक़ा है, और कभी-कभी सबसे सुरक्षित भी। जाने से पहले एक साफ़ वाक्य जोड़ देना, जैसे 'मैंने ना कहा है', इस बात की संभावना घटाता है कि देव कल फिर कोशिश करे।",
        "hg": "Wahan se nikal jana pressure khatam karne ka bilkul valid tareeka hai, aur kabhi-kabhi sabse safe bhi. Jaane se pehle ek clear sentence add kar dena, jaise 'Maine no bola hai', is chance ko kam karta hai ki Dev kal phir try kare."
       },
       "next": "n3"
@@ -446,13 +388,11 @@
      {
       "label": {
        "en": "Snap back: 'You're all losers anyway!'",
-       "hi": "पलटकर बोल दे: 'तुम सब वैसे भी लूज़र हो!'",
        "hg": "Palat ke bol de: 'Tum sab waise bhi losers ho!'"
       },
       "tone": "risky",
       "feedback": {
        "en": "The anger is understandable, because Dev is using guilt as a lever. But insults turn a pressure situation into a fight and give the group a reason to gang up. A calm repeat of 'no' keeps Arjun in control.",
-       "hi": "ग़ुस्सा समझ में आता है, क्योंकि देव अपराध-बोध को हथियार बना रहा है। पर अपमान दबाव वाली स्थिति को झगड़े में बदल देता है और ग्रुप को एकजुट होकर ख़िलाफ़ होने की वजह देता है। शांत रहकर 'ना' दोहराने से बात अर्जुन के क़ाबू में रहती है।",
        "hg": "Gussa samajh mein aata hai, kyunki Dev guilt ko lever bana raha hai. Par insults pressure wali situation ko fight mein badal dete hain aur group ko gang up karne ka reason dete hain. Calmly 'no' repeat karne se control Arjun ke paas rehta hai."
       },
       "next": "n3"
@@ -462,20 +402,17 @@
    "n3": {
     "text": {
      "en": "On the way home, Sameer catches up. 'I didn't want to go either. I just couldn't say it.' He looks worried about what the group will think. What does Arjun say?",
-     "hi": "घर के रास्ते में समीर पीछे से आ मिलता है। 'मेरा भी जाने का मन नहीं था। बस मैं कह नहीं पाया।' उसे चिंता है कि ग्रुप क्या सोचेगा। अर्जुन क्या कहे?",
      "hg": "Ghar ke raaste mein Sameer peeche se aa milta hai. 'Mera bhi jaane ka mann nahi tha. Bas main bol nahi paya.' Use tension hai ki group kya sochega. Arjun kya bole?"
     },
     "choices": [
      {
       "label": {
        "en": "'Same. Come, walk with me. Next time we say no together.'",
-       "hi": "'मेरा भी यही हाल था। चल, साथ चलते हैं। अगली बार हम साथ में ना कहेंगे।'",
        "hg": "'Same. Chal, saath chalte hain. Next time hum saath mein no bolenge.'"
       },
       "tone": "good",
       "feedback": {
        "en": "Arjun gave Sameer what he needed: company and a plan, with no lecture. Pressure is much weaker against two people than one, and Sameer now knows whom to stand beside.",
-       "hi": "अर्जुन ने समीर को वही दिया जो उसे चाहिए था: साथ और एक योजना, बिना किसी भाषण के। एक के मुक़ाबले दो लोगों पर दबाव बहुत कम चलता है, और अब समीर जानता है कि किसके साथ खड़ा होना है।",
        "hg": "Arjun ne Sameer ko wahi diya jo use chahiye tha: company aur ek plan, bina kisi lecture ke. Ek ke comparison mein do logon pe pressure bahut kam chalta hai, aur ab Sameer jaanta hai kiske saath khada hona hai."
       },
       "next": null
@@ -483,13 +420,11 @@
      {
       "label": {
        "en": "'Then why did you stay quiet? You should have backed me up.'",
-       "hi": "'तो फिर तू चुप क्यों रहा? तुझे मेरा साथ देना चाहिए था।'",
        "hg": "'Toh phir tu chup kyun raha? Tujhe mera saath dena chahiye tha.'"
       },
       "tone": "okay",
       "feedback": {
        "en": "Arjun's frustration is fair, since support would have helped. But blaming Sameer now may push him back toward the group. Appreciating that he came along at all builds an ally for next time.",
-       "hi": "अर्जुन की झुँझलाहट जायज़ है, क्योंकि साथ मिलता तो मदद होती। पर अभी समीर पर इल्ज़ाम लगाने से वह वापस ग्रुप की ओर जा सकता है। इस बात की क़द्र करना कि वह साथ आया तो, अगली बार के लिए एक साथी तैयार करता है।",
        "hg": "Arjun ki frustration fair hai, kyunki support milta toh help hoti. Par abhi Sameer ko blame karne se woh wapas group ki taraf ja sakta hai. Is baat ko appreciate karna ki woh saath aaya toh, next time ke liye ek ally banata hai."
       },
       "next": null
@@ -499,7 +434,6 @@
   },
   "debrief": {
    "en": "Pressure usually comes dressed as friendship: 'everyone's in', 'you owe me', 'don't be a baby'. Notice the tactic, keep your answer short, repeat it, and leave if needed. Decide before you are in the situation, and find one person who feels the same. A friend who needs guilt to get your yes is pushing, not asking.",
-   "hi": "दबाव आम तौर पर दोस्ती का चोला पहनकर आता है: 'सब आ रहे हैं', 'तुझ पर मेरा एहसान है', 'बच्चा मत बन'। चाल को पहचानो, जवाब छोटा रखो, उसे दोहराओ, और ज़रूरत हो तो वहाँ से चले जाओ। स्थिति में फँसने से पहले ही फ़ैसला कर लो, और एक ऐसा इंसान ढूँढो जो तुम्हारी तरह सोचता हो। जिस दोस्त को तुम्हारी 'हाँ' के लिए अपराध-बोध का सहारा लेना पड़े, वह पूछ नहीं रहा, दबाव डाल रहा है।",
    "hg": "Pressure usually dosti ke kapde pehen ke aata hai: 'sab aa rahe hain', 'tujhpe mera favour hai', 'baccha mat ban'. Tactic ko notice karo, answer short rakho, use repeat karo, aur zaroorat ho toh wahan se nikal jao. Situation mein phansne se pehle hi decide kar lo, aur ek aisa insaan dhoondo jo tumhari tarah feel karta ho. Jis dost ko tumhari 'yes' ke liye guilt ka sahara lena pade, woh pooch nahi raha, push kar raha hai."
   },
   "refs": [
@@ -517,12 +451,10 @@
   ],
   "title": {
    "en": "The Appointment",
-   "hi": "डॉक्टर से मुलाक़ात",
    "hg": "Doctor Ka Appointment"
   },
   "intro": {
    "en": "Sana is seventeen. For four months her periods have been so heavy that she soaks a pad in about an hour, and the pain makes her miss school.",
-   "hi": "सना सत्रह साल की है। चार महीने से उसके पीरियड इतने भारी हैं कि लगभग एक घंटे में पैड पूरा भीग जाता है, और दर्द की वजह से उसका स्कूल छूट जाता है।",
    "hg": "Sana satrah saal ki hai. Chaar mahine se uske periods itne heavy hain ki lagbhag ek ghante mein pad poora bheeg jata hai, aur dard ki wajah se uska school miss ho jata hai."
   },
   "sensitive": false,
@@ -531,20 +463,17 @@
    "n1": {
     "text": {
      "en": "Late at night she scrolls past a reel: an influencer selling a 'hormone balance tea' that 'fixes any period problem in one cycle, guaranteed'. A friend has commented, 'Try it!' What does Sana do?",
-     "hi": "देर रात स्क्रॉल करते हुए उसे एक रील दिखती है: एक इन्फ़्लुएंसर 'हार्मोन बैलेंस चाय' बेच रही है जो 'पीरियड की हर परेशानी एक ही साइकिल में ठीक कर देती है, गारंटी के साथ'। एक दोस्त ने कमेंट किया है, 'ट्राई कर!' सना क्या करे?",
      "hg": "Late night scroll karte hue use ek reel dikhti hai: ek influencer 'hormone balance tea' bech rahi hai jo 'period ki har problem ek hi cycle mein fix kar deti hai, guaranteed'. Ek friend ne comment kiya hai, 'Try kar!' Sana kya kare?"
     },
     "choices": [
      {
       "label": {
        "en": "Tell her mother what is happening and ask to see a doctor",
-       "hi": "मम्मी को बताए कि क्या हो रहा है और डॉक्टर को दिखाने के लिए कहे",
        "hg": "Mummy ko bataye ki kya ho raha hai aur doctor ko dikhane ke liye bole"
       },
       "tone": "good",
       "feedback": {
        "en": "Soaking a pad every one to two hours and pain that stops normal activity are both reasons to see a doctor. Telling an adult gets Sana an examination, which no reel can provide.",
-       "hi": "हर एक-दो घंटे में पैड का पूरा भीग जाना और ऐसा दर्द जो रोज़ के काम रोक दे, दोनों डॉक्टर को दिखाने की वजहें हैं। किसी बड़े को बताने से सना की जाँच हो पाएगी, जो कोई रील नहीं कर सकती।",
        "hg": "Har ek-do ghante mein pad ka poora bheeg jana aur aisa dard jo normal activity rok de, dono doctor ko dikhane ke reasons hain. Kisi adult ko batane se Sana ka examination ho payega, jo koi reel nahi kar sakti."
       },
       "next": "n2"
@@ -552,13 +481,11 @@
      {
       "label": {
        "en": "Read about heavy periods on a hospital website first",
-       "hi": "पहले किसी अस्पताल की वेबसाइट पर भारी पीरियड के बारे में पढ़े",
        "hg": "Pehle kisi hospital ki website pe heavy periods ke baare mein padhe"
       },
       "tone": "okay",
       "feedback": {
        "en": "Choosing a reliable source over a reel is good critical thinking, and it will help her ask better questions. But reading cannot examine her. With these symptoms, it should lead to an appointment, not replace one.",
-       "hi": "रील की जगह भरोसेमंद स्रोत चुनना अच्छी परख है, और इससे वह बेहतर सवाल पूछ पाएगी। पर पढ़ने से उसकी जाँच नहीं हो सकती। ऐसे लक्षणों में पढ़ने के बाद अगला क़दम डॉक्टर से मिलना होना चाहिए; पढ़ना डॉक्टर को दिखाने की जगह नहीं ले सकता।",
        "hg": "Reel ki jagah reliable source choose karna achhi critical thinking hai, aur isse woh better sawaal pooch payegi. Par padhne se uska examination nahi ho sakta. Aise symptoms mein padhne ke baad next step doctor se milna hona chahiye; padhna doctor ko dikhane ki jagah nahi le sakta."
       },
       "next": "n2"
@@ -566,13 +493,11 @@
      {
       "label": {
        "en": "Order the tea and wait two more months",
-       "hi": "चाय मँगवा ले और दो महीने और रुके",
        "hg": "Tea order kar le aur do mahine aur wait kare"
       },
       "tone": "risky",
       "feedback": {
        "en": "Wanting a private, quick fix is understandable. But 'guaranteed' and 'fixes any problem' are classic red flags, the seller gains from the claim, and two more months of heavy bleeding can leave her anaemic and exhausted.",
-       "hi": "चुपचाप और जल्दी हल चाहना समझ में आता है। पर 'गारंटी' और 'हर परेशानी ठीक' ख़तरे के जाने-माने संकेत हैं, इस दावे से बेचने वाले का फ़ायदा है, और दो महीने और भारी ख़ून बहने से उसमें ख़ून की कमी (एनीमिया) और बहुत थकान हो सकती है।",
        "hg": "Chupchaap aur quick fix chahna samajh mein aata hai. Par 'guaranteed' aur 'har problem fix' classic red flags hain, is claim se seller ka fayda hai, aur do mahine aur heavy bleeding se use anaemia aur bahut thakaan ho sakti hai."
       },
       "next": "n2"
@@ -582,20 +507,17 @@
    "n2": {
     "text": {
      "en": "At the clinic, the doctor asks questions quickly. Sana's mother answers for her: 'It's normal, she just has a low pain tolerance.' Sana feels her face go hot. What does she do?",
-     "hi": "क्लिनिक में डॉक्टर जल्दी-जल्दी सवाल पूछती हैं। सना की जगह उसकी मम्मी जवाब दे देती हैं: 'यह तो आम बात है, बस इससे दर्द सहा नहीं जाता।' सना का चेहरा तमतमा जाता है। वह क्या करे?",
      "hg": "Clinic mein doctor jaldi-jaldi sawaal poochti hain. Sana ki jagah uski mummy jawab de deti hain: 'Yeh toh normal hai, bas isse dard sehen nahi hota.' Sana ka chehra garam ho jata hai. Woh kya kare?"
     },
     "choices": [
      {
       "label": {
        "en": "'Doctor, may I explain it myself? I wrote down my dates and how many pads I use.'",
-       "hi": "'डॉक्टर, क्या मैं ख़ुद बता सकती हूँ? मैंने अपनी तारीख़ें और पैड की गिनती लिखकर रखी है।'",
        "hg": "'Doctor, kya main khud bata sakti hoon? Maine apni dates aur pads ki ginti likh ke rakhi hai.'"
       },
       "tone": "good",
       "feedback": {
        "en": "Polite, firm and prepared. The doctor now gets first-hand facts: dates, pad counts, missed school days. An accurate history is what leads to the right tests and treatment.",
-       "hi": "तमीज़ भरा, मज़बूत और तैयारी वाला जवाब। अब डॉक्टर को सीधे सना से जानकारी मिलती है: तारीख़ें, पैड की गिनती, स्कूल से छूटे दिन। सही जानकारी से ही सही जाँच और इलाज तक पहुँचा जाता है।",
        "hg": "Polite, firm aur prepared. Ab doctor ko first-hand facts milte hain: dates, pads ki ginti, school ke missed days. Accurate history se hi sahi tests aur treatment tak pahuncha jata hai."
       },
       "next": "n3"
@@ -603,13 +525,11 @@
      {
       "label": {
        "en": "Stay quiet and let her mother handle it",
-       "hi": "चुप रहे और मम्मी को ही बात करने दे",
        "hg": "Chup rahe aur mummy ko hi handle karne de"
       },
       "tone": "okay",
       "feedback": {
        "en": "Staying quiet in front of a parent and a doctor is very common. The risk is that the doctor hears a milder story than the real one. Even handing over her written notes would put the facts on the table.",
-       "hi": "मम्मी-पापा और डॉक्टर के सामने चुप रह जाना बहुत आम है। जोखिम यह है कि डॉक्टर तक असल से हल्की कहानी पहुँचती है। सिर्फ़ अपने लिखे नोट्स थमा देने से भी पूरी बात सामने आ जाती।",
        "hg": "Parent aur doctor ke saamne chup reh jana bahut common hai. Risk yeh hai ki doctor tak real se halki story pahunchti hai. Sirf apne likhe notes de dene se bhi poore facts saamne aa jaate."
       },
       "next": "n3"
@@ -617,13 +537,11 @@
      {
       "label": {
        "en": "Say 'It's fine, it's not that bad' to end the visit",
-       "hi": "मुलाक़ात जल्दी ख़त्म करने के लिए कह दे 'ठीक है, इतना बुरा नहीं है'",
        "hg": "Visit jaldi khatam karne ke liye bol de 'Theek hai, itna bura nahi hai'"
       },
       "tone": "risky",
       "feedback": {
        "en": "Embarrassment makes people shrink their symptoms. But the doctor can only treat what they are told, and playing it down may mean no tests and no relief. The true version is the useful one.",
-       "hi": "शर्म की वजह से लोग अपने लक्षण घटाकर बताते हैं। पर डॉक्टर उसी का इलाज कर सकते हैं जो उन्हें बताया जाए, और बात हल्की करके कहने का नतीजा हो सकता है कि न जाँच हो, न आराम मिले। काम की बात वही है जो सच है।",
        "hg": "Sharam ki wajah se log apne symptoms chhote karke batate hain. Par doctor usi ka ilaaj kar sakte hain jo unhe bataya jaye, aur baat halki karke bolne ka result ho sakta hai ki na tests hon, na relief mile. Kaam ka version wahi hai jo sach hai."
       },
       "next": "n3"
@@ -633,20 +551,17 @@
    "n3": {
     "text": {
      "en": "The doctor orders a blood test and writes a prescription, then turns to the next file. Sana has not understood what the tablets are for. What does she do?",
-     "hi": "डॉक्टर ख़ून की जाँच लिखती हैं, एक पर्चा बनाती हैं और अगली फ़ाइल की ओर मुड़ जाती हैं। सना को समझ नहीं आया कि गोलियाँ किसलिए हैं। वह क्या करे?",
      "hg": "Doctor blood test likhti hain, ek prescription banati hain aur next file ki taraf mud jaati hain. Sana ko samajh nahi aaya ki tablets kis liye hain. Woh kya kare?"
     },
     "choices": [
      {
       "label": {
        "en": "Ask: 'What is this medicine for, how long do I take it, and what side effects should I watch for? When should I come back?'",
-       "hi": "पूछे: 'यह दवा किसलिए है, कितने दिन लेनी है, और किन साइड इफ़ेक्ट पर नज़र रखूँ? मुझे दोबारा कब आना है?'",
        "hg": "Pooche: 'Yeh medicine kis liye hai, kitne din leni hai, aur kin side effects pe nazar rakhun? Mujhe dobara kab aana hai?'"
       },
       "tone": "good",
       "feedback": {
        "en": "Those four questions are exactly what a patient is entitled to ask. A minute of questions now prevents wrong doses, missed follow-ups and panic over normal side effects later.",
-       "hi": "ये चार सवाल ठीक वही हैं जो पूछना मरीज़ का हक़ है। अभी एक मिनट के सवाल बाद में ग़लत ख़ुराक, छूटी हुई दोबारा जाँच और सामान्य साइड इफ़ेक्ट पर घबराहट से बचाते हैं।",
        "hg": "Ye chaar sawaal exactly wahi hain jo poochna patient ka right hai. Abhi ek minute ke sawaal baad mein galat dose, missed follow-up aur normal side effects pe panic se bachate hain."
       },
       "next": null
@@ -654,13 +569,11 @@
      {
       "label": {
        "en": "Leave, and search the tablet's name online later",
-       "hi": "चली जाए, और बाद में गोली का नाम ऑनलाइन सर्च करे",
        "hg": "Chali jaye, aur baad mein tablet ka naam online search kare"
       },
       "tone": "okay",
       "feedback": {
        "en": "Looking up a medicine is reasonable, and reliable sources exist. But the internet does not know why this doctor chose it for her. Asking in the room, or asking the pharmacist, gives an answer that fits her case.",
-       "hi": "किसी दवा के बारे में पढ़ना ठीक बात है, और भरोसेमंद स्रोत मौजूद हैं। पर इंटरनेट को नहीं पता कि इस डॉक्टर ने यह दवा सना के लिए क्यों चुनी। वहीं कमरे में पूछने या फ़ार्मासिस्ट से पूछने पर ऐसा जवाब मिलता है जो उसके मामले पर लागू होता है।",
        "hg": "Kisi medicine ke baare mein padhna reasonable hai, aur reliable sources maujood hain. Par internet ko nahi pata ki is doctor ne yeh medicine Sana ke liye kyun choose ki. Wahin room mein poochne ya pharmacist se poochne pe aisa answer milta hai jo uske case pe fit hota hai."
       },
       "next": null
@@ -668,13 +581,11 @@
      {
       "label": {
        "en": "Decide to take the tablets only when the pain is bad",
-       "hi": "तय कर ले कि गोलियाँ सिर्फ़ तब लेगी जब दर्द ज़्यादा होगा",
        "hg": "Decide kar le ki tablets sirf tab legi jab dard zyada hoga"
       },
       "tone": "risky",
       "feedback": {
        "en": "Taking less medicine can seem sensible. But changing a prescription on a guess can make the treatment fail or cause new problems. If the plan is unclear or worrying, the fix is to ask, not to adjust it alone.",
-       "hi": "कम दवा लेना समझदारी लग सकता है। पर अंदाज़े से पर्चे में बदलाव करने से इलाज बेअसर हो सकता है या नई परेशानियाँ हो सकती हैं। अगर योजना समझ न आए या उससे चिंता हो, तो हल पूछना है, अकेले उसमें फेरबदल करना नहीं।",
        "hg": "Kam medicine lena sensible lag sakta hai. Par andaze se prescription change karne se treatment fail ho sakta hai ya nayi problems ho sakti hain. Agar plan unclear ho ya usse worry ho, toh fix poochna hai, akele use adjust karna nahi."
       },
       "next": null
@@ -684,7 +595,6 @@
   },
   "debrief": {
    "en": "Health decisions go better when you use a reliable source, tell a trusted adult, prepare your facts and speak for yourself in the clinic. Ask what a medicine is for, how to take it and when to return. 'Guaranteed' cures online are marketing. Persistent heavy bleeding or severe pain deserves a doctor, not a product.",
-   "hi": "सेहत के फ़ैसले तब बेहतर होते हैं जब तुम भरोसेमंद स्रोत इस्तेमाल करो, किसी भरोसेमंद बड़े को बताओ, अपनी जानकारी तैयार रखो और क्लिनिक में अपनी बात ख़ुद कहो। पूछो कि दवा किसलिए है, कैसे लेनी है और दोबारा कब आना है। ऑनलाइन 'गारंटी' वाले इलाज मार्केटिंग हैं। लगातार भारी ख़ून बहना या तेज़ दर्द डॉक्टर का मामला है, किसी प्रोडक्ट का नहीं।",
    "hg": "Health ke decisions tab better hote hain jab tum reliable source use karo, kisi trusted adult ko batao, apne facts ready rakho aur clinic mein apni baat khud bolo. Poocho ki medicine kis liye hai, kaise leni hai aur dobara kab aana hai. Online 'guaranteed' cures marketing hain. Lagataar heavy bleeding ya severe pain doctor ka maamla hai, kisi product ka nahi."
   },
   "refs": [

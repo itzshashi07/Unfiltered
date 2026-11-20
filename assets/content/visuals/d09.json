@@ -4,13 +4,11 @@
   "type": "compare",
   "title": {
    "en": "How STIs spread, and how they don't",
-   "hi": "STI कैसे फैलते हैं, और कैसे नहीं",
    "hg": "STIs kaise failte hain, aur kaise nahi"
   },
   "left": {
    "title": {
     "en": "Can spread through",
-    "hi": "इनसे फैल सकते हैं",
     "hg": "Inse fail sakte hain"
    },
    "tone": "bad",
@@ -18,17 +16,14 @@
    "points": [
     {
      "en": "Sexual contact involving the genitals, anus or mouth",
-     "hi": "जननांग, गुदा या मुँह से जुड़ा यौन संपर्क",
      "hg": "Genitals, anus ya mouth wala sexual contact"
     },
     {
      "en": "Infected blood, for example on shared needles",
-     "hi": "संक्रमित ख़ून, जैसे साझा की गई सुइयों से",
      "hg": "Infected blood, jaise shared needles se"
     },
     {
      "en": "For some, like HIV, from a pregnant person to the baby",
-     "hi": "कुछ, जैसे HIV, गर्भवती व्यक्ति से बच्चे तक",
      "hg": "Kuch, jaise HIV, pregnant person se baby tak"
     }
    ]
@@ -36,7 +31,6 @@
   "right": {
    "title": {
     "en": "Do not spread through",
-    "hi": "इनसे नहीं फैलते",
     "hg": "Inse nahi failte"
    },
    "tone": "good",
@@ -44,22 +38,18 @@
    "points": [
     {
      "en": "Hugging or shaking hands",
-     "hi": "गले मिलना या हाथ मिलाना",
      "hg": "Hug karna ya haath milana"
     },
     {
      "en": "Sharing food, coughing or swimming pools",
-     "hi": "खाना बाँटना, खाँसी या स्विमिंग पूल",
      "hg": "Khaana share karna, khaansi ya swimming pool"
     },
     {
      "en": "Toilet seats or mosquito bites",
-     "hi": "टॉयलेट सीट या मच्छर का काटना",
      "hg": "Toilet seat ya machhar ka kaatna"
     },
     {
      "en": "Sitting, eating or studying next to someone with HIV",
-     "hi": "HIV वाले किसी व्यक्ति के पास बैठना, खाना या पढ़ना",
      "hg": "HIV wale kisi person ke paas baithna, khaana ya padhna"
     }
    ]
@@ -70,7 +60,6 @@
   "type": "grid",
   "title": {
    "en": "The curable four at a glance",
-   "hi": "ठीक होने वाले चार STI, एक नज़र में",
    "hg": "Curable four, ek nazar mein"
   },
   "items": [
@@ -78,12 +67,10 @@
     "icon": "germ",
     "label": {
      "en": "Chlamydia and gonorrhoea",
-     "hi": "क्लैमाइडिया और गोनोरिया",
      "hg": "Chlamydia aur gonorrhoea"
     },
     "text": {
      "en": "Often silent; untreated, they can scar the tubes and lead to infertility or ectopic pregnancy.",
-     "hi": "अक्सर कोई लक्षण नहीं; इलाज न हो तो ट्यूब पर निशान पड़ सकते हैं, जिससे बाँझपन या एक्टोपिक प्रेग्नेंसी हो सकती है।",
      "hg": "Aksar koi symptoms nahi; treatment na ho toh tubes par scarring ho sakti hai, jisse infertility ya ectopic pregnancy ho sakti hai."
     }
    },
@@ -91,12 +78,10 @@
     "icon": "eye_off",
     "label": {
      "en": "Syphilis",
-     "hi": "सिफ़लिस",
      "hg": "Syphilis"
     },
     "text": {
      "en": "A painless sore, then a rash; symptoms vanish but the bacteria stay and can harm the heart and brain.",
-     "hi": "पहले बिना दर्द का घाव, फिर दाने; लक्षण ग़ायब हो जाते हैं पर बैक्टीरिया शरीर में रहकर दिल और दिमाग़ को नुक़सान पहुँचा सकते हैं।",
      "hg": "Pehle bina dard ka sore, phir rash; symptoms gayab ho jaate hain par bacteria body mein reh kar heart aur brain ko nuksaan pahuncha sakte hain."
     }
    },
@@ -104,12 +89,10 @@
     "icon": "microscope",
     "label": {
      "en": "Trichomoniasis",
-     "hi": "ट्राइकोमोनिएसिस",
      "hg": "Trichomoniasis"
     },
     "text": {
      "en": "Caused by a tiny parasite; often no symptoms, especially in people with a penis.",
-     "hi": "एक बहुत छोटे परजीवी से होता है; अक्सर कोई लक्षण नहीं, ख़ासकर लिंग वाले लोगों में।",
      "hg": "Ek tiny parasite se hota hai; aksar koi symptoms nahi, khaas kar penis wale logon mein."
     }
    },
@@ -117,12 +100,10 @@
     "icon": "doctor",
     "label": {
      "en": "Cure needs a doctor",
-     "hi": "इलाज डॉक्टर से",
      "hg": "Cure doctor se hi"
     },
     "text": {
      "en": "A doctor tests and prescribes the right medicine; leftover or chemist-suggested pills are risky.",
-     "hi": "डॉक्टर जाँच करके सही दवा लिखते हैं; बची हुई या केमिस्ट की सुझाई गोलियाँ ख़तरनाक हैं।",
      "hg": "Doctor test karke sahi medicine likhte hain; bachi hui ya chemist ki suggest ki hui pills risky hain."
     }
    },
@@ -130,12 +111,10 @@
     "icon": "medicine",
     "label": {
      "en": "Full course, partners too",
-     "hi": "पूरा कोर्स, पार्टनर का भी इलाज",
      "hg": "Full course, partner ka bhi treatment"
     },
     "text": {
      "en": "Take the full course even if you feel fine, and make sure partners are treated too.",
-     "hi": "ठीक लगे तब भी पूरा कोर्स लो, और पक्का करो कि पार्टनर का भी इलाज हो।",
      "hg": "Theek lage tab bhi full course lo, aur pakka karo ki partner ka bhi treatment ho."
     }
    },
@@ -143,12 +122,10 @@
     "icon": "repeat",
     "label": {
      "en": "No immunity",
-     "hi": "दोबारा हो सकता है",
      "hg": "Dobara ho sakta hai"
     },
     "text": {
      "en": "Being cured does not protect you; a person can be infected again.",
-     "hi": "ठीक हो जाने से सुरक्षा नहीं मिलती; इंसान को फिर से संक्रमण हो सकता है।",
      "hg": "Cure hone se protection nahi milti; insaan ko phir se infection ho sakta hai."
     }
    }
@@ -159,13 +136,11 @@
   "type": "compare",
   "title": {
    "en": "Viral STIs: prevent or manage",
-   "hi": "वायरल STI: रोकथाम या कंट्रोल",
    "hg": "Viral STIs: prevent ya manage"
   },
   "left": {
    "title": {
     "en": "Vaccines prevent",
-    "hi": "टीके बचाते हैं",
     "hg": "Vaccines bachate hain"
    },
    "tone": "good",
@@ -173,17 +148,14 @@
    "points": [
     {
      "en": "HPV: the vaccine is ideally given at 9 to 14 years",
-     "hi": "HPV: टीका सबसे अच्छा 9 से 14 साल की उम्र में लगता है",
      "hg": "HPV: vaccine ideally 9 se 14 saal ki age mein lagti hai"
     },
     {
      "en": "Later, cervical screening catches HPV-related changes early",
-     "hi": "बाद में सर्वाइकल स्क्रीनिंग HPV से जुड़े बदलाव जल्दी पकड़ लेती है",
      "hg": "Baad mein cervical screening HPV wale changes jaldi pakad leti hai"
     },
     {
      "en": "Hepatitis B: the vaccine is part of India's routine baby immunisation",
-     "hi": "हेपेटाइटिस B: टीका भारत में बच्चों के नियमित टीकाकरण में शामिल है",
      "hg": "Hepatitis B: vaccine India ke routine baby immunisation ka part hai"
     }
    ]
@@ -191,7 +163,6 @@
   "right": {
    "title": {
     "en": "Medicines manage",
-    "hi": "दवाएँ संभालती हैं",
     "hg": "Medicines manage karti hain"
    },
    "tone": "neutral",
@@ -199,22 +170,18 @@
    "points": [
     {
      "en": "HIV: with daily ART, free at government centres, people live long, healthy lives",
-     "hi": "HIV: सरकारी केंद्रों पर मुफ़्त रोज़ की ART से लोग लंबी, सेहतमंद ज़िंदगी जीते हैं",
      "hg": "HIV: government centres par free roz ki ART se log lambi, healthy life jeete hain"
     },
     {
      "en": "HIV is the virus; AIDS is the advanced stage that treatment prevents",
-     "hi": "HIV वायरस है; AIDS उसका आगे बढ़ा हुआ चरण है जिसे इलाज रोक देता है",
      "hg": "HIV virus hai; AIDS uska advanced stage hai jise treatment rokta hai"
     },
     {
      "en": "Herpes: stays for life, but antivirals shorten outbreaks",
-     "hi": "हर्पीज़: ज़िंदगी भर रहता है, पर एंटीवायरल दवाएँ आउटब्रेक छोटे कर देती हैं",
      "hg": "Herpes: life bhar rehta hai, par antivirals outbreaks chhote kar dete hain"
     },
     {
      "en": "Hepatitis B: lifelong infection is controlled with medicines and monitoring",
-     "hi": "हेपेटाइटिस B: लंबा चलने वाला संक्रमण दवाओं और नियमित जाँच से कंट्रोल होता है",
      "hg": "Hepatitis B: lifelong infection medicines aur regular monitoring se control hota hai"
     }
    ]
@@ -225,7 +192,6 @@
   "type": "steps",
   "title": {
    "en": "Test, treat, tell: step by step",
-   "hi": "जाँच, इलाज, पार्टनर को बताना: क़दम-दर-क़दम",
    "hg": "Test, treatment, partner ko batana: step by step"
   },
   "items": [
@@ -233,12 +199,10 @@
     "icon": "clinic",
     "label": {
      "en": "Find a testing centre",
-     "hi": "जाँच केंद्र ढूँढें",
      "hg": "Testing centre dhoondho"
     },
     "text": {
      "en": "Government hospitals and ICTCs offer free, confidential HIV testing; the 1097 helpline can direct you.",
-     "hi": "सरकारी अस्पताल और ICTC मुफ़्त और गोपनीय HIV जाँच करते हैं; 1097 हेल्पलाइन सबसे नज़दीकी केंद्र बता सकती है।",
      "hg": "Government hospitals aur ICTCs free aur confidential HIV testing karte hain; 1097 helpline nearest centre bata sakti hai."
     }
    },
@@ -246,12 +210,10 @@
     "icon": "talk",
     "label": {
      "en": "Answer honestly",
-     "hi": "सच-सच बताएँ",
      "hg": "Sach-sach batao"
     },
     "text": {
      "en": "Tell the clinician your symptoms and the kinds of contact you had, so the right samples are taken.",
-     "hi": "डॉक्टर को अपने लक्षण और किस तरह का संपर्क हुआ, ये बताएँ, ताकि सही नमूने लिए जा सकें।",
      "hg": "Clinician ko apne symptoms aur kis tarah ka contact hua, yeh batao, taaki sahi samples liye ja sakein."
     }
    },
@@ -259,12 +221,10 @@
     "icon": "hourglass",
     "label": {
      "en": "Mind the window period",
-     "hi": "विंडो पीरियड का ध्यान रखें",
      "hg": "Window period ka dhyaan rakho"
     },
     "text": {
      "en": "A test taken too soon after exposure can be falsely negative and may need repeating.",
-     "hi": "संपर्क के बहुत जल्दी बाद कराई गई जाँच ग़लत तौर पर नेगेटिव आ सकती है और उसे दोहराना पड़ सकता है।",
      "hg": "Exposure ke bahut jaldi baad karaya gaya test falsely negative aa sakta hai aur use repeat karna pad sakta hai."
     }
    },
@@ -272,12 +232,10 @@
     "icon": "medicine",
     "label": {
      "en": "Finish the treatment",
-     "hi": "इलाज पूरा करें",
      "hg": "Treatment poora karo"
     },
     "text": {
      "en": "Take every dose. For HIV, daily ART can make the virus undetectable, and undetectable means untransmittable (U=U).",
-     "hi": "हर ख़ुराक लें। HIV में रोज़ की ART वायरस को अनडिटेक्टेबल कर सकती है, और अनडिटेक्टेबल का मतलब है अनट्रांसमिटेबल (U=U)।",
      "hg": "Har dose lo. HIV mein roz ki ART virus ko undetectable kar sakti hai, aur undetectable ka matlab hai untransmittable (U=U)."
     }
    },
@@ -285,12 +243,10 @@
     "icon": "chat",
     "label": {
      "en": "Tell your partners",
-     "hi": "पार्टनर को बताएँ",
      "hg": "Partner ko batao"
     },
     "text": {
      "en": "Partners need testing and treatment too. It is about health, not blame; a counsellor can help.",
-     "hi": "पार्टनर को भी जाँच और इलाज चाहिए। बात सेहत की है, दोष की नहीं; काउंसलर इसमें मदद कर सकते हैं।",
      "hg": "Partner ko bhi testing aur treatment chahiye. Baat health ki hai, blame ki nahi; counsellor isme help kar sakte hain."
     }
    }
@@ -301,7 +257,6 @@
   "type": "grid",
   "title": {
    "en": "Your prevention toolkit",
-   "hi": "तुम्हारी बचाव किट",
    "hg": "Tumhara prevention toolkit"
   },
   "items": [
@@ -309,12 +264,10 @@
     "icon": "pause",
     "label": {
      "en": "Not having sex",
-     "hi": "सेक्स न करना",
      "hg": "Sex na karna"
     },
     "text": {
      "en": "Fully effective and always a valid choice; under 18, it is also what the law expects.",
-     "hi": "पूरी तरह असरदार और हमेशा सही चुनाव; 18 से कम उम्र में क़ानून भी यही चाहता है।",
      "hg": "Poori tarah effective aur hamesha valid choice; 18 se kam age mein law bhi yahi expect karta hai."
     }
    },
@@ -322,12 +275,10 @@
     "icon": "condom",
     "label": {
      "en": "Condoms, every time",
-     "hi": "हर बार कंडोम",
      "hg": "Har baar condom"
     },
     "text": {
      "en": "Greatly reduce the risk of HIV, gonorrhoea and chlamydia; less complete against herpes, HPV and syphilis sores.",
-     "hi": "HIV, गोनोरिया और क्लैमाइडिया का ख़तरा बहुत घटाते हैं; हर्पीज़, HPV और सिफ़लिस के घावों से बचाव उतना पूरा नहीं।",
      "hg": "HIV, gonorrhoea aur chlamydia ka risk bahut kam karte hain; herpes, HPV aur syphilis sores se protection utna complete nahi."
     }
    },
@@ -335,12 +286,10 @@
     "icon": "vaccine",
     "label": {
      "en": "HPV and hepatitis B vaccines",
-     "hi": "HPV और हेपेटाइटिस B के टीके",
      "hg": "HPV aur hepatitis B vaccines"
     },
     "text": {
      "en": "They prevent infection but do not treat an existing one; vaccinated women still need cervical screening.",
-     "hi": "ये संक्रमण से बचाते हैं, पर पहले से हुए संक्रमण का इलाज नहीं करते; टीका लगवा चुकी महिलाओं को भी सर्वाइकल स्क्रीनिंग चाहिए।",
      "hg": "Yeh infection se bachate hain, par pehle se hue infection ka treatment nahi karte; vaccinated women ko bhi cervical screening chahiye."
     }
    },
@@ -348,12 +297,10 @@
     "icon": "block",
     "label": {
      "en": "Never share needles",
-     "hi": "सुई कभी शेयर मत करो",
      "hg": "Needle kabhi share mat karo"
     },
     "text": {
      "en": "Use only sterile tattoo and piercing equipment too; this closes the blood route.",
-     "hi": "टैटू और पियर्सिंग के लिए भी सिर्फ़ जीवाणुरहित (sterile) औज़ार इस्तेमाल करो; इससे ख़ून वाला रास्ता बंद होता है।",
      "hg": "Tattoo aur piercing ke liye bhi sirf sterile equipment use karo; isse blood wala route band hota hai."
     }
    },
@@ -361,12 +308,10 @@
     "icon": "clock",
     "label": {
      "en": "PEP within 72 hours",
-     "hi": "72 घंटे के अंदर PEP",
      "hg": "72 ghante ke andar PEP"
     },
     "text": {
      "en": "An emergency HIV medicine course after possible exposure, started within 72 hours and taken for 28 days.",
-     "hi": "HIV के संभावित संपर्क के बाद दवा का इमरजेंसी कोर्स, जो 72 घंटे के अंदर शुरू होकर 28 दिन चलता है।",
      "hg": "HIV ke possible exposure ke baad emergency medicine course, jo 72 ghante ke andar shuru hokar 28 din chalta hai."
     }
    },
@@ -374,12 +319,10 @@
     "icon": "hospital",
     "label": {
      "en": "Same-day care",
-     "hi": "उसी दिन इलाज",
      "hg": "Usi din care"
     },
     "text": {
      "en": "After sexual assault, possible HIV exposure or severe symptoms, go to a hospital, not a chemist.",
-     "hi": "यौन हमले, HIV के संभावित संपर्क या गंभीर लक्षणों के बाद केमिस्ट के पास नहीं, अस्पताल जाओ।",
      "hg": "Sexual assault, possible HIV exposure ya serious symptoms ke baad chemist ke paas nahi, hospital jao."
     }
    }

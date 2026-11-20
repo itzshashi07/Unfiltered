@@ -14,35 +14,29 @@
   "type": "mcq",
   "q": {
    "en": "Which service in government hospitals is set up specifically to counsel adolescents on body changes and reproductive health?",
-   "hi": "सरकारी अस्पतालों की कौन-सी सेवा ख़ास तौर पर किशोरों को शरीर के बदलावों और प्रजनन स्वास्थ्य पर सलाह देने के लिए बनी है?",
    "hg": "Government hospitals ki kaunsi service specially adolescents ko body changes aur reproductive health par counselling dene ke liye bani hai?"
   },
   "options": [
    {
     "en": "The blood bank",
-    "hi": "ब्लड बैंक",
     "hg": "Blood bank"
    },
    {
     "en": "Adolescent Friendly Health Clinic (AFHC)",
-    "hi": "किशोर मित्र स्वास्थ्य क्लिनिक (AFHC)",
     "hg": "Adolescent Friendly Health Clinic (AFHC)"
    },
    {
     "en": "The cybercrime cell",
-    "hi": "साइबर क्राइम सेल",
     "hg": "Cybercrime cell"
    },
    {
     "en": "The pharmacy counter",
-    "hi": "दवा का काउंटर",
     "hg": "Pharmacy counter"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "AFHCs run under the national adolescent health programme (RKSK) and offer free counselling and basic services for young people.",
-   "hi": "AFHC राष्ट्रीय किशोर स्वास्थ्य कार्यक्रम (RKSK) के तहत चलते हैं और किशोरों को मुफ़्त सलाह और बुनियादी सेवाएँ देते हैं।",
    "hg": "AFHC national adolescent health programme (RKSK) ke under chalte hain aur young logon ko free counselling aur basic services dete hain."
   }
  },
@@ -62,25 +56,21 @@
   "type": "tf",
   "q": {
    "en": "Counting 'safe days' on a calendar is a reliable way to prevent pregnancy.",
-   "hi": "कैलेंडर पर 'सेफ़ डेज़' गिनना गर्भ से बचने का भरोसेमंद तरीक़ा है।",
    "hg": "Calendar par 'safe days' ginna pregnancy se bachne ka reliable tareeka hai."
   },
   "options": [
    {
     "en": "True",
-    "hi": "सही",
     "hg": "Sahi"
    },
    {
     "en": "False",
-    "hi": "ग़लत",
     "hg": "Galat"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "Ovulation shifts from cycle to cycle and sperm can survive for days, so calendar calculations are not dependable contraception.",
-   "hi": "ओव्यूलेशन हर चक्र में आगे-पीछे होता है और शुक्राणु कई दिन ज़िंदा रह सकते हैं, इसलिए कैलेंडर का हिसाब भरोसेमंद गर्भनिरोधक नहीं है।",
    "hg": "Ovulation har cycle mein shift hota hai aur sperm kai din zinda reh sakte hain, isliye calendar calculation reliable contraception nahi hai."
   }
  },
@@ -99,35 +89,29 @@
   "type": "mcq",
   "q": {
    "en": "Which of these methods also reduces the risk of sexually transmitted infections?",
-   "hi": "इनमें से कौन-सा तरीक़ा यौन संचारित संक्रमणों का ख़तरा भी घटाता है?",
    "hg": "Inme se kaunsa method sexually transmitted infections ka risk bhi kam karta hai?"
   },
   "options": [
    {
     "en": "Combined pill",
-    "hi": "कंबाइंड पिल",
     "hg": "Combined pill"
    },
    {
     "en": "Copper IUD",
-    "hi": "कॉपर IUD",
     "hg": "Copper IUD"
    },
    {
     "en": "Injectable",
-    "hi": "गर्भनिरोधक इंजेक्शन",
     "hg": "Injectable"
    },
    {
     "en": "Internal condom",
-    "hi": "इंटरनल कंडोम",
     "hg": "Internal condom"
    }
   ],
   "answer": 3,
   "explain": {
    "en": "Only external and internal condoms act as a barrier to infections. Pills, injectables and IUDs prevent pregnancy but give no STI protection.",
-   "hi": "सिर्फ़ एक्सटर्नल और इंटरनल कंडोम संक्रमणों के सामने रुकावट का काम करते हैं। गोलियाँ, इंजेक्शन और IUD गर्भ से बचाते हैं पर STI से कोई बचाव नहीं देते।",
    "hg": "Sirf external aur internal condoms infections ke saamne barrier ka kaam karte hain. Pills, injectables aur IUDs pregnancy se bachate hain par STI se koi protection nahi dete."
   }
  },
@@ -147,35 +131,29 @@
   "type": "mcq",
   "q": {
    "en": "In typical use, which of these has the fewest pregnancies per 100 users in a year?",
-   "hi": "टिपिकल यूज़ में, इनमें से किस तरीक़े में एक साल में 100 इस्तेमाल करने वालों में सबसे कम गर्भ ठहरते हैं?",
    "hg": "Typical use mein, inme se kis method mein ek saal mein 100 users mein sabse kam pregnancies hoti hain?"
   },
   "options": [
    {
     "en": "Implant",
-    "hi": "इम्प्लांट",
     "hg": "Implant"
    },
    {
     "en": "Combined pill",
-    "hi": "कंबाइंड पिल",
     "hg": "Combined pill"
    },
    {
     "en": "External condom",
-    "hi": "एक्सटर्नल कंडोम",
     "hg": "External condom"
    },
    {
     "en": "Withdrawal",
-    "hi": "विदड्रॉअल (बाहर निकाल लेना)",
     "hg": "Withdrawal (pull out)"
    }
   ],
   "answer": 0,
   "explain": {
    "en": "The implant has fewer than 1 pregnancy per 100 users, compared with about 7 for the pill, about 13 for external condoms and about 20 for withdrawal.",
-   "hi": "इम्प्लांट में 100 इस्तेमाल करने वालों में 1 से भी कम गर्भ ठहरता है, जबकि गोली में लगभग 7, एक्सटर्नल कंडोम में लगभग 13 और विदड्रॉअल में लगभग 20।",
    "hg": "Implant mein 100 users mein 1 se bhi kam pregnancy hoti hai, jabki pill mein lagbhag 7, external condom mein lagbhag 13 aur withdrawal mein lagbhag 20."
   }
  },
@@ -194,35 +172,29 @@
   "type": "mcq",
   "q": {
    "en": "Which form of emergency contraception is the most effective?",
-   "hi": "इमरजेंसी गर्भनिरोधक का कौन-सा रूप सबसे असरदार है?",
    "hg": "Emergency contraception ka kaunsa form sabse effective hai?"
   },
   "options": [
    {
     "en": "An EC pill taken on the fifth day",
-    "hi": "पाँचवें दिन ली गई EC की गोली",
     "hg": "Paanchve din li gayi EC pill"
    },
    {
     "en": "A double course of EC pills",
-    "hi": "EC की गोलियों का दोहरा कोर्स",
     "hg": "EC pills ka double course"
    },
    {
     "en": "A copper IUD fitted by a trained provider within 5 days",
-    "hi": "प्रशिक्षित स्वास्थ्यकर्मी द्वारा 5 दिन के अंदर लगाया गया कॉपर IUD",
     "hg": "Trained provider dwara 5 din ke andar lagaya gaya copper IUD"
    },
    {
     "en": "Starting the regular pill the next day",
-    "hi": "अगले दिन से नियमित गोली शुरू कर देना",
     "hg": "Agle din se regular pill start kar dena"
    }
   ],
   "answer": 2,
   "explain": {
    "en": "A copper IUD fitted within 5 days of unprotected sex is the most effective emergency contraception, and it can stay in place as ongoing contraception.",
-   "hi": "असुरक्षित सेक्स के 5 दिन के अंदर लगाया गया कॉपर IUD सबसे असरदार इमरजेंसी गर्भनिरोधक है, और वो आगे के गर्भनिरोधक के तौर पर लगा रह सकता है।",
    "hg": "Unprotected sex ke 5 din ke andar lagaya gaya copper IUD sabse effective emergency contraception hai, aur woh aage ke contraception ki tarah laga reh sakta hai."
   }
  },
@@ -241,35 +213,29 @@
   "type": "scenario",
   "q": {
    "en": "Priya uses the combined pill and is started on a rifampicin-based treatment for tuberculosis. What is the right step?",
-   "hi": "प्रिया कंबाइंड पिल लेती है और उसका टीबी का इलाज शुरू होता है जिसमें रिफ़ैम्पिसिन वाली दवा है। सही क़दम क्या है?",
    "hg": "Priya combined pill leti hai aur uska TB ka treatment start hota hai jisme rifampicin wali medicine hai. Sahi step kya hai?"
   },
   "options": [
    {
     "en": "Stop the TB medicine until the pill pack ends",
-    "hi": "पिल का पैक ख़त्म होने तक टीबी की दवा बंद कर दे",
     "hg": "Pill ka pack khatam hone tak TB ki medicine band kar de"
    },
    {
     "en": "Tell the doctor about the pill and ask about back-up or a different method",
-    "hi": "डॉक्टर को पिल के बारे में बताए और साथ में दूसरे बचाव या किसी अलग तरीक़े के बारे में पूछे",
     "hg": "Doctor ko pill ke baare mein bataye aur back-up ya kisi alag method ke baare mein pooche"
    },
    {
     "en": "Do nothing, because medicines never affect the pill",
-    "hi": "कुछ न करे, क्योंकि दवाओं का पिल पर कभी असर नहीं होता",
     "hg": "Kuch na kare, kyunki medicines ka pill par kabhi asar nahi hota"
    },
    {
     "en": "Take two pills a day to make up for it",
-    "hi": "भरपाई के लिए रोज़ दो गोलियाँ ले",
     "hg": "Compensate karne ke liye roz do pills le"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "Rifampicin-type medicines speed up the breakdown of contraceptive hormones and can make the pill fail. The TB treatment must continue, so the contraception plan is what the doctor adjusts.",
-   "hi": "रिफ़ैम्पिसिन जैसी दवाएँ गर्भनिरोधक हार्मोन को जल्दी तोड़ देती हैं और गोली फ़ेल हो सकती है। टीबी का इलाज जारी रहना ज़रूरी है, इसलिए डॉक्टर गर्भनिरोध की योजना में बदलाव करते हैं।",
    "hg": "Rifampicin jaisi medicines contraceptive hormones ko jaldi tod deti hain aur pill fail ho sakti hai. TB ka treatment continue rehna zaroori hai, isliye doctor contraception plan ko adjust karte hain."
   }
  }

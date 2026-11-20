@@ -4,7 +4,6 @@
   "type": "grid",
   "title": {
    "en": "Pregnancy and prevention: the basics",
-   "hi": "गर्भ और उससे बचाव: बुनियादी बातें",
    "hg": "Pregnancy aur prevention: basic baatein"
   },
   "items": [
@@ -12,12 +11,10 @@
     "icon": "egg",
     "label": {
      "en": "How pregnancy starts",
-     "hi": "गर्भ कैसे ठहरता है",
      "hg": "Pregnancy kaise hoti hai"
     },
     "text": {
      "en": "An ovary releases an egg. If a sperm joins it and it settles in the uterus, pregnancy begins.",
-     "hi": "अंडाशय एक अंडा छोड़ता है। अगर शुक्राणु उससे मिल जाए और वह गर्भाशय में टिक जाए, तो गर्भ ठहरता है।",
      "hg": "Ovary ek egg release karti hai. Agar sperm usse mil jaaye aur woh uterus mein settle ho jaaye, toh pregnancy shuru hoti hai."
     }
    },
@@ -25,12 +22,10 @@
     "icon": "calendar",
     "label": {
      "en": "It can happen the first time",
-     "hi": "पहली बार में भी गर्भ ठहर सकता है",
      "hg": "Pehli baar mein bhi pregnancy ho sakti hai"
     },
     "text": {
      "en": "Sperm can live about five days and ovulation day shifts, so counting 'safe days' is unreliable.",
-     "hi": "शुक्राणु लगभग पाँच दिन ज़िंदा रह सकते हैं और ओव्यूलेशन का दिन खिसकता रहता है, इसलिए 'सेफ़ डेज़' गिनना भरोसेमंद नहीं।",
      "hg": "Sperm lagbhag paanch din zinda reh sakte hain aur ovulation ka din shift hota rehta hai, isliye 'safe days' ginna reliable nahi."
     }
    },
@@ -38,12 +33,10 @@
     "icon": "pill",
     "label": {
      "en": "Methods exist",
-     "hi": "बचाव के तरीक़े हैं",
      "hg": "Bachne ke methods hain"
     },
     "text": {
      "en": "Condoms, pills, injections, IUDs and implants prevent pregnancy, but none is 100 percent and each must be used correctly.",
-     "hi": "कंडोम, गोलियाँ, इंजेक्शन, IUD और इम्प्लांट गर्भ रोकते हैं, पर कोई भी 100 प्रतिशत नहीं, और हर एक को सही तरीक़े से इस्तेमाल करना ज़रूरी है।",
      "hg": "Condoms, pills, injections, IUDs aur implants pregnancy rokte hain, par koi bhi 100 percent nahi, aur har ek ko sahi tareeke se use karna zaroori hai."
     }
    },
@@ -51,12 +44,10 @@
     "icon": "condom",
     "label": {
      "en": "Only condoms lower STI risk",
-     "hi": "STI का ख़तरा सिर्फ़ कंडोम घटाते हैं",
      "hg": "STI risk sirf condom kam karta hai"
     },
     "text": {
      "en": "Condoms are the only method that also lowers the risk of sexually transmitted infections.",
-     "hi": "कंडोम अकेला ऐसा तरीक़ा है जो यौन संचारित संक्रमणों (STI) का ख़तरा भी कम करता है।",
      "hg": "Condom akela aisa method hai jo sexually transmitted infections (STIs) ka risk bhi kam karta hai."
     }
    },
@@ -64,12 +55,10 @@
     "icon": "pause",
     "label": {
      "en": "Waiting is valid",
-     "hi": "रुकना भी सही फ़ैसला है",
      "hg": "Wait karna bhi valid hai"
     },
     "text": {
      "en": "Not having sex is the only completely certain way, and choosing to wait is common and valid.",
-     "hi": "सेक्स न करना ही पूरी तरह पक्का तरीक़ा है, और इंतज़ार करना आम भी है और सही भी।",
      "hg": "Sex na karna hi poori tarah pakka tareeka hai, aur wait karna common bhi hai aur valid bhi."
     }
    },
@@ -77,12 +66,10 @@
     "icon": "ask",
     "label": {
      "en": "Ask reliable people",
-     "hi": "सही लोगों से पूछो",
      "hg": "Sahi logon se poocho"
     },
     "text": {
      "en": "Doctors, counsellors, trusted adults and Adolescent Friendly Health Clinics are better sources than forwards and random videos.",
-     "hi": "डॉक्टर, काउंसलर, भरोसेमंद बड़े और किशोर मैत्री स्वास्थ्य क्लिनिक (AFHC) फ़ॉरवर्ड और ऐसे-वैसे वीडियो से कहीं बेहतर स्रोत हैं।",
      "hg": "Doctors, counsellors, trusted adults aur Adolescent Friendly Health Clinics (AFHC) forwards aur random videos se kahin better sources hain."
     }
    }
@@ -93,13 +80,11 @@
   "type": "compare",
   "title": {
    "en": "Using a condom: do and avoid",
-   "hi": "कंडोम: क्या करें, किससे बचें",
    "hg": "Condom: kya karein, kisse bachein"
   },
   "left": {
    "title": {
     "en": "Do this",
-    "hi": "ये करो",
     "hg": "Yeh karo"
    },
    "tone": "good",
@@ -107,22 +92,18 @@
    "points": [
     {
      "en": "Put it on before any genital contact and keep it on start to finish.",
-     "hi": "किसी भी जननांग संपर्क से पहले पहनो, और शुरू से आख़िर तक पहने रखो।",
      "hg": "Kisi bhi genital contact se pehle pehno, aur start se finish tak pehne raho."
     },
     {
      "en": "Leave space at the tip and hold the base while withdrawing.",
-     "hi": "सिरे पर जगह छोड़ो, और बाहर निकालते समय जड़ से पकड़कर रखो।",
      "hg": "Tip par space chhodo, aur bahar nikalte waqt base ko pakad kar rakho."
     },
     {
      "en": "Use only water-based or silicone-based lubricant with latex.",
-     "hi": "लेटेक्स के साथ सिर्फ़ पानी या सिलिकॉन वाला लुब्रिकेंट इस्तेमाल करो।",
      "hg": "Latex ke saath sirf water-based ya silicone-based lubricant use karo."
     },
     {
      "en": "Check the expiry date and keep condoms away from heat.",
-     "hi": "एक्सपायरी डेट देखो, और कंडोम को गर्मी से दूर रखो।",
      "hg": "Expiry date check karo, aur condoms ko heat se door rakho."
     }
    ]
@@ -130,7 +111,6 @@
   "right": {
    "title": {
     "en": "Avoid",
-    "hi": "इनसे बचो",
     "hg": "Inse bacho"
    },
    "tone": "bad",
@@ -138,22 +118,18 @@
    "points": [
     {
      "en": "Opening the packet with your teeth",
-     "hi": "पैकेट दाँत से खोलना",
      "hg": "Packet daant se kholna"
     },
     {
      "en": "Oil, petroleum jelly or body lotion, which weaken latex",
-     "hi": "तेल, पेट्रोलियम जेली या बॉडी लोशन, जो लेटेक्स को कमज़ोर करते हैं",
      "hg": "Oil, petroleum jelly ya body lotion, jo latex ko weak karte hain"
     },
     {
      "en": "Wearing two at once, or reusing one",
-     "hi": "एक साथ दो पहनना, या एक ही कंडोम दोबारा इस्तेमाल करना",
      "hg": "Ek saath do pehenna, ya ek hi condom reuse karna"
     },
     {
      "en": "Keeping them in a wallet or a vehicle's storage box",
-     "hi": "उन्हें बटुए या गाड़ी की डिक्की में रखना",
      "hg": "Unhe wallet ya gaadi ki dickey mein rakhna"
     }
    ]
@@ -164,7 +140,6 @@
   "type": "grid",
   "title": {
    "en": "Other methods at a glance",
-   "hi": "दूसरे तरीक़े, एक नज़र में",
    "hg": "Baaki methods, ek nazar mein"
   },
   "items": [
@@ -172,12 +147,10 @@
     "icon": "pill",
     "label": {
      "en": "Combined pill",
-     "hi": "कंबाइंड पिल",
      "hg": "Combined pill"
     },
     "text": {
      "en": "Taken daily, it mainly stops ovulation. Typical use: about 7 pregnancies in 100 users a year.",
-     "hi": "रोज़ ली जाती है और मुख्य रूप से ओव्यूलेशन रोकती है। टिपिकल यूज़ में साल भर में 100 में से लगभग 7 को गर्भ ठहरता है।",
      "hg": "Roz li jaati hai aur mainly ovulation rokti hai. Typical use mein saal bhar mein 100 mein se lagbhag 7 ko pregnancy hoti hai."
     }
    },
@@ -185,12 +158,10 @@
     "icon": "injection",
     "label": {
      "en": "Injectable",
-     "hi": "इंजेक्शन",
      "hg": "Injectable"
     },
     "text": {
      "en": "A health worker gives it every 2 or 3 months. Typical use: about 4 pregnancies in 100 a year.",
-     "hi": "स्वास्थ्यकर्मी इसे हर 2 या 3 महीने में लगाते हैं। टिपिकल यूज़ में साल भर में 100 में से लगभग 4 को गर्भ।",
      "hg": "Health worker ise har 2 ya 3 mahine mein lagate hain. Typical use mein saal bhar mein 100 mein se lagbhag 4 ko pregnancy."
     }
    },
@@ -198,12 +169,10 @@
     "icon": "iud",
     "label": {
      "en": "IUD",
-     "hi": "आईयूडी (IUD)",
      "hg": "IUD"
     },
     "text": {
      "en": "A small T-shaped device in the uterus that works for years. Fewer than 1 pregnancy in 100 users a year.",
-     "hi": "गर्भाशय के अंदर लगने वाला छोटा T-आकार का उपकरण, जो कई साल काम करता है। साल भर में 100 में से 1 से भी कम को गर्भ।",
      "hg": "Uterus ke andar lagne wala chhota T-shaped device, jo kai saal kaam karta hai. Saal bhar mein 100 mein se 1 se bhi kam ko pregnancy."
     }
    },
@@ -211,12 +180,10 @@
     "icon": "implant",
     "label": {
      "en": "Implant",
-     "hi": "इम्प्लांट",
      "hg": "Implant"
     },
     "text": {
      "en": "A thin rod under the skin of the upper arm that works for years. Also fewer than 1 in 100.",
-     "hi": "ऊपरी बाँह की त्वचा के नीचे लगी पतली छड़, जो कई साल काम करती है। इसमें भी 100 में से 1 से कम।",
      "hg": "Upper arm ki skin ke neeche lagi patli rod, jo kai saal kaam karti hai. Ismein bhi 100 mein se 1 se kam."
     }
    },
@@ -224,12 +191,10 @@
     "icon": "emergency",
     "label": {
      "en": "Emergency pill",
-     "hi": "इमरजेंसी गोली",
      "hg": "Emergency pill"
     },
     "text": {
      "en": "Delays ovulation and works up to 5 days after unprotected sex, the sooner the better. It is not abortion.",
-     "hi": "ओव्यूलेशन को टालती है और असुरक्षित सेक्स के 5 दिन बाद तक काम करती है, जितनी जल्दी उतना बेहतर। ये गर्भपात नहीं है।",
      "hg": "Ovulation ko delay karti hai aur unprotected sex ke 5 din baad tak kaam karti hai, jitni jaldi utna better. Yeh abortion nahi hai."
     }
    },
@@ -237,12 +202,10 @@
     "icon": "condom",
     "label": {
      "en": "STIs need condoms",
-     "hi": "STI से बचाव: कंडोम",
      "hg": "STI protection: condom"
     },
     "text": {
      "en": "None of these methods protects against STIs. Only condoms lower that risk.",
-     "hi": "इनमें से कोई भी तरीक़ा STI से नहीं बचाता। वो ख़तरा सिर्फ़ कंडोम घटाते हैं।",
      "hg": "Inmein se koi bhi method STI se protect nahi karta. Woh risk sirf condom kam karta hai."
     }
    }
@@ -253,13 +216,11 @@
   "type": "compare",
   "title": {
    "en": "Less to remember, lower pregnancy risk",
-   "hi": "याद रखने की ज़रूरत कम, तो गर्भ का ख़तरा भी कम",
    "hg": "Yaad rakhne ki zaroorat kam, toh pregnancy ka risk bhi kam"
   },
   "left": {
    "title": {
     "en": "Nothing to remember",
-    "hi": "याद रखने का झंझट नहीं",
     "hg": "Yaad rakhne ka jhanjhat nahi"
    },
    "tone": "good",
@@ -267,22 +228,18 @@
    "points": [
     {
      "en": "Implant: under 1 pregnancy in 100 users a year, typical use",
-     "hi": "इम्प्लांट: टिपिकल यूज़ में साल भर में 100 में 1 से कम गर्भ",
      "hg": "Implant: typical use mein saal bhar mein 100 mein 1 se kam pregnancy"
     },
     {
      "en": "Hormonal or copper IUD: also under 1 in 100",
-     "hi": "हार्मोनल या कॉपर IUD: इसमें भी 100 में 1 से कम",
      "hg": "Hormonal ya copper IUD: ismein bhi 100 mein 1 se kam"
     },
     {
      "en": "Can be removed early, and fertility returns quickly",
-     "hi": "समय से पहले भी निकलवा सकते हो, और प्रजनन क्षमता जल्दी लौट आती है",
      "hg": "Time se pehle bhi nikalwa sakte ho, aur fertility jaldi wapas aa jaati hai"
     },
     {
      "en": "No STI protection, so many adults add a condom",
-     "hi": "STI से बचाव नहीं, इसलिए कई लोग साथ में कंडोम भी इस्तेमाल करते हैं",
      "hg": "STI protection nahi, isliye kai adults saath mein condom bhi use karte hain"
     }
    ]
@@ -290,7 +247,6 @@
   "right": {
    "title": {
     "en": "Depends on you",
-    "hi": "तुम पर निर्भर",
     "hg": "Tum par depend"
    },
    "tone": "neutral",
@@ -298,17 +254,14 @@
    "points": [
     {
      "en": "Combined pill: about 7 in 100 a year, typical use",
-     "hi": "कंबाइंड पिल: टिपिकल यूज़ में साल भर में 100 में लगभग 7",
      "hg": "Combined pill: typical use mein saal bhar mein 100 mein lagbhag 7"
     },
     {
      "en": "External condom: about 13, but it also lowers STI risk",
-     "hi": "एक्सटर्नल कंडोम: लगभग 13, पर ये STI का ख़तरा भी घटाता है",
      "hg": "External condom: lagbhag 13, par yeh STI risk bhi kam karta hai"
     },
     {
      "en": "Withdrawal: about 20, and calendar counting is not reliable",
-     "hi": "विदड्रॉल: लगभग 20, और कैलेंडर गिनती भरोसेमंद नहीं",
      "hg": "Withdrawal: lagbhag 20, aur calendar counting reliable nahi"
     }
    ]
@@ -319,7 +272,6 @@
   "type": "steps",
   "title": {
    "en": "When plans fail: the next steps",
-   "hi": "प्लान फ़ेल हो जाए तो: अगले क़दम",
    "hg": "Plan fail ho jaaye toh: next steps"
   },
   "items": [
@@ -327,12 +279,10 @@
     "icon": "emergency",
     "label": {
      "en": "Act within 5 days",
-     "hi": "5 दिन के अंदर क़दम उठाओ",
      "hg": "5 din ke andar act karo"
     },
     "text": {
      "en": "EC pills work best early, within 5 days; a copper IUD fitted in that time is most effective.",
-     "hi": "EC गोलियाँ जितनी जल्दी लो उतनी असरदार, 5 दिन के अंदर; इस दौरान लगवाया गया कॉपर IUD सबसे असरदार है।",
      "hg": "EC pills jitni jaldi lo utni effective, 5 din ke andar; is time mein lagwaya gaya copper IUD sabse effective hai."
     }
    },
@@ -340,12 +290,10 @@
     "icon": "condom",
     "label": {
      "en": "Cover the rest of the cycle",
-     "hi": "बाक़ी चक्र में भी बचाव",
      "hg": "Baaki cycle mein bhi protection"
     },
     "text": {
      "en": "EC does not protect for the rest of the cycle, so use condoms or start a regular method.",
-     "hi": "EC बाक़ी चक्र के लिए बचाव नहीं देती, इसलिए कंडोम इस्तेमाल करो या कोई नियमित तरीक़ा शुरू करो।",
      "hg": "EC baaki cycle ke liye protect nahi karti, isliye condom use karo ya koi regular method start karo."
     }
    },
@@ -353,12 +301,10 @@
     "icon": "test",
     "label": {
      "en": "Test if your period is late",
-     "hi": "पीरियड लेट हो तो टेस्ट करो",
      "hg": "Period late ho toh test karo"
     },
     "text": {
      "en": "More than a week late, or about three weeks after unprotected sex? Take a pregnancy test.",
-     "hi": "पीरियड एक हफ़्ते से ज़्यादा लेट है, या असुरक्षित सेक्स को लगभग तीन हफ़्ते हो गए? प्रेगनेंसी टेस्ट करो।",
      "hg": "Period ek hafte se zyada late hai, ya unprotected sex ko lagbhag teen hafte ho gaye? Pregnancy test karo."
     }
    },
@@ -366,12 +312,10 @@
     "icon": "doctor",
     "label": {
      "en": "See a doctor",
-     "hi": "डॉक्टर से मिलो",
      "hg": "Doctor se milo"
     },
     "text": {
      "en": "Positive test, or needing EC again and again? See a doctor early to talk it through.",
-     "hi": "टेस्ट पॉज़िटिव आया, या बार-बार EC लेनी पड़ रही है? जल्दी डॉक्टर से मिलकर खुलकर बात करो।",
      "hg": "Test positive aaya, ya baar-baar EC leni pad rahi hai? Jaldi doctor se milkar khul ke baat karo."
     }
    },
@@ -379,12 +323,10 @@
     "icon": "hospital",
     "label": {
      "en": "Know the danger signs",
-     "hi": "ख़तरे के संकेत पहचानो",
      "hg": "Danger signs pehchano"
     },
     "text": {
      "en": "With a possible pregnancy, one-sided lower abdominal pain, bleeding, shoulder-tip pain or fainting needs urgent hospital care.",
-     "hi": "गर्भ की आशंका हो और पेट के निचले हिस्से में एक तरफ़ दर्द, ब्लीडिंग, कंधे की नोक में दर्द या बेहोशी हो, तो तुरंत अस्पताल जाओ।",
      "hg": "Pregnancy possible ho aur lower abdomen mein ek taraf dard, bleeding, shoulder-tip pain ya behoshi ho, toh turant hospital jao."
     }
    }

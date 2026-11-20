@@ -1,60 +1,524 @@
 [
-  {"id":"unesco-itgse","title":"International Technical Guidance on Sexuality Education: an evidence-informed approach","publisher":"UNESCO","category":"cse","url":"https://www.unesco.org/en/articles/international-technical-guidance-sexuality-education-evidence-informed-approach","checked":"2026-11-14","reachable":true},
-  {"id":"who-cse","title":"Comprehensive sexuality education (fact sheet)","publisher":"World Health Organization","category":"cse","url":"https://www.who.int/news-room/fact-sheets/detail/comprehensive-sexuality-education","checked":"2026-11-14","reachable":true},
-  {"id":"who-cse-qa","title":"Comprehensive sexuality education (Q&A)","publisher":"World Health Organization","category":"cse","url":"https://www.who.int/news-room/questions-and-answers/item/comprehensive-sexuality-education","checked":"2026-11-14","reachable":true},
-  {"id":"who-sexual-health","title":"Sexual health (health topic)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/health-topics/sexual-health","checked":"2026-11-14","reachable":true},
-  {"id":"who-sti","title":"Sexually transmitted infections (STIs) (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)","checked":"2026-11-14","reachable":true},
-  {"id":"who-hiv","title":"HIV and AIDS (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/hiv-aids","checked":"2026-11-14","reachable":true},
-  {"id":"who-pep","title":"Guidelines for HIV post-exposure prophylaxis","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/india/publications/i/item/9789240095137","checked":"2026-11-14","reachable":true},
-  {"id":"who-hepb","title":"Hepatitis B (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/hepatitis-b","checked":"2026-11-14","reachable":true},
-  {"id":"who-herpes","title":"Herpes simplex virus (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/herpes-simplex-virus","checked":"2026-11-14","reachable":true},
-  {"id":"who-syphilis","title":"Syphilis (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/syphilis","checked":"2026-11-14","reachable":true},
-  {"id":"who-chlamydia","title":"Chlamydia (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/chlamydia","checked":"2026-11-14","reachable":true},
-  {"id":"who-ec","title":"Emergency contraception (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/emergency-contraception","checked":"2026-11-14","reachable":true},
-  {"id":"who-fp","title":"Family planning/contraception methods (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/family-planning-contraception","checked":"2026-11-14","reachable":true},
-  {"id":"who-cervical","title":"Cervical cancer (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/cervical-cancer","checked":"2026-11-14","reachable":true},
-  {"id":"who-hpv","title":"Human papillomavirus vaccines (HPV)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/teams/immunization-vaccines-and-biologicals/diseases/human-papillomavirus-vaccines-(HPV)","checked":"2026-11-14","reachable":true},
-  {"id":"who-abortion","title":"Abortion (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/abortion","checked":"2026-11-14","reachable":true},
-  {"id":"who-infertility","title":"Infertility (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/infertility","checked":"2026-11-14","reachable":true},
-  {"id":"who-pcos","title":"Polycystic ovary syndrome (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/polycystic-ovary-syndrome","checked":"2026-11-14","reachable":true},
-  {"id":"who-endometriosis","title":"Endometriosis (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/endometriosis","checked":"2026-11-14","reachable":true},
-  {"id":"who-adolescent-mh","title":"Mental health of adolescents (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health","checked":"2026-11-14","reachable":true},
-  {"id":"who-vaw","title":"Violence against women (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/violence-against-women","checked":"2026-11-14","reachable":true},
-  {"id":"nhs-periods","title":"Periods","publisher":"NHS (UK National Health Service)","category":"medical","url":"https://www.nhs.uk/conditions/periods/","checked":"2026-11-14","reachable":true},
-  {"id":"nhs-tss","title":"Toxic shock syndrome","publisher":"NHS (UK National Health Service)","category":"medical","url":"https://www.nhs.uk/conditions/toxic-shock-syndrome/","checked":"2026-11-14","reachable":true},
-  {"id":"nhs-ectopic","title":"Ectopic pregnancy","publisher":"NHS (UK National Health Service)","category":"medical","url":"https://www.nhs.uk/conditions/ectopic-pregnancy/","checked":"2026-11-14","reachable":true},
-  {"id":"nhs-ed","title":"Erectile dysfunction (impotence)","publisher":"NHS (UK National Health Service)","category":"medical","url":"https://www.nhs.uk/conditions/erection-problems-erectile-dysfunction/","checked":"2026-11-14","reachable":true},
-  {"id":"nhm-rksk","title":"Rashtriya Kishor Swasthya Karyakram (RKSK)","publisher":"National Health Mission, Government of India","category":"india-health","url":"https://nhm.gov.in/index4.php?lang=1&level=0&lid=173&linkid=152","checked":"2026-11-14","reachable":true},
-  {"id":"nhm-afhc","title":"Adolescent Friendly Health Clinics (AFHC)","publisher":"National Health Mission, Government of India","category":"india-health","url":"https://nhm.gov.in/index1.php?lang=1&level=3&lid=421&sublinkid=1247","checked":"2026-11-14","reachable":true},
-  {"id":"nhm-cac","title":"Comprehensive Abortion Care: Training and Service Delivery Guidelines (2023)","publisher":"National Health Mission, Government of India","category":"india-health","url":"https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/CAC_Training_%26_Service_Guidelines_2023.pdf","checked":"2026-11-14","reachable":true},
-  {"id":"naco","title":"National AIDS Control Organisation (helpline 1097)","publisher":"Ministry of Health and Family Welfare, Government of India","category":"india-health","url":"https://naco.gov.in","checked":"2026-11-14","reachable":false},
-  {"id":"tele-manas","title":"Tele-MANAS national tele-mental-health programme (14416)","publisher":"Ministry of Health and Family Welfare, Government of India","category":"india-health","url":"https://telemanas.mohfw.gov.in","checked":"2026-11-14","reachable":true},
-  {"id":"pocso-2012","title":"Protection of Children from Sexual Offences Act, 2012","publisher":"India Code, Government of India","category":"india-law","url":"https://www.indiacode.nic.in/indiacode/handle/123456789/2079?view_type=browse","checked":"2026-11-14","reachable":false},
-  {"id":"bns-2023","title":"Bharatiya Nyaya Sanhita, 2023","publisher":"India Code, Government of India","category":"india-law","url":"https://www.indiacode.nic.in/indiacode/handle/123456789/20062","checked":"2026-11-14","reachable":false},
-  {"id":"pcpndt","title":"PC & PNDT Act portal (ban on sex selection)","publisher":"Ministry of Health and Family Welfare, Government of India","category":"india-law","url":"https://pndt.mohfw.gov.in","checked":"2026-11-14","reachable":false},
-  {"id":"wcd-childline","title":"Child Helpline (1098)","publisher":"Ministry of Women and Child Development, Government of India","category":"india-support","url":"https://www.wcd.gov.in/child/child-helpline","checked":"2026-11-14","reachable":false},
-  {"id":"wcd-mission-shakti","title":"Mission Shakti (Women Helpline 181, One Stop Centres)","publisher":"Ministry of Women and Child Development, Government of India","category":"india-support","url":"https://missionshakti.wcd.gov.in","checked":"2026-11-14","reachable":true},
-  {"id":"mha-erss","title":"Emergency Response Support System (112)","publisher":"Ministry of Home Affairs, Government of India","category":"india-support","url":"https://www.mha.gov.in/emergency-response-support-system-erss","checked":"2026-11-14","reachable":true},
-  {"id":"cybercrime-portal","title":"National Cyber Crime Reporting Portal (helpline 1930)","publisher":"Ministry of Home Affairs, Government of India","category":"india-support","url":"https://cybercrime.gov.in","checked":"2026-11-14","reachable":true},
-  {"id":"who-fgm","title":"Female genital mutilation (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/female-genital-mutilation","checked":"2026-11-14","reachable":true},
-  {"id":"who-breast-cancer","title":"Breast cancer (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/breast-cancer","checked":"2026-11-14","reachable":true},
-  {"id":"who-menopause","title":"Menopause (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/menopause","checked":"2026-11-14","reachable":true},
-  {"id":"who-suicide","title":"Suicide (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/suicide","checked":"2026-11-14","reachable":true},
-  {"id":"who-maternal-mh","title":"Maternal mental health","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/teams/mental-health-and-substance-use/promotion-prevention/maternal-mental-health","checked":"2026-11-14","reachable":true},
-  {"id":"who-child-maltreatment","title":"Child maltreatment (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/child-maltreatment","checked":"2026-11-14","reachable":true},
-  {"id":"who-alcohol","title":"Alcohol (fact sheet)","publisher":"World Health Organization","category":"medical","url":"https://www.who.int/news-room/fact-sheets/detail/alcohol","checked":"2026-11-14","reachable":true},
-  {"id":"unicef-child-marriage","title":"Child marriage","publisher":"UNICEF","category":"cse","url":"https://www.unicef.org/protection/child-marriage","checked":"2026-11-14","reachable":true},
-  {"id":"nhs-testicular","title":"Testicular cancer","publisher":"NHS (UK National Health Service)","category":"medical","url":"https://www.nhs.uk/conditions/testicular-cancer/","checked":"2026-11-14","reachable":true},
-  {"id":"nhs-ejaculation","title":"Ejaculation problems","publisher":"NHS (UK National Health Service)","category":"medical","url":"https://www.nhs.uk/conditions/ejaculation-problems/","checked":"2026-11-14","reachable":true},
-  {"id":"nhs-vaginismus","title":"Vaginismus","publisher":"NHS (UK National Health Service)","category":"medical","url":"https://www.nhs.uk/conditions/vaginismus/","checked":"2026-11-14","reachable":true},
-  {"id":"nhs-eating-disorders","title":"Eating disorders","publisher":"NHS (UK National Health Service)","category":"medical","url":"https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/","checked":"2026-11-14","reachable":true},
-  {"id":"nhs-thrush","title":"Thrush in men and women","publisher":"NHS (UK National Health Service)","category":"medical","url":"https://www.nhs.uk/conditions/thrush-in-men-and-women/","checked":"2026-11-14","reachable":true},
-  {"id":"nhs-tight-foreskin","title":"Tight foreskin (phimosis)","publisher":"NHS (UK National Health Service)","category":"medical","url":"https://www.nhs.uk/conditions/phimosis/","checked":"2026-11-14","reachable":true},
-  {"id":"shebox","title":"SHe-Box: sexual harassment at workplace complaints","publisher":"Ministry of Women and Child Development, Government of India","category":"india-support","url":"https://shebox.wcd.gov.in","checked":"2026-11-14","reachable":true},
-  {"id":"nalsa","title":"National Legal Services Authority (free legal aid, helpline 15100)","publisher":"Government of India","category":"india-support","url":"https://nalsa.gov.in","checked":"2026-11-14","reachable":true},
-  {"id":"ncw","title":"National Commission for Women","publisher":"Government of India","category":"india-support","url":"https://ncw.gov.in","checked":"2026-11-14","reachable":true},
-  {"id":"play-inappropriate","title":"Google Play: Inappropriate Content policy","publisher":"Google","category":"platform","url":"https://support.google.com/googleplay/android-developer/answer/9878810","checked":"2026-11-14","reachable":true},
-  {"id":"play-families","title":"Google Play: Families Policy","publisher":"Google","category":"platform","url":"https://support.google.com/googleplay/android-developer/answer/9893335","checked":"2026-11-14","reachable":true},
-  {"id":"play-health","title":"Google Play: Health Content and Services","publisher":"Google","category":"platform","url":"https://support.google.com/googleplay/android-developer/answer/16679511","checked":"2026-11-14","reachable":true},
-  {"id":"flutter-offline","title":"Flutter: Offline-first support","publisher":"Flutter / Google","category":"platform","url":"https://docs.flutter.dev/app-architecture/design-patterns/offline-first","checked":"2026-11-14","reachable":true}
+ {
+  "id": "unesco-itgse",
+  "title": "International Technical Guidance on Sexuality Education: an evidence-informed approach",
+  "publisher": "UNESCO",
+  "category": "cse",
+  "url": "https://www.unesco.org/en/articles/international-technical-guidance-sexuality-education-evidence-informed-approach",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-cse",
+  "title": "Comprehensive sexuality education (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "cse",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/comprehensive-sexuality-education",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-cse-qa",
+  "title": "Comprehensive sexuality education (Q&A)",
+  "publisher": "World Health Organization",
+  "category": "cse",
+  "url": "https://www.who.int/news-room/questions-and-answers/item/comprehensive-sexuality-education",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-sexual-health",
+  "title": "Sexual health (health topic)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/health-topics/sexual-health",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-sti",
+  "title": "Sexually transmitted infections (STIs) (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-hiv",
+  "title": "HIV and AIDS (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-pep",
+  "title": "Guidelines for HIV post-exposure prophylaxis",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/india/publications/i/item/9789240095137",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-hepb",
+  "title": "Hepatitis B (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-b",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-herpes",
+  "title": "Herpes simplex virus (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/herpes-simplex-virus",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-syphilis",
+  "title": "Syphilis (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/syphilis",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-chlamydia",
+  "title": "Chlamydia (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/chlamydia",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-ec",
+  "title": "Emergency contraception (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/emergency-contraception",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-fp",
+  "title": "Family planning/contraception methods (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/family-planning-contraception",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-cervical",
+  "title": "Cervical cancer (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/cervical-cancer",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-hpv",
+  "title": "Human papillomavirus vaccines (HPV)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/teams/immunization-vaccines-and-biologicals/diseases/human-papillomavirus-vaccines-(HPV)",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-abortion",
+  "title": "Abortion (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/abortion",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-infertility",
+  "title": "Infertility (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/infertility",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-pcos",
+  "title": "Polycystic ovary syndrome (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/polycystic-ovary-syndrome",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-endometriosis",
+  "title": "Endometriosis (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/endometriosis",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-adolescent-mh",
+  "title": "Mental health of adolescents (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-vaw",
+  "title": "Violence against women (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/violence-against-women",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "nhs-periods",
+  "title": "Periods",
+  "publisher": "NHS (UK National Health Service)",
+  "category": "medical",
+  "url": "https://www.nhs.uk/conditions/periods/",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "nhs-tss",
+  "title": "Toxic shock syndrome",
+  "publisher": "NHS (UK National Health Service)",
+  "category": "medical",
+  "url": "https://www.nhs.uk/conditions/toxic-shock-syndrome/",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "nhs-ectopic",
+  "title": "Ectopic pregnancy",
+  "publisher": "NHS (UK National Health Service)",
+  "category": "medical",
+  "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "nhs-ed",
+  "title": "Erectile dysfunction (impotence)",
+  "publisher": "NHS (UK National Health Service)",
+  "category": "medical",
+  "url": "https://www.nhs.uk/conditions/erection-problems-erectile-dysfunction/",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "nhm-rksk",
+  "title": "Rashtriya Kishor Swasthya Karyakram (RKSK)",
+  "publisher": "National Health Mission, Government of India",
+  "category": "india-health",
+  "url": "https://nhm.gov.in/index4.php?lang=1&level=0&lid=173&linkid=152",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "nhm-afhc",
+  "title": "Adolescent Friendly Health Clinics (AFHC)",
+  "publisher": "National Health Mission, Government of India",
+  "category": "india-health",
+  "url": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=421&sublinkid=1247",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "nhm-cac",
+  "title": "Comprehensive Abortion Care: Training and Service Delivery Guidelines (2023)",
+  "publisher": "National Health Mission, Government of India",
+  "category": "india-health",
+  "url": "https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/CAC_Training_%26_Service_Guidelines_2023.pdf",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "naco",
+  "title": "National AIDS Control Organisation (helpline 1097)",
+  "publisher": "Ministry of Health and Family Welfare, Government of India",
+  "category": "india-health",
+  "url": "https://naco.gov.in",
+  "checked": "2026-11-14",
+  "reachable": false
+ },
+ {
+  "id": "tele-manas",
+  "title": "Tele-MANAS national tele-mental-health programme (14416)",
+  "publisher": "Ministry of Health and Family Welfare, Government of India",
+  "category": "india-health",
+  "url": "https://telemanas.mohfw.gov.in",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "pocso-2012",
+  "title": "Protection of Children from Sexual Offences Act, 2012",
+  "publisher": "India Code, Government of India",
+  "category": "india-law",
+  "url": "https://www.indiacode.nic.in/indiacode/handle/123456789/2079?view_type=browse",
+  "checked": "2026-11-14",
+  "reachable": false
+ },
+ {
+  "id": "bns-2023",
+  "title": "Bharatiya Nyaya Sanhita, 2023",
+  "publisher": "India Code, Government of India",
+  "category": "india-law",
+  "url": "https://www.indiacode.nic.in/indiacode/handle/123456789/20062",
+  "checked": "2026-11-14",
+  "reachable": false
+ },
+ {
+  "id": "pcpndt",
+  "title": "PC & PNDT Act portal (ban on sex selection)",
+  "publisher": "Ministry of Health and Family Welfare, Government of India",
+  "category": "india-law",
+  "url": "https://pndt.mohfw.gov.in",
+  "checked": "2026-11-14",
+  "reachable": false
+ },
+ {
+  "id": "wcd-childline",
+  "title": "Child Helpline (1098)",
+  "publisher": "Ministry of Women and Child Development, Government of India",
+  "category": "india-support",
+  "url": "https://www.wcd.gov.in/child/child-helpline",
+  "checked": "2026-11-14",
+  "reachable": false
+ },
+ {
+  "id": "wcd-mission-shakti",
+  "title": "Mission Shakti (Women Helpline 181, One Stop Centres)",
+  "publisher": "Ministry of Women and Child Development, Government of India",
+  "category": "india-support",
+  "url": "https://missionshakti.wcd.gov.in",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "mha-erss",
+  "title": "Emergency Response Support System (112)",
+  "publisher": "Ministry of Home Affairs, Government of India",
+  "category": "india-support",
+  "url": "https://www.mha.gov.in/emergency-response-support-system-erss",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "cybercrime-portal",
+  "title": "National Cyber Crime Reporting Portal (helpline 1930)",
+  "publisher": "Ministry of Home Affairs, Government of India",
+  "category": "india-support",
+  "url": "https://cybercrime.gov.in",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-fgm",
+  "title": "Female genital mutilation (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/female-genital-mutilation",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-breast-cancer",
+  "title": "Breast cancer (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/breast-cancer",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-menopause",
+  "title": "Menopause (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/menopause",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-suicide",
+  "title": "Suicide (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/suicide",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-maternal-mh",
+  "title": "Maternal mental health",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/teams/mental-health-and-substance-use/promotion-prevention/maternal-mental-health",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-child-maltreatment",
+  "title": "Child maltreatment (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/child-maltreatment",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "who-alcohol",
+  "title": "Alcohol (fact sheet)",
+  "publisher": "World Health Organization",
+  "category": "medical",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/alcohol",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "unicef-child-marriage",
+  "title": "Child marriage",
+  "publisher": "UNICEF",
+  "category": "cse",
+  "url": "https://www.unicef.org/protection/child-marriage",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "nhs-testicular",
+  "title": "Testicular cancer",
+  "publisher": "NHS (UK National Health Service)",
+  "category": "medical",
+  "url": "https://www.nhs.uk/conditions/testicular-cancer/",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "nhs-ejaculation",
+  "title": "Ejaculation problems",
+  "publisher": "NHS (UK National Health Service)",
+  "category": "medical",
+  "url": "https://www.nhs.uk/conditions/ejaculation-problems/",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "nhs-vaginismus",
+  "title": "Vaginismus",
+  "publisher": "NHS (UK National Health Service)",
+  "category": "medical",
+  "url": "https://www.nhs.uk/conditions/vaginismus/",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "nhs-eating-disorders",
+  "title": "Eating disorders",
+  "publisher": "NHS (UK National Health Service)",
+  "category": "medical",
+  "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "nhs-thrush",
+  "title": "Thrush in men and women",
+  "publisher": "NHS (UK National Health Service)",
+  "category": "medical",
+  "url": "https://www.nhs.uk/conditions/thrush-in-men-and-women/",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "nhs-tight-foreskin",
+  "title": "Tight foreskin (phimosis)",
+  "publisher": "NHS (UK National Health Service)",
+  "category": "medical",
+  "url": "https://www.nhs.uk/conditions/phimosis/",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "shebox",
+  "title": "SHe-Box: sexual harassment at workplace complaints",
+  "publisher": "Ministry of Women and Child Development, Government of India",
+  "category": "india-support",
+  "url": "https://shebox.wcd.gov.in",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "nalsa",
+  "title": "National Legal Services Authority (free legal aid, helpline 15100)",
+  "publisher": "Government of India",
+  "category": "india-support",
+  "url": "https://nalsa.gov.in",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "ncw",
+  "title": "National Commission for Women",
+  "publisher": "Government of India",
+  "category": "india-support",
+  "url": "https://ncw.gov.in",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "play-inappropriate",
+  "title": "Google Play: Inappropriate Content policy",
+  "publisher": "Google",
+  "category": "platform",
+  "url": "https://support.google.com/googleplay/android-developer/answer/9878810",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "play-families",
+  "title": "Google Play: Families Policy",
+  "publisher": "Google",
+  "category": "platform",
+  "url": "https://support.google.com/googleplay/android-developer/answer/9893335",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "play-health",
+  "title": "Google Play: Health Content and Services",
+  "publisher": "Google",
+  "category": "platform",
+  "url": "https://support.google.com/googleplay/android-developer/answer/16679511",
+  "checked": "2026-11-14",
+  "reachable": true
+ },
+ {
+  "id": "flutter-offline",
+  "title": "Flutter: Offline-first support",
+  "publisher": "Flutter / Google",
+  "category": "platform",
+  "url": "https://docs.flutter.dev/app-architecture/design-patterns/offline-first",
+  "checked": "2026-11-14",
+  "reachable": true
+ }
 ]

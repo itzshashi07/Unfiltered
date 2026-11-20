@@ -12,30 +12,25 @@
   "type": "mcq",
   "q": {
    "en": "A touch feels unsafe. What are the three steps?",
-   "hi": "कोई स्पर्श असुरक्षित लगता है। तीन क़दम कौन से हैं?",
    "hg": "Koi touch unsafe lagta hai. Teen steps kaun se hain?"
   },
   "options": [
    {
     "en": "Stay quiet, wait and forget about it",
-    "hi": "चुप रहो, इंतज़ार करो और भूल जाओ",
     "hg": "Chup raho, wait karo aur bhool jao"
    },
    {
     "en": "Say No, Go away, Tell a trusted grown-up",
-    "hi": "ना कहो, हट जाओ, भरोसेमंद बड़े को बताओ",
     "hg": "No bolo, Go karo, trusted bade ko Tell karo"
    },
    {
     "en": "Keep it secret so that nobody gets upset",
-    "hi": "इसे राज़ रखो ताकि कोई परेशान न हो",
     "hg": "Ise secret rakho taaki koi upset na ho"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "No, Go, Tell: say no in a big voice, move to where other people are, and tell a grown-up you trust.",
-   "hi": "ना कहो, हट जाओ, बताओ: ज़ोर से ना कहो, वहाँ जाओ जहाँ और लोग हों, और किसी भरोसेमंद बड़े को बताओ।",
    "hg": "No, Go, Tell: zor se no bolo, wahan jao jahan aur log hon, aur kisi trusted bade ko batao."
   }
  },
@@ -53,30 +48,25 @@
   "type": "scenario",
   "q": {
    "en": "Every day some children push Rohan and hide his bag. You see it happen. What is the best thing to do?",
-   "hi": "रोज़ कुछ बच्चे रोहन को धक्का देते हैं और उसका बैग छिपा देते हैं। तुम यह देखते हो। सबसे अच्छा क्या करना होगा?",
    "hg": "Roz kuch bachche Rohan ko dhakka dete hain aur uska bag chhupa dete hain. Tum yeh dekhte ho. Best kya karna hoga?"
   },
   "options": [
    {
     "en": "Laugh along so that they do not pick on you",
-    "hi": "साथ में हँसना ताकि वे तुम्हें तंग न करें",
     "hg": "Saath mein hansna taaki woh tumhe tang na karein"
    },
    {
     "en": "Stay away from Rohan from now on",
-    "hi": "अब से रोहन से दूर रहना",
     "hg": "Ab se Rohan se door rehna"
    },
    {
     "en": "Tell a teacher and ask Rohan to sit with you",
-    "hi": "टीचर को बताना और रोहन को अपने साथ बैठने को कहना",
     "hg": "Teacher ko batana aur Rohan ko apne saath baithne ko bolna"
    }
   ],
   "answer": 2,
   "explain": {
    "en": "Telling a grown-up gets real help, and being kind shows Rohan that he is not alone. Laughing along makes bullying stronger.",
-   "hi": "बड़ों को बताने से असली मदद मिलती है, और अच्छा बर्ताव रोहन को दिखाता है कि वह अकेला नहीं है। साथ हँसने से बुलीइंग और बढ़ती है।",
    "hg": "Bado ko batane se real help milti hai, aur kind rehna Rohan ko dikhata hai ki woh akela nahi hai. Saath hansne se bullying aur badhti hai."
   }
  },
@@ -94,35 +84,29 @@
   "type": "mcq",
   "q": {
    "en": "Which number is India's Child Helpline, free and open day and night?",
-   "hi": "भारत की चाइल्ड हेल्पलाइन का नंबर कौन सा है, जो मुफ़्त है और दिन-रात खुली रहती है?",
    "hg": "India ki Child Helpline ka number kaun sa hai, jo free hai aur din-raat khuli rehti hai?"
   },
   "options": [
    {
     "en": "Number 1098",
-    "hi": "नंबर 1098",
     "hg": "Number 1098"
    },
    {
     "en": "Number 1930",
-    "hi": "नंबर 1930",
     "hg": "Number 1930"
    },
    {
     "en": "Number 14416",
-    "hi": "नंबर 14416",
     "hg": "Number 14416"
    },
    {
     "en": "Number 181",
-    "hi": "नंबर 181",
     "hg": "Number 181"
    }
   ],
   "answer": 0,
   "explain": {
    "en": "1098 is the Child Helpline. 1930 is for cybercrime, 14416 is Tele-MANAS for mental health, and 181 is the Women Helpline.",
-   "hi": "1098 चाइल्ड हेल्पलाइन है। 1930 साइबर अपराध के लिए है, 14416 मानसिक स्वास्थ्य के लिए टेली-मानस है, और 181 महिला हेल्पलाइन है।",
    "hg": "1098 Child Helpline hai. 1930 cybercrime ke liye hai, 14416 mental health ke liye Tele-MANAS hai, aur 181 Women Helpline hai."
   }
  },
@@ -141,35 +125,29 @@
   "type": "mcq",
   "q": {
    "en": "Which of these best describes stalking?",
-   "hi": "इनमें से कौन सी बात स्टॉकिंग को सबसे सही बताती है?",
    "hg": "Inme se kaun si baat stalking ko sabse sahi describe karti hai?"
   },
   "options": [
    {
     "en": "Asking someone out once and accepting their no",
-    "hi": "किसी से एक बार पूछना और उसकी 'ना' मान लेना",
     "hg": "Kisi ko ek baar poochna aur uski 'no' maan lena"
    },
    {
     "en": "Disagreeing with someone in a group chat",
-    "hi": "ग्रुप चैट में किसी से असहमत होना",
     "hg": "Group chat mein kisi se disagree karna"
    },
    {
     "en": "Unfollowing someone after an argument",
-    "hi": "बहस के बाद किसी को अनफ़ॉलो कर देना",
     "hg": "Argument ke baad kisi ko unfollow kar dena"
    },
    {
     "en": "Repeatedly following or contacting someone who has shown they are not interested",
-    "hi": "जिसने दिलचस्पी न होना जता दिया हो, उसका बार-बार पीछा करना या उससे संपर्क करना",
     "hg": "Jisne interest na hona dikha diya ho, use baar-baar follow ya contact karna"
    }
   ],
   "answer": 3,
   "explain": {
    "en": "Stalking is about repetition after a clear lack of interest, in person or online. A single respectful request that takes no for an answer is not stalking.",
-   "hi": "स्टॉकिंग की पहचान है साफ़ अरुचि के बाद भी बार-बार वही हरकत, आमने-सामने या ऑनलाइन। एक बार अदब से पूछना और 'ना' मान लेना स्टॉकिंग नहीं है।",
    "hg": "Stalking ki pehchaan hai clear disinterest ke baad bhi repetition, in person ya online. Ek baar respectfully poochna aur 'no' maan lena stalking nahi hai."
   }
  },
@@ -188,35 +166,29 @@
   "type": "mcq",
   "q": {
    "en": "Which kinds of abuse does the Protection of Women from Domestic Violence Act, 2005 recognise?",
-   "hi": "घरेलू हिंसा से महिलाओं का संरक्षण अधिनियम, 2005 किस-किस तरह के दुर्व्यवहार को मानता है?",
    "hg": "Protection of Women from Domestic Violence Act, 2005 kis-kis tarah ke abuse ko recognise karta hai?"
   },
   "options": [
    {
     "en": "Only physical violence that leaves injuries",
-    "hi": "सिर्फ़ ऐसी शारीरिक हिंसा जिससे चोट लगे",
     "hg": "Sirf aisi physical violence jisse chot lage"
    },
    {
     "en": "Only demands for dowry",
-    "hi": "सिर्फ़ दहेज की माँग",
     "hg": "Sirf dowry ki demand"
    },
    {
     "en": "Physical, sexual, verbal, emotional and economic abuse",
-    "hi": "शारीरिक, यौन, मौखिक, भावनात्मक और आर्थिक दुर्व्यवहार",
     "hg": "Physical, sexual, verbal, emotional aur economic abuse"
    },
    {
     "en": "Only violence that happens after marriage",
-    "hi": "सिर्फ़ शादी के बाद होने वाली हिंसा",
     "hg": "Sirf shaadi ke baad hone wali violence"
    }
   ],
   "answer": 2,
   "explain": {
    "en": "The Act defines domestic violence broadly, covering physical, sexual, verbal, emotional and economic abuse of women in domestic relationships, including live-in relationships.",
-   "hi": "यह क़ानून घरेलू हिंसा को व्यापक रूप से परिभाषित करता है: घरेलू रिश्तों में, लिव-इन समेत, महिलाओं के साथ शारीरिक, यौन, मौखिक, भावनात्मक और आर्थिक दुर्व्यवहार।",
    "hg": "Yeh Act domestic violence ko broadly define karta hai: domestic relationships mein, live-in bhi, women ke saath physical, sexual, verbal, emotional aur economic abuse."
   }
  },
@@ -235,30 +207,25 @@
   "type": "scenario",
   "q": {
    "en": "On a bus, a man keeps pressing against a girl who looks uncomfortable. Confronting him does not feel safe. Which 'distract' move could you use?",
-   "hi": "बस में एक आदमी बार-बार एक लड़की से सट रहा है और वह असहज दिख रही है। उससे सीधे भिड़ना सुरक्षित नहीं लगता। 'ध्यान भटकाने' का कौन सा तरीक़ा अपना सकते हो?",
    "hg": "Bus mein ek aadmi baar-baar ek ladki se sat raha hai aur woh uncomfortable dikh rahi hai. Use directly confront karna safe nahi lagta. Kaun sa 'distract' move use kar sakte ho?"
   },
   "options": [
    {
     "en": "Record a video and post it online",
-    "hi": "वीडियो बनाकर ऑनलाइन पोस्ट कर देना",
     "hg": "Video banakar online post kar dena"
    },
    {
     "en": "Ask her, 'Didi, is this the stop for the market?' and make space for her to move",
-    "hi": "उससे पूछना, 'दीदी, बाज़ार का स्टॉप यही है?' और उसके हटने के लिए जगह बनाना",
     "hg": "Usse poochna, 'Didi, market ka stop yahi hai?' aur uske hatne ke liye jagah banana"
    },
    {
     "en": "Look away because it is not your business",
-    "hi": "नज़र फेर लेना क्योंकि यह तुम्हारा मामला नहीं है",
     "hg": "Nazar pher lena kyunki yeh tumhara matter nahi hai"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "A casual interruption breaks the situation and gives her a way out without escalating. Posting a video takes away her control over her own story.",
-   "hi": "यूँ ही बीच में टोक देने से स्थिति टूट जाती है और बात बढ़ाए बिना उसे निकलने का रास्ता मिल जाता है। वीडियो पोस्ट करने से अपनी ही कहानी पर उसका हक़ छिन जाता है।",
    "hg": "Casual interruption situation ko break kar deta hai aur baat badhaye bina use nikalne ka raasta mil jaata hai. Video post karne se apni hi story par uska control chhin jaata hai."
   }
  }

@@ -13,12 +13,10 @@
   ],
   "q": {
    "en": "All my friends have got their periods. When will I get mine?",
-   "hi": "मेरी सारी सहेलियों को पीरियड आ चुके हैं। मुझे कब आएँगे?",
    "hg": "Meri saari friends ko periods aa chuke hain. Mujhe kab aayenge?"
   },
   "a": {
    "en": "There is no fixed date. The first period usually comes about two years after the breasts start to develop, most often between 10 and 15. Signs that it is getting close are hair growing under the arms and around the genitals, a growth spurt, and clear or white discharge in the underwear. Starting later than friends does not mean anything is wrong. If there are no signs of puberty by 13, or no period by 15, see a doctor to check.",
-   "hi": "इसकी कोई तय तारीख़ नहीं होती। पहला पीरियड आम तौर पर स्तनों का विकास शुरू होने के लगभग दो साल बाद आता है, ज़्यादातर 10 से 15 साल की उम्र के बीच। इसके पास आने के संकेत हैं बगलों में और जननांगों के आसपास बाल आना, क़द का तेज़ी से बढ़ना, और अंडरवियर पर साफ़ या सफ़ेद स्राव दिखना। सहेलियों से देर में शुरू होने का मतलब यह नहीं कि कुछ गड़बड़ है। अगर 13 साल तक यौवन के कोई संकेत न दिखें, या 15 साल तक पीरियड न आए, तो एक बार डॉक्टर को दिखा लीजिए।",
    "hg": "Iski koi fixed date nahi hoti. First period usually breasts develop hona start hone ke lagbhag do saal baad aata hai, zyadatar 10 se 15 saal ki age ke beech. Paas aane ke signs hain underarms aur genitals ke aas-paas baal aana, height ka tezi se badhna, aur underwear pe clear ya white discharge dikhna. Friends se late start hone ka matlab yeh nahi ki kuch gadbad hai. Agar 13 saal tak puberty ke koi signs na dikhein, ya 15 saal tak period na aaye, toh ek baar doctor ko dikha lo."
   },
   "keywords": [
@@ -26,12 +24,9 @@
    "first period kab aayega",
    "period nahi aaya",
    "pehla period",
-   "पहला पीरियड",
-   "पीरियड कब आएगा",
    "late period start",
    "menarche",
-   "mahina kab shuru hoga",
-   "माहवारी कब शुरू होती है"
+   "mahina kab shuru hoga"
   ],
   "refs": [
    "nhs-periods",
@@ -55,12 +50,10 @@
   ],
   "q": {
    "en": "I got a stain on my uniform at school. What do I do now?",
-   "hi": "स्कूल में मेरी यूनिफ़ॉर्म पर दाग़ लग गया। अब क्या करूँ?",
    "hg": "School mein meri uniform pe stain lag gaya. Ab kya karun?"
   },
   "a": {
    "en": "Leaks happen to almost everyone who has periods, so you are not the first in your school. Tie a sweater or jacket around your waist, go to the washroom, and ask a friend, teacher or the school office for a pad. If you have none, folded tissue or clean cloth works for a short time. Rinse the stain with cold water when you can. Next time, carry a pad kit and wear a longer pad on heavy days. If someone teases you, the bad manners are theirs.",
-   "hi": "जिन्हें पीरियड आते हैं, उनमें से लगभग सबके साथ कभी न कभी ऐसा होता है, तो आपके स्कूल में आप पहली नहीं हैं। कमर पर स्वेटर या जैकेट बाँध लीजिए, वॉशरूम जाइए, और किसी दोस्त, टीचर या स्कूल ऑफ़िस से पैड माँग लीजिए। पैड न मिले तो थोड़ी देर के लिए तह किया हुआ टिशू या साफ़ कपड़ा काम चला देता है। मौक़ा मिलते ही दाग़ को ठंडे पानी से धो लीजिए। अगली बार पैड किट साथ रखिए और ज़्यादा बहाव वाले दिनों में लंबा पैड लगाइए। अगर कोई चिढ़ाए, तो बदतमीज़ी उसकी है, आपकी नहीं।",
    "hg": "Jinhe periods aate hain, unme se lagbhag sabke saath kabhi na kabhi leak hota hai, toh aapke school mein aap pehli nahi ho. Kamar pe sweater ya jacket baandh lo, washroom jao, aur kisi friend, teacher ya school office se pad maang lo. Pad na mile toh thodi der ke liye fold kiya hua tissue ya clean kapda kaam chala deta hai. Mauka milte hi stain ko thande paani se dho lo. Next time pad kit carry karo aur heavy days pe lamba pad lagao. Agar koi tease kare, toh badtameezi uski hai, aapki nahi."
   },
   "keywords": [
@@ -68,8 +61,6 @@
    "uniform pe daag",
    "leak ho gaya",
    "period leak school",
-   "दाग़ लग गया",
-   "पीरियड का दाग",
    "skirt stain",
    "stain kaise hataye",
    "pad nahi hai",
@@ -97,12 +88,10 @@
   ],
   "q": {
    "en": "Can I wash my hair, play sports or go into the kitchen during my period?",
-   "hi": "क्या मैं पीरियड में बाल धो सकती हूँ, खेल सकती हूँ या रसोई में जा सकती हूँ?",
    "hg": "Kya main period mein baal dho sakti hoon, sports khel sakti hoon ya kitchen mein ja sakti hoon?"
   },
   "a": {
    "en": "Yes to all of them. Bathing and washing hair keep you clean and comfortable, and warm water eases cramps. Exercise and sport are safe and often reduce pain. Cooking, touching pickle, watering plants or sitting near anyone harms nothing, because menstrual blood is ordinary blood and tissue. Some families follow customs about the kitchen or prayer during periods. Those are traditions, not medical rules, and you can respectfully ask the adults at home why they are followed.",
-   "hi": "हाँ, ये सब कर सकती हैं। नहाने और बाल धोने से आप साफ़ और आराम में रहती हैं, और गुनगुना पानी ऐंठन कम करता है। कसरत और खेल सुरक्षित हैं और अक्सर दर्द घटाते हैं। खाना बनाने, अचार छूने, पौधों को पानी देने या किसी के पास बैठने से कुछ नहीं बिगड़ता, क्योंकि माहवारी का खून साधारण खून और ऊतक ही है। कुछ परिवार पीरियड में रसोई या पूजा को लेकर रिवाज मानते हैं। वे परंपराएँ हैं, डॉक्टरी नियम नहीं, और आप घर के बड़ों से अदब के साथ पूछ सकती हैं कि इन्हें क्यों माना जाता है।",
    "hg": "Haan, yeh sab kar sakti ho. Nahane aur baal dhone se aap clean aur comfortable rehti ho, aur gungune paani se cramps kam hote hain. Exercise aur sports safe hain aur aksar pain kam karte hain. Khana banane, achaar chhoone, paudhon ko paani dene ya kisi ke paas baithne se kuch nahi bigadta, kyunki period blood ordinary blood aur tissue hi hai. Kuch families periods mein kitchen ya pooja ko lekar customs follow karti hain. Woh traditions hain, medical rules nahi, aur aap ghar ke badon se respect ke saath pooch sakti ho ki yeh kyun maane jaate hain."
   },
   "keywords": [
@@ -111,11 +100,8 @@
    "period sports",
    "period kitchen",
    "achaar period",
-   "पीरियड में बाल धोना",
-   "पीरियड में रसोई",
    "period me exercise",
    "period me mandir",
-   "पीरियड में नहाना",
    "period restrictions"
   ],
   "refs": [
@@ -141,12 +127,10 @@
   ],
   "q": {
    "en": "My period blood is brown and sometimes has clots. Is something wrong?",
-   "hi": "मेरे पीरियड का खून भूरा है और कभी-कभी थक्के भी आते हैं। क्या कुछ गड़बड़ है?",
    "hg": "Mere period ka blood brown hai aur kabhi-kabhi clots bhi aate hain. Kuch gadbad hai kya?"
   },
   "a": {
    "en": "Usually not. Blood that leaves the body slowly turns dark red or brown, so brown blood at the beginning or end of a period is common. Small jelly-like clots on heavy days are also normal; they are blood that pooled before coming out. See a doctor if clots are often bigger than a ten-rupee coin, if you soak a pad every one to two hours, or if the discharge is grey or green with a strong bad smell or itching, which can mean an infection.",
-   "hi": "आम तौर पर नहीं। जो खून शरीर से धीरे-धीरे निकलता है, वह गहरा लाल या भूरा पड़ जाता है, इसलिए पीरियड की शुरुआत या आख़िर में भूरा खून आना आम है। ज़्यादा बहाव वाले दिनों में जेली जैसे छोटे थक्के भी सामान्य हैं; यह वह खून है जो बाहर आने से पहले अंदर जमा हो गया था। डॉक्टर को दिखाइए अगर थक्के अक्सर दस रुपये के सिक्के से बड़े हों, हर एक-दो घंटे में पैड पूरा भीग जाता हो, या स्राव स्लेटी या हरा हो और उसमें तेज़ बदबू या खुजली हो, क्योंकि यह संक्रमण का संकेत हो सकता है।",
    "hg": "Usually nahi. Jo blood body se dheere-dheere nikalta hai woh dark red ya brown ho jaata hai, isliye period ke start ya end mein brown blood aana common hai. Heavy days pe jelly jaise chhote clots bhi normal hain; yeh woh blood hai jo bahar aane se pehle andar jama ho gaya tha. Doctor ko dikhao agar clots aksar das rupaye ke sikke se bade hon, har ek-do ghante mein pad poora bheeg jaata ho, ya discharge grey ya green ho aur usme tez badbu ya khujli ho, kyunki yeh infection ka sign ho sakta hai."
   },
   "keywords": [
@@ -154,12 +138,9 @@
    "period clots",
    "khoon ke thakke",
    "kala khoon period",
-   "भूरा खून",
-   "पीरियड में थक्के",
    "dark blood period",
    "period blood colour",
-   "blood clot normal hai kya",
-   "पीरियड का रंग"
+   "blood clot normal hai kya"
   ],
   "refs": [
    "nhs-periods"
@@ -183,12 +164,10 @@
   ],
   "q": {
    "en": "I'm a boy. How do I help my sister or a friend when she has her period?",
-   "hi": "मैं लड़का हूँ। जब मेरी बहन या दोस्त को पीरियड हो, तो मैं कैसे मदद करूँ?",
    "hg": "Main ladka hoon. Jab meri behen ya friend ko period ho, toh main kaise help karun?"
   },
   "a": {
    "en": "Treat it as the ordinary body function it is. Do not joke about it, and shut down jokes from others. If she asks you to buy pads, buy them the way you would buy soap; the shopkeeper has seen it before. If she is in pain, ask what would help: a hot water bottle, carrying her bag, sharing notes, or just space. Never guess aloud that someone is on her period because she is upset. At home, speak up if she is kept from food, rooms or activities because of it.",
-   "hi": "इसे शरीर का एक आम काम ही मानिए, क्योंकि यह वही है। इस पर मज़ाक़ मत कीजिए, और दूसरे करें तो उन्हें रोकिए। अगर वह आपसे पैड मँगवाए, तो वैसे ही ख़रीद लाइए जैसे साबुन ख़रीदते हैं; दुकानदार के लिए यह कोई नई बात नहीं। अगर उसे दर्द है, तो पूछिए कि किस चीज़ से आराम मिलेगा: गर्म पानी की बोतल, बैग उठा देना, नोट्स दे देना, या बस थोड़ा अकेला छोड़ देना। कोई परेशान दिखे तो ज़ोर से यह अंदाज़ा मत लगाइए कि 'इसे पीरियड होगा'। घर पर अगर इसकी वजह से उसे खाने, कमरों या कामों से रोका जाए, तो उसके पक्ष में बोलिए।",
    "hg": "Ise body ka ek ordinary function hi maano, kyunki yeh wahi hai. Is pe joke mat maaro, aur doosre maarein toh unhe roko. Agar woh aapse pads mangwaye, toh waise hi khareed lao jaise sabun khareedte ho; dukaandaar ke liye yeh koi nayi baat nahi. Agar use pain hai, toh poochho kis cheez se aaram milega: hot water bottle, bag utha dena, notes share karna, ya bas thoda space. Koi upset dikhe toh zor se yeh guess mat karo ki 'isko period hoga'. Ghar pe agar is wajah se use khane, rooms ya activities se roka jaye, toh uski side lo aur bolo."
   },
   "keywords": [
@@ -196,8 +175,6 @@
    "ladke period me kaise help kare",
    "behen ko period",
    "girlfriend period help",
-   "पीरियड में मदद",
-   "लड़के पीरियड",
    "pad kaise kharide",
    "period support",
    "sister period pain",
@@ -225,23 +202,19 @@
   ],
   "q": {
    "en": "My period is late but I have never had sex. Why is this happening?",
-   "hi": "मेरा पीरियड लेट है, पर मैंने कभी सेक्स नहीं किया। ऐसा क्यों हो रहा है?",
    "hg": "Mera period late hai, par maine kabhi sex nahi kiya. Aisa kyun ho raha hai?"
   },
   "a": {
    "en": "Pregnancy needs sperm to reach the vagina, so with no sex or genital contact, something else is shifting your cycle. In the first few years, cycles can run 21 to 45 days and sometimes skip a month. Exam stress, travel, illness, poor sleep, sudden weight change, heavy sports training, thyroid problems or PCOS can delay ovulation, which delays the period. One late period is rarely a concern. See a doctor if periods stop for three months or more, or stay very irregular. After any such contact, even unwanted, take a pregnancy test, see a doctor, and tell a trusted adult or call 1098; it is not your fault.",
-   "hi": "गर्भ तभी ठहरता है जब शुक्राणु (sperm) योनि तक पहुँचें, इसलिए अगर सेक्स या जननांगों का कोई संपर्क बिल्कुल नहीं हुआ है, तो कोई और चीज़ आपके चक्र को आगे-पीछे कर रही है। शुरुआती कुछ सालों में चक्र 21 से 45 दिन तक का हो सकता है और कभी कोई महीना छूट भी जाता है। परीक्षा का तनाव, सफ़र, बीमारी, कम नींद, अचानक वज़न बदलना, खेल की भारी ट्रेनिंग, थायरॉइड की समस्या या PCOS ओव्यूलेशन को देर से करा सकते हैं, जिससे पीरियड भी देर से आता है। एक बार पीरियड लेट होना शायद ही चिंता की बात हो। अगर पीरियड तीन महीने या उससे ज़्यादा बंद रहें, या बहुत अनियमित बने रहें, तो डॉक्टर को दिखाइए। अगर ऐसा कोई संपर्क हुआ है, चाहे आपकी मर्ज़ी के बिना, तो प्रेगनेंसी टेस्ट कीजिए, डॉक्टर को दिखाइए, और किसी भरोसेमंद बड़े को बताइए या 1098 पर फ़ोन कीजिए; इसमें आपकी कोई ग़लती नहीं है।",
    "hg": "Pregnancy tabhi hoti hai jab sperm vagina tak pahunche, toh agar sex ya koi genital contact bilkul nahi hua hai, matlab koi aur cheez aapke cycle ko shift kar rahi hai. Shuruaati kuch saalon mein cycle 21 se 45 din tak ka ho sakta hai aur kabhi koi mahina skip bhi ho jaata hai. Exam stress, travel, bimari, kam neend, achanak weight change, heavy sports training, thyroid problems ya PCOS ovulation ko delay kar sakte hain, jisse period bhi late aata hai. Ek baar period late hona shayad hi tension ki baat ho. Agar periods teen mahine ya usse zyada band rahein, ya bahut irregular bane rahein, toh doctor ko dikhao. Agar aisa koi contact hua hai, chahe aapki marzi ke bina, toh pregnancy test karo, doctor ko dikhao, aur kisi trusted adult ko batao ya 1098 pe call karo; isme aapki koi galti nahi hai."
   },
   "keywords": [
    "period late",
    "late period",
    "mahina late",
-   "पीरियड लेट",
    "missed period",
    "period nahi aaya is mahine",
    "period miss ho gaya",
-   "पीरियड नहीं आया",
    "irregular periods",
    "stress se period late",
    "date nikal gayi"
@@ -268,19 +241,15 @@
   ],
   "q": {
    "en": "I get white discharge in my underwear almost every day. Is it an infection?",
-   "hi": "मेरे अंडरवियर पर लगभग रोज़ सफ़ेद स्राव आता है। क्या यह संक्रमण है?",
    "hg": "Mere underwear pe lagbhag roz white discharge aata hai. Kya yeh infection hai?"
   },
   "a": {
    "en": "Most likely not. Clear, white or slightly yellowish discharge with a mild smell is how the vagina keeps itself clean and moist. It changes through the cycle: wetter and stretchy around ovulation, thicker and creamy before a period. Cotton underwear and washing the outside with water are enough; do not douche. See a doctor if it turns grey, green or curd-like, smells strongly fishy or foul, or comes with itching, burning or pain, because those suggest an infection that is easily treated.",
-   "hi": "ज़्यादा संभावना है कि नहीं। साफ़, सफ़ेद या हल्का पीला स्राव, जिसमें हल्की-सी गंध हो, योनि का ख़ुद को साफ़ और नम रखने का तरीक़ा है। यह चक्र के साथ बदलता है: ओव्यूलेशन के आसपास ज़्यादा गीला और खिंचने वाला, और पीरियड से पहले गाढ़ा और मलाई जैसा। सूती अंडरवियर और बाहरी हिस्से को पानी से धोना काफ़ी है; अंदर पानी डालकर धोना (डूश) मत कीजिए। डॉक्टर को दिखाइए अगर स्राव स्लेटी, हरा या दही जैसा हो जाए, उसमें मछली जैसी या तेज़ बदबू हो, या साथ में खुजली, जलन या दर्द हो, क्योंकि ये संक्रमण के संकेत हैं, जिसका इलाज आसान है।",
    "hg": "Zyada chances hain ki nahi. Clear, white ya halka yellowish discharge, jisme halki si smell ho, vagina ka khud ko clean aur moist rakhne ka tareeka hai. Yeh cycle ke saath change hota hai: ovulation ke aas-paas zyada geela aur stretchy, aur period se pehle gaadha aur creamy. Cotton underwear aur bahar ke area ko paani se dhona kaafi hai; douche mat karo. Doctor ko dikhao agar discharge grey, green ya dahi jaisa ho jaye, usme fishy ya tez badbu ho, ya saath mein khujli, jalan ya pain ho, kyunki yeh infection ke signs hain, jiska treatment easy hai."
   },
   "keywords": [
    "white discharge",
    "safed paani",
-   "सफ़ेद पानी",
-   "सफेद स्राव",
    "discharge normal hai kya",
    "vaginal discharge",
    "white discharge before period",
@@ -312,23 +281,19 @@
   ],
   "q": {
    "en": "How much period pain is too much?",
-   "hi": "पीरियड में कितना दर्द 'बहुत ज़्यादा' माना जाता है?",
    "hg": "Period mein kitna pain 'too much' maana jaata hai?"
   },
   "a": {
    "en": "Pain is too much when it stops you from doing what you normally do. Mild to moderate cramps for the first one or two days that ease with heat, movement or a suitable pain-relief medicine are common. See a doctor if pain makes you miss school or work, wakes you at night, causes vomiting or fainting, does not respond to usual measures, lasts beyond the period, or gets worse year after year. Severe pain can point to conditions like endometriosis, and it deserves a proper evaluation, not advice to tolerate it.",
-   "hi": "दर्द तब बहुत ज़्यादा है जब वह आपको आपके रोज़ के काम करने से रोक दे। पहले एक-दो दिन हल्की से मध्यम ऐंठन, जो सिकाई, चलने-फिरने या सही दर्द की दवा से कम हो जाए, आम बात है। डॉक्टर को दिखाइए अगर दर्द की वजह से स्कूल या काम छूटे, रात में नींद खुल जाए, उल्टी या बेहोशी हो, आम उपायों से आराम न मिले, दर्द पीरियड के बाद भी बना रहे, या साल-दर-साल बढ़ता जाए। तेज़ दर्द एंडोमेट्रियोसिस जैसी समस्याओं का संकेत हो सकता है, और इसकी ठीक से जाँच होनी चाहिए, 'सह लो' की सलाह नहीं।",
    "hg": "Pain tab too much hai jab woh aapko aapke normal kaam karne se rok de. Pehle ek-do din mild se moderate cramps, jo heat, movement ya sahi pain-relief medicine se kam ho jayein, common hain. Doctor ko dikhao agar pain ki wajah se school ya kaam miss ho, raat ko neend khul jaye, ulti ya behoshi ho, usual upaayon se aaram na mile, dard period ke baad bhi rahe, ya saal-dar-saal badhta jaye. Severe pain endometriosis jaisi conditions ka sign ho sakta hai, aur iska proper check-up hona chahiye, 'seh lo' wali advice nahi."
   },
   "keywords": [
    "period pain",
    "period cramps",
    "pet dard period",
-   "पीरियड में दर्द",
    "bahut dard hota hai",
    "dysmenorrhea",
    "cramps normal hai kya",
-   "पेट दर्द माहवारी",
    "period pain doctor",
    "endometriosis pain",
    "dard ki dawa period"
@@ -356,25 +321,20 @@
   ],
   "q": {
    "en": "Will using a tampon or menstrual cup break my hymen or take my virginity?",
-   "hi": "क्या टैम्पोन या मेंस्ट्रुअल कप से हाइमन टूट जाता है या वर्जिनिटी चली जाती है?",
    "hg": "Kya tampon ya menstrual cup se hymen toot jaata hai ya virginity chali jaati hai?"
   },
   "a": {
    "en": "No. Virginity is a social idea, not a body part, and no product can take it. The hymen is a thin, stretchy rim of tissue at the vaginal opening that already has an opening for period blood. It varies naturally, can stretch with sport, tampons or nothing at all, and may or may not ever tear or bleed. No doctor can tell from it whether someone has had sex. So-called virginity tests are unscientific; WHO has condemned them, and the Supreme Court of India has prohibited the 'two-finger test' in sexual-assault examinations. Choose a product by comfort.",
-   "hi": "नहीं। वर्जिनिटी एक सामाजिक सोच है, शरीर का कोई अंग नहीं, और कोई प्रोडक्ट इसे 'ले' नहीं सकता। हाइमन योनि के मुँह पर पतले, खिंचने वाले ऊतक का एक घेरा है, जिसमें पीरियड के खून के लिए पहले से रास्ता होता है। यह हर किसी में क़ुदरती तौर पर अलग होता है, खेल-कूद से, टैम्पोन से या बिना किसी वजह के भी खिंच सकता है, और ज़रूरी नहीं कि कभी फटे या उससे खून आए। कोई डॉक्टर इसे देखकर नहीं बता सकता कि किसी ने सेक्स किया है या नहीं। तथाकथित 'वर्जिनिटी टेस्ट' अवैज्ञानिक हैं; WHO ने इनकी निंदा की है, और भारत के सुप्रीम कोर्ट ने यौन हिंसा के मामलों की जाँच में 'टू-फ़िंगर टेस्ट' पर रोक लगाई है। प्रोडक्ट अपने आराम के हिसाब से चुनिए।",
    "hg": "Nahi. Virginity ek social idea hai, body ka koi part nahi, aur koi product ise 'le' nahi sakta. Hymen vagina ke opening pe patle, stretchy tissue ka ek rim hai, jisme period blood ke liye pehle se raasta hota hai. Yeh har kisi mein naturally alag hota hai, sports se, tampon se ya bina kisi wajah ke bhi stretch ho sakta hai, aur zaroori nahi ki kabhi tear ho ya usse bleeding ho. Koi doctor ise dekhkar nahi bata sakta ki kisi ne sex kiya hai ya nahi. So-called 'virginity tests' unscientific hain; WHO ne inhe condemn kiya hai, aur Supreme Court of India ne sexual assault ke cases ki jaanch mein 'two-finger test' par rok lagayi hai. Product apne comfort ke hisaab se choose karo."
   },
   "keywords": [
    "tampon virginity",
    "cup virginity",
    "hymen toot jata hai",
-   "हाइमन",
-   "वर्जिनिटी टैम्पोन",
    "menstrual cup safe for virgins",
    "seal toot jayegi",
    "jhilli",
    "tampon unmarried",
-   "कप कुंवारी लड़की",
    "hymen break"
   ],
   "refs": [
@@ -400,26 +360,21 @@
   ],
   "q": {
    "en": "Can pregnancy happen from sex during a period? Aren't those the 'safe days'?",
-   "hi": "क्या पीरियड के दौरान सेक्स से गर्भ ठहर सकता है? क्या वे 'सेफ़ डेज़' नहीं होते?",
    "hg": "Kya period ke dauraan sex se pregnancy ho sakti hai? Woh toh 'safe days' hote hain na?"
   },
   "a": {
    "en": "Yes, pregnancy is possible. Sperm can survive inside the body for several days, and ovulation can come early, especially in short or irregular cycles. Some bleeding is also not a true period. Counting safe days on a calendar or app is not reliable contraception, because ovulation shifts from month to month. Condoms and other modern methods are far more dependable, and only condoms also reduce STI risk. Under POCSO, a person under 18 cannot legally consent to sexual activity, and waiting is a fully valid choice.",
-   "hi": "हाँ, गर्भ ठहर सकता है। शुक्राणु शरीर के अंदर कई दिन ज़िंदा रह सकते हैं, और ओव्यूलेशन जल्दी भी हो सकता है, ख़ासकर छोटे या अनियमित चक्रों में। हर बार खून आना असली पीरियड भी नहीं होता। कैलेंडर या ऐप पर 'सेफ़ डेज़' गिनना भरोसेमंद गर्भनिरोध नहीं है, क्योंकि ओव्यूलेशन हर महीने आगे-पीछे होता है। कंडोम और दूसरे आधुनिक तरीक़े कहीं ज़्यादा भरोसेमंद हैं, और सिर्फ़ कंडोम ही यौन संक्रमणों (STI) का ख़तरा भी घटाते हैं। पॉक्सो क़ानून के तहत 18 साल से कम उम्र का व्यक्ति यौन गतिविधि के लिए क़ानूनी सहमति नहीं दे सकता, और इंतज़ार करना पूरी तरह सही विकल्प है।",
    "hg": "Haan, pregnancy possible hai. Sperm body ke andar kai din zinda reh sakte hain, aur ovulation jaldi bhi ho sakta hai, khaaskar short ya irregular cycles mein. Har bleeding real period bhi nahi hoti. Calendar ya app pe 'safe days' ginna reliable contraception nahi hai, kyunki ovulation har mahine aage-peeche hota hai. Condoms aur doosre modern methods kahin zyada dependable hain, aur sirf condoms hi STI ka risk bhi kam karte hain. POCSO ke under 18 saal se kam age ka insaan sexual activity ke liye legally consent nahi de sakta, aur wait karna ek poori tarah valid choice hai."
   },
   "keywords": [
    "safe days",
    "period me sex pregnancy",
-   "सेफ़ डेज़",
-   "पीरियड में सेक्स",
    "period sex pregnant",
    "safe period calculation",
    "calendar method",
    "period ke time pregnancy",
    "ovulation calculator",
-   "mahine ke safe din",
-   "गर्भ ठहरना पीरियड"
+   "mahine ke safe din"
   ],
   "refs": [
    "who-fp",
@@ -446,26 +401,21 @@
   ],
   "q": {
    "en": "My periods are irregular and I have chin hair and acne. Do I have PCOS?",
-   "hi": "मेरे पीरियड अनियमित हैं, ठुड्डी पर बाल आते हैं और मुँहासे हैं। क्या मुझे PCOS है?",
    "hg": "Mere periods irregular hain, chin pe baal aate hain aur acne hai. Kya mujhe PCOS hai?"
   },
   "a": {
    "en": "Possibly, but only a doctor can tell, and this app cannot diagnose. Irregular periods together with extra facial or body hair and persistent acne are the pattern doctors look for in PCOS. They will ask about your cycles and may do blood tests for hormones and sometimes an ultrasound. In the first years after the first period, irregular cycles alone are common, so doctors may wait and review. If it is PCOS, it is manageable. Be wary of cure diets and supplements sold online; start with a gynaecologist.",
-   "hi": "हो सकता है, पर यह सिर्फ़ डॉक्टर बता सकते हैं; यह ऐप बीमारी की पहचान नहीं कर सकता। अनियमित पीरियड के साथ चेहरे या शरीर पर ज़्यादा बाल और लगातार बने रहने वाले मुँहासे, यही वह पैटर्न है जो डॉक्टर PCOS में देखते हैं। वे आपके चक्र के बारे में पूछेंगे और हार्मोन के लिए खून की जाँच और कभी-कभी अल्ट्रासाउंड करवा सकते हैं। पहले पीरियड के बाद के शुरुआती सालों में सिर्फ़ अनियमित चक्र आम हैं, इसलिए डॉक्टर कुछ समय रुककर दोबारा देख सकते हैं। अगर PCOS निकले, तो उसे संभाला जा सकता है। ऑनलाइन बिकने वाली 'PCOS ठीक करने वाली' डाइट और सप्लीमेंट से सावधान रहिए; शुरुआत स्त्री रोग विशेषज्ञ से कीजिए।",
    "hg": "Ho sakta hai, par yeh sirf doctor bata sakte hain; yeh app diagnose nahi kar sakta. Irregular periods ke saath face ya body pe extra baal aur lagataar rehne wala acne, yahi woh pattern hai jo doctors PCOS mein dekhte hain. Woh aapke cycles ke baare mein poochhenge aur hormones ke liye blood tests aur kabhi-kabhi ultrasound karwa sakte hain. First period ke baad ke shuruaati saalon mein sirf irregular cycles common hain, isliye doctor kuch time wait karke dobara dekh sakte hain. Agar PCOS nikle, toh woh manage ho jaata hai. Online bikne wali 'PCOS cure' diets aur supplements se careful raho; start gynaecologist se karo."
   },
   "keywords": [
    "pcos",
    "pcod",
-   "पीसीओएस",
-   "पीसीओडी",
    "chin hair",
    "chehre pe baal",
    "irregular periods acne",
    "pcos symptoms",
    "pcod ka ilaj",
    "facial hair girl",
-   "अनियमित पीरियड",
    "pcos test"
   ],
   "refs": [
@@ -491,26 +441,21 @@
   ],
   "q": {
    "en": "I am bleeding so heavily that I change pads every hour and I feel dizzy. What should I do?",
-   "hi": "मुझे इतना ज़्यादा खून आ रहा है कि हर घंटे पैड बदलना पड़ रहा है और चक्कर आ रहे हैं। क्या करूँ?",
    "hg": "Mujhe itni heavy bleeding ho rahi hai ki har ghante pad change karna pad raha hai aur chakkar aa rahe hain. Kya karun?"
   },
   "a": {
    "en": "Get medical care today. Soaking a pad every one to two hours is heavy bleeding, and dizziness means your body may be struggling with the blood loss. Tell an adult now and go to a doctor or the nearest hospital; do not wait for the period to end. If you faint, feel your heart racing or become breathless, call 112. Lie down, sip water and keep count of the pads used so you can tell the doctor. Heavy periods have treatable causes, and repeated heavy bleeding can cause anaemia.",
-   "hi": "आज ही डॉक्टरी मदद लीजिए। हर एक-दो घंटे में पैड का पूरा भीग जाना भारी रक्तस्राव है, और चक्कर आने का मतलब है कि शरीर खून की कमी से जूझ रहा हो सकता है। अभी किसी बड़े को बताइए और डॉक्टर या नज़दीकी अस्पताल जाइए; पीरियड ख़त्म होने का इंतज़ार मत कीजिए। अगर बेहोशी आए, दिल बहुत तेज़ धड़के या साँस फूलने लगे, तो 112 पर फ़ोन कीजिए। लेट जाइए, घूँट-घूँट पानी पीजिए और गिनती रखिए कि कितने पैड लगे, ताकि डॉक्टर को बता सकें। भारी पीरियड की वजहों का इलाज होता है, और बार-बार भारी रक्तस्राव से एनीमिया हो सकता है।",
    "hg": "Aaj hi medical care lo. Har ek-do ghante mein pad ka poora bheeg jaana heavy bleeding hai, aur chakkar aane ka matlab hai body blood loss se struggle kar rahi ho sakti hai. Abhi kisi adult ko batao aur doctor ya nearest hospital jao; period khatam hone ka wait mat karo. Agar behoshi aaye, dil bahut tez dhadke ya saans phoolne lage, toh 112 pe call karo. Let jao, ghoont-ghoont paani piyo aur count rakho ki kitne pads lage, taaki doctor ko bata sako. Heavy periods ke reasons ka treatment hota hai, aur baar-baar heavy bleeding se anaemia ho sakta hai."
   },
   "keywords": [
    "heavy bleeding",
    "bahut zyada bleeding",
-   "ज़्यादा खून आना",
-   "भारी रक्तस्राव",
    "pad har ghante",
    "period me chakkar",
    "heavy period",
    "khoon band nahi ho raha",
    "menorrhagia",
-   "anaemia period",
-   "पीरियड में चक्कर"
+   "anaemia period"
   ],
   "refs": [
    "nhs-periods",

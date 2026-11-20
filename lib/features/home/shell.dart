@@ -275,6 +275,66 @@ class HomeTab extends ConsumerWidget {
             ),
           ),
         ),
+        if (labs.contains('magazine'))
+          SliverToBoxAdapter(
+            child: Padding(
+              padding: const EdgeInsets.fromLTRB(20, 14, 20, 0),
+              child: FadeSlide(
+                delayMs: 60,
+                child: AppCard(
+                  key: const Key('home-magazine'),
+                  onTap: () => context.push('/magazine'),
+                  semanticLabel: context.t('lab.magazine.title'),
+                  gradient: const LinearGradient(
+                    begin: Alignment.topLeft,
+                    end: Alignment.bottomRight,
+                    colors: [Color(0xFF2B0C12), Color(0xFF0E0D12)],
+                  ),
+                  child: Row(
+                    children: [
+                      Container(
+                        width: 52,
+                        height: 52,
+                        decoration: BoxDecoration(
+                          color: const Color(0xFFD2142B),
+                          borderRadius: BorderRadius.circular(16),
+                        ),
+                        child: const Icon(
+                          Icons.menu_book_rounded,
+                          color: Colors.white,
+                        ),
+                      ),
+                      const SizedBox(width: 14),
+                      Expanded(
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Text(
+                              context.t('lab.magazine.title'),
+                              style: context.tx.titleMedium?.copyWith(
+                                color: Colors.white,
+                              ),
+                            ),
+                            const SizedBox(height: 2),
+                            Text(
+                              context.t('lab.magazine.sub'),
+                              style: context.tx.bodySmall?.copyWith(
+                                color: Colors.white70,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                      const Icon(
+                        Icons.chevron_right_rounded,
+                        color: Colors.white,
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+            ),
+          ),
         if (cont != null) ...[
           SliverToBoxAdapter(
             child: SectionTitle(

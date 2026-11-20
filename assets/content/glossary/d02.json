@@ -1,66 +1,151 @@
 [
-  {
-    "id": "d02-g1",
-    "domain": "d02",
-    "tracks": ["B", "C"],
-    "title": {"en": "Puberty Basics", "hi": "प्यूबर्टी के बुनियादी शब्द", "hg": "Puberty ke Basic Words"},
-    "terms": [
-      {
-        "term": {"en": "Puberty", "hi": "प्यूबर्टी (यौवनारंभ)", "hg": "Puberty"},
-        "def": {"en": "The years during which a child's body develops into an adult body that is capable of reproduction.", "hi": "वे साल जिनमें बच्चे का शरीर विकसित होकर ऐसा वयस्क शरीर बनता है जो प्रजनन कर सकता है।", "hg": "Woh saal jinme bachche ki body develop hokar aisi adult body banti hai jo reproduction kar sakti hai."}
-      },
-      {
-        "term": {"en": "Hormone", "hi": "हार्मोन", "hg": "Hormone"},
-        "def": {"en": "A chemical messenger made by a gland and carried in the blood to tell other parts of the body what to do.", "hi": "ग्रंथि में बनने वाला रासायनिक संदेशवाहक, जो ख़ून के साथ जाकर शरीर के दूसरे हिस्सों को बताता है कि क्या करना है।", "hg": "Gland mein banne wala chemical messenger, jo blood ke saath jaakar body ke doosre parts ko batata hai ki kya karna hai."}
-      },
-      {
-        "term": {"en": "Growth spurt", "hi": "लंबाई की तेज़ बढ़त (growth spurt)", "hg": "Growth spurt"},
-        "def": {"en": "A period of unusually fast growth in height and weight during puberty. Girls usually have it earlier than boys.", "hi": "प्यूबर्टी के दौरान लंबाई और वज़न के बहुत तेज़ी से बढ़ने का दौर। लड़कियों में यह आम तौर पर लड़कों से पहले आता है।", "hg": "Puberty ke dauraan height aur weight ke bahut tezi se badhne ka phase. Ladkiyon mein yeh usually ladkon se pehle aata hai."}
-      },
-      {
-        "term": {"en": "Breast bud", "hi": "ब्रेस्ट बड (स्तन की कली)", "hg": "Breast bud"},
-        "def": {"en": "A small, firm, sometimes tender lump under the nipple that marks the start of breast development.", "hi": "निप्पल के नीचे एक छोटी, सख़्त, कभी-कभी दुखने वाली गाँठ, जो स्तनों के विकास की शुरुआत का संकेत है।", "hg": "Nipple ke neeche ek chhoti, firm, kabhi-kabhi dukhne wali lump, jo breast development ke start ka sign hai."}
-      },
-      {
-        "term": {"en": "Erection", "hi": "इरेक्शन (लिंग का तनाव)", "hg": "Erection"},
-        "def": {"en": "The penis becoming firmer and larger for a short time because extra blood flows into it.", "hi": "लिंग में ज़्यादा ख़ून भर जाने से उसका थोड़ी देर के लिए सख़्त और बड़ा हो जाना।", "hg": "Penis mein extra blood bhar jaane se uska thodi der ke liye firm aur bada ho jana."}
-      },
-      {
-        "term": {"en": "Wet dream", "hi": "स्वप्नदोष (wet dream)", "hg": "Wet dream"},
-        "def": {"en": "The release of semen from the penis during sleep. It is automatic and a normal part of puberty.", "hi": "नींद में लिंग से वीर्य का निकलना। यह अपने आप होता है और प्यूबर्टी का सामान्य हिस्सा है।", "hg": "Neend mein penis se semen ka nikalna. Yeh automatic hota hai aur puberty ka normal part hai."}
-      }
-    ]
+ {
+  "id": "d02-g1",
+  "domain": "d02",
+  "tracks": [
+   "B",
+   "C"
+  ],
+  "title": {
+   "en": "Puberty Basics",
+   "hg": "Puberty ke Basic Words"
   },
-  {
-    "id": "d02-g2",
-    "domain": "d02",
-    "tracks": ["C", "D", "E"],
-    "title": {"en": "Timing and Hormones", "hi": "समय और हार्मोन से जुड़े शब्द", "hg": "Timing aur Hormones ke Terms"},
-    "terms": [
-      {
-        "term": {"en": "Pituitary gland", "hi": "पिट्यूटरी ग्रंथि", "hg": "Pituitary gland"},
-        "def": {"en": "A pea-sized gland at the base of the brain that releases the hormones which start and control puberty.", "hi": "दिमाग़ के निचले हिस्से में मटर के दाने जितनी ग्रंथि, जो प्यूबर्टी को शुरू और नियंत्रित करने वाले हार्मोन छोड़ती है।", "hg": "Brain ke base par matar ke daane jitni gland, jo puberty ko start aur control karne wale hormones release karti hai."}
-      },
-      {
-        "term": {"en": "Testosterone", "hi": "टेस्टोस्टेरोन", "hg": "Testosterone"},
-        "def": {"en": "A hormone made mainly in the testes that drives genital growth, muscle, facial hair and a deeper voice. All bodies make some.", "hi": "मुख्य रूप से वृषण में बनने वाला हार्मोन, जिससे जननांग बढ़ते हैं, मांसपेशियाँ बनती हैं, चेहरे पर बाल आते हैं और आवाज़ भारी होती है। हर शरीर इसे कुछ मात्रा में बनाता है।", "hg": "Mainly testes mein banne wala hormone, jisse genitals grow karte hain, muscles banti hain, facial hair aate hain aur voice deep hoti hai. Har body ise kuch amount mein banati hai."}
-      },
-      {
-        "term": {"en": "Oestrogen", "hi": "एस्ट्रोजन", "hg": "Oestrogen"},
-        "def": {"en": "A hormone made mainly in the ovaries that drives breast development and the menstrual cycle. All bodies make some.", "hi": "मुख्य रूप से अंडाशय में बनने वाला हार्मोन, जो स्तनों के विकास और माहवारी के चक्र को चलाता है। हर शरीर इसे कुछ मात्रा में बनाता है।", "hg": "Mainly ovaries mein banne wala hormone, jo breast development aur menstrual cycle ko drive karta hai. Har body ise kuch amount mein banati hai."}
-      },
-      {
-        "term": {"en": "Precocious puberty", "hi": "समय से पहले प्यूबर्टी (precocious puberty)", "hg": "Precocious puberty"},
-        "def": {"en": "Puberty that begins unusually early: before age 8 in girls or before age 9 in boys. It should be assessed by a doctor.", "hi": "ऐसी प्यूबर्टी जो बहुत जल्दी शुरू हो जाए: लड़कियों में 8 साल से पहले या लड़कों में 9 साल से पहले। इसकी डॉक्टर से जाँच होनी चाहिए।", "hg": "Aisi puberty jo bahut early start ho jaye: ladkiyon mein 8 saal se pehle ya ladkon mein 9 saal se pehle. Ise doctor se assess karwana chahiye."}
-      },
-      {
-        "term": {"en": "Delayed puberty", "hi": "देर से प्यूबर्टी (delayed puberty)", "hg": "Delayed puberty"},
-        "def": {"en": "No signs of puberty by 13 in girls or 14 in boys, or no first period by 15. Often it is a harmless family pattern.", "hi": "लड़कियों में 13 और लड़कों में 14 साल तक प्यूबर्टी का कोई लक्षण न दिखना, या 15 साल तक पहला पीरियड न आना। अक्सर यह परिवार का एक हानिरहित पैटर्न होता है।", "hg": "Ladkiyon mein 13 aur ladkon mein 14 saal tak puberty ka koi sign na dikhna, ya 15 saal tak pehla period na aana. Aksar yeh ek harmless family pattern hota hai."}
-      },
-      {
-        "term": {"en": "Bone age", "hi": "हड्डियों की उम्र (bone age)", "hg": "Bone age"},
-        "def": {"en": "An estimate of how mature the skeleton is, read from an X-ray of the hand and wrist, used to judge remaining growth.", "hi": "कंकाल कितना परिपक्व है, इसका अंदाज़ा, जो हाथ और कलाई के एक्स-रे से लगाया जाता है और बताता है कि कितनी बढ़त बाकी है।", "hg": "Skeleton kitna mature hai, iska estimate, jo haath aur wrist ke X-ray se lagaya jata hai aur batata hai ki kitni growth baaki hai."}
-      }
-    ]
-  }
+  "terms": [
+   {
+    "term": {
+     "en": "Puberty",
+     "hg": "Puberty"
+    },
+    "def": {
+     "en": "The years during which a child's body develops into an adult body that is capable of reproduction.",
+     "hg": "Woh saal jinme bachche ki body develop hokar aisi adult body banti hai jo reproduction kar sakti hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Hormone",
+     "hg": "Hormone"
+    },
+    "def": {
+     "en": "A chemical messenger made by a gland and carried in the blood to tell other parts of the body what to do.",
+     "hg": "Gland mein banne wala chemical messenger, jo blood ke saath jaakar body ke doosre parts ko batata hai ki kya karna hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Growth spurt",
+     "hg": "Growth spurt"
+    },
+    "def": {
+     "en": "A period of unusually fast growth in height and weight during puberty. Girls usually have it earlier than boys.",
+     "hg": "Puberty ke dauraan height aur weight ke bahut tezi se badhne ka phase. Ladkiyon mein yeh usually ladkon se pehle aata hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Breast bud",
+     "hg": "Breast bud"
+    },
+    "def": {
+     "en": "A small, firm, sometimes tender lump under the nipple that marks the start of breast development.",
+     "hg": "Nipple ke neeche ek chhoti, firm, kabhi-kabhi dukhne wali lump, jo breast development ke start ka sign hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Erection",
+     "hg": "Erection"
+    },
+    "def": {
+     "en": "The penis becoming firmer and larger for a short time because extra blood flows into it.",
+     "hg": "Penis mein extra blood bhar jaane se uska thodi der ke liye firm aur bada ho jana."
+    }
+   },
+   {
+    "term": {
+     "en": "Wet dream",
+     "hg": "Wet dream"
+    },
+    "def": {
+     "en": "The release of semen from the penis during sleep. It is automatic and a normal part of puberty.",
+     "hg": "Neend mein penis se semen ka nikalna. Yeh automatic hota hai aur puberty ka normal part hai."
+    }
+   }
+  ]
+ },
+ {
+  "id": "d02-g2",
+  "domain": "d02",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "Timing and Hormones",
+   "hg": "Timing aur Hormones ke Terms"
+  },
+  "terms": [
+   {
+    "term": {
+     "en": "Pituitary gland",
+     "hg": "Pituitary gland"
+    },
+    "def": {
+     "en": "A pea-sized gland at the base of the brain that releases the hormones which start and control puberty.",
+     "hg": "Brain ke base par matar ke daane jitni gland, jo puberty ko start aur control karne wale hormones release karti hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Testosterone",
+     "hg": "Testosterone"
+    },
+    "def": {
+     "en": "A hormone made mainly in the testes that drives genital growth, muscle, facial hair and a deeper voice. All bodies make some.",
+     "hg": "Mainly testes mein banne wala hormone, jisse genitals grow karte hain, muscles banti hain, facial hair aate hain aur voice deep hoti hai. Har body ise kuch amount mein banati hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Oestrogen",
+     "hg": "Oestrogen"
+    },
+    "def": {
+     "en": "A hormone made mainly in the ovaries that drives breast development and the menstrual cycle. All bodies make some.",
+     "hg": "Mainly ovaries mein banne wala hormone, jo breast development aur menstrual cycle ko drive karta hai. Har body ise kuch amount mein banati hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Precocious puberty",
+     "hg": "Precocious puberty"
+    },
+    "def": {
+     "en": "Puberty that begins unusually early: before age 8 in girls or before age 9 in boys. It should be assessed by a doctor.",
+     "hg": "Aisi puberty jo bahut early start ho jaye: ladkiyon mein 8 saal se pehle ya ladkon mein 9 saal se pehle. Ise doctor se assess karwana chahiye."
+    }
+   },
+   {
+    "term": {
+     "en": "Delayed puberty",
+     "hg": "Delayed puberty"
+    },
+    "def": {
+     "en": "No signs of puberty by 13 in girls or 14 in boys, or no first period by 15. Often it is a harmless family pattern.",
+     "hg": "Ladkiyon mein 13 aur ladkon mein 14 saal tak puberty ka koi sign na dikhna, ya 15 saal tak pehla period na aana. Aksar yeh ek harmless family pattern hota hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Bone age",
+     "hg": "Bone age"
+    },
+    "def": {
+     "en": "An estimate of how mature the skeleton is, read from an X-ray of the hand and wrist, used to judge remaining growth.",
+     "hg": "Skeleton kitna mature hai, iska estimate, jo haath aur wrist ke X-ray se lagaya jata hai aur batata hai ki kitni growth baaki hai."
+    }
+   }
+  ]
+ }
 ]

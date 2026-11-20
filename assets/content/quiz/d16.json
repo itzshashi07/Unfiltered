@@ -12,30 +12,25 @@
   "type": "mcq",
   "q": {
    "en": "Which number is the Child Helpline in India?",
-   "hi": "भारत में चाइल्ड हेल्पलाइन का नंबर कौन-सा है?",
    "hg": "India mein Child Helpline ka number kaun sa hai?"
   },
   "options": [
    {
     "en": "Dial 181",
-    "hi": "181 मिलाओ",
     "hg": "181 dial karo"
    },
    {
     "en": "Dial 1098",
-    "hi": "1098 मिलाओ",
     "hg": "1098 dial karo"
    },
    {
     "en": "Dial 1930",
-    "hi": "1930 मिलाओ",
     "hg": "1930 dial karo"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "1098 is the free Child Helpline for anyone under 18. 181 is the Women Helpline and 1930 is for cybercrime.",
-   "hi": "1098 अठारह से कम उम्र के हर इंसान के लिए मुफ़्त चाइल्ड हेल्पलाइन है। 181 महिला हेल्पलाइन है और 1930 साइबर अपराध के लिए है।",
    "hg": "1098 under-18 ke har insaan ke liye free Child Helpline hai. 181 Women Helpline hai aur 1930 cybercrime ke liye hai."
   }
  },
@@ -53,30 +48,25 @@
   "type": "scenario",
   "q": {
    "en": "Ritika tells her teacher that a neighbour touched her private parts. The teacher says she has to inform the police. Why?",
-   "hi": "रितिका अपनी टीचर को बताती है कि एक पड़ोसी ने उसके निजी अंग छुए। टीचर कहती हैं कि उन्हें पुलिस को बताना होगा। क्यों?",
    "hg": "Ritika apni teacher ko batati hai ki ek padosi ne uske private parts touch kiye. Teacher bolti hain ki unhe police ko batana hoga. Kyun?"
   },
   "options": [
    {
     "en": "Because the teacher does not believe Ritika",
-    "hi": "क्योंकि टीचर को रितिका पर यक़ीन नहीं है",
     "hg": "Kyunki teacher ko Ritika par yakeen nahi hai"
    },
    {
     "en": "Because Ritika is in trouble for telling",
-    "hi": "क्योंकि बताने की वजह से रितिका मुसीबत में है",
     "hg": "Kyunki batane ki wajah se Ritika trouble mein hai"
    },
    {
     "en": "Because the law requires adults to report it so that the child can be protected",
-    "hi": "क्योंकि क़ानून के तहत बड़ों को इसकी सूचना देनी होती है ताकि बच्चे की हिफ़ाज़त हो सके",
     "hg": "Kyunki law ke under adults ko isse report karna hota hai taaki bachche ki protection ho sake"
    }
   ],
   "answer": 2,
   "explain": {
    "en": "This is mandatory reporting under POCSO. It exists to protect the child, and the child is never punished for telling.",
-   "hi": "यह पॉक्सो के तहत अनिवार्य रिपोर्टिंग है। यह बच्चे की हिफ़ाज़त के लिए है, और बताने पर बच्चे को कभी सज़ा नहीं मिलती।",
    "hg": "Yeh POCSO ke under mandatory reporting hai. Yeh bachche ki protection ke liye hai, aur batane par bachche ko kabhi saza nahi milti."
   }
  },
@@ -93,35 +83,29 @@
   "type": "mcq",
   "q": {
    "en": "When the person accused of a POCSO offence is also under 18, how is the case handled?",
-   "hi": "जब पॉक्सो के अपराध का आरोपी भी 18 से कम उम्र का हो, तो मामला कैसे चलता है?",
    "hg": "Jab POCSO offence ka accused bhi 18 se kam umar ka ho, toh case kaise handle hota hai?"
   },
   "options": [
    {
     "en": "Through the juvenile justice system",
-    "hi": "किशोर न्याय व्यवस्था के तहत",
     "hg": "Juvenile justice system ke through"
    },
    {
     "en": "It is dropped automatically",
-    "hi": "वह अपने आप ख़त्म हो जाता है",
     "hg": "Woh automatically drop ho jaata hai"
    },
    {
     "en": "Only by the school, without the police",
-    "hi": "सिर्फ़ स्कूल के स्तर पर, पुलिस के बिना",
     "hg": "Sirf school ke level par, police ke bina"
    },
    {
     "en": "It becomes a matter for the two families to settle",
-    "hi": "वह दोनों परिवारों के आपसी समझौते का मामला बन जाता है",
     "hg": "Woh dono families ke aapas mein settle karne ka matter ban jaata hai"
    }
   ],
   "answer": 0,
   "explain": {
    "en": "There is no close-in-age exception in POCSO. A child accused of an offence is dealt with under juvenile justice law, not dropped or settled privately.",
-   "hi": "पॉक्सो में उम्र में क़रीब होने की कोई छूट नहीं है। जिस बच्चे पर अपराध का आरोप हो, उसका मामला किशोर न्याय क़ानून के तहत चलता है, वह न अपने आप ख़त्म होता है, न आपस में निपटाया जाता है।",
    "hg": "POCSO mein close-in-age ka koi exception nahi hai. Jis child par offence ka aarop ho, uska case juvenile justice law ke under chalta hai, woh na automatically drop hota hai, na privately settle hota hai."
   }
  },
@@ -138,35 +122,29 @@
   "type": "mcq",
   "q": {
    "en": "Which law did the Bharatiya Nyaya Sanhita replace, and from when?",
-   "hi": "भारतीय न्याय संहिता ने किस क़ानून की जगह ली, और कब से?",
    "hg": "Bharatiya Nyaya Sanhita ne kis law ki jagah li, aur kab se?"
   },
   "options": [
    {
     "en": "The Information Technology Act, from 2021",
-    "hi": "सूचना प्रौद्योगिकी अधिनियम, 2021 से",
     "hg": "Information Technology Act, 2021 se"
    },
    {
     "en": "The POCSO Act, from 2012",
-    "hi": "पॉक्सो अधिनियम, 2012 से",
     "hg": "POCSO Act, 2012 se"
    },
    {
     "en": "The Medical Termination of Pregnancy Act, from 2021",
-    "hi": "गर्भ का चिकित्सकीय समापन अधिनियम, 2021 से",
     "hg": "Medical Termination of Pregnancy Act, 2021 se"
    },
    {
     "en": "The Indian Penal Code, from 1 July 2024",
-    "hi": "भारतीय दंड संहिता (IPC), 1 जुलाई 2024 से",
     "hg": "Indian Penal Code (IPC), 1 July 2024 se"
    }
   ],
   "answer": 3,
   "explain": {
    "en": "The BNS, 2023 replaced the Indian Penal Code and has applied since 1 July 2024. POCSO, the IT Act and the MTP Act remain separate laws.",
-   "hi": "भारतीय न्याय संहिता, 2023 ने भारतीय दंड संहिता की जगह ली और 1 जुलाई 2024 से लागू है। पॉक्सो, IT Act और MTP Act अलग क़ानून बने हुए हैं।",
    "hg": "BNS, 2023 ne Indian Penal Code ki jagah li aur 1 July 2024 se laagu hai. POCSO, IT Act aur MTP Act alag laws bane hue hain."
   }
  },
@@ -185,30 +163,25 @@
   "type": "mcq",
   "q": {
    "en": "Beyond 24 weeks of pregnancy, when does the MTP Act permit a termination?",
-   "hi": "गर्भ के 24 हफ़्ते के बाद MTP Act किस स्थिति में समापन की इजाज़त देता है?",
    "hg": "Pregnancy ke 24 weeks ke baad MTP Act kis situation mein termination ki permission deta hai?"
   },
   "options": [
    {
     "en": "On request, at any approved facility",
-    "hi": "माँगने पर, किसी भी मान्यता प्राप्त केंद्र में",
     "hg": "Request par, kisi bhi approved facility mein"
    },
    {
     "en": "For substantial foetal abnormalities, as decided by a Medical Board",
-    "hi": "भ्रूण में गंभीर असामान्यता होने पर, मेडिकल बोर्ड के फ़ैसले से",
     "hg": "Substantial foetal abnormalities hone par, Medical Board ke decision se"
    },
    {
     "en": "Only if the woman is married",
-    "hi": "सिर्फ़ तब, जब महिला विवाहित हो",
     "hg": "Sirf tab, jab woman married ho"
    }
   ],
   "answer": 1,
   "explain": {
    "en": "After 24 weeks the Act allows termination for substantial foetal abnormalities, decided through a Medical Board. Separately, a doctor may act at any stage if it is immediately necessary to save the woman's life.",
-   "hi": "24 हफ़्ते के बाद क़ानून भ्रूण में गंभीर असामान्यता होने पर समापन की इजाज़त देता है, और फ़ैसला मेडिकल बोर्ड के ज़रिए होता है। इससे अलग, अगर महिला की जान बचाने के लिए तुरंत ज़रूरी हो तो डॉक्टर किसी भी समय यह कर सकता है।",
    "hg": "24 weeks ke baad Act substantial foetal abnormalities hone par termination allow karta hai, aur decision Medical Board ke through hota hai. Isse alag, agar woman ki jaan bachane ke liye turant zaroori ho toh doctor kisi bhi stage par yeh kar sakta hai."
   }
  },
@@ -227,25 +200,21 @@
   "type": "tf",
   "q": {
    "en": "In India, women and children are entitled to free legal aid through the Legal Services Authorities.",
-   "hi": "भारत में महिलाओं और बच्चों को विधिक सेवा प्राधिकरणों के ज़रिए मुफ़्त क़ानूनी सहायता का हक़ है।",
    "hg": "India mein women aur children ko Legal Services Authorities ke through free legal aid ka haq hai."
   },
   "options": [
    {
     "en": "True",
-    "hi": "सही",
     "hg": "Sahi"
    },
    {
     "en": "False",
-    "hi": "ग़लत",
     "hg": "Galat"
    }
   ],
   "answer": 0,
   "explain": {
    "en": "The Legal Services Authorities Act, 1987 lists women and children among those entitled to free legal services, usually through the district authority.",
-   "hi": "विधिक सेवा प्राधिकरण अधिनियम, 1987 में महिलाएँ और बच्चे उन लोगों में गिने गए हैं जिन्हें मुफ़्त क़ानूनी सेवा का हक़ है, जो आम तौर पर ज़िला प्राधिकरण के ज़रिए मिलती है।",
    "hg": "Legal Services Authorities Act, 1987 mein women aur children un logon mein listed hain jinhe free legal services ka haq hai, jo usually district authority ke through milti hai."
   }
  }

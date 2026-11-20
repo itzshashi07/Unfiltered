@@ -17,33 +17,27 @@
   ],
   "title": {
    "en": "Ask First, Then Click",
-   "hi": "पहले पूछो, फिर क्लिक करो",
    "hg": "Pehle Poochho, Phir Click Karo"
   },
   "subtitle": {
    "en": "Staying safe on phones, tablets and games",
-   "hi": "फ़ोन, टैबलेट और गेम में सुरक्षित रहना",
    "hg": "Phone, tablet aur games mein safe rehna"
   },
   "hook": {
    "en": "The internet is like a huge mela. Lots of fun, and lots of people you do not know.",
-   "hi": "इंटरनेट एक बहुत बड़े मेले जैसा है। खूब मज़ा, और खूब सारे अनजान लोग।",
    "hg": "Internet ek bahut bade mele jaisa hai. Khoob maza, aur khoob saare anjaan log."
   },
   "objectives": [
    {
     "en": "Name four things you never share online with people you do not know.",
-    "hi": "वे चार चीज़ें बता पाना जो ऑनलाइन अनजान लोगों को कभी नहीं बतानी हैं।",
     "hg": "Woh chaar cheezein bata paana jo online anjaan logon ko kabhi nahi batani."
    },
    {
     "en": "Remember to ask a grown-up before you click, download or chat.",
-    "hi": "याद रखना कि क्लिक, डाउनलोड या चैट करने से पहले किसी बड़े से पूछना है।",
     "hg": "Yaad rakhna ki click, download ya chat karne se pehle kisi bade se poochhna hai."
    },
    {
     "en": "Know what to do if something online feels yucky or scary.",
-    "hi": "जानना कि ऑनलाइन कुछ गंदा या डरावना लगे तो क्या करना है।",
     "hg": "Jaanna ki online kuch yucky ya darawna lage toh kya karna hai."
    }
   ],
@@ -52,48 +46,40 @@
    {
     "h": {
      "en": "The internet is a big mela",
-     "hi": "इंटरनेट एक बड़ा मेला है",
      "hg": "Internet ek bada mela hai"
     },
     "body": {
      "en": "The internet has games, cartoons and video calls with Nani. It is like a big mela. A mela is fun, but it is full of people you do not know. At a mela you stay close to your grown-up. Online, you do the same.",
-     "hi": "इंटरनेट पर गेम हैं, कार्टून हैं और नानी से वीडियो कॉल भी होती है। यह एक बड़े मेले जैसा है। मेला मज़ेदार होता है, पर वहाँ बहुत सारे अनजान लोग भी होते हैं। मेले में तुम अपने बड़ों के पास रहते हो। ऑनलाइन भी ऐसा ही करना है।",
      "hg": "Internet pe games hain, cartoons hain aur Nani se video call bhi hoti hai. Yeh ek bade mele jaisa hai. Mela mazedaar hota hai, par wahan bahut saare anjaan log bhi hote hain. Mele mein tum apne bade ke paas rehte ho. Online bhi bilkul aisa hi karna hai."
     }
    },
    {
     "h": {
      "en": "Four things that stay with your family",
-     "hi": "चार चीज़ें जो सिर्फ़ परिवार के पास रहती हैं",
      "hg": "Chaar cheezein jo sirf family ke paas rehti hain"
     },
     "body": {
      "en": "Some things are only for your family. Your full name. Your school's name. Your home address. Your photos. Never give these to someone you only know from a game or a chat. If anyone online asks for them, do not answer. Go and tell your grown-up.",
-     "hi": "कुछ चीज़ें सिर्फ़ तुम्हारे परिवार के लिए हैं। तुम्हारा पूरा नाम। तुम्हारे स्कूल का नाम। तुम्हारे घर का पता। तुम्हारी फ़ोटो। जिसे तुम सिर्फ़ गेम या चैट से जानते हो, उसे ये कभी मत देना। अगर ऑनलाइन कोई ये माँगे, तो जवाब मत दो। जाकर अपने बड़ों को बताओ।",
      "hg": "Kuch cheezein sirf tumhari family ke liye hain. Tumhara poora naam. Tumhare school ka naam. Tumhare ghar ka address. Tumhari photos. Jisse tum sirf game ya chat se jaante ho, usse yeh kabhi mat dena. Agar online koi yeh maange, toh jawab mat do. Jaakar apne bade ko batao."
     }
    },
    {
     "h": {
      "en": "Ask before you click",
-     "hi": "क्लिक करने से पहले पूछो",
      "hg": "Click karne se pehle poochho"
     },
     "body": {
      "en": "Before you click a new link, download a game or talk to someone new, ask a grown-up. Bright buttons that say 'You won!' or 'Free coins!' are often tricks. Asking first is not babyish. It is what smart kids do.",
-     "hi": "किसी नए लिंक पर क्लिक करने, गेम डाउनलोड करने या किसी नए इंसान से बात करने से पहले किसी बड़े से पूछो। 'आप जीत गए!' या 'फ़्री कॉइन!' वाले चमकीले बटन अक्सर चाल होते हैं। पहले पूछना बच्चों वाली बात नहीं है। समझदार बच्चे यही करते हैं।",
      "hg": "Kisi naye link pe click karne, game download karne ya kisi naye insaan se baat karne se pehle kisi bade se poochho. 'You won!' ya 'Free coins!' wale chamkeele button aksar trick hote hain. Pehle poochhna bachchon wali baat nahi hai. Smart bachche yahi karte hain."
     }
    },
    {
     "h": {
      "en": "If it feels yucky or scary",
-     "hi": "अगर कुछ गंदा या डरावना लगे",
      "hg": "Agar kuch yucky ya darawna lage"
     },
     "body": {
      "en": "Sometimes a picture, video or message can make your tummy feel funny or scared. That is your body's alarm. Stop. Put the phone down. Tell a grown-up you trust, like Mummy, Papa, Dadi or your teacher. You will not be in trouble. Telling is the right thing to do.",
-     "hi": "कभी-कभी कोई फ़ोटो, वीडियो या मैसेज देखकर पेट में अजीब सा लगता है या डर लगता है। यह तुम्हारे शरीर का अलार्म है। रुक जाओ। फ़ोन नीचे रख दो। किसी भरोसेमंद बड़े को बताओ, जैसे मम्मी, पापा, दादी या टीचर। तुम्हें डाँट नहीं पड़ेगी। बताना ही सही काम है।",
      "hg": "Kabhi-kabhi koi photo, video ya message dekhkar pet mein ajeeb sa lagta hai ya darr lagta hai. Yeh tumhari body ka alarm hai. Ruk jao. Phone neeche rakh do. Kisi bharosemand bade ko batao, jaise Mummy, Papa, Dadi ya teacher. Tumhe daant nahi padegi. Batana hi sahi kaam hai."
     }
    }
@@ -101,35 +87,29 @@
   "myth": {
    "claim": {
     "en": "If something scary pops up on the screen, it is my fault.",
-    "hi": "अगर स्क्रीन पर कुछ डरावना आ जाए, तो ग़लती मेरी है।",
     "hg": "Agar screen pe kuch darawna aa jaye, toh galti meri hai."
    },
    "fact": {
     "en": "It is not your fault. Scary things can pop up for anyone. Telling a grown-up is brave and right.",
-    "hi": "यह तुम्हारी ग़लती नहीं है। डरावनी चीज़ें किसी की भी स्क्रीन पर आ सकती हैं। किसी बड़े को बताना बहादुरी है और सही भी।",
     "hg": "Yeh tumhari galti nahi hai. Darawni cheezein kisi ki bhi screen pe aa sakti hain. Kisi bade ko batana bahaduri hai aur sahi bhi."
    }
   },
   "takeaways": [
    {
     "en": "My name, school, address and photos stay with my family.",
-    "hi": "मेरा नाम, स्कूल, पता और फ़ोटो मेरे परिवार के पास ही रहते हैं।",
     "hg": "Mera naam, school, address aur photos meri family ke paas hi rehte hain."
    },
    {
     "en": "I ask a grown-up before I click, download or chat.",
-    "hi": "मैं क्लिक, डाउनलोड या चैट करने से पहले किसी बड़े से पूछता/पूछती हूँ।",
     "hg": "Main click, download ya chat karne se pehle kisi bade se poochhta/poochhti hoon."
    },
    {
     "en": "If something feels yucky or scary, I stop and tell a trusted grown-up.",
-    "hi": "अगर कुछ गंदा या डरावना लगे, तो मैं रुककर किसी भरोसेमंद बड़े को बताता/बताती हूँ।",
     "hg": "Agar kuch yucky ya darawna lage, toh main rukkar kisi bharosemand bade ko batata/batati hoon."
    }
   ],
   "activity": {
    "en": "With a grown-up, trace your hand on paper and write the name of one trusted adult on each finger. These are your five people to tell.",
-   "hi": "किसी बड़े के साथ काग़ज़ पर अपने हाथ की छाप बनाओ और हर उँगली पर एक भरोसेमंद बड़े का नाम लिखो। ये तुम्हारे पाँच लोग हैं जिन्हें तुम बता सकते हो।",
    "hg": "Kisi bade ke saath paper pe apne haath ki outline banao aur har ungli pe ek bharosemand bade ka naam likho. Yeh tumhare paanch log hain jinhe tum bata sakte ho."
   },
   "interactive": "digital_safety",
@@ -139,30 +119,25 @@
     "type": "mcq",
     "q": {
      "en": "A pop-up says 'You won a prize! Click here.' What do you do?",
-     "hi": "एक पॉप-अप कहता है 'आपने इनाम जीता! यहाँ क्लिक करें।' तुम क्या करोगे?",
      "hg": "Ek pop-up bolta hai 'You won a prize! Click here.' Tum kya karoge?"
     },
     "options": [
      {
       "en": "Click it quickly before it goes away",
-      "hi": "गायब होने से पहले जल्दी क्लिक कर दूँगा/दूँगी",
       "hg": "Gayab hone se pehle jaldi click kar doonga/doongi"
      },
      {
       "en": "Ask a grown-up first",
-      "hi": "पहले किसी बड़े से पूछूँगा/पूछूँगी",
       "hg": "Pehle kisi bade se poochhunga/poochhungi"
      },
      {
       "en": "Type my name to get the prize",
-      "hi": "इनाम पाने के लिए अपना नाम लिख दूँगा/दूँगी",
       "hg": "Prize paane ke liye apna naam likh doonga/doongi"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "Prize pop-ups are often tricks. Asking a grown-up first keeps you safe.",
-     "hi": "इनाम वाले पॉप-अप अक्सर चाल होते हैं। पहले किसी बड़े से पूछना तुम्हें सुरक्षित रखता है।",
      "hg": "Prize wale pop-up aksar trick hote hain. Pehle kisi bade se poochhna tumhe safe rakhta hai."
     }
    },
@@ -171,25 +146,21 @@
     "type": "tf",
     "q": {
      "en": "It is okay to tell someone in a game the name of your school.",
-     "hi": "गेम में किसी को अपने स्कूल का नाम बताना ठीक है।",
      "hg": "Game mein kisi ko apne school ka naam batana theek hai."
     },
     "options": [
      {
       "en": "True",
-      "hi": "सही",
       "hg": "Sahi"
      },
      {
       "en": "False",
-      "hi": "ग़लत",
       "hg": "Galat"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "Your school's name stays with your family. You cannot know who is really playing the game.",
-     "hi": "स्कूल का नाम परिवार के पास ही रहता है। तुम नहीं जान सकते कि गेम में असल में कौन खेल रहा है।",
      "hg": "School ka naam family ke paas hi rehta hai. Tum nahi jaan sakte ki game mein asal mein kaun khel raha hai."
     }
    }
@@ -221,33 +192,27 @@
   ],
   "title": {
    "en": "Private Info and Online Friends: Spot the Trick",
-   "hi": "निजी जानकारी और ऑनलाइन दोस्त: चाल पहचानो",
    "hg": "Private Info aur Online Dost: Chaal Pehchaano"
   },
   "subtitle": {
    "en": "What to keep private, and how grooming works",
-   "hi": "क्या निजी रखना है, और ग्रूमिंग कैसे होती है",
    "hg": "Kya private rakhna hai, aur grooming kaise hoti hai"
   },
   "hook": {
    "en": "Not everyone online is who their profile says they are. Some people are very patient about earning your trust, and you can learn to spot them.",
-   "hi": "ऑनलाइन हर कोई वही नहीं होता जो उसकी प्रोफ़ाइल बताती है। कुछ लोग बड़े सब्र से तुम्हारा भरोसा जीतते हैं, और तुम उन्हें पहचानना सीख सकते हो।",
    "hg": "Online har koi wahi nahi hota jo uski profile bolti hai. Kuch log bade patience se tumhara trust jeette hain, aur tum unhe pehchaanna seekh sakte ho."
   },
   "objectives": [
    {
     "en": "List the kinds of information that should stay private online.",
-    "hi": "बता पाना कि ऑनलाइन कौन-कौन सी जानकारी निजी रहनी चाहिए।",
     "hg": "Bata paana ki online kaun-kaun si information private rehni chahiye."
    },
    {
     "en": "Recognise the steps a groomer uses to build trust and secrecy.",
-    "hi": "पहचानना कि ग्रूमिंग करने वाला भरोसा और राज़ बनाने के लिए कौन से क़दम उठाता है।",
     "hg": "Pehchaanna ki grooming karne wala trust aur secret banane ke liye kaun se steps leta hai."
    },
    {
     "en": "Know exactly what to do if a chat starts to feel wrong.",
-    "hi": "जानना कि अगर कोई चैट ग़लत लगने लगे तो ठीक-ठीक क्या करना है।",
     "hg": "Jaanna ki agar koi chat galat lagne lage toh exactly kya karna hai."
    }
   ],
@@ -256,48 +221,40 @@
    {
     "h": {
      "en": "What counts as private information",
-     "hi": "निजी जानकारी में क्या-क्या आता है",
      "hg": "Private information mein kya-kya aata hai"
     },
     "body": {
      "en": "Private information is anything that helps a stranger find you, pretend to be you, or get into your accounts. That means your full name, school, class and section, home address, phone number, passwords, OTPs and live location. Photos count too: a picture in school uniform or outside your building shows where you spend your day. One small detail looks harmless, but details add up like puzzle pieces. A good rule: if you would not write it on a poster at the bus stop, do not post it or tell it to someone you only know online.",
-     "hi": "निजी जानकारी वह हर चीज़ है जिससे कोई अनजान इंसान तुम्हें ढूँढ़ सके, तुम्हारे नाम से कुछ कर सके या तुम्हारे अकाउंट में घुस सके। यानी तुम्हारा पूरा नाम, स्कूल, क्लास और सेक्शन, घर का पता, फ़ोन नंबर, पासवर्ड, OTP और लाइव लोकेशन। फ़ोटो भी इसमें आती हैं: स्कूल यूनिफ़ॉर्म में या अपनी बिल्डिंग के बाहर की तस्वीर बता देती है कि तुम दिन कहाँ बिताते हो। एक छोटी सी बात मामूली लगती है, पर ऐसी बातें पहेली के टुकड़ों की तरह जुड़ती जाती हैं। एक अच्छा नियम: जो बात तुम बस स्टॉप के पोस्टर पर नहीं लिखोगे, उसे पोस्ट भी मत करो और किसी ऑनलाइन जान-पहचान वाले को बताओ भी मत।",
      "hg": "Private information woh har cheez hai jisse koi stranger tumhe dhoondh sake, tumhare naam se kuch kar sake ya tumhare account mein ghus sake. Matlab tumhara poora naam, school, class aur section, ghar ka address, phone number, passwords, OTP aur live location. Photos bhi isme aati hain: school uniform mein ya apni building ke bahar ki photo bata deti hai ki tum din kahan bitaate ho. Ek chhoti si detail harmless lagti hai, par details puzzle ke pieces ki tarah judti jaati hain. Ek simple rule: jo baat tum bus stop ke poster pe nahi likhoge, woh post bhi mat karo aur kisi online jaan-pehchaan wale ko batao bhi mat."
     }
    },
    {
     "h": {
      "en": "How grooming works",
-     "hi": "ग्रूमिंग कैसे होती है",
      "hg": "Grooming kaise hoti hai"
     },
     "body": {
      "en": "Grooming is when an older person, or someone pretending to be your age, slowly builds a friendship with a child in order to harm them. It usually follows a pattern. First they are extra nice and agree with everything you say. Then come gifts, such as game coins, skins or a mobile recharge. Then they ask to move to a private chat or another app. Then come secrets: 'Do not tell your parents, they will not understand.' Finally they ask for something that feels wrong, like private photos, a video call alone, or meeting in person.",
-     "hi": "ग्रूमिंग तब होती है जब कोई बड़ा इंसान, या कोई जो तुम्हारी उम्र का होने का नाटक कर रहा हो, किसी बच्चे को नुकसान पहुँचाने के इरादे से धीरे-धीरे उससे दोस्ती बनाता है। यह अक्सर एक ही ढर्रे पर चलती है। पहले वे बहुत ज़्यादा अच्छे बनते हैं और तुम्हारी हर बात में हाँ मिलाते हैं। फिर तोहफ़े आते हैं, जैसे गेम के कॉइन, स्किन या मोबाइल रिचार्ज। फिर वे प्राइवेट चैट या किसी दूसरे ऐप पर चलने को कहते हैं। फिर राज़ शुरू होते हैं: 'मम्मी-पापा को मत बताना, वे नहीं समझेंगे।' आख़िर में वे कुछ ऐसा माँगते हैं जो ग़लत लगता है, जैसे निजी फ़ोटो, अकेले में वीडियो कॉल या आमने-सामने मिलना।",
      "hg": "Grooming tab hoti hai jab koi bada insaan, ya koi jo tumhari age ka hone ka natak kar raha ho, kisi bachche ko nuksaan pahunchane ke iraade se dheere-dheere usse dosti banata hai. Iska ek pattern hota hai. Pehle woh extra nice bante hain aur tumhari har baat pe haan bolte hain. Phir gifts aate hain, jaise game coins, skins ya mobile recharge. Phir woh private chat ya kisi doosre app pe chalne ko bolte hain. Phir secrets shuru hote hain: 'Mummy-Papa ko mat batana, woh nahi samjhenge.' Aakhir mein woh kuch aisa maangte hain jo galat lagta hai, jaise private photos, akele mein video call ya saamne milna."
     }
    },
    {
     "h": {
      "en": "The warning signs",
-     "hi": "ख़तरे के संकेत",
      "hg": "Warning signs"
     },
     "body": {
      "en": "Watch for these signs. They ask you to keep the friendship secret. They ask a lot about where you live, your school timings or when you are home alone. They get angry or sad to make you feel guilty when you say no. They say bad things about your parents or friends so that you trust only them. They send or ask for pictures that make you uncomfortable. Any one of these is enough to stop. A safe person never needs you to hide a friendship from your family.",
-     "hi": "इन संकेतों पर ध्यान दो। वे दोस्ती को राज़ रखने को कहते हैं। वे बार-बार पूछते हैं कि तुम कहाँ रहते हो, स्कूल का समय क्या है या घर पर अकेले कब होते हो। तुम मना करो तो वे ग़ुस्सा या उदासी दिखाते हैं ताकि तुम्हें बुरा लगे। वे तुम्हारे माता-पिता या दोस्तों की बुराई करते हैं ताकि तुम सिर्फ़ उन्हीं पर भरोसा करो। वे ऐसी तस्वीरें भेजते या माँगते हैं जिनसे तुम्हें अजीब लगता है। इनमें से कोई एक संकेत भी रुकने के लिए काफ़ी है। जो इंसान सुरक्षित है, उसे कभी ज़रूरत नहीं पड़ती कि तुम दोस्ती अपने परिवार से छिपाओ।",
      "hg": "In signs pe dhyaan do. Woh dosti ko secret rakhne ko bolte hain. Woh baar-baar poochhte hain ki tum kahan rehte ho, school ki timing kya hai ya ghar pe akele kab hote ho. Tum mana karo toh woh gussa ya sad ho jaate hain taaki tumhe guilty feel ho. Woh tumhare parents ya doston ki burai karte hain taaki tum sirf unhi pe trust karo. Woh aisi pictures bhejte ya maangte hain jinse tumhe uncomfortable lagta hai. Inme se koi ek sign bhi rukne ke liye kaafi hai. Jo insaan safe hai, usse kabhi zaroorat nahi padti ki tum dosti apni family se chhupao."
     }
    },
    {
     "h": {
      "en": "What to do, step by step",
-     "hi": "क्या करना है, एक-एक क़दम",
      "hg": "Kya karna hai, step by step"
     },
     "body": {
      "en": "Stop replying. You do not owe them an explanation or a goodbye. Do not delete the chat, because a trusted adult may need to see what was said. Tell a grown-up you trust the same day, even if you already shared something or accepted a gift. Being tricked is never the child's fault; the person who tricked you is the one who did wrong. Together you can block and report the account inside the app. You can also call the free Child Helpline 1098, where someone will listen and guide you.",
-     "hi": "जवाब देना बंद करो। तुम्हें उन्हें कोई सफ़ाई या अलविदा नहीं देनी है। चैट डिलीट मत करो, क्योंकि किसी भरोसेमंद बड़े को देखना पड़ सकता है कि क्या-क्या कहा गया था। उसी दिन किसी भरोसेमंद बड़े को बताओ, चाहे तुमने पहले ही कुछ बता दिया हो या कोई तोहफ़ा ले लिया हो। धोखा खाना कभी बच्चे की ग़लती नहीं होती; ग़लत वह है जिसने धोखा दिया। फिर साथ मिलकर ऐप के अंदर उस अकाउंट को ब्लॉक और रिपोर्ट करो। तुम मुफ़्त चाइल्ड हेल्पलाइन 1098 पर भी कॉल कर सकते हो, जहाँ कोई तुम्हारी बात सुनेगा और रास्ता बताएगा।",
      "hg": "Reply karna band karo. Tumhe unhe koi explanation ya goodbye nahi dena hai. Chat delete mat karo, kyunki kisi trusted adult ko dekhna pad sakta hai ki kya-kya bola gaya tha. Usi din kisi bharosemand bade ko batao, chahe tumne pehle hi kuch share kar diya ho ya koi gift le liya ho. Dhokha khana kabhi bachche ki galti nahi hoti; galat woh hai jisne dhokha diya. Phir saath milkar app ke andar us account ko block aur report karo. Tum free Child Helpline 1098 pe bhi call kar sakte ho, jahan koi tumhari baat sunega aur guide karega."
     }
    }
@@ -305,35 +262,29 @@
   "myth": {
    "claim": {
     "en": "I accepted their gifts and kept the secret, so now it is my fault and I cannot tell anyone.",
-    "hi": "मैंने उनके तोहफ़े लिए और राज़ भी रखा, तो अब ग़लती मेरी है और मैं किसी को नहीं बता सकता/सकती।",
     "hg": "Maine unke gifts liye aur secret bhi rakha, toh ab galti meri hai aur main kisi ko nahi bata sakta/sakti."
    },
    "fact": {
     "en": "It is not your fault. Groomers plan gifts and secrets on purpose so that children feel stuck. You can tell a trusted adult at any point, and telling is always the right move.",
-    "hi": "यह तुम्हारी ग़लती नहीं है। ग्रूमिंग करने वाले जान-बूझकर तोहफ़े और राज़ की चाल चलते हैं ताकि बच्चा फँसा हुआ महसूस करे। तुम किसी भी मोड़ पर किसी भरोसेमंद बड़े को बता सकते हो, और बताना हमेशा सही क़दम है।",
     "hg": "Yeh tumhari galti nahi hai. Grooming karne wale jaan-boojhkar gifts aur secrets ka plan banate hain taaki bachcha stuck feel kare. Tum kisi bhi point pe kisi trusted adult ko bata sakte ho, aur batana hamesha sahi move hai."
    }
   },
   "takeaways": [
    {
     "en": "Small details like school, timings and photos add up, so keep them private.",
-    "hi": "स्कूल, समय और फ़ोटो जैसी छोटी बातें जुड़कर बड़ी जानकारी बन जाती हैं, इसलिए इन्हें निजी रखो।",
     "hg": "School, timing aur photos jaisi chhoti details judkar badi info ban jaati hain, isliye inhe private rakho."
    },
    {
     "en": "Gifts plus secrecy plus a private chat is the classic grooming pattern.",
-    "hi": "तोहफ़े, राज़ और प्राइवेट चैट, ये तीनों मिलकर ग्रूमिंग का जाना-पहचाना तरीका बनाते हैं।",
     "hg": "Gifts plus secrecy plus private chat, yeh grooming ka classic pattern hai."
    },
    {
     "en": "Stop replying, keep the chat, and tell a trusted adult the same day.",
-    "hi": "जवाब देना बंद करो, चैट रहने दो और उसी दिन किसी भरोसेमंद बड़े को बताओ।",
     "hg": "Reply band karo, chat rehne do aur usi din kisi trusted adult ko batao."
    }
   ],
   "activity": {
    "en": "Open one app you use with a parent or older sibling and check three settings together: who can message you, who can see your profile, and whether location sharing is on. Change anything that is open to everyone.",
-   "hi": "मम्मी-पापा या बड़े भाई-बहन के साथ अपना कोई एक ऐप खोलो और तीन सेटिंग साथ में देखो: तुम्हें कौन मैसेज कर सकता है, तुम्हारी प्रोफ़ाइल कौन देख सकता है, और लोकेशन शेयरिंग चालू है या नहीं। जो कुछ सबके लिए खुला है, उसे बदल दो।",
    "hg": "Parent ya bade bhai-behen ke saath apna koi ek app kholo aur teen settings saath mein check karo: tumhe kaun message kar sakta hai, tumhari profile kaun dekh sakta hai, aur location sharing on hai ya nahi. Jo kuch sabke liye open hai, usse change kar do."
   },
   "interactive": "digital_safety",
@@ -343,35 +294,29 @@
     "type": "scenario",
     "q": {
      "en": "Someone you met in a game says: 'Let us chat on another app, and do not tell your mum.' What is this?",
-     "hi": "गेम में मिला कोई इंसान कहता है: 'चलो दूसरे ऐप पर बात करते हैं, और मम्मी को मत बताना।' यह क्या है?",
      "hg": "Game mein mila koi insaan bolta hai: 'Chalo doosre app pe baat karte hain, aur Mummy ko mat batana.' Yeh kya hai?"
     },
     "options": [
      {
       "en": "A sign that they are a caring friend",
-      "hi": "इस बात का संकेत कि वह परवाह करने वाला दोस्त है",
       "hg": "Is baat ka sign ki woh caring dost hai"
      },
      {
       "en": "A warning sign of grooming",
-      "hi": "ग्रूमिंग का ख़तरे वाला संकेत",
       "hg": "Grooming ka warning sign"
      },
      {
       "en": "A normal rule in online games",
-      "hi": "ऑनलाइन गेम का एक आम नियम",
       "hg": "Online games ka ek normal rule"
      },
      {
       "en": "A harmless joke you can ignore",
-      "hi": "एक मामूली मज़ाक जिसे अनदेखा किया जा सकता है",
       "hg": "Ek harmless joke jisse ignore kar sakte ho"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "Moving to a private app and asking for secrecy from parents are two classic grooming steps. Stop and tell a trusted adult.",
-     "hi": "प्राइवेट ऐप पर ले जाना और माता-पिता से छिपाने को कहना ग्रूमिंग के दो जाने-पहचाने क़दम हैं। रुको और किसी भरोसेमंद बड़े को बताओ।",
      "hg": "Private app pe le jaana aur parents se chhupane ko bolna grooming ke do classic steps hain. Ruko aur kisi trusted adult ko batao."
     }
    },
@@ -380,35 +325,29 @@
     "type": "mcq",
     "q": {
      "en": "Which of these is the safest to post publicly?",
-     "hi": "इनमें से क्या सबके सामने पोस्ट करना सबसे सुरक्षित है?",
      "hg": "Inme se kya publicly post karna sabse safe hai?"
     },
     "options": [
      {
       "en": "A photo in school uniform with the school name visible",
-      "hi": "स्कूल यूनिफ़ॉर्म वाली फ़ोटो जिसमें स्कूल का नाम दिख रहा हो",
       "hg": "School uniform wali photo jisme school ka naam dikh raha ho"
      },
      {
       "en": "Your phone number, so friends can find you",
-      "hi": "तुम्हारा फ़ोन नंबर, ताकि दोस्त तुम्हें ढूँढ़ सकें",
       "hg": "Tumhara phone number, taaki dost tumhe dhoondh sakein"
      },
      {
       "en": "A drawing you made, without your full name or address",
-      "hi": "तुम्हारी बनाई ड्रॉइंग, बिना पूरे नाम या पते के",
       "hg": "Tumhari banayi drawing, bina poore naam ya address ke"
      },
      {
       "en": "Your live location during a school trip",
-      "hi": "स्कूल ट्रिप के दौरान तुम्हारी लाइव लोकेशन",
       "hg": "School trip ke time tumhari live location"
      }
     ],
     "answer": 2,
     "explain": {
      "en": "A drawing without identifying details does not help a stranger find you. Uniforms, numbers and live location do.",
-     "hi": "बिना पहचान वाली ड्रॉइंग से कोई अनजान तुम्हें ढूँढ़ नहीं सकता। यूनिफ़ॉर्म, नंबर और लाइव लोकेशन से ढूँढ़ सकता है।",
      "hg": "Bina identifying details wali drawing se koi stranger tumhe dhoondh nahi sakta. Uniform, number aur live location se dhoondh sakta hai."
     }
    }
@@ -420,7 +359,6 @@
   ],
   "warning": {
    "en": "If someone online has asked you for private photos, asked to meet you alone, or scared you, tell a trusted adult today or call 1098. In an emergency call 112.",
-   "hi": "अगर ऑनलाइन किसी ने तुमसे निजी फ़ोटो माँगी है, अकेले मिलने को कहा है या तुम्हें डराया है, तो आज ही किसी भरोसेमंद बड़े को बताओ या 1098 पर कॉल करो। इमरजेंसी में 112 पर कॉल करो।",
    "hg": "Agar online kisi ne tumse private photos maangi hain, akele milne ko bola hai ya tumhe daraya hai, toh aaj hi kisi trusted adult ko batao ya 1098 pe call karo. Emergency mein 112 pe call karo."
   },
   "sensitive": true,
@@ -445,33 +383,27 @@
   ],
   "title": {
    "en": "Sexting, Pressure and the Screenshot Problem",
-   "hi": "सेक्सटिंग, दबाव और स्क्रीनशॉट की समस्या",
    "hg": "Sexting, Pressure aur Screenshot Wali Problem"
   },
   "subtitle": {
    "en": "Why a private photo never stays in your control",
-   "hi": "निजी फ़ोटो कभी तुम्हारे कंट्रोल में क्यों नहीं रहती",
    "hg": "Private photo kabhi tumhare control mein kyun nahi rehti"
   },
   "hook": {
    "en": "The moment you hit send, the photo stops being yours to control. That is the real problem, not your character.",
-   "hi": "सेंड दबाते ही फ़ोटो तुम्हारे कंट्रोल से निकल जाती है। असली समस्या यही है, तुम्हारा चरित्र नहीं।",
    "hg": "Send dabate hi photo tumhare control se nikal jaati hai. Asli problem yahi hai, tumhara character nahi."
   },
   "objectives": [
    {
     "en": "Explain why a sent image can never be fully taken back.",
-    "hi": "समझा पाना कि भेजी हुई तस्वीर पूरी तरह वापस क्यों नहीं ली जा सकती।",
     "hg": "Samjha paana ki bheji hui image poori tarah wapas kyun nahi li ja sakti."
    },
    {
     "en": "Know how Indian law treats sexual images of anyone under 18.",
-    "hi": "जानना कि भारतीय क़ानून 18 साल से कम उम्र के किसी भी इंसान की यौन तस्वीरों को कैसे देखता है।",
     "hg": "Jaanna ki Indian law 18 se kam age ke kisi bhi insaan ki sexual images ko kaise dekhta hai."
    },
    {
     "en": "Recognise pressure tactics and practise refusing them.",
-    "hi": "दबाव डालने के तरीके पहचानना और मना करने का अभ्यास करना।",
     "hg": "Pressure daalne ke tareeke pehchaanna aur mana karne ki practice karna."
    }
   ],
@@ -480,48 +412,40 @@
    {
     "h": {
      "en": "What sexting is, and where control ends",
-     "hi": "सेक्सटिंग क्या है, और कंट्रोल कहाँ ख़त्म होता है",
      "hg": "Sexting kya hai, aur control kahan khatam hota hai"
     },
     "body": {
      "en": "Sexting means sending sexual messages, photos or videos through a phone or app. Curiosity about it at your age is not strange. The risk is practical: once an image leaves your phone, you cannot control it. 'View once' and disappearing messages can be captured with a screenshot or a second phone. Chats get backed up to the cloud. Phones get borrowed, lost and hacked. Relationships end, sometimes badly. Trusting someone today cannot guarantee what happens to a file next year. That is why the safest private photo is the one that was never sent.",
-     "hi": "सेक्सटिंग का मतलब है फ़ोन या ऐप से यौन मैसेज, फ़ोटो या वीडियो भेजना। तुम्हारी उम्र में इसके बारे में जिज्ञासा होना अजीब नहीं है। ख़तरा सीधा-सादा है: तस्वीर एक बार फ़ोन से निकल गई तो तुम उसे कंट्रोल नहीं कर सकते। 'व्यू वन्स' और गायब होने वाले मैसेज का भी स्क्रीनशॉट लिया जा सकता है या दूसरे फ़ोन से फ़ोटो खींची जा सकती है। चैट का क्लाउड पर बैकअप बनता है। फ़ोन उधार दिए जाते हैं, खोते हैं और हैक होते हैं। रिश्ते टूटते हैं, कभी-कभी बुरी तरह। आज किसी पर भरोसा है, इससे यह तय नहीं होता कि अगले साल उस फ़ाइल का क्या होगा। इसीलिए सबसे सुरक्षित निजी फ़ोटो वही है जो कभी भेजी ही नहीं गई।",
      "hg": "Sexting ka matlab hai phone ya app se sexual messages, photos ya videos bhejna. Tumhari age mein iske baare mein curiosity hona ajeeb nahi hai. Risk practical hai: image ek baar phone se nikal gayi toh tum usse control nahi kar sakte. 'View once' aur disappearing messages ka bhi screenshot liya ja sakta hai ya doosre phone se photo kheenchi ja sakti hai. Chats ka cloud pe backup banta hai. Phones udhaar diye jaate hain, khote hain aur hack hote hain. Relationships tootte hain, kabhi-kabhi buri tarah. Aaj kisi pe trust hai, isse yeh guarantee nahi milti ki agle saal us file ka kya hoga. Isiliye sabse safe private photo wahi hai jo kabhi bheji hi nahi gayi."
     }
    },
    {
     "h": {
      "en": "What the law says for under-18s",
-     "hi": "18 से कम उम्र वालों के लिए क़ानून क्या कहता है",
      "hg": "Under-18 ke liye law kya bolta hai"
     },
     "body": {
      "en": "In India, a sexual photo or video of anyone under 18 is treated by law as child sexual abuse material. This is true even if the young person took the picture themselves and even if they agreed. Creating it, keeping it, asking for it and forwarding it can all be offences under the Information Technology Act and the POCSO Act. These laws exist to protect children, not to shame them. If you were pressured or tricked into sending something, you are the one who was wronged, and you deserve help. Laws can change, and this is general information, not legal advice.",
-     "hi": "भारत में 18 साल से कम उम्र के किसी भी इंसान की यौन फ़ोटो या वीडियो को क़ानून बाल यौन शोषण सामग्री मानता है। यह तब भी लागू होता है जब फ़ोटो उस किशोर या किशोरी ने ख़ुद ली हो और तब भी जब उसने हामी भरी हो। ऐसी सामग्री बनाना, अपने पास रखना, माँगना और आगे भेजना, ये सब सूचना प्रौद्योगिकी (IT) अधिनियम और पॉक्सो (POCSO) अधिनियम के तहत अपराध हो सकते हैं। ये क़ानून बच्चों की हिफ़ाज़त के लिए हैं, उन्हें शर्मिंदा करने के लिए नहीं। अगर तुमसे दबाव डालकर या धोखे से कुछ भिजवाया गया, तो ग़लत तुम्हारे साथ हुआ है और तुम मदद के हक़दार हो। क़ानून बदल सकते हैं, और यह आम जानकारी है, क़ानूनी सलाह नहीं।",
      "hg": "India mein 18 se kam age ke kisi bhi insaan ki sexual photo ya video ko law child sexual abuse material maanta hai. Yeh tab bhi lagu hota hai jab photo us teen ne khud li ho aur tab bhi jab usne haan boli ho. Aisa content banana, apne paas rakhna, maangna aur forward karna, yeh sab Information Technology Act aur POCSO Act ke under offence ho sakte hain. Yeh laws bachchon ko protect karne ke liye hain, unhe shame karne ke liye nahi. Agar tumse pressure daalkar ya trick karke kuch bhijwaya gaya, toh galat tumhare saath hua hai aur tum help deserve karte ho. Laws change ho sakte hain, aur yeh general information hai, legal advice nahi."
     }
    },
    {
     "h": {
      "en": "The pressure playbook",
-     "hi": "दबाव डालने की जानी-पहचानी चालें",
      "hg": "Pressure wala playbook"
     },
     "body": {
      "en": "People who push for photos tend to use the same lines. 'If you loved me, you would.' 'Everyone does it.' 'I sent mine, so now it is your turn.' 'I will delete it straight away.' 'You are so boring.' Each line swaps your comfort for their demand, and that swap is manipulation. Affection does not come with a test. You can answer briefly: 'No. I do not send photos like that.' You do not need a perfect reason, and you do not have to keep explaining. Someone who respects you will drop it after the first no.",
-     "hi": "जो लोग फ़ोटो के लिए ज़ोर डालते हैं, वे अक्सर एक जैसी बातें कहते हैं। 'प्यार करते तो भेज देते।' 'सब करते हैं।' 'मैंने अपनी भेज दी, अब तुम्हारी बारी है।' 'मैं तुरंत डिलीट कर दूँगा।' 'तुम कितने बोरिंग हो।' हर लाइन तुम्हारे सुकून की जगह उनकी माँग को रख देती है, और यही अदला-बदली मैनिपुलेशन यानी चालाकी से मनवाना है। प्यार के साथ कोई इम्तिहान नहीं आता। तुम छोटा सा जवाब दे सकते हो: 'नहीं। मैं ऐसी फ़ोटो नहीं भेजता/भेजती।' तुम्हें कोई बढ़िया वजह नहीं चाहिए, और बार-बार सफ़ाई देने की भी ज़रूरत नहीं। जो तुम्हारी इज़्ज़त करता है, वह पहली 'ना' पर ही बात छोड़ देगा।",
      "hg": "Jo log photos ke liye push karte hain, woh aksar same lines use karte hain. 'Pyaar karte toh bhej dete.' 'Sab karte hain.' 'Maine apni bhej di, ab tumhari baari.' 'Main turant delete kar dunga.' 'Tum kitne boring ho.' Har line tumhare comfort ki jagah unki demand rakh deti hai, aur yahi adla-badli manipulation hai. Pyaar ke saath koi test nahi aata. Tum chhota sa jawab de sakte ho: 'Nahi. Main aisi photos nahi bhejta/bhejti.' Tumhe koi perfect reason nahi chahiye, aur baar-baar explain karne ki bhi zaroorat nahi. Jo tumhari respect karta hai, woh pehli 'na' pe hi baat chhod dega."
     }
    },
    {
     "h": {
      "en": "If you have already sent something",
-     "hi": "अगर तुम पहले ही कुछ भेज चुके हो",
      "hg": "Agar tum pehle hi kuch bhej chuke ho"
     },
     "body": {
      "en": "Many people have been here, and it can be handled. Stop sending anything more, even if they threaten you. Do not pay and do not bargain. Do not delete the chat or your account, because the usernames and messages help investigators. Do not forward the image to anyone, not even as proof. Tell a trusted adult; the first minute of that conversation is the hardest part. You can report on cybercrime.gov.in, call 1930, or call Child Helpline 1098. Because you are under 18, adults who help you may have a legal duty to report, so they cannot promise complete secrecy.",
-     "hi": "बहुत से लोग इस हालत से गुज़रे हैं, और इसे सँभाला जा सकता है। आगे कुछ भी भेजना बंद करो, चाहे वे धमकी दें। पैसे मत दो और मोल-भाव मत करो। चैट या अपना अकाउंट डिलीट मत करो, क्योंकि यूज़रनेम और मैसेज जाँच करने वालों के काम आते हैं। वह तस्वीर किसी को फ़ॉरवर्ड मत करो, सबूत के तौर पर भी नहीं। किसी भरोसेमंद बड़े को बताओ; उस बातचीत का पहला मिनट ही सबसे मुश्किल होता है। तुम cybercrime.gov.in पर रिपोर्ट कर सकते हो, 1930 पर या चाइल्ड हेल्पलाइन 1098 पर कॉल कर सकते हो। तुम 18 से कम उम्र के हो, इसलिए मदद करने वाले बड़ों पर रिपोर्ट करने की क़ानूनी ज़िम्मेदारी हो सकती है, यानी वे पूरी तरह राज़ रखने का वादा नहीं कर सकते।",
      "hg": "Bahut log is situation se guzre hain, aur isse handle kiya ja sakta hai. Aage kuch bhi bhejna band karo, chahe woh dhamki dein. Paise mat do aur bargaining mat karo. Chat ya apna account delete mat karo, kyunki usernames aur messages investigators ke kaam aate hain. Woh image kisi ko forward mat karo, proof ke naam pe bhi nahi. Kisi trusted adult ko batao; us conversation ka pehla minute hi sabse mushkil hota hai. Tum cybercrime.gov.in pe report kar sakte ho, 1930 pe ya Child Helpline 1098 pe call kar sakte ho. Tum under 18 ho, isliye help karne wale adults pe report karne ki legal duty ho sakti hai, matlab woh complete secrecy ka promise nahi kar sakte."
     }
    }
@@ -529,35 +453,29 @@
   "myth": {
    "claim": {
     "en": "View-once and disappearing messages are safe because the photo deletes itself.",
-    "hi": "व्यू-वन्स और गायब होने वाले मैसेज सुरक्षित हैं क्योंकि फ़ोटो अपने आप डिलीट हो जाती है।",
     "hg": "View-once aur disappearing messages safe hain kyunki photo apne aap delete ho jaati hai."
    },
    "fact": {
     "en": "A disappearing photo can be screenshotted, photographed with another phone or kept in a backup. The feature only removes the image from the chat; it does not remove copies the other person has made.",
-    "hi": "गायब होने वाली फ़ोटो का स्क्रीनशॉट लिया जा सकता है, दूसरे फ़ोन से उसकी तस्वीर खींची जा सकती है या वह बैकअप में रह सकती है। यह फ़ीचर फ़ोटो को सिर्फ़ चैट से हटाता है; सामने वाले ने जो कॉपी बना ली, उसे नहीं मिटाता।",
     "hg": "Disappearing photo ka screenshot liya ja sakta hai, doosre phone se uski photo kheenchi ja sakti hai ya woh backup mein reh sakti hai. Yeh feature photo ko sirf chat se hatata hai; saamne wale ne jo copy bana li, usse nahi mitata."
    }
   },
   "takeaways": [
    {
     "en": "Once an image is sent, no app feature can guarantee it stays private.",
-    "hi": "तस्वीर एक बार भेज दी गई तो कोई भी ऐप फ़ीचर उसके निजी रहने की गारंटी नहीं दे सकता।",
     "hg": "Image ek baar send ho gayi toh koi bhi app feature uske private rehne ki guarantee nahi de sakta."
    },
    {
     "en": "A sexual image of anyone under 18 is illegal to create, keep or forward in India.",
-    "hi": "भारत में 18 से कम उम्र के किसी भी इंसान की यौन तस्वीर बनाना, रखना या फ़ॉरवर्ड करना ग़ैरक़ानूनी है।",
     "hg": "India mein under-18 kisi bhi insaan ki sexual image banana, rakhna ya forward karna illegal hai."
    },
    {
     "en": "Pressure is not love, and if you were pressured you deserve help, not blame.",
-    "hi": "दबाव प्यार नहीं है, और अगर तुम पर दबाव डाला गया तो तुम्हें मदद मिलनी चाहिए, इल्ज़ाम नहीं।",
     "hg": "Pressure pyaar nahi hai, aur agar tum pe pressure daala gaya toh tum help deserve karte ho, blame nahi."
    }
   ],
   "activity": {
    "en": "Write, only for yourself, two sentences you could use to refuse a request that crosses your boundary: one firm and one light. Say them aloud once so they feel natural.",
-   "hi": "सिर्फ़ अपने लिए दो वाक्य लिखो जिनसे तुम अपनी सीमा लाँघने वाली किसी माँग को मना कर सको: एक सख़्त और एक हल्का-फुल्का। एक बार ज़ोर से बोलकर देखो ताकि वे तुम्हारी ज़ुबान पर चढ़ जाएँ।",
    "hg": "Sirf apne liye do sentences likho jinse tum apni boundary cross karne wali kisi request ko mana kar sako: ek firm aur ek light. Ek baar zor se bolkar dekho taaki woh natural lagein."
   },
   "interactive": "digital_safety",
@@ -567,35 +485,29 @@
     "type": "mcq",
     "q": {
      "en": "Under Indian law, a sexual photo of a 15-year-old that they took themselves is:",
-     "hi": "भारतीय क़ानून के हिसाब से, 15 साल के किसी किशोर/किशोरी की ख़ुद ली हुई यौन फ़ोटो:",
      "hg": "Indian law ke hisaab se, 15 saal ke kisi teen ki khud li hui sexual photo:"
     },
     "options": [
      {
       "en": "Legal, because they took it themselves",
-      "hi": "क़ानूनी है, क्योंकि उन्होंने ख़ुद ली है",
       "hg": "Legal hai, kyunki unhone khud li hai"
      },
      {
       "en": "Legal if it is sent only to a partner",
-      "hi": "क़ानूनी है अगर सिर्फ़ पार्टनर को भेजी जाए",
       "hg": "Legal hai agar sirf partner ko bheji jaye"
      },
      {
       "en": "Treated as child sexual abuse material",
-      "hi": "बाल यौन शोषण सामग्री मानी जाती है",
       "hg": "Child sexual abuse material maani jaati hai"
      },
      {
       "en": "Legal if it is deleted within a day",
-      "hi": "क़ानूनी है अगर एक दिन में डिलीट कर दी जाए",
       "hg": "Legal hai agar ek din mein delete kar di jaye"
      }
     ],
     "answer": 2,
     "explain": {
      "en": "The law looks at the age of the person in the image, not at who took it or whether they agreed.",
-     "hi": "क़ानून तस्वीर में दिख रहे इंसान की उम्र देखता है, यह नहीं कि फ़ोटो किसने ली या उसने हामी भरी थी या नहीं।",
      "hg": "Law image mein dikh rahe insaan ki age dekhta hai, yeh nahi ki photo kisne li ya usne haan boli thi ya nahi."
     }
    },
@@ -604,30 +516,25 @@
     "type": "scenario",
     "q": {
      "en": "Someone you like says, 'Send one photo or I will know you do not trust me.' The most accurate reading is:",
-     "hi": "जिसे तुम पसंद करते हो वह कहता है, 'एक फ़ोटो भेजो, वरना मैं समझ जाऊँगा कि तुम्हें मुझ पर भरोसा नहीं।' इसे समझने का सबसे सही तरीका है:",
      "hg": "Jisse tum like karte ho woh bolta hai, 'Ek photo bhejo, warna main samajh jaunga ki tumhe mujh pe trust nahi.' Isse samajhne ka sabse sahi tareeka hai:"
     },
     "options": [
      {
       "en": "This is pressure, and you can say no",
-      "hi": "यह दबाव है, और तुम मना कर सकते हो",
       "hg": "Yeh pressure hai, aur tum mana kar sakte ho"
      },
      {
       "en": "This is a normal way to prove love",
-      "hi": "यह प्यार साबित करने का आम तरीका है",
       "hg": "Yeh pyaar prove karne ka normal tareeka hai"
      },
      {
       "en": "You owe it because they asked politely",
-      "hi": "उन्होंने तमीज़ से माँगा है, इसलिए भेजना तुम्हारा फ़र्ज़ है",
       "hg": "Unhone politely maanga hai, isliye bhejna tumhara farz hai"
      }
     ],
     "answer": 0,
     "explain": {
      "en": "Turning trust into a test is a manipulation tactic. Respect accepts the first no.",
-     "hi": "भरोसे को इम्तिहान बना देना चालाकी से मनवाने का तरीका है। इज़्ज़त करने वाला पहली 'ना' मान लेता है।",
      "hg": "Trust ko test bana dena ek manipulation tactic hai. Respect karne wala pehli 'na' maan leta hai."
     }
    }
@@ -639,7 +546,6 @@
   ],
   "warning": {
    "en": "If someone is threatening you over a photo, do not pay and do not send more. Tell a trusted adult and report on cybercrime.gov.in or 1930; you can also call 1098. In immediate danger call 112.",
-   "hi": "अगर कोई फ़ोटो को लेकर तुम्हें धमका रहा है, तो पैसे मत दो और आगे कुछ मत भेजो। किसी भरोसेमंद बड़े को बताओ और cybercrime.gov.in या 1930 पर रिपोर्ट करो; तुम 1098 पर भी कॉल कर सकते हो। फ़ौरन ख़तरा हो तो 112 पर कॉल करो।",
    "hg": "Agar koi photo ko lekar tumhe dhamka raha hai, toh paise mat do aur aage kuch mat bhejo. Kisi trusted adult ko batao aur cybercrime.gov.in ya 1930 pe report karo; tum 1098 pe bhi call kar sakte ho. Turant khatra ho toh 112 pe call karo."
   },
   "sensitive": true,
@@ -664,33 +570,27 @@
   ],
   "title": {
    "en": "Sextortion: Their Playbook, Your Way Out",
-   "hi": "सेक्सटॉर्शन: उनकी चाल, तुम्हारा रास्ता",
    "hg": "Sextortion: Unka Playbook, Tumhara Exit Plan"
   },
   "subtitle": {
    "en": "Sexual blackmail online and exactly what to do about it",
-   "hi": "ऑनलाइन यौन ब्लैकमेल और उससे निपटने के ठोस क़दम",
    "hg": "Online sexual blackmail aur usse deal karne ke exact steps"
   },
   "hook": {
    "en": "Sextortion runs on one thing: your panic. Take the panic away and the blackmailer has very little left.",
-   "hi": "सेक्सटॉर्शन एक ही चीज़ पर चलता है: तुम्हारी घबराहट। घबराहट हटा दो, तो ब्लैकमेलर के पास बहुत कम बचता है।",
    "hg": "Sextortion ek hi cheez pe chalta hai: tumhara panic. Panic hata do, toh blackmailer ke paas bahut kam bachta hai."
   },
   "objectives": [
    {
     "en": "Describe how a sextortion scam typically unfolds.",
-    "hi": "बता पाना कि सेक्सटॉर्शन का जाल आम तौर पर कैसे बिछाया जाता है।",
     "hg": "Bata paana ki sextortion scam typically kaise chalta hai."
    },
    {
     "en": "List the immediate steps: stop, do not pay, preserve, report, tell.",
-    "hi": "फ़ौरन उठाए जाने वाले क़दम गिनाना: रुको, पैसे मत दो, सबूत बचाओ, रिपोर्ट करो, बताओ।",
     "hg": "Immediate steps ginaana: ruko, pay mat karo, proof bachao, report karo, batao."
    },
    {
     "en": "Handle evidence safely without copying any sexual image.",
-    "hi": "किसी भी यौन तस्वीर की कॉपी बनाए बिना सबूत को सुरक्षित तरीके से सँभालना।",
     "hg": "Kisi bhi sexual image ki copy banaye bina evidence ko safely handle karna."
    }
   ],
@@ -699,48 +599,40 @@
    {
     "h": {
      "en": "How the trap is built",
-     "hi": "जाल कैसे बिछाया जाता है",
      "hg": "Trap kaise banta hai"
     },
     "body": {
      "en": "Sextortion is blackmail that uses a sexual image or video, real or fake, to demand money, more images or sexual acts. A common pattern starts with an attractive new profile that flirts quickly and suggests moving to a private chat or video call. The call is secretly recorded, or photos are exchanged. Within minutes the tone flips: pay now, or this goes to your family and followers. Some scammers never had a real image and simply paste your face onto a fake one. Organised groups run the same script on many people at once, and they target boys as well as girls, often for money.",
-     "hi": "सेक्सटॉर्शन वह ब्लैकमेल है जिसमें किसी यौन फ़ोटो या वीडियो के सहारे, चाहे वह असली हो या नकली, पैसे, और ज़्यादा तस्वीरें या यौन हरकतें माँगी जाती हैं। एक आम तरीका किसी आकर्षक नई प्रोफ़ाइल से शुरू होता है जो जल्दी-जल्दी फ़्लर्ट करती है और प्राइवेट चैट या वीडियो कॉल पर चलने को कहती है। कॉल चुपके से रिकॉर्ड कर ली जाती है, या फ़ोटो का लेन-देन होता है। कुछ ही मिनटों में लहजा बदल जाता है: अभी पैसे दो, वरना यह तुम्हारे परिवार और फ़ॉलोअर्स तक पहुँचेगा। कुछ ठगों के पास कभी कोई असली तस्वीर होती ही नहीं, वे बस तुम्हारा चेहरा किसी नकली तस्वीर पर चिपका देते हैं। संगठित गिरोह एक ही स्क्रिप्ट एक साथ बहुत लोगों पर चलाते हैं, और वे लड़कियों के साथ-साथ लड़कों को भी निशाना बनाते हैं, अक्सर पैसों के लिए।",
      "hg": "Sextortion woh blackmail hai jisme kisi sexual photo ya video ke sahare, chahe woh real ho ya fake, paise, aur zyada images ya sexual acts maange jaate hain. Common pattern ek attractive nayi profile se shuru hota hai jo jaldi-jaldi flirt karti hai aur private chat ya video call pe chalne ko bolti hai. Call chupke se record kar li jaati hai, ya photos exchange hoti hain. Kuch hi minutes mein tone flip ho jaati hai: abhi pay karo, warna yeh tumhari family aur followers tak jayega. Kuch scammers ke paas kabhi koi real image hoti hi nahi, woh bas tumhara face kisi fake image pe chipka dete hain. Organised groups same script ek saath bahut logon pe chalate hain, aur woh ladkiyon ke saath-saath ladkon ko bhi target karte hain, aksar paison ke liye."
     }
    },
    {
     "h": {
      "en": "The first hour: what to do",
-     "hi": "पहला घंटा: क्या करना है",
      "hg": "Pehla ghanta: kya karna hai"
     },
     "body": {
      "en": "Stop replying. Every reply tells them the pressure is working. Do not pay: payment usually brings a bigger demand, not silence. Do not send more images to settle it. Do not delete the chat or deactivate your account, because investigators need the trail. Write down the username, profile link, phone number, UPI or bank details they gave, and the date and time. Then block the account and report it inside the app. Report on cybercrime.gov.in or call 1930. If money has already been sent, call 1930 as early as you can, because quick reporting gives the best chance of stopping the transfer.",
-     "hi": "जवाब देना बंद करो। हर जवाब उन्हें बताता है कि दबाव काम कर रहा है। पैसे मत दो: पैसे देने पर आम तौर पर चुप्पी नहीं, और बड़ी माँग आती है। मामला निपटाने के लिए और तस्वीरें मत भेजो। चैट डिलीट मत करो और अकाउंट बंद मत करो, क्योंकि जाँच करने वालों को पूरा सिलसिला चाहिए होता है। यूज़रनेम, प्रोफ़ाइल का लिंक, फ़ोन नंबर, उनका दिया UPI या बैंक ब्योरा, और तारीख़ व समय लिख लो। फिर अकाउंट को ब्लॉक करो और ऐप के अंदर रिपोर्ट करो। cybercrime.gov.in पर रिपोर्ट करो या 1930 पर कॉल करो। अगर पैसे जा चुके हैं, तो जितनी जल्दी हो सके 1930 पर कॉल करो, क्योंकि जल्दी रिपोर्ट करने पर ही ट्रांसफ़र रुकने की सबसे ज़्यादा उम्मीद रहती है।",
      "hg": "Reply karna band karo. Har reply unhe batata hai ki pressure kaam kar raha hai. Pay mat karo: paise dene pe usually silence nahi, aur badi demand aati hai. Matter settle karne ke liye aur images mat bhejo. Chat delete mat karo aur account deactivate mat karo, kyunki investigators ko poora trail chahiye hota hai. Username, profile link, phone number, unka diya UPI ya bank detail, aur date-time likh lo. Phir account block karo aur app ke andar report karo. cybercrime.gov.in pe report karo ya 1930 pe call karo. Agar paise ja chuke hain, toh jitni jaldi ho sake 1930 pe call karo, kyunki jaldi report karne pe hi transfer rukne ka best chance rehta hai."
     }
    },
    {
     "h": {
      "en": "Handling evidence safely",
-     "hi": "सबूत को सुरक्षित तरीके से सँभालना",
      "hg": "Evidence ko safely handle karna"
     },
     "body": {
      "en": "Useful evidence is the context, not the image. Screenshots of the threatening text, the profile page, the username and the payment request are fine to keep. A sexual image or video of anyone under 18, including you, is different: do not screenshot it, save it, download it or forward it to anyone, even to prove what happened. Leave it where it is in the undeleted chat and let the police or cyber cell collect it from the device themselves. Copying it creates new copies of illegal material and can spread the harm further.",
-     "hi": "काम का सबूत आसपास का ब्योरा है, तस्वीर नहीं। धमकी वाले मैसेज, प्रोफ़ाइल पेज, यूज़रनेम और पैसे की माँग के स्क्रीनशॉट रखना ठीक है। लेकिन 18 से कम उम्र के किसी भी इंसान की यौन फ़ोटो या वीडियो, जिसमें तुम ख़ुद भी शामिल हो, अलग मामला है: उसका स्क्रीनशॉट मत लो, उसे सेव मत करो, डाउनलोड मत करो और किसी को फ़ॉरवर्ड मत करो, यह साबित करने के लिए भी नहीं कि क्या हुआ था। उसे बिना डिलीट की हुई चैट में वहीं रहने दो और पुलिस या साइबर सेल को ख़ुद डिवाइस से लेने दो। कॉपी बनाने से ग़ैरक़ानूनी सामग्री की नई कॉपियाँ बनती हैं और नुकसान और फैल सकता है।",
      "hg": "Kaam ka evidence context hai, image nahi. Dhamki wale messages, profile page, username aur payment request ke screenshots rakhna theek hai. Lekin under-18 kisi bhi insaan ki sexual photo ya video, jisme tum khud bhi shamil ho, alag case hai: uska screenshot mat lo, save mat karo, download mat karo aur kisi ko forward mat karo, yeh prove karne ke liye bhi nahi ki kya hua tha. Usse bina delete ki hui chat mein wahin rehne do aur police ya cyber cell ko khud device se lene do. Copy banane se illegal material ki nayi copies banti hain aur harm aur phail sakta hai."
     }
    },
    {
     "h": {
      "en": "The shame belongs to them",
-     "hi": "शर्म उनकी है, तुम्हारी नहीं",
      "hg": "Sharam unki hai, tumhari nahi"
     },
     "body": {
      "en": "Blackmailers count on you being too ashamed to tell anyone. Blackmail and threats are crimes committed against you, whatever you did or did not send. Tell a parent, older sibling, teacher or counsellor; most adults react with far more concern than anger once they understand that a criminal targeted you. At 16 or 17, adults who learn of a sexual offence against you are legally required to report it, so expect them to act rather than keep it secret. If the fear feels unbearable or you think about hurting yourself, call Tele-MANAS on 14416 or 112 right away.",
-     "hi": "ब्लैकमेलर इसी भरोसे रहते हैं कि तुम शर्म के मारे किसी को नहीं बताओगे। ब्लैकमेल और धमकी तुम्हारे ख़िलाफ़ किए गए अपराध हैं, चाहे तुमने कुछ भेजा हो या न भेजा हो। माँ-बाप, बड़े भाई-बहन, टीचर या काउंसलर को बताओ; ज़्यादातर बड़े जब समझ जाते हैं कि एक अपराधी ने तुम्हें निशाना बनाया, तो उन्हें ग़ुस्से से कहीं ज़्यादा फ़िक्र होती है। 16 या 17 की उम्र में, जिन बड़ों को तुम्हारे ख़िलाफ़ हुए यौन अपराध का पता चलता है, उन पर उसकी रिपोर्ट करने की क़ानूनी ज़िम्मेदारी होती है, इसलिए उम्मीद रखो कि वे इसे राज़ नहीं रखेंगे, क़दम उठाएँगे। अगर डर बर्दाश्त से बाहर लगे या ख़ुद को नुकसान पहुँचाने का ख़याल आए, तो तुरंत टेली-मानस 14416 या 112 पर कॉल करो।",
      "hg": "Blackmailers isi bharose rehte hain ki tum sharam ke maare kisi ko nahi bataoge. Blackmail aur dhamki tumhare against kiye gaye crimes hain, chahe tumne kuch bheja ho ya na bheja ho. Parent, bade bhai-behen, teacher ya counsellor ko batao; zyadatar adults jab samajh jaate hain ki ek criminal ne tumhe target kiya, toh unhe gusse se kahin zyada fikar hoti hai. 16 ya 17 ki age mein, jin adults ko tumhare against hue sexual offence ka pata chalta hai, un pe report karne ki legal duty hoti hai, isliye expect karo ki woh isse secret nahi rakhenge, action lenge. Agar darr bardaasht se bahar lage ya khud ko hurt karne ka khayal aaye, toh turant Tele-MANAS 14416 ya 112 pe call karo."
     }
    }
@@ -748,35 +640,29 @@
   "myth": {
    "claim": {
     "en": "If I pay once, they will delete everything and disappear.",
-    "hi": "अगर मैं एक बार पैसे दे दूँ, तो वे सब कुछ डिलीट करके गायब हो जाएँगे।",
     "hg": "Agar main ek baar pay kar doon, toh woh sab delete karke gayab ho jayenge."
    },
    "fact": {
     "en": "Paying marks you as someone who pays. Demands usually increase, and there is no way to confirm anything was deleted. Cutting contact and reporting gives you the best chance of ending it. If something is posted anyway, report it to the platform and on cybercrime.gov.in so that it can be taken down.",
-    "hi": "पैसे देते ही तुम उनकी नज़र में 'पैसे देने वाले' बन जाते हो। माँगें आम तौर पर बढ़ती हैं, और यह पक्का करने का कोई तरीका नहीं कि कुछ डिलीट हुआ भी या नहीं। संपर्क तोड़ने और रिपोर्ट करने से ही इसके ख़त्म होने की सबसे ज़्यादा उम्मीद रहती है। अगर फिर भी कुछ पोस्ट कर दिया जाए, तो प्लैटफ़ॉर्म और cybercrime.gov.in पर उसकी रिपोर्ट करो ताकि उसे हटाया जा सके।",
     "hg": "Pay karte hi tum unki nazar mein 'pay karne wale' ban jaate ho. Demands usually badhti hain, aur yeh confirm karne ka koi tareeka nahi ki kuch delete hua bhi ya nahi. Contact todna aur report karna hi isse khatam karne ka best chance deta hai. Agar phir bhi kuch post ho jaye, toh platform aur cybercrime.gov.in pe report karo taaki usse hataya ja sake."
    }
   },
   "takeaways": [
    {
     "en": "Stop replying, do not pay, and do not send anything more.",
-    "hi": "जवाब देना बंद करो, पैसे मत दो और आगे कुछ भी मत भेजो।",
     "hg": "Reply band karo, pay mat karo aur aage kuch bhi mat bhejo."
    },
    {
     "en": "Keep the chat and note usernames and payment details, but never copy a sexual image of a minor.",
-    "hi": "चैट रहने दो और यूज़रनेम व भुगतान का ब्योरा लिख लो, पर किसी नाबालिग की यौन तस्वीर की कॉपी कभी मत बनाओ।",
     "hg": "Chat rehne do aur usernames aur payment details note karo, par kisi minor ki sexual image ki copy kabhi mat banao."
    },
    {
     "en": "Report on cybercrime.gov.in or 1930 and tell a trusted adult; the crime is theirs, not yours.",
-    "hi": "cybercrime.gov.in या 1930 पर रिपोर्ट करो और किसी भरोसेमंद बड़े को बताओ; अपराध उनका है, तुम्हारा नहीं।",
     "hg": "cybercrime.gov.in ya 1930 pe report karo aur kisi trusted adult ko batao; crime unka hai, tumhara nahi."
    }
   ],
   "activity": {
    "en": "Save 1930, 1098, 112 and 14416 in your phone contacts now, and decide which one adult you would tell first if you were ever threatened online.",
-   "hi": "अभी अपने फ़ोन में 1930, 1098, 112 और 14416 सेव कर लो, और तय करो कि अगर कभी ऑनलाइन धमकी मिले तो सबसे पहले किस एक बड़े को बताओगे।",
    "hg": "Abhi apne phone mein 1930, 1098, 112 aur 14416 save kar lo, aur decide karo ki agar kabhi online dhamki mile toh sabse pehle kis ek adult ko bataoge."
   },
   "interactive": "digital_safety",
@@ -786,35 +672,29 @@
     "type": "mcq",
     "q": {
      "en": "Which of these should never be copied, saved or forwarded as evidence?",
-     "hi": "इनमें से किस चीज़ की सबूत के तौर पर भी कभी कॉपी, सेव या फ़ॉरवर्ड नहीं करनी चाहिए?",
      "hg": "Inme se kis cheez ko evidence ke naam pe bhi kabhi copy, save ya forward nahi karna chahiye?"
     },
     "options": [
      {
       "en": "The blackmailer's username",
-      "hi": "ब्लैकमेलर का यूज़रनेम",
       "hg": "Blackmailer ka username"
      },
      {
       "en": "The UPI ID they asked you to pay",
-      "hi": "वह UPI ID जिस पर उन्होंने पैसे माँगे",
       "hg": "Woh UPI ID jis pe unhone paise maange"
      },
      {
       "en": "The date and time of the threat",
-      "hi": "धमकी की तारीख़ और समय",
       "hg": "Dhamki ki date aur time"
      },
      {
       "en": "A sexual image of a person under 18",
-      "hi": "18 से कम उम्र के किसी इंसान की यौन तस्वीर",
       "hg": "Under-18 kisi insaan ki sexual image"
      }
     ],
     "answer": 3,
     "explain": {
      "en": "Usernames, payment IDs and timings help investigators. Copying a sexual image of a minor creates more illegal material; leave it in the chat for the police.",
-     "hi": "यूज़रनेम, पेमेंट ID और समय जाँच में काम आते हैं। नाबालिग की यौन तस्वीर की कॉपी बनाने से और ग़ैरक़ानूनी सामग्री बनती है; उसे पुलिस के लिए चैट में ही रहने दो।",
      "hg": "Usernames, payment IDs aur timing investigators ke kaam aate hain. Minor ki sexual image copy karne se aur illegal material banta hai; usse police ke liye chat mein hi rehne do."
     }
    },
@@ -823,25 +703,21 @@
     "type": "tf",
     "q": {
      "en": "When someone blackmails you online, deleting the whole chat immediately is the best first step.",
-     "hi": "जब कोई ऑनलाइन ब्लैकमेल करे, तो सबसे अच्छा पहला क़दम है पूरी चैट तुरंत डिलीट कर देना।",
      "hg": "Jab koi online blackmail kare, toh best first step hai poori chat turant delete kar dena."
     },
     "options": [
      {
       "en": "True",
-      "hi": "सही",
       "hg": "Sahi"
      },
      {
       "en": "False",
-      "hi": "ग़लत",
       "hg": "Galat"
      }
     ],
     "answer": 1,
     "explain": {
      "en": "The chat holds usernames, threats and payment details that investigators need. Stop replying, but keep the chat.",
-     "hi": "चैट में यूज़रनेम, धमकियाँ और भुगतान का ब्योरा होता है जो जाँच करने वालों को चाहिए। जवाब देना बंद करो, पर चैट रहने दो।",
      "hg": "Chat mein usernames, dhamkiyan aur payment details hote hain jo investigators ko chahiye. Reply band karo, par chat rehne do."
     }
    }
@@ -853,7 +729,6 @@
   ],
   "warning": {
    "en": "If you are being threatened right now: stop replying, do not pay, do not delete the chat, and tell a trusted adult. Report on cybercrime.gov.in or 1930. If you feel you might harm yourself, call 14416 or 112 immediately.",
-   "hi": "अगर तुम्हें अभी धमकाया जा रहा है: जवाब देना बंद करो, पैसे मत दो, चैट डिलीट मत करो और किसी भरोसेमंद बड़े को बताओ। cybercrime.gov.in या 1930 पर रिपोर्ट करो। अगर लगे कि तुम ख़ुद को नुकसान पहुँचा सकते हो, तो तुरंत 14416 या 112 पर कॉल करो।",
    "hg": "Agar tumhe abhi dhamkaya ja raha hai: reply band karo, pay mat karo, chat delete mat karo aur kisi trusted adult ko batao. cybercrime.gov.in ya 1930 pe report karo. Agar lage ki tum khud ko hurt kar sakte ho, toh turant 14416 ya 112 pe call karo."
   },
   "sensitive": true,
@@ -879,33 +754,27 @@
   ],
   "title": {
    "en": "Deepfakes, Leaks and Fake Profiles",
-   "hi": "डीपफेक, लीक और नकली प्रोफ़ाइल",
    "hg": "Deepfakes, Leaks aur Fake Profiles"
   },
   "subtitle": {
    "en": "Image-based sexual abuse and impersonation in the AI era",
-   "hi": "AI के दौर में तस्वीरों के ज़रिए यौन शोषण और नकली पहचान",
    "hg": "AI ke zamaane mein image-based sexual abuse aur impersonation"
   },
   "hook": {
    "en": "Today nobody needs your private photo to make a sexual image of you. A school-trip selfie and an app are enough, and that is abuse, not a prank.",
-   "hi": "आज तुम्हारी यौन तस्वीर बनाने के लिए किसी को तुम्हारी निजी फ़ोटो नहीं चाहिए। स्कूल ट्रिप की एक सेल्फ़ी और एक ऐप काफ़ी है, और यह मज़ाक नहीं, शोषण है।",
    "hg": "Aaj tumhari sexual image banane ke liye kisi ko tumhari private photo nahi chahiye. School trip ki ek selfie aur ek app kaafi hai, aur yeh prank nahi, abuse hai."
   },
   "objectives": [
    {
     "en": "Define image-based sexual abuse, including AI-generated and morphed images.",
-    "hi": "तस्वीरों के ज़रिए यौन शोषण को परिभाषित करना, जिसमें AI से बनी और मॉर्फ़ की हुई तस्वीरें भी शामिल हैं।",
     "hg": "Image-based sexual abuse ko define karna, jisme AI-generated aur morphed images bhi shamil hain."
    },
    {
     "en": "Explain why a fake image is still reportable abuse.",
-    "hi": "समझाना कि नकली तस्वीर भी ऐसा शोषण क्यों है जिसकी रिपोर्ट की जा सकती है।",
     "hg": "Explain karna ki fake image bhi reportable abuse kyun hai."
    },
    {
     "en": "Know the steps to take against a leak, a deepfake or a fake profile.",
-    "hi": "जानना कि लीक, डीपफेक या नकली प्रोफ़ाइल के ख़िलाफ़ कौन से क़दम उठाने हैं।",
     "hg": "Jaanna ki leak, deepfake ya fake profile ke against kaun se steps lene hain."
    }
   ],
@@ -914,48 +783,40 @@
    {
     "h": {
      "en": "What image-based sexual abuse covers",
-     "hi": "तस्वीरों के ज़रिए यौन शोषण में क्या-क्या आता है",
      "hg": "Image-based sexual abuse mein kya-kya aata hai"
     },
     "body": {
      "en": "Image-based sexual abuse means creating, sharing or threatening to share someone's intimate image without their consent. It includes forwarding a photo that a partner once sent privately, recording someone secretly in a bathroom, changing room or bedroom, morphing a face onto another body, and uploading such images to groups or websites. People often call it 'revenge porn', but that phrase is misleading: it suggests the victim did something to deserve revenge and treats abuse as entertainment. Consent to share a photo with one person is never consent for that person to show it to anyone else.",
-     "hi": "तस्वीरों के ज़रिए यौन शोषण का मतलब है किसी की अंतरंग तस्वीर उसकी सहमति के बिना बनाना, शेयर करना या शेयर करने की धमकी देना। इसमें वह फ़ोटो आगे भेजना शामिल है जो किसी पार्टनर ने कभी निजी तौर पर भेजी थी, बाथरूम, चेंजिंग रूम या बेडरूम में किसी को चुपके से रिकॉर्ड करना, किसी का चेहरा दूसरे शरीर पर लगा देना, और ऐसी तस्वीरें ग्रुप या वेबसाइट पर डालना। लोग इसे अक्सर 'रिवेंज पोर्न' कहते हैं, पर यह शब्द गुमराह करता है: इससे लगता है कि पीड़ित ने कुछ ऐसा किया था जिसका बदला लिया गया, और शोषण मनोरंजन जैसा लगने लगता है। किसी एक इंसान को फ़ोटो भेजने की सहमति का मतलब यह कभी नहीं कि वह उसे किसी और को दिखा सकता है।",
      "hg": "Image-based sexual abuse ka matlab hai kisi ki intimate image uski consent ke bina banana, share karna ya share karne ki dhamki dena. Isme woh photo forward karna shamil hai jo kisi partner ne kabhi privately bheji thi, bathroom, changing room ya bedroom mein kisi ko chupke se record karna, kisi ka face doosri body pe laga dena, aur aisi images groups ya websites pe daalna. Log isse aksar 'revenge porn' bolte hain, par yeh term misleading hai: isse lagta hai ki victim ne kuch aisa kiya tha jiska badla liya gaya, aur abuse entertainment jaisa lagne lagta hai. Kisi ek insaan ko photo bhejne ki consent ka matlab yeh kabhi nahi ki woh usse kisi aur ko dikha sakta hai."
     }
    },
    {
     "h": {
      "en": "Deepfakes and 'nudify' apps",
-     "hi": "डीपफेक और 'न्यूडिफ़ाई' ऐप",
      "hg": "Deepfakes aur 'nudify' apps"
     },
     "body": {
      "en": "A deepfake is a photo, video or voice clip generated or altered by AI so that a real person appears to do or say something they never did. 'Nudify' tools can turn an ordinary clothed picture into a fake nude within seconds. The picture is fake, but the humiliation, fear and damage to reputation are real, which is why creating or sharing one is a form of sexual abuse and not a joke. Indian laws on privacy, obscene content, impersonation and harassment can apply to it, and if the person shown is under 18 it is treated as child sexual abuse material. Laws can change; this is not legal advice.",
-     "hi": "डीपफेक वह फ़ोटो, वीडियो या आवाज़ की क्लिप है जिसे AI से इस तरह बनाया या बदला गया हो कि कोई असली इंसान वह करता या कहता दिखे जो उसने कभी किया या कहा ही नहीं। 'न्यूडिफ़ाई' टूल कपड़ों वाली आम तस्वीर को कुछ ही सेकंड में नकली नग्न तस्वीर में बदल सकते हैं। तस्वीर नकली होती है, पर बेइज़्ज़ती, डर और बदनामी असली होती है, इसीलिए ऐसी तस्वीर बनाना या शेयर करना यौन शोषण का एक रूप है, मज़ाक नहीं। निजता, अश्लील सामग्री, नकली पहचान और उत्पीड़न से जुड़े भारतीय क़ानून इस पर लागू किए जा सकते हैं, और अगर तस्वीर में दिखाया गया इंसान 18 से कम उम्र का है तो उसे बाल यौन शोषण सामग्री माना जाता है। क़ानून बदल सकते हैं, और यह क़ानूनी सलाह नहीं है।",
      "hg": "Deepfake woh photo, video ya voice clip hai jisse AI se is tarah banaya ya badla gaya ho ki koi real insaan woh karta ya bolta dikhe jo usne kabhi kiya ya bola hi nahi. 'Nudify' tools kapdon wali normal picture ko kuch hi seconds mein fake nude mein badal sakte hain. Picture fake hoti hai, par beizzati, darr aur reputation ka damage real hota hai, isiliye aisi image banana ya share karna sexual abuse ka ek form hai, joke nahi. Privacy, obscene content, impersonation aur harassment se jude Indian laws is pe lagu kiye ja sakte hain, aur agar image mein dikhaya gaya insaan under 18 hai toh usse child sexual abuse material maana jaata hai. Laws change ho sakte hain, aur yeh legal advice nahi hai."
     }
    },
    {
     "h": {
      "en": "Impersonation and fake accounts",
-     "hi": "नकली पहचान और फ़र्ज़ी अकाउंट",
      "hg": "Impersonation aur fake accounts"
     },
     "body": {
      "en": "Impersonation is when someone creates an account with your name and photos, or takes over your real account, to message people, post content or ask for money as you. Report the profile inside the app using the 'pretending to be someone' option and ask a few friends to report it too. Tell your contacts through your real account that the other one is fake. Change your passwords and switch on two-step verification. Using someone's identity online to cheat or harass can be an offence under the Information Technology Act and other criminal laws, and you can file a complaint on cybercrime.gov.in with the fake profile's link.",
-     "hi": "नकली पहचान (impersonation) तब होती है जब कोई तुम्हारे नाम और फ़ोटो से अकाउंट बना ले, या तुम्हारे असली अकाउंट पर क़ब्ज़ा कर ले, और तुम बनकर लोगों को मैसेज करे, पोस्ट डाले या पैसे माँगे। ऐप के अंदर 'किसी और के होने का नाटक' वाले विकल्प से उस प्रोफ़ाइल को रिपोर्ट करो और कुछ दोस्तों से भी रिपोर्ट करने को कहो। अपने असली अकाउंट से जान-पहचान वालों को बता दो कि दूसरा अकाउंट फ़र्ज़ी है। अपने पासवर्ड बदलो और टू-स्टेप वेरिफ़िकेशन चालू करो। ऑनलाइन किसी की पहचान का इस्तेमाल करके ठगी या परेशान करना सूचना प्रौद्योगिकी (IT) अधिनियम और दूसरे आपराधिक क़ानूनों के तहत अपराध हो सकता है, और तुम फ़र्ज़ी प्रोफ़ाइल के लिंक के साथ cybercrime.gov.in पर शिकायत दर्ज कर सकते हो।",
      "hg": "Impersonation tab hoti hai jab koi tumhare naam aur photos se account bana le, ya tumhare real account pe kabza kar le, aur tum bankar logon ko message kare, post daale ya paise maange. App ke andar 'pretending to be someone' wale option se us profile ko report karo aur kuch doston se bhi report karne ko bolo. Apne real account se contacts ko bata do ki doosra account fake hai. Apne passwords change karo aur two-step verification on karo. Online kisi ki identity use karke cheating ya harassment karna Information Technology Act aur doosre criminal laws ke under offence ho sakta hai, aur tum fake profile ke link ke saath cybercrime.gov.in pe complaint file kar sakte ho."
     }
    },
    {
     "h": {
      "en": "If it happens to you",
-     "hi": "अगर यह तुम्हारे साथ हो",
      "hg": "Agar yeh tumhare saath ho"
     },
     "body": {
      "en": "First, this was done to you; you did not cause it by taking a photo, posting a selfie or trusting someone. Note the links, usernames, group names and dates. Screenshot threats and profile pages, but do not save or pass on a sexual image of anyone under 18. Report the content to the platform, which is required under Indian rules to act on complaints about intimate and morphed images, and file a complaint on cybercrime.gov.in or at a police station. Bring in someone you trust so that you are not handling it alone. Women can also call 181, and anyone under 18 can call 1098.",
-     "hi": "सबसे पहले, यह तुम्हारे साथ किया गया है; फ़ोटो लेने, सेल्फ़ी डालने या किसी पर भरोसा करने से तुम इसकी वजह नहीं बन गए। लिंक, यूज़रनेम, ग्रुप के नाम और तारीख़ें लिख लो। धमकियों और प्रोफ़ाइल पेज के स्क्रीनशॉट लो, पर 18 से कम उम्र के किसी भी इंसान की यौन तस्वीर न सेव करो, न आगे भेजो। उस सामग्री की रिपोर्ट प्लैटफ़ॉर्म पर करो, जिसे भारतीय नियमों के तहत अंतरंग और मॉर्फ़ की हुई तस्वीरों की शिकायत पर कार्रवाई करनी होती है, और cybercrime.gov.in पर या पुलिस थाने में शिकायत दर्ज करो। किसी भरोसेमंद इंसान को साथ लो ताकि तुम इसे अकेले न झेलो। महिलाएँ 181 पर भी कॉल कर सकती हैं, और 18 से कम उम्र का कोई भी 1098 पर कॉल कर सकता है।",
      "hg": "Sabse pehle, yeh tumhare saath kiya gaya hai; photo lene, selfie post karne ya kisi pe trust karne se tum iski wajah nahi ban gaye. Links, usernames, group names aur dates note karo. Dhamkiyon aur profile pages ke screenshots lo, par under-18 kisi bhi insaan ki sexual image na save karo, na aage bhejo. Us content ko platform pe report karo, jisse Indian rules ke under intimate aur morphed images ki complaints pe action lena hota hai, aur cybercrime.gov.in pe ya police station mein complaint file karo. Kisi trusted insaan ko saath lo taaki tum isse akele handle na karo. Women 181 pe bhi call kar sakti hain, aur under-18 koi bhi 1098 pe call kar sakta hai."
     }
    }
@@ -963,35 +824,29 @@
   "myth": {
    "claim": {
     "en": "If a private photo leaks, the person in it is to blame for taking it.",
-    "hi": "अगर कोई निजी फ़ोटो लीक हो जाए, तो ग़लती उसी की है जिसने वह फ़ोटो ली थी।",
     "hg": "Agar koi private photo leak ho jaye, toh galti usi ki hai jisne woh photo li thi."
    },
    "fact": {
     "en": "The harm comes from the person who shared it without consent, and that act is the offence. Taking or privately sharing a photo does not give anyone permission to distribute it.",
-    "hi": "नुकसान उस इंसान से होता है जिसने बिना सहमति के फ़ोटो फैलाई, और अपराध वही हरकत है। फ़ोटो लेने या निजी तौर पर किसी को भेजने से किसी को उसे फैलाने की इजाज़त नहीं मिल जाती।",
     "hg": "Harm us insaan se hota hai jisne bina consent ke photo share ki, aur offence wahi harkat hai. Photo lene ya privately kisi ko bhejne se kisi ko usse phailane ki permission nahi mil jaati."
    }
   },
   "takeaways": [
    {
     "en": "Sharing, threatening to share or faking someone's intimate image without consent is sexual abuse.",
-    "hi": "बिना सहमति के किसी की अंतरंग तस्वीर शेयर करना, शेयर करने की धमकी देना या नकली बनाना यौन शोषण है।",
     "hg": "Bina consent ke kisi ki intimate image share karna, share karne ki dhamki dena ya fake banana sexual abuse hai."
    },
    {
     "en": "A deepfake being fake does not make it harmless or unreportable.",
-    "hi": "डीपफेक का नकली होना उसे न तो बेअसर बनाता है, न रिपोर्ट से बाहर।",
     "hg": "Deepfake ka fake hona usse na harmless banata hai, na unreportable."
    },
    {
     "en": "Note the links, report to the platform and cybercrime.gov.in, and do not face it alone.",
-    "hi": "लिंक लिख लो, प्लैटफ़ॉर्म और cybercrime.gov.in पर रिपोर्ट करो, और इसका सामना अकेले मत करो।",
     "hg": "Links note karo, platform aur cybercrime.gov.in pe report karo, aur isse akele face mat karo."
    }
   ],
   "activity": {
    "en": "Search your own name on one platform and check which of your photos are public. Tighten who can view, download or tag your pictures, and remove followers you do not actually know.",
-   "hi": "किसी एक प्लैटफ़ॉर्म पर अपना नाम खोजो और देखो कि तुम्हारी कौन-कौन सी फ़ोटो सबको दिखती हैं। यह सेटिंग कसो कि तुम्हारी तस्वीरें कौन देख, डाउनलोड या टैग कर सकता है, और जिन फ़ॉलोअर्स को तुम असल में नहीं जानते उन्हें हटा दो।",
    "hg": "Kisi ek platform pe apna naam search karo aur dekho ki tumhari kaun-kaun si photos public hain. Yeh setting tight karo ki tumhari pictures kaun dekh, download ya tag kar sakta hai, aur jin followers ko tum actually nahi jaante unhe remove kar do."
   },
   "interactive": "digital_safety",
@@ -1001,35 +856,29 @@
     "type": "mcq",
     "q": {
      "en": "Why is the term 'revenge porn' considered misleading?",
-     "hi": "'रिवेंज पोर्न' शब्द को गुमराह करने वाला क्यों माना जाता है?",
      "hg": "'Revenge porn' term ko misleading kyun maana jaata hai?"
     },
     "options": [
      {
       "en": "It implies the victim deserved it and treats abuse as entertainment",
-      "hi": "इससे लगता है कि पीड़ित इसी लायक था, और शोषण मनोरंजन जैसा लगता है",
       "hg": "Isse lagta hai ki victim isi layak tha, aur abuse entertainment jaisa lagta hai"
      },
      {
       "en": "It applies only to celebrities",
-      "hi": "यह सिर्फ़ मशहूर हस्तियों पर लागू होता है",
       "hg": "Yeh sirf celebrities pe lagu hota hai"
      },
      {
       "en": "It refers only to AI-generated images",
-      "hi": "यह सिर्फ़ AI से बनी तस्वीरों के लिए है",
       "hg": "Yeh sirf AI-generated images ke liye hai"
      },
      {
       "en": "It is a term used only inside courtrooms",
-      "hi": "यह शब्द सिर्फ़ अदालतों में इस्तेमाल होता है",
       "hg": "Yeh term sirf courtrooms mein use hoti hai"
      }
     ],
     "answer": 0,
     "explain": {
      "en": "'Revenge' suggests the victim provoked it, and 'porn' suggests entertainment. 'Image-based sexual abuse' names what it really is.",
-     "hi": "'रिवेंज' से लगता है कि पीड़ित ने उकसाया था, और 'पोर्न' से लगता है कि यह मनोरंजन है। 'तस्वीरों के ज़रिए यौन शोषण' कहना इसकी असलियत बताता है।",
      "hg": "'Revenge' se lagta hai ki victim ne provoke kiya tha, aur 'porn' se lagta hai ki yeh entertainment hai. 'Image-based sexual abuse' bolna iski asliyat batata hai."
     }
    },
@@ -1038,25 +887,21 @@
     "type": "tf",
     "q": {
      "en": "Creating a sexual deepfake of a real person can be reported even though the image is fake.",
-     "hi": "किसी असली इंसान का यौन डीपफेक बनाने की रिपोर्ट की जा सकती है, भले ही तस्वीर नकली हो।",
      "hg": "Kisi real insaan ka sexual deepfake banane ki report ki ja sakti hai, chahe image fake ho."
     },
     "options": [
      {
       "en": "True",
-      "hi": "सही",
       "hg": "Sahi"
      },
      {
       "en": "False",
-      "hi": "ग़लत",
       "hg": "Galat"
      }
     ],
     "answer": 0,
     "explain": {
      "en": "The harm to the real person is real. Platforms and the cybercrime portal accept complaints about morphed and AI-generated intimate images.",
-     "hi": "असली इंसान को होने वाला नुकसान असली है। प्लैटफ़ॉर्म और साइबर क्राइम पोर्टल मॉर्फ़ की हुई और AI से बनी अंतरंग तस्वीरों की शिकायतें लेते हैं।",
      "hg": "Real insaan ko hone wala harm real hai. Platforms aur cybercrime portal morphed aur AI-generated intimate images ki complaints lete hain."
     }
    }
@@ -1068,7 +913,6 @@
   ],
   "warning": {
    "en": "If a leaked or fake image leaves you feeling trapped or thinking about harming yourself, call Tele-MANAS on 14416, or 112 in an emergency. This was done to you, and you can report it and ask for it to be taken down.",
-   "hi": "अगर लीक हुई या नकली तस्वीर की वजह से तुम्हें लगे कि कोई रास्ता नहीं बचा, या ख़ुद को नुकसान पहुँचाने का ख़याल आए, तो टेली-मानस 14416 पर कॉल करो, और आपात स्थिति में 112 पर। यह तुम्हारे साथ किया गया है, और तुम इसकी रिपोर्ट कर सकते हो और इसे हटाने की माँग कर सकते हो।",
    "hg": "Agar leak hui ya fake image ki wajah se tumhe lage ki koi raasta nahi bacha, ya khud ko hurt karne ka khayal aaye, toh Tele-MANAS 14416 pe call karo, aur emergency mein 112 pe. Yeh tumhare saath kiya gaya hai, aur tum isse report kar sakte ho aur isse hatane ki maang kar sakte ho."
   },
   "sensitive": true,
@@ -1095,33 +939,27 @@
   ],
   "title": {
    "en": "Report, Preserve, Support: Your Action Plan",
-   "hi": "रिपोर्ट करो, सबूत बचाओ, साथ दो: तुम्हारा एक्शन प्लान",
    "hg": "Report Karo, Proof Bachao, Saath Do: Tumhara Action Plan"
   },
   "subtitle": {
    "en": "Cyberbullying, Indian reporting routes and helping a friend",
-   "hi": "साइबरबुलिंग, भारत में रिपोर्ट करने के रास्ते और दोस्त की मदद",
    "hg": "Cyberbullying, India ke reporting routes aur dost ki help"
   },
   "hook": {
    "en": "Knowing where to report turns 'I am stuck' into 'I have a plan'. Here is the plan.",
-   "hi": "कहाँ रिपोर्ट करनी है यह पता हो, तो 'मैं फँस गया/गई' बदलकर 'मेरे पास प्लान है' हो जाता है। यह रहा प्लान।",
    "hg": "Kahan report karna hai yeh pata ho, toh 'main phas gaya/gayi' badalkar 'mere paas plan hai' ho jaata hai. Yeh raha plan."
   },
   "objectives": [
    {
     "en": "Identify cyberbullying and respond without making it worse.",
-    "hi": "साइबरबुलिंग को पहचानना और बात बिगाड़े बिना उसका जवाब देना।",
     "hg": "Cyberbullying ko pehchaanna aur baat bigaade bina respond karna."
    },
    {
     "en": "Name the Indian reporting routes and when to use each one.",
-    "hi": "भारत में रिपोर्ट करने के रास्ते बताना और यह कि कौन सा कब काम आता है।",
     "hg": "India ke reporting routes batana aur yeh ki kaun sa kab kaam aata hai."
    },
    {
     "en": "Support a friend who is being threatened online without blaming or exposing them.",
-    "hi": "ऑनलाइन धमकी झेल रहे दोस्त का साथ देना, बिना इल्ज़ाम लगाए और बिना उसकी बात फैलाए।",
     "hg": "Online dhamki jhel rahe dost ko support karna, bina blame kiye aur bina uski baat phailaye."
    }
   ],
@@ -1130,48 +968,40 @@
    {
     "h": {
      "en": "Cyberbullying: more than 'just jokes'",
-     "hi": "साइबरबुलिंग: 'बस मज़ाक' से कहीं ज़्यादा",
      "hg": "Cyberbullying: 'bas mazaak' se kahin zyada"
     },
     "body": {
      "en": "Cyberbullying is repeated cruelty through screens: insulting comments, rumours, meme pages about a classmate, being removed from groups on purpose, fake polls, or sharing someone's number or address so that others harass them. It follows you home and can run all night, which is why it hurts so much. Do not reply in anger, because the reply becomes the next screenshot. Take screenshots of the messages with names and dates, mute or block the accounts, and report them in the app. Then tell a parent, teacher or school counsellor. If you see it happening to someone else, a private 'are you okay?' matters more than you think.",
-     "hi": "साइबरबुलिंग का मतलब है स्क्रीन के ज़रिए बार-बार की जाने वाली बेरहमी: अपमान भरे कमेंट, अफ़वाहें, किसी सहपाठी पर बने मीम पेज, जान-बूझकर ग्रुप से निकालना, फ़र्ज़ी पोल, या किसी का नंबर या पता फैलाना ताकि दूसरे उसे परेशान करें। यह घर तक पीछा करती है और रात भर चल सकती है, इसीलिए इतनी चुभती है। ग़ुस्से में जवाब मत दो, क्योंकि वही जवाब अगला स्क्रीनशॉट बन जाता है। मैसेज के स्क्रीनशॉट नाम और तारीख़ के साथ ले लो, उन अकाउंट को म्यूट या ब्लॉक करो और ऐप में रिपोर्ट करो। फिर माँ-बाप, टीचर या स्कूल काउंसलर को बताओ। अगर यह किसी और के साथ होता दिखे, तो अकेले में पूछा गया 'तुम ठीक हो?' तुम्हारी सोच से कहीं ज़्यादा मायने रखता है।",
      "hg": "Cyberbullying ka matlab hai screen ke through baar-baar ki jaane wali cruelty: insulting comments, rumours, kisi classmate pe bane meme pages, jaan-boojhkar group se nikaalna, fake polls, ya kisi ka number ya address phailana taaki doosre usse harass karein. Yeh ghar tak peechha karti hai aur raat bhar chal sakti hai, isiliye itni chubhti hai. Gusse mein reply mat karo, kyunki wahi reply agla screenshot ban jaata hai. Messages ke screenshots naam aur date ke saath le lo, un accounts ko mute ya block karo aur app mein report karo. Phir parent, teacher ya school counsellor ko batao. Agar yeh kisi aur ke saath hota dikhe, toh akele mein poochha gaya 'tum theek ho?' tumhari soch se kahin zyada matter karta hai."
     }
    },
    {
     "h": {
      "en": "Where to report in India",
-     "hi": "भारत में कहाँ रिपोर्ट करें",
      "hg": "India mein kahan report karein"
     },
     "body": {
      "en": "Each route has a job. In-app reporting gets content and accounts removed. The National Cyber Crime Reporting Portal, cybercrime.gov.in, takes complaints about any online crime and has a separate section for crimes against women and children. The helpline 1930 handles cybercrime complaints and is the fastest route when money has been taken. Child Helpline 1098 is for anyone under 18 who needs help or protection. 112 is for emergencies and immediate danger. Women can call 181. You can also go to the nearest police station or cyber cell; if you are under 18, take a trusted adult. For the emotional weight, Tele-MANAS on 14416 offers free counselling.",
-     "hi": "हर रास्ते का अपना काम है। ऐप के अंदर रिपोर्ट करने से पोस्ट और अकाउंट हटते हैं। राष्ट्रीय साइबर अपराध रिपोर्टिंग पोर्टल, cybercrime.gov.in, किसी भी ऑनलाइन अपराध की शिकायत लेता है और उसमें महिलाओं और बच्चों के ख़िलाफ़ अपराधों का अलग हिस्सा है। हेल्पलाइन 1930 साइबर अपराध की शिकायतें लेती है और जब पैसे चले गए हों तब सबसे तेज़ रास्ता यही है। चाइल्ड हेल्पलाइन 1098 उन सबके लिए है जो 18 से कम उम्र के हैं और जिन्हें मदद या सुरक्षा चाहिए। 112 इमरजेंसी और फ़ौरी ख़तरे के लिए है। महिलाएँ 181 पर कॉल कर सकती हैं। तुम नज़दीकी पुलिस थाने या साइबर सेल भी जा सकते हो; अगर 18 से कम उम्र के हो तो किसी भरोसेमंद बड़े को साथ ले जाओ। मन पर पड़े बोझ के लिए टेली-मानस 14416 पर मुफ़्त काउंसलिंग मिलती है।",
      "hg": "Har route ka apna kaam hai. In-app reporting se content aur accounts hatte hain. National Cyber Crime Reporting Portal, cybercrime.gov.in, kisi bhi online crime ki complaint leta hai aur usme women aur children ke against crimes ka alag section hai. Helpline 1930 cybercrime complaints leti hai aur jab paise chale gaye hon tab sabse fast route yahi hai. Child Helpline 1098 un sabke liye hai jo under 18 hain aur jinhe help ya protection chahiye. 112 emergency aur turant khatre ke liye hai. Women 181 pe call kar sakti hain. Tum nearest police station ya cyber cell bhi ja sakte ho; agar under 18 ho toh kisi trusted adult ko saath le jao. Mann pe pade bojh ke liye Tele-MANAS 14416 pe free counselling milti hai."
     }
    },
    {
     "h": {
      "en": "Evidence: two rules",
-     "hi": "सबूत: दो नियम",
      "hg": "Evidence: do rules"
     },
     "body": {
      "en": "Rule one: preserve the trail. Do not delete chats, do not deactivate your account, and note usernames, profile links, phone numbers, payment IDs, dates and times. Screenshots of threats, abusive comments and fake profiles are useful. Rule two: never save, download, screenshot or forward a sexual image of a person under 18, even to prove what happened. Keeping or passing on such material is itself an offence and spreads the harm. Leave it in the chat and tell the police or the portal where it is. This app will never ask you to upload any photo, and no genuine helpline needs you to send one.",
-     "hi": "पहला नियम: सिलसिला बचाकर रखो। चैट डिलीट मत करो, अकाउंट बंद मत करो, और यूज़रनेम, प्रोफ़ाइल लिंक, फ़ोन नंबर, पेमेंट ID, तारीख़ और समय लिख लो। धमकियों, गाली-गलौज वाले कमेंट और फ़र्ज़ी प्रोफ़ाइल के स्क्रीनशॉट काम के होते हैं। दूसरा नियम: 18 से कम उम्र के किसी इंसान की यौन तस्वीर को कभी सेव, डाउनलोड, स्क्रीनशॉट या फ़ॉरवर्ड मत करो, यह साबित करने के लिए भी नहीं कि क्या हुआ। ऐसी सामग्री रखना या आगे भेजना अपने आप में अपराध है और नुकसान को फैलाता है। उसे चैट में ही रहने दो और पुलिस या पोर्टल को बता दो कि वह कहाँ है। यह ऐप तुमसे कभी कोई फ़ोटो अपलोड करने को नहीं कहेगा, और किसी भी असली हेल्पलाइन को तुमसे फ़ोटो मँगवाने की ज़रूरत नहीं होती।",
      "hg": "Rule one: trail bachakar rakho. Chats delete mat karo, account deactivate mat karo, aur usernames, profile links, phone numbers, payment IDs, dates aur time note karo. Dhamkiyon, abusive comments aur fake profiles ke screenshots useful hote hain. Rule two: under-18 kisi insaan ki sexual image ko kabhi save, download, screenshot ya forward mat karo, yeh prove karne ke liye bhi nahi ki kya hua. Aisa material rakhna ya aage bhejna apne aap mein offence hai aur harm ko phailata hai. Usse chat mein hi rehne do aur police ya portal ko bata do ki woh kahan hai. Yeh app tumse kabhi koi photo upload karne ko nahi bolega, aur kisi bhi genuine helpline ko tumse photo mangwane ki zaroorat nahi hoti."
     }
    },
    {
     "h": {
      "en": "When a friend is the one being threatened",
-     "hi": "जब धमकी तुम्हारे दोस्त को मिल रही हो",
      "hg": "Jab dhamki tumhare dost ko mil rahi ho"
     },
     "body": {
      "en": "Start with 'I believe you' and 'This is not your fault'. Do not ask why they sent it, and do not ask to see the image. Do not message the blackmailer or plan revenge, since that can escalate things and damage the evidence. Help them stop replying, keep the chat, and choose an adult to tell; offer to sit beside them while they do it. If they are under 18, be honest that a teacher, doctor or counsellor may have to report it and cannot promise secrecy. If your friend talks about self-harm, call 112 or 14416 and stay with them.",
-     "hi": "शुरुआत 'मुझे तुम पर यक़ीन है' और 'इसमें तुम्हारी ग़लती नहीं है' से करो। यह मत पूछो कि उन्होंने भेजा क्यों, और तस्वीर दिखाने को मत कहो। ब्लैकमेलर को मैसेज मत करो और बदले की योजना मत बनाओ, क्योंकि इससे बात बिगड़ सकती है और सबूत को नुकसान पहुँच सकता है। जवाब देना बंद करने, चैट बचाकर रखने और बताने के लिए कोई बड़ा चुनने में उनकी मदद करो; कहो कि जब वे बताएँगे तब तुम साथ बैठोगे। अगर वे 18 से कम उम्र के हैं, तो ईमानदारी से बताओ कि टीचर, डॉक्टर या काउंसलर को रिपोर्ट करनी पड़ सकती है और वे राज़ रखने का वादा नहीं कर सकते। अगर तुम्हारा दोस्त ख़ुद को नुकसान पहुँचाने की बात करे, तो 112 या 14416 पर कॉल करो और उसके साथ रहो।",
      "hg": "Shuruaat 'mujhe tum pe yakeen hai' aur 'isme tumhari galti nahi hai' se karo. Yeh mat poochho ki unhone bheja kyun, aur image dikhane ko mat bolo. Blackmailer ko message mat karo aur revenge plan mat karo, kyunki isse baat bigad sakti hai aur evidence ko nuksaan ho sakta hai. Reply band karne, chat bachakar rakhne aur batane ke liye koi adult choose karne mein unki help karo; bolo ki jab woh batayenge tab tum saath baithoge. Agar woh under 18 hain, toh honestly batao ki teacher, doctor ya counsellor ko report karna pad sakta hai aur woh secrecy ka promise nahi kar sakte. Agar tumhara dost self-harm ki baat kare, toh 112 ya 14416 pe call karo aur uske saath raho."
     }
    }
@@ -1179,35 +1009,29 @@
   "myth": {
    "claim": {
     "en": "Reporting online abuse just makes things worse, so it is better to stay quiet.",
-    "hi": "ऑनलाइन शोषण की रिपोर्ट करने से बात और बिगड़ती है, इसलिए चुप रहना ही बेहतर है।",
     "hg": "Online abuse report karne se baat aur bigadti hai, isliye chup rehna hi better hai."
    },
    "fact": {
     "en": "Silence is what abusers rely on. Reporting gets content removed, accounts blocked and, where needed, the police involved, and telling a trusted adult means you no longer carry it alone.",
-    "hi": "शोषण करने वाले चुप्पी पर ही टिके रहते हैं। रिपोर्ट करने से पोस्ट हटती हैं, अकाउंट ब्लॉक होते हैं और ज़रूरत पड़ने पर पुलिस जुड़ती है, और किसी भरोसेमंद बड़े को बताने के बाद तुम यह बोझ अकेले नहीं ढोते।",
     "hg": "Abusers chuppi pe hi depend karte hain. Report karne se content hatta hai, accounts block hote hain aur zaroorat padne pe police involve hoti hai, aur kisi trusted adult ko batane ke baad tum yeh bojh akele nahi uthate."
    }
   },
   "takeaways": [
    {
     "en": "Do not reply to bullies in anger; screenshot, block, report and tell someone.",
-    "hi": "बुली करने वालों को ग़ुस्से में जवाब मत दो; स्क्रीनशॉट लो, ब्लॉक करो, रिपोर्ट करो और किसी को बताओ।",
     "hg": "Bullies ko gusse mein reply mat karo; screenshot lo, block karo, report karo aur kisi ko batao."
    },
    {
     "en": "Know your routes: the app, cybercrime.gov.in, 1930, 1098, 112, 181 and 14416.",
-    "hi": "अपने रास्ते याद रखो: ऐप, cybercrime.gov.in, 1930, 1098, 112, 181 और 14416।",
     "hg": "Apne routes yaad rakho: app, cybercrime.gov.in, 1930, 1098, 112, 181 aur 14416."
    },
    {
     "en": "Keep the trail, never copy sexual images of a minor, and meet a friend's disclosure with belief.",
-    "hi": "सिलसिला बचाकर रखो, नाबालिग की यौन तस्वीरों की कॉपी कभी मत बनाओ, और दोस्त कुछ बताए तो उस पर यक़ीन करो।",
     "hg": "Trail bachakar rakho, minor ki sexual images kabhi copy mat karo, aur dost kuch bataye toh us pe yakeen karo."
    }
   ],
   "activity": {
    "en": "Open the reporting menu of one app you use and find, without submitting anything, where the options for harassment, impersonation and intimate images are. Knowing the path now saves time on a bad day.",
-   "hi": "अपने किसी एक ऐप का रिपोर्ट वाला मेन्यू खोलो और बिना कुछ सबमिट किए देखो कि उत्पीड़न, नकली पहचान और अंतरंग तस्वीरों वाले विकल्प कहाँ हैं। रास्ता अभी पता हो, तो बुरे दिन पर समय बचता है।",
    "hg": "Apne kisi ek app ka reporting menu kholo aur bina kuch submit kiye dekho ki harassment, impersonation aur intimate images wale options kahan hain. Raasta abhi pata ho, toh bure din pe time bachta hai."
   },
   "interactive": "support_circle",
@@ -1217,35 +1041,29 @@
     "type": "mcq",
     "q": {
      "en": "Which helpline is meant for a person under 18 who needs help or protection?",
-     "hi": "कौन सी हेल्पलाइन 18 से कम उम्र के उस इंसान के लिए है जिसे मदद या सुरक्षा चाहिए?",
      "hg": "Kaun si helpline under-18 us insaan ke liye hai jisse help ya protection chahiye?"
     },
     "options": [
      {
       "en": "1098",
-      "hi": "नंबर 1098",
       "hg": "1098"
      },
      {
       "en": "1930",
-      "hi": "नंबर 1930",
       "hg": "1930"
      },
      {
       "en": "181",
-      "hi": "नंबर 181",
       "hg": "181"
      },
      {
       "en": "14416",
-      "hi": "नंबर 14416",
       "hg": "14416"
      }
     ],
     "answer": 0,
     "explain": {
      "en": "1098 is the Child Helpline. 1930 is for cybercrime, 181 is the Women Helpline and 14416 is Tele-MANAS for mental health.",
-     "hi": "1098 चाइल्ड हेल्पलाइन है। 1930 साइबर अपराध के लिए है, 181 महिला हेल्पलाइन है और 14416 मानसिक स्वास्थ्य के लिए टेली-मानस है।",
      "hg": "1098 Child Helpline hai. 1930 cybercrime ke liye hai, 181 Women Helpline hai aur 14416 mental health ke liye Tele-MANAS hai."
     }
    },
@@ -1254,35 +1072,29 @@
     "type": "scenario",
     "q": {
      "en": "A friend tells you someone is threatening to leak her photo. What is the most helpful first response?",
-     "hi": "एक दोस्त बताती है कि कोई उसकी फ़ोटो लीक करने की धमकी दे रहा है। सबसे मददगार पहला जवाब क्या है?",
      "hg": "Ek dost batati hai ki koi uski photo leak karne ki dhamki de raha hai. Sabse helpful pehla response kya hai?"
     },
     "options": [
      {
       "en": "Ask her to show you the photo so you understand",
-      "hi": "उससे कहना कि फ़ोटो दिखाए ताकि तुम समझ सको",
       "hg": "Usse bolna ki photo dikhaye taaki tum samajh sako"
      },
      {
       "en": "Tell her she should not have sent it",
-      "hi": "उससे कहना कि उसे भेजनी ही नहीं चाहिए थी",
       "hg": "Usse bolna ki usse bhejni hi nahi chahiye thi"
      },
      {
       "en": "Say you believe her and help her tell a trusted adult",
-      "hi": "कहना कि तुम्हें उस पर यक़ीन है और किसी भरोसेमंद बड़े को बताने में उसकी मदद करना",
       "hg": "Bolna ki tumhe us pe yakeen hai aur kisi trusted adult ko batane mein uski help karna"
      },
      {
       "en": "Message the blackmailer and threaten him back",
-      "hi": "ब्लैकमेलर को मैसेज करके उल्टा धमकाना",
       "hg": "Blackmailer ko message karke ulta dhamkana"
      }
     ],
     "answer": 2,
     "explain": {
      "en": "Belief and practical help keep her safe. Blame, viewing the image or confronting the blackmailer all add risk.",
-     "hi": "यक़ीन और ठोस मदद उसे सुरक्षित रखते हैं। इल्ज़ाम लगाना, तस्वीर देखना या ब्लैकमेलर से भिड़ना, तीनों ख़तरा बढ़ाते हैं।",
      "hg": "Yakeen aur practical help usse safe rakhte hain. Blame karna, image dekhna ya blackmailer se bhidna, teeno risk badhate hain."
     }
    }
@@ -1295,7 +1107,6 @@
   ],
   "warning": {
    "en": "If you or a friend are in immediate danger or thinking about self-harm, call 112 now. Tele-MANAS on 14416 offers free mental health support.",
-   "hi": "अगर तुम या तुम्हारा कोई दोस्त फ़ौरी ख़तरे में है या ख़ुद को नुकसान पहुँचाने की सोच रहा है, तो अभी 112 पर कॉल करो। टेली-मानस 14416 पर मानसिक स्वास्थ्य के लिए मुफ़्त मदद मिलती है।",
    "hg": "Agar tum ya tumhara koi dost turant khatre mein hai ya self-harm ke baare mein soch raha hai, toh abhi 112 pe call karo. Tele-MANAS 14416 pe free mental health support milta hai."
   },
   "sensitive": true,

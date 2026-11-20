@@ -1,7 +1,20 @@
+import java.io.FileInputStream
+import java.util.Properties
+
 plugins {
     id("com.android.application")
     // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
     id("dev.flutter.flutter-gradle-plugin")
+}
+
+// Upload key for Google Play. It lives outside the repository; the path can be
+// overridden with UNFILTERED_SIGNING=/path/to/key.properties. Never commit it.
+val signingFile = file(
+    System.getenv("UNFILTERED_SIGNING")
+        ?: "${System.getProperty("user.home")}/.config/unfiltered-signing/key.properties",
+)
+val signing = Properties().apply {
+    if (signingFile.exists()) FileInputStream(signingFile).use { load(it) }
 }
 
 android {
@@ -24,12 +37,22 @@ android {
         versionName = flutter.versionName
     }
 
+    signingConfigs {
+        if (signingFile.exists()) {
+            create("upload") {
+                keyAlias = signing.getProperty("keyAlias")
+                keyPassword = signing.getProperty("keyPassword")
+                storeFile = file(signing.getProperty("storeFile"))
+                storePassword = signing.getProperty("storePassword")
+            }
+        }
+    }
+
     buildTypes {
         release {
-            // NOT a production signature: the release APK is signed with the local debug
-            // key so it can be installed for evaluation. See docs/PLAY_STORE_PACK.md for
-            // how to configure a real upload key (never commit keystores or passwords).
-            signingConfig = signingConfigs.getByName("debug")
+            // A release must carry the upload key. Without it the build stops instead of
+            // quietly signing with the debug key (Play rejects debug-signed bundles).
+            signingConfig = signingConfigs.findByName("upload")
         }
     }
 }
@@ -42,4 +65,13 @@ kotlin {
 
 flutter {
     source = "../.."
+}
+
+// Stop any release build that would otherwise go out unsigned or debug-signed.
+gradle.taskGraph.whenReady {
+    if (!signingFile.exists() && allTasks.any { it.name.contains("Release") }) {
+        throw GradleException(
+            "Release signing key not found at $signingFile. See docs/PLAY_STORE_PACK.md section 7.",
+        )
+    }
 }

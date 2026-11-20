@@ -4,7 +4,6 @@
   "type": "steps",
   "title": {
    "en": "Got a crush? Here is what to do",
-   "hi": "क्रश है? ऐसे संभालिए",
    "hg": "Crush hai? Aise handle karo"
   },
   "items": [
@@ -12,12 +11,10 @@
     "icon": "heart",
     "label": {
      "en": "Notice the feeling",
-     "hi": "एहसास को पहचानिए",
      "hg": "Feeling ko notice karo"
     },
     "text": {
      "en": "A crush is a normal feeling that comes with growing up. It is a feeling, not a decision.",
-     "hi": "क्रश बड़े होने के साथ आने वाला एक सामान्य एहसास है। यह एक भावना है, कोई फ़ैसला नहीं।",
      "hg": "Crush bade hone ke saath aane wali ek normal feeling hai. Yeh ek feeling hai, decision nahi."
     }
    },
@@ -25,12 +22,10 @@
     "icon": "lock",
     "label": {
      "en": "Choose whom to tell",
-     "hi": "किसे बताना है, आप चुनिए",
      "hg": "Kisko batana hai, khud choose karo"
     },
     "text": {
      "en": "A close friend or trusted adult is safer than a class group chat. Keep friends' crushes private too.",
-     "hi": "क्लास के ग्रुप चैट के बजाय किसी पक्के दोस्त या भरोसेमंद बड़े को बताना ज़्यादा सुरक्षित है। दोस्तों के क्रश की बात भी अपने तक रखिए।",
      "hg": "Class group chat ke bajaye kisi close friend ya trusted adult ko batana zyada safe hai. Doston ke crush ki baat bhi apne tak rakho."
     }
    },
@@ -38,12 +33,10 @@
     "icon": "stop",
     "label": {
      "en": "Respect their space",
-     "hi": "उनकी जगह का सम्मान कीजिए",
      "hg": "Unki space respect karo"
     },
     "text": {
      "en": "Staring, following or sending message after message is not sweet. It makes the other person uncomfortable.",
-     "hi": "घूरना, पीछा करना या एक के बाद एक मैसेज भेजना प्यारा नहीं है। इससे सामने वाला असहज महसूस करता है।",
      "hg": "Ghoorna, peecha karna ya message pe message bhejna sweet nahi hai. Isse saamne wala uncomfortable feel karta hai."
     }
    },
@@ -51,12 +44,10 @@
     "icon": "heart_broken",
     "label": {
      "en": "Accept a no",
-     "hi": "'ना' को मान लीजिए",
      "hg": "'No' ko accept karo"
     },
     "text": {
      "en": "If they do not like you back, it hurts for a while, and that is okay.",
-     "hi": "अगर वे आपको उस तरह पसंद नहीं करते, तो कुछ समय दुख होता है, और यह ठीक है।",
      "hg": "Agar woh aapko us tarah pasand nahi karte, toh kuch time bura lagta hai, aur yeh okay hai."
     }
    },
@@ -64,12 +55,10 @@
     "icon": "warning",
     "label": {
      "en": "Spot the warning sign",
-     "hi": "ख़तरे का संकेत पहचानिए",
      "hg": "Warning sign pehchano"
     },
     "text": {
      "en": "An older person with 'special feelings', gifts or secret chats? Tell a trusted adult or call 1098.",
-     "hi": "आपसे काफ़ी बड़ा कोई 'ख़ास भावनाएँ' जताए, तोहफ़े दे या चैट छिपाने को कहे? किसी भरोसेमंद बड़े को बताइए या 1098 पर कॉल कीजिए।",
      "hg": "Aapse kaafi bada koi 'special feelings' jataye, gifts de ya chats secret rakhne ko bole? Kisi trusted adult ko batao ya 1098 pe call karo."
     }
    }
@@ -80,7 +69,6 @@
   "type": "grid",
   "title": {
    "en": "Normal body surprises in puberty",
-   "hi": "यौवन में शरीर के सामान्य बदलाव",
    "hg": "Puberty ke normal body surprises"
   },
   "items": [
@@ -88,12 +76,10 @@
     "icon": "body",
     "label": {
      "en": "Erections",
-     "hi": "इरेक्शन",
      "hg": "Erections"
     },
     "text": {
      "en": "Extra blood fills the spongy tissue of the penis. It happens by itself and goes away in minutes.",
-     "hi": "लिंग (penis) के स्पंजी ऊतक में ज़्यादा ख़ून भर जाता है। यह अपने-आप होता है और कुछ मिनट में चला जाता है।",
      "hg": "Penis ke spongy tissue mein extra blood bhar jaata hai. Yeh apne aap hota hai aur kuch minute mein chala jaata hai."
     }
    },
@@ -101,12 +87,10 @@
     "icon": "moon",
     "label": {
      "en": "Wet dreams",
-     "hi": "वेट ड्रीम",
      "hg": "Wet dreams"
     },
     "text": {
      "en": "Semen can come out during sleep. It is not urine, not an illness and not a loss of strength.",
-     "hi": "नींद में वीर्य (semen) बाहर आ सकता है। यह पेशाब नहीं है, बीमारी नहीं है और इससे ताक़त नहीं घटती।",
      "hg": "Neend mein semen bahar aa sakta hai. Yeh urine nahi hai, bimari nahi hai aur isse taakat kam nahi hoti."
     }
    },
@@ -114,12 +98,10 @@
     "icon": "drop",
     "label": {
      "en": "Discharge",
-     "hi": "स्राव (discharge)",
      "hg": "Discharge"
     },
     "text": {
      "en": "Clear or white fluid in the underwear before the first period keeps the vagina clean and healthy.",
-     "hi": "पहले पीरियड से पहले अंडरवियर पर दिखने वाला साफ़ या सफ़ेद तरल योनि (vagina) को साफ़ और स्वस्थ रखता है।",
      "hg": "First period se pehle underwear pe dikhne wala clear ya white fluid vagina ko saaf aur healthy rakhta hai."
     }
    },
@@ -127,12 +109,10 @@
     "icon": "wash",
     "label": {
      "en": "No-panic plan",
-     "hi": "घबराना नहीं",
      "hg": "No-panic plan"
     },
     "text": {
      "en": "After a wet dream, just wash, change your clothes and put the sheet for washing.",
-     "hi": "वेट ड्रीम के बाद बस धो लीजिए, कपड़े बदल लीजिए और चादर धुलने डाल दीजिए।",
      "hg": "Wet dream ke baad bas wash karo, kapde change karo aur bedsheet dhulne daal do."
     }
    },
@@ -140,12 +120,10 @@
     "icon": "lock",
     "label": {
      "en": "Privacy for everyone",
-     "hi": "सबकी निजता",
      "hg": "Sabki privacy"
     },
     "text": {
      "en": "Your private parts belong to you. Others deserve the same: no peeking, no teasing, no body comments.",
-     "hi": "आपके निजी अंग आपके अपने हैं। दूसरों का भी यही हक़ है: न झाँकना, न चिढ़ाना, न शरीर पर टिप्पणी।",
      "hg": "Aapke private parts aapke apne hain. Doosron ka bhi yahi haq hai: na jhaankna, na tease karna, na body pe comment."
     }
    },
@@ -153,12 +131,10 @@
     "icon": "ask",
     "label": {
      "en": "Questions are okay",
-     "hi": "सवाल पूछना ठीक है",
      "hg": "Sawaal poochna okay hai"
     },
     "text": {
      "en": "Ask a parent, a doctor or a trusted teacher about any body change.",
-     "hi": "शरीर के किसी भी बदलाव के बारे में माता-पिता, डॉक्टर या किसी भरोसेमंद टीचर से पूछिए।",
      "hg": "Body ke kisi bhi change ke baare mein parents, doctor ya kisi trusted teacher se poocho."
     }
    }
@@ -169,7 +145,6 @@
   "type": "grid",
   "title": {
    "en": "Attraction, decoded",
-   "hi": "आकर्षण को समझिए",
    "hg": "Attraction, decoded"
   },
   "items": [
@@ -177,12 +152,10 @@
     "icon": "hormone",
     "label": {
      "en": "Sexual feelings",
-     "hi": "यौन भावनाएँ",
      "hg": "Sexual feelings"
     },
     "text": {
      "en": "Puberty hormones bring attraction, sexual thoughts and curiosity. People of every gender have them.",
-     "hi": "यौवन के हार्मोन आकर्षण, यौन विचार और जिज्ञासा लाते हैं। हर जेंडर के लोगों में ये होते हैं।",
      "hg": "Puberty hormones attraction, sexual thoughts aur curiosity laate hain. Har gender ke logon mein yeh hote hain."
     }
    },
@@ -190,12 +163,10 @@
     "icon": "heart",
     "label": {
      "en": "Romantic attraction",
-     "hi": "रोमांटिक आकर्षण",
      "hg": "Romantic attraction"
     },
     "text": {
      "en": "Wanting emotional closeness with someone: talking for hours, missing them.",
-     "hi": "किसी के साथ भावनात्मक नज़दीकी चाहना: घंटों बातें करना, उसकी याद आना।",
      "hg": "Kisi ke saath emotional closeness chahna: ghanton baatein karna, uski yaad aana."
     }
    },
@@ -203,12 +174,10 @@
     "icon": "body",
     "label": {
      "en": "Sexual attraction",
-     "hi": "यौन आकर्षण",
      "hg": "Sexual attraction"
     },
     "text": {
      "en": "A physical pull towards someone. It may or may not come with romantic feelings.",
-     "hi": "किसी की ओर शारीरिक खिंचाव। यह रोमांटिक भावनाओं के साथ आ भी सकता है और नहीं भी।",
      "hg": "Kisi ki taraf physical khinchaav. Yeh romantic feelings ke saath aa bhi sakta hai, aur nahi bhi."
     }
    },
@@ -216,12 +185,10 @@
     "icon": "diversity",
     "label": {
      "en": "Asexual",
-     "hi": "एसेक्शुअल (asexual)",
      "hg": "Asexual"
     },
     "text": {
      "en": "Feeling little or no sexual attraction to anyone is part of normal human variation too.",
-     "hi": "किसी के लिए भी यौन आकर्षण बहुत कम या बिल्कुल न होना भी इंसानों की सामान्य विविधता का हिस्सा है।",
      "hg": "Kisi ke liye bhi sexual attraction bahut kam ya bilkul na hona bhi normal human variation ka part hai."
     }
    },
@@ -229,12 +196,10 @@
     "icon": "compass",
     "label": {
      "en": "Sexual orientation",
-     "hi": "यौन रुझान",
      "hg": "Sexual orientation"
     },
     "text": {
      "en": "Who you are attracted to over time. Not chosen, not caused by parenting, not an illness.",
-     "hi": "समय के साथ आप किसकी ओर आकर्षित होते हैं। यह चुना नहीं जाता, परवरिश से नहीं बनता और कोई बीमारी नहीं है।",
      "hg": "Time ke saath aap kiski taraf attract hote ho. Yeh choose nahi hota, parenting se nahi banta aur koi bimari nahi hai."
     }
    },
@@ -242,12 +207,10 @@
     "icon": "shield",
     "label": {
      "en": "Feelings are not instructions",
-     "hi": "भावना कोई हुक्म नहीं",
      "hg": "Feelings instructions nahi hain"
     },
     "text": {
      "en": "Feelings need no permission; actions need consent. POCSO treats any sexual act with someone under 18 as an offence. Waiting is valid.",
-     "hi": "भावनाओं के लिए इजाज़त नहीं चाहिए; किसी काम के लिए सहमति चाहिए। पॉक्सो के तहत 18 से कम उम्र के किसी के साथ कोई भी यौन कृत्य अपराध है। इंतज़ार करना सही विकल्प है।",
      "hg": "Feelings ke liye permission nahi chahiye; actions ke liye consent chahiye. POCSO ke under 18 se kam umar ke kisi ke saath koi bhi sexual act offence hai. Wait karna valid hai."
     }
    }
@@ -258,13 +221,11 @@
   "type": "compare",
   "title": {
    "en": "Masturbation: myth vs fact",
-   "hi": "हस्तमैथुन: मिथक बनाम तथ्य",
    "hg": "Masturbation: myth vs fact"
   },
   "left": {
    "title": {
     "en": "Myth",
-    "hi": "मिथक",
     "hg": "Myth"
    },
    "tone": "bad",
@@ -272,22 +233,18 @@
    "points": [
     {
      "en": "It causes weakness, acne, hair loss or infertility.",
-     "hi": "इससे कमज़ोरी, मुँहासे, बाल झड़ना या बाँझपन होता है।",
      "hg": "Isse weakness, acne, hair fall ya infertility hoti hai."
     },
     {
      "en": "Losing semen drains the body's strength.",
-     "hi": "वीर्य निकलने से शरीर की ताक़त ख़त्म होती है।",
      "hg": "Semen nikalne se body ki taakat khatam hoti hai."
     },
     {
      "en": "The body has a fixed stock of sperm that can run out.",
-     "hi": "शरीर में शुक्राणुओं का एक तय भंडार होता है जो ख़त्म हो सकता है।",
      "hg": "Body mein sperm ka ek fixed stock hota hai jo khatam ho sakta hai."
     },
     {
      "en": "Tonics and powders can cure 'semen loss'.",
-     "hi": "टॉनिक और चूर्ण 'वीर्य की कमी' ठीक कर देते हैं।",
      "hg": "Tonics aur powders 'semen loss' theek kar dete hain."
     }
    ]
@@ -295,7 +252,6 @@
   "right": {
    "title": {
     "en": "Fact",
-    "hi": "तथ्य",
     "hg": "Fact"
    },
    "tone": "good",
@@ -303,22 +259,18 @@
    "points": [
     {
      "en": "It is common and not physically harmful, and not doing it is just as normal.",
-     "hi": "यह आम है और शरीर के लिए नुक़सानदेह नहीं, और इसे न करना भी उतना ही सामान्य है।",
      "hg": "Yeh common hai aur body ke liye harmful nahi, aur ise na karna bhi utna hi normal hai."
     },
     {
      "en": "Semen is mostly water and is made continuously, so nothing important is lost.",
-     "hi": "वीर्य ज़्यादातर पानी है और लगातार बनता रहता है, इसलिए कुछ ज़रूरी नहीं खोता।",
      "hg": "Semen mostly paani hai aur lagataar banta rehta hai, isliye kuch important loss nahi hota."
     },
     {
      "en": "From puberty, the testes make millions of new sperm every day.",
-     "hi": "यौवन से अंडकोष (testes) हर दिन लाखों-करोड़ों नए शुक्राणु बनाते हैं।",
      "hg": "Puberty se testes har din millions naye sperm banate hain."
     },
     {
      "en": "Worry causes the symptoms of dhat anxiety. A qualified doctor helps; tonics do not.",
-     "hi": "धात से जुड़े लक्षण असल में चिंता से होते हैं। योग्य डॉक्टर मदद करते हैं, टॉनिक नहीं।",
      "hg": "Dhat anxiety ke symptoms asal mein worry se hote hain. Qualified doctor help karte hain, tonics nahi."
     }
    ]
@@ -329,7 +281,6 @@
   "type": "steps",
   "title": {
    "en": "Four questions before you decide",
-   "hi": "फ़ैसले से पहले चार सवाल",
    "hg": "Decide karne se pehle 4 sawaal"
   },
   "items": [
@@ -337,12 +288,10 @@
     "icon": "law",
     "label": {
      "en": "Is it legal?",
-     "hi": "क्या यह क़ानूनी है?",
      "hg": "Kya yeh legal hai?"
     },
     "text": {
      "en": "Under POCSO, any sexual act with someone under 18 is an offence, even if both agree.",
-     "hi": "पॉक्सो के तहत 18 से कम उम्र के किसी के साथ कोई भी यौन कृत्य अपराध है, चाहे दोनों राज़ी हों।",
      "hg": "POCSO ke under 18 se kam umar ke kisi ke saath koi bhi sexual act offence hai, chahe dono agree karein."
     }
    },
@@ -350,12 +299,10 @@
     "icon": "handshake",
     "label": {
      "en": "Do both truly want it?",
-     "hi": "क्या दोनों सच में चाहते हैं?",
      "hg": "Kya dono sach mein chahte hain?"
     },
     "text": {
      "en": "No pressure, no guilt-tripping and no fear of a breakup behind the yes.",
-     "hi": "'हाँ' के पीछे न दबाव हो, न अपराध-बोध का बोझ, न ब्रेकअप का डर।",
      "hg": "'Yes' ke peeche na pressure ho, na guilt-trip, na breakup ka darr."
     }
    },
@@ -363,12 +310,10 @@
     "icon": "warning",
     "label": {
      "en": "Do I know the risks?",
-     "hi": "क्या मुझे जोखिम पता हैं?",
      "hg": "Kya mujhe risks pata hain?"
     },
     "text": {
      "en": "Understand the risks of pregnancy and infections before deciding anything.",
-     "hi": "कुछ भी तय करने से पहले गर्भ और संक्रमण के जोखिम समझिए।",
      "hg": "Kuch bhi decide karne se pehle pregnancy aur infections ke risks samjho."
     }
    },
@@ -376,12 +321,10 @@
     "icon": "date",
     "label": {
      "en": "Will I be okay tomorrow?",
-     "hi": "क्या कल भी यह ठीक लगेगा?",
      "hg": "Kya kal bhi yeh theek lagega?"
     },
     "text": {
      "en": "If the answer is not a sure yes, slow down and give yourself time.",
-     "hi": "अगर जवाब पक्का 'हाँ' नहीं है, तो थोड़ा रुकिए और ख़ुद को समय दीजिए।",
      "hg": "Agar answer pakka 'yes' nahi hai, toh slow down karo aur khud ko time do."
     }
    },
@@ -389,12 +332,10 @@
     "icon": "hourglass",
     "label": {
      "en": "Waiting is always valid",
-     "hi": "इंतज़ार हमेशा सही है",
      "hg": "Wait karna hamesha valid hai"
     },
     "text": {
      "en": "Choosing to wait is common and sensible. Pressured? Talk to a counsellor, an AFHC or Tele-MANAS 14416.",
-     "hi": "इंतज़ार करना आम और समझदारी भरा फ़ैसला है। दबाव लगे तो काउंसलर, AFHC या टेली-मानस 14416 से बात कीजिए।",
      "hg": "Wait karna common aur samajhdaari wala choice hai. Pressure lage toh counsellor, AFHC ya Tele-MANAS 14416 se baat karo."
     }
    }
@@ -405,7 +346,6 @@
   "type": "steps",
   "title": {
    "en": "The sexual response cycle",
-   "hi": "यौन प्रतिक्रिया का चक्र",
    "hg": "Sexual response cycle"
   },
   "items": [
@@ -413,12 +353,10 @@
     "icon": "brain",
     "label": {
      "en": "Desire",
-     "hi": "इच्छा",
      "hg": "Desire"
     },
     "text": {
      "en": "Interest in sexual activity. It may arise on its own or only with closeness and touch; both are normal.",
-     "hi": "यौन गतिविधि में रुचि। यह अपने-आप जाग सकती है या सिर्फ़ नज़दीकी और स्पर्श से; दोनों सामान्य हैं।",
      "hg": "Sexual activity mein interest. Yeh apne aap jaag sakti hai ya sirf closeness aur touch se; dono normal hain."
     }
    },
@@ -426,12 +364,10 @@
     "icon": "heart",
     "label": {
      "en": "Arousal",
-     "hi": "उत्तेजना",
      "hg": "Arousal"
     },
     "text": {
      "en": "Heart rate rises and blood flow to the genitals increases. It can be a reflex, so it never proves consent.",
-     "hi": "दिल की धड़कन बढ़ती है और जननांगों में ख़ून का बहाव बढ़ता है। यह रिफ़्लेक्स भी हो सकता है, इसलिए यह कभी सहमति का सबूत नहीं।",
      "hg": "Heart rate badhta hai aur genitals mein blood flow badhta hai. Yeh reflex bhi ho sakta hai, isliye yeh kabhi consent ka proof nahi."
     }
    },
@@ -439,12 +375,10 @@
     "icon": "up",
     "label": {
      "en": "Orgasm",
-     "hi": "ऑर्गैज़्म",
      "hg": "Orgasm"
     },
     "text": {
      "en": "A brief peak with pelvic muscle contractions and a release of tension. Not reaching it every time is common.",
-     "hi": "कुछ पल का चरम, जिसमें पेड़ू की मांसपेशियाँ सिकुड़ती हैं और तनाव छूट जाता है। हर बार यहाँ तक न पहुँचना आम बात है।",
      "hg": "Kuch pal ka peak, jisme pelvic muscles contract hoti hain aur tension release hota hai. Har baar wahan tak na pahunchna common hai."
     }
    },
@@ -452,12 +386,10 @@
     "icon": "calm",
     "label": {
      "en": "Resolution",
-     "hi": "शांति (resolution)",
      "hg": "Resolution"
     },
     "text": {
      "en": "Afterwards, people with a penis have a refractory period when another erection is unlikely; it lengthens with age.",
-     "hi": "इसके बाद, जिन लोगों में लिंग होता है उनमें एक विराम-काल (refractory period) आता है जब दोबारा इरेक्शन की संभावना कम रहती है; उम्र के साथ यह लंबा होता है।",
      "hg": "Iske baad, penis wale logon mein ek refractory period aata hai jab dobara erection ke chances kam rehte hain; age ke saath yeh lamba hota hai."
     }
    },
@@ -465,12 +397,10 @@
     "icon": "doctor",
     "label": {
      "en": "When to see a doctor",
-     "hi": "डॉक्टर से कब मिलें",
      "hg": "Doctor se kab milein"
     },
     "text": {
      "en": "Pain, or a difficulty that lasts months or causes distress, deserves a qualified doctor, not a tonic.",
-     "hi": "दर्द, या ऐसी दिक़्क़त जो महीनों रहे या परेशान करे, उसके लिए योग्य डॉक्टर चाहिए, टॉनिक नहीं।",
      "hg": "Pain, ya aisi dikkat jo mahino rahe ya pareshan kare, uske liye qualified doctor chahiye, tonic nahi."
     }
    }
@@ -481,13 +411,11 @@
   "type": "compare",
   "title": {
    "en": "What feeds the pressure, what eases it",
-   "hi": "दबाव किससे बढ़ता है, किससे घटता है",
    "hg": "Pressure kis se badhta hai, kis se kam hota hai"
   },
   "left": {
    "title": {
     "en": "Feeds the pressure",
-    "hi": "दबाव बढ़ाता है",
     "hg": "Pressure badhata hai"
    },
    "tone": "bad",
@@ -495,22 +423,18 @@
    "points": [
     {
      "en": "Faking orgasm, so nothing ever changes",
-     "hi": "ऑर्गैज़्म का दिखावा करना, जिससे कभी कुछ नहीं बदलता",
      "hg": "Orgasm fake karna, jisse kabhi kuch nahi badalta"
     },
     {
      "en": "Measuring manhood by erection, size and duration",
-     "hi": "मर्दानगी को इरेक्शन, साइज़ और समय से नापना",
      "hg": "Mardaangi ko erection, size aur duration se naapna"
     },
     {
      "en": "Comparing bodies and stamina with edited porn",
-     "hi": "शरीर और स्टैमिना की तुलना एडिट किए गए पोर्न से करना",
      "hg": "Body aur stamina ko edited porn se compare karna"
     },
     {
      "en": "'Stamina' tonics from unlicensed clinics",
-     "hi": "बिना लाइसेंस वाले क्लिनिकों के 'स्टैमिना' टॉनिक",
      "hg": "Unlicensed clinics ke 'stamina' tonics"
     }
    ]
@@ -518,7 +442,6 @@
   "right": {
    "title": {
     "en": "What helps",
-    "hi": "क्या मदद करता है",
     "hg": "Kya help karta hai"
    },
    "tone": "good",
@@ -526,22 +449,18 @@
    "points": [
     {
      "en": "Talking at a calm time with 'I' sentences, then listening",
-     "hi": "शांत समय पर 'मैं' से शुरू होने वाले वाक्यों में बात करना, फिर सुनना",
      "hg": "Calm time pe 'main' se shuru hone wale sentences mein baat karna, phir sunna"
     },
     {
      "en": "Knowing real intercourse typically lasts a few minutes, unlike on screen",
-     "hi": "यह जानना कि असल में संभोग आम तौर पर कुछ मिनट चलता है, स्क्रीन जैसा नहीं",
      "hg": "Yeh jaanna ki real intercourse usually kuch minute chalta hai, screen jaisa nahi"
     },
     {
      "en": "Seeing ejaculation worries as common and treatable, not weakness",
-     "hi": "स्खलन की चिंताओं को आम और इलाज योग्य मानना, कमज़ोरी नहीं",
      "hg": "Ejaculation worries ko common aur treatable samajhna, kamzori nahi"
     },
     {
      "en": "A registered clinician if a difficulty lasts, hurts or distresses",
-     "hi": "दिक़्क़त बनी रहे, दर्द हो या परेशान करे तो रजिस्टर्ड डॉक्टर से मिलना",
      "hg": "Dikkat bani rahe, pain ho ya pareshan kare toh registered clinician se milna"
     }
    ]

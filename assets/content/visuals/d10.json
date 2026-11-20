@@ -4,7 +4,6 @@
   "type": "steps",
   "title": {
    "en": "Simple daily care for private parts",
-   "hi": "निजी अंगों की रोज़ की आसान देखभाल",
    "hg": "Private parts ki roz ki simple care"
   },
   "items": [
@@ -12,12 +11,10 @@
     "icon": "shower",
     "label": {
      "en": "Wash once a day",
-     "hi": "दिन में एक बार धोओ",
      "hg": "Din mein ek baar dho"
     },
     "text": {
      "en": "During your bath, gently wash your private parts with clean water. Never force the foreskin back.",
-     "hi": "नहाते समय निजी अंगों को साफ़ पानी से हल्के हाथ से धोओ। ऊपर की त्वचा (foreskin) को कभी ज़बरदस्ती पीछे मत खींचो।",
      "hg": "Nahate time private parts ko saaf paani se halke haath se dho. Foreskin ko kabhi zabardasti peeche mat kheencho."
     }
    },
@@ -25,12 +22,10 @@
     "icon": "repeat",
     "label": {
      "en": "Dry and change",
-     "hi": "सुखाओ और बदलो",
      "hg": "Sukhao aur badlo"
     },
     "text": {
      "en": "Pat dry and wear clean cotton underwear, changed every day and after sports.",
-     "hi": "थपथपाकर सुखाओ और साफ़ सूती अंडरवियर पहनो, जिसे रोज़ और खेल के बाद बदलो।",
      "hg": "Thapthapa ke sukhao aur saaf cotton underwear pehno, jise roz aur sports ke baad badlo."
     }
    },
@@ -38,12 +33,10 @@
     "icon": "wash",
     "label": {
      "en": "Toilet habits",
-     "hi": "टॉयलेट की आदतें",
      "hg": "Toilet habits"
     },
     "text": {
      "en": "If you have a vulva, wipe from front to back. Everyone washes hands with soap afterwards.",
-     "hi": "अगर तुम्हारे पास वल्वा है, तो आगे से पीछे की तरफ़ पोंछो। उसके बाद साबुन से हाथ धोना सबके लिए ज़रूरी है।",
      "hg": "Agar tumhare paas vulva hai, toh aage se peeche ki taraf ponchho. Uske baad sabun se haath dhona sabke liye zaroori hai."
     }
    },
@@ -51,12 +44,10 @@
     "icon": "no",
     "label": {
      "en": "Skip harsh products",
-     "hi": "तेज़ प्रोडक्ट से बचो",
      "hg": "Harsh products skip karo"
     },
     "text": {
      "en": "Strong soaps, perfumed sprays, talc and antiseptics can cause itching. Plain water is enough.",
-     "hi": "तेज़ साबुन, ख़ुशबूदार स्प्रे, टैल्कम पाउडर और एंटीसेप्टिक से खुजली हो सकती है। सादा पानी काफ़ी है।",
      "hg": "Tez sabun, perfumed spray, talcum powder aur antiseptic se khujli ho sakti hai. Saada paani kaafi hai."
     }
    },
@@ -64,12 +55,10 @@
     "icon": "talk",
     "label": {
      "en": "Tell a trusted adult",
-     "hi": "भरोसेमंद बड़े को बताओ",
      "hg": "Trusted adult ko batao"
     },
     "text": {
      "en": "Itching, burning, pain, swelling or a lump? Tell an adult. Sudden testicle pain means hospital now.",
-     "hi": "खुजली, जलन, दर्द, सूजन या गाँठ? किसी बड़े को बताओ। अंडकोष में अचानक तेज़ दर्द हो तो तुरंत अस्पताल।",
      "hg": "Khujli, jalan, dard, soojan ya gaanth? Kisi bade ko batao. Testicle mein achanak tez dard ho toh turant hospital."
     }
    }
@@ -80,13 +69,11 @@
   "type": "compare",
   "title": {
    "en": "Usually normal, or time for a check?",
-   "hi": "आम बात है, या जाँच का वक़्त?",
    "hg": "Normal hai, ya check-up ka time?"
   },
   "left": {
    "title": {
     "en": "Usually normal",
-    "hi": "आमतौर पर सामान्य",
     "hg": "Aksar normal"
    },
    "tone": "good",
@@ -94,17 +81,14 @@
    "points": [
     {
      "en": "Clear or whitish discharge that changes through the cycle, with a mild smell.",
-     "hi": "साफ़ या सफ़ेद-सा डिस्चार्ज, जो माहवारी के चक्र के साथ बदलता है और जिसमें हल्की गंध होती है।",
      "hg": "Clear ya safed sa discharge, jo cycle ke saath badalta hai aur jismein halki smell hoti hai."
     },
     {
      "en": "Smegma, a whitish substance under the foreskin, rinsed away daily.",
-     "hi": "स्मेग्मा, यानी foreskin के नीचे जमा सफ़ेद-सा पदार्थ, जिसे रोज़ पानी से धो देना है।",
      "hg": "Smegma, yaani foreskin ke neeche jama safed si cheez, jise roz paani se dho dena hai."
     },
     {
      "en": "Genitals that differ in shape, size and colour, or look uneven.",
-     "hi": "जननांग जो आकार, साइज़ और रंग में अलग हों, या दोनों तरफ़ एक जैसे न दिखें।",
      "hg": "Genitals jo shape, size aur colour mein alag hon, ya dono side ek jaise na dikhein."
     }
    ]
@@ -112,7 +96,6 @@
   "right": {
    "title": {
     "en": "See a doctor",
-    "hi": "डॉक्टर को दिखाओ",
     "hg": "Doctor ko dikhao"
    },
    "tone": "bad",
@@ -120,22 +103,18 @@
    "points": [
     {
      "en": "Burning or pain when passing urine, or needing to go very often.",
-     "hi": "पेशाब करते समय जलन या दर्द, या बार-बार पेशाब जाना पड़ना।",
      "hg": "Urine karte time jalan ya dard, ya baar-baar jaana padna."
     },
     {
      "en": "Discharge that turns green, grey, yellow or curd-like, or smells strongly fishy.",
-     "hi": "डिस्चार्ज जो हरा, स्लेटी, पीला या दही जैसा हो जाए, या जिसमें मछली जैसी तेज़ गंध आए।",
      "hg": "Discharge jo green, grey, yellow ya dahi jaisa ho jaaye, ya usmein machhli jaisi tez smell aaye."
     },
     {
      "en": "Sores, blisters, warts, a new lump, or an itch lasting days.",
-     "hi": "घाव, छाले, मस्से, नई गाँठ, या कई दिनों तक रहने वाली खुजली।",
      "hg": "Ghaav, chhale, warts, nayi gaanth, ya kai din tak rehne wali khujli."
     },
     {
      "en": "Sudden severe testicle pain: that is an emergency.",
-     "hi": "अंडकोष में अचानक तेज़ दर्द: यह इमरजेंसी है।",
      "hg": "Testicle mein achanak tez dard: yeh emergency hai."
     }
    ]
@@ -146,7 +125,6 @@
   "type": "grid",
   "title": {
    "en": "Red flags you should never sit on",
-   "hi": "ख़तरे के संकेत जिन्हें कभी टालना नहीं",
    "hg": "Red flags jinhe kabhi taalna nahi"
   },
   "items": [
@@ -154,12 +132,10 @@
     "icon": "emergency",
     "label": {
      "en": "Sudden testicle pain",
-     "hi": "अंडकोष में अचानक दर्द",
      "hg": "Testicle mein achanak dard"
     },
     "text": {
      "en": "Could be torsion. Go to hospital emergency immediately; hours decide whether the testicle can be saved.",
-     "hi": "यह टॉर्शन हो सकता है। तुरंत अस्पताल की इमरजेंसी में जाओ; कुछ घंटे तय करते हैं कि अंडकोष बच पाएगा या नहीं।",
      "hg": "Yeh torsion ho sakta hai. Turant hospital emergency jao; kuch ghante decide karte hain ki testicle bach payega ya nahi."
     }
    },
@@ -167,12 +143,10 @@
     "icon": "warning",
     "label": {
      "en": "Stuck, swelling foreskin",
-     "hi": "फँसी हुई, सूजती foreskin",
      "hg": "Phansi hui, soojti foreskin"
     },
     "text": {
      "en": "A foreskin pulled back that is stuck and swelling is an emergency.",
-     "hi": "पीछे खिंची foreskin अगर वहीं फँस जाए और सूजने लगे, तो यह इमरजेंसी है।",
      "hg": "Peeche khinchi foreskin agar wahin phans jaaye aur soojne lage, toh yeh emergency hai."
     }
    },
@@ -180,12 +154,10 @@
     "icon": "hospital",
     "label": {
      "en": "Sudden one-sided belly pain",
-     "hi": "पेट में एक तरफ़ अचानक दर्द",
      "hg": "Pet mein ek side achanak dard"
     },
     "text": {
      "en": "Severe lower-belly pain with vomiting, fainting, shoulder-tip pain or bleeding needs a hospital urgently.",
-     "hi": "पेट के निचले हिस्से में तेज़ दर्द के साथ उल्टी, बेहोशी, कंधे के सिरे पर दर्द या ख़ून आए, तो तुरंत अस्पताल जाओ।",
      "hg": "Lower belly mein tez dard ke saath ulti, behoshi, shoulder-tip pain ya bleeding ho, toh turant hospital jao."
     }
    },
@@ -193,12 +165,10 @@
     "icon": "fever",
     "label": {
      "en": "Burning urine with fever",
-     "hi": "बुख़ार के साथ पेशाब में जलन",
      "hg": "Fever ke saath urine mein jalan"
     },
     "text": {
      "en": "With back or side pain, see a doctor the same day.",
-     "hi": "साथ में कमर या बग़ल में दर्द हो, तो उसी दिन डॉक्टर को दिखाओ।",
      "hg": "Saath mein back ya side mein dard ho, toh usi din doctor ko dikhao."
     }
    },
@@ -206,12 +176,10 @@
     "icon": "pain",
     "label": {
      "en": "Period pain that stops life",
-     "hi": "पीरियड का दर्द जो सब रोक दे",
      "hg": "Period pain jo sab rok de"
     },
     "text": {
      "en": "Pain that makes you miss school, vomit or faint deserves a proper check.",
-     "hi": "जो दर्द स्कूल छुड़वा दे, उल्टी करवाए या बेहोश कर दे, उसकी ठीक से जाँच होनी चाहिए।",
      "hg": "Jo dard school chhudwa de, ulti karwaye ya behosh kar de, uska proper check-up hona chahiye."
     }
    },
@@ -219,12 +187,10 @@
     "icon": "block",
     "label": {
      "en": "'Guaranteed secret cure'",
-     "hi": "'गारंटी वाला गुप्त इलाज'",
      "hg": "'Guaranteed secret ilaaj'"
     },
     "text": {
      "en": "Be suspicious. A real doctor has a registration number, examines you and never guarantees results.",
-     "hi": "सावधान रहो। असली डॉक्टर के पास रजिस्ट्रेशन नंबर होता है, वह जाँच करता है और नतीजों की गारंटी कभी नहीं देता।",
      "hg": "Savdhaan raho. Real doctor ke paas registration number hota hai, woh check karta hai aur results ki guarantee kabhi nahi deta."
     }
    }
@@ -235,13 +201,11 @@
   "type": "compare",
   "title": {
    "en": "Sexual difficulties: real help or risky fixes",
-   "hi": "यौन दिक़्क़तें: सही मदद या जोखिम भरे नुस्ख़े",
    "hg": "Sexual problems: sahi help ya risky jugaad"
   },
   "left": {
    "title": {
     "en": "Real help",
-    "hi": "सही मदद",
     "hg": "Sahi help"
    },
    "tone": "good",
@@ -249,22 +213,18 @@
    "points": [
     {
      "en": "Persistent or deep pain during intercourse: see a gynaecologist or urologist.",
-     "hi": "संभोग के दौरान बार-बार या गहरा दर्द: स्त्री रोग विशेषज्ञ (gynaecologist) या यूरोलॉजिस्ट को दिखाओ।",
      "hg": "Intercourse ke time baar-baar ya deep pain: gynaecologist ya urologist ko dikhao."
     },
     {
      "en": "Persistent erection problems: get a check-up, as they can signal heart disease or diabetes.",
-     "hi": "इरेक्शन की लगातार दिक़्क़त: जाँच कराओ, क्योंकि यह दिल की बीमारी या डायबिटीज़ का संकेत हो सकती है।",
      "hg": "Erection ki lagaatar problem: check-up karao, kyunki yeh heart disease ya diabetes ka sign ho sakti hai."
     },
     {
      "en": "Premature ejaculation: doctors and sex therapists help with behavioural methods, counselling and sometimes medicine.",
-     "hi": "शीघ्रपतन (PE): डॉक्टर और सेक्स थेरेपिस्ट व्यवहार से जुड़े तरीक़ों, काउंसलिंग और कभी-कभी दवा से मदद करते हैं।",
      "hg": "Premature ejaculation: doctors aur sex therapists behavioural methods, counselling aur kabhi-kabhi medicine se help karte hain."
     },
     {
      "en": "Anxiety or past trauma: a psychologist can help, or call Tele-MANAS 14416.",
-     "hi": "घबराहट या पुराना ट्रॉमा: साइकोलॉजिस्ट मदद कर सकते हैं, या Tele-MANAS 14416 पर कॉल करो।",
      "hg": "Anxiety ya purana trauma: psychologist help kar sakte hain, ya Tele-MANAS 14416 pe call karo."
     }
    ]
@@ -272,7 +232,6 @@
   "right": {
    "title": {
     "en": "Risky fixes",
-    "hi": "जोखिम भरे नुस्ख़े",
     "hg": "Risky jugaad"
    },
    "tone": "bad",
@@ -280,22 +239,18 @@
    "points": [
     {
      "en": "Pushing through pain instead of stopping.",
-     "hi": "रुकने के बजाय दर्द सहते हुए जारी रखना।",
      "hg": "Rukne ke bajaye dard sehte hue continue karna."
     },
     {
      "en": "'Herbal' capsules and online pills of unknown content.",
-     "hi": "'हर्बल' कैप्सूल और ऑनलाइन गोलियाँ, जिनमें क्या है, पता नहीं।",
      "hg": "'Herbal' capsules aur online pills, jinke andar kya hai, pata nahi."
     },
     {
      "en": "Street tonics and delay sprays bought without medical advice.",
-     "hi": "बिना डॉक्टरी सलाह के ख़रीदे गए सड़क-छाप टॉनिक और डिले स्प्रे।",
      "hg": "Bina doctor ki advice ke khareede gaye street tonics aur delay sprays."
     },
     {
      "en": "Erection medicines without a doctor; they can be dangerous with some heart drugs.",
-     "hi": "डॉक्टर के बिना इरेक्शन की दवाएँ; दिल की कुछ दवाओं के साथ ये ख़तरनाक हो सकती हैं।",
      "hg": "Doctor ke bina erection medicines; kuch heart medicines ke saath yeh dangerous ho sakti hain."
     }
    ]
@@ -306,7 +261,6 @@
   "type": "grid",
   "title": {
    "en": "Pelvic floor, fertility and proper help",
-   "hi": "पेल्विक फ़्लोर, फ़र्टिलिटी और सही इलाज",
    "hg": "Pelvic floor, fertility aur sahi help"
   },
   "items": [
@@ -314,12 +268,10 @@
     "icon": "body",
     "label": {
      "en": "The pelvic floor",
-     "hi": "पेल्विक फ़्लोर",
      "hg": "Pelvic floor"
     },
     "text": {
      "en": "A sling of muscles that supports bladder, bowel and uterus, and controls urine and stool.",
-     "hi": "झूले जैसी मांसपेशियाँ, जो मूत्राशय, आँत और गर्भाशय को सहारा देती हैं और पेशाब व मल पर क़ाबू रखती हैं।",
      "hg": "Jhoole jaisi muscles, jo bladder, bowel aur uterus ko support karti hain aur urine aur stool control karti hain."
     }
    },
@@ -327,12 +279,10 @@
     "icon": "exercise",
     "label": {
      "en": "Weak or too tight",
-     "hi": "कमज़ोर या ज़्यादा कसा हुआ",
      "hg": "Weak ya bahut tight"
     },
     "text": {
      "en": "Leaking or heaviness, or pain and tightness: both are treatable. Get a physiotherapist's guidance before exercises.",
-     "hi": "पेशाब रिसना या भारीपन, या दर्द और कसाव: दोनों का इलाज है। व्यायाम से पहले फ़िज़ियोथेरेपिस्ट की सलाह लो।",
      "hg": "Leak hona ya heaviness, ya dard aur tightness: dono treatable hain. Exercises se pehle physiotherapist ki guidance lo."
     }
    },
@@ -340,12 +290,10 @@
     "icon": "calendar",
     "label": {
      "en": "When to seek advice",
-     "hi": "सलाह कब लें",
      "hg": "Advice kab lein"
     },
     "text": {
      "en": "After 12 months of trying without pregnancy, or about six if the woman is over 35 or periods are irregular.",
-     "hi": "12 महीने कोशिश के बाद भी गर्भ न ठहरे तब, या महिला 35 से ऊपर हो या पीरियड अनियमित हों तो लगभग छह महीने बाद।",
      "hg": "12 mahine try karne ke baad bhi pregnancy na ho tab, ya woman 35 se upar ho ya periods irregular hon toh lagbhag 6 mahine baad."
     }
    },
@@ -353,12 +301,10 @@
     "icon": "people",
     "label": {
      "en": "Assess both partners",
-     "hi": "दोनों पार्टनर की जाँच",
      "hg": "Dono partners ka test"
     },
     "text": {
      "en": "Causes can lie with either partner or both; a semen analysis is a simple early test.",
-     "hi": "वजह किसी भी पार्टनर में या दोनों में हो सकती है; वीर्य की जाँच (semen analysis) शुरुआत का एक आसान टेस्ट है।",
      "hg": "Wajah kisi bhi partner mein ya dono mein ho sakti hai; semen analysis shuruaat ka ek simple test hai."
     }
    },
@@ -366,12 +312,10 @@
     "icon": "diversity",
     "label": {
      "en": "Bodies vary",
-     "hi": "शरीर अलग-अलग होते हैं",
      "hg": "Bodies alag-alag hoti hain"
     },
     "text": {
      "en": "Genitals and breasts vary widely; enlargement and tightening products do not work as advertised.",
-     "hi": "जननांग और स्तन बहुत अलग-अलग होते हैं; बड़ा करने या कसने वाले प्रोडक्ट विज्ञापन जैसा असर नहीं करते।",
      "hg": "Genitals aur breasts bahut vary karte hain; enlargement aur tightening products ad jaisa kaam nahi karte."
     }
    },
@@ -379,12 +323,10 @@
     "icon": "doctor",
     "label": {
      "en": "Match the clinician",
-     "hi": "सही डॉक्टर चुनो",
      "hg": "Sahi doctor chuno"
     },
     "text": {
      "en": "Gynaecologist, urologist, dermatologist or psychologist; a general physician is a fine starting point.",
-     "hi": "स्त्री रोग विशेषज्ञ, यूरोलॉजिस्ट, त्वचा विशेषज्ञ या साइकोलॉजिस्ट; शुरुआत जनरल फ़िज़िशियन से भी की जा सकती है।",
      "hg": "Gynaecologist, urologist, dermatologist ya psychologist; shuruaat general physician se bhi kar sakte ho."
     }
    }
@@ -395,7 +337,6 @@
   "type": "steps",
   "title": {
    "en": "The two-minute monthly testicle check",
-   "hi": "हर महीने दो मिनट: अंडकोष की जाँच",
    "hg": "Har mahine 2 minute: testicle check"
   },
   "items": [
@@ -403,12 +344,10 @@
     "icon": "calendar",
     "label": {
      "en": "Once a month",
-     "hi": "महीने में एक बार",
      "hg": "Mahine mein ek baar"
     },
     "text": {
      "en": "Pick a day each month, after a warm bath when the scrotum is relaxed.",
-     "hi": "हर महीने एक दिन चुनो, गुनगुने पानी से नहाने के बाद, जब अंडकोष की थैली ढीली हो।",
      "hg": "Har mahine ek din chuno, garam paani se nahane ke baad, jab scrotum relaxed ho."
     }
    },
@@ -416,12 +355,10 @@
     "icon": "search",
     "label": {
      "en": "Roll each testicle gently",
-     "hi": "हर अंडकोष को हल्के से घुमाओ",
      "hg": "Har testicle ko halke se roll karo"
     },
     "text": {
      "en": "Use thumb and fingers. A healthy testicle feels smooth, oval and firm, but not hard.",
-     "hi": "अँगूठे और उँगलियों से। स्वस्थ अंडकोष चिकना, अंडाकार और ठोस लगता है, पर कड़ा नहीं।",
      "hg": "Thumb aur fingers se. Healthy testicle smooth, oval aur firm lagta hai, par hard nahi."
     }
    },
@@ -429,12 +366,10 @@
     "icon": "info",
     "label": {
      "en": "Know the epididymis",
-     "hi": "एपिडिडिमिस को पहचानो",
      "hg": "Epididymis ko pehchano"
     },
     "text": {
      "en": "The soft, rope-like tube behind each testicle is normal. It stores sperm.",
-     "hi": "हर अंडकोष के पीछे की नरम, रस्सी जैसी नली सामान्य है। इसमें शुक्राणु जमा रहते हैं।",
      "hg": "Har testicle ke peeche ki soft, rassi jaisi tube normal hai. Ismein sperm store hote hain."
     }
    },
@@ -442,12 +377,10 @@
     "icon": "doctor",
     "label": {
      "en": "Changes? See a doctor",
-     "hi": "बदलाव? डॉक्टर को दिखाओ",
      "hg": "Change dikhe? Doctor ko dikhao"
     },
     "text": {
      "en": "A hard lump, even a painless pea-sized one, growth, hardening or new heaviness needs checking.",
-     "hi": "कड़ी गाँठ, चाहे मटर जितनी और बिना दर्द की हो, आकार बढ़ना, कड़ा होना या नया भारीपन, सबकी जाँच ज़रूरी है।",
      "hg": "Hard gaanth, chahe matar jitni aur bina dard ki ho, size badhna, hard hona ya nayi heaviness, sabka check-up zaroori hai."
     }
    },
@@ -455,12 +388,10 @@
     "icon": "emergency",
     "label": {
      "en": "Sudden pain: hospital now",
-     "hi": "अचानक दर्द: तुरंत अस्पताल",
      "hg": "Achanak dard: turant hospital"
     },
     "text": {
      "en": "Sudden severe pain or swelling is an emergency. Go to hospital immediately or call 112.",
-     "hi": "अचानक तेज़ दर्द या सूजन इमरजेंसी है। तुरंत अस्पताल जाओ या 112 पर कॉल करो।",
      "hg": "Achanak tez dard ya soojan emergency hai. Turant hospital jao ya 112 pe call karo."
     }
    }
@@ -471,7 +402,6 @@
   "type": "grid",
   "title": {
    "en": "The check-ups nobody mentions",
-   "hi": "वे जाँचें जिनकी कोई बात नहीं करता",
    "hg": "Woh check-ups jinki koi baat nahi karta"
   },
   "items": [
@@ -479,12 +409,10 @@
     "icon": "search",
     "label": {
      "en": "Monthly breast check",
-     "hi": "हर महीने स्तन की जाँच",
      "hg": "Monthly breast check"
     },
     "text": {
      "en": "A few days after your period, look in a mirror and feel each breast and armpit.",
-     "hi": "पीरियड के कुछ दिन बाद, आईने में देखो और हर स्तन और बगल को छूकर जाँचो।",
      "hg": "Period ke kuch din baad, mirror mein dekho aur har breast aur armpit ko chhoo ke check karo."
     }
    },
@@ -492,12 +420,10 @@
     "icon": "doctor",
     "label": {
      "en": "Lump that stays? Get examined",
-     "hi": "गाँठ बनी रहे? जाँच कराओ",
      "hg": "Gaanth reh jaaye? Check karao"
     },
     "text": {
      "en": "Most lumps in young women are harmless, but only an examination and ultrasound can tell.",
-     "hi": "कम उम्र की महिलाओं में ज़्यादातर गाँठें नुक़सानदेह नहीं होतीं, पर यह सिर्फ़ जाँच और अल्ट्रासाउंड से पता चलता है।",
      "hg": "Young women mein zyadatar lumps harmless hote hain, par yeh sirf examination aur ultrasound se pata chalta hai."
     }
    },
@@ -505,12 +431,10 @@
     "icon": "vaccine",
     "label": {
      "en": "HPV vaccine",
-     "hi": "HPV वैक्सीन",
      "hg": "HPV vaccine"
     },
     "text": {
      "en": "Works best before any sexual contact; if you missed it, you can still ask a doctor.",
-     "hi": "किसी भी यौन संपर्क से पहले सबसे अच्छा काम करती है; छूट गई हो तो भी डॉक्टर से पूछा जा सकता है।",
      "hg": "Kisi bhi sexual contact se pehle sabse achha kaam karti hai; miss ho gayi ho toh bhi doctor se pooch sakte ho."
     }
    },
@@ -518,12 +442,10 @@
     "icon": "test",
     "label": {
      "en": "Cervical screening",
-     "hi": "सर्वाइकल स्क्रीनिंग",
      "hg": "Cervical screening"
     },
     "text": {
      "en": "For adults, offered from about age 30 at government centres. Vaccinated women still need it.",
-     "hi": "बड़ों के लिए, सरकारी केंद्रों पर लगभग 30 की उम्र से। वैक्सीन लगवा चुकी महिलाओं को भी इसकी ज़रूरत है।",
      "hg": "Adults ke liye, government centres pe lagbhag 30 ki age se. Vaccinated women ko bhi iski zaroorat hai."
     }
    },
@@ -531,12 +453,10 @@
     "icon": "germ",
     "label": {
      "en": "Thrush, BV and UTIs",
-     "hi": "थ्रश, BV और UTI",
      "hg": "Thrush, BV aur UTI"
     },
     "text": {
      "en": "Common, treatable and not a sign of being unclean. Get examined instead of guessing at the chemist.",
-     "hi": "आम हैं, इलाज हो सकता है, और गंदगी की निशानी नहीं हैं। केमिस्ट पर अंदाज़ा लगाने के बजाय जाँच कराओ।",
      "hg": "Common hain, treatable hain, aur gande hone ka sign nahi. Chemist pe guess karne ke bajaye check-up karao."
     }
    },
@@ -544,12 +464,10 @@
     "icon": "document",
     "label": {
      "en": "Pain dismissed? Push back",
-     "hi": "दर्द अनसुना हुआ? आवाज़ उठाओ",
      "hg": "Dard ignore hua? Awaaz uthao"
     },
     "text": {
      "en": "Keep a symptom diary, say how it affects your life, and see another doctor if brushed off.",
-     "hi": "लक्षणों की डायरी रखो, बताओ कि इससे ज़िंदगी पर क्या असर पड़ रहा है, और टाल दिया जाए तो दूसरे डॉक्टर को दिखाओ।",
      "hg": "Symptoms ki diary rakho, batao ki isse life pe kya asar pad raha hai, aur taal diya jaaye toh doosre doctor ko dikhao."
     }
    }
@@ -560,13 +478,11 @@
   "type": "compare",
   "title": {
    "en": "Ageing bodies: normal change or a doctor visit?",
-   "hi": "उम्र के साथ शरीर: सामान्य बदलाव या डॉक्टर की ज़रूरत?",
    "hg": "Age ke saath body: normal change ya doctor visit?"
   },
   "left": {
    "title": {
     "en": "Common with age",
-    "hi": "उम्र के साथ आम",
     "hg": "Age ke saath common"
    },
    "tone": "neutral",
@@ -574,22 +490,18 @@
    "points": [
     {
      "en": "Perimenopause: irregular periods, hot flushes, night sweats, poor sleep and mood changes.",
-     "hi": "पेरिमेनोपॉज़: अनियमित पीरियड, अचानक गर्मी लगना (hot flushes), रात में पसीना, ख़राब नींद और मूड में बदलाव।",
      "hg": "Perimenopause: irregular periods, hot flushes, raat mein paseena, kharab neend aur mood changes."
     },
     {
      "en": "Erections take longer, feel somewhat less firm, and recovery takes longer.",
-     "hi": "इरेक्शन में ज़्यादा वक़्त लगता है, वह थोड़ा कम सख़्त होता है, और दोबारा तैयार होने में भी ज़्यादा समय लगता है।",
      "hg": "Erection mein zyada time lagta hai, thoda kam firm hota hai, aur recovery mein bhi zyada time lagta hai."
     },
     {
      "en": "Desire rises and falls with stress, sleep, health and the relationship.",
-     "hi": "इच्छा तनाव, नींद, सेहत और रिश्ते के हिसाब से घटती-बढ़ती रहती है।",
      "hg": "Desire stress, neend, health aur relationship ke hisaab se upar-neeche hoti rehti hai."
     },
     {
      "en": "Tiredness, dryness and low desire for months after childbirth.",
-     "hi": "बच्चे के जन्म के बाद महीनों तक थकान, सूखापन और कम इच्छा।",
      "hg": "Delivery ke baad mahino tak thakaan, dryness aur kam desire."
     }
    ]
@@ -597,7 +509,6 @@
   "right": {
    "title": {
     "en": "Get it checked",
-    "hi": "जाँच कराओ",
     "hg": "Check karao"
    },
    "tone": "bad",
@@ -605,22 +516,18 @@
    "points": [
     {
      "en": "Bleeding after menopause, or periods stopping before 40.",
-     "hi": "मेनोपॉज़ के बाद ख़ून आना, या 40 से पहले पीरियड बंद हो जाना।",
      "hg": "Menopause ke baad bleeding, ya 40 se pehle periods band ho jaana."
     },
     {
      "en": "Erections that keep failing: check blood sugar, blood pressure and cholesterol.",
-     "hi": "इरेक्शन का बार-बार न होना: ब्लड शुगर, ब्लड प्रेशर और कोलेस्ट्रॉल की जाँच कराओ।",
      "hg": "Erection baar-baar fail ho: blood sugar, BP aur cholesterol check karao."
     },
     {
      "en": "Dryness or pain during sex; it rarely improves alone, but treatments help.",
-     "hi": "सेक्स के दौरान सूखापन या दर्द; यह अपने-आप शायद ही ठीक होता है, पर इलाज से मदद मिलती है।",
      "hg": "Sex ke time dryness ya dard; yeh apne aap shayad hi theek hota hai, par treatment se help milti hai."
     },
     {
      "en": "Vaginismus: reflex tightening that physiotherapy and counselling treat. Never push through pain.",
-     "hi": "वैजिनिस्मस: अपने-आप होने वाला कसाव, जिसका इलाज फ़िज़ियोथेरेपी और काउंसलिंग से होता है। दर्द सहते हुए आगे मत बढ़ो।",
      "hg": "Vaginismus: reflex se hone wali tightening, jiska ilaaj physiotherapy aur counselling se hota hai. Dard sehte hue aage mat badho."
     }
    ]

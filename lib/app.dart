@@ -13,11 +13,13 @@ import 'features/labs/games.dart';
 import 'features/labs/myth_buster.dart';
 import 'features/labs/period_lab.dart';
 import 'features/labs/protection_lab.dart';
+import 'features/labs/poster_wall.dart';
 import 'features/labs/puberty_lab.dart';
 import 'features/labs/scenarios.dart';
 import 'features/lessons/domain_screen.dart';
 import 'features/lessons/lesson_screen.dart';
 import 'features/library/library.dart';
+import 'features/magazine/magazine_screens.dart';
 import 'features/onboarding/onboarding.dart';
 import 'features/onboarding/splash.dart';
 import 'features/quiz/quiz_screens.dart';
@@ -40,6 +42,8 @@ String labRoute(String key) => switch (key) {
   'digital_safety' => '/scenarios/digital',
   'communication' => '/scenarios/communication',
   'ask' => '/home?tab=3',
+  'magazine' => '/magazine',
+  'data_desk' => '/datadesk',
   _ => '/lab/$key',
 };
 
@@ -89,6 +93,7 @@ final routerProvider = Provider<GoRouter>((ref) {
           'support_circle' => const SupportCircleScreen(),
           'signals' => const SignalsScreen(),
           'digital_challenge' => const DigitalChallengeScreen(),
+          'poster_wall' => const PosterWallScreen(),
           _ => const NotAvailableScreen(),
         },
       ),
@@ -100,6 +105,16 @@ final routerProvider = Provider<GoRouter>((ref) {
         path: '/scenario/:id',
         builder: (_, s) => ScenarioScreen(s.pathParameters['id']!),
       ),
+      GoRoute(path: '/magazine', builder: (_, _) => const MagazineScreen()),
+      GoRoute(
+        path: '/magazine/section/:key',
+        builder: (_, s) => MagSectionScreen(s.pathParameters['key']!),
+      ),
+      GoRoute(
+        path: '/magazine/story/:slug',
+        builder: (_, s) => StoryScreen(s.pathParameters['slug']!),
+      ),
+      GoRoute(path: '/datadesk', builder: (_, _) => const DataDeskScreen()),
       GoRoute(path: '/quiz', builder: (_, _) => const QuizHubScreen()),
       GoRoute(
         path: '/quiz/:kind/:id',

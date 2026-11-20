@@ -4,7 +4,6 @@
   "type": "steps",
   "title": {
    "en": "When a feeling gets too big",
-   "hi": "जब कोई एहसास बहुत बड़ा हो जाए",
    "hg": "Jab koi feeling bahut badi ho jaaye"
   },
   "items": [
@@ -12,12 +11,10 @@
     "icon": "face",
     "label": {
      "en": "Name the feeling",
-     "hi": "एहसास का नाम बोलो",
      "hg": "Feeling ka naam bolo"
     },
     "text": {
      "en": "Say its name, like 'I am sad'. All feelings are okay.",
-     "hi": "उसका नाम बोलो, जैसे 'मैं उदास हूँ'। हर एहसास ठीक है।",
      "hg": "Uska naam bolo, jaise 'Main udaas hoon'. Har feeling theek hai."
     }
    },
@@ -25,12 +22,10 @@
     "icon": "stop",
     "label": {
      "en": "Stop for a moment",
-     "hi": "एक पल रुक जाओ",
      "hg": "Ek pal ruk jao"
     },
     "text": {
      "en": "Stop and put a hand on your tummy.",
-     "hi": "रुक जाओ और पेट पर हाथ रखो।",
      "hg": "Ruk jao aur pet par haath rakho."
     }
    },
@@ -38,12 +33,10 @@
     "icon": "calm",
     "label": {
      "en": "Breathe slowly",
-     "hi": "धीरे-धीरे साँस लो",
      "hg": "Dheere-dheere saans lo"
     },
     "text": {
      "en": "Breathe in slowly, then breathe out slowly. Do it five times.",
-     "hi": "धीरे-धीरे साँस अंदर लो, फिर धीरे-धीरे बाहर छोड़ो। ऐसा पाँच बार करो।",
      "hg": "Dheere-dheere saans andar lo, phir dheere-dheere bahar chhodo. Aisa paanch baar karo."
     }
    },
@@ -51,12 +44,10 @@
     "icon": "water",
     "label": {
      "en": "Drink some water",
-     "hi": "थोड़ा पानी पियो",
      "hg": "Thoda paani piyo"
     },
     "text": {
      "en": "Then have a few sips of water.",
-     "hi": "फिर पानी के कुछ घूँट पियो।",
      "hg": "Phir paani ke kuch ghoont piyo."
     }
    },
@@ -64,12 +55,10 @@
     "icon": "support",
     "label": {
      "en": "Tell a grown-up",
-     "hi": "किसी बड़े को बताओ",
      "hg": "Kisi bade ko batao"
     },
     "text": {
      "en": "Tell a grown-up you trust, like Mummy, Papa, Dadi or your teacher. Telling is brave.",
-     "hi": "किसी भरोसे वाले बड़े को बताओ, जैसे मम्मी, पापा, दादी या टीचर। बताना बहादुरी है।",
      "hg": "Kisi bharose wale bade ko batao, jaise Mummy, Papa, Dadi ya teacher. Batana bahaduri hai."
     }
    }
@@ -80,7 +69,6 @@
   "type": "grid",
   "title": {
    "en": "Beat the comparison trap",
-   "hi": "तुलना के जाल से बचो",
    "hg": "Comparison trap se bacho"
   },
   "items": [
@@ -88,12 +76,10 @@
     "icon": "growth",
     "label": {
      "en": "Different timetables",
-     "hi": "सबका अलग टाइमटेबल",
      "hg": "Sabka alag timetable"
     },
     "text": {
      "en": "Puberty usually starts between 8 and 13 in girls and 9 and 14 in boys. Early and late are both normal.",
-     "hi": "प्यूबर्टी आम तौर पर लड़कियों में 8 से 13 और लड़कों में 9 से 14 साल के बीच शुरू होती है। जल्दी और देर, दोनों नॉर्मल हैं।",
      "hg": "Puberty aam taur par ladkiyon mein 8 se 13 aur ladkon mein 9 se 14 saal ke beech shuru hoti hai. Jaldi aur late, dono normal hain."
     }
    },
@@ -101,12 +87,10 @@
     "icon": "camera",
     "label": {
      "en": "Photos are not real life",
-     "hi": "फ़ोटो असली ज़िंदगी नहीं हैं",
      "hg": "Photos real life nahi hain"
     },
     "text": {
      "en": "Filters smooth skin and change face shape, and people post one photo out of fifty.",
-     "hi": "फ़िल्टर स्किन चिकनी कर देते हैं और चेहरे का आकार बदल देते हैं, और लोग पचास में से एक फ़ोटो डालते हैं।",
      "hg": "Filters skin smooth kar dete hain aur face ka shape badal dete hain, aur log pachaas mein se ek photo daalte hain."
     }
    },
@@ -114,12 +98,10 @@
     "icon": "money",
     "label": {
      "en": "Ads sell worry",
-     "hi": "विज्ञापन चिंता बेचते हैं",
      "hg": "Ads tension bechte hain"
     },
     "text": {
      "en": "Ads for fairness creams and height powders earn money by making you feel something is wrong with you.",
-     "hi": "गोरेपन की क्रीम और क़द बढ़ाने वाले पाउडर के विज्ञापन इसी से कमाते हैं कि तुम्हें लगे तुममें कोई कमी है।",
      "hg": "Fairness creams aur height powders ke ads isi se kamaate hain ki tumhe lage tum mein koi kami hai."
     }
    },
@@ -127,12 +109,10 @@
     "icon": "star",
     "label": {
      "en": "Self-esteem comes from doing",
-     "hi": "आत्म-सम्मान कामों से बढ़ता है",
      "hg": "Self-esteem kaamon se badhta hai"
     },
     "text": {
      "en": "It grows from learning a skill, keeping a promise or helping someone, not from looks.",
-     "hi": "यह हुनर सीखने, वादा निभाने या किसी की मदद करने से बढ़ता है, शक्ल-सूरत से नहीं।",
      "hg": "Yeh skill seekhne, promise nibhane ya kisi ki help karne se badhta hai, looks se nahi."
     }
    },
@@ -140,12 +120,10 @@
     "icon": "stop",
     "label": {
      "en": "Body teasing is bullying",
-     "hi": "शरीर को लेकर चिढ़ाना बुलिंग है",
      "hg": "Body ko lekar chidhana bullying hai"
     },
     "text": {
      "en": "Teasing about weight, height, skin colour or voice is bullying, even when it is called a joke.",
-     "hi": "वज़न, क़द, रंग या आवाज़ पर चिढ़ाना बुलिंग है, चाहे उसे मज़ाक़ कहा जाए।",
      "hg": "Weight, height, skin colour ya awaaz par chidhana bullying hai, chahe usse joke bola jaaye."
     }
    },
@@ -153,12 +131,10 @@
     "icon": "support",
     "label": {
      "en": "Heavy worry? Ask for help",
-     "hi": "चिंता भारी लगे? मदद माँगो",
      "hg": "Tension heavy lage? Help maango"
     },
     "text": {
      "en": "If worry stays for many days, tell a parent, teacher or counsellor, or call 14416 or 1098.",
-     "hi": "अगर चिंता कई दिनों तक बनी रहे, तो माता-पिता, टीचर या काउंसलर को बताओ, या 14416 या 1098 पर कॉल करो।",
      "hg": "Agar tension kai dinon tak bani rahe, toh parents, teacher ya counsellor ko batao, ya 14416 ya 1098 par call karo."
     }
    }
@@ -169,13 +145,11 @@
   "type": "compare",
   "title": {
    "en": "Coping that helps, coping that harms",
-   "hi": "कोपिंग: जो मदद करे, जो नुक़सान करे",
    "hg": "Coping jo help kare, coping jo harm kare"
   },
   "left": {
    "title": {
     "en": "Helpful coping",
-    "hi": "मदद करने वाले तरीक़े",
     "hg": "Helpful coping"
    },
    "tone": "good",
@@ -183,22 +157,18 @@
    "points": [
     {
      "en": "Sleep, sport, a walk or music.",
-     "hi": "नींद, खेल, टहलना या संगीत।",
      "hg": "Neend, sport, walk ya music."
     },
     {
      "en": "Writing it down or slow breathing.",
-     "hi": "मन की बात लिख डालना या धीमी साँसें।",
      "hg": "Dil ki baat likh daalna ya dheemi saansein."
     },
     {
      "en": "Talking to a friend, a trusted adult or Tele-MANAS 14416.",
-     "hi": "किसी दोस्त, भरोसे वाले बड़े या टेली-मानस 14416 से बात करना।",
      "hg": "Kisi friend, trusted adult ya Tele-MANAS 14416 se baat karna."
     },
     {
      "en": "Taking a break from an app.",
-     "hi": "किसी ऐप से कुछ दिन की छुट्टी लेना।",
      "hg": "Kisi app se kuch din ka break lena."
     }
    ]
@@ -206,7 +176,6 @@
   "right": {
    "title": {
     "en": "Harmful coping",
-    "hi": "नुक़सान करने वाले तरीक़े",
     "hg": "Harmful coping"
    },
    "tone": "bad",
@@ -214,17 +183,14 @@
    "points": [
     {
      "en": "Scrolling all night or skipping meals.",
-     "hi": "रात भर स्क्रोल करना या खाना छोड़ देना।",
      "hg": "Raat bhar scroll karna ya khana skip karna."
     },
     {
      "en": "Alcohol, smoking or vaping.",
-     "hi": "शराब, सिगरेट या वेप।",
      "hg": "Alcohol, smoking ya vaping."
     },
     {
      "en": "Picking fights or hurting yourself.",
-     "hi": "झगड़े मोल लेना या ख़ुद को चोट पहुँचाना।",
      "hg": "Jhagde mol lena ya khud ko hurt karna."
     }
    ]
@@ -235,13 +201,11 @@
   "type": "compare",
   "title": {
    "en": "Normal ups and downs, or abuse?",
-   "hi": "आम उतार-चढ़ाव या शोषण?",
    "hg": "Normal ups and downs ya abuse?"
   },
   "left": {
    "title": {
     "en": "Normal ups and downs",
-    "hi": "आम उतार-चढ़ाव",
     "hg": "Normal ups and downs"
    },
    "tone": "neutral",
@@ -249,22 +213,18 @@
    "points": [
     {
      "en": "Some worry when you care about someone.",
-     "hi": "किसी की परवाह हो तो थोड़ी चिंता होना।",
      "hg": "Kisi ki parwah ho toh thodi tension hona."
     },
     {
      "en": "One bad argument is not abuse.",
-     "hi": "एक बुरा झगड़ा शोषण नहीं है।",
      "hg": "Ek bura jhagda abuse nahi hai."
     },
     {
      "en": "Breakup pain that eases in waves over weeks.",
-     "hi": "ब्रेकअप का दर्द, जो हफ़्तों में लहरों की तरह हल्का होता है।",
      "hg": "Breakup ka dard, jo hafton mein waves mein halka hota hai."
     },
     {
      "en": "You keep your own friends, sleep and studies.",
-     "hi": "तुम्हारे अपने दोस्त, नींद और पढ़ाई बने रहते हैं।",
      "hg": "Tumhare apne friends, neend aur padhai bane rehte hain."
     }
    ]
@@ -272,7 +232,6 @@
   "right": {
    "title": {
     "en": "Warning signs of abuse",
-    "hi": "शोषण के चेतावनी संकेत",
     "hg": "Abuse ke warning signs"
    },
    "tone": "bad",
@@ -280,22 +239,18 @@
    "points": [
     {
      "en": "Constant insults or 'jokes' about your body or intelligence.",
-     "hi": "तुम्हारे शरीर या समझ पर लगातार बेइज़्ज़ती या 'मज़ाक़'।",
      "hg": "Tumhari body ya intelligence par lagataar insult ya 'jokes'."
     },
     {
      "en": "Demanding passwords and live location, or cutting you off from friends.",
-     "hi": "पासवर्ड और लाइव लोकेशन की माँग, या तुम्हें दोस्तों से काट देना।",
      "hg": "Passwords aur live location ki demand, ya tumhe friends se kaat dena."
     },
     {
      "en": "Threats to leave, to leak photos or to hurt themselves if you do not obey.",
-     "hi": "बात न मानने पर छोड़ देने, फ़ोटो लीक करने या ख़ुद को नुक़सान पहुँचाने की धमकी।",
      "hg": "Baat na maanne par chhod dene, photos leak karne ya khud ko hurt karne ki dhamki."
     },
     {
      "en": "Gaslighting: denying what happened until you doubt your own memory.",
-     "hi": "गैसलाइटिंग: जो हुआ उससे इतना मुकरना कि तुम्हें अपनी ही याददाश्त पर शक होने लगे।",
      "hg": "Gaslighting: jo hua usse itna mukarna ki tumhe apni hi memory par shak hone lage."
     }
    ]
@@ -306,7 +261,6 @@
   "type": "grid",
   "title": {
    "en": "Real help for adult pressure",
-   "hi": "बड़ों वाले दबाव के लिए असली मदद",
    "hg": "Adult pressure ke liye asli help"
   },
   "items": [
@@ -314,12 +268,10 @@
     "icon": "sleep",
     "label": {
      "en": "Protect the basics",
-     "hi": "बुनियादी चीज़ें संभालिए",
      "hg": "Basics sambhalo"
     },
     "text": {
      "en": "Regular sleep, food, movement, sunlight and one honest conversation a week.",
-     "hi": "नियमित नींद, खाना, चलना-फिरना, धूप, और हफ़्ते में एक खुली बातचीत।",
      "hg": "Regular neend, khana, movement, dhoop, aur hafte mein ek honest conversation."
     }
    },
@@ -327,12 +279,10 @@
     "icon": "alcohol",
     "label": {
      "en": "Numbing backfires",
-     "hi": "सुन्न करना उल्टा पड़ता है",
      "hg": "Numb karna ulta padta hai"
     },
     "text": {
      "en": "Alcohol, nicotine and endless scrolling numb stress for an hour and deepen it over months.",
-     "hi": "शराब, निकोटिन और अंतहीन स्क्रोलिंग तनाव को एक घंटे के लिए सुन्न करते हैं और महीनों में उसे और गहरा कर देते हैं।",
      "hg": "Alcohol, nicotine aur endless scrolling stress ko ek ghante ke liye numb karte hain aur mahinon mein usse aur gehra kar dete hain."
     }
    },
@@ -340,12 +290,10 @@
     "icon": "balance",
     "label": {
      "en": "Your choice, your timeline",
-     "hi": "आपका चुनाव, आपकी टाइमलाइन",
      "hg": "Tumhari choice, tumhari timeline"
     },
     "text": {
      "en": "Being sexually active, waiting or never wanting sex are all valid adult choices.",
-     "hi": "यौन रूप से सक्रिय होना, इंतज़ार करना या सेक्स कभी न चाहना, सब वयस्कों के जायज़ चुनाव हैं।",
      "hg": "Sexually active hona, wait karna ya sex kabhi na chahna, sab valid adult choices hain."
     }
    },
@@ -353,12 +301,10 @@
     "icon": "stop",
     "label": {
      "en": "Consent every time",
-     "hi": "सहमति हर बार",
      "hg": "Consent har baar"
     },
     "text": {
      "en": "A partner's desire creates no duty, even in marriage. Sulking, insults or threats after a no are coercion.",
-     "hi": "पार्टनर की इच्छा से कोई फ़र्ज़ नहीं बनता, शादी में भी नहीं। 'ना' के बाद रूठना, बेइज़्ज़ती या धमकी ज़बरदस्ती है।",
      "hg": "Partner ki desire se koi duty nahi banti, shaadi mein bhi nahi. 'No' ke baad roothna, insult ya dhamki coercion hai."
     }
    },
@@ -366,12 +312,10 @@
     "icon": "doctor",
     "label": {
      "en": "Who can help",
-     "hi": "कौन मदद कर सकता है",
      "hg": "Kaun help kar sakta hai"
     },
     "text": {
      "en": "Counsellors and psychologists offer talking therapy. A psychiatrist is a medical doctor who can also assess whether medicines are needed.",
-     "hi": "काउंसलर और साइकोलॉजिस्ट बातचीत वाली थेरेपी देते हैं। साइकियाट्रिस्ट मेडिकल डॉक्टर होते हैं जो यह भी जाँच सकते हैं कि दवा की ज़रूरत है या नहीं।",
      "hg": "Counsellors aur psychologists talking therapy dete hain. Psychiatrist medical doctor hote hain jo yeh bhi assess kar sakte hain ki medicines ki zaroorat hai ya nahi."
     }
    },
@@ -379,12 +323,10 @@
     "icon": "call",
     "label": {
      "en": "No crisis needed: 14416",
-     "hi": "संकट का इंतज़ार नहीं: 14416",
      "hg": "Crisis ka wait nahi: 14416"
     },
     "text": {
      "en": "You can get help before things become a crisis. Tele-MANAS 14416 is free, round the clock, in many Indian languages.",
-     "hi": "हालात संकट बनने से पहले भी आप मदद ले सकते हैं। टेली-मानस 14416 मुफ़्त है, चौबीसों घंटे, कई भारतीय भाषाओं में।",
      "hg": "Crisis banne se pehle bhi help le sakte ho. Tele-MANAS 14416 free hai, 24 ghante, kai Indian languages mein."
     }
    }
@@ -395,7 +337,6 @@
   "type": "steps",
   "title": {
    "en": "If you see suicide warning signs",
-   "hi": "अगर आत्महत्या के चेतावनी संकेत दिखें",
    "hg": "Agar suicide ke warning signs dikhein"
   },
   "items": [
@@ -403,12 +344,10 @@
     "icon": "eye",
     "label": {
      "en": "Notice the signs",
-     "hi": "संकेत पहचानो",
      "hg": "Signs pehchano"
     },
     "text": {
      "en": "Talk of dying or being a burden, giving valued things away, withdrawing, or sudden calm after a long low.",
-     "hi": "मरने या बोझ होने की बातें, अपनी प्यारी चीज़ें बाँट देना, सबसे कट जाना, या लंबी उदासी के बाद अचानक शांत हो जाना।",
      "hg": "Marne ya burden hone ki baatein, apni pyaari cheezein baant dena, sabse cut-off ho jaana, ya lambe low ke baad achanak calm ho jaana."
     }
    },
@@ -416,12 +355,10 @@
     "icon": "ask",
     "label": {
      "en": "Ask directly",
-     "hi": "सीधे पूछो",
      "hg": "Seedha poocho"
     },
     "text": {
      "en": "Say: 'Are you thinking about suicide?' Asking does not plant the idea.",
-     "hi": "कहो: 'क्या तुम आत्महत्या के बारे में सोच रहे हो?' पूछने से यह ख़याल दिमाग़ में नहीं बैठता।",
      "hg": "Bolo: 'Kya tum suicide ke baare mein soch rahe ho?' Poochne se yeh idea dimaag mein nahi baithta."
     }
    },
@@ -429,12 +366,10 @@
     "icon": "listen",
     "label": {
      "en": "Listen and stay",
-     "hi": "सुनो और साथ रहो",
      "hg": "Suno aur saath raho"
     },
     "text": {
      "en": "Listen without arguing or lecturing. Do not promise secrecy, and never leave them alone in a crisis.",
-     "hi": "बहस या भाषण के बिना सुनो। राज़ रखने का वादा मत करो, और संकट में उन्हें कभी अकेला मत छोड़ो।",
      "hg": "Argue ya lecture kiye bina suno. Secret rakhne ka promise mat karo, aur crisis mein unhe kabhi akela mat chhodo."
     }
    },
@@ -442,12 +377,10 @@
     "icon": "call",
     "label": {
      "en": "Connect to help",
-     "hi": "मदद से जोड़ो",
      "hg": "Help se connect karo"
     },
     "text": {
      "en": "Tele-MANAS 14416 at any hour, a doctor or a trusted adult, or 112 if danger is immediate.",
-     "hi": "टेली-मानस 14416 किसी भी समय, कोई डॉक्टर या भरोसेमंद बड़ा, या ख़तरा तुरंत का हो तो 112।",
      "hg": "Tele-MANAS 14416 kisi bhi time, koi doctor ya trusted adult, ya danger turant ka ho toh 112."
     }
    },
@@ -455,12 +388,10 @@
     "icon": "repeat",
     "label": {
      "en": "Check in again",
-     "hi": "फिर से हाल पूछो",
      "hg": "Phir se haal poocho"
     },
     "text": {
      "en": "Check in the next day. You need not fix their life, only stay and connect.",
-     "hi": "अगले दिन फिर हाल पूछो। तुम्हें उनकी ज़िंदगी ठीक नहीं करनी, बस साथ रहना है और मदद से जोड़ना है।",
      "hg": "Agle din phir haal poocho. Tumhe unki life fix nahi karni, bas saath rehna hai aur help se connect karna hai."
     }
    }

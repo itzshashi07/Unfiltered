@@ -3,12 +3,10 @@
   "id": "d01",
   "title": {
    "en": "Understanding the Human Body",
-   "hi": "मानव शरीर को समझना",
    "hg": "Body Ko Samjho"
   },
   "tagline": {
    "en": "Your body isn't a mystery. Let's decode it.",
-   "hi": "आपका शरीर कोई रहस्य नहीं है। चलिए इसे समझते हैं।",
    "hg": "Tumhari body koi mystery nahi hai. Chalo decode karte hain."
   },
   "unesco": [
@@ -27,12 +25,10 @@
   "id": "d02",
   "title": {
    "en": "Puberty: The Reality",
-   "hi": "किशोरावस्था: असली सच",
    "hg": "Puberty: Asli Scene"
   },
   "tagline": {
    "en": "Your body's getting an update. Here's what's actually happening.",
-   "hi": "आपके शरीर में अपडेट आ रहा है। जानिए असल में क्या हो रहा है।",
    "hg": "Body ka update aa raha hai. Dekho actually ho kya raha hai."
   },
   "unesco": [
@@ -50,12 +46,10 @@
   "id": "d03",
   "title": {
    "en": "Menstruation & Menstrual Health",
-   "hi": "माहवारी और मासिक स्वास्थ्य",
    "hg": "Periods & Menstrual Health"
   },
   "tagline": {
    "en": "Periods are biology, not something to be ashamed of.",
-   "hi": "माहवारी जीव-विज्ञान है, शर्म की बात नहीं।",
    "hg": "Periods biology hain, sharam ki cheez nahi."
   },
   "unesco": [
@@ -74,12 +68,10 @@
   "id": "d04",
   "title": {
    "en": "Sexual Feelings & Personal Questions",
-   "hi": "यौन भावनाएँ और निजी सवाल",
    "hg": "Feelings & Personal Sawaal"
   },
   "tagline": {
    "en": "The questions everyone has and nobody asks out loud.",
-   "hi": "वे सवाल जो सबके मन में हैं, पर कोई पूछता नहीं।",
    "hg": "Woh sawaal jo sabke mann mein hain, par koi poochta nahi."
   },
   "unesco": [
@@ -97,12 +89,10 @@
   "id": "d05",
   "title": {
    "en": "Consent & Body Autonomy",
-   "hi": "सहमति और शरीर पर अपना हक़",
    "hg": "Consent & Body Autonomy"
   },
   "tagline": {
    "en": "Real respect starts with understanding boundaries.",
-   "hi": "असली सम्मान सीमाओं को समझने से शुरू होता है।",
    "hg": "Real respect boundaries samajhne se shuru hoti hai."
   },
   "unesco": [
@@ -122,12 +112,10 @@
   "id": "d06",
   "title": {
    "en": "Relationships & Emotional Intelligence",
-   "hi": "रिश्ते और भावनात्मक समझ",
    "hg": "Relationships & Emotional IQ"
   },
   "tagline": {
    "en": "Green flags, red flags and everything in between.",
-   "hi": "अच्छे संकेत, ख़तरे के संकेत और बीच का सब कुछ।",
    "hg": "Green flags, red flags aur beech ka sab kuch."
   },
   "unesco": [
@@ -146,12 +134,10 @@
   "id": "d07",
   "title": {
    "en": "Contraception & Pregnancy Prevention",
-   "hi": "गर्भनिरोध और गर्भ से बचाव",
    "hg": "Contraception & Protection"
   },
   "tagline": {
    "en": "Every method, honestly compared. No sales pitch.",
-   "hi": "हर तरीक़े की ईमानदार तुलना। कोई प्रचार नहीं।",
    "hg": "Har method ka honest comparison. No sales pitch."
   },
   "unesco": [
@@ -168,12 +154,10 @@
   "id": "d08",
   "title": {
    "en": "Pregnancy, Fertility & Choices",
-   "hi": "गर्भावस्था, प्रजनन क्षमता और विकल्प",
    "hg": "Pregnancy, Fertility & Choices"
   },
   "tagline": {
    "en": "How it really happens, and what the options really are.",
-   "hi": "यह असल में कैसे होता है, और विकल्प असल में क्या हैं।",
    "hg": "Yeh actually kaise hota hai, aur options actually kya hain."
   },
   "unesco": [
@@ -190,12 +174,10 @@
   "id": "d09",
   "title": {
    "en": "Sexually Transmitted Infections",
-   "hi": "यौन संचारित संक्रमण (STI)",
    "hg": "STIs: Seedhi Baat"
   },
   "tagline": {
    "en": "Knowing the facts is part of looking after your health.",
-   "hi": "तथ्य जानना अपनी सेहत का ख़याल रखने का हिस्सा है।",
    "hg": "Facts jaanna apni health ka khayal rakhne ka part hai."
   },
   "unesco": [
@@ -212,12 +194,10 @@
   "id": "d10",
   "title": {
    "en": "Sexual Health & Wellbeing",
-   "hi": "यौन स्वास्थ्य और तंदुरुस्ती",
    "hg": "Sexual Health & Wellbeing"
   },
   "tagline": {
    "en": "Hygiene, check-ups and when to actually see a doctor.",
-   "hi": "साफ़-सफ़ाई, जाँच और डॉक्टर के पास कब जाना चाहिए।",
    "hg": "Hygiene, check-ups aur doctor ke paas kab jaana hai."
   },
   "unesco": [
@@ -236,12 +216,10 @@
   "id": "d11",
   "title": {
    "en": "Gender, Identity & Inclusion",
-   "hi": "जेंडर, पहचान और समावेश",
    "hg": "Gender, Identity & Inclusion"
   },
   "tagline": {
    "en": "People are different. Respect is not optional.",
-   "hi": "लोग अलग-अलग होते हैं। सम्मान ज़रूरी है, वैकल्पिक नहीं।",
    "hg": "Log alag hote hain. Respect optional nahi hai."
   },
   "unesco": [
@@ -261,17 +239,14 @@
   "id": "d12",
   "title": {
    "en": "Pornography, Media & Internet Reality",
-   "hi": "पोर्नोग्राफ़ी, मीडिया और इंटरनेट की हक़ीक़त",
    "hg": "Porn, Media & Internet Reality"
   },
   "title_young": {
    "en": "Screens, Media & Internet Reality",
-   "hi": "स्क्रीन, मीडिया और इंटरनेट की हक़ीक़त",
    "hg": "Screens, Media & Internet Reality"
   },
   "tagline": {
    "en": "The screen is scripted. Real life isn't.",
-   "hi": "स्क्रीन पर सब स्क्रिप्टेड है। असल ज़िंदगी नहीं।",
    "hg": "Screen scripted hai. Real life nahi."
   },
   "unesco": [
@@ -290,12 +265,10 @@
   "id": "d13",
   "title": {
    "en": "Digital Safety & Exploitation Prevention",
-   "hi": "डिजिटल सुरक्षा और शोषण से बचाव",
    "hg": "Digital Safety"
   },
   "tagline": {
    "en": "Spot the trap before it closes.",
-   "hi": "जाल बंद होने से पहले उसे पहचानिए।",
    "hg": "Trap band hone se pehle usse pehchano."
   },
   "unesco": [
@@ -314,12 +287,10 @@
   "id": "d14",
   "title": {
    "en": "Violence, Harassment & Personal Safety",
-   "hi": "हिंसा, उत्पीड़न और व्यक्तिगत सुरक्षा",
    "hg": "Violence, Harassment & Safety"
   },
   "tagline": {
    "en": "It is never your fault. Help exists.",
-   "hi": "ग़लती कभी आपकी नहीं होती। मदद मौजूद है।",
    "hg": "Galti kabhi tumhari nahi hoti. Help available hai."
   },
   "unesco": [
@@ -338,12 +309,10 @@
   "id": "d15",
   "title": {
    "en": "Indian Myths & Cultural Realities",
-   "hi": "भारतीय मिथक और सांस्कृतिक सच्चाइयाँ",
    "hg": "Desi Myths vs Reality"
   },
   "tagline": {
    "en": "Internet said WHAT? Let's fact-check that.",
-   "hi": "इंटरनेट ने क्या कहा? चलिए जाँच करते हैं।",
    "hg": "Internet ne KYA bola? Chalo fact-check karte hain."
   },
   "unesco": [
@@ -361,12 +330,10 @@
   "id": "d16",
   "title": {
    "en": "Indian Laws, Rights & Support",
-   "hi": "भारतीय क़ानून, अधिकार और सहायता",
    "hg": "Indian Laws, Rights & Support"
   },
   "tagline": {
    "en": "Know the law. Know your rights. Know where to go.",
-   "hi": "क़ानून जानिए। अपने अधिकार जानिए। कहाँ जाना है, जानिए।",
    "hg": "Law jaano. Rights jaano. Kahan jaana hai, jaano."
   },
   "unesco": [
@@ -385,12 +352,10 @@
   "id": "d17",
   "title": {
    "en": "Mental Health, Body Image & Pressure",
-   "hi": "मानसिक स्वास्थ्य, बॉडी इमेज और दबाव",
    "hg": "Mental Health & Body Image"
   },
   "tagline": {
    "en": "Your worth is not a number, a size or a like count.",
-   "hi": "आपकी क़ीमत कोई नंबर, साइज़ या लाइक्स नहीं है।",
    "hg": "Tumhari worth koi number, size ya likes nahi hai."
   },
   "unesco": [
@@ -409,12 +374,10 @@
   "id": "d18",
   "title": {
    "en": "Life Skills & Communication",
-   "hi": "जीवन कौशल और संवाद",
    "hg": "Life Skills & Communication"
   },
   "tagline": {
    "en": "Saying no, hearing no, and asking for help.",
-   "hi": "ना कहना, ना सुनना और मदद माँगना।",
    "hg": "No bolna, no sunna, aur help maangna."
   },
   "unesco": [

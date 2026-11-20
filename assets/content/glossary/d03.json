@@ -1,62 +1,153 @@
 [
-  {
-    "id": "d03-g1", "domain": "d03", "tracks": ["B", "C", "D", "E"],
-    "title": {"en": "Period Basics", "hi": "पीरियड की बुनियादी बातें", "hg": "Period Basics"},
-    "terms": [
-      {
-        "term": {"en": "Menstruation (period)", "hi": "माहवारी (पीरियड)", "hg": "Menstruation (period)"},
-        "def": {"en": "The regular shedding of the uterus lining, which leaves the body through the vagina as blood and tissue, usually for 2 to 7 days.", "hi": "गर्भाशय की परत का नियमित रूप से झड़ना, जो खून और ऊतक के रूप में योनि के रास्ते बाहर आती है, आम तौर पर 2 से 7 दिन तक।", "hg": "Uterus ki lining ka regularly shed hona, jo blood aur tissue ke roop mein vagina ke raaste bahar aati hai, usually 2 se 7 din tak."}
-      },
-      {
-        "term": {"en": "Uterus", "hi": "गर्भाशय (यूटरस)", "hg": "Uterus (bachchedani)"},
-        "def": {"en": "A muscular, pear-shaped organ in the lower abdomen whose lining builds up and sheds each cycle; a pregnancy grows here.", "hi": "पेट के निचले हिस्से में नाशपाती के आकार का मांसपेशियों वाला अंग, जिसकी परत हर चक्र में बनती और झड़ती है; गर्भ यहीं पलता है।", "hg": "Lower abdomen mein nashpati ki shape ka muscular organ, jiski lining har cycle mein banti aur shed hoti hai; pregnancy yahin grow karti hai."}
-      },
-      {
-        "term": {"en": "Menarche", "hi": "पहला पीरियड (मेनार्की)", "hg": "Menarche (first period)"},
-        "def": {"en": "The medical word for a person's very first period, which usually arrives between the ages of 10 and 15.", "hi": "किसी के सबसे पहले पीरियड के लिए डॉक्टरी शब्द, जो आम तौर पर 10 से 15 साल की उम्र के बीच आता है।", "hg": "Kisi ke sabse pehle period ke liye medical word, jo usually 10 se 15 saal ki age ke beech aata hai."}
-      },
-      {
-        "term": {"en": "Menstrual cycle", "hi": "मासिक चक्र", "hg": "Menstrual cycle"},
-        "def": {"en": "The repeating pattern counted from the first day of one period to the day before the next, typically 21 to 35 days in adults.", "hi": "एक पीरियड के पहले दिन से अगले पीरियड से एक दिन पहले तक गिना जाने वाला दोहराता सिलसिला, वयस्कों में आम तौर पर 21 से 35 दिन का।", "hg": "Ek period ke first day se agle period se ek din pehle tak gina jaane wala repeating pattern, adults mein usually 21 se 35 din ka."}
-      },
-      {
-        "term": {"en": "Sanitary pad", "hi": "सैनिटरी पैड", "hg": "Sanitary pad"},
-        "def": {"en": "An absorbent strip worn inside the underwear to soak up menstrual blood, changed about every 4 to 6 hours.", "hi": "सोखने वाली पट्टी जो माहवारी का खून सोखने के लिए अंडरवियर के अंदर लगाई जाती है और लगभग हर 4 से 6 घंटे में बदली जाती है।", "hg": "Absorbent strip jo period blood soak karne ke liye underwear ke andar lagayi jaati hai aur lagbhag har 4 se 6 ghante mein change ki jaati hai."}
-      },
-      {
-        "term": {"en": "Vaginal discharge", "hi": "योनि स्राव (सफ़ेद पानी)", "hg": "Vaginal discharge (safed paani)"},
-        "def": {"en": "Clear or white fluid from the vagina that keeps it clean and moist; its texture changes through the cycle.", "hi": "योनि से निकलने वाला साफ़ या सफ़ेद तरल, जो उसे साफ़ और नम रखता है; चक्र के साथ इसका गाढ़ापन बदलता रहता है।", "hg": "Vagina se nikalne wala clear ya white fluid, jo use clean aur moist rakhta hai; cycle ke saath iska texture badalta rehta hai."}
-      }
-    ]
+ {
+  "id": "d03-g1",
+  "domain": "d03",
+  "tracks": [
+   "B",
+   "C",
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "Period Basics",
+   "hg": "Period Basics"
   },
-  {
-    "id": "d03-g2", "domain": "d03", "tracks": ["C", "D", "E"],
-    "title": {"en": "Cycle and Health Terms", "hi": "चक्र और सेहत से जुड़े शब्द", "hg": "Cycle aur Health Terms"},
-    "terms": [
-      {
-        "term": {"en": "Ovulation", "hi": "ओव्यूलेशन (अंडोत्सर्ग)", "hg": "Ovulation"},
-        "def": {"en": "The release of a mature egg from an ovary, triggered by a surge of LH, roughly two weeks before the next period.", "hi": "अंडाशय से पके हुए अंडे का निकलना, जो LH के उछाल से होता है, अगले पीरियड से क़रीब दो हफ़्ते पहले।", "hg": "Ovary se mature egg ka release hona, jo LH ke surge se hota hai, agle period se kareeb do hafte pehle."}
-      },
-      {
-        "term": {"en": "PMS (premenstrual syndrome)", "hi": "पीएमएस (PMS)", "hg": "PMS (premenstrual syndrome)"},
-        "def": {"en": "Physical and emotional changes such as bloating, tender breasts and irritability in the one to two weeks before a period.", "hi": "पीरियड से एक-दो हफ़्ते पहले होने वाले शारीरिक और भावनात्मक बदलाव, जैसे पेट फूलना, स्तनों में दर्द और चिड़चिड़ापन।", "hg": "Period se ek-do hafte pehle hone wale physical aur emotional changes, jaise bloating, breasts mein tenderness aur chidchidapan."}
-      },
-      {
-        "term": {"en": "PMDD (premenstrual dysphoric disorder)", "hi": "पीएमडीडी (PMDD)", "hg": "PMDD (premenstrual dysphoric disorder)"},
-        "def": {"en": "A severe, treatable condition in which intense mood symptoms appear before periods and disrupt daily life, then lift after bleeding starts.", "hi": "एक गंभीर पर इलाज योग्य समस्या, जिसमें पीरियड से पहले मूड के तेज़ लक्षण रोज़मर्रा की ज़िंदगी बिगाड़ देते हैं और खून आना शुरू होने पर हट जाते हैं।", "hg": "Ek severe par treatable condition, jisme period se pehle intense mood symptoms daily life disturb kar dete hain aur bleeding start hone par hat jaate hain."}
-      },
-      {
-        "term": {"en": "PCOS (polycystic ovary syndrome)", "hi": "पीसीओएस (PCOS)", "hg": "PCOS (polycystic ovary syndrome)"},
-        "def": {"en": "A common hormonal condition with irregular ovulation, irregular periods and signs of higher androgens, such as extra facial hair and acne.", "hi": "हार्मोन से जुड़ी एक आम समस्या, जिसमें ओव्यूलेशन और पीरियड अनियमित होते हैं और एंड्रोजन बढ़ने के संकेत दिखते हैं, जैसे चेहरे पर ज़्यादा बाल और मुँहासे।", "hg": "Ek common hormonal condition, jisme ovulation aur periods irregular hote hain aur androgens badhne ke signs dikhte hain, jaise face pe extra baal aur acne."}
-      },
-      {
-        "term": {"en": "Endometriosis", "hi": "एंडोमेट्रियोसिस", "hg": "Endometriosis"},
-        "def": {"en": "A condition in which tissue similar to the uterus lining grows outside the uterus, causing inflammation and often severe pain.", "hi": "ऐसी स्थिति जिसमें गर्भाशय की परत जैसा ऊतक गर्भाशय के बाहर उगता है, जिससे सूजन और अक्सर तेज़ दर्द होता है।", "hg": "Aisi condition jisme uterus ki lining jaisa tissue uterus ke bahar grow karta hai, jisse inflammation aur aksar severe pain hota hai."}
-      },
-      {
-        "term": {"en": "Toxic shock syndrome (TSS)", "hi": "टॉक्सिक शॉक सिंड्रोम (TSS)", "hg": "Toxic shock syndrome (TSS)"},
-        "def": {"en": "A rare but serious infection linked to tampons or cups left in too long; signs are sudden high fever, rash, vomiting and dizziness.", "hi": "एक दुर्लभ पर गंभीर संक्रमण, जो बहुत देर तक लगे रहे टैम्पोन या कप से जुड़ा है; इसके संकेत हैं अचानक तेज़ बुख़ार, चकत्ते, उल्टी और चक्कर।", "hg": "Ek rare par serious infection, jo bahut der tak lage rahe tampon ya cup se juda hai; signs hain achanak tez bukhaar, rash, ulti aur chakkar."}
-      }
-    ]
-  }
+  "terms": [
+   {
+    "term": {
+     "en": "Menstruation (period)",
+     "hg": "Menstruation (period)"
+    },
+    "def": {
+     "en": "The regular shedding of the uterus lining, which leaves the body through the vagina as blood and tissue, usually for 2 to 7 days.",
+     "hg": "Uterus ki lining ka regularly shed hona, jo blood aur tissue ke roop mein vagina ke raaste bahar aati hai, usually 2 se 7 din tak."
+    }
+   },
+   {
+    "term": {
+     "en": "Uterus",
+     "hg": "Uterus (bachchedani)"
+    },
+    "def": {
+     "en": "A muscular, pear-shaped organ in the lower abdomen whose lining builds up and sheds each cycle; a pregnancy grows here.",
+     "hg": "Lower abdomen mein nashpati ki shape ka muscular organ, jiski lining har cycle mein banti aur shed hoti hai; pregnancy yahin grow karti hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Menarche",
+     "hg": "Menarche (first period)"
+    },
+    "def": {
+     "en": "The medical word for a person's very first period, which usually arrives between the ages of 10 and 15.",
+     "hg": "Kisi ke sabse pehle period ke liye medical word, jo usually 10 se 15 saal ki age ke beech aata hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Menstrual cycle",
+     "hg": "Menstrual cycle"
+    },
+    "def": {
+     "en": "The repeating pattern counted from the first day of one period to the day before the next, typically 21 to 35 days in adults.",
+     "hg": "Ek period ke first day se agle period se ek din pehle tak gina jaane wala repeating pattern, adults mein usually 21 se 35 din ka."
+    }
+   },
+   {
+    "term": {
+     "en": "Sanitary pad",
+     "hg": "Sanitary pad"
+    },
+    "def": {
+     "en": "An absorbent strip worn inside the underwear to soak up menstrual blood, changed about every 4 to 6 hours.",
+     "hg": "Absorbent strip jo period blood soak karne ke liye underwear ke andar lagayi jaati hai aur lagbhag har 4 se 6 ghante mein change ki jaati hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Vaginal discharge",
+     "hg": "Vaginal discharge (safed paani)"
+    },
+    "def": {
+     "en": "Clear or white fluid from the vagina that keeps it clean and moist; its texture changes through the cycle.",
+     "hg": "Vagina se nikalne wala clear ya white fluid, jo use clean aur moist rakhta hai; cycle ke saath iska texture badalta rehta hai."
+    }
+   }
+  ]
+ },
+ {
+  "id": "d03-g2",
+  "domain": "d03",
+  "tracks": [
+   "C",
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "Cycle and Health Terms",
+   "hg": "Cycle aur Health Terms"
+  },
+  "terms": [
+   {
+    "term": {
+     "en": "Ovulation",
+     "hg": "Ovulation"
+    },
+    "def": {
+     "en": "The release of a mature egg from an ovary, triggered by a surge of LH, roughly two weeks before the next period.",
+     "hg": "Ovary se mature egg ka release hona, jo LH ke surge se hota hai, agle period se kareeb do hafte pehle."
+    }
+   },
+   {
+    "term": {
+     "en": "PMS (premenstrual syndrome)",
+     "hg": "PMS (premenstrual syndrome)"
+    },
+    "def": {
+     "en": "Physical and emotional changes such as bloating, tender breasts and irritability in the one to two weeks before a period.",
+     "hg": "Period se ek-do hafte pehle hone wale physical aur emotional changes, jaise bloating, breasts mein tenderness aur chidchidapan."
+    }
+   },
+   {
+    "term": {
+     "en": "PMDD (premenstrual dysphoric disorder)",
+     "hg": "PMDD (premenstrual dysphoric disorder)"
+    },
+    "def": {
+     "en": "A severe, treatable condition in which intense mood symptoms appear before periods and disrupt daily life, then lift after bleeding starts.",
+     "hg": "Ek severe par treatable condition, jisme period se pehle intense mood symptoms daily life disturb kar dete hain aur bleeding start hone par hat jaate hain."
+    }
+   },
+   {
+    "term": {
+     "en": "PCOS (polycystic ovary syndrome)",
+     "hg": "PCOS (polycystic ovary syndrome)"
+    },
+    "def": {
+     "en": "A common hormonal condition with irregular ovulation, irregular periods and signs of higher androgens, such as extra facial hair and acne.",
+     "hg": "Ek common hormonal condition, jisme ovulation aur periods irregular hote hain aur androgens badhne ke signs dikhte hain, jaise face pe extra baal aur acne."
+    }
+   },
+   {
+    "term": {
+     "en": "Endometriosis",
+     "hg": "Endometriosis"
+    },
+    "def": {
+     "en": "A condition in which tissue similar to the uterus lining grows outside the uterus, causing inflammation and often severe pain.",
+     "hg": "Aisi condition jisme uterus ki lining jaisa tissue uterus ke bahar grow karta hai, jisse inflammation aur aksar severe pain hota hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Toxic shock syndrome (TSS)",
+     "hg": "Toxic shock syndrome (TSS)"
+    },
+    "def": {
+     "en": "A rare but serious infection linked to tampons or cups left in too long; signs are sudden high fever, rash, vomiting and dizziness.",
+     "hg": "Ek rare par serious infection, jo bahut der tak lage rahe tampon ya cup se juda hai; signs hain achanak tez bukhaar, rash, ulti aur chakkar."
+    }
+   }
+  ]
+ }
 ]

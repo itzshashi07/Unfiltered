@@ -1,66 +1,152 @@
 [
-  {
-    "id": "d01-g1",
-    "domain": "d01",
-    "tracks": ["A", "B"],
-    "title": {"en": "My Body Words", "hi": "मेरे शरीर के शब्द", "hg": "Meri Body ke Words"},
-    "terms": [
-      {
-        "term": {"en": "Private parts", "hi": "निजी अंग (private parts)", "hg": "Private parts"},
-        "def": {"en": "The parts of the body covered by underwear. They belong only to you and are kept private.", "hi": "शरीर के वे हिस्से जो अंडरवियर से ढके रहते हैं। ये सिर्फ़ तुम्हारे हैं और निजी रखे जाते हैं।", "hg": "Body ke woh parts jo underwear se dhake rehte hain. Yeh sirf tumhare hain aur private rakhe jaate hain."}
-      },
-      {
-        "term": {"en": "Penis", "hi": "लिंग (penis)", "hg": "Penis"},
-        "def": {"en": "The body part between the legs that most boys have. Urine comes out through it.", "hi": "पैरों के बीच का वह अंग जो ज़्यादातर लड़कों के पास होता है। इससे पेशाब बाहर आता है।", "hg": "Pairon ke beech ka woh part jo zyadatar ladkon ke paas hota hai. Isse urine bahar aata hai."}
-      },
-      {
-        "term": {"en": "Testicles", "hi": "अंडकोष (testicles)", "hg": "Testicles"},
-        "def": {"en": "Two small, round parts that sit in a soft bag of skin just behind the penis.", "hi": "दो छोटे, गोल अंग जो लिंग के ठीक पीछे त्वचा की एक नरम थैली में रहते हैं।", "hg": "Do chhote, gol parts jo penis ke theek peeche skin ki ek soft thaili mein rehte hain."}
-      },
-      {
-        "term": {"en": "Vulva", "hi": "वल्वा (vulva)", "hg": "Vulva"},
-        "def": {"en": "The outside private part between the legs that most girls have. It has soft folds of skin.", "hi": "पैरों के बीच का बाहरी निजी अंग जो ज़्यादातर लड़कियों के पास होता है। इसमें त्वचा की नरम तहें होती हैं।", "hg": "Pairon ke beech ka bahar wala private part jo zyadatar ladkiyon ke paas hota hai. Isme skin ke soft folds hote hain."}
-      },
-      {
-        "term": {"en": "Bottom", "hi": "नितंब (bottom)", "hg": "Bottom"},
-        "def": {"en": "The soft, round part of the body that you sit on. It is a private part too.", "hi": "शरीर का वह नरम, गोल हिस्सा जिस पर तुम बैठते हो। यह भी एक निजी अंग है।", "hg": "Body ka woh soft, gol part jis par tum baithte ho. Yeh bhi ek private part hai."}
-      },
-      {
-        "term": {"en": "Trusted adult", "hi": "भरोसेमंद बड़ा", "hg": "Trusted adult"},
-        "def": {"en": "A grown-up who listens to you and keeps you safe, like a parent, grandparent or teacher. You can tell them anything.", "hi": "ऐसा बड़ा इंसान जो तुम्हारी बात सुनता है और तुम्हें सुरक्षित रखता है, जैसे मम्मी-पापा, दादा-दादी या टीचर। तुम उन्हें कुछ भी बता सकते हो।", "hg": "Aisa bada insaan jo tumhari baat sunta hai aur tumhe safe rakhta hai, jaise mummy-papa, dada-dadi ya teacher. Tum unhe kuch bhi bata sakte ho."}
-      }
-    ]
+ {
+  "id": "d01-g1",
+  "domain": "d01",
+  "tracks": [
+   "A",
+   "B"
+  ],
+  "title": {
+   "en": "My Body Words",
+   "hg": "Meri Body ke Words"
   },
-  {
-    "id": "d01-g2",
-    "domain": "d01",
-    "tracks": ["B", "C", "D", "E"],
-    "title": {"en": "Reproductive Anatomy", "hi": "प्रजनन अंगों की शब्दावली", "hg": "Reproductive Anatomy ke Terms"},
-    "terms": [
-      {
-        "term": {"en": "Vagina", "hi": "योनि (vagina)", "hg": "Vagina"},
-        "def": {"en": "The stretchy, muscular passage inside the body that connects the vulva to the uterus. Period blood leaves through it.", "hi": "शरीर के अंदर का लचीला, मांसपेशियों वाला रास्ता जो वल्वा को गर्भाशय से जोड़ता है। पीरियड का ख़ून इसी से बाहर आता है।", "hg": "Body ke andar ka stretchy, muscular passage jo vulva ko uterus se connect karta hai. Period blood isi se bahar aata hai."}
-      },
-      {
-        "term": {"en": "Clitoris", "hi": "क्लिटोरिस (भगशेफ)", "hg": "Clitoris"},
-        "def": {"en": "A sensitive organ at the top of the vulva. Only its small tip is visible; most of it lies inside the body.", "hi": "वल्वा के ऊपरी हिस्से में एक संवेदनशील अंग। इसका बस छोटा-सा सिरा बाहर दिखता है; ज़्यादातर हिस्सा शरीर के अंदर होता है।", "hg": "Vulva ke top par ek sensitive organ. Iska bas chhota sa tip bahar dikhta hai; zyadatar part body ke andar hota hai."}
-      },
-      {
-        "term": {"en": "Uterus", "hi": "गर्भाशय (uterus)", "hg": "Uterus"},
-        "def": {"en": "A pear-sized muscular organ in the pelvis, also called the womb, where a baby can grow during pregnancy.", "hi": "पेल्विस में नाशपाती जितना बड़ा मांसपेशियों वाला अंग, जिसे बच्चेदानी भी कहते हैं; गर्भावस्था में बच्चा यहीं बढ़ता है।", "hg": "Pelvis mein naashpati ke size ka muscular organ, jise womb bhi kehte hain; pregnancy mein baby yahin grow karta hai."}
-      },
-      {
-        "term": {"en": "Ovaries", "hi": "अंडाशय (ovaries)", "hg": "Ovaries"},
-        "def": {"en": "Two small organs beside the uterus that store egg cells and make the hormones oestrogen and progesterone.", "hi": "गर्भाशय के पास के दो छोटे अंग, जिनमें अंडाणु जमा रहते हैं और जो एस्ट्रोजन व प्रोजेस्टेरोन हार्मोन बनाते हैं।", "hg": "Uterus ke paas ke do chhote organs, jinme egg cells store rehte hain aur jo oestrogen aur progesterone hormones banate hain."}
-      },
-      {
-        "term": {"en": "Testes", "hi": "वृषण (testes)", "hg": "Testes"},
-        "def": {"en": "Two oval organs inside the scrotum that make sperm and the hormone testosterone from puberty onwards.", "hi": "स्क्रोटम के अंदर के दो अंडाकार अंग, जो प्यूबर्टी के बाद से शुक्राणु और टेस्टोस्टेरोन हार्मोन बनाते हैं।", "hg": "Scrotum ke andar ke do oval organs, jo puberty ke baad se sperm aur testosterone hormone banate hain."}
-      },
-      {
-        "term": {"en": "Urethra", "hi": "मूत्रमार्ग (urethra)", "hg": "Urethra"},
-        "def": {"en": "The tube that carries urine out of the bladder. In a body with a penis it also carries semen.", "hi": "वह नली जो मूत्राशय से पेशाब को बाहर ले जाती है। जिस शरीर में लिंग होता है, उसमें वीर्य भी इसी से निकलता है।", "hg": "Woh tube jo bladder se urine ko bahar le jaati hai. Jis body mein penis hota hai, usme semen bhi isi se nikalta hai."}
-      }
-    ]
-  }
+  "terms": [
+   {
+    "term": {
+     "en": "Private parts",
+     "hg": "Private parts"
+    },
+    "def": {
+     "en": "The parts of the body covered by underwear. They belong only to you and are kept private.",
+     "hg": "Body ke woh parts jo underwear se dhake rehte hain. Yeh sirf tumhare hain aur private rakhe jaate hain."
+    }
+   },
+   {
+    "term": {
+     "en": "Penis",
+     "hg": "Penis"
+    },
+    "def": {
+     "en": "The body part between the legs that most boys have. Urine comes out through it.",
+     "hg": "Pairon ke beech ka woh part jo zyadatar ladkon ke paas hota hai. Isse urine bahar aata hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Testicles",
+     "hg": "Testicles"
+    },
+    "def": {
+     "en": "Two small, round parts that sit in a soft bag of skin just behind the penis.",
+     "hg": "Do chhote, gol parts jo penis ke theek peeche skin ki ek soft thaili mein rehte hain."
+    }
+   },
+   {
+    "term": {
+     "en": "Vulva",
+     "hg": "Vulva"
+    },
+    "def": {
+     "en": "The outside private part between the legs that most girls have. It has soft folds of skin.",
+     "hg": "Pairon ke beech ka bahar wala private part jo zyadatar ladkiyon ke paas hota hai. Isme skin ke soft folds hote hain."
+    }
+   },
+   {
+    "term": {
+     "en": "Bottom",
+     "hg": "Bottom"
+    },
+    "def": {
+     "en": "The soft, round part of the body that you sit on. It is a private part too.",
+     "hg": "Body ka woh soft, gol part jis par tum baithte ho. Yeh bhi ek private part hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Trusted adult",
+     "hg": "Trusted adult"
+    },
+    "def": {
+     "en": "A grown-up who listens to you and keeps you safe, like a parent, grandparent or teacher. You can tell them anything.",
+     "hg": "Aisa bada insaan jo tumhari baat sunta hai aur tumhe safe rakhta hai, jaise mummy-papa, dada-dadi ya teacher. Tum unhe kuch bhi bata sakte ho."
+    }
+   }
+  ]
+ },
+ {
+  "id": "d01-g2",
+  "domain": "d01",
+  "tracks": [
+   "B",
+   "C",
+   "D",
+   "E"
+  ],
+  "title": {
+   "en": "Reproductive Anatomy",
+   "hg": "Reproductive Anatomy ke Terms"
+  },
+  "terms": [
+   {
+    "term": {
+     "en": "Vagina",
+     "hg": "Vagina"
+    },
+    "def": {
+     "en": "The stretchy, muscular passage inside the body that connects the vulva to the uterus. Period blood leaves through it.",
+     "hg": "Body ke andar ka stretchy, muscular passage jo vulva ko uterus se connect karta hai. Period blood isi se bahar aata hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Clitoris",
+     "hg": "Clitoris"
+    },
+    "def": {
+     "en": "A sensitive organ at the top of the vulva. Only its small tip is visible; most of it lies inside the body.",
+     "hg": "Vulva ke top par ek sensitive organ. Iska bas chhota sa tip bahar dikhta hai; zyadatar part body ke andar hota hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Uterus",
+     "hg": "Uterus"
+    },
+    "def": {
+     "en": "A pear-sized muscular organ in the pelvis, also called the womb, where a baby can grow during pregnancy.",
+     "hg": "Pelvis mein naashpati ke size ka muscular organ, jise womb bhi kehte hain; pregnancy mein baby yahin grow karta hai."
+    }
+   },
+   {
+    "term": {
+     "en": "Ovaries",
+     "hg": "Ovaries"
+    },
+    "def": {
+     "en": "Two small organs beside the uterus that store egg cells and make the hormones oestrogen and progesterone.",
+     "hg": "Uterus ke paas ke do chhote organs, jinme egg cells store rehte hain aur jo oestrogen aur progesterone hormones banate hain."
+    }
+   },
+   {
+    "term": {
+     "en": "Testes",
+     "hg": "Testes"
+    },
+    "def": {
+     "en": "Two oval organs inside the scrotum that make sperm and the hormone testosterone from puberty onwards.",
+     "hg": "Scrotum ke andar ke do oval organs, jo puberty ke baad se sperm aur testosterone hormone banate hain."
+    }
+   },
+   {
+    "term": {
+     "en": "Urethra",
+     "hg": "Urethra"
+    },
+    "def": {
+     "en": "The tube that carries urine out of the bladder. In a body with a penis it also carries semen.",
+     "hg": "Woh tube jo bladder se urine ko bahar le jaati hai. Jis body mein penis hota hai, usme semen bhi isi se nikalta hai."
+    }
+   }
+  ]
+ }
 ]

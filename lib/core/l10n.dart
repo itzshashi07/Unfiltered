@@ -3,15 +3,15 @@ import 'package:flutter/widgets.dart';
 import 'strings.dart';
 
 /// App languages. Hinglish is the default experience.
-enum Lang { hg, hi, en }
+enum Lang { hg, en }
 
 extension LangX on Lang {
   String get label => switch (this) {
     Lang.hg => 'Hinglish',
-    Lang.hi => 'हिन्दी',
     Lang.en => 'English',
   };
 
+  /// Unknown or retired values (such as the old `hi` Hindi setting) open in Hinglish.
   static Lang parse(String? s) =>
       Lang.values.firstWhere((l) => l.name == s, orElse: () => Lang.hg);
 }
@@ -36,35 +36,31 @@ extension TrackX on Track {
   }
 }
 
-/// A localized string in the three app languages.
+/// A localized string in the two app languages.
 @immutable
 class L {
   final String en;
-  final String hi;
   final String hg;
-  const L(this.en, this.hi, this.hg);
-  static const empty = L('', '', '');
+  const L(this.en, this.hg);
+  static const empty = L('', '');
 
   factory L.from(dynamic j) {
-    if (j is Map) {
-      return L('${j['en'] ?? ''}', '${j['hi'] ?? ''}', '${j['hg'] ?? ''}');
-    }
-    if (j is String) return L(j, j, j);
+    if (j is Map) return L('${j['en'] ?? ''}', '${j['hg'] ?? ''}');
+    if (j is String) return L(j, j);
     return empty;
   }
 
   String of(Lang l) {
     final v = switch (l) {
       Lang.en => en,
-      Lang.hi => hi,
       Lang.hg => hg,
     };
     return v.isNotEmpty ? v : en;
   }
 
-  bool get isEmpty => en.isEmpty && hi.isEmpty && hg.isEmpty;
-  bool get isComplete => en.isNotEmpty && hi.isNotEmpty && hg.isNotEmpty;
-  List<String> get all => [en, hi, hg];
+  bool get isEmpty => en.isEmpty && hg.isEmpty;
+  bool get isComplete => en.isNotEmpty && hg.isNotEmpty;
+  List<String> get all => [en, hg];
 }
 
 /// Makes language, track and motion preferences available to every widget.

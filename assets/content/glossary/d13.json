@@ -8,79 +8,66 @@
   ],
   "title": {
    "en": "Online Safety Words",
-   "hi": "ऑनलाइन सुरक्षा के शब्द",
    "hg": "Online Safety ke Words"
   },
   "terms": [
    {
     "term": {
      "en": "Private information",
-     "hi": "निजी जानकारी",
      "hg": "Private information"
     },
     "def": {
      "en": "Things about you that only your family should know, like your full name, school, address, phone number and photos.",
-     "hi": "तुम्हारे बारे में वे बातें जो सिर्फ़ तुम्हारे परिवार को पता होनी चाहिए, जैसे पूरा नाम, स्कूल, पता, फ़ोन नंबर और फ़ोटो।",
      "hg": "Tumhare baare mein woh baatein jo sirf tumhari family ko pata honi chahiye, jaise poora naam, school, address, phone number aur photos."
     }
    },
    {
     "term": {
      "en": "Password",
-     "hi": "पासवर्ड",
      "hg": "Password"
     },
     "def": {
      "en": "A secret word or code that opens your account. Only you and your parents or guardian should know it.",
-     "hi": "एक गुप्त शब्द या कोड जिससे तुम्हारा अकाउंट खुलता है। यह सिर्फ़ तुम्हें और तुम्हारे माता-पिता या अभिभावक को पता होना चाहिए।",
      "hg": "Ek secret word ya code jisse tumhara account khulta hai. Yeh sirf tumhe aur tumhare parents ya guardian ko pata hona chahiye."
     }
    },
    {
     "term": {
      "en": "Online stranger",
-     "hi": "ऑनलाइन अनजान",
      "hg": "Online stranger"
     },
     "def": {
      "en": "Someone you know only through a game, app or chat and have never met with your family. You cannot be sure who they really are.",
-     "hi": "ऐसा कोई जिसे तुम सिर्फ़ गेम, ऐप या चैट से जानते हो और जिससे अपने परिवार के साथ कभी मिले नहीं। तुम पक्का नहीं जान सकते कि वह असल में कौन है।",
      "hg": "Aisa koi jisse tum sirf game, app ya chat se jaante ho aur jisse apni family ke saath kabhi mile nahi. Tum pakka nahi jaan sakte ki woh asal mein kaun hai."
     }
    },
    {
     "term": {
      "en": "Trusted adult",
-     "hi": "भरोसेमंद बड़ा",
      "hg": "Trusted adult"
     },
     "def": {
      "en": "A grown-up who keeps you safe and listens to you, such as a parent, grandparent or teacher. You can tell them anything.",
-     "hi": "ऐसा बड़ा जो तुम्हें सुरक्षित रखता है और तुम्हारी बात सुनता है, जैसे माता-पिता, दादा-दादी, नाना-नानी या टीचर। तुम उन्हें कुछ भी बता सकते हो।",
      "hg": "Aisa bada jo tumhe safe rakhta hai aur tumhari baat sunta hai, jaise parents, grandparents ya teacher. Tum unhe kuch bhi bata sakte ho."
     }
    },
    {
     "term": {
      "en": "Block",
-     "hi": "ब्लॉक करना",
      "hg": "Block karna"
     },
     "def": {
      "en": "A button that stops a person from messaging you or seeing your profile. Ask a grown-up to help you use it.",
-     "hi": "एक बटन जो किसी इंसान को तुम्हें मैसेज करने या तुम्हारी प्रोफ़ाइल देखने से रोक देता है। इसे इस्तेमाल करने में किसी बड़े की मदद लो।",
      "hg": "Ek button jo kisi insaan ko tumhe message karne ya tumhari profile dekhne se rok deta hai. Isse use karne mein kisi bade ki help lo."
     }
    },
    {
     "term": {
      "en": "Report",
-     "hi": "रिपोर्ट करना",
      "hg": "Report karna"
     },
     "def": {
      "en": "Telling the app or a grown-up that someone is being mean, scary or unsafe, so that they can stop it.",
-     "hi": "ऐप को या किसी बड़े को बताना कि कोई बुरा बर्ताव कर रहा है, डरा रहा है या असुरक्षित है, ताकि वे उसे रोक सकें।",
      "hg": "App ko ya kisi bade ko batana ki koi mean, scary ya unsafe behave kar raha hai, taaki woh usse rok sakein."
     }
    }
@@ -96,79 +83,66 @@
   ],
   "title": {
    "en": "Online Exploitation Terms",
-   "hi": "ऑनलाइन शोषण से जुड़े शब्द",
    "hg": "Online Exploitation ke Terms"
   },
   "terms": [
    {
     "term": {
      "en": "Grooming",
-     "hi": "ग्रूमिंग (grooming)",
      "hg": "Grooming"
     },
     "def": {
      "en": "Gradually building trust and secrecy with a child or teenager, often through attention and gifts, in order to exploit or abuse them later.",
-     "hi": "किसी बच्चे या किशोर के साथ, अक्सर ध्यान और तोहफ़ों के ज़रिए, धीरे-धीरे भरोसा और राज़ बनाना ताकि बाद में उसका शोषण किया जा सके।",
      "hg": "Kisi bachche ya teenager ke saath, aksar attention aur gifts ke through, dheere-dheere trust aur secrecy banana taaki baad mein uska exploitation ya abuse kiya ja sake."
     }
    },
    {
     "term": {
      "en": "Sextortion",
-     "hi": "सेक्सटॉर्शन (sextortion)",
      "hg": "Sextortion"
     },
     "def": {
      "en": "Blackmail in which someone threatens to share a sexual image or video, real or fake, unless the victim gives money, more images or sexual acts.",
-     "hi": "ऐसा ब्लैकमेल जिसमें कोई धमकी देता है कि अगर पीड़ित ने पैसे, और ज़्यादा तस्वीरें या यौन हरकतें नहीं दीं तो वह असली या नकली यौन फ़ोटो या वीडियो फैला देगा।",
      "hg": "Aisa blackmail jisme koi dhamki deta hai ki agar victim ne paise, aur zyada images ya sexual acts nahi diye toh woh real ya fake sexual photo ya video share kar dega."
     }
    },
    {
     "term": {
      "en": "Deepfake",
-     "hi": "डीपफेक (deepfake)",
      "hg": "Deepfake"
     },
     "def": {
      "en": "A photo, video or audio clip created or altered with AI so that a real person seems to do or say something they never did.",
-     "hi": "AI से बनाई या बदली गई फ़ोटो, वीडियो या ऑडियो क्लिप, जिसमें कोई असली इंसान वह करता या कहता लगता है जो उसने कभी किया या कहा नहीं।",
      "hg": "AI se banayi ya badli gayi photo, video ya audio clip, jisme koi real insaan woh karta ya bolta lagta hai jo usne kabhi kiya ya bola nahi."
     }
    },
    {
     "term": {
      "en": "Image-based sexual abuse",
-     "hi": "तस्वीरों के ज़रिए यौन शोषण (image-based sexual abuse)",
      "hg": "Image-based sexual abuse"
     },
     "def": {
      "en": "Creating, sharing or threatening to share a person's intimate image without consent, including secretly recorded, morphed and AI-generated images.",
-     "hi": "किसी की अंतरंग तस्वीर उसकी सहमति के बिना बनाना, शेयर करना या शेयर करने की धमकी देना; इसमें चुपके से रिकॉर्ड की गई, मॉर्फ़ की हुई और AI से बनी तस्वीरें भी आती हैं।",
      "hg": "Kisi ki intimate image uski consent ke bina banana, share karna ya share karne ki dhamki dena; isme chupke se record ki gayi, morphed aur AI-generated images bhi aati hain."
     }
    },
    {
     "term": {
      "en": "Child sexual abuse material (CSAM)",
-     "hi": "बाल यौन शोषण सामग्री (CSAM)",
      "hg": "Child sexual abuse material (CSAM)"
     },
     "def": {
      "en": "Any sexual image or video of a person under 18. Creating, viewing, storing or sharing it is an offence in India, so it must never be saved or forwarded.",
-     "hi": "18 से कम उम्र के किसी इंसान की कोई भी यौन तस्वीर या वीडियो। भारत में इसे बनाना, देखना, रखना या शेयर करना अपराध है, इसलिए इसे कभी सेव या फ़ॉरवर्ड नहीं करना चाहिए।",
      "hg": "Under-18 kisi insaan ki koi bhi sexual image ya video. India mein isse banana, dekhna, store karna ya share karna offence hai, isliye isse kabhi save ya forward nahi karna chahiye."
     }
    },
    {
     "term": {
      "en": "Impersonation",
-     "hi": "नकली पहचान बनाना (impersonation)",
      "hg": "Impersonation"
     },
     "def": {
      "en": "Pretending to be another person online, for example with a fake profile using their name and photos, to deceive, harass or cheat others.",
-     "hi": "ऑनलाइन किसी और इंसान के होने का नाटक करना, जैसे उसके नाम और फ़ोटो से फ़र्ज़ी प्रोफ़ाइल बनाकर, ताकि दूसरों को धोखा दिया, परेशान किया या ठगा जा सके।",
      "hg": "Online kisi aur insaan ke hone ka natak karna, jaise uske naam aur photos se fake profile banakar, taaki doosron ko dhokha diya, harass kiya ya cheat kiya ja sake."
     }
    }

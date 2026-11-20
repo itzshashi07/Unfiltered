@@ -420,7 +420,6 @@ class _LangStep extends ConsumerWidget {
     final c = context.c;
     const samples = {
       Lang.hg: 'Periods biology hain, sharam ki cheez nahi.',
-      Lang.hi: 'माहवारी जीव-विज्ञान है, शर्म की बात नहीं।',
       Lang.en: 'Periods are biology, not something to be ashamed of.',
     };
     return _Step(

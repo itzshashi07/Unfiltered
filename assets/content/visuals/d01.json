@@ -4,7 +4,6 @@
   "type": "grid",
   "title": {
    "en": "My body belongs to me",
-   "hi": "मेरा शरीर मेरा है",
    "hg": "Meri body sirf meri hai"
   },
   "items": [
@@ -12,12 +11,10 @@
     "icon": "book",
     "label": {
      "en": "Real names",
-     "hi": "असली नाम",
      "hg": "Asli naam"
     },
     "text": {
      "en": "Penis, testicles, vulva, bottom and nipples are real names, like elbow or knee. Saying them is okay.",
-     "hi": "लिंग, अंडकोष, वल्वा, नितंब और निप्पल असली नाम हैं, जैसे कोहनी या घुटना। इन्हें बोलना ठीक है।",
      "hg": "Penis, testicles, vulva, bottom aur nipples asli naam hain, jaise kohni ya ghutna. Inhe bolna bilkul theek hai."
     }
    },
@@ -25,12 +22,10 @@
     "icon": "lock",
     "label": {
      "en": "Private parts are private",
-     "hi": "निजी अंग निजी हैं",
      "hg": "Private parts private hain"
     },
     "text": {
      "en": "The parts under your underwear belong only to you. Nobody should touch, look at or photograph them.",
-     "hi": "अंडरवियर के नीचे वाले हिस्से सिर्फ़ तुम्हारे हैं। कोई उन्हें न छुए, न देखे, न उनकी फ़ोटो ले।",
      "hg": "Underwear ke neeche wale parts sirf tumhare hain. Koi unhe na touch kare, na dekhe, na unki photo le."
     }
    },
@@ -38,12 +33,10 @@
     "icon": "doctor",
     "label": {
      "en": "Bath time and check-ups",
-     "hi": "नहाना और डॉक्टर की जाँच",
      "hg": "Nahana aur doctor check-up"
     },
     "text": {
      "en": "A parent may help you bathe while you are small. A doctor may check you when unwell, with your parent there.",
-     "hi": "जब तक तुम छोटे हो, मम्मी-पापा नहलाने में मदद कर सकते हैं। बीमार होने पर डॉक्टर जाँच कर सकते हैं, तब मम्मी या पापा साथ रहेंगे।",
      "hg": "Jab tak tum chhote ho, mummy-papa nehlane mein help kar sakte hain. Bimaar hone par doctor check kar sakte hain, tab mummy ya papa saath rahenge."
     }
    },
@@ -51,12 +44,10 @@
     "icon": "stop",
     "label": {
      "en": "Say NO, move away",
-     "hi": "'नहीं' बोलो, दूर हटो",
      "hg": "NO bolo, door hato"
     },
     "text": {
      "en": "If any touch makes you feel scared, confused or yucky, say NO and move away.",
-     "hi": "अगर किसी के छूने से डर लगे, अजीब लगे या बुरा लगे, तो ज़ोर से 'नहीं' बोलो और दूर हट जाओ।",
      "hg": "Agar kisi touch se darr lage, ajeeb lage ya bura lage, toh zor se NO bolo aur door hat jao."
     }
    },
@@ -64,12 +55,10 @@
     "icon": "talk",
     "label": {
      "en": "Tell a grown-up you trust",
-     "hi": "किसी भरोसेमंद बड़े को बताओ",
      "hg": "Kisi trusted bade ko batao"
     },
     "text": {
      "en": "Tell Mummy, Papa, Dadi or your teacher. Keep telling until someone helps you.",
-     "hi": "मम्मी, पापा, दादी या टीचर को बताओ। जब तक कोई मदद न करे, बताते रहो।",
      "hg": "Mummy, Papa, Dadi ya teacher ko batao. Jab tak koi help na kare, batate raho."
     }
    },
@@ -77,12 +66,10 @@
     "icon": "heart",
     "label": {
      "en": "Never your fault",
-     "hi": "तुम्हारी कोई ग़लती नहीं",
      "hg": "Tumhari koi galti nahi"
     },
     "text": {
      "en": "Tell even if it was someone you like, or they said it is a secret. It is never your fault.",
-     "hi": "चाहे वह कोई ऐसा हो जो तुम्हें अच्छा लगता है, या उसने इसे सीक्रेट कहा हो, तब भी बताओ। यह कभी तुम्हारी ग़लती नहीं होती।",
      "hg": "Chahe woh koi aisa ho jo tumhe achha lagta hai, ya usne ise secret bola ho, tab bhi batao. Yeh kabhi tumhari galti nahi hoti."
     }
    }
@@ -93,7 +80,6 @@
   "type": "grid",
   "title": {
    "en": "Your body map, correctly labelled",
-   "hi": "शरीर का नक्शा, सही नामों के साथ",
    "hg": "Body ka map, sahi labels ke saath"
   },
   "items": [
@@ -101,12 +87,10 @@
     "icon": "body",
     "label": {
      "en": "Outside and inside",
-     "hi": "बाहर और अंदर",
      "hg": "Bahar aur andar"
     },
     "text": {
      "en": "External organs can be seen outside. Internal ones sit protected inside the pelvis, a bony bowl.",
-     "hi": "बाहरी अंग बाहर दिखते हैं। अंदरूनी अंग हड्डियों के कटोरे जैसे पेल्विस के अंदर सुरक्षित रहते हैं।",
      "hg": "External organs bahar dikhte hain. Internal organs haddiyon ke bowl jaise pelvis ke andar safe rehte hain."
     }
    },
@@ -114,12 +98,10 @@
     "icon": "hormone",
     "label": {
      "en": "Penis, scrotum and testes",
-     "hi": "लिंग, स्क्रोटम और वृषण",
      "hg": "Penis, scrotum aur testes"
     },
     "text": {
      "en": "Urine leaves through the penis. The scrotum holds two testes, which make sperm and testosterone from puberty.",
-     "hi": "पेशाब लिंग से बाहर आता है। स्क्रोटम में दो वृषण होते हैं, जो प्यूबर्टी से शुक्राणु और टेस्टोस्टेरोन बनाते हैं।",
      "hg": "Urine penis se bahar aata hai. Scrotum mein do testes hote hain, jo puberty se sperm aur testosterone banate hain."
     }
    },
@@ -127,12 +109,10 @@
     "icon": "eye",
     "label": {
      "en": "Vulva: the outside",
-     "hi": "वल्वा: बाहर का हिस्सा",
      "hg": "Vulva: bahar ka part"
     },
     "text": {
      "en": "The vulva is everything on the outside: the labia, the clitoris and two openings.",
-     "hi": "बाहर दिखने वाले पूरे हिस्से को वल्वा कहते हैं: लेबिया, क्लिटोरिस और दो छेद।",
      "hg": "Bahar dikhne wale poore area ko vulva kehte hain: labia, clitoris aur do openings."
     }
    },
@@ -140,12 +120,10 @@
     "icon": "path",
     "label": {
      "en": "Vagina: the passage inside",
-     "hi": "योनि: अंदर का रास्ता",
      "hg": "Vagina: andar ka passage"
     },
     "text": {
      "en": "The vagina is a stretchy passage inside the body, leading from the vulva up to the uterus.",
-     "hi": "योनि शरीर के अंदर एक लचीला रास्ता है, जो वल्वा से ऊपर गर्भाशय तक जाता है।",
      "hg": "Vagina body ke andar ek stretchy passage hai, jo vulva se upar uterus tak jaata hai."
     }
    },
@@ -153,12 +131,10 @@
     "icon": "egg",
     "label": {
      "en": "Uterus and ovaries",
-     "hi": "गर्भाशय और अंडाशय",
      "hg": "Uterus aur ovaries"
     },
     "text": {
      "en": "A baby can grow in the pear-sized uterus. Two ovaries store tiny eggs and make oestrogen.",
-     "hi": "नाशपाती जितने बड़े गर्भाशय में बच्चा बढ़ सकता है। दो अंडाशय नन्हे अंडाणु सँभालकर रखते हैं और एस्ट्रोजन बनाते हैं।",
      "hg": "Nashpati size ke uterus mein baby grow kar sakta hai. Do ovaries chhote-chhote eggs store karti hain aur oestrogen banati hain."
     }
    },
@@ -166,12 +142,10 @@
     "icon": "drop",
     "label": {
      "en": "Pee has its own route",
-     "hi": "पेशाब का अपना रास्ता",
      "hg": "Pee ka apna route"
     },
     "text": {
      "en": "Urine leaves through the urethra, not the vagina. Wiping front to back keeps germs away.",
-     "hi": "पेशाब मूत्रमार्ग (urethra) से निकलता है, योनि से नहीं। आगे से पीछे की ओर पोंछने से कीटाणु दूर रहते हैं।",
      "hg": "Urine urethra se nikalta hai, vagina se nahi. Aage se peeche wipe karne se germs door rehte hain."
     }
    }
@@ -182,7 +156,6 @@
   "type": "steps",
   "title": {
    "en": "How the brain switches on puberty",
-   "hi": "दिमाग़ प्यूबर्टी को कैसे चालू करता है",
    "hg": "Brain puberty ko kaise switch on karta hai"
   },
   "items": [
@@ -190,12 +163,10 @@
     "icon": "brain",
     "label": {
      "en": "Hypothalamus sends GnRH",
-     "hi": "हाइपोथैलेमस GnRH भेजता है",
      "hg": "Hypothalamus GnRH bhejta hai"
     },
     "text": {
      "en": "Puberty starts in the brain. The hypothalamus begins releasing a signal hormone, GnRH, in pulses.",
-     "hi": "प्यूबर्टी दिमाग़ से शुरू होती है। हाइपोथैलेमस रुक-रुककर GnRH नाम का संकेत-हार्मोन छोड़ने लगता है।",
      "hg": "Puberty brain se start hoti hai. Hypothalamus pulses mein GnRH naam ka signal hormone release karne lagta hai."
     }
    },
@@ -203,12 +174,10 @@
     "icon": "hormone",
     "label": {
      "en": "Pituitary sends LH and FSH",
-     "hi": "पिट्यूटरी LH और FSH भेजती है",
      "hg": "Pituitary LH aur FSH bhejti hai"
     },
     "text": {
      "en": "The pea-sized pituitary gland wakes up and sends LH and FSH out through the blood.",
-     "hi": "मटर के दाने जितनी पिट्यूटरी ग्रंथि जाग जाती है और ख़ून के ज़रिए LH और FSH भेजती है।",
      "hg": "Matar ke daane jitni pituitary gland jaag jaati hai aur blood ke through LH aur FSH bhejti hai."
     }
    },
@@ -216,12 +185,10 @@
     "icon": "target",
     "label": {
      "en": "Testes or ovaries switch on",
-     "hi": "वृषण या अंडाशय चालू होते हैं",
      "hg": "Testes ya ovaries on hote hain"
     },
     "text": {
      "en": "LH and FSH reach the testes or ovaries and switch them on. No food or exercise can speed this up.",
-     "hi": "LH और FSH वृषण या अंडाशय तक पहुँचकर उन्हें चालू कर देते हैं। कोई ख़ास खाना या कसरत इसे तेज़ नहीं कर सकती।",
      "hg": "LH aur FSH testes ya ovaries tak pahunchkar unhe switch on kar dete hain. Koi special khana ya exercise ise fast nahi kar sakta."
     }
    },
@@ -229,12 +196,10 @@
     "icon": "balance",
     "label": {
      "en": "Sex hormones rise",
-     "hi": "सेक्स हार्मोन बढ़ते हैं",
      "hg": "Sex hormones badhte hain"
     },
     "text": {
      "en": "Testosterone, oestrogen and progesterone rise. Every body makes all of them, just in different amounts.",
-     "hi": "टेस्टोस्टेरोन, एस्ट्रोजन और प्रोजेस्टेरोन बढ़ते हैं। हर शरीर ये सभी बनाता है, बस मात्रा अलग होती है।",
      "hg": "Testosterone, oestrogen aur progesterone badhte hain. Har body yeh sab banati hai, bas amount alag hota hai."
     }
    },
@@ -242,12 +207,10 @@
     "icon": "growth",
     "label": {
      "en": "Changes you can see",
-     "hi": "दिखने वाले बदलाव",
      "hg": "Dikhne wale changes"
     },
     "text": {
      "en": "Oily skin and acne, darker body hair, a deeper voice, and breast or chest development.",
-     "hi": "तैलीय त्वचा और मुँहासे, गहरे और मोटे बाल, भारी आवाज़, और स्तन या छाती का विकास।",
      "hg": "Oily skin aur acne, dark aur mote body hair, deep voice, aur breast ya chest development."
     }
    }
@@ -258,7 +221,6 @@
   "type": "steps",
   "title": {
    "en": "From egg and sperm to pregnancy",
-   "hi": "अंडाणु और शुक्राणु से गर्भ तक",
    "hg": "Egg aur sperm se pregnancy tak"
   },
   "items": [
@@ -266,12 +228,10 @@
     "icon": "egg",
     "label": {
      "en": "Ovulation",
-     "hi": "ओव्यूलेशन",
      "hg": "Ovulation"
     },
     "text": {
      "en": "An ovary releases an egg about two weeks before the next period. The egg survives 12 to 24 hours.",
-     "hi": "अगले पीरियड से क़रीब दो हफ़्ते पहले एक अंडाशय अंडाणु छोड़ता है। अंडाणु 12 से 24 घंटे ज़िंदा रहता है।",
      "hg": "Next period se lagbhag do hafte pehle ek ovary egg release karti hai. Egg 12 se 24 ghante survive karta hai."
     }
    },
@@ -279,12 +239,10 @@
     "icon": "hourglass",
     "label": {
      "en": "Sperm can wait days",
-     "hi": "शुक्राणु कई दिन टिकते हैं",
      "hg": "Sperm kai din tikte hain"
     },
     "text": {
      "en": "Sperm can survive in the body for up to about five days, so the fertile window is several days long.",
-     "hi": "शुक्राणु शरीर के अंदर क़रीब पाँच दिन तक ज़िंदा रह सकते हैं, इसलिए गर्भ ठहरने की संभावना वाले दिन कई होते हैं।",
      "hg": "Sperm body ke andar lagbhag paanch din tak survive kar sakte hain, isliye fertile window kai dino ki hoti hai."
     }
    },
@@ -292,12 +250,10 @@
     "icon": "plus",
     "label": {
      "en": "Fertilisation",
-     "hi": "निषेचन",
      "hg": "Fertilisation"
     },
     "text": {
      "en": "If one sperm joins the egg, usually in the fallopian tube, that is fertilisation.",
-     "hi": "अगर एक शुक्राणु अंडाणु से मिल जाए, आम तौर पर फ़ैलोपियन ट्यूब में, तो इसे निषेचन कहते हैं।",
      "hg": "Agar ek sperm egg se mil jaye, usually fallopian tube mein, toh ise fertilisation kehte hain."
     }
    },
@@ -305,12 +261,10 @@
     "icon": "pregnant",
     "label": {
      "en": "Implantation",
-     "hi": "इम्प्लांटेशन",
      "hg": "Implantation"
     },
     "text": {
      "en": "About a week later the fertilised egg implants in the uterus lining: pregnancy begins. It can happen the first time someone has sex.",
-     "hi": "क़रीब एक हफ़्ते बाद निषेचित अंडाणु गर्भाशय की परत में जम जाता है और गर्भावस्था शुरू होती है। यह पहली बार सेक्स करने पर भी हो सकता है।",
      "hg": "Lagbhag ek hafte baad fertilised egg uterus ki lining mein implant hota hai aur pregnancy start hoti hai. Yeh pehli baar sex karne par bhi ho sakta hai."
     }
    },
@@ -318,12 +272,10 @@
     "icon": "cycle",
     "label": {
      "en": "No pregnancy? A period",
-     "hi": "गर्भ नहीं, तो पीरियड",
      "hg": "Pregnancy nahi? Toh period"
     },
     "text": {
      "en": "If no fertilised egg arrives, hormones drop and the uterus lining leaves through the vagina as a period.",
-     "hi": "अगर कोई निषेचित अंडाणु नहीं आता, तो हार्मोन घट जाते हैं और गर्भाशय की परत योनि के रास्ते पीरियड बनकर निकल जाती है।",
      "hg": "Agar koi fertilised egg nahi aata, toh hormones gir jaate hain aur uterus ki lining vagina ke raaste period ban kar nikal jaati hai."
     }
    }
@@ -334,13 +286,11 @@
   "type": "compare",
   "title": {
    "en": "Rumours vs real anatomy",
-   "hi": "अफ़वाहें बनाम असली शरीर-रचना",
    "hg": "Rumours vs asli anatomy"
   },
   "left": {
    "title": {
     "en": "Rumour",
-    "hi": "अफ़वाह",
     "hg": "Rumour"
    },
    "tone": "bad",
@@ -348,22 +298,18 @@
    "points": [
     {
      "en": "The clitoris is just the small nub you can see.",
-     "hi": "क्लिटोरिस बस वह छोटा उभार है जो बाहर दिखता है।",
      "hg": "Clitoris bas woh chhota ubhaar hai jo bahar dikhta hai."
     },
     {
      "en": "Bleeding on the wedding night proves a woman is a virgin.",
-     "hi": "शादी की रात ख़ून आना साबित करता है कि लड़की वर्जिन है।",
      "hg": "Shaadi ki raat bleeding hona prove karta hai ki ladki virgin hai."
     },
     {
      "en": "The vagina needs washing inside with soap to stay clean.",
-     "hi": "योनि को साफ़ रखने के लिए अंदर साबुन से धोना ज़रूरी है।",
      "hg": "Vagina clean rakhne ke liye andar soap se wash karna zaroori hai."
     },
     {
      "en": "The right oil, pill or exercise can make a penis bigger.",
-     "hi": "सही तेल, गोली या कसरत से लिंग बड़ा हो सकता है।",
      "hg": "Sahi tel, goli ya exercise se penis bada ho sakta hai."
     }
    ]
@@ -371,7 +317,6 @@
   "right": {
    "title": {
     "en": "Real anatomy",
-    "hi": "असली शरीर-रचना",
     "hg": "Asli anatomy"
    },
    "tone": "good",
@@ -379,22 +324,18 @@
    "points": [
     {
      "en": "Most of the clitoris lies inside the body, around the vaginal opening.",
-     "hi": "क्लिटोरिस का ज़्यादातर हिस्सा शरीर के अंदर, योनि के मुँह के आसपास होता है।",
      "hg": "Clitoris ka zyadatar part body ke andar, vaginal opening ke aas-paas hota hai."
     },
     {
      "en": "Many people do not bleed. No examination can show whether someone has had sex.",
-     "hi": "बहुत लोगों को ख़ून नहीं आता। कोई भी जाँच यह नहीं बता सकती कि किसी ने सेक्स किया है या नहीं।",
      "hg": "Bahut logon ko bleeding nahi hoti. Koi bhi examination nahi bata sakta ki kisi ne sex kiya hai ya nahi."
     },
     {
      "en": "The vagina cleans itself; soap inside upsets its balance. Only the vulva needs gentle washing.",
-     "hi": "योनि ख़ुद को साफ़ रखती है; अंदर साबुन से उसका संतुलन बिगड़ता है। सिर्फ़ वल्वा को हल्के से धोना काफ़ी है।",
      "hg": "Vagina khud ko clean rakhti hai; andar soap se balance bigadta hai. Sirf vulva ko gently wash karna kaafi hai."
     },
     {
      "en": "No oil, pill or exercise enlarges the penis, and size has no link to fertility.",
-     "hi": "कोई तेल, गोली या कसरत लिंग को बड़ा नहीं करती, और आकार का प्रजनन क्षमता से कोई संबंध नहीं।",
      "hg": "Koi tel, goli ya exercise penis bada nahi karti, aur size ka fertility se koi link nahi."
     }
    ]
@@ -405,13 +346,11 @@
   "type": "compare",
   "title": {
    "en": "Normal variation or a doctor visit?",
-   "hi": "आम भिन्नता या डॉक्टर के पास जाना?",
    "hg": "Normal variation ya doctor visit?"
   },
   "left": {
    "title": {
     "en": "Usually just variation",
-    "hi": "आम तौर पर बस भिन्नता",
     "hg": "Usually bas variation"
    },
    "tone": "good",
@@ -419,22 +358,18 @@
    "points": [
     {
      "en": "One testis hanging lower, or one breast larger than the other",
-     "hi": "एक वृषण का थोड़ा नीचे लटकना, या एक स्तन का दूसरे से बड़ा होना",
      "hg": "Ek testis ka thoda neeche latakna, ya ek breast ka doosre se bada hona"
     },
     {
      "en": "Inner labia longer, darker or uneven; nipples flat, raised or turned inward",
-     "hi": "भीतरी लेबिया लंबे, गहरे रंग के या असमान; निप्पल चपटे, उभरे या अंदर की ओर मुड़े",
      "hg": "Inner labia lambe, dark ya uneven; nipples flat, ubhre ya andar ki taraf mude"
     },
     {
      "en": "A slight curve in the penis, darker genital skin, or stretch marks",
-     "hi": "लिंग में हल्का टेढ़ापन, जननांगों के पास गहरी त्वचा, या स्ट्रेच मार्क्स",
      "hg": "Penis mein halka curve, genital area ki dark skin, ya stretch marks"
     },
     {
      "en": "Sparse or dense body hair, set mostly by family genes",
-     "hi": "शरीर पर कम या घने बाल, जो ज़्यादातर परिवार के जीन से तय होते हैं",
      "hg": "Body par kam ya ghane baal, jo zyadatar family genes se decide hote hain"
     }
    ]
@@ -442,7 +377,6 @@
   "right": {
    "title": {
     "en": "Get it checked",
-    "hi": "जाँच करवाओ",
     "hg": "Check-up karwao"
    },
    "tone": "bad",
@@ -450,22 +384,18 @@
    "points": [
     {
      "en": "A new lump in a testis or a breast",
-     "hi": "वृषण या स्तन में नई गाँठ",
      "hg": "Testis ya breast mein nayi lump"
     },
     {
      "en": "Unusual discharge, burning when you urinate, or genital sores, warts or a rash",
-     "hi": "असामान्य स्राव, पेशाब में जलन, या जननांगों पर घाव, मस्से या दाने",
      "hg": "Unusual discharge, urine karte time jalan, ya genitals par sores, warts ya rash"
     },
     {
      "en": "No signs of puberty by 13 in girls or 14 in boys, or no period by 15",
-     "hi": "लड़कियों में 13 या लड़कों में 14 साल तक प्यूबर्टी का कोई लक्षण नहीं, या 15 तक पीरियड नहीं",
      "hg": "Ladkiyon mein 13 ya ladkon mein 14 tak puberty ka koi sign nahi, ya 15 tak period nahi"
     },
     {
      "en": "Sudden, severe pain in a testis is an emergency: go to hospital immediately",
-     "hi": "वृषण में अचानक तेज़ दर्द इमरजेंसी है: तुरंत अस्पताल जाओ",
      "hg": "Testis mein achanak tez dard emergency hai: turant hospital jao"
     }
    ]

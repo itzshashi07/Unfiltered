@@ -4,7 +4,6 @@
   "type": "grid",
   "title": {
    "en": "How to be a good friend",
-   "hi": "अच्छा दोस्त कैसे बनें",
    "hg": "Achha dost kaise banein"
   },
   "items": [
@@ -12,12 +11,10 @@
     "icon": "happy",
     "label": {
      "en": "Kind words",
-     "hi": "प्यार भरे बोल",
      "hg": "Kind words"
     },
     "text": {
      "en": "A good friend uses kind words and listens. No hitting, pushing or bad names.",
-     "hi": "अच्छा दोस्त प्यार से बोलता है और बात सुनता है। न मारना, न धक्का देना, न बुरे नाम से बुलाना।",
      "hg": "Achha dost pyaar se bolta hai aur baat sunta hai. Na maarna, na dhakka dena, na bure naam se bulana."
     }
    },
@@ -25,12 +22,10 @@
     "icon": "repeat",
     "label": {
      "en": "Take turns",
-     "hi": "बारी-बारी से",
      "hg": "Baari-baari se"
     },
     "text": {
      "en": "First you, then me. Ask, 'Can I have a turn after you?'",
-     "hi": "पहले तुम, फिर मैं। पूछो, 'क्या तुम्हारे बाद मेरी बारी आ सकती है?'",
      "hg": "Pehle tum, phir main. Poocho, 'Kya tumhare baad meri baari aa sakti hai?'"
     }
    },
@@ -38,12 +33,10 @@
     "icon": "care",
     "label": {
      "en": "Say sorry",
-     "hi": "सॉरी बोलो",
      "hg": "Sorry bolo"
     },
     "text": {
      "en": "Say what you did: 'I am sorry I pushed you.' Then ask, 'Are you okay?'",
-     "hi": "बताओ तुमने क्या किया: 'सॉरी, मैंने तुम्हें धक्का दिया।' फिर पूछो, 'तुम ठीक हो?'",
      "hg": "Batao tumne kya kiya: 'Sorry, maine tumhe dhakka diya.' Phir poocho, 'Tum theek ho?'"
     }
    },
@@ -51,12 +44,10 @@
     "icon": "ask",
     "label": {
      "en": "Your space bubble",
-     "hi": "अपनी जगह का बुलबुला",
      "hg": "Space bubble"
     },
     "text": {
      "en": "Everyone has a space bubble. Ask before a hug, and stop if your friend says no.",
-     "hi": "हर किसी के चारों तरफ़ अपनी जगह का एक बुलबुला होता है। गले लगाने से पहले पूछो, और दोस्त मना करे तो रुक जाओ।",
      "hg": "Har kisi ke charon taraf ek space bubble hota hai. Hug se pehle poocho, aur dost mana kare toh ruk jao."
     }
    },
@@ -64,12 +55,10 @@
     "icon": "friends",
     "label": {
      "en": "Many friends is okay",
-     "hi": "कई दोस्त होना ठीक है",
      "hg": "Kai dost hona okay hai"
     },
     "text": {
      "en": "Your friend can play with others and still like you just as much.",
-     "hi": "तुम्हारा दोस्त दूसरों के साथ खेलकर भी तुम्हें उतना ही पसंद कर सकता है।",
      "hg": "Tumhara dost doosron ke saath khel kar bhi tumhe utna hi pasand kar sakta hai."
     }
    }
@@ -80,7 +69,6 @@
   "type": "steps",
   "title": {
    "en": "Saying no when the group pushes",
-   "hi": "जब ग्रुप दबाव डाले, तब 'ना' कैसे कहें",
    "hg": "Jab group pressure daale, tab 'no' kaise bolein"
   },
   "items": [
@@ -88,12 +76,10 @@
     "icon": "ask",
     "label": {
      "en": "Check with yourself",
-     "hi": "ख़ुद से पूछो",
      "hg": "Khud se poocho"
     },
     "text": {
      "en": "Ask: would I still want to do this if nobody was watching?",
-     "hi": "सोचो: अगर कोई देख नहीं रहा होता, तो क्या तब भी मेरा मन यह करने का होता?",
      "hg": "Socho: agar koi dekh nahi raha hota, toh kya tab bhi mera mann yeh karne ka hota?"
     }
    },
@@ -101,12 +87,10 @@
     "icon": "no",
     "label": {
      "en": "Say a short, firm no",
-     "hi": "छोटा और पक्का 'ना' कहो",
      "hg": "Chhota, firm 'no' bolo"
     },
     "text": {
      "en": "'No, I'm not doing that.' You do not owe anyone a long explanation.",
-     "hi": "'नहीं, मुझे यह नहीं करना।' किसी को लंबी सफ़ाई देना ज़रूरी नहीं।",
      "hg": "'Nahi, mujhe yeh nahi karna.' Kisi ko lambi explanation dena zaroori nahi."
     }
    },
@@ -114,12 +98,10 @@
     "icon": "idea",
     "label": {
      "en": "Offer another plan",
-     "hi": "कोई और प्लान सुझाओ",
      "hg": "Koi aur plan suggest karo"
     },
     "text": {
      "en": "Suggest something else, walk towards another group, or blame a rule at home.",
-     "hi": "कुछ और करने का सुझाव दो, किसी दूसरे ग्रुप की तरफ़ चले जाओ, या घर के किसी नियम का बहाना बना लो।",
      "hg": "Kuch aur karne ka idea do, kisi doosre group ki taraf chale jao, ya ghar ke kisi rule ka bahana bana lo."
     }
    },
@@ -127,12 +109,10 @@
     "icon": "friends",
     "label": {
      "en": "Real friends stay",
-     "hi": "सच्चे दोस्त साथ रहते हैं",
      "hg": "Real friends saath rehte hain"
     },
     "text": {
      "en": "Real friends may be annoyed for a while, but they stay. A calm no often earns respect.",
-     "hi": "सच्चे दोस्त थोड़ी देर नाराज़ हो सकते हैं, पर साथ नहीं छोड़ते। शांत 'ना' से अक्सर इज़्ज़त बढ़ती है।",
      "hg": "Real friends thodi der naraz ho sakte hain, par saath nahi chhodte. Calm 'no' se aksar respect badhti hai."
     }
    }
@@ -143,7 +123,6 @@
   "type": "grid",
   "title": {
    "en": "What a healthy relationship is made of",
-   "hi": "अच्छा रिश्ता किन चीज़ों से बनता है",
    "hg": "Healthy relationship kin cheezon se banta hai"
   },
   "items": [
@@ -151,12 +130,10 @@
     "icon": "star",
     "label": {
      "en": "Respect",
-     "hi": "सम्मान",
      "hg": "Respect"
     },
     "text": {
      "en": "Your opinions, body, time, studies and friendships are treated as important.",
-     "hi": "तुम्हारी राय, शरीर, समय, पढ़ाई और दोस्तियों को अहमियत दी जाती है।",
      "hg": "Tumhari opinions, body, time, padhai aur dostiyon ko importance di jaati hai."
     }
    },
@@ -164,12 +141,10 @@
     "icon": "handshake",
     "label": {
      "en": "Trust",
-     "hi": "भरोसा",
      "hg": "Trust"
     },
     "text": {
      "en": "You both keep your word, so nobody needs to check on the other.",
-     "hi": "तुम दोनों अपनी बात निभाते हो, इसलिए किसी को दूसरे पर नज़र रखने की ज़रूरत नहीं।",
      "hg": "Tum dono apni baat nibhate ho, isliye kisi ko doosre pe nazar rakhne ki zaroorat nahi."
     }
    },
@@ -177,12 +152,10 @@
     "icon": "talk",
     "label": {
      "en": "Honest communication",
-     "hi": "ईमानदार बातचीत",
      "hg": "Honest communication"
     },
     "text": {
      "en": "You can say what you feel and hear a different view without fear.",
-     "hi": "तुम बिना डरे अपनी भावनाएँ कह सकते हो और अलग राय सुन सकते हो।",
      "hg": "Tum bina dare apni feelings bol sakte ho aur alag opinion sun sakte ho."
     }
    },
@@ -190,12 +163,10 @@
     "icon": "balance",
     "label": {
      "en": "Equality",
-     "hi": "बराबरी",
      "hg": "Equality"
     },
     "text": {
      "en": "Decisions are shared and nobody is the boss.",
-     "hi": "फ़ैसले मिलकर होते हैं और कोई बॉस नहीं होता।",
      "hg": "Decisions milkar hote hain aur koi boss nahi hota."
     }
    },
@@ -203,12 +174,10 @@
     "icon": "shield",
     "label": {
      "en": "Boundaries",
-     "hi": "बाउंड्री",
      "hg": "Boundaries"
     },
     "text": {
      "en": "'I'm not comfortable with that' needs no justification. Pressure after a no is not love.",
-     "hi": "'मुझे यह ठीक नहीं लगता' कहने के लिए सफ़ाई की ज़रूरत नहीं। 'ना' के बाद दबाव डालना प्यार नहीं है।",
      "hg": "'Mujhe yeh comfortable nahi lagta' bolne ke liye justification ki zaroorat nahi. 'No' ke baad pressure daalna pyaar nahi hai."
     }
    },
@@ -216,12 +185,10 @@
     "icon": "lock",
     "label": {
      "en": "Phone privacy",
-     "hi": "फ़ोन की निजता",
      "hg": "Phone privacy"
     },
     "text": {
      "en": "Keep your own passwords. Nobody should demand your live location, chats or photos.",
-     "hi": "अपने पासवर्ड अपने पास रखो। किसी को तुमसे लाइव लोकेशन, चैट या फ़ोटो की माँग नहीं करनी चाहिए।",
      "hg": "Apne passwords apne paas rakho. Kisi ko tumse live location, chats ya photos demand nahi karne chahiye."
     }
    }
@@ -232,13 +199,11 @@
   "type": "compare",
   "title": {
    "en": "Care or control?",
-   "hi": "परवाह या कंट्रोल?",
    "hg": "Care ya control?"
   },
   "left": {
    "title": {
     "en": "Care",
-    "hi": "परवाह",
     "hg": "Care"
    },
    "tone": "good",
@@ -246,17 +211,14 @@
    "points": [
     {
      "en": "Respects your no and your need for space",
-     "hi": "तुम्हारी 'ना' और तुम्हारी स्पेस की ज़रूरत का सम्मान",
      "hg": "Tumhari 'no' aur tumhari space ki zaroorat ki respect"
     },
     {
      "en": "Your world slowly gets bigger",
-     "hi": "तुम्हारी दुनिया धीरे-धीरे बड़ी होती है",
      "hg": "Tumhari duniya dheere-dheere badi hoti hai"
     },
     {
      "en": "Takes responsibility when told about hurtful behaviour",
-     "hi": "बताने पर अपने चुभने वाले बर्ताव की ज़िम्मेदारी लेना",
      "hg": "Batane par apne hurtful behaviour ki zimmedari lena"
     }
    ]
@@ -264,7 +226,6 @@
   "right": {
    "title": {
     "en": "Control",
-    "hi": "कंट्रोल",
     "hg": "Control"
    },
    "tone": "bad",
@@ -272,22 +233,18 @@
    "points": [
     {
      "en": "Your world shrinks: fewer friends, fewer choices, less confidence",
-     "hi": "तुम्हारी दुनिया सिकुड़ती है: कम दोस्त, कम विकल्प, कम आत्मविश्वास",
      "hg": "Tumhari duniya sikudti hai: kam dost, kam choices, kam confidence"
     },
     {
      "en": "Checks your phone, picks your clothes, demands instant replies",
-     "hi": "फ़ोन चेक करना, कपड़े तय करना, तुरंत जवाब की माँग",
      "hg": "Phone check karna, kapde decide karna, turant reply ki demand"
     },
     {
      "en": "'That never happened', 'you're too sensitive', again and again",
-     "hi": "बार-बार 'ऐसा कभी हुआ ही नहीं', 'तुम ज़्यादा ही सेंसिटिव हो'",
      "hg": "Baar-baar 'aisa kabhi hua hi nahi', 'tum zyada hi sensitive ho'"
     },
     {
      "en": "Huge attention early, pulled back the moment you want space",
-     "hi": "शुरू में ढेर सारा ध्यान, और स्पेस माँगते ही प्यार वापस खींच लेना",
      "hg": "Shuru mein dher saara attention, aur space maangte hi pyaar wapas kheench lena"
     }
    ]
@@ -298,7 +255,6 @@
   "type": "steps",
   "title": {
    "en": "How to fight fair",
-   "hi": "झगड़ा सही तरीक़े से कैसे करें",
    "hg": "Fair fight kaise karein"
   },
   "items": [
@@ -306,12 +262,10 @@
     "icon": "target",
     "label": {
      "en": "One issue at a time",
-     "hi": "एक बार में एक मुद्दा",
      "hg": "Ek baar mein ek issue"
     },
     "text": {
      "en": "Stick to the problem at hand and do not drag in old mistakes.",
-     "hi": "सामने वाली समस्या पर टिके रहो और पुरानी ग़लतियाँ मत घसीटो।",
      "hg": "Saamne wali problem pe tike raho aur purani galtiyan mat ghaseeto."
     }
    },
@@ -319,12 +273,10 @@
     "icon": "talk",
     "label": {
      "en": "Describe, don't attack",
-     "hi": "बर्ताव बताओ, हमला नहीं",
      "hg": "Behaviour batao, attack nahi"
     },
     "text": {
      "en": "Say 'I felt ignored when plans changed', not 'you're selfish'.",
-     "hi": "कहो 'प्लान बदलने पर मुझे अनदेखा महसूस हुआ', न कि 'तुम मतलबी हो'।",
      "hg": "Bolo 'Plan badalne par mujhe ignored feel hua', na ki 'tum selfish ho'."
     }
    },
@@ -332,12 +284,10 @@
     "icon": "listen",
     "label": {
      "en": "Listen and repeat back",
-     "hi": "सुनो और दोहराओ",
      "hg": "Suno aur repeat karo"
     },
     "text": {
      "en": "Repeat what you heard so your partner knows they were understood.",
-     "hi": "जो सुना उसे दोहराओ, ताकि पार्टनर को लगे कि उसकी बात समझी गई।",
      "hg": "Jo suna use repeat karo, taaki partner ko lage ki uski baat samjhi gayi."
     }
    },
@@ -345,12 +295,10 @@
     "icon": "pause",
     "label": {
      "en": "Pause when voices rise",
-     "hi": "आवाज़ ऊँची हो तो रुको",
      "hg": "Awaaz oonchi ho toh ruko"
     },
     "text": {
      "en": "Take a break, with a promise to come back to it.",
-     "hi": "ब्रेक लो, इस वादे के साथ कि बात पर लौटोगे।",
      "hg": "Break lo, is promise ke saath ki baat par wapas aaoge."
     }
    },
@@ -358,12 +306,10 @@
     "icon": "handshake",
     "label": {
      "en": "Solve it together",
-     "hi": "मिलकर हल निकालो",
      "hg": "Milkar solution nikalo"
     },
     "text": {
      "en": "Aim for a solution you both can live with, not a winner.",
-     "hi": "ऐसा हल ढूँढो जिसके साथ दोनों रह सकें, जीत-हार नहीं।",
      "hg": "Aisa solution dhoondo jiske saath dono reh sakein, jeet-haar nahi."
     }
    }
@@ -374,13 +320,11 @@
   "type": "compare",
   "title": {
    "en": "Getting through a breakup",
-   "hi": "ब्रेकअप से कैसे उबरें",
    "hg": "Breakup se bahar kaise niklein"
   },
   "left": {
    "title": {
     "en": "What helps",
-    "hi": "क्या मदद करता है",
     "hg": "Kya help karta hai"
    },
    "tone": "good",
@@ -388,22 +332,18 @@
    "points": [
     {
      "en": "Telling one or two people you trust",
-     "hi": "एक-दो भरोसेमंद लोगों को बताना",
      "hg": "Ek-do trusted logon ko batana"
     },
     {
      "en": "Keeping meals, sleep and study going",
-     "hi": "खाना, नींद और पढ़ाई चालू रखना",
      "hg": "Khana, neend aur padhai chalu rakhna"
     },
     {
      "en": "Moving your body and a break from their social media",
-     "hi": "शरीर को हिलाना-डुलाना और उनके सोशल मीडिया से दूरी",
      "hg": "Body ko move karna aur unke social media se break"
     },
     {
      "en": "Sadness lasting over two weeks? Talk to a trusted adult or Tele-MANAS 14416",
-     "hi": "दो हफ़्ते से ज़्यादा उदासी? किसी भरोसेमंद बड़े से या टेली-मानस 14416 पर बात करो",
      "hg": "Do hafte se zyada udaasi? Kisi trusted adult se ya Tele-MANAS 14416 pe baat karo"
     }
    ]
@@ -411,7 +351,6 @@
   "right": {
    "title": {
     "en": "What makes it worse",
-    "hi": "क्या हालत बिगाड़ता है",
     "hg": "Kya haalat bigaadta hai"
    },
    "tone": "bad",
@@ -419,22 +358,18 @@
    "points": [
     {
      "en": "Checking their profile late at night",
-     "hi": "देर रात उनकी प्रोफ़ाइल देखते रहना",
      "hg": "Late night unki profile check karte rehna"
     },
     {
      "en": "Using alcohol or other substances to numb it",
-     "hi": "दर्द दबाने के लिए शराब या दूसरे नशे का सहारा लेना",
      "hg": "Dard dabane ke liye alcohol ya doosre nashe ka sahara lena"
     },
     {
      "en": "Rushing into something new",
-     "hi": "जल्दबाज़ी में किसी नए रिश्ते में कूद जाना",
      "hg": "Jaldbaazi mein kisi naye relationship mein kood jaana"
     },
     {
      "en": "Spreading their secrets, or threatening to leak chats or photos",
-     "hi": "उनके राज़ फैलाना, या चैट या फ़ोटो लीक करने की धमकी देना",
      "hg": "Unke secrets failana, ya chats ya photos leak karne ki dhamki dena"
     }
    ]
@@ -445,7 +380,6 @@
   "type": "steps",
   "title": {
    "en": "Meeting an app match safely",
-   "hi": "ऐप पर मिले व्यक्ति से सुरक्षित मुलाक़ात",
    "hg": "App match se safely milna"
   },
   "items": [
@@ -453,12 +387,10 @@
     "icon": "camera",
     "label": {
      "en": "Video call first",
-     "hi": "पहले वीडियो कॉल",
      "hg": "Pehle video call"
     },
     "text": {
      "en": "Check that the person matches their photos before you meet.",
-     "hi": "मिलने से पहले पक्का कीजिए कि व्यक्ति अपनी फ़ोटो जैसा ही है।",
      "hg": "Milne se pehle confirm karo ki insaan apni photos jaisa hi hai."
     }
    },
@@ -466,12 +398,10 @@
     "icon": "people",
     "label": {
      "en": "Meet in a busy public place",
-     "hi": "भीड़ वाली सार्वजनिक जगह पर मिलिए",
      "hg": "Busy public jagah pe milo"
     },
     "text": {
      "en": "Arrange your own transport both ways, and do not share your home address early.",
-     "hi": "आने-जाने का इंतज़ाम ख़ुद कीजिए, और शुरुआत में अपने घर का पता मत बताइए।",
      "hg": "Aane-jaane ka transport khud arrange karo, aur shuru mein ghar ka address mat batao."
     }
    },
@@ -479,12 +409,10 @@
     "icon": "friends",
     "label": {
      "en": "Tell a friend",
-     "hi": "किसी दोस्त को बताइए",
      "hg": "Kisi friend ko batao"
     },
     "text": {
      "en": "Share who you are meeting, where, and your live location.",
-     "hi": "बताइए कि किससे और कहाँ मिल रहे हैं, और अपनी लाइव लोकेशन शेयर कीजिए।",
      "hg": "Batao kisse aur kahan mil rahe ho, aur apni live location share karo."
     }
    },
@@ -492,12 +420,10 @@
     "icon": "eye",
     "label": {
      "en": "Keep your drink in sight",
-     "hi": "अपना ड्रिंक नज़र में रखिए",
      "hg": "Apni drink nazar mein rakho"
     },
     "text": {
      "en": "Get your own drink, never leave it unattended, and carry your own money.",
-     "hi": "अपना ड्रिंक ख़ुद लीजिए, उसे कभी अकेला छोड़कर मत जाइए, और अपने पैसे साथ रखिए।",
      "hg": "Apni drink khud lo, use kabhi unattended mat chhodo, aur apne paise saath rakho."
     }
    },
@@ -505,12 +431,10 @@
     "icon": "run",
     "label": {
      "en": "Leave if it feels off",
-     "hi": "कुछ गड़बड़ लगे तो निकल जाइए",
      "hg": "Kuch off lage toh nikal jao"
     },
     "text": {
      "en": "You owe nobody an explanation. These steps are for people of every gender.",
-     "hi": "किसी को सफ़ाई देना ज़रूरी नहीं। ये क़दम हर जेंडर के लोगों के लिए हैं।",
      "hg": "Kisi ko explanation dena zaroori nahi. Yeh steps har gender ke logon ke liye hain."
     }
    }

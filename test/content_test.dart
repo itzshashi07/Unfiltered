@@ -17,14 +17,9 @@ void expectL(L l, String where, {bool allowEmpty = false}) {
   if (allowEmpty && l.isEmpty) return;
   expect(l.isComplete, isTrue, reason: '$where is missing a translation');
   expect(
-    _deva.hasMatch(l.hi),
-    isTrue,
-    reason: '$where: Hindi has no Devanagari',
-  );
-  expect(
-    _deva.hasMatch(l.hg),
+    _deva.hasMatch(l.hg) || _deva.hasMatch(l.en),
     isFalse,
-    reason: '$where: Hinglish contains Devanagari',
+    reason: '$where: contains Devanagari (Hindi was removed)',
   );
 }
 

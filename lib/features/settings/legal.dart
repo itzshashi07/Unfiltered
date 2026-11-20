@@ -10,7 +10,7 @@ class LegalScreen extends StatelessWidget {
   final String doc;
   const LegalScreen(this.doc, {super.key});
 
-  static const sections = {'privacy': 6, 'disclaimer': 5, 'credits': 5};
+  static const sections = {'privacy': 7, 'disclaimer': 5, 'credits': 5};
 
   @override
   Widget build(BuildContext context) {

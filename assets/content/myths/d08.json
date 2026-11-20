@@ -15,18 +15,15 @@
   ],
   "claim": {
    "en": "The mother decides whether the baby is a boy or a girl.",
-   "hi": "बच्चा लड़का होगा या लड़की, यह माँ तय करती है।",
    "hg": "Baby ladka hoga ya ladki, yeh maa decide karti hai."
   },
   "verdict": "myth",
   "fact": {
    "en": "A baby's sex is usually set at fertilisation by the sperm. Every egg carries an X chromosome; a sperm carries either X or Y. X plus X typically develops as female, X plus Y as male. Which sperm reaches the egg is chance, so nobody controls it, and no food, ritual or timing changes it. Blaming a woman for having daughters has no basis in biology. Prenatal sex determination is illegal in India.",
-   "hi": "बच्चे का लिंग आम तौर पर निषेचन के समय शुक्राणु से तय होता है। हर अंडे में X क्रोमोसोम होता है; शुक्राणु में X या Y में से कोई एक। X और X मिलें तो आम तौर पर लड़की, X और Y मिलें तो लड़का विकसित होता है। कौन-सा शुक्राणु अंडे तक पहुँचेगा, यह संयोग है, इसलिए इस पर किसी का बस नहीं, और कोई खाना, रस्म या समय इसे नहीं बदलता। बेटियाँ होने पर महिला को दोष देने का जीव-विज्ञान में कोई आधार नहीं है। भारत में जन्म से पहले लिंग की जाँच ग़ैर-क़ानूनी है।",
    "hg": "Baby ka sex usually fertilisation ke time sperm se decide hota hai. Har egg mein X chromosome hota hai; sperm mein X ya Y mein se koi ek. X aur X milein toh usually ladki, X aur Y milein toh ladka develop hota hai. Kaun-sa sperm egg tak pahunchega, yeh chance hai, isliye is par kisi ka control nahi, aur koi khana, rasam ya timing isse nahi badalti. Betiyan hone par woman ko blame karne ka biology mein koi basis nahi hai. India mein birth se pehle sex determination illegal hai."
   },
   "why": {
    "en": "For generations, women have been held responsible for everything about childbearing, and son preference made the birth of a daughter something to blame on someone. School biology often never reaches the home.",
-   "hi": "पीढ़ियों से बच्चे पैदा करने से जुड़ी हर बात की ज़िम्मेदारी महिलाओं पर डाली जाती रही है, और बेटे की चाह ने बेटी के जन्म को ऐसी चीज़ बना दिया जिसका दोष किसी पर डालना था। स्कूल का जीव-विज्ञान अक्सर घर तक पहुँचता ही नहीं।",
    "hg": "Generations se bachche paida karne se judi har baat ki zimmedari women par daali jaati rahi hai, aur bete ki chaah ne beti ke birth ko aisi cheez bana diya jiska blame kisi par daalna tha. School ki biology aksar ghar tak pahunchti hi nahi."
   },
   "refs": [
@@ -49,18 +46,15 @@
   ],
   "claim": {
    "en": "Pregnancy weeks are counted from before the baby was even conceived.",
-   "hi": "गर्भावस्था के हफ़्ते उस समय से गिने जाते हैं जब गर्भ ठहरा भी नहीं था।",
    "hg": "Pregnancy ke hafte us time se gine jaate hain jab conception hua bhi nahi tha."
   },
   "verdict": "fact",
   "fact": {
    "en": "True. Doctors count pregnancy from the first day of the last menstrual period, because that date is usually known while the exact day of fertilisation is not. Fertilisation happens about two weeks later. So at 'four weeks pregnant', the embryo has existed for only about two weeks, and a full-term pregnancy of 40 weeks is about 38 weeks of actual development.",
-   "hi": "सच है। डॉक्टर गर्भावस्था को आख़िरी पीरियड के पहले दिन से गिनते हैं, क्योंकि वह तारीख़ आम तौर पर पता होती है जबकि निषेचन का सही दिन पता नहीं होता। निषेचन इसके लगभग दो हफ़्ते बाद होता है। यानी 'चार हफ़्ते की गर्भावस्था' में भ्रूण सिर्फ़ लगभग दो हफ़्ते का होता है, और 40 हफ़्ते की पूरी गर्भावस्था असल में लगभग 38 हफ़्ते का विकास है।",
    "hg": "Sach hai. Doctors pregnancy ko last period ke pehle din se count karte hain, kyunki woh date usually pata hoti hai jabki fertilisation ka exact din pata nahi hota. Fertilisation iske lagbhag do hafte baad hota hai. Yaani 'chaar hafte pregnant' mein embryo sirf lagbhag do hafte ka hota hai, aur 40 hafte ki full-term pregnancy actually lagbhag 38 hafte ka development hai."
   },
   "why": {
    "en": "It sounds illogical, so people assume the count begins on the day of sex or conception. The difference matters when reading scan reports or legal week limits.",
-   "hi": "यह बात अटपटी लगती है, इसलिए लोग मान लेते हैं कि गिनती सेक्स या गर्भ ठहरने के दिन से शुरू होती है। स्कैन रिपोर्ट या क़ानून में दी गई हफ़्तों की सीमा पढ़ते समय यह फ़र्क़ मायने रखता है।",
    "hg": "Yeh baat illogical lagti hai, isliye log maan lete hain ki counting sex ya conception ke din se shuru hoti hai. Scan reports ya law mein di gayi weeks ki limit padhte waqt yeh fark matter karta hai."
   },
   "refs": [
@@ -83,18 +77,15 @@
   ],
   "claim": {
    "en": "A negative home pregnancy test means you are definitely not pregnant.",
-   "hi": "घरेलू प्रेग्नेंसी टेस्ट निगेटिव आया, मतलब आप पक्का प्रेग्नेंट नहीं हैं।",
    "hg": "Home pregnancy test negative aaya, matlab tum pakka pregnant nahi ho."
   },
   "verdict": "myth",
   "fact": {
    "en": "A negative result is reliable only if the test was done at the right time and correctly. Tested before the missed period, the hormone hCG may be too low to detect. Diluted urine, an expired kit or reading the result too late can also mislead. If your period still does not come, test again after a few days or see a doctor.",
-   "hi": "निगेटिव नतीजा तभी भरोसेमंद है जब टेस्ट सही समय पर और सही तरीक़े से किया गया हो। पीरियड छूटने से पहले टेस्ट करने पर hCG हार्मोन इतना कम हो सकता है कि पकड़ में न आए। पतला पेशाब, एक्सपायर हो चुकी किट या नतीजा देर से पढ़ना भी ग़लतफ़हमी पैदा कर सकता है। अगर पीरियड फिर भी न आए, तो कुछ दिन बाद दोबारा टेस्ट करें या डॉक्टर से मिलें।",
    "hg": "Negative result tabhi reliable hai jab test sahi time par aur sahi tareeke se kiya gaya ho. Missed period se pehle test karne par hCG hormone itna kam ho sakta hai ki detect na ho. Diluted urine, expired kit ya result late padhna bhi mislead kar sakta hai. Agar period phir bhi na aaye, toh kuch din baad dobara test karo ya doctor se milo."
   },
   "why": {
    "en": "A test kit looks like a yes-or-no machine, and a negative result is the answer most worried people are hoping for, so it is tempting to stop there.",
-   "hi": "टेस्ट किट हाँ-या-ना बताने वाली मशीन जैसी लगती है, और परेशान लोग ज़्यादातर निगेटिव नतीजे की ही उम्मीद कर रहे होते हैं, इसलिए वहीं रुक जाने का मन करता है।",
    "hg": "Test kit haan-ya-na batane wali machine jaisi lagti hai, aur pareshan log zyadatar negative result ki hi umeed kar rahe hote hain, isliye wahin ruk jaane ka mann karta hai."
   },
   "refs": [
@@ -117,18 +108,15 @@
   ],
   "claim": {
    "en": "A miscarriage happens because the woman was careless.",
-   "hi": "मिसकैरेज इसलिए होता है क्योंकि महिला ने लापरवाही की।",
    "hg": "Miscarriage isliye hota hai kyunki woman ne laparwahi ki."
   },
   "verdict": "myth",
   "fact": {
    "en": "Most miscarriages are caused by chance chromosome problems in the embryo, not by anything the woman did. Working, lifting, travelling, exercise, stress, arguments, spicy food and sex do not cause them. Blame adds cruelty to grief. What helps is medical follow-up, rest as she needs it, and people who listen.",
-   "hi": "ज़्यादातर मिसकैरेज भ्रूण के क्रोमोसोम में संयोग से हुई गड़बड़ी से होते हैं, महिला के किसी काम से नहीं। काम करना, कुछ उठाना, सफ़र, कसरत, तनाव, झगड़े, मसालेदार खाना और सेक्स इनकी वजह नहीं हैं। दोष देना शोक में क्रूरता जोड़ देता है। जो मदद करता है वह है डॉक्टर से फ़ॉलो-अप, जितना उसे चाहिए उतना आराम, और ऐसे लोग जो उसकी बात सुनें।",
    "hg": "Zyadatar miscarriages embryo ke chromosomes mein chance se hui problem se hote hain, woman ke kisi kaam se nahi. Kaam karna, kuch uthana, travel, exercise, stress, jhagde, spicy khana aur sex inki wajah nahi hain. Blame karna grief mein cruelty jod deta hai. Jo help karta hai woh hai medical follow-up, jitna usse chahiye utna rest, aur aise log jo uski baat sunein."
   },
   "why": {
    "en": "When something painful happens, families search for a reason they can control, and the pregnant woman's food, movements and moods are the easiest things to point at.",
-   "hi": "जब कुछ दर्दनाक होता है, तो परिवार ऐसी वजह ढूँढते हैं जो उनके बस में हो, और गर्भवती महिला का खाना, चलना-फिरना और मूड सबसे आसान निशाना बन जाते हैं।",
    "hg": "Jab kuch painful hota hai, toh families aisi wajah dhundhti hain jo unke control mein ho, aur pregnant woman ka khana, movements aur mood sabse easy target ban jaate hain."
   },
   "refs": [
@@ -151,18 +139,15 @@
   ],
   "claim": {
    "en": "If a couple cannot have a baby, the problem is in the woman.",
-   "hi": "अगर किसी जोड़े को बच्चा नहीं हो रहा, तो कमी महिला में है।",
    "hg": "Agar kisi couple ko baby nahi ho raha, toh problem woman mein hai."
   },
   "verdict": "myth",
   "fact": {
    "en": "Infertility affects all genders. The cause can be in the male partner, the female partner, both, or cannot be identified. Low sperm count or poor sperm movement are common male factors. This is why both partners should be evaluated from the start; testing only the woman wastes time and money and causes needless suffering.",
-   "hi": "इनफ़र्टिलिटी हर जेंडर को हो सकती है। वजह पुरुष पार्टनर में हो सकती है, महिला पार्टनर में, दोनों में, या हो सकता है पता ही न चले। शुक्राणुओं की कम संख्या या कम गतिशीलता पुरुषों से जुड़ी आम वजहें हैं। इसीलिए शुरू से ही दोनों पार्टनर की जाँच होनी चाहिए; सिर्फ़ महिला की जाँच कराने से समय और पैसा बर्बाद होता है और बेवजह तकलीफ़ होती है।",
    "hg": "Infertility har gender ko ho sakti hai. Wajah male partner mein ho sakti hai, female partner mein, dono mein, ya ho sakta hai pata hi na chale. Low sperm count ya poor sperm movement common male factors hain. Isiliye shuru se hi dono partners ka evaluation hona chahiye; sirf woman ka test karane se time aur paisa waste hota hai aur bewajah takleef hoti hai."
   },
   "why": {
    "en": "Pregnancy happens in a woman's body, so its absence is assumed to be hers too. Male infertility is also wrongly confused with a lack of masculinity, so many men avoid testing.",
-   "hi": "गर्भ महिला के शरीर में ठहरता है, इसलिए उसके न ठहरने को भी उसी की कमी मान लिया जाता है। पुरुषों की इनफ़र्टिलिटी को ग़लती से मर्दानगी की कमी से भी जोड़ दिया जाता है, इसलिए बहुत से पुरुष जाँच से कतराते हैं।",
    "hg": "Pregnancy woman ki body mein hoti hai, isliye uske na hone ko bhi usi ki kami maan liya jaata hai. Male infertility ko galti se mardangi ki kami se bhi jod diya jaata hai, isliye bahut se men testing se katrate hain."
   },
   "refs": [
@@ -185,18 +170,15 @@
   ],
   "claim": {
    "en": "Abortion is illegal in India unless you are married.",
-   "hi": "भारत में गर्भपात तभी क़ानूनी है जब आप शादीशुदा हों।",
    "hg": "India mein abortion tabhi legal hai jab tum married ho."
   },
   "verdict": "myth",
   "fact": {
    "en": "India's Medical Termination of Pregnancy Act applies to married and unmarried women alike. Abortion is legal up to 20 weeks on one registered doctor's opinion, and up to 24 weeks for specified categories on two doctors' opinions, when provided by a qualified doctor at an approved facility. A person under 18 needs a guardian's written consent, and doctors must report under POCSO. Laws can change; this is not legal advice.",
-   "hi": "भारत का मेडिकल टर्मिनेशन ऑफ़ प्रेग्नेंसी क़ानून शादीशुदा और अविवाहित महिलाओं पर बराबर लागू होता है। 20 हफ़्ते तक एक पंजीकृत डॉक्टर की राय पर, और कुछ तय श्रेणियों के लिए 24 हफ़्ते तक दो डॉक्टरों की राय पर गर्भपात क़ानूनी है, बशर्ते योग्य डॉक्टर मान्यता-प्राप्त केंद्र पर करे। 18 साल से कम उम्र के व्यक्ति के लिए अभिभावक की लिखित सहमति चाहिए, और डॉक्टरों को पॉक्सो के तहत सूचना देनी होती है। क़ानून बदल सकते हैं; यह क़ानूनी सलाह नहीं है।",
    "hg": "India ka Medical Termination of Pregnancy Act married aur unmarried women par barabar apply hota hai. 20 hafte tak ek registered doctor ki opinion par, aur kuch specified categories ke liye 24 hafte tak do doctors ki opinion par abortion legal hai, bas qualified doctor approved facility par kare. 18 se kam umar ke person ke liye guardian ki written consent chahiye, aur doctors ko POCSO ke under report karna hota hai. Laws badal sakte hain; yeh legal advice nahi hai."
   },
   "why": {
    "en": "Sex outside marriage is heavily stigmatised, so people assume the law matches the stigma. The rules are also rarely explained clearly, which keeps the belief alive.",
-   "hi": "शादी के बाहर सेक्स को लेकर बहुत बदनामी जुड़ी है, इसलिए लोग मान लेते हैं कि क़ानून भी वैसा ही होगा। नियम साफ़-साफ़ समझाए भी कम ही जाते हैं, जिससे यह धारणा बनी रहती है।",
    "hg": "Shaadi ke bahar sex ko lekar bahut stigma hai, isliye log maan lete hain ki law bhi waisa hi hoga. Rules clearly samjhaye bhi kam hi jaate hain, jisse yeh belief bani rehti hai."
   },
   "refs": [
@@ -219,18 +201,15 @@
   ],
   "claim": {
    "en": "You cannot get pregnant while you are breastfeeding.",
-   "hi": "स्तनपान कराते समय गर्भ नहीं ठहर सकता।",
    "hg": "Breastfeeding ke dauraan pregnancy nahi ho sakti."
   },
   "verdict": "partly",
   "fact": {
    "en": "Breastfeeding can delay ovulation, but it is dependable as contraception only when three conditions are all met: the baby is under six months old, is fed only breast milk day and night, and periods have not returned. If any one changes, pregnancy is possible, and ovulation can happen before the first period. Discuss a method at the postnatal check-up.",
-   "hi": "स्तनपान ओव्यूलेशन को टाल सकता है, लेकिन गर्भनिरोध के तौर पर इस पर तभी भरोसा किया जा सकता है जब तीनों शर्तें एक साथ पूरी हों: बच्चा छह महीने से छोटा हो, उसे दिन-रात सिर्फ़ माँ का दूध दिया जा रहा हो, और पीरियड्स वापस न आए हों। इनमें से एक भी बदले तो गर्भ ठहर सकता है, और ओव्यूलेशन पहले पीरियड से पहले ही हो सकता है। प्रसव के बाद की जाँच में गर्भनिरोध के तरीक़े पर बात करें।",
    "hg": "Breastfeeding ovulation ko delay kar sakti hai, lekin contraception ke taur par is par tabhi depend kar sakte ho jab teeno conditions ek saath poori hon: baby chhe mahine se chhota ho, usse din-raat sirf breast milk diya ja raha ho, aur periods wapas na aaye hon. Inme se ek bhi badle toh pregnancy possible hai, aur ovulation pehle period se pehle hi ho sakta hai. Postnatal check-up mein contraception method par baat karo."
   },
   "why": {
    "en": "Many women notice that periods stay away while they breastfeed, and elders pass this on as a rule. The conditions that make it work are rarely mentioned.",
-   "hi": "बहुत सी महिलाएँ देखती हैं कि स्तनपान के दौरान पीरियड्स नहीं आते, और बड़े-बुज़ुर्ग इसे नियम की तरह आगे बताते हैं। जिन शर्तों पर यह काम करता है, उनका ज़िक्र कम ही होता है।",
    "hg": "Bahut si women notice karti hain ki breastfeeding ke dauraan periods nahi aate, aur bade-buzurg isse rule ki tarah aage batate hain. Jin conditions par yeh kaam karta hai, unka zikr kam hi hota hai."
   },
   "refs": [
@@ -253,18 +232,15 @@
   ],
   "claim": {
    "en": "Abortion pills from the medical store are safe to take on your own; you do not need a doctor.",
-   "hi": "मेडिकल स्टोर से मिली गर्भपात की गोलियाँ ख़ुद से लेना सुरक्षित है; डॉक्टर की ज़रूरत नहीं।",
    "hg": "Medical store se mili abortion pills khud se lena safe hai; doctor ki zaroorat nahi."
   },
   "verdict": "myth",
   "fact": {
    "en": "Abortion medicines are safe when a qualified doctor has confirmed how far along the pregnancy is, ruled out an ectopic pregnancy and arranged follow-up. Taken without that, the same pills can lead to very heavy bleeding, an incomplete abortion, infection or a missed ectopic pregnancy, and any of these can kill. In India they are legally prescription-only. Safe abortion care is available from doctors at government hospitals and approved facilities.",
-   "hi": "गर्भपात की दवाएँ तब सुरक्षित होती हैं जब किसी योग्य डॉक्टर ने यह पक्का कर लिया हो कि गर्भ कितने हफ़्ते का है, एक्टोपिक प्रेग्नेंसी की संभावना ख़ारिज कर दी हो और आगे की जाँच का इंतज़ाम किया हो। इसके बिना ली जाएँ तो वही गोलियाँ बहुत भारी ब्लीडिंग, अधूरे गर्भपात, संक्रमण या पकड़ में न आई एक्टोपिक प्रेग्नेंसी की वजह बन सकती हैं, और इनमें से कोई भी जान ले सकता है। भारत में क़ानूनन ये सिर्फ़ डॉक्टर के पर्चे पर मिलनी चाहिए। सुरक्षित गर्भपात सेवा सरकारी अस्पतालों और मान्यता-प्राप्त केंद्रों में डॉक्टरों से मिलती है।",
    "hg": "Abortion ki medicines tab safe hoti hain jab kisi qualified doctor ne confirm kar liya ho ki pregnancy kitne hafte ki hai, ectopic pregnancy rule out kar di ho aur follow-up arrange kiya ho. Iske bina li jaayein toh wahi pills bahut heavy bleeding, incomplete abortion, infection ya miss hui ectopic pregnancy ki wajah ban sakti hain, aur inme se koi bhi jaan le sakta hai. India mein legally yeh sirf prescription pe milni chahiye. Safe abortion care government hospitals aur approved facilities mein doctors se milti hai."
   },
   "why": {
    "en": "Pills feel private, quick and cheap, and many people fear being judged or recognised at a hospital. Some do not know that abortion is legal in India for unmarried women too, so secrecy looks like the only option.",
-   "hi": "गोलियाँ निजी, जल्दी और सस्ता रास्ता लगती हैं, और बहुत से लोगों को डर होता है कि अस्पताल में उन्हें पहचान लिया जाएगा या उनके बारे में राय बनाई जाएगी। कुछ को पता ही नहीं होता कि भारत में गर्भपात अविवाहित महिलाओं के लिए भी क़ानूनी है, इसलिए छिपाकर करना ही अकेला रास्ता दिखता है।",
    "hg": "Pills private, quick aur sasta raasta lagti hain, aur bahut se logon ko darr hota hai ki hospital mein unhe pehchaan liya jayega ya judge kiya jayega. Kuch ko pata hi nahi hota ki India mein abortion unmarried women ke liye bhi legal hai, isliye chhupakar karna hi akela option dikhta hai."
   },
   "refs": [
@@ -288,18 +264,15 @@
   ],
   "claim": {
    "en": "In India it is a crime for a doctor to tell you whether your unborn baby is a boy or a girl.",
-   "hi": "भारत में डॉक्टर का यह बताना अपराध है कि गर्भ में पल रहा बच्चा लड़का है या लड़की।",
    "hg": "India mein doctor ka yeh batana crime hai ki pet mein pal raha baccha ladka hai ya ladki."
   },
   "verdict": "fact",
   "fact": {
    "en": "True. The PC-PNDT Act, 1994 bans using ultrasound or any other test to find out or reveal a foetus's sex, and advertising such services. Scan centres must be registered and display a notice that they do not disclose it, and doctors who break the law can lose their registration and be jailed. The law exists because sex-selective abortion left India with far fewer girls than boys. Ultrasound for the baby's health remains legal. Laws change; check details with a lawyer.",
-   "hi": "सही। PC-PNDT क़ानून, 1994 अल्ट्रासाउंड या किसी भी दूसरी जाँच से भ्रूण का लिंग पता करने या बताने पर, और ऐसी सेवाओं के विज्ञापन पर रोक लगाता है। स्कैन सेंटरों का रजिस्टर होना और यह नोटिस लगाना ज़रूरी है कि यहाँ लिंग नहीं बताया जाता, और क़ानून तोड़ने वाले डॉक्टरों का रजिस्ट्रेशन रद्द हो सकता है और उन्हें जेल हो सकती है। यह क़ानून इसलिए बना क्योंकि लिंग के आधार पर गर्भपात की वजह से भारत में लड़कों के मुक़ाबले लड़कियाँ बहुत कम रह गईं। बच्चे की सेहत के लिए अल्ट्रासाउंड क़ानूनी है। क़ानून बदलते रहते हैं; बारीकियाँ वकील से जाँच लो।",
    "hg": "Sahi. PC-PNDT Act, 1994 ultrasound ya kisi bhi doosre test se foetus ka sex pata karne ya batane ko, aur aisi services ke advertisement ko ban karta hai. Scan centres ka registered hona aur yeh notice lagana zaroori hai ki yahan sex disclose nahi kiya jata, aur law todne wale doctors ka registration cancel ho sakta hai aur unhe jail ho sakti hai. Yeh law isliye bana kyunki sex-selective abortion ki wajah se India mein ladkon ke comparison mein ladkiyan bahut kam reh gayi. Bacche ki health ke liye ultrasound legal hai. Laws badalte rehte hain; details lawyer se check kar lo."
   },
   "why": {
    "en": "In many countries parents are routinely told the baby's sex at a scan, and films and social media show 'gender reveal' parties. So people are surprised that India treats the same information as a serious offence.",
-   "hi": "बहुत से देशों में स्कैन के समय माता-पिता को बच्चे का लिंग आम तौर पर बता दिया जाता है, और फ़िल्मों व सोशल मीडिया पर 'जेंडर रिवील' पार्टियाँ दिखती हैं। इसलिए लोगों को हैरानी होती है कि भारत में यही जानकारी देना गंभीर अपराध है।",
    "hg": "Bahut si countries mein scan ke time parents ko bacche ka sex routinely bata diya jata hai, aur films aur social media pe 'gender reveal' parties dikhti hain. Isliye logon ko surprise hota hai ki India mein yahi information dena serious offence hai."
   },
   "refs": [

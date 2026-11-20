@@ -4,7 +4,7 @@
 #   2. tools/release_apk.sh
 # Builds the signed release APK (key: ~/.config/unfiltered-signing/key.properties), creates the
 # GitHub release vX.Y.Z on itzshashi07/Unfiltered with UNFILTERED.apk, then updates
-# website/src/data/app-release.json and pushes the website (Vercel deploys it).
+# website/src/data/app-release.json, pushes the website and deploys it to Cloudflare.
 # The website button links to releases/latest/download/UNFILTERED.apk, so it always serves the newest APK.
 set -euo pipefail
 cd "$(dirname "$0")/.."
@@ -58,4 +58,6 @@ PY
 git -C "$WEB" add src/data/app-release.json
 git -C "$WEB" commit -m "Android app $VERSION on the download page"
 git -C "$WEB" push origin main
+# the website is hosted on Cloudflare: rebuild and deploy so the download page shows the new version
+(cd "$WEB" && node tools/publish.mjs --deploy)
 echo "Released $TAG: https://github.com/$REPO/releases/tag/$TAG"

@@ -25,12 +25,12 @@ def strings(key):
         raise SystemExit(f"missing string {key}")
     vals = re.findall(r"'((?:[^'\\]|\\.)*)'", m.group(1))
     vals = [v.replace("\\'", "'").replace("\\$", "$").replace("\\\\", "\\") for v in vals]
-    assert len(vals) == 3, key
+    assert len(vals) == 2, key
     return vals
 
 
 counts = dict(re.findall(r"'(\w+)': (\d+)", re.search(r"sections = \{(.*?)\}", open(LEGAL).read()).group(1)))
-LANGS = [("en", "English", "en"), ("hi", "हिन्दी", "hi"), ("hg", "Hinglish", "en")]
+LANGS = [("en", "English", "en"), ("hg", "Hinglish", "en")]
 
 
 def doc(name, li):
@@ -57,7 +57,7 @@ page = f"""<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>UNFILTERED – Privacy policy</title>
-<meta name="description" content="Privacy policy and medical/legal disclaimer for the UNFILTERED Android app by Shashi Digital Labs.">
+<meta name="description" content="Privacy policy and medical/legal disclaimer for the UNFILTERED Android app by Shashi Kumar, India. The full policy is at https://theunfiltered.in/en/privacy/.">
 <style>
 :root {{ --ink:#1d1b2e; --soft:#5b5872; --bg:#fbf8ff; --card:#ffffff; --accent:#5b3fd6; --line:#e6e1f5; }}
 @media (prefers-color-scheme: dark) {{ :root {{ --ink:#f1eefc; --soft:#b9b4cf; --bg:#14121f; --card:#1e1b2e; --accent:#a996ff; --line:#2e2a44; }} }}
@@ -78,7 +78,7 @@ a {{ color:var(--accent); }} footer {{ color:var(--soft); font-size:14px; }}
 <main>
 <header>
 <h1>UNFILTERED</h1>
-<p>Privacy policy and medical/legal disclaimer · Android app by Shashi Digital Labs, India</p>
+<p>Privacy policy and medical/legal disclaimer · Android app by Shashi Kumar, India</p>
 </header>
 <nav aria-label="Language">{''.join(f'<a href="#{c}">{html.escape(l)}</a>' for c, l, _ in LANGS)}</nav>
 {chr(10).join(sections)}

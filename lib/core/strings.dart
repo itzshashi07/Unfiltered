@@ -396,7 +396,10 @@ class Strings {
     'mag.numbers': ['The numbers', 'Numbers jo sach batate hain'],
     'mag.timeline': ['Case files: a timeline', 'Case files: timeline'],
     'mag.allSources': ['All sources', 'Saare sources'],
-    'mag.allSources.sub': ['{n} sources behind the magazine and the Data Desk: NCRB, NFHS, court judgments, laws, WHO, UNICEF and studies.', '{n} sources jinpar magazine aur Data Desk tike hain: NCRB, NFHS, court judgments, laws, WHO, UNICEF aur studies.'],
+    'mag.allSources.sub': [
+      '{n} sources behind the magazine and the Data Desk: NCRB, NFHS, court judgments, laws, WHO, UNICEF and studies.',
+      '{n} sources jinpar magazine aur Data Desk tike hain: NCRB, NFHS, court judgments, laws, WHO, UNICEF aur studies.',
+    ],
     'mag.allSources.search': ['Search sources', 'Sources search karo'],
     'mag.featured': ['Must read', 'Zaroor padho'],
     'mag.sections': ['Sections', 'Sections'],
@@ -464,8 +467,8 @@ class Strings {
       'Posters swipe karo. Zoom karne ke liye pinch karo. Har number official data se hai, aur har poster pe helplines chhapi hain.',
     ],
     'posters.note': [
-      'Posters never name or show survivors. Full set: unfiltered-india.vercel.app',
-      'Posters kabhi kisi survivor ka naam ya chehra nahi dikhate. Poora set: unfiltered-india.vercel.app',
+      'Posters never name or show survivors. Full set: theunfiltered.in',
+      'Posters kabhi kisi survivor ka naam ya chehra nahi dikhate. Poora set: theunfiltered.in',
     ],
     'lab.communication.title': [
       'Communication Practice',
@@ -1326,6 +1329,11 @@ class Strings {
     ],
     'settings.about': ['About', 'About'],
     'settings.privacy': ['Privacy policy', 'Privacy policy'],
+    'settings.contact': ['Contact & feedback', 'Contact aur feedback'],
+    'settings.website': [
+      'Website: theunfiltered.in',
+      'Website: theunfiltered.in',
+    ],
     'settings.disclaimer': [
       'Medical and legal disclaimer',
       'Medical aur legal disclaimer',
@@ -1341,8 +1349,8 @@ class Strings {
 
     // ── Legal documents
     'legal.draft': [
-      'Last updated 15 November 2026. This text has not been reviewed by a lawyer.',
-      'Last update 15 November 2026. Is text ko kisi lawyer ne review nahi kiya hai.',
+      'Last updated 20 November 2026. This text has not been reviewed by a lawyer.',
+      'Last update 20 November 2026. Is text ko kisi lawyer ne review nahi kiya hai.',
     ],
     'legal.privacy.title': ['Privacy policy', 'Privacy policy'],
     'legal.privacy.1.h': ['What we collect', 'Hum kya collect karte hain'],
@@ -1552,8 +1560,8 @@ class Strings {
     ],
     'legal.privacy.7.h': ['Publisher and contact', 'Publisher aur contact'],
     'legal.privacy.7.b': [
-      'UNFILTERED is published by Shashi Digital Labs, India. For privacy questions, write to officialshashi2023@gmail.com. Because the app keeps everything on your phone, the publisher cannot see, copy or delete your data; you control it in Settings. If this policy changes, the new version will appear in the app and on the public policy page with a new date.',
-      'UNFILTERED ko Shashi Digital Labs, India publish karta hai. Privacy se jude sawaalon ke liye officialshashi2023@gmail.com par likho. App sab kuch tumhare phone par hi rakhta hai, isliye publisher tumhara data na dekh sakta hai, na copy kar sakta hai, na delete kar sakta hai; uska control Settings mein tumhare paas hai. Agar yeh policy badalti hai, toh naya version nayi date ke saath app mein aur public policy page par dikhega.',
+      'UNFILTERED is published by Shashi Kumar, India. For privacy questions, feedback or to report a problem, write to support@theunfiltered.in. Because the app keeps everything on your phone, the publisher cannot see, copy or delete your data; you control it in Settings. The full policy for the app and website is at theunfiltered.in/en/privacy. If this policy changes, the new version will appear in the app and on that page with a new date.',
+      'UNFILTERED ko Shashi Kumar, India publish karte hain. Privacy se jude sawaal, feedback ya koi problem ho toh support@theunfiltered.in par likho. App sab kuch tumhare phone par hi rakhta hai, isliye publisher tumhara data na dekh sakta hai, na copy, na delete; uska control Settings mein tumhare paas hai. App aur website ki poori policy theunfiltered.in/hinglish/privacy par hai. Policy badli toh naya version app aur us page par nayi date ke saath aayega.',
     ],
     'explore.lessons.one': ['1 lesson', '1 lesson'],
     'domain.lessons.one': ['1 lesson', '1 lesson'],

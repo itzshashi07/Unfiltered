@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:url_launcher/url_launcher.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
@@ -11,7 +12,7 @@ import '../filters/topic_filter_bar.dart';
 import '../onboarding/onboarding.dart';
 import 'educator.dart';
 
-const kAppVersion = '1.0.0';
+const kAppVersion = '1.2.1';
 
 class SettingsScreen extends ConsumerWidget {
   const SettingsScreen({super.key});
@@ -173,6 +174,23 @@ class SettingsScreen extends ConsumerWidget {
             'settings.disclaimer',
             Icons.medical_information_rounded,
             () => context.push('/legal/disclaimer'),
+          ),
+          link(
+            'settings.contact',
+            Icons.mail_rounded,
+            () => launchUrl(
+              Uri.parse(
+                'mailto:support@theunfiltered.in?subject=UNFILTERED%20app%20feedback',
+              ),
+            ),
+          ),
+          link(
+            'settings.website',
+            Icons.language_rounded,
+            () => launchUrl(
+              Uri.parse('https://theunfiltered.in/'),
+              mode: LaunchMode.externalApplication,
+            ),
           ),
           link(
             'settings.credits',

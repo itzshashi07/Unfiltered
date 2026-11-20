@@ -114,6 +114,14 @@ final routerProvider = Provider<GoRouter>((ref) {
         path: '/magazine/story/:slug',
         builder: (_, s) => StoryScreen(s.pathParameters['slug']!),
       ),
+      GoRoute(
+        path: '/magazine/timeline',
+        builder: (_, _) => const MagTimelineScreen(),
+      ),
+      GoRoute(
+        path: '/magazine/sources',
+        builder: (_, _) => const MagSourcesScreen(),
+      ),
       GoRoute(path: '/datadesk', builder: (_, _) => const DataDeskScreen()),
       GoRoute(path: '/quiz', builder: (_, _) => const QuizHubScreen()),
       GoRoute(

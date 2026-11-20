@@ -102,6 +102,28 @@ void main() {
       expect(e.length, mag.stories.length);
     });
 
+    test(
+      'every story motif has an icon, and the home numbers and ticker ship',
+      () {
+        for (final s in mag.stories) {
+          if (s.motif.isEmpty) continue;
+          expect(
+            File(Magazine.motifAsset(s.motif)).existsSync(),
+            isTrue,
+            reason: '${s.slug}: ${s.motif}',
+          );
+        }
+        expect(mag.stats, hasLength(8));
+        expect(mag.ticker, hasLength(11));
+        final timeline = mag.stories.where(
+          (s) =>
+              s.year != null &&
+              (s.format == 'case-file' || s.format == 'timeline'),
+        );
+        expect(timeline.length, greaterThan(10));
+      },
+    );
+
     test('search finds stories in both languages', () {
       expect(mag.search('POCSO', Track.e), isNotEmpty);
       expect(mag.search('dowry', Track.e), isNotEmpty);
@@ -192,4 +214,24 @@ void main() {
       expect(find.text(story.title.hg), findsOneWidget);
     },
   );
+
+  testWidgets('magazine home: ticker, numbers, case timeline and all sources', (
+    tester,
+  ) async {
+    final app = await pumpApp(tester, settings: onboarded(track: Track.e));
+    app.push('/magazine');
+    await tester.pumpAndSettle();
+    expect(find.byKey(const Key('mag-ticker')), findsOneWidget);
+    await scrollTo(tester, find.text(en('mag.numbers')));
+    await scrollTo(tester, find.byKey(const Key('mag-timeline')));
+    app.push('/magazine/timeline');
+    await tester.pumpAndSettle();
+    expect(find.byKey(const Key('timeline-list')), findsOneWidget);
+    app.push('/magazine/sources');
+    await tester.pumpAndSettle();
+    expect(find.byKey(const Key('sources-list')), findsOneWidget);
+    await tester.enterText(find.byKey(const Key('sources-search')), 'NCRB');
+    await tester.pumpAndSettle();
+    expect(find.textContaining('NCRB'), findsWidgets);
+  });
 }

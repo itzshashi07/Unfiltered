@@ -239,6 +239,7 @@ class Magazine {
   }
 
   static String photoAsset(String id) => 'assets/images/photos/$id.webp';
+  static String motifAsset(String name) => 'assets/images/motifs/$name.png';
 
   static Future<Magazine> load(ContentReader read) async {
     Future<dynamic> j(String p) async {

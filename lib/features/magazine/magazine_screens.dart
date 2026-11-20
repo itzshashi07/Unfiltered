@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
@@ -90,6 +92,10 @@ class _MagazineScreenState extends ConsumerState<MagazineScreen> {
         final results = _query.trim().isEmpty ? null : m.search(_query, track);
         return CustomScrollView(
           slivers: [
+            if (m.ticker.isNotEmpty)
+              SliverToBoxAdapter(
+                child: _Ticker(items: [for (final t in m.ticker) t.of(lang)]),
+              ),
             SliverToBoxAdapter(
               child: _Masthead(count: all.length, mag: m),
             ),
@@ -144,6 +150,24 @@ class _MagazineScreenState extends ConsumerState<MagazineScreen> {
                   child: _FeaturedCarousel(stories: featured, mag: m),
                 ),
               ],
+              if (m.stats.isNotEmpty) ...[
+                SliverToBoxAdapter(
+                  child: SectionTitle(context.t('mag.numbers')),
+                ),
+                SliverToBoxAdapter(child: _StatGrid(stats: m.stats)),
+              ],
+              if (_timelineStories(m, track).length > 2) ...[
+                SliverToBoxAdapter(
+                  child: SectionTitle(
+                    context.t('mag.timeline'),
+                    action: context.t('common.seeAll'),
+                    onAction: () => context.push('/magazine/timeline'),
+                  ),
+                ),
+                SliverToBoxAdapter(
+                  child: _TimelineStrip(stories: _timelineStories(m, track)),
+                ),
+              ],
               SliverToBoxAdapter(
                 child: SectionTitle(context.t('mag.sections')),
               ),
@@ -182,6 +206,17 @@ class _MagazineScreenState extends ConsumerState<MagazineScreen> {
                         ),
                       ),
                     ],
+                  ),
+                ),
+              ),
+              SliverToBoxAdapter(
+                child: Padding(
+                  padding: const EdgeInsets.fromLTRB(20, 10, 20, 0),
+                  child: SoftButton(
+                    key: const Key('mag-sources'),
+                    label: context.t('mag.allSources'),
+                    icon: Icons.library_books_rounded,
+                    onPressed: () => context.push('/magazine/sources'),
                   ),
                 ),
               ),
@@ -438,7 +473,9 @@ class _CoverBackground extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final fallback = DecoratedBox(
+    final hasPhoto =
+        story.photo.isNotEmpty && mag.photos.containsKey(story.photo);
+    final gradient = DecoratedBox(
       decoration: BoxDecoration(
         gradient: LinearGradient(
           begin: Alignment.topLeft,
@@ -447,20 +484,268 @@ class _CoverBackground extends StatelessWidget {
         ),
       ),
     );
-    if (story.photo.isEmpty || !mag.photos.containsKey(story.photo)) {
-      return fallback;
+    final background = hasPhoto
+        ? ColorFiltered(
+            // a dark duotone keeps photos sombre and the text readable
+            colorFilter: ColorFilter.mode(
+              Color.lerp(accent, _ink, 0.55)!.withValues(alpha: 0.55),
+              BlendMode.multiply,
+            ),
+            child: Image.asset(
+              Magazine.photoAsset(story.photo),
+              fit: BoxFit.cover,
+              excludeFromSemantics: true,
+              errorBuilder: (_, _, _) => gradient,
+            ),
+          )
+        : gradient;
+    if (story.motif.isEmpty) return background;
+    // The story's motif, large and faint, as on the website's covers.
+    return LayoutBuilder(
+      builder: (context, box) {
+        final size = box.biggest.shortestSide * (hasPhoto ? 0.62 : 0.8);
+        return Stack(
+          fit: StackFit.expand,
+          children: [
+            background,
+            Positioned(
+              right: -size * 0.12,
+              top: box.maxHeight * 0.06,
+              width: size,
+              height: size,
+              child: Opacity(
+                opacity: hasPhoto ? 0.28 : 0.42,
+                child: Image.asset(
+                  Magazine.motifAsset(story.motif),
+                  color: Color.lerp(accent, Colors.white, 0.45),
+                  excludeFromSemantics: true,
+                  errorBuilder: (_, _, _) => const SizedBox.shrink(),
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+}
+
+/// The scrolling "FACT" strip from the website's home page.
+class _Ticker extends StatefulWidget {
+  final List<String> items;
+  const _Ticker({required this.items});
+  @override
+  State<_Ticker> createState() => _TickerState();
+}
+
+class _TickerState extends State<_Ticker> {
+  final _scroll = ScrollController();
+  Timer? _timer;
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    _timer?.cancel();
+    _timer = null;
+    // Moves only when motion is allowed; otherwise it is a swipeable strip.
+    if (!context.reducedMotion) {
+      _timer = Timer.periodic(const Duration(milliseconds: 40), (_) {
+        if (!_scroll.hasClients) return;
+        final max = _scroll.position.maxScrollExtent;
+        final next = _scroll.offset + 1.2;
+        _scroll.jumpTo(next >= max ? 0 : next);
+      });
     }
-    return ColorFiltered(
-      // a dark duotone keeps photos sombre and the text readable
-      colorFilter: ColorFilter.mode(
-        Color.lerp(accent, _ink, 0.55)!.withValues(alpha: 0.55),
-        BlendMode.multiply,
+  }
+
+  @override
+  void dispose() {
+    _timer?.cancel();
+    _scroll.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final items = [...widget.items, ...widget.items];
+    return Container(
+      height: 44,
+      color: _ink,
+      child: Row(
+        children: [
+          Container(
+            color: _blood,
+            padding: const EdgeInsets.symmetric(horizontal: 12),
+            alignment: Alignment.center,
+            child: Text(
+              'FACT',
+              style: context.tx.labelSmall?.copyWith(
+                color: Colors.white,
+                letterSpacing: 1.6,
+              ),
+            ),
+          ),
+          Expanded(
+            child: ListView.builder(
+              key: const Key('mag-ticker'),
+              controller: _scroll,
+              scrollDirection: Axis.horizontal,
+              itemCount: items.length,
+              itemBuilder: (_, i) => Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 14),
+                child: Row(
+                  children: [
+                    Container(
+                      width: 7,
+                      height: 7,
+                      decoration: const BoxDecoration(
+                        color: _blood,
+                        shape: BoxShape.circle,
+                      ),
+                    ),
+                    const SizedBox(width: 8),
+                    Text(
+                      items[i],
+                      style: context.tx.labelMedium?.copyWith(
+                        color: Colors.white,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+          ),
+        ],
       ),
-      child: Image.asset(
-        Magazine.photoAsset(story.photo),
-        fit: BoxFit.cover,
-        excludeFromSemantics: true,
-        errorBuilder: (_, _, _) => fallback,
+    );
+  }
+}
+
+/// The eight headline numbers from the website's home page.
+class _StatGrid extends StatelessWidget {
+  final List<MagStat> stats;
+  const _StatGrid({required this.stats});
+  @override
+  Widget build(BuildContext context) {
+    final lang = context.lang;
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 20),
+      child: LayoutBuilder(
+        builder: (context, box) {
+          final w = (box.maxWidth - 10) / 2;
+          return Wrap(
+            spacing: 10,
+            runSpacing: 10,
+            children: [
+              for (final s in stats)
+                Container(
+                  width: w,
+                  padding: const EdgeInsets.all(14),
+                  decoration: BoxDecoration(
+                    color: _ink,
+                    borderRadius: BorderRadius.circular(18),
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      FittedBox(
+                        fit: BoxFit.scaleDown,
+                        alignment: Alignment.centerLeft,
+                        child: Text(
+                          s.value,
+                          style: context.tx.headlineMedium?.copyWith(
+                            color: const Color(0xFFFF5A67),
+                          ),
+                        ),
+                      ),
+                      const SizedBox(height: 4),
+                      Text(
+                        s.label.of(lang),
+                        style: context.tx.bodySmall?.copyWith(
+                          color: Colors.white70,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+            ],
+          );
+        },
+      ),
+    );
+  }
+}
+
+/// Case files and timelines in year order: the website's case timeline.
+List<MagStory> _timelineStories(Magazine m, Track t) {
+  final list = [
+    for (final s in m.visible(t))
+      if (s.year != null && (s.format == 'case-file' || s.format == 'timeline'))
+        s,
+  ];
+  list.sort((a, b) => a.year!.compareTo(b.year!));
+  return list;
+}
+
+class _TimelineStrip extends StatelessWidget {
+  final List<MagStory> stories;
+  const _TimelineStrip({required this.stories});
+  @override
+  Widget build(BuildContext context) {
+    final lang = context.lang;
+    final c = context.c;
+    return SizedBox(
+      height: 190 * textScaleOf(context).clamp(1.0, 1.4),
+      child: ListView.separated(
+        key: const Key('mag-timeline'),
+        padding: const EdgeInsets.symmetric(horizontal: 20),
+        scrollDirection: Axis.horizontal,
+        itemCount: stories.length,
+        separatorBuilder: (_, _) => const SizedBox(width: 10),
+        itemBuilder: (_, i) {
+          final s = stories[i];
+          return SizedBox(
+            width: 200,
+            child: AppCard(
+              onTap: () => context.push('/magazine/story/${s.slug}'),
+              semanticLabel: '${s.year}: ${s.title.of(lang)}',
+              padding: const EdgeInsets.all(14),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Row(
+                    children: [
+                      Container(
+                        width: 10,
+                        height: 10,
+                        decoration: const BoxDecoration(
+                          color: _blood,
+                          shape: BoxShape.circle,
+                        ),
+                      ),
+                      const SizedBox(width: 8),
+                      Text(
+                        '${s.year}',
+                        style: context.tx.headlineSmall?.copyWith(
+                          color: _blood,
+                        ),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 8),
+                  Expanded(
+                    child: Text(
+                      s.title.of(lang),
+                      maxLines: 5,
+                      overflow: TextOverflow.ellipsis,
+                      style: context.tx.titleSmall?.copyWith(color: c.ink),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          );
+        },
       ),
     );
   }
@@ -1294,6 +1579,174 @@ class _FactTile extends StatelessWidget {
           ],
         ],
       ),
+    );
+  }
+}
+
+// ───────────────────────────── Case timeline (full)
+
+class MagTimelineScreen extends ConsumerWidget {
+  const MagTimelineScreen({super.key});
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    if (!_allowed(context)) return const NotAvailableScreen();
+    final lang = context.lang;
+    final c = context.c;
+    return Scaffold(
+      appBar: AppBar(title: Text(context.t('mag.timeline'))),
+      body: _async(context, ref.watch(magazineProvider), (m) {
+        final items = _timelineStories(m, context.track);
+        return ListView.builder(
+          key: const Key('timeline-list'),
+          padding: const EdgeInsets.fromLTRB(20, 8, 20, 32),
+          itemCount: items.length,
+          itemBuilder: (_, i) {
+            final s = items[i];
+            final newYear = i == 0 || items[i - 1].year != s.year;
+            return IntrinsicHeight(
+              child: Row(
+                crossAxisAlignment: CrossAxisAlignment.stretch,
+                children: [
+                  SizedBox(
+                    width: 58,
+                    child: Padding(
+                      padding: const EdgeInsets.only(top: 14),
+                      child: Text(
+                        newYear ? '${s.year}' : '',
+                        style: context.tx.titleMedium?.copyWith(color: _blood),
+                      ),
+                    ),
+                  ),
+                  Column(
+                    children: [
+                      Container(
+                        width: 2,
+                        height: 18,
+                        color: i == 0 ? Colors.transparent : c.outline,
+                      ),
+                      Container(
+                        width: 12,
+                        height: 12,
+                        decoration: BoxDecoration(
+                          color: newYear ? _blood : c.surface,
+                          shape: BoxShape.circle,
+                          border: Border.all(color: _blood, width: 2),
+                        ),
+                      ),
+                      Expanded(
+                        child: Container(
+                          width: 2,
+                          color: i == items.length - 1
+                              ? Colors.transparent
+                              : c.outline,
+                        ),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(width: 12),
+                  Expanded(
+                    child: Padding(
+                      padding: const EdgeInsets.only(bottom: 12),
+                      child: AppCard(
+                        onTap: () => context.push('/magazine/story/${s.slug}'),
+                        semanticLabel: '${s.year}: ${s.title.of(lang)}',
+                        padding: const EdgeInsets.all(12),
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Text(
+                              s.title.of(lang),
+                              style: context.tx.titleSmall,
+                            ),
+                            const SizedBox(height: 4),
+                            Text(
+                              s.dek.of(lang),
+                              maxLines: 2,
+                              overflow: TextOverflow.ellipsis,
+                              style: context.tx.bodySmall,
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+            );
+          },
+        );
+      }),
+    );
+  }
+}
+
+// ───────────────────────────── All sources
+
+class MagSourcesScreen extends ConsumerStatefulWidget {
+  const MagSourcesScreen({super.key});
+  @override
+  ConsumerState<MagSourcesScreen> createState() => _MagSourcesScreenState();
+}
+
+class _MagSourcesScreenState extends ConsumerState<MagSourcesScreen> {
+  String _q = '';
+  @override
+  Widget build(BuildContext context) {
+    if (!_allowed(context)) return const NotAvailableScreen();
+    return Scaffold(
+      appBar: AppBar(title: Text(context.t('mag.allSources'))),
+      body: _async(context, ref.watch(magazineProvider), (m) {
+        final all = m.sources.entries.toList()
+          ..sort(
+            (a, b) => a.value.title.toLowerCase().compareTo(
+              b.value.title.toLowerCase(),
+            ),
+          );
+        final q = _q.trim().toLowerCase();
+        final shown = q.isEmpty
+            ? all
+            : [
+                for (final e in all)
+                  if ('${e.value.title} ${e.value.publisher} ${e.value.year}'
+                      .toLowerCase()
+                      .contains(q))
+                    e,
+              ];
+        return ListView.builder(
+          key: const Key('sources-list'),
+          padding: const EdgeInsets.fromLTRB(20, 4, 20, 32),
+          itemCount: shown.length + 1,
+          itemBuilder: (_, i) {
+            if (i == 0) {
+              return Padding(
+                padding: const EdgeInsets.only(bottom: 10),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      context.t('mag.allSources.sub', {'n': all.length}),
+                      style: context.tx.bodyMedium?.copyWith(
+                        color: context.c.inkSoft,
+                      ),
+                    ),
+                    const SizedBox(height: 10),
+                    TextField(
+                      key: const Key('sources-search'),
+                      onChanged: (v) => setState(() => _q = v),
+                      decoration: InputDecoration(
+                        prefixIcon: const Icon(Icons.search_rounded),
+                        hintText: context.t('mag.allSources.search'),
+                      ),
+                    ),
+                  ],
+                ),
+              );
+            }
+            final e = shown[i - 1];
+            return _SourceRow(n: i, id: e.key, source: e.value);
+          },
+        );
+      }),
     );
   }
 }

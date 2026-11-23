@@ -7,6 +7,7 @@ import '../../core/l10n.dart';
 import '../../core/theme.dart';
 import '../../data/store.dart';
 import '../../ui/widgets.dart';
+import '../quiz/knowledge_test.dart';
 import 'cards.dart';
 
 class LabsTab extends ConsumerWidget {
@@ -68,6 +69,12 @@ class LabsTab extends ConsumerWidget {
               context.t('labs.test'),
               style: context.tx.headlineSmall,
             ),
+          ),
+        ),
+        const SliverToBoxAdapter(
+          child: Padding(
+            padding: EdgeInsets.fromLTRB(20, 12, 20, 0),
+            child: KnowledgeTestCard(),
           ),
         ),
         SliverToBoxAdapter(

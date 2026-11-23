@@ -376,8 +376,8 @@ class Strings {
     ],
     'lab.magazine.title': ['UNFILTERED Magazine', 'UNFILTERED Magazine'],
     'lab.magazine.sub': [
-      '510 fact-checked stories: data, cases, law, health.',
-      '510 fact-checked stories: data, cases, law, health.',
+      '540+ fact-checked stories: data, cases, law, health, 2025–26 news.',
+      '540+ fact-checked stories: data, cases, law, health, 2025–26 news.',
     ],
     'lab.data_desk.title': ['Data Desk', 'Data Desk'],
     'lab.data_desk.sub': [
@@ -924,6 +924,95 @@ class Strings {
       'Har question apna answer explain karta hai. Galat answers sabse zyada sikhate hain.',
     ],
     'quizhub.byTopic': ['By topic', 'Topic-wise'],
+    // ── Test Your Knowledge
+    'kt.title': ['Test your knowledge', 'Test your knowledge'],
+    'kt.kicker': [
+      'Free · no login · share your score',
+      'Free · no login · score share karo',
+    ],
+    'kt.dek': [
+      '{n}+ everyday questions on bodies, periods, consent, relationships, safety, sexual health and the law. Answer, learn why, then challenge your friends.',
+      '{n}+ rozmarra ke sawaal: body, periods, consent, relationships, safety, sexual health aur law. Jawab do, wajah samjho, phir doston ko challenge karo.',
+    ],
+    'kt.cta.title': ['How unfiltered are you?', 'Tum kitne unfiltered ho?'],
+    'kt.cta.dek': [
+      '{n}+ everyday questions. Share your score with friends.',
+      '{n}+ rozmarra ke sawaal. Apna score doston ke saath share karo.',
+    ],
+    'kt.daily': ['Daily challenge', 'Daily challenge'],
+    'kt.daily.no': ['Daily challenge #{n}', 'Daily challenge #{n}'],
+    'kt.daily.dek': [
+      '10 new questions every day, the same for everyone in your age group. Come back tomorrow for the next set.',
+      'Har din 10 naye sawaal, tumhare age group mein sabke liye same. Kal phir aao agle set ke liye.',
+    ],
+    'kt.doneToday': [
+      'You played today: {s}/{n}. A new set unlocks at midnight.',
+      'Aaj khel liya: {s}/{n}. Naya set raat 12 baje khulega.',
+    ],
+    'kt.dayStreak': ['{n}-day streak', '{n} din ki streak'],
+    'kt.mega': ['Mega test', 'Mega test'],
+    'kt.mega.dek': [
+      '25 questions from every topic. The real test of how unfiltered you are.',
+      'Har topic se 25 sawaal. Asli test ki tum kitne unfiltered ho.',
+    ],
+    'kt.best': ['Your best: {s}/{n}', 'Tumhara best: {s}/{n}'],
+    'kt.byTopic': ['Pick a topic', 'Topic chuno'],
+    'kt.private': [
+      'No account and nothing is sent anywhere. Scores stay on this phone and are removed by "Delete all my data".',
+      'Na account, na kuch kahin bheja jaata hai. Scores isi phone pe rehte hain aur "Delete all my data" se mit jaate hain.',
+    ],
+    'kt.mixed': ['All topics', 'Saare topics'],
+    'kt.length': ['How many questions?', 'Kitne sawaal?'],
+    'kt.start': ['Start the test', 'Test shuru karo'],
+    'kt.newSet': ['New set of questions', 'Naya set'],
+    'kt.makePoster': ['Make my score poster', 'Mera score poster banao'],
+    'kt.noneForAge': [
+      'This topic is for an older age group',
+      'Yeh topic badi age ke liye hai',
+    ],
+    'kt.noneForAge.body': [
+      'Pick another topic, or try the daily challenge.',
+      'Doosra topic chuno, ya daily challenge try karo.',
+    ],
+    'kt.rank.4': ['Unfiltered Pro', 'Unfiltered Pro'],
+    'kt.rank.3': ['Myth Buster', 'Myth Buster'],
+    'kt.rank.2': ['Getting There', 'Sahi Raaste Pe'],
+    'kt.rank.1': ['Curious Learner', 'Curious Learner'],
+    'kt.share.title': ['Share your score', 'Apna score share karo'],
+    'kt.share.dek': [
+      'Add your name and age to your poster, then share it to challenge friends. Both are optional.',
+      'Poster pe apna naam aur age daalo, phir share karke doston ko challenge karo. Dono optional hain.',
+    ],
+    'kt.share.name': ['Your name', 'Tumhara naam'],
+    'kt.share.age': ['Age', 'Age'],
+    'kt.share.private': [
+      'The poster is made on this phone. Your name and age are not sent to us.',
+      'Poster isi phone pe banta hai. Tumhara naam aur age humein nahi bheje jaate.',
+    ],
+    'kt.share.kids': [
+      'Under 18? Think twice before posting your full name and age publicly. A first name is enough.',
+      '18 se kam ho? Pura naam aur age public post karne se pehle soch lo. Sirf first name kaafi hai.',
+    ],
+    'kt.share.btn': ['Share poster', 'Poster share karo'],
+    'kt.share.copy': ['Copy challenge link', 'Challenge link copy karo'],
+    'kt.share.copied': ['Link copied', 'Link copy ho gaya'],
+    'kt.share.hint': [
+      'Share opens WhatsApp, Instagram and your other apps. Friends who open the link can take the same test on theunfiltered.in.',
+      'Share se WhatsApp, Instagram aur baaki apps khulte hain. Link kholne wale dost theunfiltered.in pe wahi test de sakte hain.',
+    ],
+    'kt.share.text': [
+      'I scored {s}/{n} ({p}%) on the UNFILTERED {topic} test. Real talk, real science, zero shame. Can you beat me? Free, no login:',
+      'Maine UNFILTERED {topic} test mein {s}/{n} ({p}%) score kiya. Real talk, real science, zero shame. Mujhe beat kar sakte ho? Free, no login:',
+    ],
+    'kt.poster.you': ['I scored', 'Mera score'],
+    'kt.poster.age': ['age {a}', 'age {a}'],
+    'kt.poster.scored': ['scored', 'ka score'],
+    'kt.poster.beat': ['Can you beat me?', 'Mujhe beat karoge?'],
+    'kt.poster.cta': ['Take the free test', 'Free test do'],
+    'kt.poster.facts': [
+      'No login · {n}+ questions · English & Hinglish',
+      'No login · {n}+ sawaal · English & Hinglish',
+    ],
     'quizhub.count': ['{n} questions', '{n} questions'],
 
     // ── Me & library

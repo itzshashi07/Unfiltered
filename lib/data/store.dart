@@ -6,6 +6,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import '../core/l10n.dart';
 import 'content.dart';
+import 'knowledge.dart';
 import 'models.dart';
 
 /// Bump when the persisted shape changes; see [AppStore.migrate].
@@ -520,4 +521,5 @@ Future<void> deleteAllLocalData(WidgetRef ref) async {
   await ref.read(storeProvider).deleteAll();
   ref.read(settingsProvider.notifier).reset();
   ref.read(progressProvider.notifier).reset();
+  ref.read(kScoresProvider.notifier).reset();
 }

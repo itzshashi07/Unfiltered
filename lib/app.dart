@@ -22,6 +22,7 @@ import 'features/library/library.dart';
 import 'features/magazine/magazine_screens.dart';
 import 'features/onboarding/onboarding.dart';
 import 'features/onboarding/splash.dart';
+import 'features/quiz/knowledge_test.dart';
 import 'features/quiz/quiz_screens.dart';
 import 'features/safety/safety_center.dart';
 import 'features/settings/legal.dart';
@@ -130,6 +131,17 @@ final routerProvider = Provider<GoRouter>((ref) {
           kind: s.pathParameters['kind']!,
           id: s.pathParameters['id']!,
         ),
+      ),
+      GoRoute(path: '/test', builder: (_, _) => const KnowledgeHubScreen()),
+      GoRoute(
+        path: '/test/poster',
+        builder: (_, s) => s.extra is KResult
+            ? KnowledgePosterScreen(result: s.extra! as KResult)
+            : const KnowledgeHubScreen(),
+      ),
+      GoRoute(
+        path: '/test/:mode',
+        builder: (_, s) => KnowledgeTestScreen(mode: s.pathParameters['mode']!),
       ),
       GoRoute(path: '/glossary', builder: (_, _) => const GlossaryScreen()),
       GoRoute(

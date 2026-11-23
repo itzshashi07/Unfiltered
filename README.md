@@ -17,6 +17,7 @@ for Indian learners, in Hinglish, Hindi and English, with five age tracks (5–8
 | App | Flutter 3.44 / Dart 3.12, Android only, Material 3 with a custom design system |
 | Curriculum | 18 domains · 98 lessons · 216 FAQs · 131 myth cards · 304 quiz questions · 26 branching scenarios · 36 glossary sets, all trilingual (`docs/COVERAGE.md`) |
 | Labs | Body Lab, Puberty Lab, Period Lab, Myth Buster, Consent Simulator, Relationship Radar, Protection Lab, Digital Safety Lab, STI Challenge, Support Circle, Communication Practice, quizzes, Final Challenge |
+| Test Your Knowledge | 1,227 everyday questions in 12 topics (exported from the website's bank by `tools/export_web_content.py`): daily challenge, mega test, topic tests, and a score poster with name and age shared through the Android share sheet. Scores stay on the device |
 | Other screens | Onboarding, Home, Explore, Ask Unfiltered (offline search), Safety Center, Teacher Mode, Parent Guide, References Center, Milestones, Bookmarks, Private notes, Settings |
 | Privacy | No account, no network permission, no analytics, no ads. Everything is stored on the device and can be exported or deleted |
 

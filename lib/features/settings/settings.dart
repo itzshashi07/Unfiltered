@@ -12,7 +12,7 @@ import '../filters/topic_filter_bar.dart';
 import '../onboarding/onboarding.dart';
 import 'educator.dart';
 
-const kAppVersion = '1.2.1';
+const kAppVersion = '1.3.0';
 
 class SettingsScreen extends ConsumerWidget {
   const SettingsScreen({super.key});

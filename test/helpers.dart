@@ -9,6 +9,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:unfiltered/app.dart';
 import 'package:unfiltered/core/l10n.dart';
 import 'package:unfiltered/data/content.dart';
+import 'package:unfiltered/data/knowledge.dart';
 import 'package:unfiltered/data/magazine.dart';
 import 'package:unfiltered/data/store.dart';
 
@@ -37,6 +38,14 @@ void _loadMagazineFiles() {
 }
 
 Future<String?> readMagazineFile(String p) async => magazineFiles[p];
+
+/// The Test Your Knowledge bank, read once up front for the same reason.
+final String? _knowledgeBank =
+    File('assets/content/knowledge/bank.json').existsSync()
+    ? File('assets/content/knowledge/bank.json').readAsStringSync()
+    : null;
+Future<String?> readKnowledgeFile(String p) async =>
+    p == 'knowledge/bank.json' ? _knowledgeBank : null;
 
 /// Registers the real fonts so layout in widget tests matches the device.
 Future<void> loadFonts() async {
@@ -102,6 +111,7 @@ Future<TestApp> pumpApp(
       storeProvider.overrideWithValue(store),
       contentProvider.overrideWithValue(content),
       magazineReaderProvider.overrideWithValue(readMagazineFile),
+      knowledgeReaderProvider.overrideWithValue(readKnowledgeFile),
     ],
   );
   addTearDown(container.dispose);

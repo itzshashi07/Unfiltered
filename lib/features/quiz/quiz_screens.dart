@@ -11,6 +11,7 @@ import '../../data/models.dart';
 import '../../data/store.dart';
 import '../../ui/widgets.dart';
 import '../filters/topic_filter_bar.dart';
+import 'knowledge_test.dart';
 import 'quiz_runner.dart';
 
 /// Picks the questions for a quiz. `kind` is `domain`, `lesson` or `final`.
@@ -77,6 +78,8 @@ class QuizHubScreen extends ConsumerWidget {
             ),
           ],
           const SizedBox(height: 16),
+          const KnowledgeTestCard(),
+          const SizedBox(height: 12),
           AppCard(
             key: const Key('quiz-final'),
             gradient: const LinearGradient(

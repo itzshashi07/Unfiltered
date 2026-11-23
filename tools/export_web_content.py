@@ -226,6 +226,25 @@ def main():
             subprocess.run(["cwebp", "-quiet", "-q", "62", "-resize", "900", "0", "-metadata", "none", src, "-o", dst],
                            check=True)
 
+    # Test Your Knowledge: the website's question bank (src/data/knowledge/<topic>.json), one file in the app
+    kdir = os.path.join(WEB, "src", "data", "knowledge")
+    kout = os.path.join(APP, "assets", "content", "knowledge")
+    bank = []
+    if os.path.isdir(kdir):
+        for f in sorted(glob.glob(os.path.join(kdir, "*.json"))):
+            if not re.fullmatch(r"[a-z]+(-\d+)?\.json", os.path.basename(f)):
+                continue  # drafts and scratch files
+            for q in json.load(open(f, encoding="utf-8")):
+                bank.append({"id": q["id"], "cat": q["cat"], "tracks": q["tracks"], "level": q["level"],
+                             "q": l2(q["q"]), "options": [l2(o) for o in q["options"]], "answer": q["answer"],
+                             "explain": l2(q["explain"])})
+        os.makedirs(kout, exist_ok=True)
+        with open(os.path.join(kout, "bank.json"), "w", encoding="utf-8") as fh:
+            json.dump(bank, fh, ensure_ascii=False, separators=(",", ":"))
+        if DEVA.search(json.dumps(bank, ensure_ascii=False)):
+            sys.exit("Devanagari found in the knowledge bank")
+    print(f"knowledge questions {len(bank)}")
+
     # nothing in Hindi ships with the app
     # (photo credits keep each photographer's name as published: the licence requires it)
     for p in glob.glob(os.path.join(OUT, "**", "*.json"), recursive=True):
